@@ -1,0 +1,6 @@
+64c5ff961b1fc504653f7711032eb7b0f8c3742d4c32dd844f8e4665f10da201 *jaeger-1.62.0-linux-ppc64le/example-hotrod
+3f431b3156209aa9b3d6dca66901a56c98bdda1cfcc3a8e69bc74f196d7ea7de *jaeger-1.62.0-linux-ppc64le/jaeger-agent
+03348a5a0e50cb1cb20a901c25f34219620cafec6d9d041ca1b08bf5026e14f9 *jaeger-1.62.0-linux-ppc64le/jaeger-all-in-one
+94b10cc0fd6d8ee8a9274e8a22a62f9cf8fc75454bf4bdcc74deff6cf0349184 *jaeger-1.62.0-linux-ppc64le/jaeger-collector
+af2edffd7d7df63cbcc8271f709a893961a1762818bd9f57d53edb954962bb43 *jaeger-1.62.0-linux-ppc64le/jaeger-ingester
+35680e6e6ddfeb466fe6ad3bd2ee257ad37ebd995ea0378fc65130afd46ed1c4 *jaeger-1.62.0-linux-ppc64le/jaeger-query

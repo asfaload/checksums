@@ -1,0 +1,5 @@
+540daef73333150f95885b389800c2998ace5badd8b973acdb599ec8a674c22a  gc-controller_0.1.0_sbom.spdx.json
+efc6e16f095b85a3193b20abe949cfdd9c2e3c040d924d7cdf3f101eba0dc209  gc-controller_0.1.0_source_code.tar.gz
+2516850443a5b21d093bde70a6314ff67bc612fdab6655233ed5d2f65ad15834  manager_0.1.0_linux_386.tar.gz
+2d976d5717db9e8746e70df0e5ad48620a0c540d601f82f7edfcad82788a25a5  manager_0.1.0_linux_amd64.tar.gz
+97ba2fe002d6ab67956ca00bb2635b4920b3f55b4a0dd9d32be3d392a3c47174  manager_0.1.0_linux_arm64.tar.gz

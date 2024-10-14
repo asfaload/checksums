@@ -1,0 +1,5 @@
+1ebd4e59762072413f2d97c4c8c0033e9c9d6923d1527f9440c936cb97417eed  go-docker-healthcheck_1.6.0_linux_386.tar.gz
+bfda7cbeaa6be110a7ca6932d6185ce42fbe8d1f6ef7ab749469621a5157e2e3  go-docker-healthcheck_1.6.0_linux_amd64.tar.gz
+7e2b2bc9d9fc00d8d3ea6fc8edecb3757f1a8dd3aaecb9b06ed44d46e34a69db  go-docker-healthcheck_1.6.0_linux_arm64.tar.gz
+52195b04fd1a24f2478756a9350ea9eef34c90a8591802a0ed58cea5dc26477b  go-docker-healthcheck_1.6.0_linux_armv6.tar.gz
+f2a2feacde734adaad7debbaa9899787727ba976018f8bea5a0fc7f0073fa297  go-docker-healthcheck_1.6.0_linux_armv7.tar.gz

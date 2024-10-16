@@ -1,0 +1,5 @@
+836b6d87820e3e2392a8d43e313115ec02b7049a  ./pulumi-resource-mysql-v3.2.7-darwin-amd64.tar.gz
+a2a8d7ab4e4e0f72743fd95ee481bb8d48ce0d86  ./pulumi-resource-mysql-v3.2.7-darwin-arm64.tar.gz
+3dd3fb628b65126005a6fec4d8e8e6861655e88d  ./pulumi-resource-mysql-v3.2.7-linux-amd64.tar.gz
+16d9d09a40bcf77d7f0b33317567f337f16d64de  ./pulumi-resource-mysql-v3.2.7-linux-arm64.tar.gz
+d44436673ab973050a7a48e88fbb3ce3b9d369c5  ./pulumi-resource-mysql-v3.2.7-windows-amd64.tar.gz

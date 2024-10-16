@@ -1,0 +1,5 @@
+6d9c916ec989dfa2a424567ccef87d277ffff8d4  ./pulumi-resource-aiven-v6.26.1-darwin-amd64.tar.gz
+0c8c9c31532dc38a4cbf40a427d7a7a2434838f1  ./pulumi-resource-aiven-v6.26.1-darwin-arm64.tar.gz
+65928108d27da58fcebc5e382215d559d3adc253  ./pulumi-resource-aiven-v6.26.1-linux-amd64.tar.gz
+c233dfbb34ffe37cbaa198d5454a34f57296d83c  ./pulumi-resource-aiven-v6.26.1-linux-arm64.tar.gz
+a10ccfb6fd592e22622da53d0d404c647d8dc307  ./pulumi-resource-aiven-v6.26.1-windows-amd64.tar.gz

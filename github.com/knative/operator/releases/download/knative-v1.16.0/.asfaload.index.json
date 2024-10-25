@@ -1,0 +1,1 @@
+{"mirroredOn":null,"publishedOn":null,"publishedFiles":[{"fileName":"operator.yaml","algo":"Sha256","source":"checksums.txt","hash":"b19d39413b33457d01457196e51614302c763d872ff3f5a9a0c02c33f350a274"},{"fileName":"knative-operator-v1.16.0.tgz","algo":"Sha256","source":"checksums.txt","hash":"b9038b86551107c80cdb0fa0fe53e36cf24ca7ccb3acbea233bb7cca8036fd29"}]}

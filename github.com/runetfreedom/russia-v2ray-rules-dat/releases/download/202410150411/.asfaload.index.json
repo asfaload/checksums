@@ -1,0 +1,1 @@
+{"mirroredOn":null,"publishedOn":null,"publishedFiles":[{"fileName":"./publish/geosite.dat","algo":"Sha256","source":"geosite.dat.sha256sum","hash":"2039375fdcc8924f144a921394e0213753c39e84bdfd163af475aa5b672f224f"},{"fileName":"geoip.dat","algo":"Sha256","source":"geoip.dat.sha256sum","hash":"c680b04f6dcf92f8bc240f1dff3a82d2d1026c87c66df58eb1ea4d85586d497f"}]}

@@ -1,0 +1,1 @@
+{"mirroredOn":null,"publishedOn":null,"publishedFiles":[{"fileName":"geoip-cn.db","algo":"Sha256","source":"geoip-cn.db.sha256sum","hash":"90d4ef158367cd3573e1aa8ea3c8964a6551c83d6a004b7141725253f79bf33e"},{"fileName":"geoip.db","algo":"Sha256","source":"geoip.db.sha256sum","hash":"87b110473590e226c1eb8098989b8b304370ec789d9fa675bebd7807d750de25"}]}

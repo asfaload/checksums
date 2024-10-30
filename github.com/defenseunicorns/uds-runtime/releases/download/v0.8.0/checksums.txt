@@ -1,0 +1,6 @@
+f61fcb5aa8e586b1573bb616c6b95d668e0f8c652242a0ceb99d3e0abd8ae3cb  build/uds-runtime-darwin-amd64
+42caec110d05a23e57a2f49897d6457fc07db482755113799e14609f5c631a44  build/uds-runtime-darwin-arm64
+c451ea846b6334d399e9b62962526c60fa8d2efae98b2f209f74ff0f88d44be2  build/uds-runtime-linux-amd64
+b1e8571a9fe9346cdc1595ad39d7dcd1b35eddeaeca632ceb99c5ac474adcc0a  build/uds-runtime-linux-arm64
+f03e3fc6ce0f113f9530eaaf5502890220b098be9d7e28478a2bcca6c96bf6e1  build/zarf-package-uds-runtime-amd64-0.8.0.tar.zst
+ad05e492002f5226cb36b043a7214c9fd0c7c726ae9fbc66a0ac8274734c9549  build/zarf-package-uds-runtime-arm64-0.8.0.tar.zst

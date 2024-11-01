@@ -1,0 +1,5 @@
+b3c3013370ea59e26a872f00597d640eb2d08d05  ./pulumi-resource-cockroach-v0.6.0-darwin-amd64.tar.gz
+ca03187e744d81074099aaf6ac7b8d8ce161b074  ./pulumi-resource-cockroach-v0.6.0-darwin-arm64.tar.gz
+7f8fb1f20396fe1e6a42d2026eaabfd6e677c815  ./pulumi-resource-cockroach-v0.6.0-linux-amd64.tar.gz
+d4b5c460672e114ed067a165f634262f6dab811b  ./pulumi-resource-cockroach-v0.6.0-linux-arm64.tar.gz
+6945a8ffa08e3e6e02083bce89b1dc8a5e9d87ed  ./pulumi-resource-cockroach-v0.6.0-windows-amd64.tar.gz

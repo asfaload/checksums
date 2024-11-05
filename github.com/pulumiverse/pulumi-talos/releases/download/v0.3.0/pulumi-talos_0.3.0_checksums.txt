@@ -1,0 +1,5 @@
+49b6808a884036a25bb4a011b0b5f622ea1eb10c  ./pulumi-resource-talos-v0.3.0-darwin-amd64.tar.gz
+9a745e97aa2c335ae9d84e257c9928cc229a29d5  ./pulumi-resource-talos-v0.3.0-darwin-arm64.tar.gz
+6832486e130cf3e8479e1024ebf458ea83da25a4  ./pulumi-resource-talos-v0.3.0-linux-amd64.tar.gz
+affd4bfe10ec7abc994c68a533ce5dfa0f1927ed  ./pulumi-resource-talos-v0.3.0-linux-arm64.tar.gz
+7ebc42107bc9cf93efb10c181a614d2caf5f4a66  ./pulumi-resource-talos-v0.3.0-windows-amd64.tar.gz

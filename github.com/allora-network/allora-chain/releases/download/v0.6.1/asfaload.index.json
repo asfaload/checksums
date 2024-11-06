@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"allora-chain-0.6.1.tar.gz","algo":"Sha256","source":"allora-chain_0.6.1_checksums.txt","hash":"0e04c273f839516198f23530a469b5f8cc45ba9b52f9ab9f92b27451948b63d0"},{"fileName":"allora-chain_0.6.1_darwin_amd64.tar.gz","algo":"Sha256","source":"allora-chain_0.6.1_checksums.txt","hash":"c254a4747be6c28c83f3122d53b73f454a1ca87ed985fcd27a73bebd479f3add"},{"fileName":"allora-chain_0.6.1_darwin_arm64.tar.gz","algo":"Sha256","source":"allora-chain_0.6.1_checksums.txt","hash":"98f98ebc36f0cc2a5cb00951ee6ef1cac237ba953ad19a9c611dbf0639a0681a"},{"fileName":"allora-chain_0.6.1_linux_amd64.tar.gz","algo":"Sha256","source":"allora-chain_0.6.1_checksums.txt","hash":"659f9ba0fa1df9b8d1f27fe9d48725accdc15d3b0c43d1c64da1c25f2e349036"},{"fileName":"allora-chain_0.6.1_linux_arm64.tar.gz","algo":"Sha256","source":"allora-chain_0.6.1_checksums.txt","hash":"193df8203b3ca748351c1cdf559769a5153e9943a7cce383d3f4ee35e2eaffee"},{"fileName":"allora-chain_0.6.1_windows_amd64.tar.gz","algo":"Sha256","source":"allora-chain_0.6.1_checksums.txt","hash":"99d2805c0db81585a9a3622af9b972ef90cc4fdea150e8ce176648060c23979a"},{"fileName":"allora-chain_0.6.1_windows_arm64.tar.gz","algo":"Sha256","source":"allora-chain_0.6.1_checksums.txt","hash":"677ce112f5d8b835fbad0f0383c6c8d9ab5f91689f5fbf22462b109e55b1acaa"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "allora-chain-0.6.1.tar.gz",
+      "algo": "Sha256",
+      "source": "allora-chain_0.6.1_checksums.txt",
+      "hash": "0e04c273f839516198f23530a469b5f8cc45ba9b52f9ab9f92b27451948b63d0"
+    },
+    {
+      "fileName": "allora-chain_0.6.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "allora-chain_0.6.1_checksums.txt",
+      "hash": "c254a4747be6c28c83f3122d53b73f454a1ca87ed985fcd27a73bebd479f3add"
+    },
+    {
+      "fileName": "allora-chain_0.6.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "allora-chain_0.6.1_checksums.txt",
+      "hash": "98f98ebc36f0cc2a5cb00951ee6ef1cac237ba953ad19a9c611dbf0639a0681a"
+    },
+    {
+      "fileName": "allora-chain_0.6.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "allora-chain_0.6.1_checksums.txt",
+      "hash": "659f9ba0fa1df9b8d1f27fe9d48725accdc15d3b0c43d1c64da1c25f2e349036"
+    },
+    {
+      "fileName": "allora-chain_0.6.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "allora-chain_0.6.1_checksums.txt",
+      "hash": "193df8203b3ca748351c1cdf559769a5153e9943a7cce383d3f4ee35e2eaffee"
+    },
+    {
+      "fileName": "allora-chain_0.6.1_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "allora-chain_0.6.1_checksums.txt",
+      "hash": "99d2805c0db81585a9a3622af9b972ef90cc4fdea150e8ce176648060c23979a"
+    },
+    {
+      "fileName": "allora-chain_0.6.1_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "allora-chain_0.6.1_checksums.txt",
+      "hash": "677ce112f5d8b835fbad0f0383c6c8d9ab5f91689f5fbf22462b109e55b1acaa"
+    }
+  ]
+}

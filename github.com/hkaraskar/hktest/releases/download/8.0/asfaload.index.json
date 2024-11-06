@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"hktest_v8.0.zip","algo":"Sha256","source":"hktest_8.0_checksums.txt","hash":"747907ffa655fc4dc984e63b19768e091303ea9507ceb85dc5ea557353979e8a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "hktest_v8.0.zip",
+      "algo": "Sha256",
+      "source": "hktest_8.0_checksums.txt",
+      "hash": "747907ffa655fc4dc984e63b19768e091303ea9507ceb85dc5ea557353979e8a"
+    }
+  ]
+}

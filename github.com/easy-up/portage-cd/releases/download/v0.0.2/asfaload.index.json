@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"portage-cd_Darwin_arm64.tar.gz","algo":"Sha256","source":"portage-cd_0.0.2_checksums.txt","hash":"8fd67a19ff8b6023b859d8df5690f09eae15afa8aed70e2c50c7ed040ce1a967"},{"fileName":"portage-cd_Darwin_x86_64.tar.gz","algo":"Sha256","source":"portage-cd_0.0.2_checksums.txt","hash":"367765b4ad6f775ca7727f7b1d57c84966243331a25ba9e64956f8c81a46a66b"},{"fileName":"portage-cd_Linux_arm64.tar.gz","algo":"Sha256","source":"portage-cd_0.0.2_checksums.txt","hash":"6abc892b532de719eaee659ca70cb539c87e7ab3c49e1b22b66def48b2a2baa1"},{"fileName":"portage-cd_Linux_i386.tar.gz","algo":"Sha256","source":"portage-cd_0.0.2_checksums.txt","hash":"267ab72e42566f8dfe1d23fb9b49e25fbd1f3330bed7a6b43141eec2fc85dfe8"},{"fileName":"portage-cd_Linux_x86_64.tar.gz","algo":"Sha256","source":"portage-cd_0.0.2_checksums.txt","hash":"0bdb36b369bbb619756d9693b010fbcc57fd1660418f181c7ef693d1f1426be5"},{"fileName":"portage-cd_Windows_arm64.zip","algo":"Sha256","source":"portage-cd_0.0.2_checksums.txt","hash":"c3dddf7733968fe4830c525f52fbbfcf01f345bb1e073569392368e0fd186615"},{"fileName":"portage-cd_Windows_i386.zip","algo":"Sha256","source":"portage-cd_0.0.2_checksums.txt","hash":"be79f6bd663d555209f3c03ff79b1c6c6e097b6f5a332d034cecdaaeb395818a"},{"fileName":"portage-cd_Windows_x86_64.zip","algo":"Sha256","source":"portage-cd_0.0.2_checksums.txt","hash":"7aa863bb0bb6c62891c420c1957e66b66cd3805fc6408b03231308e2e3890b87"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "portage-cd_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "portage-cd_0.0.2_checksums.txt",
+      "hash": "8fd67a19ff8b6023b859d8df5690f09eae15afa8aed70e2c50c7ed040ce1a967"
+    },
+    {
+      "fileName": "portage-cd_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "portage-cd_0.0.2_checksums.txt",
+      "hash": "367765b4ad6f775ca7727f7b1d57c84966243331a25ba9e64956f8c81a46a66b"
+    },
+    {
+      "fileName": "portage-cd_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "portage-cd_0.0.2_checksums.txt",
+      "hash": "6abc892b532de719eaee659ca70cb539c87e7ab3c49e1b22b66def48b2a2baa1"
+    },
+    {
+      "fileName": "portage-cd_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "portage-cd_0.0.2_checksums.txt",
+      "hash": "267ab72e42566f8dfe1d23fb9b49e25fbd1f3330bed7a6b43141eec2fc85dfe8"
+    },
+    {
+      "fileName": "portage-cd_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "portage-cd_0.0.2_checksums.txt",
+      "hash": "0bdb36b369bbb619756d9693b010fbcc57fd1660418f181c7ef693d1f1426be5"
+    },
+    {
+      "fileName": "portage-cd_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "portage-cd_0.0.2_checksums.txt",
+      "hash": "c3dddf7733968fe4830c525f52fbbfcf01f345bb1e073569392368e0fd186615"
+    },
+    {
+      "fileName": "portage-cd_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "portage-cd_0.0.2_checksums.txt",
+      "hash": "be79f6bd663d555209f3c03ff79b1c6c6e097b6f5a332d034cecdaaeb395818a"
+    },
+    {
+      "fileName": "portage-cd_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "portage-cd_0.0.2_checksums.txt",
+      "hash": "7aa863bb0bb6c62891c420c1957e66b66cd3805fc6408b03231308e2e3890b87"
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T18:16:43+00:00","publishedOn":"2024-11-05T18:19:05.7741664+00:00","version":1,"publishedFiles":[{"fileName":"cog_Darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"4ff2d828ca8b44c987a88431de1e43d51ea22edc473a3a82e3f5477a47814950"},{"fileName":"cog_Darwin_x86_64","algo":"Sha256","source":"checksums.txt","hash":"88857205fc91183fe4f69c7f95f0dbe75e52a1e09d403724ef10e19ae83668db"},{"fileName":"cog_Linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"75f19d5effec47b735c69ee8963407e05d65d0586ea8982242aab67b61efaade"},{"fileName":"cog_Linux_x86_64","algo":"Sha256","source":"checksums.txt","hash":"04e32374b7854157840d935f8d3bf27bdbedd15928d6331fe659f41d0274b3bf"}]}
+{
+  "mirroredOn": "2024-11-05T18:19:05.7741664+00:00",
+  "publishedOn": "2024-11-05T18:16:43+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cog_Darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4ff2d828ca8b44c987a88431de1e43d51ea22edc473a3a82e3f5477a47814950"
+    },
+    {
+      "fileName": "cog_Darwin_x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "88857205fc91183fe4f69c7f95f0dbe75e52a1e09d403724ef10e19ae83668db"
+    },
+    {
+      "fileName": "cog_Linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "75f19d5effec47b735c69ee8963407e05d65d0586ea8982242aab67b61efaade"
+    },
+    {
+      "fileName": "cog_Linux_x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "04e32374b7854157840d935f8d3bf27bdbedd15928d6331fe659f41d0274b3bf"
+    }
+  ]
+}

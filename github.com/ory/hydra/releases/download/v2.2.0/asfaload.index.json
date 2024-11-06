@@ -1,1 +1,175 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"hydra_2.2.0-linux_32bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e48142536ee4f6847a090d72ddb078eca7aeaeeb7d20440396c5d60dda747bc9"},{"fileName":"hydra_2.2.0-linux_64bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e53a053a168a8329f12b1cc776477edc8956e4eebc3cf9fa4ad521e66f60892c"},{"fileName":"hydra_2.2.0-linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d2499dc83504f7f8aa3d9222d7fe28875aa007802f1fce9e8def54dc0483d6ab"},{"fileName":"hydra_2.2.0-linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7b6e034c19549e35e501ccad7bb8ad9b24c6976bde5eac3fcd4e10f52289e8db"},{"fileName":"hydra_2.2.0-linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3e7cff47bcf02666b52dded64481955cf2e416a1b8b94ffbeff9615f082f7dca"},{"fileName":"hydra_2.2.0-linux_sqlite_64bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0fe0539fa452496ac5d98b558f93eb2dbb4cf43733da0b09f8f2bdb4445fc31e"},{"fileName":"hydra_2.2.0-linux_sqlite_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c499ffdaae0f2ab85eff0567214734515b741a393bef89115c16018f4dc0560d"},{"fileName":"hydra_2.2.0-linux_sqlite_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"871761a695e67cdd338970c16b7a6d55a66cfa78190a1636be36f6343038e7c7"},{"fileName":"hydra_2.2.0-linux_sqlite_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"649ab9af9c1fcb9a08551b9126bae877bd0853345c44445ade85498ee9d93222"},{"fileName":"hydra_2.2.0-linux_sqlite_libmusl_64bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9a401fc43dae52f6fa868b0e33d64b3ac9bf37bb43b32ad82c26de879688cad6"},{"fileName":"hydra_2.2.0-linux_sqlite_libmusl_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"eaea49ec4cf1784350f6b1e53713021d0451ce20b069a2ca29df0bc864297387"},{"fileName":"hydra_2.2.0-linux_sqlite_libmusl_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"dbb333b19b7f84906d705c85bdf6d6dfaa2ee093bbac569a1320ab0a61defc9a"},{"fileName":"hydra_2.2.0-linux_sqlite_libmusl_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"52886b377d1e3bcb161b6f834f0c6a861cdf8cc6b1af9b93f29797e4d97a458e"},{"fileName":"hydra_2.2.0-linux_static-nosqlite_64bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7d2d072cbc8bac6ad29798c948ff22f307af4d405b040514f9046706f5b1bd98"},{"fileName":"hydra_2.2.0-linux_static-nosqlite_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b429061c2c0d10f16ab0bc7c5389c7d052c60310c38a7db53ba6a5d49034b5a8"},{"fileName":"hydra_2.2.0-macOS_64bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"daee6bf8303b8672bbbd8d5993c51b2896aa9ddc2466519b5ca4391c94bdf8a8"},{"fileName":"hydra_2.2.0-macOS_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"00ce2f989d3e3b84daf386d87e21eb520c20b693375aab35f3846fad05cc2d5f"},{"fileName":"hydra_2.2.0-macOS_sqlite_64bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3d40ca8e99e2a6d840130928d5e0245212dba0eea9c26a0d7186ebb4382e673d"},{"fileName":"hydra_2.2.0-macOS_sqlite_all.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d9aba5f53031717e5eee5df0aef25e4b01fdb3319cdfb9903be9786ac82e232b"},{"fileName":"hydra_2.2.0-macOS_sqlite_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"89732ad1494c57ea39348f62dc5ef5c48de129cd205b17cb12bb67ad27094bb7"},{"fileName":"hydra_2.2.0-macOS_static-nosqlite_64bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a402a6f6c10b3b88798b50152197b76f2fc7be8e120a5ca80cf00946fa1ce0f8"},{"fileName":"hydra_2.2.0-macOS_static-nosqlite_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"24d0828eadd5413c7b22d38bcc81d524fdf0eeebdfca8a6345df16618cce6523"},{"fileName":"hydra_2.2.0-windows_32bit.zip","algo":"Sha256","source":"checksums.txt","hash":"b14042782d6b809f7be1112ef8f1157d621390c9973fc2c1f9aa94e52856fcad"},{"fileName":"hydra_2.2.0-windows_64bit.zip","algo":"Sha256","source":"checksums.txt","hash":"bab30d975c281b5ab649869a7ea0bda24facbfb41ebcc1806d970393a5aceba7"},{"fileName":"hydra_2.2.0-windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"96916e7fe6c2188b2605680c099555e88943b0329b2a46c228cd88ce14130e96"},{"fileName":"hydra_2.2.0-windows_armv6.zip","algo":"Sha256","source":"checksums.txt","hash":"4e9dd59df7de077291452341ec46dcf3c6d8bd9c9ac76858f31998dacae07189"},{"fileName":"hydra_2.2.0-windows_armv7.zip","algo":"Sha256","source":"checksums.txt","hash":"24c0f5294f1f0c60e422eb0e5a261787a44f14a4b14565e2d4f39913ce3135d0"},{"fileName":"hydra_2.2.0-windows_sqlite_64bit.zip","algo":"Sha256","source":"checksums.txt","hash":"88466215b0a3cc6d470200120a6008f46cd463c6fa3bdbc35a5f43b6a0cf1d7f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "hydra_2.2.0-linux_32bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e48142536ee4f6847a090d72ddb078eca7aeaeeb7d20440396c5d60dda747bc9"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e53a053a168a8329f12b1cc776477edc8956e4eebc3cf9fa4ad521e66f60892c"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d2499dc83504f7f8aa3d9222d7fe28875aa007802f1fce9e8def54dc0483d6ab"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7b6e034c19549e35e501ccad7bb8ad9b24c6976bde5eac3fcd4e10f52289e8db"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3e7cff47bcf02666b52dded64481955cf2e416a1b8b94ffbeff9615f082f7dca"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_sqlite_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0fe0539fa452496ac5d98b558f93eb2dbb4cf43733da0b09f8f2bdb4445fc31e"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_sqlite_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c499ffdaae0f2ab85eff0567214734515b741a393bef89115c16018f4dc0560d"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_sqlite_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "871761a695e67cdd338970c16b7a6d55a66cfa78190a1636be36f6343038e7c7"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_sqlite_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "649ab9af9c1fcb9a08551b9126bae877bd0853345c44445ade85498ee9d93222"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_sqlite_libmusl_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9a401fc43dae52f6fa868b0e33d64b3ac9bf37bb43b32ad82c26de879688cad6"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_sqlite_libmusl_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eaea49ec4cf1784350f6b1e53713021d0451ce20b069a2ca29df0bc864297387"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_sqlite_libmusl_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dbb333b19b7f84906d705c85bdf6d6dfaa2ee093bbac569a1320ab0a61defc9a"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_sqlite_libmusl_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "52886b377d1e3bcb161b6f834f0c6a861cdf8cc6b1af9b93f29797e4d97a458e"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_static-nosqlite_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7d2d072cbc8bac6ad29798c948ff22f307af4d405b040514f9046706f5b1bd98"
+    },
+    {
+      "fileName": "hydra_2.2.0-linux_static-nosqlite_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b429061c2c0d10f16ab0bc7c5389c7d052c60310c38a7db53ba6a5d49034b5a8"
+    },
+    {
+      "fileName": "hydra_2.2.0-macOS_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "daee6bf8303b8672bbbd8d5993c51b2896aa9ddc2466519b5ca4391c94bdf8a8"
+    },
+    {
+      "fileName": "hydra_2.2.0-macOS_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "00ce2f989d3e3b84daf386d87e21eb520c20b693375aab35f3846fad05cc2d5f"
+    },
+    {
+      "fileName": "hydra_2.2.0-macOS_sqlite_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3d40ca8e99e2a6d840130928d5e0245212dba0eea9c26a0d7186ebb4382e673d"
+    },
+    {
+      "fileName": "hydra_2.2.0-macOS_sqlite_all.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d9aba5f53031717e5eee5df0aef25e4b01fdb3319cdfb9903be9786ac82e232b"
+    },
+    {
+      "fileName": "hydra_2.2.0-macOS_sqlite_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "89732ad1494c57ea39348f62dc5ef5c48de129cd205b17cb12bb67ad27094bb7"
+    },
+    {
+      "fileName": "hydra_2.2.0-macOS_static-nosqlite_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a402a6f6c10b3b88798b50152197b76f2fc7be8e120a5ca80cf00946fa1ce0f8"
+    },
+    {
+      "fileName": "hydra_2.2.0-macOS_static-nosqlite_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "24d0828eadd5413c7b22d38bcc81d524fdf0eeebdfca8a6345df16618cce6523"
+    },
+    {
+      "fileName": "hydra_2.2.0-windows_32bit.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b14042782d6b809f7be1112ef8f1157d621390c9973fc2c1f9aa94e52856fcad"
+    },
+    {
+      "fileName": "hydra_2.2.0-windows_64bit.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bab30d975c281b5ab649869a7ea0bda24facbfb41ebcc1806d970393a5aceba7"
+    },
+    {
+      "fileName": "hydra_2.2.0-windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "96916e7fe6c2188b2605680c099555e88943b0329b2a46c228cd88ce14130e96"
+    },
+    {
+      "fileName": "hydra_2.2.0-windows_armv6.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e9dd59df7de077291452341ec46dcf3c6d8bd9c9ac76858f31998dacae07189"
+    },
+    {
+      "fileName": "hydra_2.2.0-windows_armv7.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "24c0f5294f1f0c60e422eb0e5a261787a44f14a4b14565e2d4f39913ce3135d0"
+    },
+    {
+      "fileName": "hydra_2.2.0-windows_sqlite_64bit.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "88466215b0a3cc6d470200120a6008f46cd463c6fa3bdbc35a5f43b6a0cf1d7f"
+    }
+  ]
+}

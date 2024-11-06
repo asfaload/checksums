@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"litecoin-0.21.3-aarch64-linux-gnu.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"e889ab7aaa514e1be7266ab335f82a7db1f5598ad514099a486023fe401808c7"},{"fileName":"litecoin-0.21.3-arm-linux-gnueabihf.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"4ce97f1723cfa46a06f890309a0405ef9046a8c057d071506adf7937b8c77f43"},{"fileName":"litecoin-0.21.3-osx.dmg","algo":"Sha256","source":"SHA256SUMS","hash":"9b36a5b59f2a1632d5ec39f266332648d9148ab2895f4b3fd9ec1a9a6c08ded9"},{"fileName":"litecoin-0.21.3-osx64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"3c8c5131135cda616f26e7bfa053da30dff42e26c3bb0ce7c2a751ab62861226"},{"fileName":"litecoin-0.21.3-riscv64-linux-gnu.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"a3310f2a07e02d181ff795a79dae61ececbcdcf1817a3d0e0ff42457437821cd"},{"fileName":"litecoin-0.21.3-win64-setup.exe","algo":"Sha256","source":"SHA256SUMS","hash":"fd1d57fd880e1da2f4ef20c3f9d8f2868890ad6cb276c7b765ce8515cf847cd6"},{"fileName":"litecoin-0.21.3-win64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"0e84ef9fea724c2c9e6b92a9934240eebd7ac0b0ac576f7a19406c470c38aef2"},{"fileName":"litecoin-0.21.3-x86_64-linux-gnu.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"ea231c630e2a243cb01affd4c2b95a2be71560f80b64b9f4bceaa13d736aa7cb"},{"fileName":"litecoin-0.21.3.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"e08642fb1d4ca3891981e6fd39f8c9fbc995d0db8b6b1c3f8f8671de8e120f9a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "litecoin-0.21.3-aarch64-linux-gnu.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "e889ab7aaa514e1be7266ab335f82a7db1f5598ad514099a486023fe401808c7"
+    },
+    {
+      "fileName": "litecoin-0.21.3-arm-linux-gnueabihf.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "4ce97f1723cfa46a06f890309a0405ef9046a8c057d071506adf7937b8c77f43"
+    },
+    {
+      "fileName": "litecoin-0.21.3-osx.dmg",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "9b36a5b59f2a1632d5ec39f266332648d9148ab2895f4b3fd9ec1a9a6c08ded9"
+    },
+    {
+      "fileName": "litecoin-0.21.3-osx64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "3c8c5131135cda616f26e7bfa053da30dff42e26c3bb0ce7c2a751ab62861226"
+    },
+    {
+      "fileName": "litecoin-0.21.3-riscv64-linux-gnu.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "a3310f2a07e02d181ff795a79dae61ececbcdcf1817a3d0e0ff42457437821cd"
+    },
+    {
+      "fileName": "litecoin-0.21.3-win64-setup.exe",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "fd1d57fd880e1da2f4ef20c3f9d8f2868890ad6cb276c7b765ce8515cf847cd6"
+    },
+    {
+      "fileName": "litecoin-0.21.3-win64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "0e84ef9fea724c2c9e6b92a9934240eebd7ac0b0ac576f7a19406c470c38aef2"
+    },
+    {
+      "fileName": "litecoin-0.21.3-x86_64-linux-gnu.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ea231c630e2a243cb01affd4c2b95a2be71560f80b64b9f4bceaa13d736aa7cb"
+    },
+    {
+      "fileName": "litecoin-0.21.3.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "e08642fb1d4ca3891981e6fd39f8c9fbc995d0db8b6b1c3f8f8671de8e120f9a"
+    }
+  ]
+}

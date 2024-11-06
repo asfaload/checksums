@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"astro_1.29.0_darwin_amd64.tar.gz","algo":"Sha256","source":"astro_1.29.0_checksums.txt","hash":"d6a03d53511b74cae9aff193d567fe1c4791cc03e235a9623532a7aad9e32370"},{"fileName":"astro_1.29.0_darwin_arm64.tar.gz","algo":"Sha256","source":"astro_1.29.0_checksums.txt","hash":"c12685b7f6737dfb7eadff0936c01f50c3306a7af35e01443a3b188dca197f3d"},{"fileName":"astro_1.29.0_linux_386.tar.gz","algo":"Sha256","source":"astro_1.29.0_checksums.txt","hash":"870cd847faf7764f40597d8ca49288d25cafff0cd121c664aa2f6f30d89dadaf"},{"fileName":"astro_1.29.0_linux_amd64.tar.gz","algo":"Sha256","source":"astro_1.29.0_checksums.txt","hash":"afc4126cef417519fca74b1d20973e9eb5cf0362ca58edb812f33126b7a17928"},{"fileName":"astro_1.29.0_linux_arm64.tar.gz","algo":"Sha256","source":"astro_1.29.0_checksums.txt","hash":"106fbd120b245ee3fb882910b7a38d1072cbe9c0b8819fbdcfa098fabe3fb398"},{"fileName":"astro_1.29.0_windows_386.exe","algo":"Sha256","source":"astro_1.29.0_checksums.txt","hash":"56deb9d7ee0728242362e1b977062926489edd4d4374c736c225a34d05ba3602"},{"fileName":"astro_1.29.0_windows_amd64.exe","algo":"Sha256","source":"astro_1.29.0_checksums.txt","hash":"b73c334d1ff41b6cf0c105528aec198706a066fbc35f384a86c5ec5d6ffe065c"},{"fileName":"astro_1.29.0_windows_arm64.exe","algo":"Sha256","source":"astro_1.29.0_checksums.txt","hash":"2c1b0eb4d590487203e1a70322b7382191e6e5460cac76a71d9e20b7b1c955fe"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "astro_1.29.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "astro_1.29.0_checksums.txt",
+      "hash": "d6a03d53511b74cae9aff193d567fe1c4791cc03e235a9623532a7aad9e32370"
+    },
+    {
+      "fileName": "astro_1.29.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "astro_1.29.0_checksums.txt",
+      "hash": "c12685b7f6737dfb7eadff0936c01f50c3306a7af35e01443a3b188dca197f3d"
+    },
+    {
+      "fileName": "astro_1.29.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "astro_1.29.0_checksums.txt",
+      "hash": "870cd847faf7764f40597d8ca49288d25cafff0cd121c664aa2f6f30d89dadaf"
+    },
+    {
+      "fileName": "astro_1.29.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "astro_1.29.0_checksums.txt",
+      "hash": "afc4126cef417519fca74b1d20973e9eb5cf0362ca58edb812f33126b7a17928"
+    },
+    {
+      "fileName": "astro_1.29.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "astro_1.29.0_checksums.txt",
+      "hash": "106fbd120b245ee3fb882910b7a38d1072cbe9c0b8819fbdcfa098fabe3fb398"
+    },
+    {
+      "fileName": "astro_1.29.0_windows_386.exe",
+      "algo": "Sha256",
+      "source": "astro_1.29.0_checksums.txt",
+      "hash": "56deb9d7ee0728242362e1b977062926489edd4d4374c736c225a34d05ba3602"
+    },
+    {
+      "fileName": "astro_1.29.0_windows_amd64.exe",
+      "algo": "Sha256",
+      "source": "astro_1.29.0_checksums.txt",
+      "hash": "b73c334d1ff41b6cf0c105528aec198706a066fbc35f384a86c5ec5d6ffe065c"
+    },
+    {
+      "fileName": "astro_1.29.0_windows_arm64.exe",
+      "algo": "Sha256",
+      "source": "astro_1.29.0_checksums.txt",
+      "hash": "2c1b0eb4d590487203e1a70322b7382191e6e5460cac76a71d9e20b7b1c955fe"
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"fogcrow_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"87c3bd1de2b86114a556bf7ed05da7e26eefd544086466acfa8c3c96f43b9715"},{"fileName":"fogcrow_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4b5eca188f3e04fcc0a2dfa18eb2e338e238fc29b3735ab1b87f07cd0c7e6770"},{"fileName":"fogcrow_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"6da28c2ebdb563d11b1df6e7f8177ddfcf879f024d3048991b96c08f0e3dad48"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "fogcrow_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "87c3bd1de2b86114a556bf7ed05da7e26eefd544086466acfa8c3c96f43b9715"
+    },
+    {
+      "fileName": "fogcrow_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4b5eca188f3e04fcc0a2dfa18eb2e338e238fc29b3735ab1b87f07cd0c7e6770"
+    },
+    {
+      "fileName": "fogcrow_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6da28c2ebdb563d11b1df6e7f8177ddfcf879f024d3048991b96c08f0e3dad48"
+    }
+  ]
+}

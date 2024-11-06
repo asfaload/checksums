@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T21:14:50+00:00","publishedOn":"2024-11-05T21:17:00.4347507+00:00","version":1,"publishedFiles":[{"fileName":"musicpresence-2.2.5-mac-arm64.dmg","algo":"Sha256","source":"sha256sum.txt","hash":"cc1fd9a7c400bef91f25742b61a20c03eb48c3e92cf75ffddc80ceac40246f22"},{"fileName":"musicpresence-2.2.5-mac-x86_64.dmg","algo":"Sha256","source":"sha256sum.txt","hash":"ccbd72a7324a5632b640268bcf3e127fe1c732239da9b41af26762d9167dc1d6"},{"fileName":"musicpresence-2.2.5-windows-x64-installer.exe","algo":"Sha256","source":"sha256sum.txt","hash":"9698204cfaac8815784b41ece58901b0d37be64743e36631e6a3a5272cf5c13b"},{"fileName":"musicpresence-2.2.5-windows-x64.zip","algo":"Sha256","source":"sha256sum.txt","hash":"3e68e1038e4c85529dbcef4b58d23104a10df2afe41dcd1e741af7efa6cb224f"},{"fileName":"musicpresence-legacy-2.2.5-win64.zip","algo":"Sha256","source":"sha256sum.txt","hash":"3e68e1038e4c85529dbcef4b58d23104a10df2afe41dcd1e741af7efa6cb224f"}]}
+{
+  "mirroredOn": "2024-11-05T21:17:00.4347507+00:00",
+  "publishedOn": "2024-11-05T21:14:50+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "musicpresence-2.2.5-mac-arm64.dmg",
+      "algo": "Sha256",
+      "source": "sha256sum.txt",
+      "hash": "cc1fd9a7c400bef91f25742b61a20c03eb48c3e92cf75ffddc80ceac40246f22"
+    },
+    {
+      "fileName": "musicpresence-2.2.5-mac-x86_64.dmg",
+      "algo": "Sha256",
+      "source": "sha256sum.txt",
+      "hash": "ccbd72a7324a5632b640268bcf3e127fe1c732239da9b41af26762d9167dc1d6"
+    },
+    {
+      "fileName": "musicpresence-2.2.5-windows-x64-installer.exe",
+      "algo": "Sha256",
+      "source": "sha256sum.txt",
+      "hash": "9698204cfaac8815784b41ece58901b0d37be64743e36631e6a3a5272cf5c13b"
+    },
+    {
+      "fileName": "musicpresence-2.2.5-windows-x64.zip",
+      "algo": "Sha256",
+      "source": "sha256sum.txt",
+      "hash": "3e68e1038e4c85529dbcef4b58d23104a10df2afe41dcd1e741af7efa6cb224f"
+    },
+    {
+      "fileName": "musicpresence-legacy-2.2.5-win64.zip",
+      "algo": "Sha256",
+      "source": "sha256sum.txt",
+      "hash": "3e68e1038e4c85529dbcef4b58d23104a10df2afe41dcd1e741af7efa6cb224f"
+    }
+  ]
+}

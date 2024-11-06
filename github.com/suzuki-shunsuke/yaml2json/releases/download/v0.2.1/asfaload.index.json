@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"yaml2json_linux_amd64.tar.gz","algo":"Sha256","source":"yaml2json_0.2.1_checksums.txt","hash":"123f28a73c03f002f51ee8ee870076b6941d153de4377a2759b48a770b813908"},{"fileName":"yaml2json_windows_amd64.tar.gz","algo":"Sha256","source":"yaml2json_0.2.1_checksums.txt","hash":"297731ac70b13957d8280190d6c3caad62d1675659d2fb8cd218476acf083875"},{"fileName":"yaml2json_darwin_arm64.tar.gz","algo":"Sha256","source":"yaml2json_0.2.1_checksums.txt","hash":"700f2cb240a937289a1d9c82aed81f8929f02c378861cde56f17eb2524b430c7"},{"fileName":"yaml2json_windows_arm64.tar.gz","algo":"Sha256","source":"yaml2json_0.2.1_checksums.txt","hash":"a2ebfb18873695441310bd344351d1e51a42d982eb6716308fb46a67c1a35ef3"},{"fileName":"yaml2json_darwin_amd64.tar.gz","algo":"Sha256","source":"yaml2json_0.2.1_checksums.txt","hash":"dc9e271f05bbc226466142e49cc761c10b42f95c226427b47fd42c1a662b171c"},{"fileName":"yaml2json_linux_arm64.tar.gz","algo":"Sha256","source":"yaml2json_0.2.1_checksums.txt","hash":"edb318f2d836ed8f73bada0ddffbe4f73886731fc3bd84f8aebf59a1c9334769"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "yaml2json_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "yaml2json_0.2.1_checksums.txt",
+      "hash": "123f28a73c03f002f51ee8ee870076b6941d153de4377a2759b48a770b813908"
+    },
+    {
+      "fileName": "yaml2json_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "yaml2json_0.2.1_checksums.txt",
+      "hash": "297731ac70b13957d8280190d6c3caad62d1675659d2fb8cd218476acf083875"
+    },
+    {
+      "fileName": "yaml2json_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "yaml2json_0.2.1_checksums.txt",
+      "hash": "700f2cb240a937289a1d9c82aed81f8929f02c378861cde56f17eb2524b430c7"
+    },
+    {
+      "fileName": "yaml2json_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "yaml2json_0.2.1_checksums.txt",
+      "hash": "a2ebfb18873695441310bd344351d1e51a42d982eb6716308fb46a67c1a35ef3"
+    },
+    {
+      "fileName": "yaml2json_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "yaml2json_0.2.1_checksums.txt",
+      "hash": "dc9e271f05bbc226466142e49cc761c10b42f95c226427b47fd42c1a662b171c"
+    },
+    {
+      "fileName": "yaml2json_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "yaml2json_0.2.1_checksums.txt",
+      "hash": "edb318f2d836ed8f73bada0ddffbe4f73886731fc3bd84f8aebf59a1c9334769"
+    }
+  ]
+}

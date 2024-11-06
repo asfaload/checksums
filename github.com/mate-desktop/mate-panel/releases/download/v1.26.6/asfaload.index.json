@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mate-panel-1.26.6.tar.xz","algo":"Sha256","source":"mate-panel-1.26.6.tar.xz.sha256sum","hash":"161f018a2577c6379814a5796ed8c8d05c8e218942ec42895d5e9193eaf31f7a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mate-panel-1.26.6.tar.xz",
+      "algo": "Sha256",
+      "source": "mate-panel-1.26.6.tar.xz.sha256sum",
+      "hash": "161f018a2577c6379814a5796ed8c8d05c8e218942ec42895d5e9193eaf31f7a"
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-mongodb2_0.3.0_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"b2d70135382eaa84ff9237018f65b9bd634112c3bb15224e016728ebd10ac0c6"},{"fileName":"terraform-provider-mongodb2_0.3.0_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"5fd5b60ce4992ff35f9544aa320a7b2f6ea5c8476591a93dc26964331de8c371"},{"fileName":"terraform-provider-mongodb2_0.3.0_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"2153092fa4f82b4298c4749549cd2c2ec2edaa418198360640a5c0a2a05b442c"},{"fileName":"terraform-provider-mongodb2_0.3.0_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"ee5834ddc240a4d6f07b277ad90f07e18cf22b96e6817ea7d82bfc0bb8bfb496"},{"fileName":"terraform-provider-mongodb2_0.3.0_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"891f4b968b1484c3b421e4c5d48cc9d1549335b5585dbba6c932e12d219729e3"},{"fileName":"terraform-provider-mongodb2_0.3.0_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"26a3e13a20499d85bbc17994055a0db2a982dce446c51fe045b0eff297447e47"},{"fileName":"terraform-provider-mongodb2_0.3.0_linux_386.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"e9b17219fa4409f6377373e2196e2dc0ee82a8cc5d0be882633b3bfe258029f5"},{"fileName":"terraform-provider-mongodb2_0.3.0_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"d80f793d47186ec6e10687bbac4b7fdb0deef9fd5245cd6b3d3f317ce65d685b"},{"fileName":"terraform-provider-mongodb2_0.3.0_linux_arm.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"621525f5c26e70681238c56b6f0f23700c26d384cbd42e3a96af1ae467fc91de"},{"fileName":"terraform-provider-mongodb2_0.3.0_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"e412667a7aa6af6e985199a4a632cf246a6e18e395d3e94cbe4e21a57e4dd40a"},{"fileName":"terraform-provider-mongodb2_0.3.0_windows_386.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"a387c63315beaf612b74a1def91051a5aa2d4f9e08cf160063bda5a62b7af0da"},{"fileName":"terraform-provider-mongodb2_0.3.0_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"83cba25ee75fa8c186505ca75a5f283fafcb1b949fdd68fb4a834b76a967952f"},{"fileName":"terraform-provider-mongodb2_0.3.0_windows_arm.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"88d1598b96dedaddd7fe8ab487b9209d1f1b4ae40b935d5479967a9175ca5eb5"},{"fileName":"terraform-provider-mongodb2_0.3.0_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-mongodb2_0.3.0_SHA256SUMS","hash":"6ac7efbc338e868b3a198594414b1a752880e38ee3a5beeee8b23d393c7ad7d8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "b2d70135382eaa84ff9237018f65b9bd634112c3bb15224e016728ebd10ac0c6"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "5fd5b60ce4992ff35f9544aa320a7b2f6ea5c8476591a93dc26964331de8c371"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "2153092fa4f82b4298c4749549cd2c2ec2edaa418198360640a5c0a2a05b442c"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "ee5834ddc240a4d6f07b277ad90f07e18cf22b96e6817ea7d82bfc0bb8bfb496"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "891f4b968b1484c3b421e4c5d48cc9d1549335b5585dbba6c932e12d219729e3"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "26a3e13a20499d85bbc17994055a0db2a982dce446c51fe045b0eff297447e47"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "e9b17219fa4409f6377373e2196e2dc0ee82a8cc5d0be882633b3bfe258029f5"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "d80f793d47186ec6e10687bbac4b7fdb0deef9fd5245cd6b3d3f317ce65d685b"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "621525f5c26e70681238c56b6f0f23700c26d384cbd42e3a96af1ae467fc91de"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "e412667a7aa6af6e985199a4a632cf246a6e18e395d3e94cbe4e21a57e4dd40a"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "a387c63315beaf612b74a1def91051a5aa2d4f9e08cf160063bda5a62b7af0da"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "83cba25ee75fa8c186505ca75a5f283fafcb1b949fdd68fb4a834b76a967952f"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "88d1598b96dedaddd7fe8ab487b9209d1f1b4ae40b935d5479967a9175ca5eb5"
+    },
+    {
+      "fileName": "terraform-provider-mongodb2_0.3.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-mongodb2_0.3.0_SHA256SUMS",
+      "hash": "6ac7efbc338e868b3a198594414b1a752880e38ee3a5beeee8b23d393c7ad7d8"
+    }
+  ]
+}

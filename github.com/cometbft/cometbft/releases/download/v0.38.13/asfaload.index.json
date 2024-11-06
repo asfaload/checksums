@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cometbft_0.38.13_darwin_amd64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.38.13.txt","hash":"52ba85964fc8cbc81d60e93ddbb0dba16b0116067afc8e6c77d85a3328c84c07"},{"fileName":"cometbft_0.38.13_darwin_arm64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.38.13.txt","hash":"e78a83dc49b65e49a82f5d5457a3c603a272563398b4c1d14fa7931e985e64b3"},{"fileName":"cometbft_0.38.13_linux_amd64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.38.13.txt","hash":"39eff76604ac0b7ffb6e0071a590388062a4c49f01cc34ea9792150437b3d421"},{"fileName":"cometbft_0.38.13_linux_arm64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.38.13.txt","hash":"e6206b1961a675baa1ab84da87982b46409e17d17618f045bbf52f1b248bf6a7"},{"fileName":"cometbft_0.38.13_linux_armv6.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.38.13.txt","hash":"8152a9e83b5456c90cd97198587ed5442cec9b6395dac4998e029d4b6d5a8864"},{"fileName":"cometbft_0.38.13_windows_amd64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.38.13.txt","hash":"67b440d22ccab273ab313965e139cf3ae56476cb4e58cc2b388570ac1e0c15a9"},{"fileName":"cometbft_0.38.13_windows_arm64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.38.13.txt","hash":"5e984aa9a5528622f6affbe9030cbf9f3b4152a50bbfb6445eb624dcfdd20d60"},{"fileName":"cometbft_0.38.13_windows_armv6.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.38.13.txt","hash":"2e6a61a66dfd012ba2020fabfb77d682673910c93e6b1dcc94783af84a90acf7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cometbft_0.38.13_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.38.13.txt",
+      "hash": "52ba85964fc8cbc81d60e93ddbb0dba16b0116067afc8e6c77d85a3328c84c07"
+    },
+    {
+      "fileName": "cometbft_0.38.13_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.38.13.txt",
+      "hash": "e78a83dc49b65e49a82f5d5457a3c603a272563398b4c1d14fa7931e985e64b3"
+    },
+    {
+      "fileName": "cometbft_0.38.13_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.38.13.txt",
+      "hash": "39eff76604ac0b7ffb6e0071a590388062a4c49f01cc34ea9792150437b3d421"
+    },
+    {
+      "fileName": "cometbft_0.38.13_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.38.13.txt",
+      "hash": "e6206b1961a675baa1ab84da87982b46409e17d17618f045bbf52f1b248bf6a7"
+    },
+    {
+      "fileName": "cometbft_0.38.13_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.38.13.txt",
+      "hash": "8152a9e83b5456c90cd97198587ed5442cec9b6395dac4998e029d4b6d5a8864"
+    },
+    {
+      "fileName": "cometbft_0.38.13_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.38.13.txt",
+      "hash": "67b440d22ccab273ab313965e139cf3ae56476cb4e58cc2b388570ac1e0c15a9"
+    },
+    {
+      "fileName": "cometbft_0.38.13_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.38.13.txt",
+      "hash": "5e984aa9a5528622f6affbe9030cbf9f3b4152a50bbfb6445eb624dcfdd20d60"
+    },
+    {
+      "fileName": "cometbft_0.38.13_windows_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.38.13.txt",
+      "hash": "2e6a61a66dfd012ba2020fabfb77d682673910c93e6b1dcc94783af84a90acf7"
+    }
+  ]
+}

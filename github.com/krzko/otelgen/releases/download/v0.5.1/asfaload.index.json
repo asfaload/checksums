@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"otelgen_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1167642ded943e1a471cc4711c05e9640dfd8ccf6dc9d7ad89c7b2235f392705"},{"fileName":"otelgen_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"32c686757002e817e55a78df8dfe1d2a2e9c9e45f03f6d346c5301482e2a73bd"},{"fileName":"otelgen_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"36ce128acc2dce2614bb1d8dcdbb51f6e2ffb0e81dd992a7e1f8b38e227874f6"},{"fileName":"otelgen_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e946fd7801831931cd9b98bfc0369396c96173627f8d710f84667feebefa5e3b"},{"fileName":"otelgen_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"bdb41a7507c5690d6249300ea4992e45a3755008f1df50482850591364477f99"},{"fileName":"otelgen_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"b293d7aa68253b40e8b6a9fa1a16b1510f4377262d1d02e13c8597ff18904310"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "otelgen_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1167642ded943e1a471cc4711c05e9640dfd8ccf6dc9d7ad89c7b2235f392705"
+    },
+    {
+      "fileName": "otelgen_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "32c686757002e817e55a78df8dfe1d2a2e9c9e45f03f6d346c5301482e2a73bd"
+    },
+    {
+      "fileName": "otelgen_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "36ce128acc2dce2614bb1d8dcdbb51f6e2ffb0e81dd992a7e1f8b38e227874f6"
+    },
+    {
+      "fileName": "otelgen_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e946fd7801831931cd9b98bfc0369396c96173627f8d710f84667feebefa5e3b"
+    },
+    {
+      "fileName": "otelgen_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bdb41a7507c5690d6249300ea4992e45a3755008f1df50482850591364477f99"
+    },
+    {
+      "fileName": "otelgen_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b293d7aa68253b40e8b6a9fa1a16b1510f4377262d1d02e13c8597ff18904310"
+    }
+  ]
+}

@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T20:20:56+00:00","publishedOn":"2024-11-05T20:23:49.6893349+00:00","version":1,"publishedFiles":[{"fileName":"mracek-0.6.63-1.aarch64.rpm","algo":"Sha256","source":"checksums.txt","hash":"c8cd9d63277dfe1f87a15b0e74fb61a05f3b4299b32f4f55763e22940952b146"},{"fileName":"mracek-0.6.63-1.i386.rpm","algo":"Sha256","source":"checksums.txt","hash":"bea38936f017e4c88ccf06f95e6250e6105db2bccd1d2234ddf82d04156120db"},{"fileName":"mracek-0.6.63-1.x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"0f289031ef4693b7cec7f17e612735f73fb8af29d4f52fae700f06f288bf72ee"},{"fileName":"mracek_0.6.63_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"bf18c70df51e8e4eed814b95211f150e59280a3ed60df28b49da1e06ffe521f6"},{"fileName":"mracek_0.6.63_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"38ee78c587a5ec3d899e74af8e62538377463d37b001843ade89ef4d7a1f1192"},{"fileName":"mracek_0.6.63_i386.deb","algo":"Sha256","source":"checksums.txt","hash":"5ac491416902a4f479d1118b1aba23785ed18599d2804b8bfb9f8f9a0d4d98cb"},{"fileName":"mracek_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e6fc0b19433e75da466fb85145714a51508a2d04c278d5ecdfdea70ae728f5ce"},{"fileName":"mracek_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"035d061682da5cb1b4b05c67abcea15ca133218a03eb6f66784d1d248a951515"},{"fileName":"mracek_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"edeec5eb4a91afc0236a8e0b07607a970673214852dfe552dda0d73c90f29da5"},{"fileName":"mracek_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"288af63e6ae93c17212925bfbc268780b0e6f26ae69902203ef9a25fe794d7f8"},{"fileName":"mracek_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a6410b02d6a74b3890b6c8827345d0b59d192412313139fb5a4bb90f9b56d7f0"}]}
+{
+  "mirroredOn": "2024-11-05T20:23:49.6893349+00:00",
+  "publishedOn": "2024-11-05T20:20:56+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mracek-0.6.63-1.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c8cd9d63277dfe1f87a15b0e74fb61a05f3b4299b32f4f55763e22940952b146"
+    },
+    {
+      "fileName": "mracek-0.6.63-1.i386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bea38936f017e4c88ccf06f95e6250e6105db2bccd1d2234ddf82d04156120db"
+    },
+    {
+      "fileName": "mracek-0.6.63-1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0f289031ef4693b7cec7f17e612735f73fb8af29d4f52fae700f06f288bf72ee"
+    },
+    {
+      "fileName": "mracek_0.6.63_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bf18c70df51e8e4eed814b95211f150e59280a3ed60df28b49da1e06ffe521f6"
+    },
+    {
+      "fileName": "mracek_0.6.63_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "38ee78c587a5ec3d899e74af8e62538377463d37b001843ade89ef4d7a1f1192"
+    },
+    {
+      "fileName": "mracek_0.6.63_i386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5ac491416902a4f479d1118b1aba23785ed18599d2804b8bfb9f8f9a0d4d98cb"
+    },
+    {
+      "fileName": "mracek_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e6fc0b19433e75da466fb85145714a51508a2d04c278d5ecdfdea70ae728f5ce"
+    },
+    {
+      "fileName": "mracek_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "035d061682da5cb1b4b05c67abcea15ca133218a03eb6f66784d1d248a951515"
+    },
+    {
+      "fileName": "mracek_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "edeec5eb4a91afc0236a8e0b07607a970673214852dfe552dda0d73c90f29da5"
+    },
+    {
+      "fileName": "mracek_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "288af63e6ae93c17212925bfbc268780b0e6f26ae69902203ef9a25fe794d7f8"
+    },
+    {
+      "fileName": "mracek_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a6410b02d6a74b3890b6c8827345d0b59d192412313139fb5a4bb90f9b56d7f0"
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"rfq-1.35.1.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1dd233a7bc4620e74a8511f4fedbedfe13c07692402a40ce43d0dc2798a0bb04"},{"fileName":"rfq-1.35.1_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"09938a31970963e870b12da1ba5f6735a69c77c770794fe5318d0a56d89a7e3f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "rfq-1.35.1.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1dd233a7bc4620e74a8511f4fedbedfe13c07692402a40ce43d0dc2798a0bb04"
+    },
+    {
+      "fileName": "rfq-1.35.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "09938a31970963e870b12da1ba5f6735a69c77c770794fe5318d0a56d89a7e3f"
+    }
+  ]
+}

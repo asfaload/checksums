@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"athens_0.15.3_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d51bbf0095a60edbcd0a94f1562fdb321a08af8a36e95adb283ecf8de0a09739"},{"fileName":"athens_0.15.3_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f638c27d178a60a15d02f2c3db4f68779f1658a445ed15577bfc8e0359e38faa"},{"fileName":"athens_0.15.3_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0a91646cfc59c5fd990e6f35366be3c506f113ba0def9f1af3a20144023984d4"},{"fileName":"athens_0.15.3_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a13bb35b27a21131077199d601e37ef3a9e530b523747c6b5d76fd96f0b09856"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "athens_0.15.3_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d51bbf0095a60edbcd0a94f1562fdb321a08af8a36e95adb283ecf8de0a09739"
+    },
+    {
+      "fileName": "athens_0.15.3_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f638c27d178a60a15d02f2c3db4f68779f1658a445ed15577bfc8e0359e38faa"
+    },
+    {
+      "fileName": "athens_0.15.3_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0a91646cfc59c5fd990e6f35366be3c506f113ba0def9f1af3a20144023984d4"
+    },
+    {
+      "fileName": "athens_0.15.3_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a13bb35b27a21131077199d601e37ef3a9e530b523747c6b5d76fd96f0b09856"
+    }
+  ]
+}

@@ -1,1 +1,127 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"dirstat_1.3.2_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7e4e78fb5831382159b8bcd403bfd31143d42de5e288b141bbe0e3766fc959a2"},{"fileName":"dirstat_1.3.2_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ebe176f87ee7dac644c786ba0e8d77556bd6c7f084434284876b58a227313b5e"},{"fileName":"dirstat_1.3.2_freebsd_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"012d27dda42339e5d52e576591d0c2e8272faf6c987826a70193adb814e4cff1"},{"fileName":"dirstat_1.3.2_freebsd_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"61b13b0826c7df9827dfd640de0cc29b87f83e3856a2348475f39a1c1d2ccfbf"},{"fileName":"dirstat_1.3.2_freebsd_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"681b0d8c228646b81e5085726983df25665387438bcee85fc89570f771771b9e"},{"fileName":"dirstat_1.3.2_freebsd_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"742983e8ce5589914ed0bf7240bdcd50798972c9aec497f28661a0e69158d4ba"},{"fileName":"dirstat_1.3.2_linux_386.deb","algo":"Sha256","source":"checksums.txt","hash":"df40fa56b065374cbd5bc13c656b1068f755f741fe19b2b96da1d2231feb87d5"},{"fileName":"dirstat_1.3.2_linux_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"b9e4c48496b93f71d9112b02ef2ee14f6f8cb9c8a564e591f4eed624b9ce5d16"},{"fileName":"dirstat_1.3.2_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"abffa7623d45f398b1190edeadc144a5114f0553d764afe056d8cf6b2b159737"},{"fileName":"dirstat_1.3.2_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"20de855d947b474af9798131f41d1d08f0585d2b5b59e2944c095c32703c39fb"},{"fileName":"dirstat_1.3.2_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"e51c64e342a7ec250aa0141e2ccff10f98dfc7287408fdbc5342a6576baaeaa0"},{"fileName":"dirstat_1.3.2_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"649afe3d45789bcf3cd487185104b122c06103f174bfc7d44a7eb881185ca7fb"},{"fileName":"dirstat_1.3.2_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"c9832d643ada5052cd129aaf4f417c28ed9cbb94c6e2d57578c8587b3bfe6089"},{"fileName":"dirstat_1.3.2_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"c38837262fc6479df59e9faf63f8810b767c57c9c1d5acb9c4711e807541cb6d"},{"fileName":"dirstat_1.3.2_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0641bac46b1d85269867503e326d71f3fa7d8dbdabc6de26bd69ca4eda1257e8"},{"fileName":"dirstat_1.3.2_linux_armv7.deb","algo":"Sha256","source":"checksums.txt","hash":"8d514b46587da7147a5989411db6de7ac81700b9a8dc39c84475b7c67a850064"},{"fileName":"dirstat_1.3.2_linux_armv7.rpm","algo":"Sha256","source":"checksums.txt","hash":"d5eceb6d8723f1dd1333fa87abf934614d5f079a30c6cc53bf98b182a7b3c4cc"},{"fileName":"dirstat_1.3.2_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3eaf5fd9d352385415ee3dedeb68e1b06e2e3125e2c3b8678d2f9a94c8c0aadb"},{"fileName":"dirstat_1.3.2_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"60b67ecba033d548af27c9b49151a8e25a2fb67772417f8a8116ef231d75c7ce"},{"fileName":"dirstat_1.3.2_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9d9ca2e8f213f8812cf1fef5f354496b4fe1b061d86e077c2e55ccfc58c3c745"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "dirstat_1.3.2_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7e4e78fb5831382159b8bcd403bfd31143d42de5e288b141bbe0e3766fc959a2"
+    },
+    {
+      "fileName": "dirstat_1.3.2_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ebe176f87ee7dac644c786ba0e8d77556bd6c7f084434284876b58a227313b5e"
+    },
+    {
+      "fileName": "dirstat_1.3.2_freebsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "012d27dda42339e5d52e576591d0c2e8272faf6c987826a70193adb814e4cff1"
+    },
+    {
+      "fileName": "dirstat_1.3.2_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "61b13b0826c7df9827dfd640de0cc29b87f83e3856a2348475f39a1c1d2ccfbf"
+    },
+    {
+      "fileName": "dirstat_1.3.2_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "681b0d8c228646b81e5085726983df25665387438bcee85fc89570f771771b9e"
+    },
+    {
+      "fileName": "dirstat_1.3.2_freebsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "742983e8ce5589914ed0bf7240bdcd50798972c9aec497f28661a0e69158d4ba"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "df40fa56b065374cbd5bc13c656b1068f755f741fe19b2b96da1d2231feb87d5"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b9e4c48496b93f71d9112b02ef2ee14f6f8cb9c8a564e591f4eed624b9ce5d16"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "abffa7623d45f398b1190edeadc144a5114f0553d764afe056d8cf6b2b159737"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "20de855d947b474af9798131f41d1d08f0585d2b5b59e2944c095c32703c39fb"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e51c64e342a7ec250aa0141e2ccff10f98dfc7287408fdbc5342a6576baaeaa0"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "649afe3d45789bcf3cd487185104b122c06103f174bfc7d44a7eb881185ca7fb"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c9832d643ada5052cd129aaf4f417c28ed9cbb94c6e2d57578c8587b3bfe6089"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c38837262fc6479df59e9faf63f8810b767c57c9c1d5acb9c4711e807541cb6d"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0641bac46b1d85269867503e326d71f3fa7d8dbdabc6de26bd69ca4eda1257e8"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8d514b46587da7147a5989411db6de7ac81700b9a8dc39c84475b7c67a850064"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d5eceb6d8723f1dd1333fa87abf934614d5f079a30c6cc53bf98b182a7b3c4cc"
+    },
+    {
+      "fileName": "dirstat_1.3.2_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3eaf5fd9d352385415ee3dedeb68e1b06e2e3125e2c3b8678d2f9a94c8c0aadb"
+    },
+    {
+      "fileName": "dirstat_1.3.2_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "60b67ecba033d548af27c9b49151a8e25a2fb67772417f8a8116ef231d75c7ce"
+    },
+    {
+      "fileName": "dirstat_1.3.2_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9d9ca2e8f213f8812cf1fef5f354496b4fe1b061d86e077c2e55ccfc58c3c745"
+    }
+  ]
+}

@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"vaults-0.8.0.tar.xz","algo":"Sha256","source":"vaults-0.8.0.tar.xz.sha256sum","hash":"82ec65d539f12109c1a43e3e77722f06806a5ff61dfccf768372bc68d9e80cfa"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "vaults-0.8.0.tar.xz",
+      "algo": "Sha256",
+      "source": "vaults-0.8.0.tar.xz.sha256sum",
+      "hash": "82ec65d539f12109c1a43e3e77722f06806a5ff61dfccf768372bc68d9e80cfa"
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-06T02:41:58+00:00","publishedOn":"2024-11-06T02:43:48.2266283+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"bb76342df77be7f49e7f716b579301e9017580edbbfe7be2e8ab836cd4b05563"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"786ce1d0155e0d3e90c0e935e1e230ca2306df9a85624e0e671cd1e6ae425eb8"},{"fileName":"openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-ext4-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"50f58f5754377e1d1ff77589cacea5de62ec70db178fb4bb2741958649bb84aa"},{"fileName":"openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-rootfs.tar.gz","algo":"Sha256","source":"sha256sums","hash":"9839423751303cff4d40ea79b7e0736a84bbda83bd32e9b192a20ea4fae688eb"},{"fileName":"openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"730f36368c7cb9c70aa6961d9c6fda72e27995e7567b3db3c8ba7c5f4d6d257a"},{"fileName":"openwrt-rockchip-armv8-friendlyarm_nanopi-r4s.manifest","algo":"Sha256","source":"sha256sums","hash":"30979909d105f5ac8f15703b850d06c8d821186bf6bd87a373f9b0a6411c4f6c"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"7910595504294bd0a2cbe2a95cb38ba97c3f820329ea56deea46368b54b4ee9d"}]}
+{
+  "mirroredOn": "2024-11-06T02:43:48.2266283+00:00",
+  "publishedOn": "2024-11-06T02:41:58+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "bb76342df77be7f49e7f716b579301e9017580edbbfe7be2e8ab836cd4b05563"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "786ce1d0155e0d3e90c0e935e1e230ca2306df9a85624e0e671cd1e6ae425eb8"
+    },
+    {
+      "fileName": "openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-ext4-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "50f58f5754377e1d1ff77589cacea5de62ec70db178fb4bb2741958649bb84aa"
+    },
+    {
+      "fileName": "openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-rootfs.tar.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "9839423751303cff4d40ea79b7e0736a84bbda83bd32e9b192a20ea4fae688eb"
+    },
+    {
+      "fileName": "openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "730f36368c7cb9c70aa6961d9c6fda72e27995e7567b3db3c8ba7c5f4d6d257a"
+    },
+    {
+      "fileName": "openwrt-rockchip-armv8-friendlyarm_nanopi-r4s.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "30979909d105f5ac8f15703b850d06c8d821186bf6bd87a373f9b0a6411c4f6c"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "7910595504294bd0a2cbe2a95cb38ba97c3f820329ea56deea46368b54b4ee9d"
+    }
+  ]
+}

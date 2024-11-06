@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sensu-handler-betteruptime_0.0.2_darwin_amd64.tar.gz","algo":"Sha512","source":"sensu-handler-betteruptime_0.0.2_sha512-checksums.txt","hash":"18555e1340414304a46be2d49c60ce97e1bd886055f7122ecee19544338bed57ff3095978242b1576e30d5ddc6e14cab17535cfaf06b9539d5fedb3688a14aab"},{"fileName":"sensu-handler-betteruptime_0.0.2_linux_386.tar.gz","algo":"Sha512","source":"sensu-handler-betteruptime_0.0.2_sha512-checksums.txt","hash":"6f921be4471728f3f3a3494f7ca0430248c324379c7236fe1a249621ba1079c69935bbf046388de7144513bb842519048c74886725940d550737d434065b3f92"},{"fileName":"sensu-handler-betteruptime_0.0.2_linux_armv7.tar.gz","algo":"Sha512","source":"sensu-handler-betteruptime_0.0.2_sha512-checksums.txt","hash":"847ed6e85ac4d681800a4fe8a77b7b2e77ce2a5781c252381e635865ad99c87792ebd53aff51f5ce0d12b2dd892241c17e980bb5ef245b5a90f77127f8e9453e"},{"fileName":"sensu-handler-betteruptime_0.0.2_linux_arm64.tar.gz","algo":"Sha512","source":"sensu-handler-betteruptime_0.0.2_sha512-checksums.txt","hash":"aaefcdf08fe839d0d198020da625e80aeb8d157e2958cfe375957935be0777174e27cb7c85de017315a79bbad01cdf9f0e51f1786dca0f6340f0dceca7f64cd2"},{"fileName":"sensu-handler-betteruptime_0.0.2_linux_amd64.tar.gz","algo":"Sha512","source":"sensu-handler-betteruptime_0.0.2_sha512-checksums.txt","hash":"c345d562dac4a751fd9b5a55ecfdc568ddc263029a3d2eec515fd8e059355c6b4221cd4bdfd8b5a1853a630bbee56b81d4a0588014ab4d0a30bb4c868cfcabfb"},{"fileName":"sensu-handler-betteruptime_0.0.2_linux_armv6.tar.gz","algo":"Sha512","source":"sensu-handler-betteruptime_0.0.2_sha512-checksums.txt","hash":"dafce7cc016f6d752fca50128243be9d3574c462d729e2b3f4cb43d381bad9211cbf9f994db0ad1e2f4b02ed1accefc0443f7221fc3e84ce809502914f87c85a"},{"fileName":"sensu-handler-betteruptime_0.0.2_linux_armv5.tar.gz","algo":"Sha512","source":"sensu-handler-betteruptime_0.0.2_sha512-checksums.txt","hash":"e0a202f4a1761a6bdb9b753021885c4a6d6ca007aa2721994f3df4c38dfc0af94473b4fe9facf370c3ce9133a622e2fec2e6fffb776d3962e5c7225b91d3c6d3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sensu-handler-betteruptime_0.0.2_darwin_amd64.tar.gz",
+      "algo": "Sha512",
+      "source": "sensu-handler-betteruptime_0.0.2_sha512-checksums.txt",
+      "hash": "18555e1340414304a46be2d49c60ce97e1bd886055f7122ecee19544338bed57ff3095978242b1576e30d5ddc6e14cab17535cfaf06b9539d5fedb3688a14aab"
+    },
+    {
+      "fileName": "sensu-handler-betteruptime_0.0.2_linux_386.tar.gz",
+      "algo": "Sha512",
+      "source": "sensu-handler-betteruptime_0.0.2_sha512-checksums.txt",
+      "hash": "6f921be4471728f3f3a3494f7ca0430248c324379c7236fe1a249621ba1079c69935bbf046388de7144513bb842519048c74886725940d550737d434065b3f92"
+    },
+    {
+      "fileName": "sensu-handler-betteruptime_0.0.2_linux_armv7.tar.gz",
+      "algo": "Sha512",
+      "source": "sensu-handler-betteruptime_0.0.2_sha512-checksums.txt",
+      "hash": "847ed6e85ac4d681800a4fe8a77b7b2e77ce2a5781c252381e635865ad99c87792ebd53aff51f5ce0d12b2dd892241c17e980bb5ef245b5a90f77127f8e9453e"
+    },
+    {
+      "fileName": "sensu-handler-betteruptime_0.0.2_linux_arm64.tar.gz",
+      "algo": "Sha512",
+      "source": "sensu-handler-betteruptime_0.0.2_sha512-checksums.txt",
+      "hash": "aaefcdf08fe839d0d198020da625e80aeb8d157e2958cfe375957935be0777174e27cb7c85de017315a79bbad01cdf9f0e51f1786dca0f6340f0dceca7f64cd2"
+    },
+    {
+      "fileName": "sensu-handler-betteruptime_0.0.2_linux_amd64.tar.gz",
+      "algo": "Sha512",
+      "source": "sensu-handler-betteruptime_0.0.2_sha512-checksums.txt",
+      "hash": "c345d562dac4a751fd9b5a55ecfdc568ddc263029a3d2eec515fd8e059355c6b4221cd4bdfd8b5a1853a630bbee56b81d4a0588014ab4d0a30bb4c868cfcabfb"
+    },
+    {
+      "fileName": "sensu-handler-betteruptime_0.0.2_linux_armv6.tar.gz",
+      "algo": "Sha512",
+      "source": "sensu-handler-betteruptime_0.0.2_sha512-checksums.txt",
+      "hash": "dafce7cc016f6d752fca50128243be9d3574c462d729e2b3f4cb43d381bad9211cbf9f994db0ad1e2f4b02ed1accefc0443f7221fc3e84ce809502914f87c85a"
+    },
+    {
+      "fileName": "sensu-handler-betteruptime_0.0.2_linux_armv5.tar.gz",
+      "algo": "Sha512",
+      "source": "sensu-handler-betteruptime_0.0.2_sha512-checksums.txt",
+      "hash": "e0a202f4a1761a6bdb9b753021885c4a6d6ca007aa2721994f3df4c38dfc0af94473b4fe9facf370c3ce9133a622e2fec2e6fffb776d3962e5c7225b91d3c6d3"
+    }
+  ]
+}

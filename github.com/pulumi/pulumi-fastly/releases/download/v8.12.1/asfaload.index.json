@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-fastly-v8.12.1-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-fastly_8.12.1_checksums.txt","hash":"0b6291200d3a2f81a3539aa169244a7dbe32765d"},{"fileName":"./pulumi-resource-fastly-v8.12.1-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-fastly_8.12.1_checksums.txt","hash":"c964407109a89ea2dac9fbc1564950329c78c88b"},{"fileName":"./pulumi-resource-fastly-v8.12.1-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-fastly_8.12.1_checksums.txt","hash":"0a6a79bd845170644442011546d650b6e03cb1f9"},{"fileName":"./pulumi-resource-fastly-v8.12.1-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-fastly_8.12.1_checksums.txt","hash":"46c7d474f60f008e021cd49bc69b69667a8dc513"},{"fileName":"./pulumi-resource-fastly-v8.12.1-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-fastly_8.12.1_checksums.txt","hash":"2e87be22458c2346a0951d1e5d513f4c3f3e4811"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-fastly-v8.12.1-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-fastly_8.12.1_checksums.txt",
+      "hash": "0b6291200d3a2f81a3539aa169244a7dbe32765d"
+    },
+    {
+      "fileName": "./pulumi-resource-fastly-v8.12.1-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-fastly_8.12.1_checksums.txt",
+      "hash": "c964407109a89ea2dac9fbc1564950329c78c88b"
+    },
+    {
+      "fileName": "./pulumi-resource-fastly-v8.12.1-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-fastly_8.12.1_checksums.txt",
+      "hash": "0a6a79bd845170644442011546d650b6e03cb1f9"
+    },
+    {
+      "fileName": "./pulumi-resource-fastly-v8.12.1-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-fastly_8.12.1_checksums.txt",
+      "hash": "46c7d474f60f008e021cd49bc69b69667a8dc513"
+    },
+    {
+      "fileName": "./pulumi-resource-fastly-v8.12.1-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-fastly_8.12.1_checksums.txt",
+      "hash": "2e87be22458c2346a0951d1e5d513f4c3f3e4811"
+    }
+  ]
+}

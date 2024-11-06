@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"helm-controller.crds.yaml","algo":"Sha256","source":"helm-controller_1.1.0_checksums.txt","hash":"bdaa8976dc9c61cadf16f68a8a4b156a6b89d1dda98ce01deb29b54e27226a72"},{"fileName":"helm-controller.deployment.yaml","algo":"Sha256","source":"helm-controller_1.1.0_checksums.txt","hash":"7b432db792a6b71069fba714e743a6f1a7ec299472b5ff83981e39fc606a9f72"},{"fileName":"helm-controller_1.1.0_sbom.spdx.json","algo":"Sha256","source":"helm-controller_1.1.0_checksums.txt","hash":"beb1d5c8f72fa9a3e165f8d416352a5188758c78a595f5545bb8d4eaff8f5d2b"},{"fileName":"helm-controller_1.1.0_source_code.tar.gz","algo":"Sha256","source":"helm-controller_1.1.0_checksums.txt","hash":"fb86c04029539131bab7977517d68f0e2409c23e92afd31bc89dcff163723615"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "helm-controller.crds.yaml",
+      "algo": "Sha256",
+      "source": "helm-controller_1.1.0_checksums.txt",
+      "hash": "bdaa8976dc9c61cadf16f68a8a4b156a6b89d1dda98ce01deb29b54e27226a72"
+    },
+    {
+      "fileName": "helm-controller.deployment.yaml",
+      "algo": "Sha256",
+      "source": "helm-controller_1.1.0_checksums.txt",
+      "hash": "7b432db792a6b71069fba714e743a6f1a7ec299472b5ff83981e39fc606a9f72"
+    },
+    {
+      "fileName": "helm-controller_1.1.0_sbom.spdx.json",
+      "algo": "Sha256",
+      "source": "helm-controller_1.1.0_checksums.txt",
+      "hash": "beb1d5c8f72fa9a3e165f8d416352a5188758c78a595f5545bb8d4eaff8f5d2b"
+    },
+    {
+      "fileName": "helm-controller_1.1.0_source_code.tar.gz",
+      "algo": "Sha256",
+      "source": "helm-controller_1.1.0_checksums.txt",
+      "hash": "fb86c04029539131bab7977517d68f0e2409c23e92afd31bc89dcff163723615"
+    }
+  ]
+}

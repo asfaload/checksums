@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"packer-plugin-debootstrap_v0.0.5_x5.0_linux_amd64.zip","algo":"Sha256","source":"packer-plugin-debootstrap_v0.0.5_SHA256SUMS","hash":"1d8844f9d779b6c02563f3282c76d3f1d00b8d9b87016553fd3a310e2e2007ce"},{"fileName":"packer-plugin-debootstrap_v0.0.5_x5.0_linux_arm64.zip","algo":"Sha256","source":"packer-plugin-debootstrap_v0.0.5_SHA256SUMS","hash":"46ae79b64b64d1867badca8ea3be556bc466f270bf70743fed3883db13b5e00c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "packer-plugin-debootstrap_v0.0.5_x5.0_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-debootstrap_v0.0.5_SHA256SUMS",
+      "hash": "1d8844f9d779b6c02563f3282c76d3f1d00b8d9b87016553fd3a310e2e2007ce"
+    },
+    {
+      "fileName": "packer-plugin-debootstrap_v0.0.5_x5.0_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-debootstrap_v0.0.5_SHA256SUMS",
+      "hash": "46ae79b64b64d1867badca8ea3be556bc466f270bf70743fed3883db13b5e00c"
+    }
+  ]
+}

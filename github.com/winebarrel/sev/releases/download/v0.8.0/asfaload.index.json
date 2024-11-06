@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sev_0.8.0_386.deb","algo":"Sha256","source":"checksums.txt","hash":"0c79f0c82c3c3c63558ac518c4baa7a82918d285b1973bff557721e26fd2c1aa"},{"fileName":"sev_0.8.0_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"820dc1c30f89c161300baa2f1bf8128d7aff295fd3812cfc1c91305cc1c8d363"},{"fileName":"sev_0.8.0_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"a191501dc0f2c17b7d56c2a720a5db6b2abc3c0f9e8e185456387aafd15b0913"},{"fileName":"sev_0.8.0_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"04b827969601636dba03540fafdea6aa06d58fd78df61805e7a0174a8d45dc70"},{"fileName":"sev_0.8.0_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"5cd0d488fe0c1c90e5e6c116adfbf8f20eeee79aab6525282b9c99f44ee0924b"},{"fileName":"sev_0.8.0_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"0eab3cab1078ba8add45f024ceed6e95511a56ef0f429f66b2b4f29e8efcaddc"},{"fileName":"sev_0.8.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0323e80ed07ccc10cb7eed3c62376a9ab853ba5bb11191b44bc8b9d26fb5de87"},{"fileName":"sev_0.8.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fd26e99839c33e3afbf61e86190e184299e69bf0d61642c422602bdfda963002"},{"fileName":"sev_0.8.0_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8a638bbf686eb99d8044eb89358e5f05e147b4a8066c00030b9f81b1506105f2"},{"fileName":"sev_0.8.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e985fd5c1d9264b35d3b2a4a35f08a712b7be88790a29b5d276f524c88cf1e2c"},{"fileName":"sev_0.8.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5b2c1e47e5fd3fa0a40f47092dd03dc459c9537714b32e724be0f6d1cb36aa87"},{"fileName":"sev_0.8.0_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ddbc690ed1bb6fec9c2c33d9c8ff459bf105e29e5be7a246fbee400a79bd2139"},{"fileName":"sev_0.8.0_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"00ac7b41766e99bec10b5e7565050832d18ee7df953f9f1a41ed5829feecb3bd"},{"fileName":"sev_0.8.0_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"850a12a0022a6115a24d4a8492cb571a35ac58379dbca9e148f0f27febfdee0f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sev_0.8.0_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0c79f0c82c3c3c63558ac518c4baa7a82918d285b1973bff557721e26fd2c1aa"
+    },
+    {
+      "fileName": "sev_0.8.0_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "820dc1c30f89c161300baa2f1bf8128d7aff295fd3812cfc1c91305cc1c8d363"
+    },
+    {
+      "fileName": "sev_0.8.0_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a191501dc0f2c17b7d56c2a720a5db6b2abc3c0f9e8e185456387aafd15b0913"
+    },
+    {
+      "fileName": "sev_0.8.0_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "04b827969601636dba03540fafdea6aa06d58fd78df61805e7a0174a8d45dc70"
+    },
+    {
+      "fileName": "sev_0.8.0_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5cd0d488fe0c1c90e5e6c116adfbf8f20eeee79aab6525282b9c99f44ee0924b"
+    },
+    {
+      "fileName": "sev_0.8.0_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0eab3cab1078ba8add45f024ceed6e95511a56ef0f429f66b2b4f29e8efcaddc"
+    },
+    {
+      "fileName": "sev_0.8.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0323e80ed07ccc10cb7eed3c62376a9ab853ba5bb11191b44bc8b9d26fb5de87"
+    },
+    {
+      "fileName": "sev_0.8.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fd26e99839c33e3afbf61e86190e184299e69bf0d61642c422602bdfda963002"
+    },
+    {
+      "fileName": "sev_0.8.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8a638bbf686eb99d8044eb89358e5f05e147b4a8066c00030b9f81b1506105f2"
+    },
+    {
+      "fileName": "sev_0.8.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e985fd5c1d9264b35d3b2a4a35f08a712b7be88790a29b5d276f524c88cf1e2c"
+    },
+    {
+      "fileName": "sev_0.8.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5b2c1e47e5fd3fa0a40f47092dd03dc459c9537714b32e724be0f6d1cb36aa87"
+    },
+    {
+      "fileName": "sev_0.8.0_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ddbc690ed1bb6fec9c2c33d9c8ff459bf105e29e5be7a246fbee400a79bd2139"
+    },
+    {
+      "fileName": "sev_0.8.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "00ac7b41766e99bec10b5e7565050832d18ee7df953f9f1a41ed5829feecb3bd"
+    },
+    {
+      "fileName": "sev_0.8.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "850a12a0022a6115a24d4a8492cb571a35ac58379dbca9e148f0f27febfdee0f"
+    }
+  ]
+}

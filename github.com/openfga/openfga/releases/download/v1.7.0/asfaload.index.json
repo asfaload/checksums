@@ -1,1 +1,103 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"openfga_1.7.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ddddf3ce502f71289645020a8dca239f82629357a3b89f7e8280fe598556c1e2"},{"fileName":"openfga_1.7.0_darwin_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"059b417bd256d4e1e54b7f75fafe5dbf18311b25522f8a5cdc795d25bc5182f0"},{"fileName":"openfga_1.7.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"07a35043fe895e31503ea8cbf49130a503283582b3c8978618109d6a5257d6b4"},{"fileName":"openfga_1.7.0_darwin_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"48706eabdc878f1cae7c763322fed5188b02b6a3a1d99b8ac0cf04327af42cd5"},{"fileName":"openfga_1.7.0_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f9f7346166474414cbc88ea41b0542ea040d79b1cee674421385a6cdc2a71674"},{"fileName":"openfga_1.7.0_linux_386.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"64dbf756ea8b5a2367e799e5161967f7f6cd67752c9f54dc98414f501749002d"},{"fileName":"openfga_1.7.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8d165de6059666303ae5e32a96f27f6984f727d8a83529b4bb1f81e37986f864"},{"fileName":"openfga_1.7.0_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"196057a98587953eac16e108188862abe5389f3f795227520f1a0e50505c41d3"},{"fileName":"openfga_1.7.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ecea7cdfe811a92101c65a2c3e4d8a82b4354aa0bf82f60918563bdc86fc0110"},{"fileName":"openfga_1.7.0_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"c16e406f3986d826c81a3d6ed2be477e372a4df7952bd6ca63f3e0b12b42f0d9"},{"fileName":"openfga_1.7.0_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6d0cdd23dd486a9075f85c15b3da76b0d400ec6c542e6465e9611477ae141e99"},{"fileName":"openfga_1.7.0_windows_386.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"d745bb27b98b4650dcdfe601a10adc5c1fb9cec29d0343a14133bf3acb2da1c1"},{"fileName":"openfga_1.7.0_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"de866793be68417e1c2462fff281617b735068b284c6acac2bd2102cfcfd8cef"},{"fileName":"openfga_1.7.0_windows_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"a013d4cf22cd8a461d40841677081cc5a474d5dbed58f0fc70d23c2f75dc9e55"},{"fileName":"openfga_1.7.0_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"80e4995fc20307e3e5c794aebfe414977a545d49592962d09bf3c892ab593afb"},{"fileName":"openfga_1.7.0_windows_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"d010e1a4752343abcc2cea5fb6b7b0949c7d5b259e9b3a62164823ee0c4cd04e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "openfga_1.7.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ddddf3ce502f71289645020a8dca239f82629357a3b89f7e8280fe598556c1e2"
+    },
+    {
+      "fileName": "openfga_1.7.0_darwin_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "059b417bd256d4e1e54b7f75fafe5dbf18311b25522f8a5cdc795d25bc5182f0"
+    },
+    {
+      "fileName": "openfga_1.7.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "07a35043fe895e31503ea8cbf49130a503283582b3c8978618109d6a5257d6b4"
+    },
+    {
+      "fileName": "openfga_1.7.0_darwin_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "48706eabdc878f1cae7c763322fed5188b02b6a3a1d99b8ac0cf04327af42cd5"
+    },
+    {
+      "fileName": "openfga_1.7.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f9f7346166474414cbc88ea41b0542ea040d79b1cee674421385a6cdc2a71674"
+    },
+    {
+      "fileName": "openfga_1.7.0_linux_386.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "64dbf756ea8b5a2367e799e5161967f7f6cd67752c9f54dc98414f501749002d"
+    },
+    {
+      "fileName": "openfga_1.7.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8d165de6059666303ae5e32a96f27f6984f727d8a83529b4bb1f81e37986f864"
+    },
+    {
+      "fileName": "openfga_1.7.0_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "196057a98587953eac16e108188862abe5389f3f795227520f1a0e50505c41d3"
+    },
+    {
+      "fileName": "openfga_1.7.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ecea7cdfe811a92101c65a2c3e4d8a82b4354aa0bf82f60918563bdc86fc0110"
+    },
+    {
+      "fileName": "openfga_1.7.0_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c16e406f3986d826c81a3d6ed2be477e372a4df7952bd6ca63f3e0b12b42f0d9"
+    },
+    {
+      "fileName": "openfga_1.7.0_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6d0cdd23dd486a9075f85c15b3da76b0d400ec6c542e6465e9611477ae141e99"
+    },
+    {
+      "fileName": "openfga_1.7.0_windows_386.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d745bb27b98b4650dcdfe601a10adc5c1fb9cec29d0343a14133bf3acb2da1c1"
+    },
+    {
+      "fileName": "openfga_1.7.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "de866793be68417e1c2462fff281617b735068b284c6acac2bd2102cfcfd8cef"
+    },
+    {
+      "fileName": "openfga_1.7.0_windows_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a013d4cf22cd8a461d40841677081cc5a474d5dbed58f0fc70d23c2f75dc9e55"
+    },
+    {
+      "fileName": "openfga_1.7.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "80e4995fc20307e3e5c794aebfe414977a545d49592962d09bf3c892ab593afb"
+    },
+    {
+      "fileName": "openfga_1.7.0_windows_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d010e1a4752343abcc2cea5fb6b7b0949c7d5b259e9b3a62164823ee0c4cd04e"
+    }
+  ]
+}

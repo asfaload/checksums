@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-cyral_4.14.1_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"edb93549a5d37dd18caccc254135bba2910899fab8993ffc376d1b52365e1c59"},{"fileName":"terraform-provider-cyral_4.14.1_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"3689a81c928edfe891fc7d0fdbe7d1533b6c5810971552033d15e1f5ca806474"},{"fileName":"terraform-provider-cyral_4.14.1_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"3c17bd5a1a9debad7c44cd29ad2c9e0f257beb792060cba3999c897ce700534b"},{"fileName":"terraform-provider-cyral_4.14.1_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"9e7bac41e5ba5227c9931b8027851f6971c6fda557a8fdfc9212d0e033621388"},{"fileName":"terraform-provider-cyral_4.14.1_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"295cd8e250b9f6af88eaefc6217062fe713864ec82c732b2ebeebe925e9d2fca"},{"fileName":"terraform-provider-cyral_4.14.1_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"8108f4de5b64f71cc101ce8453be51d194118cd33aa239316a63e02985867620"},{"fileName":"terraform-provider-cyral_4.14.1_linux_386.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"87cce76920556f91a0f0149ca1c40fc93c89899d39413e93a1db8b41fce53190"},{"fileName":"terraform-provider-cyral_4.14.1_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"b954b2a937a0d52a6e8fa054cfb44c61fe210b4fafce64d3052d0b713938b0e8"},{"fileName":"terraform-provider-cyral_4.14.1_linux_arm.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"999474eb5bfad77e7fea5b8cc506eeaa39bc29db4b872ffb437afdefdb64ec4e"},{"fileName":"terraform-provider-cyral_4.14.1_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"b65c771aed53d6251882d8eea4e2375452da84fa136be8928c2b297fd4627606"},{"fileName":"terraform-provider-cyral_4.14.1_windows_386.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"b0254f966de410a26dc33c86d8f43b229987a87b3d8d558e26a46a5418bdbf09"},{"fileName":"terraform-provider-cyral_4.14.1_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"fae00c8d1fa75f9db80c7f0b8aff6ec975571ab6df513678e021cad6914b3913"},{"fileName":"terraform-provider-cyral_4.14.1_windows_arm.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"0b426f5d9297a4c66bb38317d8ddd185c12915a120fa2a21caf0f15cf20e2f94"},{"fileName":"terraform-provider-cyral_4.14.1_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-cyral_4.14.1_SHA256SUMS","hash":"e8014ca2ca662e98db3eeee21c6220ed6793db66bbd64e00ec2112e3cf9b881f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "edb93549a5d37dd18caccc254135bba2910899fab8993ffc376d1b52365e1c59"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "3689a81c928edfe891fc7d0fdbe7d1533b6c5810971552033d15e1f5ca806474"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "3c17bd5a1a9debad7c44cd29ad2c9e0f257beb792060cba3999c897ce700534b"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "9e7bac41e5ba5227c9931b8027851f6971c6fda557a8fdfc9212d0e033621388"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "295cd8e250b9f6af88eaefc6217062fe713864ec82c732b2ebeebe925e9d2fca"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "8108f4de5b64f71cc101ce8453be51d194118cd33aa239316a63e02985867620"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "87cce76920556f91a0f0149ca1c40fc93c89899d39413e93a1db8b41fce53190"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "b954b2a937a0d52a6e8fa054cfb44c61fe210b4fafce64d3052d0b713938b0e8"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "999474eb5bfad77e7fea5b8cc506eeaa39bc29db4b872ffb437afdefdb64ec4e"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "b65c771aed53d6251882d8eea4e2375452da84fa136be8928c2b297fd4627606"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "b0254f966de410a26dc33c86d8f43b229987a87b3d8d558e26a46a5418bdbf09"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "fae00c8d1fa75f9db80c7f0b8aff6ec975571ab6df513678e021cad6914b3913"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "0b426f5d9297a4c66bb38317d8ddd185c12915a120fa2a21caf0f15cf20e2f94"
+    },
+    {
+      "fileName": "terraform-provider-cyral_4.14.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cyral_4.14.1_SHA256SUMS",
+      "hash": "e8014ca2ca662e98db3eeee21c6220ed6793db66bbd64e00ec2112e3cf9b881f"
+    }
+  ]
+}

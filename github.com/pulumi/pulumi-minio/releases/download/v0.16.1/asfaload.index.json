@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-minio-v0.16.1-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-minio_0.16.1_checksums.txt","hash":"415a0f49e3f373da2548743964f481ac000a89b6"},{"fileName":"./pulumi-resource-minio-v0.16.1-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-minio_0.16.1_checksums.txt","hash":"fe18e2d06dded920542d77fee25f87c485bd6788"},{"fileName":"./pulumi-resource-minio-v0.16.1-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-minio_0.16.1_checksums.txt","hash":"e1b07528710c3feeea66e55183a561be0518aa19"},{"fileName":"./pulumi-resource-minio-v0.16.1-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-minio_0.16.1_checksums.txt","hash":"944f6a0a420eb2fb92b48fcef91a1bca27dbc31c"},{"fileName":"./pulumi-resource-minio-v0.16.1-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-minio_0.16.1_checksums.txt","hash":"8d39d916c17d96f83803635656ee62e65b5d7ad2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-minio-v0.16.1-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-minio_0.16.1_checksums.txt",
+      "hash": "415a0f49e3f373da2548743964f481ac000a89b6"
+    },
+    {
+      "fileName": "./pulumi-resource-minio-v0.16.1-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-minio_0.16.1_checksums.txt",
+      "hash": "fe18e2d06dded920542d77fee25f87c485bd6788"
+    },
+    {
+      "fileName": "./pulumi-resource-minio-v0.16.1-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-minio_0.16.1_checksums.txt",
+      "hash": "e1b07528710c3feeea66e55183a561be0518aa19"
+    },
+    {
+      "fileName": "./pulumi-resource-minio-v0.16.1-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-minio_0.16.1_checksums.txt",
+      "hash": "944f6a0a420eb2fb92b48fcef91a1bca27dbc31c"
+    },
+    {
+      "fileName": "./pulumi-resource-minio-v0.16.1-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-minio_0.16.1_checksums.txt",
+      "hash": "8d39d916c17d96f83803635656ee62e65b5d7ad2"
+    }
+  ]
+}

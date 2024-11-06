@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"swag_1.16.3_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d0fac90453fedcefe04cc27882a331b18307ff43169eaccb5f3c87b6f03be638"},{"fileName":"swag_1.16.3_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a9a9febc10126af7e2fe1b16b5625f68ce8caeadc43ca993a5bdf2d5ee1f9ab5"},{"fileName":"swag_1.16.3_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"67de8517e76a754c7ec55960fd241bdc74bc1e1c7d363fb5bc108da706f6617c"},{"fileName":"swag_1.16.3_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"775bdadf0f9f1a7314532257cd2179be4da6b382b658c301e51a6686e5810540"},{"fileName":"swag_1.16.3_Linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f46b6fb03feeac991622c681fde6eb6d306baef0c2787cf07eaa894b0afce06f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "swag_1.16.3_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d0fac90453fedcefe04cc27882a331b18307ff43169eaccb5f3c87b6f03be638"
+    },
+    {
+      "fileName": "swag_1.16.3_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a9a9febc10126af7e2fe1b16b5625f68ce8caeadc43ca993a5bdf2d5ee1f9ab5"
+    },
+    {
+      "fileName": "swag_1.16.3_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "67de8517e76a754c7ec55960fd241bdc74bc1e1c7d363fb5bc108da706f6617c"
+    },
+    {
+      "fileName": "swag_1.16.3_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "775bdadf0f9f1a7314532257cd2179be4da6b382b658c301e51a6686e5810540"
+    },
+    {
+      "fileName": "swag_1.16.3_Linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f46b6fb03feeac991622c681fde6eb6d306baef0c2787cf07eaa894b0afce06f"
+    }
+  ]
+}

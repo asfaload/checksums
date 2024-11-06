@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"grimd_1.1.4_darwin_amd64.tar.gz","algo":"Sha256","source":"grimd_1.1.4_checksums.txt","hash":"209f3fc10f6312fd3fad2537f20ff0e3cdf3023fc28db2be4eb70ec98a83c86f"},{"fileName":"grimd_1.1.4_darwin_arm64.tar.gz","algo":"Sha256","source":"grimd_1.1.4_checksums.txt","hash":"7f7daaa7a30b508bb308ed8dc0436aa364665e27465da799935684575cdffc20"},{"fileName":"grimd_1.1.4_windows_arm64.tar.gz","algo":"Sha256","source":"grimd_1.1.4_checksums.txt","hash":"8e9164c6f0dda2675cf8576309d642f0a1c97b1fb8d379ab31b96e24f11a7e30"},{"fileName":"grimd_1.1.4_linux_arm64.tar.gz","algo":"Sha256","source":"grimd_1.1.4_checksums.txt","hash":"9360130f86006e8942f24f7973ef8d3d911fdf6a072050ca9ee52f8b387f29f0"},{"fileName":"grimd_1.1.4_windows_amd64.tar.gz","algo":"Sha256","source":"grimd_1.1.4_checksums.txt","hash":"cc30e981f4802da5765084a059c75aed2f0a1e6aeda418bc51eb03a5374c3243"},{"fileName":"grimd_1.1.4_linux_amd64.tar.gz","algo":"Sha256","source":"grimd_1.1.4_checksums.txt","hash":"ed64530761f766695b1ea36477c8d2830477fe65e586c39abe2e542d67bf3684"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "grimd_1.1.4_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "grimd_1.1.4_checksums.txt",
+      "hash": "209f3fc10f6312fd3fad2537f20ff0e3cdf3023fc28db2be4eb70ec98a83c86f"
+    },
+    {
+      "fileName": "grimd_1.1.4_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "grimd_1.1.4_checksums.txt",
+      "hash": "7f7daaa7a30b508bb308ed8dc0436aa364665e27465da799935684575cdffc20"
+    },
+    {
+      "fileName": "grimd_1.1.4_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "grimd_1.1.4_checksums.txt",
+      "hash": "8e9164c6f0dda2675cf8576309d642f0a1c97b1fb8d379ab31b96e24f11a7e30"
+    },
+    {
+      "fileName": "grimd_1.1.4_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "grimd_1.1.4_checksums.txt",
+      "hash": "9360130f86006e8942f24f7973ef8d3d911fdf6a072050ca9ee52f8b387f29f0"
+    },
+    {
+      "fileName": "grimd_1.1.4_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "grimd_1.1.4_checksums.txt",
+      "hash": "cc30e981f4802da5765084a059c75aed2f0a1e6aeda418bc51eb03a5374c3243"
+    },
+    {
+      "fileName": "grimd_1.1.4_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "grimd_1.1.4_checksums.txt",
+      "hash": "ed64530761f766695b1ea36477c8d2830477fe65e586c39abe2e542d67bf3684"
+    }
+  ]
+}

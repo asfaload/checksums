@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"k8gb_0.14.0_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"38e992c65d42ad9eec568dd3a15a3c8ad149d847ebad260af5e44275ba1b008d"},{"fileName":"k8gb_0.14.0_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"4e1088d68ae83a5c623a35cf2d41acf9d667b4a075f800cf8c1c979b8e6a3206"},{"fileName":"k8gb_linux-arm64","algo":"Sha256","source":"checksums.txt","hash":"73cf9f00c0ff96b720dabec6bbfc40163d6ba05165e9ebec86f80f0670588f53"},{"fileName":"k8gb_0.14.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a537032eea104edff96a3481240752ab5ad77f8e278a29086661ff55c7df2511"},{"fileName":"k8gb_linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"c802ec875b9c6074dbb44c2ec275abfdfa026b132d7aa3e2611a137c2ad9fe4f"},{"fileName":"k8gb_0.14.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f07a2c7b47ebf545b7a7ca660fbfe97b9fbb3655921b31fc6b26145d0c2b7717"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "k8gb_0.14.0_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "38e992c65d42ad9eec568dd3a15a3c8ad149d847ebad260af5e44275ba1b008d"
+    },
+    {
+      "fileName": "k8gb_0.14.0_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e1088d68ae83a5c623a35cf2d41acf9d667b4a075f800cf8c1c979b8e6a3206"
+    },
+    {
+      "fileName": "k8gb_linux-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "73cf9f00c0ff96b720dabec6bbfc40163d6ba05165e9ebec86f80f0670588f53"
+    },
+    {
+      "fileName": "k8gb_0.14.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a537032eea104edff96a3481240752ab5ad77f8e278a29086661ff55c7df2511"
+    },
+    {
+      "fileName": "k8gb_linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c802ec875b9c6074dbb44c2ec275abfdfa026b132d7aa3e2611a137c2ad9fe4f"
+    },
+    {
+      "fileName": "k8gb_0.14.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f07a2c7b47ebf545b7a7ca660fbfe97b9fbb3655921b31fc6b26145d0c2b7717"
+    }
+  ]
+}

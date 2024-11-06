@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"eachit_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1f027dd8941ee374fffcea410750ce614729f061737daf46317a2c0eb46f88b3"},{"fileName":"eachit_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"46c9132c763cbe4cc4c73d7303350ca601e2129f9a1ca6ac9bb63ea82908d5ee"},{"fileName":"eachit_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"2db60279594115cf46bf6acdec0dad782ed3755d045ec4660f999526474221ec"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "eachit_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1f027dd8941ee374fffcea410750ce614729f061737daf46317a2c0eb46f88b3"
+    },
+    {
+      "fileName": "eachit_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "46c9132c763cbe4cc4c73d7303350ca601e2129f9a1ca6ac9bb63ea82908d5ee"
+    },
+    {
+      "fileName": "eachit_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2db60279594115cf46bf6acdec0dad782ed3755d045ec4660f999526474221ec"
+    }
+  ]
+}

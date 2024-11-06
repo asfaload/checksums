@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"denort-aarch64-apple-darwin.zip","algo":"Sha256","source":"denort-aarch64-apple-darwin.zip.sha256sum","hash":"0fc3cfb8279842a6245ec5fb1254ac539fe609c621725a806b94b34a106ad630"},{"fileName":"denort-aarch64-unknown-linux-gnu.zip","algo":"Sha256","source":"denort-aarch64-unknown-linux-gnu.zip.sha256sum","hash":"9fdf8bb874ae7022dee332e51a4524997fd4a7a1a662fa6c751446f4f8633b12"},{"fileName":"deno-aarch64-unknown-linux-gnu.zip","algo":"Sha256","source":"deno-aarch64-unknown-linux-gnu.zip.sha256sum","hash":"6382f2edad3515bc02900bfc5349f2d4dda4319e62ca7b3574ef9e882a71876f"},{"fileName":"deno-x86_64-apple-darwin.zip","algo":"Sha256","source":"deno-x86_64-apple-darwin.zip.sha256sum","hash":"b65046683a25258ac3968cb0aed578e84215be3914fc7536ed1bdc0b57dfc36c"},{"fileName":"denort-x86_64-apple-darwin.zip","algo":"Sha256","source":"denort-x86_64-apple-darwin.zip.sha256sum","hash":"7297d2b7124cfd3f2ae83df844e05653bfa92391b23c2779fae02ecc9b6896a3"},{"fileName":"denort-x86_64-unknown-linux-gnu.zip","algo":"Sha256","source":"denort-x86_64-unknown-linux-gnu.zip.sha256sum","hash":"57d7003a6a2dabd310bcf5d743fc89f58acc650622394ef82b1bfbde2996051e"},{"fileName":"deno-aarch64-apple-darwin.zip","algo":"Sha256","source":"deno-aarch64-apple-darwin.zip.sha256sum","hash":"ba734971e8a30e9ff7ac015c2de73ec8aa144ae6209c4977f7e7270269058970"},{"fileName":"deno-x86_64-unknown-linux-gnu.zip","algo":"Sha256","source":"deno-x86_64-unknown-linux-gnu.zip.sha256sum","hash":"70c7947ed8b3d0ca80c4a70f9b6a87397ce9fb2bf1dd19b5221d6819b49bf067"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "denort-aarch64-apple-darwin.zip",
+      "algo": "Sha256",
+      "source": "denort-aarch64-apple-darwin.zip.sha256sum",
+      "hash": "0fc3cfb8279842a6245ec5fb1254ac539fe609c621725a806b94b34a106ad630"
+    },
+    {
+      "fileName": "denort-aarch64-unknown-linux-gnu.zip",
+      "algo": "Sha256",
+      "source": "denort-aarch64-unknown-linux-gnu.zip.sha256sum",
+      "hash": "9fdf8bb874ae7022dee332e51a4524997fd4a7a1a662fa6c751446f4f8633b12"
+    },
+    {
+      "fileName": "deno-aarch64-unknown-linux-gnu.zip",
+      "algo": "Sha256",
+      "source": "deno-aarch64-unknown-linux-gnu.zip.sha256sum",
+      "hash": "6382f2edad3515bc02900bfc5349f2d4dda4319e62ca7b3574ef9e882a71876f"
+    },
+    {
+      "fileName": "deno-x86_64-apple-darwin.zip",
+      "algo": "Sha256",
+      "source": "deno-x86_64-apple-darwin.zip.sha256sum",
+      "hash": "b65046683a25258ac3968cb0aed578e84215be3914fc7536ed1bdc0b57dfc36c"
+    },
+    {
+      "fileName": "denort-x86_64-apple-darwin.zip",
+      "algo": "Sha256",
+      "source": "denort-x86_64-apple-darwin.zip.sha256sum",
+      "hash": "7297d2b7124cfd3f2ae83df844e05653bfa92391b23c2779fae02ecc9b6896a3"
+    },
+    {
+      "fileName": "denort-x86_64-unknown-linux-gnu.zip",
+      "algo": "Sha256",
+      "source": "denort-x86_64-unknown-linux-gnu.zip.sha256sum",
+      "hash": "57d7003a6a2dabd310bcf5d743fc89f58acc650622394ef82b1bfbde2996051e"
+    },
+    {
+      "fileName": "deno-aarch64-apple-darwin.zip",
+      "algo": "Sha256",
+      "source": "deno-aarch64-apple-darwin.zip.sha256sum",
+      "hash": "ba734971e8a30e9ff7ac015c2de73ec8aa144ae6209c4977f7e7270269058970"
+    },
+    {
+      "fileName": "deno-x86_64-unknown-linux-gnu.zip",
+      "algo": "Sha256",
+      "source": "deno-x86_64-unknown-linux-gnu.zip.sha256sum",
+      "hash": "70c7947ed8b3d0ca80c4a70f9b6a87397ce9fb2bf1dd19b5221d6819b49bf067"
+    }
+  ]
+}

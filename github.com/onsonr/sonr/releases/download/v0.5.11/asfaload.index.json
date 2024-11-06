@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sonr_0.5.11_darwin_amd64.tar.gz","algo":"Sha256","source":"sonr_0.5.11_checksums.txt","hash":"03f5d36547bb5353d43d2141938893151f5118b99ce624b1a98bfc35ab8379ed"},{"fileName":"sonr_0.5.11_darwin_arm64.tar.gz","algo":"Sha256","source":"sonr_0.5.11_checksums.txt","hash":"15252635220febb4c0f9c625356245c6acd2ec4ccd82e979433f257aaf1e6e5c"},{"fileName":"sonr_0.5.11_linux_amd64.tar.gz","algo":"Sha256","source":"sonr_0.5.11_checksums.txt","hash":"b0a5d01458df683b46370051a39a955bd8467d17bd288cd2aed95b4c1512f96a"},{"fileName":"sonr_0.5.11_linux_arm64.tar.gz","algo":"Sha256","source":"sonr_0.5.11_checksums.txt","hash":"b4703483f2a5c6edbe6a32a4bd60dd2e402c3015cfde93cbee9f1f66d2ed0dcd"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sonr_0.5.11_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "sonr_0.5.11_checksums.txt",
+      "hash": "03f5d36547bb5353d43d2141938893151f5118b99ce624b1a98bfc35ab8379ed"
+    },
+    {
+      "fileName": "sonr_0.5.11_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "sonr_0.5.11_checksums.txt",
+      "hash": "15252635220febb4c0f9c625356245c6acd2ec4ccd82e979433f257aaf1e6e5c"
+    },
+    {
+      "fileName": "sonr_0.5.11_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "sonr_0.5.11_checksums.txt",
+      "hash": "b0a5d01458df683b46370051a39a955bd8467d17bd288cd2aed95b4c1512f96a"
+    },
+    {
+      "fileName": "sonr_0.5.11_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "sonr_0.5.11_checksums.txt",
+      "hash": "b4703483f2a5c6edbe6a32a4bd60dd2e402c3015cfde93cbee9f1f66d2ed0dcd"
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"corda-cli-installer-5.2.1.0.zip","algo":"Sha256","source":"corda-cli-installer-5.2.1.0.zip.sha256sum","hash":"b1275fecb8a207169aa2f6761b07efd732e19db2606d338b228fa5e4c3f65d03"},{"fileName":"notary-plugin-non-validating-server-5.2.1.0-package.cpb","algo":"Sha256","source":"notary-plugin-non-validating-server-5.2.1.0-package.cpb.sha256sum","hash":"978f77c615e245cee4eea08829f9f99ab39d31a4457d75ba317e32c9c54157f7"},{"fileName":"corda-combined-worker-5.2.1.0.jar","algo":"Sha256","source":"corda-combined-worker-5.2.1.0.jar.sha256sum","hash":"39dc09011bbfad47400ff147bf90d90859c3e7f6d5f42ccd95717132a7e5af4e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "corda-cli-installer-5.2.1.0.zip",
+      "algo": "Sha256",
+      "source": "corda-cli-installer-5.2.1.0.zip.sha256sum",
+      "hash": "b1275fecb8a207169aa2f6761b07efd732e19db2606d338b228fa5e4c3f65d03"
+    },
+    {
+      "fileName": "notary-plugin-non-validating-server-5.2.1.0-package.cpb",
+      "algo": "Sha256",
+      "source": "notary-plugin-non-validating-server-5.2.1.0-package.cpb.sha256sum",
+      "hash": "978f77c615e245cee4eea08829f9f99ab39d31a4457d75ba317e32c9c54157f7"
+    },
+    {
+      "fileName": "corda-combined-worker-5.2.1.0.jar",
+      "algo": "Sha256",
+      "source": "corda-combined-worker-5.2.1.0.jar.sha256sum",
+      "hash": "39dc09011bbfad47400ff147bf90d90859c3e7f6d5f42ccd95717132a7e5af4e"
+    }
+  ]
+}

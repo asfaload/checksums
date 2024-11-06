@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"steadybit-extension-loadtest-1.0.3-1.aarch64.rpm","algo":"Sha256","source":"checksums.txt","hash":"792ed158966985d3a9aedf3b1e4f893acae0e8d5ddf639120edacfb39cca0391"},{"fileName":"steadybit-extension-loadtest-1.0.3-1.x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"801136e87cbb32df60e9e59e0fc63c43ed997deb9f394b77747588555fda9423"},{"fileName":"steadybit-extension-loadtest_1.0.3_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"8d7bfd53231e46c1f2057d57a619760b431e93727a34a25ad7bf2feb677822fc"},{"fileName":"steadybit-extension-loadtest_1.0.3_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"add1e52c891b5d172e5d6282993b1b97bdf6384ddb10d57ccfaa4c57c400d5e7"},{"fileName":"steadybit-extension-loadtest_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"85a11ecdf0769699851ed75b50ac60057d73d68f4d1d1c244228900e858bc086"},{"fileName":"steadybit-extension-loadtest_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f0fce9daec3a476e317b449b3da3fefa5231892c331f93a83faba1233bf5ec03"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "steadybit-extension-loadtest-1.0.3-1.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "792ed158966985d3a9aedf3b1e4f893acae0e8d5ddf639120edacfb39cca0391"
+    },
+    {
+      "fileName": "steadybit-extension-loadtest-1.0.3-1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "801136e87cbb32df60e9e59e0fc63c43ed997deb9f394b77747588555fda9423"
+    },
+    {
+      "fileName": "steadybit-extension-loadtest_1.0.3_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8d7bfd53231e46c1f2057d57a619760b431e93727a34a25ad7bf2feb677822fc"
+    },
+    {
+      "fileName": "steadybit-extension-loadtest_1.0.3_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "add1e52c891b5d172e5d6282993b1b97bdf6384ddb10d57ccfaa4c57c400d5e7"
+    },
+    {
+      "fileName": "steadybit-extension-loadtest_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "85a11ecdf0769699851ed75b50ac60057d73d68f4d1d1c244228900e858bc086"
+    },
+    {
+      "fileName": "steadybit-extension-loadtest_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f0fce9daec3a476e317b449b3da3fefa5231892c331f93a83faba1233bf5ec03"
+    }
+  ]
+}

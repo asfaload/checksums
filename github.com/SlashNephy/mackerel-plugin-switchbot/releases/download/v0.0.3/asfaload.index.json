@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mackerel-plugin-switchbot_darwin_amd64.zip","algo":"Sha256","source":"mackerel-plugin-switchbot_0.0.3_checksums.txt","hash":"96c096db803c76cf873caf095ababda9a7cff8bf7c0eb6a6f0233067aad42416"},{"fileName":"mackerel-plugin-switchbot_darwin_arm64.zip","algo":"Sha256","source":"mackerel-plugin-switchbot_0.0.3_checksums.txt","hash":"8c68addbe6025b373fe937d4aca6c5c421cc77ce0754661c78f8c788ec8ffdb4"},{"fileName":"mackerel-plugin-switchbot_linux_amd64.zip","algo":"Sha256","source":"mackerel-plugin-switchbot_0.0.3_checksums.txt","hash":"4cf6ae067d2294aa5b920868bf5abec7256ad1a320890acd508d047a8f02743e"},{"fileName":"mackerel-plugin-switchbot_linux_arm64.zip","algo":"Sha256","source":"mackerel-plugin-switchbot_0.0.3_checksums.txt","hash":"7f5d9c846ea0fe8cfcb1672ed24a010906aae4bfe547cdbb863646340b3fde65"},{"fileName":"mackerel-plugin-switchbot_windows_amd64.zip","algo":"Sha256","source":"mackerel-plugin-switchbot_0.0.3_checksums.txt","hash":"31a9bdefc7a5ffee11667028de27854abff360bacf69ba1209f50f90206c0127"},{"fileName":"mackerel-plugin-switchbot_windows_arm64.zip","algo":"Sha256","source":"mackerel-plugin-switchbot_0.0.3_checksums.txt","hash":"03da3aae03c5869a7acd97345a1eb55b4a56e29675dda2089240865a8203062c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mackerel-plugin-switchbot_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "mackerel-plugin-switchbot_0.0.3_checksums.txt",
+      "hash": "96c096db803c76cf873caf095ababda9a7cff8bf7c0eb6a6f0233067aad42416"
+    },
+    {
+      "fileName": "mackerel-plugin-switchbot_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "mackerel-plugin-switchbot_0.0.3_checksums.txt",
+      "hash": "8c68addbe6025b373fe937d4aca6c5c421cc77ce0754661c78f8c788ec8ffdb4"
+    },
+    {
+      "fileName": "mackerel-plugin-switchbot_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "mackerel-plugin-switchbot_0.0.3_checksums.txt",
+      "hash": "4cf6ae067d2294aa5b920868bf5abec7256ad1a320890acd508d047a8f02743e"
+    },
+    {
+      "fileName": "mackerel-plugin-switchbot_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "mackerel-plugin-switchbot_0.0.3_checksums.txt",
+      "hash": "7f5d9c846ea0fe8cfcb1672ed24a010906aae4bfe547cdbb863646340b3fde65"
+    },
+    {
+      "fileName": "mackerel-plugin-switchbot_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "mackerel-plugin-switchbot_0.0.3_checksums.txt",
+      "hash": "31a9bdefc7a5ffee11667028de27854abff360bacf69ba1209f50f90206c0127"
+    },
+    {
+      "fileName": "mackerel-plugin-switchbot_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "mackerel-plugin-switchbot_0.0.3_checksums.txt",
+      "hash": "03da3aae03c5869a7acd97345a1eb55b4a56e29675dda2089240865a8203062c"
+    }
+  ]
+}

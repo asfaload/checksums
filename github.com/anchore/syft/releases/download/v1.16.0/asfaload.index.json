@@ -1,1 +1,139 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"syft_1.16.0_darwin_amd64.sbom","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"a282f80070e25693b26282dd9c1e75b4e411660a47359f09d49fff8d862086be"},{"fileName":"syft_1.16.0_darwin_amd64.tar.gz","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"f654b10a7ab4b18779586450d3b0f9e447017d9c74f1122495e281762d5799e9"},{"fileName":"syft_1.16.0_darwin_arm64.sbom","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"8189aed38e38254e783689f9c32f85429c65529316415b62a2771bc3ac4830c9"},{"fileName":"syft_1.16.0_darwin_arm64.tar.gz","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"0b6afa3b2f9448e96b7855e8341445690d0d60b5f6189672f9beab2bbc4250f2"},{"fileName":"syft_1.16.0_linux_amd64.deb","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"2ded6cfebfd5868e516e878155d56481aeeb99da2ce6fe208468260bf9a34008"},{"fileName":"syft_1.16.0_linux_amd64.rpm","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"be014f00f306b6fdb4deb8060f31812ef9ead99d14ccb948d676b06b0278c77f"},{"fileName":"syft_1.16.0_linux_amd64.sbom","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"cf99ce6e3b4a3f9f00c32456528ca40fc15680e1c0f78cf9de23866bec2b00d8"},{"fileName":"syft_1.16.0_linux_amd64.tar.gz","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"38bf84931e898d4d01c39fc806f89ae3eebac56313978dacd96156f1f9f85bc7"},{"fileName":"syft_1.16.0_linux_arm64.deb","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"b6dd0226d8de72680c87f4a67053b2a980703e7f633e2535c0ae43d79afe286e"},{"fileName":"syft_1.16.0_linux_arm64.rpm","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"a62fe3a908704b0c1bcea5f473ecfbffb117074575b11cb6bd5af2dd315610d6"},{"fileName":"syft_1.16.0_linux_arm64.sbom","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"c869e94194309c8e2f3ea89cf73ec289ba969acfe7df1fad22a1e3f9d3955eab"},{"fileName":"syft_1.16.0_linux_arm64.tar.gz","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"26f4cfd4cf712c24ed208566fb564ace629f5f069c068b8130f2e88e4b58912a"},{"fileName":"syft_1.16.0_linux_ppc64le.deb","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"da2eb002554ff9870ffced9054faf10a1118cee332a9c87facd734a9d87c14f3"},{"fileName":"syft_1.16.0_linux_ppc64le.rpm","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"ca054c49a847d6ce9349e091634c4aba6352325d8d1bf33fc019a1dfe1430f1f"},{"fileName":"syft_1.16.0_linux_ppc64le.sbom","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"d0f49f059f80740c38dc9db2489cb75da4e1ead59d14a5e537bc099945bc3d16"},{"fileName":"syft_1.16.0_linux_ppc64le.tar.gz","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"52816bec42c7ac94fb5aebf6f6e69ce2bd74bdd27c6c09c119ebb5af61a53cc6"},{"fileName":"syft_1.16.0_linux_s390x.deb","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"e14784e9f57c5006bd194fed361ef94102e7a3ac1874744ed7b7e2832be01db8"},{"fileName":"syft_1.16.0_linux_s390x.rpm","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"3b02099b01006bd0ee660960a10bb32d02ce4b441999571b2bbf0b6293e6cb9d"},{"fileName":"syft_1.16.0_linux_s390x.sbom","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"88f082b0c487069b0ef2dce00a8b1c32c17697c53bd4e6fe497b225fa2c50846"},{"fileName":"syft_1.16.0_linux_s390x.tar.gz","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"2362d9e85f53c8ef702ee2e1338edbcdc9d0d0ce6bab5421b48948eee36cca8d"},{"fileName":"syft_1.16.0_windows_amd64.sbom","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"d0bc8061ae1c79fc799640846934488c75a533f5679640c3a2721b5b2657f2df"},{"fileName":"syft_1.16.0_windows_amd64.zip","algo":"Sha256","source":"syft_1.16.0_checksums.txt","hash":"682f9499757e2e7d9633039d049be54f4817fab29d306c4dbf093c48c8968c13"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "syft_1.16.0_darwin_amd64.sbom",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "a282f80070e25693b26282dd9c1e75b4e411660a47359f09d49fff8d862086be"
+    },
+    {
+      "fileName": "syft_1.16.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "f654b10a7ab4b18779586450d3b0f9e447017d9c74f1122495e281762d5799e9"
+    },
+    {
+      "fileName": "syft_1.16.0_darwin_arm64.sbom",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "8189aed38e38254e783689f9c32f85429c65529316415b62a2771bc3ac4830c9"
+    },
+    {
+      "fileName": "syft_1.16.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "0b6afa3b2f9448e96b7855e8341445690d0d60b5f6189672f9beab2bbc4250f2"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "2ded6cfebfd5868e516e878155d56481aeeb99da2ce6fe208468260bf9a34008"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "be014f00f306b6fdb4deb8060f31812ef9ead99d14ccb948d676b06b0278c77f"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_amd64.sbom",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "cf99ce6e3b4a3f9f00c32456528ca40fc15680e1c0f78cf9de23866bec2b00d8"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "38bf84931e898d4d01c39fc806f89ae3eebac56313978dacd96156f1f9f85bc7"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "b6dd0226d8de72680c87f4a67053b2a980703e7f633e2535c0ae43d79afe286e"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "a62fe3a908704b0c1bcea5f473ecfbffb117074575b11cb6bd5af2dd315610d6"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_arm64.sbom",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "c869e94194309c8e2f3ea89cf73ec289ba969acfe7df1fad22a1e3f9d3955eab"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "26f4cfd4cf712c24ed208566fb564ace629f5f069c068b8130f2e88e4b58912a"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_ppc64le.deb",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "da2eb002554ff9870ffced9054faf10a1118cee332a9c87facd734a9d87c14f3"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_ppc64le.rpm",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "ca054c49a847d6ce9349e091634c4aba6352325d8d1bf33fc019a1dfe1430f1f"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_ppc64le.sbom",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "d0f49f059f80740c38dc9db2489cb75da4e1ead59d14a5e537bc099945bc3d16"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "52816bec42c7ac94fb5aebf6f6e69ce2bd74bdd27c6c09c119ebb5af61a53cc6"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_s390x.deb",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "e14784e9f57c5006bd194fed361ef94102e7a3ac1874744ed7b7e2832be01db8"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_s390x.rpm",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "3b02099b01006bd0ee660960a10bb32d02ce4b441999571b2bbf0b6293e6cb9d"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_s390x.sbom",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "88f082b0c487069b0ef2dce00a8b1c32c17697c53bd4e6fe497b225fa2c50846"
+    },
+    {
+      "fileName": "syft_1.16.0_linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "2362d9e85f53c8ef702ee2e1338edbcdc9d0d0ce6bab5421b48948eee36cca8d"
+    },
+    {
+      "fileName": "syft_1.16.0_windows_amd64.sbom",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "d0bc8061ae1c79fc799640846934488c75a533f5679640c3a2721b5b2657f2df"
+    },
+    {
+      "fileName": "syft_1.16.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "syft_1.16.0_checksums.txt",
+      "hash": "682f9499757e2e7d9633039d049be54f4817fab29d306c4dbf093c48c8968c13"
+    }
+  ]
+}

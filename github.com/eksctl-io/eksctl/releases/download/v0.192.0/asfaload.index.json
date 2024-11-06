@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"eksctl_Darwin_amd64.tar.gz","algo":"Sha256","source":"eksctl_checksums.txt","hash":"48f6e71dc73b213e11b9f56dc46a6461db18239b9577be503c753fc2a6b86f65"},{"fileName":"eksctl_Darwin_arm64.tar.gz","algo":"Sha256","source":"eksctl_checksums.txt","hash":"9f73ed85f15bdcfb419ba4dfc236752df4b1a16cbbc522e30403638d3379c78c"},{"fileName":"eksctl_Linux_amd64.tar.gz","algo":"Sha256","source":"eksctl_checksums.txt","hash":"5ca9b45c8bb517c16dfea907e0f18b4c5d70aedc19df7893ad12d1c50acc5216"},{"fileName":"eksctl_Linux_arm64.tar.gz","algo":"Sha256","source":"eksctl_checksums.txt","hash":"c025e57656632e4c020d63264797849e4ee408eb3e48162a6cddedef4573e13f"},{"fileName":"eksctl_Linux_armv6.tar.gz","algo":"Sha256","source":"eksctl_checksums.txt","hash":"5372e52a7964375c00d43fb854a68a7d25101701ecb57ef13c40bf3daee063bc"},{"fileName":"eksctl_Linux_armv7.tar.gz","algo":"Sha256","source":"eksctl_checksums.txt","hash":"dfe464e1a3991660e9ce96b1d958b85043cb94bad65859dd6026a4f61a718313"},{"fileName":"eksctl_Windows_amd64.zip","algo":"Sha256","source":"eksctl_checksums.txt","hash":"2e411b3814d4a92ffa735478fdc2b947b6f7e3bf99d6722785d438666658a1a1"},{"fileName":"eksctl_Windows_arm64.zip","algo":"Sha256","source":"eksctl_checksums.txt","hash":"6902e8c0e268c6246904317a74e9c345ddac5bac0d2a7ac3d59684350e88436f"},{"fileName":"eksctl_Windows_armv6.zip","algo":"Sha256","source":"eksctl_checksums.txt","hash":"bf0cb0e2cd9ef63dc35b69f71e94cd9297d475646bbc851a6fc21f563d4edc9a"},{"fileName":"eksctl_Windows_armv7.zip","algo":"Sha256","source":"eksctl_checksums.txt","hash":"f2a8b813e3774f2ef43ecb44c958bc062685e3c4e57e1ad7a9fe4e8b039e8258"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "eksctl_Darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "48f6e71dc73b213e11b9f56dc46a6461db18239b9577be503c753fc2a6b86f65"
+    },
+    {
+      "fileName": "eksctl_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "9f73ed85f15bdcfb419ba4dfc236752df4b1a16cbbc522e30403638d3379c78c"
+    },
+    {
+      "fileName": "eksctl_Linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "5ca9b45c8bb517c16dfea907e0f18b4c5d70aedc19df7893ad12d1c50acc5216"
+    },
+    {
+      "fileName": "eksctl_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "c025e57656632e4c020d63264797849e4ee408eb3e48162a6cddedef4573e13f"
+    },
+    {
+      "fileName": "eksctl_Linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "5372e52a7964375c00d43fb854a68a7d25101701ecb57ef13c40bf3daee063bc"
+    },
+    {
+      "fileName": "eksctl_Linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "dfe464e1a3991660e9ce96b1d958b85043cb94bad65859dd6026a4f61a718313"
+    },
+    {
+      "fileName": "eksctl_Windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "2e411b3814d4a92ffa735478fdc2b947b6f7e3bf99d6722785d438666658a1a1"
+    },
+    {
+      "fileName": "eksctl_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "6902e8c0e268c6246904317a74e9c345ddac5bac0d2a7ac3d59684350e88436f"
+    },
+    {
+      "fileName": "eksctl_Windows_armv6.zip",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "bf0cb0e2cd9ef63dc35b69f71e94cd9297d475646bbc851a6fc21f563d4edc9a"
+    },
+    {
+      "fileName": "eksctl_Windows_armv7.zip",
+      "algo": "Sha256",
+      "source": "eksctl_checksums.txt",
+      "hash": "f2a8b813e3774f2ef43ecb44c958bc062685e3c4e57e1ad7a9fe4e8b039e8258"
+    }
+  ]
+}

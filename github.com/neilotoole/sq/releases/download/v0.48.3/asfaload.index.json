@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sq-0.48.3-amd64-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"41bfa4e9691914cd9d91b621bb12eabb744d0e3139c53152407475a1f5281e4b"},{"fileName":"sq-0.48.3-amd64-amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"752f9db5242280e5d7b08d80f24ae69c5afe09d7494f2441008dbac295c2cb95"},{"fileName":"sq-0.48.3-arm64-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c75d1474a6c83fe18966aea0164081e835dea545e9067faf85315fde2ed88b83"},{"fileName":"sq-0.48.3-macos-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9c2822060940efb7c58ad17e4c834c816033affd2660a2611bf9cd0d65b82897"},{"fileName":"sq-0.48.3-macos-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d06b9a4c6095d2ec36190f05a6bc79c784a51a37f52ccc9eb77ae5b1ed9d7255"},{"fileName":"sq_0.48.3_linux_amd64.apk","algo":"Sha256","source":"checksums.txt","hash":"d2b1cc40cae38f3f53f4c051677b3079d59a97901f69f029c4029c6d2be2e4eb"},{"fileName":"sq_0.48.3_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"0c5669c74e326c2331716f6668eb6819c813b9f5cb831cedfe9397ed7d7ff6fe"},{"fileName":"sq_0.48.3_linux_amd64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"efbe059db5747a904e684fa92f23da3efc531bf1d000b7b9668a5169e08f3280"},{"fileName":"sq_0.48.3_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"54bc8034d8316c89893b1d327685be28a666145c30cff0d0af96c22fc65ad8ff"},{"fileName":"sq_0.48.3_linux_amd64.termux.deb","algo":"Sha256","source":"checksums.txt","hash":"94b30003b0a1c6821d663a95230b90486dba5c9360a05e40bf95c3f249c4e667"},{"fileName":"sq_0.48.3_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"8cf29640ecbf5be441e49ce0da3b3e4ed2b6dc5c476783d30017775475ac22c7"},{"fileName":"sq_0.48.3_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"738914c4e5fac67c4fa803bd0ad878953df9bc8b6e95e8be78a4f959db143895"},{"fileName":"sq_0.48.3_linux_arm64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"86a9e0a3380b18b4dcd1114c5c3397937ae65b91417048bc43bc17f2307a850c"},{"fileName":"sq_0.48.3_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"09750bf5a2f858b4849139f908e64dae7236bde5fe24a313c1bca8c91387af0e"},{"fileName":"sq_0.48.3_linux_arm64.termux.deb","algo":"Sha256","source":"checksums.txt","hash":"abf63d4b8c4a6775d1249b65b78309995f8c971190aebd64d18aa98237956a03"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sq-0.48.3-amd64-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "41bfa4e9691914cd9d91b621bb12eabb744d0e3139c53152407475a1f5281e4b"
+    },
+    {
+      "fileName": "sq-0.48.3-amd64-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "752f9db5242280e5d7b08d80f24ae69c5afe09d7494f2441008dbac295c2cb95"
+    },
+    {
+      "fileName": "sq-0.48.3-arm64-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c75d1474a6c83fe18966aea0164081e835dea545e9067faf85315fde2ed88b83"
+    },
+    {
+      "fileName": "sq-0.48.3-macos-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9c2822060940efb7c58ad17e4c834c816033affd2660a2611bf9cd0d65b82897"
+    },
+    {
+      "fileName": "sq-0.48.3-macos-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d06b9a4c6095d2ec36190f05a6bc79c784a51a37f52ccc9eb77ae5b1ed9d7255"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d2b1cc40cae38f3f53f4c051677b3079d59a97901f69f029c4029c6d2be2e4eb"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0c5669c74e326c2331716f6668eb6819c813b9f5cb831cedfe9397ed7d7ff6fe"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_amd64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "efbe059db5747a904e684fa92f23da3efc531bf1d000b7b9668a5169e08f3280"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "54bc8034d8316c89893b1d327685be28a666145c30cff0d0af96c22fc65ad8ff"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_amd64.termux.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "94b30003b0a1c6821d663a95230b90486dba5c9360a05e40bf95c3f249c4e667"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8cf29640ecbf5be441e49ce0da3b3e4ed2b6dc5c476783d30017775475ac22c7"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "738914c4e5fac67c4fa803bd0ad878953df9bc8b6e95e8be78a4f959db143895"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_arm64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "86a9e0a3380b18b4dcd1114c5c3397937ae65b91417048bc43bc17f2307a850c"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "09750bf5a2f858b4849139f908e64dae7236bde5fe24a313c1bca8c91387af0e"
+    },
+    {
+      "fileName": "sq_0.48.3_linux_arm64.termux.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "abf63d4b8c4a6775d1249b65b78309995f8c971190aebd64d18aa98237956a03"
+    }
+  ]
+}

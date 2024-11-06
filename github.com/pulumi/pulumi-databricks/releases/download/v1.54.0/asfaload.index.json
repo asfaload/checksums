@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-databricks-v1.54.0-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-databricks_1.54.0_checksums.txt","hash":"8e88df937a1413bc466d2d7d63132a807cc91ab3"},{"fileName":"./pulumi-resource-databricks-v1.54.0-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-databricks_1.54.0_checksums.txt","hash":"451072e1cb4a90645e0ecdbbbe8d7dadf6ff696b"},{"fileName":"./pulumi-resource-databricks-v1.54.0-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-databricks_1.54.0_checksums.txt","hash":"49e4f209a592464389744a9fb5d816784d8aca9e"},{"fileName":"./pulumi-resource-databricks-v1.54.0-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-databricks_1.54.0_checksums.txt","hash":"6853ae241eacd5c2dcb4e4b322a62f1e3d35a31d"},{"fileName":"./pulumi-resource-databricks-v1.54.0-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-databricks_1.54.0_checksums.txt","hash":"6be5df0dab60427b9569b39dfbfaac23cb699139"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-databricks-v1.54.0-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-databricks_1.54.0_checksums.txt",
+      "hash": "8e88df937a1413bc466d2d7d63132a807cc91ab3"
+    },
+    {
+      "fileName": "./pulumi-resource-databricks-v1.54.0-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-databricks_1.54.0_checksums.txt",
+      "hash": "451072e1cb4a90645e0ecdbbbe8d7dadf6ff696b"
+    },
+    {
+      "fileName": "./pulumi-resource-databricks-v1.54.0-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-databricks_1.54.0_checksums.txt",
+      "hash": "49e4f209a592464389744a9fb5d816784d8aca9e"
+    },
+    {
+      "fileName": "./pulumi-resource-databricks-v1.54.0-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-databricks_1.54.0_checksums.txt",
+      "hash": "6853ae241eacd5c2dcb4e4b322a62f1e3d35a31d"
+    },
+    {
+      "fileName": "./pulumi-resource-databricks-v1.54.0-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-databricks_1.54.0_checksums.txt",
+      "hash": "6be5df0dab60427b9569b39dfbfaac23cb699139"
+    }
+  ]
+}

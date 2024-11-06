@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"../assets/display-client-2.1.1.tar.gz","algo":"Sha256","source":"checksum.txt","hash":"ca6de9b12d6dd681afc0c9ecbc3379ec494c2546633b66af15efe4767fb442f3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "../assets/display-client-2.1.1.tar.gz",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "ca6de9b12d6dd681afc0c9ecbc3379ec494c2546633b66af15efe4767fb442f3"
+    }
+  ]
+}

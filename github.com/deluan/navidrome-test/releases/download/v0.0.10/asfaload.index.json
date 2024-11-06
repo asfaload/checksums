@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"navidrome_0.0.10_linux_amd64.tar.gz","algo":"Sha256","source":"navidrome_checksums.txt","hash":"c6a19d62e0afa088ee2cb2a9841e4230986d38edb8b2c6b385a4dbbafe6399d5"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "navidrome_0.0.10_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "navidrome_checksums.txt",
+      "hash": "c6a19d62e0afa088ee2cb2a9841e4230986d38edb8b2c6b385a4dbbafe6399d5"
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"opensloctl_darwin_arm64.tar.gz","algo":"Sha256","source":"opensloctl_0.0.5_checksums.txt","hash":"f97008e07f6b2f4aa6b176d057c644d798b011e52762bb8c7699c5c4b0dbbf5c"},{"fileName":"opensloctl_darwin_x86_64.tar.gz","algo":"Sha256","source":"opensloctl_0.0.5_checksums.txt","hash":"35f233a24ddbcb1f71d460c02c735fe3d6c864efb034b36a712733996d7a42d2"},{"fileName":"opensloctl_linux_arm64.tar.gz","algo":"Sha256","source":"opensloctl_0.0.5_checksums.txt","hash":"ccc8b78ea12e58853efa2631a6dd0203db18f148b50220d5f4efec6c9b327234"},{"fileName":"opensloctl_linux_i386.tar.gz","algo":"Sha256","source":"opensloctl_0.0.5_checksums.txt","hash":"9ad63e14197a827dbf3c02408ab876e51cd98d7a059ef75a3a1ee657a8da7412"},{"fileName":"opensloctl_linux_x86_64.tar.gz","algo":"Sha256","source":"opensloctl_0.0.5_checksums.txt","hash":"9fe1490b141b3861dbe174b51c0f5d3f5f36d3ab1fae63b7a1bc8d5c0cf94f04"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "opensloctl_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "opensloctl_0.0.5_checksums.txt",
+      "hash": "f97008e07f6b2f4aa6b176d057c644d798b011e52762bb8c7699c5c4b0dbbf5c"
+    },
+    {
+      "fileName": "opensloctl_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "opensloctl_0.0.5_checksums.txt",
+      "hash": "35f233a24ddbcb1f71d460c02c735fe3d6c864efb034b36a712733996d7a42d2"
+    },
+    {
+      "fileName": "opensloctl_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "opensloctl_0.0.5_checksums.txt",
+      "hash": "ccc8b78ea12e58853efa2631a6dd0203db18f148b50220d5f4efec6c9b327234"
+    },
+    {
+      "fileName": "opensloctl_linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "opensloctl_0.0.5_checksums.txt",
+      "hash": "9ad63e14197a827dbf3c02408ab876e51cd98d7a059ef75a3a1ee657a8da7412"
+    },
+    {
+      "fileName": "opensloctl_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "opensloctl_0.0.5_checksums.txt",
+      "hash": "9fe1490b141b3861dbe174b51c0f5d3f5f36d3ab1fae63b7a1bc8d5c0cf94f04"
+    }
+  ]
+}

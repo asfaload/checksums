@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"permify_1.2.0_darwin_all.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d5a32ce729d0f278cf65e26932edf1f5dd89d742be205a565cb92702f1220e3f"},{"fileName":"permify_1.2.0_linux_amd64.apk","algo":"Sha256","source":"checksums.txt","hash":"103062568d102693e43942a50a674f8f8817b33c0eafe3adc6f863869dff00f5"},{"fileName":"permify_1.2.0_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"047ac2d6e539d4abc270683ea781c0b2bf782f970bb1e348ce27b6a3a523c630"},{"fileName":"permify_1.2.0_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"31ba2743736997cb16a950792edf8432ea78b77678748b6d86912fea4c20f4f1"},{"fileName":"permify_1.2.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"425902bca27a09ca9c675904e95fc0b686685428c4bff8bce8214064ab540998"},{"fileName":"permify_1.2.0_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"9c71b5ca2f092bf96ad581070a725142abdbed4a9cf93b3c0346a57c9c34357c"},{"fileName":"permify_1.2.0_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"4f1feb0b02115268dc3c995199d5830081218234cd1a1d45aaf9ee5a6df50459"},{"fileName":"permify_1.2.0_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"2479ee699475cd84a4fcf75d1b1f297435cd9d08278c323f156575e082214447"},{"fileName":"permify_1.2.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ffbe5d2430c92e7c1d1ead483e66c1ba1722c82ae63a3575b8ff0ccb9de4c648"},{"fileName":"permify_1.2.0_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b481861b17811e003d9bdd37200009ebede9c86da688f501e930bb586dcfccef"},{"fileName":"permify_1.2.0_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"87287ab2942068094b73e3e6b8720ef0567142733071432f8b7596351f4883bf"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "permify_1.2.0_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d5a32ce729d0f278cf65e26932edf1f5dd89d742be205a565cb92702f1220e3f"
+    },
+    {
+      "fileName": "permify_1.2.0_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "103062568d102693e43942a50a674f8f8817b33c0eafe3adc6f863869dff00f5"
+    },
+    {
+      "fileName": "permify_1.2.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "047ac2d6e539d4abc270683ea781c0b2bf782f970bb1e348ce27b6a3a523c630"
+    },
+    {
+      "fileName": "permify_1.2.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "31ba2743736997cb16a950792edf8432ea78b77678748b6d86912fea4c20f4f1"
+    },
+    {
+      "fileName": "permify_1.2.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "425902bca27a09ca9c675904e95fc0b686685428c4bff8bce8214064ab540998"
+    },
+    {
+      "fileName": "permify_1.2.0_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9c71b5ca2f092bf96ad581070a725142abdbed4a9cf93b3c0346a57c9c34357c"
+    },
+    {
+      "fileName": "permify_1.2.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4f1feb0b02115268dc3c995199d5830081218234cd1a1d45aaf9ee5a6df50459"
+    },
+    {
+      "fileName": "permify_1.2.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2479ee699475cd84a4fcf75d1b1f297435cd9d08278c323f156575e082214447"
+    },
+    {
+      "fileName": "permify_1.2.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ffbe5d2430c92e7c1d1ead483e66c1ba1722c82ae63a3575b8ff0ccb9de4c648"
+    },
+    {
+      "fileName": "permify_1.2.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b481861b17811e003d9bdd37200009ebede9c86da688f501e930bb586dcfccef"
+    },
+    {
+      "fileName": "permify_1.2.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "87287ab2942068094b73e3e6b8720ef0567142733071432f8b7596351f4883bf"
+    }
+  ]
+}

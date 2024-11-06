@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"release/security.db","algo":"Sha256","source":"security.db.sha256sum","hash":"d41bd185951f3b4f06e2fdd9991fef9bcfe224549656a40e90e4cf4e2e11e9a5"},{"fileName":"release/geosite.db","algo":"Sha256","source":"geosite.db.sha256sum","hash":"8e7c4f590a407893411d8b1c486d31ab54fb2e717526f1d6de19a3771490dce9"},{"fileName":"release/geoip-services.db","algo":"Sha256","source":"geoip-services.db.sha256sum","hash":"b5eaf61d35ed8d1415c37bd236d00777106170eee7cb5626dc9a04231c46b5c1"},{"fileName":"release/geoip-lite.db","algo":"Sha256","source":"geoip-lite.db.sha256sum","hash":"86c1ec335aecde9df2289cb54af652bff3c886ad6a2965c4710dece87aa1d72c"},{"fileName":"release/geoip.db","algo":"Sha256","source":"geoip.db.sha256sum","hash":"1f340cf9eb06253006907934c5436e9841cfb084cdd57f2fb09de132263dc179"},{"fileName":"release/geosite-lite.db","algo":"Sha256","source":"geosite-lite.db.sha256sum","hash":"8ae656d0d598491605fee60bee25b821e9834d816515bfe99dc16bffce66cdbf"},{"fileName":"release/security-ip.db","algo":"Sha256","source":"security-ip.db.sha256sum","hash":"3f4c914ab5b6d7c2721dda04dd336889a446ffe7da07fb23bb994de9397b9282"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "release/security.db",
+      "algo": "Sha256",
+      "source": "security.db.sha256sum",
+      "hash": "d41bd185951f3b4f06e2fdd9991fef9bcfe224549656a40e90e4cf4e2e11e9a5"
+    },
+    {
+      "fileName": "release/geosite.db",
+      "algo": "Sha256",
+      "source": "geosite.db.sha256sum",
+      "hash": "8e7c4f590a407893411d8b1c486d31ab54fb2e717526f1d6de19a3771490dce9"
+    },
+    {
+      "fileName": "release/geoip-services.db",
+      "algo": "Sha256",
+      "source": "geoip-services.db.sha256sum",
+      "hash": "b5eaf61d35ed8d1415c37bd236d00777106170eee7cb5626dc9a04231c46b5c1"
+    },
+    {
+      "fileName": "release/geoip-lite.db",
+      "algo": "Sha256",
+      "source": "geoip-lite.db.sha256sum",
+      "hash": "86c1ec335aecde9df2289cb54af652bff3c886ad6a2965c4710dece87aa1d72c"
+    },
+    {
+      "fileName": "release/geoip.db",
+      "algo": "Sha256",
+      "source": "geoip.db.sha256sum",
+      "hash": "1f340cf9eb06253006907934c5436e9841cfb084cdd57f2fb09de132263dc179"
+    },
+    {
+      "fileName": "release/geosite-lite.db",
+      "algo": "Sha256",
+      "source": "geosite-lite.db.sha256sum",
+      "hash": "8ae656d0d598491605fee60bee25b821e9834d816515bfe99dc16bffce66cdbf"
+    },
+    {
+      "fileName": "release/security-ip.db",
+      "algo": "Sha256",
+      "source": "security-ip.db.sha256sum",
+      "hash": "3f4c914ab5b6d7c2721dda04dd336889a446ffe7da07fb23bb994de9397b9282"
+    }
+  ]
+}

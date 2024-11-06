@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T19:37:39+00:00","publishedOn":"2024-11-05T19:41:50.1565153+00:00","version":1,"publishedFiles":[{"fileName":"containerd-2.0.0-windows-amd64.tar.gz","algo":"Sha256","source":"containerd-2.0.0-windows-amd64.tar.gz.sha256sum","hash":"512ecb1b3162247136e6a6c21e90290c849f684fcf1215eda5740cb7868788e8"},{"fileName":"containerd-static-2.0.0-linux-riscv64.tar.gz","algo":"Sha256","source":"containerd-static-2.0.0-linux-riscv64.tar.gz.sha256sum","hash":"04c0860bd96bfaad259ecc27e9895adb975bce045f819e96b5a0364f29cbd09a"},{"fileName":"containerd-static-2.0.0-linux-s390x.tar.gz","algo":"Sha256","source":"containerd-static-2.0.0-linux-s390x.tar.gz.sha256sum","hash":"5e3e504d740c6e642e61b9a016c55e39bf9c6d34277bcc2ee51068e82d9d956f"},{"fileName":"containerd-static-2.0.0-linux-amd64.tar.gz","algo":"Sha256","source":"containerd-static-2.0.0-linux-amd64.tar.gz.sha256sum","hash":"e72cc69db9984a8d46a34495c302d2b50188ee2dd5c7000a7b471d0350e14ad1"},{"fileName":"containerd-2.0.0-linux-arm64.tar.gz","algo":"Sha256","source":"containerd-2.0.0-linux-arm64.tar.gz.sha256sum","hash":"2a00b1553f38aa9e716d61316b661961c2fbfbb7aad7bd73b377be5725ecc0f1"},{"fileName":"containerd-2.0.0-linux-ppc64le.tar.gz","algo":"Sha256","source":"containerd-2.0.0-linux-ppc64le.tar.gz.sha256sum","hash":"2e7f4b15ac85c22c1ced102bbb424124078248f0af3183425ff335a998079809"},{"fileName":"containerd-2.0.0-linux-amd64.tar.gz","algo":"Sha256","source":"containerd-2.0.0-linux-amd64.tar.gz.sha256sum","hash":"6f8da716941f7e89315cefaa6e5a8f1ff10b323ff46611313c455df7ab1ebee1"},{"fileName":"containerd-2.0.0-linux-riscv64.tar.gz","algo":"Sha256","source":"containerd-2.0.0-linux-riscv64.tar.gz.sha256sum","hash":"d54d8f44151706fded02c2c657d30cb8360bfa7d66d715ea522452367fb2c376"},{"fileName":"containerd-2.0.0-linux-s390x.tar.gz","algo":"Sha256","source":"containerd-2.0.0-linux-s390x.tar.gz.sha256sum","hash":"06015a6a238b97f2ce4cc2f6a9d8f711af2784fe197660b2e7eef4ea3b5328de"},{"fileName":"containerd-static-2.0.0-linux-arm64.tar.gz","algo":"Sha256","source":"containerd-static-2.0.0-linux-arm64.tar.gz.sha256sum","hash":"428cd0b08eab57003db8a98742d8404b4b69dcd335c5f0f66ceec5fe3b9b31b6"},{"fileName":"containerd-static-2.0.0-linux-ppc64le.tar.gz","algo":"Sha256","source":"containerd-static-2.0.0-linux-ppc64le.tar.gz.sha256sum","hash":"c389b68c9ca7774efdbc9e479d9a3be14b71d60a2a8c23f1d8764ec9598f3d55"}]}
+{
+  "mirroredOn": "2024-11-05T19:41:50.1565153+00:00",
+  "publishedOn": "2024-11-05T19:37:39+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "containerd-2.0.0-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-2.0.0-windows-amd64.tar.gz.sha256sum",
+      "hash": "512ecb1b3162247136e6a6c21e90290c849f684fcf1215eda5740cb7868788e8"
+    },
+    {
+      "fileName": "containerd-static-2.0.0-linux-riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-2.0.0-linux-riscv64.tar.gz.sha256sum",
+      "hash": "04c0860bd96bfaad259ecc27e9895adb975bce045f819e96b5a0364f29cbd09a"
+    },
+    {
+      "fileName": "containerd-static-2.0.0-linux-s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-2.0.0-linux-s390x.tar.gz.sha256sum",
+      "hash": "5e3e504d740c6e642e61b9a016c55e39bf9c6d34277bcc2ee51068e82d9d956f"
+    },
+    {
+      "fileName": "containerd-static-2.0.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-2.0.0-linux-amd64.tar.gz.sha256sum",
+      "hash": "e72cc69db9984a8d46a34495c302d2b50188ee2dd5c7000a7b471d0350e14ad1"
+    },
+    {
+      "fileName": "containerd-2.0.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-2.0.0-linux-arm64.tar.gz.sha256sum",
+      "hash": "2a00b1553f38aa9e716d61316b661961c2fbfbb7aad7bd73b377be5725ecc0f1"
+    },
+    {
+      "fileName": "containerd-2.0.0-linux-ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-2.0.0-linux-ppc64le.tar.gz.sha256sum",
+      "hash": "2e7f4b15ac85c22c1ced102bbb424124078248f0af3183425ff335a998079809"
+    },
+    {
+      "fileName": "containerd-2.0.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-2.0.0-linux-amd64.tar.gz.sha256sum",
+      "hash": "6f8da716941f7e89315cefaa6e5a8f1ff10b323ff46611313c455df7ab1ebee1"
+    },
+    {
+      "fileName": "containerd-2.0.0-linux-riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-2.0.0-linux-riscv64.tar.gz.sha256sum",
+      "hash": "d54d8f44151706fded02c2c657d30cb8360bfa7d66d715ea522452367fb2c376"
+    },
+    {
+      "fileName": "containerd-2.0.0-linux-s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-2.0.0-linux-s390x.tar.gz.sha256sum",
+      "hash": "06015a6a238b97f2ce4cc2f6a9d8f711af2784fe197660b2e7eef4ea3b5328de"
+    },
+    {
+      "fileName": "containerd-static-2.0.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-2.0.0-linux-arm64.tar.gz.sha256sum",
+      "hash": "428cd0b08eab57003db8a98742d8404b4b69dcd335c5f0f66ceec5fe3b9b31b6"
+    },
+    {
+      "fileName": "containerd-static-2.0.0-linux-ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-2.0.0-linux-ppc64le.tar.gz.sha256sum",
+      "hash": "c389b68c9ca7774efdbc9e479d9a3be14b71d60a2a8c23f1d8764ec9598f3d55"
+    }
+  ]
+}

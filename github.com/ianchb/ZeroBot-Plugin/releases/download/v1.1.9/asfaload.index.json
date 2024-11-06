@@ -1,1 +1,103 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"zbp_linux_386.deb","algo":"Sha256","source":"zbp_checksums.txt","hash":"856ad5e90754822d56bf911d1c61f102bbce72f0eb8317a4f513621e25c05399"},{"fileName":"zbp_linux_386.rpm","algo":"Sha256","source":"zbp_checksums.txt","hash":"6a44ec36f454bc3ec014083f8b26b0c919cfbdc93f120fbf636829597259cc53"},{"fileName":"zbp_linux_386.tar.gz","algo":"Sha256","source":"zbp_checksums.txt","hash":"65468132c9a8536dbe37baaaa670447b90774dd46996aab71568db5db18c05c5"},{"fileName":"zbp_linux_amd64.deb","algo":"Sha256","source":"zbp_checksums.txt","hash":"51587c93939853bdeb52bbf2e7c5d7e2b11fc12756063547187a4044dab2231e"},{"fileName":"zbp_linux_amd64.rpm","algo":"Sha256","source":"zbp_checksums.txt","hash":"bfae1f03d550c146ca04a05fcaee1f45ca559a0c70440d5d637148e53b6ed3e0"},{"fileName":"zbp_linux_amd64.tar.gz","algo":"Sha256","source":"zbp_checksums.txt","hash":"3ab5929b4b7debfdb82e05e319cccc785c358a6b382841ed34d6ce478bf8b248"},{"fileName":"zbp_linux_arm64.deb","algo":"Sha256","source":"zbp_checksums.txt","hash":"c8a172d97537a89446a3ed1ad4f0fca6cf0775681fd07614590e76523597f364"},{"fileName":"zbp_linux_arm64.rpm","algo":"Sha256","source":"zbp_checksums.txt","hash":"4a19ba3e66a9a115baa722171100648a1e5c91be53c44e112501e9171dd5d2a0"},{"fileName":"zbp_linux_arm64.tar.gz","algo":"Sha256","source":"zbp_checksums.txt","hash":"e475ab8cb3f920a4064aa96e8942afe39b7728b25907b7912bcf538690db93fa"},{"fileName":"zbp_linux_armv6.deb","algo":"Sha256","source":"zbp_checksums.txt","hash":"262a3cceac767c0371152164dfc428e194b3841dba55ce802bdeaef531c46c3e"},{"fileName":"zbp_linux_armv6.rpm","algo":"Sha256","source":"zbp_checksums.txt","hash":"24045c7bfa6bbc5118276f71f70c81c561ff9fb4c0a44438cbc9cc211fb58eab"},{"fileName":"zbp_linux_armv6.tar.gz","algo":"Sha256","source":"zbp_checksums.txt","hash":"c3f65ade66b5bf588bb24610cc8e858207f2a1a66702bf89ced9689fa9aa56fe"},{"fileName":"zbp_linux_armv7.deb","algo":"Sha256","source":"zbp_checksums.txt","hash":"e97ad7204fed99872bddb591b5701f4428aae5fbecae33347ca7af5d81342b1d"},{"fileName":"zbp_linux_armv7.rpm","algo":"Sha256","source":"zbp_checksums.txt","hash":"732320a61fd3d2f7a18976e089c18bf135cf11f129b1570a6d9c5dd7da3d796d"},{"fileName":"zbp_linux_armv7.tar.gz","algo":"Sha256","source":"zbp_checksums.txt","hash":"03a4675ee8230b1b31cee1dca9779e4615502ae50c6e9dd7dfd088b859a2f7a4"},{"fileName":"zbp_windows_amd64.zip","algo":"Sha256","source":"zbp_checksums.txt","hash":"d0888db58c727013863a263a94977dcc367c09e0e555ae5d4ee6776917a8b9af"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "zbp_linux_386.deb",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "856ad5e90754822d56bf911d1c61f102bbce72f0eb8317a4f513621e25c05399"
+    },
+    {
+      "fileName": "zbp_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "6a44ec36f454bc3ec014083f8b26b0c919cfbdc93f120fbf636829597259cc53"
+    },
+    {
+      "fileName": "zbp_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "65468132c9a8536dbe37baaaa670447b90774dd46996aab71568db5db18c05c5"
+    },
+    {
+      "fileName": "zbp_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "51587c93939853bdeb52bbf2e7c5d7e2b11fc12756063547187a4044dab2231e"
+    },
+    {
+      "fileName": "zbp_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "bfae1f03d550c146ca04a05fcaee1f45ca559a0c70440d5d637148e53b6ed3e0"
+    },
+    {
+      "fileName": "zbp_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "3ab5929b4b7debfdb82e05e319cccc785c358a6b382841ed34d6ce478bf8b248"
+    },
+    {
+      "fileName": "zbp_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "c8a172d97537a89446a3ed1ad4f0fca6cf0775681fd07614590e76523597f364"
+    },
+    {
+      "fileName": "zbp_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "4a19ba3e66a9a115baa722171100648a1e5c91be53c44e112501e9171dd5d2a0"
+    },
+    {
+      "fileName": "zbp_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "e475ab8cb3f920a4064aa96e8942afe39b7728b25907b7912bcf538690db93fa"
+    },
+    {
+      "fileName": "zbp_linux_armv6.deb",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "262a3cceac767c0371152164dfc428e194b3841dba55ce802bdeaef531c46c3e"
+    },
+    {
+      "fileName": "zbp_linux_armv6.rpm",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "24045c7bfa6bbc5118276f71f70c81c561ff9fb4c0a44438cbc9cc211fb58eab"
+    },
+    {
+      "fileName": "zbp_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "c3f65ade66b5bf588bb24610cc8e858207f2a1a66702bf89ced9689fa9aa56fe"
+    },
+    {
+      "fileName": "zbp_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "e97ad7204fed99872bddb591b5701f4428aae5fbecae33347ca7af5d81342b1d"
+    },
+    {
+      "fileName": "zbp_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "732320a61fd3d2f7a18976e089c18bf135cf11f129b1570a6d9c5dd7da3d796d"
+    },
+    {
+      "fileName": "zbp_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "03a4675ee8230b1b31cee1dca9779e4615502ae50c6e9dd7dfd088b859a2f7a4"
+    },
+    {
+      "fileName": "zbp_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "zbp_checksums.txt",
+      "hash": "d0888db58c727013863a263a94977dcc367c09e0e555ae5d4ee6776917a8b9af"
+    }
+  ]
+}

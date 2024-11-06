@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"Private-GeoIP.mmdb","algo":"Sha256","source":"Private-GeoIP.mmdb.sha256sum","hash":"0d751ab2eb0464fd0f61e83d51e45a2cc1eea24bfa6f94073d7d217f66a8352a"},{"fileName":"Private-GeoIP-CN.mmdb","algo":"Sha256","source":"Private-GeoIP-CN.mmdb.sha256sum","hash":"796963f9e84305258f3c0e366b4e72550c42c1cc846ba475c7d29ab33df63337"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "Private-GeoIP.mmdb",
+      "algo": "Sha256",
+      "source": "Private-GeoIP.mmdb.sha256sum",
+      "hash": "0d751ab2eb0464fd0f61e83d51e45a2cc1eea24bfa6f94073d7d217f66a8352a"
+    },
+    {
+      "fileName": "Private-GeoIP-CN.mmdb",
+      "algo": "Sha256",
+      "source": "Private-GeoIP-CN.mmdb.sha256sum",
+      "hash": "796963f9e84305258f3c0e366b4e72550c42c1cc846ba475c7d29ab33df63337"
+    }
+  ]
+}

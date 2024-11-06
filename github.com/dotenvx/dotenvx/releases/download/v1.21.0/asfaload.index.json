@@ -1,1 +1,145 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"dotenvx-1.21.0-darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2ef03c67bde18161d0344391541469294496400df90b22ab3ffefb2942304eb7"},{"fileName":"dotenvx-1.21.0-darwin-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7822cbe7244f8e55a9ae5334a7edfca77334e7d5453b66f4e393941f595a1afb"},{"fileName":"dotenvx-1.21.0-darwin-x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a9cb17f5d72ae32651aca0ec546d9962eb2b370e1fbb26b685097fec580ffb6e"},{"fileName":"dotenvx-1.21.0-linux-aarch64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"24f30e04a330cbf7eac5419473088a6b5f951674d3ecfa940347cb8b4f32f477"},{"fileName":"dotenvx-1.21.0-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1e2ff59efce741d6fdd9f5b8980e1483b99b7776984f03e2b05437c5c56461d4"},{"fileName":"dotenvx-1.21.0-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"08a1b57b121da26e3e5b955889f08996924cdf2a3ab6878c913f624ff3c84a84"},{"fileName":"dotenvx-1.21.0-linux-x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f12ae283e377bcce126b47b742221d0aa6c5c098d6c2abb992ba5503cf7a94f7"},{"fileName":"dotenvx-1.21.0-windows-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"05b268ee9466aef806372be2708cf03772270ea469180129acdebb3c789c6279"},{"fileName":"dotenvx-1.21.0-windows-amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"c1c0742aad642873d3c7d0b1d07d40d3b80e10c383a4a624bb696fc8e1314ca2"},{"fileName":"dotenvx-1.21.0-windows-x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7b1a783e714e01c345f55f43b6ff9ff95863421e63e2cb109e766883cbb94525"},{"fileName":"dotenvx-1.21.0-windows-x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"6e05f4646a6cc3473591f7d4b91444bad3591ed6e6a1b57ff2c0874f9fe7f89b"},{"fileName":"dotenvx-darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2ef03c67bde18161d0344391541469294496400df90b22ab3ffefb2942304eb7"},{"fileName":"dotenvx-darwin-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7822cbe7244f8e55a9ae5334a7edfca77334e7d5453b66f4e393941f595a1afb"},{"fileName":"dotenvx-darwin-x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a9cb17f5d72ae32651aca0ec546d9962eb2b370e1fbb26b685097fec580ffb6e"},{"fileName":"dotenvx-linux-aarch64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"24f30e04a330cbf7eac5419473088a6b5f951674d3ecfa940347cb8b4f32f477"},{"fileName":"dotenvx-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1e2ff59efce741d6fdd9f5b8980e1483b99b7776984f03e2b05437c5c56461d4"},{"fileName":"dotenvx-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"08a1b57b121da26e3e5b955889f08996924cdf2a3ab6878c913f624ff3c84a84"},{"fileName":"dotenvx-linux-x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f12ae283e377bcce126b47b742221d0aa6c5c098d6c2abb992ba5503cf7a94f7"},{"fileName":"dotenvx-windows-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"05b268ee9466aef806372be2708cf03772270ea469180129acdebb3c789c6279"},{"fileName":"dotenvx-windows-amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"c1c0742aad642873d3c7d0b1d07d40d3b80e10c383a4a624bb696fc8e1314ca2"},{"fileName":"dotenvx-windows-x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7b1a783e714e01c345f55f43b6ff9ff95863421e63e2cb109e766883cbb94525"},{"fileName":"dotenvx-windows-x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"6e05f4646a6cc3473591f7d4b91444bad3591ed6e6a1b57ff2c0874f9fe7f89b"},{"fileName":"install.sh","algo":"Sha256","source":"checksums.txt","hash":"7d6d3eddcd20aae48a1ab98279da6e8452e2f490447c1f706c38ba7fad62f4f4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "dotenvx-1.21.0-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2ef03c67bde18161d0344391541469294496400df90b22ab3ffefb2942304eb7"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7822cbe7244f8e55a9ae5334a7edfca77334e7d5453b66f4e393941f595a1afb"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-darwin-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a9cb17f5d72ae32651aca0ec546d9962eb2b370e1fbb26b685097fec580ffb6e"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-linux-aarch64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "24f30e04a330cbf7eac5419473088a6b5f951674d3ecfa940347cb8b4f32f477"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1e2ff59efce741d6fdd9f5b8980e1483b99b7776984f03e2b05437c5c56461d4"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "08a1b57b121da26e3e5b955889f08996924cdf2a3ab6878c913f624ff3c84a84"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-linux-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f12ae283e377bcce126b47b742221d0aa6c5c098d6c2abb992ba5503cf7a94f7"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "05b268ee9466aef806372be2708cf03772270ea469180129acdebb3c789c6279"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c1c0742aad642873d3c7d0b1d07d40d3b80e10c383a4a624bb696fc8e1314ca2"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-windows-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7b1a783e714e01c345f55f43b6ff9ff95863421e63e2cb109e766883cbb94525"
+    },
+    {
+      "fileName": "dotenvx-1.21.0-windows-x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6e05f4646a6cc3473591f7d4b91444bad3591ed6e6a1b57ff2c0874f9fe7f89b"
+    },
+    {
+      "fileName": "dotenvx-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2ef03c67bde18161d0344391541469294496400df90b22ab3ffefb2942304eb7"
+    },
+    {
+      "fileName": "dotenvx-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7822cbe7244f8e55a9ae5334a7edfca77334e7d5453b66f4e393941f595a1afb"
+    },
+    {
+      "fileName": "dotenvx-darwin-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a9cb17f5d72ae32651aca0ec546d9962eb2b370e1fbb26b685097fec580ffb6e"
+    },
+    {
+      "fileName": "dotenvx-linux-aarch64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "24f30e04a330cbf7eac5419473088a6b5f951674d3ecfa940347cb8b4f32f477"
+    },
+    {
+      "fileName": "dotenvx-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1e2ff59efce741d6fdd9f5b8980e1483b99b7776984f03e2b05437c5c56461d4"
+    },
+    {
+      "fileName": "dotenvx-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "08a1b57b121da26e3e5b955889f08996924cdf2a3ab6878c913f624ff3c84a84"
+    },
+    {
+      "fileName": "dotenvx-linux-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f12ae283e377bcce126b47b742221d0aa6c5c098d6c2abb992ba5503cf7a94f7"
+    },
+    {
+      "fileName": "dotenvx-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "05b268ee9466aef806372be2708cf03772270ea469180129acdebb3c789c6279"
+    },
+    {
+      "fileName": "dotenvx-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c1c0742aad642873d3c7d0b1d07d40d3b80e10c383a4a624bb696fc8e1314ca2"
+    },
+    {
+      "fileName": "dotenvx-windows-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7b1a783e714e01c345f55f43b6ff9ff95863421e63e2cb109e766883cbb94525"
+    },
+    {
+      "fileName": "dotenvx-windows-x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6e05f4646a6cc3473591f7d4b91444bad3591ed6e6a1b57ff2c0874f9fe7f89b"
+    },
+    {
+      "fileName": "install.sh",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7d6d3eddcd20aae48a1ab98279da6e8452e2f490447c1f706c38ba7fad62f4f4"
+    }
+  ]
+}

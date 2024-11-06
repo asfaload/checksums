@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gcptf_darwin_arm64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"76e506dbf12064382efa6a136a9acf040d669106fbf7db75ca5a4e45459daacf"},{"fileName":"gcptf_darwin_x86_64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"721b67184e104738a5e0ce78345e9c70373e250225a5fd968c57880c008a8ed2"},{"fileName":"gcptf_linux_arm64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"814df596eb24733d7826876fd696cc0c4baa10c8eea27472e39ab516f1f4459b"},{"fileName":"gcptf_linux_x86_64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"60dd246a4ee9b16197e13acb35280d876babd1deb933c901fc2f4bfe9913bf6a"},{"fileName":"gcptf_windows_arm64.zip","algo":"Sha256","source":"gcptf_checksums.txt","hash":"f3a9a60766979eac020f752d01c1b49c965d7da320e35fd4708aa98d040bae4e"},{"fileName":"gcptf_windows_x86_64.zip","algo":"Sha256","source":"gcptf_checksums.txt","hash":"ea4589c04152b31790c3ec321398ac6b3128a4166ae0b5840901b689186b5638"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gcptf_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "76e506dbf12064382efa6a136a9acf040d669106fbf7db75ca5a4e45459daacf"
+    },
+    {
+      "fileName": "gcptf_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "721b67184e104738a5e0ce78345e9c70373e250225a5fd968c57880c008a8ed2"
+    },
+    {
+      "fileName": "gcptf_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "814df596eb24733d7826876fd696cc0c4baa10c8eea27472e39ab516f1f4459b"
+    },
+    {
+      "fileName": "gcptf_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "60dd246a4ee9b16197e13acb35280d876babd1deb933c901fc2f4bfe9913bf6a"
+    },
+    {
+      "fileName": "gcptf_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "f3a9a60766979eac020f752d01c1b49c965d7da320e35fd4708aa98d040bae4e"
+    },
+    {
+      "fileName": "gcptf_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "ea4589c04152b31790c3ec321398ac6b3128a4166ae0b5840901b689186b5638"
+    }
+  ]
+}

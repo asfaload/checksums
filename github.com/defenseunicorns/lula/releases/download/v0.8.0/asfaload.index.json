@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"lula_v0.8.0_Darwin_all","algo":"Sha256","source":"checksums.txt","hash":"73d7ccd502346b31c4948e2de84b3b360e7fdf94dfe06f84a7d171235f6a5a5e"},{"fileName":"lula_v0.8.0_Darwin_amd64","algo":"Sha256","source":"checksums.txt","hash":"65294ccb7961222362b339b1b43591dc0a8ac784b85c096487948f1aabe6c3da"},{"fileName":"lula_v0.8.0_Darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"9e977d67140be5c8d193cd78b58dbc5af84a30156e2913c91edc281be30b627a"},{"fileName":"lula_v0.8.0_Linux_amd64","algo":"Sha256","source":"checksums.txt","hash":"0f93a16a2a6df18d4f816878ff36cedadae8a549562cf01185caea137a16f504"},{"fileName":"lula_v0.8.0_Linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"5891acd6257d364bd69855e337540c0d0edae0ae69cceb7006d5559ce4cb3792"},{"fileName":"sbom_lula_v0.8.0_Darwin_all.sbom","algo":"Sha256","source":"checksums.txt","hash":"5879e668ee402eca397397832f621a5bf8d0a9b7d5348618244f797af6bd3b38"},{"fileName":"sbom_lula_v0.8.0_Darwin_amd64.sbom","algo":"Sha256","source":"checksums.txt","hash":"41b27270a4ddfd458001786c6d658176c16212428c01771408cf9c6144c305d1"},{"fileName":"sbom_lula_v0.8.0_Darwin_arm64.sbom","algo":"Sha256","source":"checksums.txt","hash":"d760474752e0b11f5e2acacfb6b6d46ea1e40db39e79bcda1e86a2e1b27da108"},{"fileName":"sbom_lula_v0.8.0_Linux_amd64.sbom","algo":"Sha256","source":"checksums.txt","hash":"1061111f7804283d73dcee065b48a753dea549bcd95723514062663af4021eb6"},{"fileName":"sbom_lula_v0.8.0_Linux_arm64.sbom","algo":"Sha256","source":"checksums.txt","hash":"212d102ea97e595971da7cf6d4518537aa3c20d4ae8ea82a406666453c9fb064"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "lula_v0.8.0_Darwin_all",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "73d7ccd502346b31c4948e2de84b3b360e7fdf94dfe06f84a7d171235f6a5a5e"
+    },
+    {
+      "fileName": "lula_v0.8.0_Darwin_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "65294ccb7961222362b339b1b43591dc0a8ac784b85c096487948f1aabe6c3da"
+    },
+    {
+      "fileName": "lula_v0.8.0_Darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9e977d67140be5c8d193cd78b58dbc5af84a30156e2913c91edc281be30b627a"
+    },
+    {
+      "fileName": "lula_v0.8.0_Linux_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0f93a16a2a6df18d4f816878ff36cedadae8a549562cf01185caea137a16f504"
+    },
+    {
+      "fileName": "lula_v0.8.0_Linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5891acd6257d364bd69855e337540c0d0edae0ae69cceb7006d5559ce4cb3792"
+    },
+    {
+      "fileName": "sbom_lula_v0.8.0_Darwin_all.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5879e668ee402eca397397832f621a5bf8d0a9b7d5348618244f797af6bd3b38"
+    },
+    {
+      "fileName": "sbom_lula_v0.8.0_Darwin_amd64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "41b27270a4ddfd458001786c6d658176c16212428c01771408cf9c6144c305d1"
+    },
+    {
+      "fileName": "sbom_lula_v0.8.0_Darwin_arm64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d760474752e0b11f5e2acacfb6b6d46ea1e40db39e79bcda1e86a2e1b27da108"
+    },
+    {
+      "fileName": "sbom_lula_v0.8.0_Linux_amd64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1061111f7804283d73dcee065b48a753dea549bcd95723514062663af4021eb6"
+    },
+    {
+      "fileName": "sbom_lula_v0.8.0_Linux_arm64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "212d102ea97e595971da7cf6d4518537aa3c20d4ae8ea82a406666453c9fb064"
+    }
+  ]
+}

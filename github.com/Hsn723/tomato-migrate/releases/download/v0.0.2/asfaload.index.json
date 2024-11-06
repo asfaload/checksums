@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tomato-migrate_0.0.2_darwin_amd64.tar.gz.sbom","algo":"Sha256","source":"checksums.txt","hash":"0c50c7cba5d6eb47a48fd6ac6f1c08fca4322e43760c453d5c4e014868339103"},{"fileName":"tomato-migrate_0.0.2_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"10ffc909047b17f0163a0ed72672f9fd7695104cca0e55c5be7a8492f24f7bbe"},{"fileName":"tomato-migrate_0.0.2_windows_arm64.tar.gz.sbom","algo":"Sha256","source":"checksums.txt","hash":"16c5bd9391040835c680dd2dfa05c247158be6a97742acbae1dd050c9ef3bbee"},{"fileName":"tomato-migrate_0.0.2_linux_amd64.tar.gz.sbom","algo":"Sha256","source":"checksums.txt","hash":"41a27828fb3eb888f5b8880f3b0c1c5edda3676d3cee9c4ea0567cc581b0df71"},{"fileName":"tomato-migrate_0.0.2_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4cc905b7c373e65c53d2e92e4df989c1ef9128c9274d44ec04ad4e9b473de56e"},{"fileName":"tomato-migrate_0.0.2_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5c868af54c815019058991240be8d264cc2fff21882f9af39cdf8ca65f66d707"},{"fileName":"tomato-migrate_0.0.2_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"64ab63b807b0e01269b91cdd875e7ff546a90b7d1900bce6082726f8a3819425"},{"fileName":"tomato-migrate_0.0.2_windows_amd64.tar.gz.sbom","algo":"Sha256","source":"checksums.txt","hash":"6da2cadb7940666e925c62b96325fe781877b74a2401531c28715d1a25eabe92"},{"fileName":"tomato-migrate_0.0.2_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7860511704896e09e3e513984452b3c1f4fbc31ee4fb4ff8841d973fc1b20a22"},{"fileName":"tomato-migrate_0.0.2_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"aee1b7eb2992ec5159438138f78027354d87e900c1950dc4f4a4d68fb4fb3dc2"},{"fileName":"tomato-migrate-0.0.2.tar.gz.sbom","algo":"Sha256","source":"checksums.txt","hash":"bcf861d089f96f5f0cd716157d02256753dd4ea989964e4493a6cf921d127637"},{"fileName":"tomato-migrate_0.0.2_linux_arm64.tar.gz.sbom","algo":"Sha256","source":"checksums.txt","hash":"bdb8cb85044b206e863ec7e8ea6d5c916344ac604a4f5133e4dc90e06fa17c45"},{"fileName":"tomato-migrate-0.0.2.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d9ba3e23610f8017b7d1455bc316f5f56c2ca751e329ebb92ecc15ad267a7190"},{"fileName":"tomato-migrate_0.0.2_darwin_arm64.tar.gz.sbom","algo":"Sha256","source":"checksums.txt","hash":"f941f968c0d243648a1ffb6426341e5cc9af6827ebac5e95ccafbe0585daf724"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tomato-migrate_0.0.2_darwin_amd64.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0c50c7cba5d6eb47a48fd6ac6f1c08fca4322e43760c453d5c4e014868339103"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "10ffc909047b17f0163a0ed72672f9fd7695104cca0e55c5be7a8492f24f7bbe"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_windows_arm64.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "16c5bd9391040835c680dd2dfa05c247158be6a97742acbae1dd050c9ef3bbee"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_linux_amd64.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "41a27828fb3eb888f5b8880f3b0c1c5edda3676d3cee9c4ea0567cc581b0df71"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4cc905b7c373e65c53d2e92e4df989c1ef9128c9274d44ec04ad4e9b473de56e"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5c868af54c815019058991240be8d264cc2fff21882f9af39cdf8ca65f66d707"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "64ab63b807b0e01269b91cdd875e7ff546a90b7d1900bce6082726f8a3819425"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_windows_amd64.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6da2cadb7940666e925c62b96325fe781877b74a2401531c28715d1a25eabe92"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7860511704896e09e3e513984452b3c1f4fbc31ee4fb4ff8841d973fc1b20a22"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aee1b7eb2992ec5159438138f78027354d87e900c1950dc4f4a4d68fb4fb3dc2"
+    },
+    {
+      "fileName": "tomato-migrate-0.0.2.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bcf861d089f96f5f0cd716157d02256753dd4ea989964e4493a6cf921d127637"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_linux_arm64.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bdb8cb85044b206e863ec7e8ea6d5c916344ac604a4f5133e4dc90e06fa17c45"
+    },
+    {
+      "fileName": "tomato-migrate-0.0.2.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d9ba3e23610f8017b7d1455bc316f5f56c2ca751e329ebb92ecc15ad267a7190"
+    },
+    {
+      "fileName": "tomato-migrate_0.0.2_darwin_arm64.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f941f968c0d243648a1ffb6426341e5cc9af6827ebac5e95ccafbe0585daf724"
+    }
+  ]
+}

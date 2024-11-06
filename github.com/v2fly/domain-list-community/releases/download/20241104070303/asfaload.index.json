@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"dlc.dat","algo":"Sha256","source":"dlc.dat.sha256sum","hash":"70a70695eb105041a79b7d2425701eb10cbadb82770fa9501fbd0ac8d9cdff45"},{"fileName":"dlc.dat.zip","algo":"Sha256","source":"dlc.dat.zip.sha256sum","hash":"dbf3915a5a289906083193a7ac602ef58527050e4a153724a2625278d2af40fe"},{"fileName":"dlc.dat.xz","algo":"Sha256","source":"dlc.dat.xz.sha256sum","hash":"f7655eb08c5eb6cfd94fd1f0e6ef0ca5d9eb0ddd147ac997cabc8c9ad7fd8230"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "dlc.dat",
+      "algo": "Sha256",
+      "source": "dlc.dat.sha256sum",
+      "hash": "70a70695eb105041a79b7d2425701eb10cbadb82770fa9501fbd0ac8d9cdff45"
+    },
+    {
+      "fileName": "dlc.dat.zip",
+      "algo": "Sha256",
+      "source": "dlc.dat.zip.sha256sum",
+      "hash": "dbf3915a5a289906083193a7ac602ef58527050e4a153724a2625278d2af40fe"
+    },
+    {
+      "fileName": "dlc.dat.xz",
+      "algo": "Sha256",
+      "source": "dlc.dat.xz.sha256sum",
+      "hash": "f7655eb08c5eb6cfd94fd1f0e6ef0ca5d9eb0ddd147ac997cabc8c9ad7fd8230"
+    }
+  ]
+}

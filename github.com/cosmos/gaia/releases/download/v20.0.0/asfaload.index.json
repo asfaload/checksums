@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gaiad-v20.0.0-darwin-amd64","algo":"Sha256","source":"SHA256SUMS-v20.0.0.txt","hash":"6ee42d02956e11ff204a2b6f09522219c81252560c6ffe74e18938a014b24599"},{"fileName":"gaiad-v20.0.0-darwin-arm64","algo":"Sha256","source":"SHA256SUMS-v20.0.0.txt","hash":"f7e3615dec5a5e4e98e4a2badfba747502ef543e9df02987b2c29f5ff1f263bd"},{"fileName":"gaiad-v20.0.0-linux-amd64","algo":"Sha256","source":"SHA256SUMS-v20.0.0.txt","hash":"d56d49652fb05938ad3a8273f82acc9249a840fda3e1a8f74868ab8e2d2b3373"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gaiad-v20.0.0-darwin-amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-v20.0.0.txt",
+      "hash": "6ee42d02956e11ff204a2b6f09522219c81252560c6ffe74e18938a014b24599"
+    },
+    {
+      "fileName": "gaiad-v20.0.0-darwin-arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-v20.0.0.txt",
+      "hash": "f7e3615dec5a5e4e98e4a2badfba747502ef543e9df02987b2c29f5ff1f263bd"
+    },
+    {
+      "fileName": "gaiad-v20.0.0-linux-amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-v20.0.0.txt",
+      "hash": "d56d49652fb05938ad3a8273f82acc9249a840fda3e1a8f74868ab8e2d2b3373"
+    }
+  ]
+}

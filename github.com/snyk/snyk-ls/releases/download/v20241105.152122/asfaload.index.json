@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"snyk-ls_20241105.152122_darwin_amd64","algo":"Sha256","source":"snyk-ls_20241105.152122_SHA256SUMS","hash":"b9569cfaa671b5df1be87095b9dea8a98de8fce00c94ddd5b00ba29f713d9933"},{"fileName":"snyk-ls_20241105.152122_darwin_arm64","algo":"Sha256","source":"snyk-ls_20241105.152122_SHA256SUMS","hash":"77dd8bb2132a2f85ffeada91d81af2338ea3b3f1b82aa3a27b1976d274f02cb6"},{"fileName":"snyk-ls_20241105.152122_linux_386","algo":"Sha256","source":"snyk-ls_20241105.152122_SHA256SUMS","hash":"015b18fa5e72fd4ddef480ebee0a79edc3b53780f7201540d8da324df465e281"},{"fileName":"snyk-ls_20241105.152122_linux_amd64","algo":"Sha256","source":"snyk-ls_20241105.152122_SHA256SUMS","hash":"2a3da9fbb1e014ef56fc335d0489b0ab5c6e6de4292e6514539efbfc9e8085d1"},{"fileName":"snyk-ls_20241105.152122_linux_arm64","algo":"Sha256","source":"snyk-ls_20241105.152122_SHA256SUMS","hash":"3bb7b60d584a9666600a361ea9a3c949b293a190839a4c53031e6a5da118e313"},{"fileName":"snyk-ls_20241105.152122_windows_386.exe","algo":"Sha256","source":"snyk-ls_20241105.152122_SHA256SUMS","hash":"476c299d153afed10e2abc9150f8f319ceb855c6ecf3b7de7dd5214e10eb7857"},{"fileName":"snyk-ls_20241105.152122_windows_amd64.exe","algo":"Sha256","source":"snyk-ls_20241105.152122_SHA256SUMS","hash":"b853609362c1ea8aa7926165b6d33584db6b5c7f1cbd0fd0d85a57829dd64527"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "snyk-ls_20241105.152122_darwin_amd64",
+      "algo": "Sha256",
+      "source": "snyk-ls_20241105.152122_SHA256SUMS",
+      "hash": "b9569cfaa671b5df1be87095b9dea8a98de8fce00c94ddd5b00ba29f713d9933"
+    },
+    {
+      "fileName": "snyk-ls_20241105.152122_darwin_arm64",
+      "algo": "Sha256",
+      "source": "snyk-ls_20241105.152122_SHA256SUMS",
+      "hash": "77dd8bb2132a2f85ffeada91d81af2338ea3b3f1b82aa3a27b1976d274f02cb6"
+    },
+    {
+      "fileName": "snyk-ls_20241105.152122_linux_386",
+      "algo": "Sha256",
+      "source": "snyk-ls_20241105.152122_SHA256SUMS",
+      "hash": "015b18fa5e72fd4ddef480ebee0a79edc3b53780f7201540d8da324df465e281"
+    },
+    {
+      "fileName": "snyk-ls_20241105.152122_linux_amd64",
+      "algo": "Sha256",
+      "source": "snyk-ls_20241105.152122_SHA256SUMS",
+      "hash": "2a3da9fbb1e014ef56fc335d0489b0ab5c6e6de4292e6514539efbfc9e8085d1"
+    },
+    {
+      "fileName": "snyk-ls_20241105.152122_linux_arm64",
+      "algo": "Sha256",
+      "source": "snyk-ls_20241105.152122_SHA256SUMS",
+      "hash": "3bb7b60d584a9666600a361ea9a3c949b293a190839a4c53031e6a5da118e313"
+    },
+    {
+      "fileName": "snyk-ls_20241105.152122_windows_386.exe",
+      "algo": "Sha256",
+      "source": "snyk-ls_20241105.152122_SHA256SUMS",
+      "hash": "476c299d153afed10e2abc9150f8f319ceb855c6ecf3b7de7dd5214e10eb7857"
+    },
+    {
+      "fileName": "snyk-ls_20241105.152122_windows_amd64.exe",
+      "algo": "Sha256",
+      "source": "snyk-ls_20241105.152122_SHA256SUMS",
+      "hash": "b853609362c1ea8aa7926165b6d33584db6b5c7f1cbd0fd0d85a57829dd64527"
+    }
+  ]
+}

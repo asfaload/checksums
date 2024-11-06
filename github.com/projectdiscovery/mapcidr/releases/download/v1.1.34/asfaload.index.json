@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mapcidr_1.1.34_linux_386.zip","algo":"Sha256","source":"mapcidr_1.1.34_checksums.txt","hash":"8991e860cc98c83fd926c8d55d961993ecdd66ea71eb55e14af88ec4c1bd5caa"},{"fileName":"mapcidr_1.1.34_linux_amd64.zip","algo":"Sha256","source":"mapcidr_1.1.34_checksums.txt","hash":"0d50011ee910ea8cd8d3edc7d5574de21e139e9901ce3b14ab1cb4b32677b7f0"},{"fileName":"mapcidr_1.1.34_linux_arm.zip","algo":"Sha256","source":"mapcidr_1.1.34_checksums.txt","hash":"0d2ab735644042254d5a9a1ee5b46e0fbc99682f6415bf718399797ee1973142"},{"fileName":"mapcidr_1.1.34_linux_arm64.zip","algo":"Sha256","source":"mapcidr_1.1.34_checksums.txt","hash":"f2bf5d5861482ea511b470014032ab6246ee0ba0cb2bf9b36bd7902bb4609427"},{"fileName":"mapcidr_1.1.34_macOS_amd64.zip","algo":"Sha256","source":"mapcidr_1.1.34_checksums.txt","hash":"f604ba2eec22f5d728cfe5c7dc5449cead7d3c7efa9b57a3ea8caa04f593299f"},{"fileName":"mapcidr_1.1.34_macOS_arm64.zip","algo":"Sha256","source":"mapcidr_1.1.34_checksums.txt","hash":"81a9bfdaa6f9e77ee8403de84b149cad94015c0f765465487f5221d21bff197e"},{"fileName":"mapcidr_1.1.34_windows_386.zip","algo":"Sha256","source":"mapcidr_1.1.34_checksums.txt","hash":"6df5dd07df07147014e5c3fd5250df43498d05da8518c848d1beb7498daeeb10"},{"fileName":"mapcidr_1.1.34_windows_amd64.zip","algo":"Sha256","source":"mapcidr_1.1.34_checksums.txt","hash":"a62e316638d92dc6bd8b4d99adb6096143349211951790875552bc15b02bb68b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mapcidr_1.1.34_linux_386.zip",
+      "algo": "Sha256",
+      "source": "mapcidr_1.1.34_checksums.txt",
+      "hash": "8991e860cc98c83fd926c8d55d961993ecdd66ea71eb55e14af88ec4c1bd5caa"
+    },
+    {
+      "fileName": "mapcidr_1.1.34_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "mapcidr_1.1.34_checksums.txt",
+      "hash": "0d50011ee910ea8cd8d3edc7d5574de21e139e9901ce3b14ab1cb4b32677b7f0"
+    },
+    {
+      "fileName": "mapcidr_1.1.34_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "mapcidr_1.1.34_checksums.txt",
+      "hash": "0d2ab735644042254d5a9a1ee5b46e0fbc99682f6415bf718399797ee1973142"
+    },
+    {
+      "fileName": "mapcidr_1.1.34_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "mapcidr_1.1.34_checksums.txt",
+      "hash": "f2bf5d5861482ea511b470014032ab6246ee0ba0cb2bf9b36bd7902bb4609427"
+    },
+    {
+      "fileName": "mapcidr_1.1.34_macOS_amd64.zip",
+      "algo": "Sha256",
+      "source": "mapcidr_1.1.34_checksums.txt",
+      "hash": "f604ba2eec22f5d728cfe5c7dc5449cead7d3c7efa9b57a3ea8caa04f593299f"
+    },
+    {
+      "fileName": "mapcidr_1.1.34_macOS_arm64.zip",
+      "algo": "Sha256",
+      "source": "mapcidr_1.1.34_checksums.txt",
+      "hash": "81a9bfdaa6f9e77ee8403de84b149cad94015c0f765465487f5221d21bff197e"
+    },
+    {
+      "fileName": "mapcidr_1.1.34_windows_386.zip",
+      "algo": "Sha256",
+      "source": "mapcidr_1.1.34_checksums.txt",
+      "hash": "6df5dd07df07147014e5c3fd5250df43498d05da8518c848d1beb7498daeeb10"
+    },
+    {
+      "fileName": "mapcidr_1.1.34_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "mapcidr_1.1.34_checksums.txt",
+      "hash": "a62e316638d92dc6bd8b4d99adb6096143349211951790875552bc15b02bb68b"
+    }
+  ]
+}

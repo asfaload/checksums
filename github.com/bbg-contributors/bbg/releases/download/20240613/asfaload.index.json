@@ -1,1 +1,133 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"app.asar","algo":"Sha256","source":"SHA256SUMS","hash":"3d7be08263941cc0da4245cb6bd19986e42ad2b0ac923ac10e42f63d6735c2f2"},{"fileName":"bbg-20240613-amd64.deb","algo":"Sha256","source":"SHA256SUMS","hash":"e6900e9095787fc4b1d75c21827cc61132e6bfaffbebdf64e04117c8f822baa6"},{"fileName":"bbg-20240613-arm64.deb","algo":"Sha256","source":"SHA256SUMS","hash":"31280e813f5ed2d0a20d1f1b9f9f475eef01052587c2463a417613e18a49de19"},{"fileName":"bbg-20240613-arm64.dmg","algo":"Sha256","source":"SHA256SUMS","hash":"ac2d3807174c5ff11f87a5a0b289c8c3967e8cb6e82607f74564df755d9d732c"},{"fileName":"bbg-20240613-arm64.dmg.blockmap","algo":"Sha256","source":"SHA256SUMS","hash":"73dbdf25d164b2ad6e44d9fa2402a71062549438350f64eef0be9b4814ac46ad"},{"fileName":"bbg-20240613-arm64.exe","algo":"Sha256","source":"SHA256SUMS","hash":"62a8d1a3fd5057098866e1200b51f950f0283a97d9b716a022c6d8d3f8426232"},{"fileName":"bbg-20240613-setup-x64.exe","algo":"Sha256","source":"SHA256SUMS","hash":"26fdf5b7aa640cfe0b5ea8729353f358a02357bb729e38e0c41b58a777f2092f"},{"fileName":"bbg-20240613-x64-linux.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"50aed55ba5c45d6f60d74c84f04329920b3f56447c9023bfecda3308304c01a1"},{"fileName":"bbg-20240613-x64.dmg","algo":"Sha256","source":"SHA256SUMS","hash":"66541654cea1497759a7192bab999439b3beb7343440e4f14269705ded7c391b"},{"fileName":"bbg-20240613-x64.dmg.blockmap","algo":"Sha256","source":"SHA256SUMS","hash":"807d639a21a94e491c3719a5be948e059266e175a14413445995943e2c2cf2ff"},{"fileName":"bbg-20240613-x64.exe.blockmap","algo":"Sha256","source":"SHA256SUMS","hash":"5a94ca8686724cc5cd581a895e57005ba851537c14376109ba5ca594f75460f4"},{"fileName":"bbg-20240613-x86_64.AppImage","algo":"Sha256","source":"SHA256SUMS","hash":"7e947234dfaa6ffdee4861904835173632f1fe22c29f4b17d8b9747926e3a1e9"},{"fileName":"bbg-arm64.AppImage","algo":"Sha256","source":"SHA256SUMS","hash":"da8c753189a9030c0f797e244fee657c9dc767e6054bb98217b8b81ca81eaab6"},{"fileName":"bbg-arm64.exe.blockmap","algo":"Sha256","source":"SHA256SUMS","hash":"43f93ae9a2cac5111f740f4c605418c9e9c2a7edd6cb325f28e2e8884448476f"},{"fileName":"bbg-arm64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"f58c34a45088d78d0bfdfbbee94502c4a5e99520dbcebcd08eb0720be391b770"},{"fileName":"bbg.exe","algo":"Sha256","source":"SHA256SUMS","hash":"468888812bb657f05214360555f260a761e05fb8c0ebfc9d3c170be7ab155e35"},{"fileName":"bbg.exe.blockmap","algo":"Sha256","source":"SHA256SUMS","hash":"a77fdcf4fa0fcd228f174d115b6f4e034354cc3fc51729f8cdf43593a1292eed"},{"fileName":"latest-linux-arm64.yml","algo":"Sha256","source":"SHA256SUMS","hash":"d33df56539b777f8ebf94692a2748a23763251ed679208dc334fd20fcaca211a"},{"fileName":"latest-linux.yml","algo":"Sha256","source":"SHA256SUMS","hash":"554d01e019f2d6a13804eda7ff8ba6753a549e18ff1e14fd345fb6de912cfb7a"},{"fileName":"latest-mac.yml","algo":"Sha256","source":"SHA256SUMS","hash":"40494afa31b504b50a76fcc8327247dd36e7ebe525c3a4721da361590149c553"},{"fileName":"latest.yml","algo":"Sha256","source":"SHA256SUMS","hash":"5c776901bb655d369d423e50fb974d83c09ed586295e00ea6ef7bb67a3b8596f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "app.asar",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "3d7be08263941cc0da4245cb6bd19986e42ad2b0ac923ac10e42f63d6735c2f2"
+    },
+    {
+      "fileName": "bbg-20240613-amd64.deb",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "e6900e9095787fc4b1d75c21827cc61132e6bfaffbebdf64e04117c8f822baa6"
+    },
+    {
+      "fileName": "bbg-20240613-arm64.deb",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "31280e813f5ed2d0a20d1f1b9f9f475eef01052587c2463a417613e18a49de19"
+    },
+    {
+      "fileName": "bbg-20240613-arm64.dmg",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ac2d3807174c5ff11f87a5a0b289c8c3967e8cb6e82607f74564df755d9d732c"
+    },
+    {
+      "fileName": "bbg-20240613-arm64.dmg.blockmap",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "73dbdf25d164b2ad6e44d9fa2402a71062549438350f64eef0be9b4814ac46ad"
+    },
+    {
+      "fileName": "bbg-20240613-arm64.exe",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "62a8d1a3fd5057098866e1200b51f950f0283a97d9b716a022c6d8d3f8426232"
+    },
+    {
+      "fileName": "bbg-20240613-setup-x64.exe",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "26fdf5b7aa640cfe0b5ea8729353f358a02357bb729e38e0c41b58a777f2092f"
+    },
+    {
+      "fileName": "bbg-20240613-x64-linux.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "50aed55ba5c45d6f60d74c84f04329920b3f56447c9023bfecda3308304c01a1"
+    },
+    {
+      "fileName": "bbg-20240613-x64.dmg",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "66541654cea1497759a7192bab999439b3beb7343440e4f14269705ded7c391b"
+    },
+    {
+      "fileName": "bbg-20240613-x64.dmg.blockmap",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "807d639a21a94e491c3719a5be948e059266e175a14413445995943e2c2cf2ff"
+    },
+    {
+      "fileName": "bbg-20240613-x64.exe.blockmap",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "5a94ca8686724cc5cd581a895e57005ba851537c14376109ba5ca594f75460f4"
+    },
+    {
+      "fileName": "bbg-20240613-x86_64.AppImage",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "7e947234dfaa6ffdee4861904835173632f1fe22c29f4b17d8b9747926e3a1e9"
+    },
+    {
+      "fileName": "bbg-arm64.AppImage",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "da8c753189a9030c0f797e244fee657c9dc767e6054bb98217b8b81ca81eaab6"
+    },
+    {
+      "fileName": "bbg-arm64.exe.blockmap",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "43f93ae9a2cac5111f740f4c605418c9e9c2a7edd6cb325f28e2e8884448476f"
+    },
+    {
+      "fileName": "bbg-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "f58c34a45088d78d0bfdfbbee94502c4a5e99520dbcebcd08eb0720be391b770"
+    },
+    {
+      "fileName": "bbg.exe",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "468888812bb657f05214360555f260a761e05fb8c0ebfc9d3c170be7ab155e35"
+    },
+    {
+      "fileName": "bbg.exe.blockmap",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "a77fdcf4fa0fcd228f174d115b6f4e034354cc3fc51729f8cdf43593a1292eed"
+    },
+    {
+      "fileName": "latest-linux-arm64.yml",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "d33df56539b777f8ebf94692a2748a23763251ed679208dc334fd20fcaca211a"
+    },
+    {
+      "fileName": "latest-linux.yml",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "554d01e019f2d6a13804eda7ff8ba6753a549e18ff1e14fd345fb6de912cfb7a"
+    },
+    {
+      "fileName": "latest-mac.yml",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "40494afa31b504b50a76fcc8327247dd36e7ebe525c3a4721da361590149c553"
+    },
+    {
+      "fileName": "latest.yml",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "5c776901bb655d369d423e50fb974d83c09ed586295e00ea6ef7bb67a3b8596f"
+    }
+  ]
+}

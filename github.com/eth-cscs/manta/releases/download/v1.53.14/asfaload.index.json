@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T18:51:19+00:00","publishedOn":"2024-11-05T18:53:31.9843166+00:00","version":1,"publishedFiles":[{"fileName":"manta-x86_64-apple-darwin.tar.xz","algo":"Sha256","source":"manta-x86_64-apple-darwin.tar.xz.sha256","hash":"bc78d3f33ef7d59acf8116ea62846b7327f93f71ec75f342923dbe2428fa1841"},{"fileName":"manta-x86_64-unknown-linux-gnu.tar.xz","algo":"Sha256","source":"manta-x86_64-unknown-linux-gnu.tar.xz.sha256","hash":"876086a1ef797c51892f2539f6546053a766fc9ed77a357de8861ecbecb94cff"},{"fileName":"source.tar.gz","algo":"Sha256","source":"source.tar.gz.sha256","hash":"126168197241a25642ad287a2c7856452d893f1afe22a77846c815228c323784"},{"fileName":"manta-aarch64-apple-darwin.tar.xz","algo":"Sha256","source":"sha256.sum","hash":"85d539c437fa9d7b60ac9bc8320793f5fb958ce378e1c95f887623de449479a4"},{"fileName":"manta-x86_64-apple-darwin.tar.xz","algo":"Sha256","source":"sha256.sum","hash":"bc78d3f33ef7d59acf8116ea62846b7327f93f71ec75f342923dbe2428fa1841"},{"fileName":"manta-x86_64-unknown-linux-gnu.tar.xz","algo":"Sha256","source":"sha256.sum","hash":"876086a1ef797c51892f2539f6546053a766fc9ed77a357de8861ecbecb94cff"},{"fileName":"manta-x86_64-unknown-linux-musl.tar.xz","algo":"Sha256","source":"sha256.sum","hash":"206812eff0d38f9bb6facf6ae3f90a1e1aa3ab0e857c3bc6d49d2a1e0803a88b"},{"fileName":"source.tar.gz","algo":"Sha256","source":"sha256.sum","hash":"126168197241a25642ad287a2c7856452d893f1afe22a77846c815228c323784"},{"fileName":"manta-x86_64-unknown-linux-musl.tar.xz","algo":"Sha256","source":"manta-x86_64-unknown-linux-musl.tar.xz.sha256","hash":"206812eff0d38f9bb6facf6ae3f90a1e1aa3ab0e857c3bc6d49d2a1e0803a88b"},{"fileName":"manta-aarch64-apple-darwin.tar.xz","algo":"Sha256","source":"manta-aarch64-apple-darwin.tar.xz.sha256","hash":"85d539c437fa9d7b60ac9bc8320793f5fb958ce378e1c95f887623de449479a4"}]}
+{
+  "mirroredOn": "2024-11-05T18:53:31.9843166+00:00",
+  "publishedOn": "2024-11-05T18:51:19+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "manta-x86_64-apple-darwin.tar.xz",
+      "algo": "Sha256",
+      "source": "manta-x86_64-apple-darwin.tar.xz.sha256",
+      "hash": "bc78d3f33ef7d59acf8116ea62846b7327f93f71ec75f342923dbe2428fa1841"
+    },
+    {
+      "fileName": "manta-x86_64-unknown-linux-gnu.tar.xz",
+      "algo": "Sha256",
+      "source": "manta-x86_64-unknown-linux-gnu.tar.xz.sha256",
+      "hash": "876086a1ef797c51892f2539f6546053a766fc9ed77a357de8861ecbecb94cff"
+    },
+    {
+      "fileName": "source.tar.gz",
+      "algo": "Sha256",
+      "source": "source.tar.gz.sha256",
+      "hash": "126168197241a25642ad287a2c7856452d893f1afe22a77846c815228c323784"
+    },
+    {
+      "fileName": "manta-aarch64-apple-darwin.tar.xz",
+      "algo": "Sha256",
+      "source": "sha256.sum",
+      "hash": "85d539c437fa9d7b60ac9bc8320793f5fb958ce378e1c95f887623de449479a4"
+    },
+    {
+      "fileName": "manta-x86_64-apple-darwin.tar.xz",
+      "algo": "Sha256",
+      "source": "sha256.sum",
+      "hash": "bc78d3f33ef7d59acf8116ea62846b7327f93f71ec75f342923dbe2428fa1841"
+    },
+    {
+      "fileName": "manta-x86_64-unknown-linux-gnu.tar.xz",
+      "algo": "Sha256",
+      "source": "sha256.sum",
+      "hash": "876086a1ef797c51892f2539f6546053a766fc9ed77a357de8861ecbecb94cff"
+    },
+    {
+      "fileName": "manta-x86_64-unknown-linux-musl.tar.xz",
+      "algo": "Sha256",
+      "source": "sha256.sum",
+      "hash": "206812eff0d38f9bb6facf6ae3f90a1e1aa3ab0e857c3bc6d49d2a1e0803a88b"
+    },
+    {
+      "fileName": "source.tar.gz",
+      "algo": "Sha256",
+      "source": "sha256.sum",
+      "hash": "126168197241a25642ad287a2c7856452d893f1afe22a77846c815228c323784"
+    },
+    {
+      "fileName": "manta-x86_64-unknown-linux-musl.tar.xz",
+      "algo": "Sha256",
+      "source": "manta-x86_64-unknown-linux-musl.tar.xz.sha256",
+      "hash": "206812eff0d38f9bb6facf6ae3f90a1e1aa3ab0e857c3bc6d49d2a1e0803a88b"
+    },
+    {
+      "fileName": "manta-aarch64-apple-darwin.tar.xz",
+      "algo": "Sha256",
+      "source": "manta-aarch64-apple-darwin.tar.xz.sha256",
+      "hash": "85d539c437fa9d7b60ac9bc8320793f5fb958ce378e1c95f887623de449479a4"
+    }
+  ]
+}

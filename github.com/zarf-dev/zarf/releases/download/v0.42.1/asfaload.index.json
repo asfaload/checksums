@@ -1,1 +1,103 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sbom_zarf_v0.42.1_Darwin_all.sbom","algo":"Sha256","source":"checksums.txt","hash":"7b007efdb4f1d92c6d76a43bdd3e3aef0b6d25519d453d6c401a48b7905378e6"},{"fileName":"sbom_zarf_v0.42.1_Darwin_amd64.sbom","algo":"Sha256","source":"checksums.txt","hash":"6654bf147a3462650a0ecc8af0466999b8938adb8a2207b098492250e4a85a07"},{"fileName":"sbom_zarf_v0.42.1_Darwin_arm64.sbom","algo":"Sha256","source":"checksums.txt","hash":"95b30c1a788248f4d40f10617ecabf1ba23e5b574d04daf21d0528eefb625ad9"},{"fileName":"sbom_zarf_v0.42.1_Linux_amd64.sbom","algo":"Sha256","source":"checksums.txt","hash":"9e3ccbdddf0d26b7b0b0617d525033415568acb6e962b3ba01ad919dac3aec17"},{"fileName":"sbom_zarf_v0.42.1_Linux_arm64.sbom","algo":"Sha256","source":"checksums.txt","hash":"48748acc85eb56f71f381c99623b8be18971bcfd71f0cba7c81ab15405292353"},{"fileName":"sbom_zarf_v0.42.1_Windows_amd64.sbom","algo":"Sha256","source":"checksums.txt","hash":"94254b47b2dc1107c03ecf30e37e11071d5f10bff9b57f271e2e6835c4a022d1"},{"fileName":"sbom_zarf_v0.42.1_Windows_arm64.sbom","algo":"Sha256","source":"checksums.txt","hash":"149b4b22374b33a62cd56160476ea65c4ffd1d92966ae0e7162e8891a1792c48"},{"fileName":"zarf-init-amd64-v0.42.1.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"7c0eb1559d7602a104f6e012f7bd9a42ecbcd0aa54ce3950c0c61e835cebf922"},{"fileName":"zarf-init-arm64-v0.42.1.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"d73a1b444215faffc44d704d3ada2a22e0b3dc3f0d5c9fba65aae7cb58ae70cb"},{"fileName":"zarf_v0.42.1_Darwin_all","algo":"Sha256","source":"checksums.txt","hash":"abd545d47520b6c6a617890ef6e5710734d47cee45f0c8ed7efc931a02ee3a7c"},{"fileName":"zarf_v0.42.1_Darwin_amd64","algo":"Sha256","source":"checksums.txt","hash":"8722b6544ccb275f62d5c770c96a774af369d5155ce7f10b13e65c3d19d9b451"},{"fileName":"zarf_v0.42.1_Darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"6c0bd3920ea1cb255bb48b06ce7d5c1a5e76203759aebaa7fd095822d8d92773"},{"fileName":"zarf_v0.42.1_Linux_amd64","algo":"Sha256","source":"checksums.txt","hash":"49f705d335939cd8b1537260806e9defd90ba27e7f048ffd2aae53f32d7be00b"},{"fileName":"zarf_v0.42.1_Linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"05b32ce29a2f6df88f24b8511d2616d0671285537655b638f6e4fb0f8ad5187f"},{"fileName":"zarf_v0.42.1_Windows_amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"6df173a39cb0e81ffdb7516bb63376e0a819e8495299fb5c2e70a41f077a7306"},{"fileName":"zarf_v0.42.1_Windows_arm64.exe","algo":"Sha256","source":"checksums.txt","hash":"33641e64b933cbe23f6f1028f914192d62d749594b2f1ce0f75639c308e8d561"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sbom_zarf_v0.42.1_Darwin_all.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7b007efdb4f1d92c6d76a43bdd3e3aef0b6d25519d453d6c401a48b7905378e6"
+    },
+    {
+      "fileName": "sbom_zarf_v0.42.1_Darwin_amd64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6654bf147a3462650a0ecc8af0466999b8938adb8a2207b098492250e4a85a07"
+    },
+    {
+      "fileName": "sbom_zarf_v0.42.1_Darwin_arm64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "95b30c1a788248f4d40f10617ecabf1ba23e5b574d04daf21d0528eefb625ad9"
+    },
+    {
+      "fileName": "sbom_zarf_v0.42.1_Linux_amd64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9e3ccbdddf0d26b7b0b0617d525033415568acb6e962b3ba01ad919dac3aec17"
+    },
+    {
+      "fileName": "sbom_zarf_v0.42.1_Linux_arm64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "48748acc85eb56f71f381c99623b8be18971bcfd71f0cba7c81ab15405292353"
+    },
+    {
+      "fileName": "sbom_zarf_v0.42.1_Windows_amd64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "94254b47b2dc1107c03ecf30e37e11071d5f10bff9b57f271e2e6835c4a022d1"
+    },
+    {
+      "fileName": "sbom_zarf_v0.42.1_Windows_arm64.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "149b4b22374b33a62cd56160476ea65c4ffd1d92966ae0e7162e8891a1792c48"
+    },
+    {
+      "fileName": "zarf-init-amd64-v0.42.1.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7c0eb1559d7602a104f6e012f7bd9a42ecbcd0aa54ce3950c0c61e835cebf922"
+    },
+    {
+      "fileName": "zarf-init-arm64-v0.42.1.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d73a1b444215faffc44d704d3ada2a22e0b3dc3f0d5c9fba65aae7cb58ae70cb"
+    },
+    {
+      "fileName": "zarf_v0.42.1_Darwin_all",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "abd545d47520b6c6a617890ef6e5710734d47cee45f0c8ed7efc931a02ee3a7c"
+    },
+    {
+      "fileName": "zarf_v0.42.1_Darwin_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8722b6544ccb275f62d5c770c96a774af369d5155ce7f10b13e65c3d19d9b451"
+    },
+    {
+      "fileName": "zarf_v0.42.1_Darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6c0bd3920ea1cb255bb48b06ce7d5c1a5e76203759aebaa7fd095822d8d92773"
+    },
+    {
+      "fileName": "zarf_v0.42.1_Linux_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "49f705d335939cd8b1537260806e9defd90ba27e7f048ffd2aae53f32d7be00b"
+    },
+    {
+      "fileName": "zarf_v0.42.1_Linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "05b32ce29a2f6df88f24b8511d2616d0671285537655b638f6e4fb0f8ad5187f"
+    },
+    {
+      "fileName": "zarf_v0.42.1_Windows_amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6df173a39cb0e81ffdb7516bb63376e0a819e8495299fb5c2e70a41f077a7306"
+    },
+    {
+      "fileName": "zarf_v0.42.1_Windows_arm64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "33641e64b933cbe23f6f1028f914192d62d749594b2f1ce0f75639c308e8d561"
+    }
+  ]
+}

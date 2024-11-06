@@ -1,1 +1,151 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ko_0.16.0_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9c75b97f26ba98c62a86f3b39e2c74ced6c97092f301cd73fe4e5b3e16261698"},{"fileName":"ko_0.16.0_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5c98d0229fd2a82cc69510705b74a7196fc184641693930b0f9282b6d1f79d95"},{"fileName":"ko_0.16.0_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"45b6ba20084b2199c63dcc738c54f7f6c37ea4e9c7f79eefc286d9947b11d0d1"},{"fileName":"ko_0.16.0_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"543aed360e455e403aa5fb26d5f5f934720c91c32c8f2878a8948ee47ac6fafb"},{"fileName":"ko_0.16.0_Linux_mips64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"17f1d760c401c58ca466e6ab9ad8bc3cd229e0b1cc394cb69ffd6977dca50ebb"},{"fileName":"ko_0.16.0_Linux_ppc64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0d51fc4f0e86e9738ef971d6b5489ef1dd844163928ca9c027c3a131cdef7341"},{"fileName":"ko_0.16.0_Linux_riscv64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f2b8f73cad0ab5040a1d64e072039799739bb28a3cd5e1499e564d632db0022e"},{"fileName":"ko_0.16.0_Linux_s390x.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"852ad4e6312a965ae83aa0abf6e7803f8ff1d8ff1ec30596790d410cc450891f"},{"fileName":"ko_0.16.0_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"aee2caeced511e60c6889a4cfaf9ebe28ec35acb49531b7a90b09e0a963bcff7"},{"fileName":"ko_0.16.0_Windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fb482ce417b1f5bf255eea0fd4249250fce9ed246bb9a0604da5d4fdade8bf6f"},{"fileName":"ko_0.16.0_Windows_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1966a104604e63bcbd5dab4c7a0c5e56e6ce815d114c352f4032496fd6627cef"},{"fileName":"ko_0.16.0_Windows_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d81922fa068ec52e02818368b3594b557970d3cf2ddb3abf4189ddd15df9e710"},{"fileName":"ko_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9c75b97f26ba98c62a86f3b39e2c74ced6c97092f301cd73fe4e5b3e16261698"},{"fileName":"ko_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5c98d0229fd2a82cc69510705b74a7196fc184641693930b0f9282b6d1f79d95"},{"fileName":"ko_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"45b6ba20084b2199c63dcc738c54f7f6c37ea4e9c7f79eefc286d9947b11d0d1"},{"fileName":"ko_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"543aed360e455e403aa5fb26d5f5f934720c91c32c8f2878a8948ee47ac6fafb"},{"fileName":"ko_Linux_mips64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"17f1d760c401c58ca466e6ab9ad8bc3cd229e0b1cc394cb69ffd6977dca50ebb"},{"fileName":"ko_Linux_ppc64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0d51fc4f0e86e9738ef971d6b5489ef1dd844163928ca9c027c3a131cdef7341"},{"fileName":"ko_Linux_riscv64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f2b8f73cad0ab5040a1d64e072039799739bb28a3cd5e1499e564d632db0022e"},{"fileName":"ko_Linux_s390x.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"852ad4e6312a965ae83aa0abf6e7803f8ff1d8ff1ec30596790d410cc450891f"},{"fileName":"ko_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"aee2caeced511e60c6889a4cfaf9ebe28ec35acb49531b7a90b09e0a963bcff7"},{"fileName":"ko_Windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fb482ce417b1f5bf255eea0fd4249250fce9ed246bb9a0604da5d4fdade8bf6f"},{"fileName":"ko_Windows_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1966a104604e63bcbd5dab4c7a0c5e56e6ce815d114c352f4032496fd6627cef"},{"fileName":"ko_Windows_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d81922fa068ec52e02818368b3594b557970d3cf2ddb3abf4189ddd15df9e710"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ko_0.16.0_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9c75b97f26ba98c62a86f3b39e2c74ced6c97092f301cd73fe4e5b3e16261698"
+    },
+    {
+      "fileName": "ko_0.16.0_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5c98d0229fd2a82cc69510705b74a7196fc184641693930b0f9282b6d1f79d95"
+    },
+    {
+      "fileName": "ko_0.16.0_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "45b6ba20084b2199c63dcc738c54f7f6c37ea4e9c7f79eefc286d9947b11d0d1"
+    },
+    {
+      "fileName": "ko_0.16.0_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "543aed360e455e403aa5fb26d5f5f934720c91c32c8f2878a8948ee47ac6fafb"
+    },
+    {
+      "fileName": "ko_0.16.0_Linux_mips64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "17f1d760c401c58ca466e6ab9ad8bc3cd229e0b1cc394cb69ffd6977dca50ebb"
+    },
+    {
+      "fileName": "ko_0.16.0_Linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0d51fc4f0e86e9738ef971d6b5489ef1dd844163928ca9c027c3a131cdef7341"
+    },
+    {
+      "fileName": "ko_0.16.0_Linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f2b8f73cad0ab5040a1d64e072039799739bb28a3cd5e1499e564d632db0022e"
+    },
+    {
+      "fileName": "ko_0.16.0_Linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "852ad4e6312a965ae83aa0abf6e7803f8ff1d8ff1ec30596790d410cc450891f"
+    },
+    {
+      "fileName": "ko_0.16.0_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aee2caeced511e60c6889a4cfaf9ebe28ec35acb49531b7a90b09e0a963bcff7"
+    },
+    {
+      "fileName": "ko_0.16.0_Windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fb482ce417b1f5bf255eea0fd4249250fce9ed246bb9a0604da5d4fdade8bf6f"
+    },
+    {
+      "fileName": "ko_0.16.0_Windows_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1966a104604e63bcbd5dab4c7a0c5e56e6ce815d114c352f4032496fd6627cef"
+    },
+    {
+      "fileName": "ko_0.16.0_Windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d81922fa068ec52e02818368b3594b557970d3cf2ddb3abf4189ddd15df9e710"
+    },
+    {
+      "fileName": "ko_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9c75b97f26ba98c62a86f3b39e2c74ced6c97092f301cd73fe4e5b3e16261698"
+    },
+    {
+      "fileName": "ko_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5c98d0229fd2a82cc69510705b74a7196fc184641693930b0f9282b6d1f79d95"
+    },
+    {
+      "fileName": "ko_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "45b6ba20084b2199c63dcc738c54f7f6c37ea4e9c7f79eefc286d9947b11d0d1"
+    },
+    {
+      "fileName": "ko_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "543aed360e455e403aa5fb26d5f5f934720c91c32c8f2878a8948ee47ac6fafb"
+    },
+    {
+      "fileName": "ko_Linux_mips64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "17f1d760c401c58ca466e6ab9ad8bc3cd229e0b1cc394cb69ffd6977dca50ebb"
+    },
+    {
+      "fileName": "ko_Linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0d51fc4f0e86e9738ef971d6b5489ef1dd844163928ca9c027c3a131cdef7341"
+    },
+    {
+      "fileName": "ko_Linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f2b8f73cad0ab5040a1d64e072039799739bb28a3cd5e1499e564d632db0022e"
+    },
+    {
+      "fileName": "ko_Linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "852ad4e6312a965ae83aa0abf6e7803f8ff1d8ff1ec30596790d410cc450891f"
+    },
+    {
+      "fileName": "ko_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aee2caeced511e60c6889a4cfaf9ebe28ec35acb49531b7a90b09e0a963bcff7"
+    },
+    {
+      "fileName": "ko_Windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fb482ce417b1f5bf255eea0fd4249250fce9ed246bb9a0604da5d4fdade8bf6f"
+    },
+    {
+      "fileName": "ko_Windows_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1966a104604e63bcbd5dab4c7a0c5e56e6ce815d114c352f4032496fd6627cef"
+    },
+    {
+      "fileName": "ko_Windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d81922fa068ec52e02818368b3594b557970d3cf2ddb3abf4189ddd15df9e710"
+    }
+  ]
+}

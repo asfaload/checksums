@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"hctl_darwin_arm64.tar.gz","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"5088eb13b8297d4e641f1364926e377a0460b24fa64ce51abfa7e5a4211f5fd6"},{"fileName":"hctl_darwin_x86_64.tar.gz","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"f917fd6fcdcccd463871baabff09d684ed9df057cca65abd792ddba7c6dd8d5e"},{"fileName":"hctl_freebsd_arm64.tar.gz","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"afd206a80b7c005f9483ed3bf9e80d0f8c9287341b2e4b0328083b09cff3fa24"},{"fileName":"hctl_freebsd_i386.tar.gz","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"e015c836b8f77960a8fee72bad64fe157d6c065d6372a235895cd5e07eb21abd"},{"fileName":"hctl_freebsd_x86_64.tar.gz","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"59da3bf0175afb20b0401689a4ae9793d7d3f3eff3d4eaa630952407303f966c"},{"fileName":"hctl_linux_arm64.tar.gz","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"b23e13f5687b6630a787d7a7a33157c3957d3464404451f185fc0e100b5d0a8f"},{"fileName":"hctl_linux_i386.tar.gz","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"b478a318171b07567c3150b272707c5428eb453c9dca079e6b33e8c26a459b16"},{"fileName":"hctl_linux_x86_64.tar.gz","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"87c2d8bb0014b75fef9a54f07e0451add6aaa8b8a9047b8d55a228ff884b4b7c"},{"fileName":"hctl_windows_arm64.zip","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"d468a77fa9b53e50bb0e2b2b39862c78a3653ce50e02dd67b90fd7472ed6bdba"},{"fileName":"hctl_windows_i386.zip","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"be079fe4aab008d7978e3d618a7c51aeda039d49378152a8ed996092fbcf5d0d"},{"fileName":"hctl_windows_x86_64.zip","algo":"Sha256","source":"hctl_0.4.0_checksums.txt","hash":"28219166a1f932ddc5f034e4add83ab21267dd44570c25ae7cc75ea3e34ec0e4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "hctl_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "5088eb13b8297d4e641f1364926e377a0460b24fa64ce51abfa7e5a4211f5fd6"
+    },
+    {
+      "fileName": "hctl_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "f917fd6fcdcccd463871baabff09d684ed9df057cca65abd792ddba7c6dd8d5e"
+    },
+    {
+      "fileName": "hctl_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "afd206a80b7c005f9483ed3bf9e80d0f8c9287341b2e4b0328083b09cff3fa24"
+    },
+    {
+      "fileName": "hctl_freebsd_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "e015c836b8f77960a8fee72bad64fe157d6c065d6372a235895cd5e07eb21abd"
+    },
+    {
+      "fileName": "hctl_freebsd_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "59da3bf0175afb20b0401689a4ae9793d7d3f3eff3d4eaa630952407303f966c"
+    },
+    {
+      "fileName": "hctl_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "b23e13f5687b6630a787d7a7a33157c3957d3464404451f185fc0e100b5d0a8f"
+    },
+    {
+      "fileName": "hctl_linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "b478a318171b07567c3150b272707c5428eb453c9dca079e6b33e8c26a459b16"
+    },
+    {
+      "fileName": "hctl_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "87c2d8bb0014b75fef9a54f07e0451add6aaa8b8a9047b8d55a228ff884b4b7c"
+    },
+    {
+      "fileName": "hctl_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "d468a77fa9b53e50bb0e2b2b39862c78a3653ce50e02dd67b90fd7472ed6bdba"
+    },
+    {
+      "fileName": "hctl_windows_i386.zip",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "be079fe4aab008d7978e3d618a7c51aeda039d49378152a8ed996092fbcf5d0d"
+    },
+    {
+      "fileName": "hctl_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "hctl_0.4.0_checksums.txt",
+      "hash": "28219166a1f932ddc5f034e4add83ab21267dd44570c25ae7cc75ea3e34ec0e4"
+    }
+  ]
+}

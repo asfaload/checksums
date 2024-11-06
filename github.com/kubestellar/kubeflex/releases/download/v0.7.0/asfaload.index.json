@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubeflex_0.7.0_darwin_amd64.tar.gz","algo":"Sha256","source":"kubeflex_0.7.0_checksums.txt","hash":"a4bc515d2dea32c0601d3ff902f725828a2b502c786bdb789f771ebd28ff01b4"},{"fileName":"kubeflex_0.7.0_darwin_arm64.tar.gz","algo":"Sha256","source":"kubeflex_0.7.0_checksums.txt","hash":"459aa9fba2a4ec34791e12722c8d4225d4d25edc27842fb0a7340bde323d3cba"},{"fileName":"kubeflex_0.7.0_linux_amd64.tar.gz","algo":"Sha256","source":"kubeflex_0.7.0_checksums.txt","hash":"75c0f4010127a382d4127a6d989178bf35c5923831f73be63883103ef4c3f270"},{"fileName":"kubeflex_0.7.0_linux_arm64.tar.gz","algo":"Sha256","source":"kubeflex_0.7.0_checksums.txt","hash":"a985e17205e09321bc30d047906c412b05b2207b9cef6d2f95a1ff9d237591d4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubeflex_0.7.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubeflex_0.7.0_checksums.txt",
+      "hash": "a4bc515d2dea32c0601d3ff902f725828a2b502c786bdb789f771ebd28ff01b4"
+    },
+    {
+      "fileName": "kubeflex_0.7.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubeflex_0.7.0_checksums.txt",
+      "hash": "459aa9fba2a4ec34791e12722c8d4225d4d25edc27842fb0a7340bde323d3cba"
+    },
+    {
+      "fileName": "kubeflex_0.7.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubeflex_0.7.0_checksums.txt",
+      "hash": "75c0f4010127a382d4127a6d989178bf35c5923831f73be63883103ef4c3f270"
+    },
+    {
+      "fileName": "kubeflex_0.7.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubeflex_0.7.0_checksums.txt",
+      "hash": "a985e17205e09321bc30d047906c412b05b2207b9cef6d2f95a1ff9d237591d4"
+    }
+  ]
+}

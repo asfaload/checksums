@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"byter_0.1.1_windows_arm64.tar.gz","algo":"Sha256","source":"byter_0.1.1_checksums.txt","hash":"0afa57770055c504519a9f644010d07daccc2c8a79b91d0718837e6732478e0f"},{"fileName":"byter_0.1.1_darwin_amd64.tar.gz","algo":"Sha256","source":"byter_0.1.1_checksums.txt","hash":"2a859ae8b272e878be29758a2871a53eefab403799edaecc98fec73778f26ff5"},{"fileName":"byter_0.1.1_linux_arm64.tar.gz","algo":"Sha256","source":"byter_0.1.1_checksums.txt","hash":"58c8596ede8b92fe862902da2c43d0890a7545d40a4f236b2dce930b3392f7c3"},{"fileName":"byter_0.1.1_windows_amd64.tar.gz","algo":"Sha256","source":"byter_0.1.1_checksums.txt","hash":"6e5c80ef6377ece3b65560e94738ec40d9de626883edc5c703e486bab8e95bda"},{"fileName":"byter_0.1.1_darwin_arm64.tar.gz","algo":"Sha256","source":"byter_0.1.1_checksums.txt","hash":"97cd43837b9941afb46f108797aa667c69cead094b24d8497570e47c29f42ea0"},{"fileName":"byter_0.1.1_linux_amd64.tar.gz","algo":"Sha256","source":"byter_0.1.1_checksums.txt","hash":"c453238f9d57d1bf27eb64b78dc9c72116c8189c327f57ce8ec59d3b38b12c88"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "byter_0.1.1_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "byter_0.1.1_checksums.txt",
+      "hash": "0afa57770055c504519a9f644010d07daccc2c8a79b91d0718837e6732478e0f"
+    },
+    {
+      "fileName": "byter_0.1.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "byter_0.1.1_checksums.txt",
+      "hash": "2a859ae8b272e878be29758a2871a53eefab403799edaecc98fec73778f26ff5"
+    },
+    {
+      "fileName": "byter_0.1.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "byter_0.1.1_checksums.txt",
+      "hash": "58c8596ede8b92fe862902da2c43d0890a7545d40a4f236b2dce930b3392f7c3"
+    },
+    {
+      "fileName": "byter_0.1.1_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "byter_0.1.1_checksums.txt",
+      "hash": "6e5c80ef6377ece3b65560e94738ec40d9de626883edc5c703e486bab8e95bda"
+    },
+    {
+      "fileName": "byter_0.1.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "byter_0.1.1_checksums.txt",
+      "hash": "97cd43837b9941afb46f108797aa667c69cead094b24d8497570e47c29f42ea0"
+    },
+    {
+      "fileName": "byter_0.1.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "byter_0.1.1_checksums.txt",
+      "hash": "c453238f9d57d1bf27eb64b78dc9c72116c8189c327f57ce8ec59d3b38b12c88"
+    }
+  ]
+}

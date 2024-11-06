@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"httpx_1.6.8_linux_386.zip","algo":"Sha256","source":"httpx_1.6.8_checksums.txt","hash":"3070e7da38dcd234e7643f93b60d2fa56a5d1a0d6d317e9900c344ff2d9a315b"},{"fileName":"httpx_1.6.8_linux_amd64.zip","algo":"Sha256","source":"httpx_1.6.8_checksums.txt","hash":"b91c2a115085353f7bbd5bc52604da1dc386530ad3087b745a50f800afd8d9d1"},{"fileName":"httpx_1.6.8_linux_arm.zip","algo":"Sha256","source":"httpx_1.6.8_checksums.txt","hash":"341586660c524d0f43379b26df1498acb40abe1415af0427a14b9bc5ad4ef139"},{"fileName":"httpx_1.6.8_linux_arm64.zip","algo":"Sha256","source":"httpx_1.6.8_checksums.txt","hash":"503210772a651161042e9852ee99e562e515520e5598fc32e1336f7eb1cbcded"},{"fileName":"httpx_1.6.8_macOS_amd64.zip","algo":"Sha256","source":"httpx_1.6.8_checksums.txt","hash":"34dcda229be7219d693ab481fb2ac8b2b91cd68a883af1ae289c8ea254076557"},{"fileName":"httpx_1.6.8_macOS_arm64.zip","algo":"Sha256","source":"httpx_1.6.8_checksums.txt","hash":"9e6534f4b167446bc0967a1fec015fea46cfe394da19935ef7d55875bebb6605"},{"fileName":"httpx_1.6.8_windows_386.zip","algo":"Sha256","source":"httpx_1.6.8_checksums.txt","hash":"c9840c4befb6185b0b9632f290cf02abb5443109fbe81b26e74b9e63f3a7c6f3"},{"fileName":"httpx_1.6.8_windows_amd64.zip","algo":"Sha256","source":"httpx_1.6.8_checksums.txt","hash":"1b827e4887ed2b8859df214cf7e2d263f6091efddda8431c8ff9a6c85f7eff50"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "httpx_1.6.8_linux_386.zip",
+      "algo": "Sha256",
+      "source": "httpx_1.6.8_checksums.txt",
+      "hash": "3070e7da38dcd234e7643f93b60d2fa56a5d1a0d6d317e9900c344ff2d9a315b"
+    },
+    {
+      "fileName": "httpx_1.6.8_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "httpx_1.6.8_checksums.txt",
+      "hash": "b91c2a115085353f7bbd5bc52604da1dc386530ad3087b745a50f800afd8d9d1"
+    },
+    {
+      "fileName": "httpx_1.6.8_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "httpx_1.6.8_checksums.txt",
+      "hash": "341586660c524d0f43379b26df1498acb40abe1415af0427a14b9bc5ad4ef139"
+    },
+    {
+      "fileName": "httpx_1.6.8_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "httpx_1.6.8_checksums.txt",
+      "hash": "503210772a651161042e9852ee99e562e515520e5598fc32e1336f7eb1cbcded"
+    },
+    {
+      "fileName": "httpx_1.6.8_macOS_amd64.zip",
+      "algo": "Sha256",
+      "source": "httpx_1.6.8_checksums.txt",
+      "hash": "34dcda229be7219d693ab481fb2ac8b2b91cd68a883af1ae289c8ea254076557"
+    },
+    {
+      "fileName": "httpx_1.6.8_macOS_arm64.zip",
+      "algo": "Sha256",
+      "source": "httpx_1.6.8_checksums.txt",
+      "hash": "9e6534f4b167446bc0967a1fec015fea46cfe394da19935ef7d55875bebb6605"
+    },
+    {
+      "fileName": "httpx_1.6.8_windows_386.zip",
+      "algo": "Sha256",
+      "source": "httpx_1.6.8_checksums.txt",
+      "hash": "c9840c4befb6185b0b9632f290cf02abb5443109fbe81b26e74b9e63f3a7c6f3"
+    },
+    {
+      "fileName": "httpx_1.6.8_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "httpx_1.6.8_checksums.txt",
+      "hash": "1b827e4887ed2b8859df214cf7e2d263f6091efddda8431c8ff9a6c85f7eff50"
+    }
+  ]
+}

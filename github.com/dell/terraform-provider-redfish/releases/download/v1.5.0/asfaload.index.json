@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-redfish_1.5.0_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"154018a1db3ebc4ccdabed1d5f2744bc4b86dcb6262496d611fe14ef7ada2939"},{"fileName":"terraform-provider-redfish_1.5.0_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"2f9c071b256e1a79c106b8a4fa8a96283722bafa960ebf04351b15f9dd3e1e7b"},{"fileName":"terraform-provider-redfish_1.5.0_linux_386.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"30afa66c22cd0ebf4266dbd10c204e6d7d70f35f8dc0b6571f68d5060940eb60"},{"fileName":"terraform-provider-redfish_1.5.0_windows_386.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"390b9a759e1a289bcad6ba7bba40461600d1bc7c6df289d532b904746529b34d"},{"fileName":"terraform-provider-redfish_1.5.0_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"3b442badddaf1c7f3b663f26c383a9f641b1c0d761e69332e524e5f07feaa254"},{"fileName":"terraform-provider-redfish_1.5.0_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"3ff3b6681cbae792a24a6902790c50dc9ce98a29a7e69489e1cec40a764c35b8"},{"fileName":"terraform-provider-redfish_1.5.0_windows_arm.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"499de7795dca4ad5564349de1551fd49fce6bc1543a23d80f027fa69e5cb4fe6"},{"fileName":"terraform-provider-redfish_1.5.0_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"993fe890e2fedf2afde3d94c07090df2645c90ea09bd8163638eda6cabbdf537"},{"fileName":"terraform-provider-redfish_1.5.0_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"c65cd650983187ca6d5094b5e85f293c37db6a1dc595aae6fe7093ae6980fec9"},{"fileName":"terraform-provider-redfish_1.5.0_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"d4c650b07c4c7fcb618c32c23f59e32cc1cd37f1ccff8a292502489a07bf1fa6"},{"fileName":"terraform-provider-redfish_1.5.0_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"d5bead9862af16547819b4c960b147a467b09cfc7184149c8226847491532c4e"},{"fileName":"terraform-provider-redfish_1.5.0_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"dc8eeefde2d3480832b6c03c0a245e8871caea8fc6063afd938cb492d1289c0f"},{"fileName":"terraform-provider-redfish_1.5.0_linux_arm.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"df9ad2aa355194076524d47405dd0e620c48f40ae4cf246f2a008930142d7bfa"},{"fileName":"terraform-provider-redfish_1.5.0_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"f11e066550c4796d22aeb340d9ca4113be038c244efb73609e2f13697c02870b"},{"fileName":"terraform-provider-redfish_1.5.0_manifest.json","algo":"Sha256","source":"terraform-provider-redfish_1.5.0_SHA256SUMS","hash":"f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "154018a1db3ebc4ccdabed1d5f2744bc4b86dcb6262496d611fe14ef7ada2939"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "2f9c071b256e1a79c106b8a4fa8a96283722bafa960ebf04351b15f9dd3e1e7b"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "30afa66c22cd0ebf4266dbd10c204e6d7d70f35f8dc0b6571f68d5060940eb60"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "390b9a759e1a289bcad6ba7bba40461600d1bc7c6df289d532b904746529b34d"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "3b442badddaf1c7f3b663f26c383a9f641b1c0d761e69332e524e5f07feaa254"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "3ff3b6681cbae792a24a6902790c50dc9ce98a29a7e69489e1cec40a764c35b8"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "499de7795dca4ad5564349de1551fd49fce6bc1543a23d80f027fa69e5cb4fe6"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "993fe890e2fedf2afde3d94c07090df2645c90ea09bd8163638eda6cabbdf537"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "c65cd650983187ca6d5094b5e85f293c37db6a1dc595aae6fe7093ae6980fec9"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "d4c650b07c4c7fcb618c32c23f59e32cc1cd37f1ccff8a292502489a07bf1fa6"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "d5bead9862af16547819b4c960b147a467b09cfc7184149c8226847491532c4e"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "dc8eeefde2d3480832b6c03c0a245e8871caea8fc6063afd938cb492d1289c0f"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "df9ad2aa355194076524d47405dd0e620c48f40ae4cf246f2a008930142d7bfa"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "f11e066550c4796d22aeb340d9ca4113be038c244efb73609e2f13697c02870b"
+    },
+    {
+      "fileName": "terraform-provider-redfish_1.5.0_manifest.json",
+      "algo": "Sha256",
+      "source": "terraform-provider-redfish_1.5.0_SHA256SUMS",
+      "hash": "f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c"
+    }
+  ]
+}

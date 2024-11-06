@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ArchLinuxARM-rpi-aarch64-latest.img.zip","algo":"Sha256","source":"ArchLinuxARM-rpi-aarch64-latest.img.zip.sha256sum","hash":"ee82d4ee07e655d4985be72542ea157d31c22176082da104781d3a9febd8d4c2"},{"fileName":"ArchLinuxARM-rpi-aarch64-latest.tar.gz","algo":"Sha256","source":"ArchLinuxARM-rpi-aarch64-latest.tar.gz.sha256sum","hash":"bae70cb18eb41ac644f29b6644c4e6dc5e6596cee70a4398db7c6b701d3de65d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ArchLinuxARM-rpi-aarch64-latest.img.zip",
+      "algo": "Sha256",
+      "source": "ArchLinuxARM-rpi-aarch64-latest.img.zip.sha256sum",
+      "hash": "ee82d4ee07e655d4985be72542ea157d31c22176082da104781d3a9febd8d4c2"
+    },
+    {
+      "fileName": "ArchLinuxARM-rpi-aarch64-latest.tar.gz",
+      "algo": "Sha256",
+      "source": "ArchLinuxARM-rpi-aarch64-latest.tar.gz.sha256sum",
+      "hash": "bae70cb18eb41ac644f29b6644c4e6dc5e6596cee70a4398db7c6b701d3de65d"
+    }
+  ]
+}

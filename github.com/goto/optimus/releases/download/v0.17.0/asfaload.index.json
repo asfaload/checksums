@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"optimus_0.17.0_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"2f55924a488d2155a0839de2d41c25bb384c3af7df9aeed355b58a67b06267a9"},{"fileName":"optimus_0.17.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3995c49db515175f61aaea9a99eb6e7b060644f509e58c5f37561526c111b1d6"},{"fileName":"optimus_0.17.0_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"464d5fe4ec03c0328e9dbfcd072fcd627198e0a2bf13a00e08c9671c8a427fc3"},{"fileName":"optimus_0.17.0_macos_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"700575e8990db9b4e9a37ad3170a66173190c2daaed8bbc106df22a87899ad40"},{"fileName":"optimus_0.17.0_macos_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d517b2aacd36bd6125fa391f1e100bf374774613669ac2a4843a75bf535fc032"},{"fileName":"optimus_0.17.0_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"e456001333562d439df98bf89c4873375c26299695d452e3f40bb0405ab58fee"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "optimus_0.17.0_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2f55924a488d2155a0839de2d41c25bb384c3af7df9aeed355b58a67b06267a9"
+    },
+    {
+      "fileName": "optimus_0.17.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3995c49db515175f61aaea9a99eb6e7b060644f509e58c5f37561526c111b1d6"
+    },
+    {
+      "fileName": "optimus_0.17.0_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "464d5fe4ec03c0328e9dbfcd072fcd627198e0a2bf13a00e08c9671c8a427fc3"
+    },
+    {
+      "fileName": "optimus_0.17.0_macos_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "700575e8990db9b4e9a37ad3170a66173190c2daaed8bbc106df22a87899ad40"
+    },
+    {
+      "fileName": "optimus_0.17.0_macos_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d517b2aacd36bd6125fa391f1e100bf374774613669ac2a4843a75bf535fc032"
+    },
+    {
+      "fileName": "optimus_0.17.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e456001333562d439df98bf89c4873375c26299695d452e3f40bb0405ab58fee"
+    }
+  ]
+}

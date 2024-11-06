@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"eventing-jsm.yaml","algo":"Sha256","source":"checksums.txt","hash":"3aaaf2abc493674332984570c72e4d213e331d67f200048bf2a69fa793c62e37"},{"fileName":"eventing-natss.yaml","algo":"Sha256","source":"checksums.txt","hash":"67d8add18347e405e1c6476de0bc467d13ee0ae2ab90b83f9aa37c4c334f18a1"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "eventing-jsm.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3aaaf2abc493674332984570c72e4d213e331d67f200048bf2a69fa793c62e37"
+    },
+    {
+      "fileName": "eventing-natss.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "67d8add18347e405e1c6476de0bc467d13ee0ae2ab90b83f9aa37c4c334f18a1"
+    }
+  ]
+}

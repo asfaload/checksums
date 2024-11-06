@@ -1,1 +1,103 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"dfcache-2.1.60-linux-amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"fd4fdcc86ed53f73cfb83a9c8df43f598b468aa7a2466d24bb15f5127c514bb5"},{"fileName":"dfcache-2.1.60-linux-amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"ae02db422836c541da2310882c5d9a63c4bb205414fc204d1f5a2fcb79643ee6"},{"fileName":"dfcache-2.1.60-linux-arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"c0e1f9efc6b515ef737465e8db7dff433ee97c66eaa97fd18da1953379c987a2"},{"fileName":"dfcache-2.1.60-linux-arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"171e12d3f80d1b7cf5e3d0cf9735e93f4bd192210dfb1dfe7acdbb51c1183ef9"},{"fileName":"dfget-2.1.60-linux-amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"1f1b85c53c43eaa64d091b94ed44ef1fe9bebe248e9f2d39c4eb72925a0b34e2"},{"fileName":"dfget-2.1.60-linux-amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"3259e0b71a908bdf4357e16f8a550e1c6aa35dc9d47193dbb5af55bc8ec69db4"},{"fileName":"dfget-2.1.60-linux-arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"9b3643cd9a3a959952f18bd47f5b460a7b65de6332311cfd31295317f6f01e11"},{"fileName":"dfget-2.1.60-linux-arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"3ceec1d8537d688618ed9d46c984e36e90925e83e3a82cc3529417865dc62b7c"},{"fileName":"dfstore-2.1.60-linux-amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"2849c0c18d4906808648728a156bebba0fa47c9529e30af7e2cbf3883c1e780a"},{"fileName":"dfstore-2.1.60-linux-amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"6e22c007be6ddeb0918f06d41969deaa03884e2c8f19c619b3dc8c280e8bf3a8"},{"fileName":"dfstore-2.1.60-linux-arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"3439474c56be18f041136f9ff5c9dab3afb5d53cf32f5a096df8e3ca14364030"},{"fileName":"dfstore-2.1.60-linux-arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"bc9e3b903a0abac62efb043000089baa8ef1064472713a5529a3f84c09ed807c"},{"fileName":"dragonfly-2.1.60-darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"95c29c78adff9ba8b17e0490d8dfe6655bb02068aebe4e2f12a28a6615d2c747"},{"fileName":"dragonfly-2.1.60-darwin-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b270c9081d1ebcea5dc9efa989a3dbcb15458f74a45188223f255b18fa509fdc"},{"fileName":"dragonfly-2.1.60-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b7818d334f045160d6d82c680e0e25686c01831b566959b442a35836c1abfb9a"},{"fileName":"dragonfly-2.1.60-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9d59c811dbd36e744d7bf2c936005d990682cd9f0681c1e8208c4180899e7762"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "dfcache-2.1.60-linux-amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fd4fdcc86ed53f73cfb83a9c8df43f598b468aa7a2466d24bb15f5127c514bb5"
+    },
+    {
+      "fileName": "dfcache-2.1.60-linux-amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ae02db422836c541da2310882c5d9a63c4bb205414fc204d1f5a2fcb79643ee6"
+    },
+    {
+      "fileName": "dfcache-2.1.60-linux-arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c0e1f9efc6b515ef737465e8db7dff433ee97c66eaa97fd18da1953379c987a2"
+    },
+    {
+      "fileName": "dfcache-2.1.60-linux-arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "171e12d3f80d1b7cf5e3d0cf9735e93f4bd192210dfb1dfe7acdbb51c1183ef9"
+    },
+    {
+      "fileName": "dfget-2.1.60-linux-amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1f1b85c53c43eaa64d091b94ed44ef1fe9bebe248e9f2d39c4eb72925a0b34e2"
+    },
+    {
+      "fileName": "dfget-2.1.60-linux-amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3259e0b71a908bdf4357e16f8a550e1c6aa35dc9d47193dbb5af55bc8ec69db4"
+    },
+    {
+      "fileName": "dfget-2.1.60-linux-arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9b3643cd9a3a959952f18bd47f5b460a7b65de6332311cfd31295317f6f01e11"
+    },
+    {
+      "fileName": "dfget-2.1.60-linux-arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3ceec1d8537d688618ed9d46c984e36e90925e83e3a82cc3529417865dc62b7c"
+    },
+    {
+      "fileName": "dfstore-2.1.60-linux-amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2849c0c18d4906808648728a156bebba0fa47c9529e30af7e2cbf3883c1e780a"
+    },
+    {
+      "fileName": "dfstore-2.1.60-linux-amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6e22c007be6ddeb0918f06d41969deaa03884e2c8f19c619b3dc8c280e8bf3a8"
+    },
+    {
+      "fileName": "dfstore-2.1.60-linux-arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3439474c56be18f041136f9ff5c9dab3afb5d53cf32f5a096df8e3ca14364030"
+    },
+    {
+      "fileName": "dfstore-2.1.60-linux-arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bc9e3b903a0abac62efb043000089baa8ef1064472713a5529a3f84c09ed807c"
+    },
+    {
+      "fileName": "dragonfly-2.1.60-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "95c29c78adff9ba8b17e0490d8dfe6655bb02068aebe4e2f12a28a6615d2c747"
+    },
+    {
+      "fileName": "dragonfly-2.1.60-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b270c9081d1ebcea5dc9efa989a3dbcb15458f74a45188223f255b18fa509fdc"
+    },
+    {
+      "fileName": "dragonfly-2.1.60-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b7818d334f045160d6d82c680e0e25686c01831b566959b442a35836c1abfb9a"
+    },
+    {
+      "fileName": "dragonfly-2.1.60-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9d59c811dbd36e744d7bf2c936005d990682cd9f0681c1e8208c4180899e7762"
+    }
+  ]
+}

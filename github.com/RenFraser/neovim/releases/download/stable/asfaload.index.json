@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"nvim-win64.msi","algo":"Sha256","source":"nvim-win64.msi.sha256sum","hash":"70797b11dae98bb98f7ad09ecb5ffae89bdabada96f98c9d7b02924809e20342"},{"fileName":"nvim-win64.exe","algo":"Sha256","source":"nvim-win64.exe.sha256sum","hash":"6d1ed4ce4553319db9d028655d7266189ddbaf4cf19d3d709ab2c5ffa6a834de"},{"fileName":"nvim-linux64.deb","algo":"Sha256","source":"nvim-linux64.deb.sha256sum","hash":"9ec152592781bddaa6b13c1c3aee322826d07c4de29a08701ad904b538ef31a8"},{"fileName":"nvim-linux64.tar.gz","algo":"Sha256","source":"nvim-linux64.tar.gz.sha256sum","hash":"7a092580b8928c2fc015ce03ae106b51b3ec097965ed97ee84270485af054a6f"},{"fileName":"nvim.appimage.zsync","algo":"Sha256","source":"nvim.appimage.zsync.sha256sum","hash":"c149f6c142c6d9590a178dcb4b7edd524ff19eac37a3d620ddd38b823482e83c"},{"fileName":"nvim.appimage","algo":"Sha256","source":"nvim.appimage.sha256sum","hash":"329e0bfc0e9d2ecff97f1d2b6b999ffd8e931d19fbc34246676edbfc02a59470"},{"fileName":"nvim-macos.tar.gz","algo":"Sha256","source":"nvim-macos.tar.gz.sha256sum","hash":"9d04934fe647d963389fa59631e527a3e9e8a0a49e193b3aa85a2a8007cc2b55"},{"fileName":"nvim-win64.zip","algo":"Sha256","source":"nvim-win64.zip.sha256sum","hash":"9a1801891b0e2ed5084a0dfb3f5acfa261fec01d7c56624c3fb6f4876c1660e0"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nvim-win64.msi",
+      "algo": "Sha256",
+      "source": "nvim-win64.msi.sha256sum",
+      "hash": "70797b11dae98bb98f7ad09ecb5ffae89bdabada96f98c9d7b02924809e20342"
+    },
+    {
+      "fileName": "nvim-win64.exe",
+      "algo": "Sha256",
+      "source": "nvim-win64.exe.sha256sum",
+      "hash": "6d1ed4ce4553319db9d028655d7266189ddbaf4cf19d3d709ab2c5ffa6a834de"
+    },
+    {
+      "fileName": "nvim-linux64.deb",
+      "algo": "Sha256",
+      "source": "nvim-linux64.deb.sha256sum",
+      "hash": "9ec152592781bddaa6b13c1c3aee322826d07c4de29a08701ad904b538ef31a8"
+    },
+    {
+      "fileName": "nvim-linux64.tar.gz",
+      "algo": "Sha256",
+      "source": "nvim-linux64.tar.gz.sha256sum",
+      "hash": "7a092580b8928c2fc015ce03ae106b51b3ec097965ed97ee84270485af054a6f"
+    },
+    {
+      "fileName": "nvim.appimage.zsync",
+      "algo": "Sha256",
+      "source": "nvim.appimage.zsync.sha256sum",
+      "hash": "c149f6c142c6d9590a178dcb4b7edd524ff19eac37a3d620ddd38b823482e83c"
+    },
+    {
+      "fileName": "nvim.appimage",
+      "algo": "Sha256",
+      "source": "nvim.appimage.sha256sum",
+      "hash": "329e0bfc0e9d2ecff97f1d2b6b999ffd8e931d19fbc34246676edbfc02a59470"
+    },
+    {
+      "fileName": "nvim-macos.tar.gz",
+      "algo": "Sha256",
+      "source": "nvim-macos.tar.gz.sha256sum",
+      "hash": "9d04934fe647d963389fa59631e527a3e9e8a0a49e193b3aa85a2a8007cc2b55"
+    },
+    {
+      "fileName": "nvim-win64.zip",
+      "algo": "Sha256",
+      "source": "nvim-win64.zip.sha256sum",
+      "hash": "9a1801891b0e2ed5084a0dfb3f5acfa261fec01d7c56624c3fb6f4876c1660e0"
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"choreo_0.0.14_darwin_aarch64.tar.gz","algo":"Sha256","source":"choreo_checksums.txt","hash":"a6b465e2e3fef271270ec6a936f8c309e4e0cb6f19b936c12a17a5fea8082115"},{"fileName":"choreo_0.0.14_darwin_x86_64.tar.gz","algo":"Sha256","source":"choreo_checksums.txt","hash":"727fc171271b766ae5e0cf6e56a613d1784514649eab2baebb4820de1662e900"},{"fileName":"choreo_0.0.14_linux_aarch64.tar.gz","algo":"Sha256","source":"choreo_checksums.txt","hash":"c52616ee96d40d741236843ae78ba0985cd6f00861c4d0571587958ebff2334f"},{"fileName":"choreo_0.0.14_linux_x86_64.tar.gz","algo":"Sha256","source":"choreo_checksums.txt","hash":"67fb1d59fda9937045d0b6f6dc55a1e64a38f947ea95fde0753b2ddcb5052d18"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "choreo_0.0.14_darwin_aarch64.tar.gz",
+      "algo": "Sha256",
+      "source": "choreo_checksums.txt",
+      "hash": "a6b465e2e3fef271270ec6a936f8c309e4e0cb6f19b936c12a17a5fea8082115"
+    },
+    {
+      "fileName": "choreo_0.0.14_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "choreo_checksums.txt",
+      "hash": "727fc171271b766ae5e0cf6e56a613d1784514649eab2baebb4820de1662e900"
+    },
+    {
+      "fileName": "choreo_0.0.14_linux_aarch64.tar.gz",
+      "algo": "Sha256",
+      "source": "choreo_checksums.txt",
+      "hash": "c52616ee96d40d741236843ae78ba0985cd6f00861c4d0571587958ebff2334f"
+    },
+    {
+      "fileName": "choreo_0.0.14_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "choreo_checksums.txt",
+      "hash": "67fb1d59fda9937045d0b6f6dc55a1e64a38f947ea95fde0753b2ddcb5052d18"
+    }
+  ]
+}

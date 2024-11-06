@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-synology_0.3.3_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"92874913f541ac4c7bcf757005f8977e18f7b31eaf5bd814b4c01686ee0c0461"},{"fileName":"terraform-provider-synology_0.3.3_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"3e18a8bb8b2e7cbac73b1c930c03833bb01083203f8524321e25398ee34b284a"},{"fileName":"terraform-provider-synology_0.3.3_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"20a8e219bee588a555f739830307be4de0cc69983197505a2c688d19f67ef563"},{"fileName":"terraform-provider-synology_0.3.3_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"eb762fd47fd54823c891bb18ffe3dae85123d6ac6f216b554da23696be996bd1"},{"fileName":"terraform-provider-synology_0.3.3_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"912c8c3b963f3f5dd1064ff4606b808b92f026e5bcb4f86d8fbcbbc8d412c245"},{"fileName":"terraform-provider-synology_0.3.3_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"e40f84ea2addbc054d705b8d9fd05929bc1db599d90219707b300d2bd931405c"},{"fileName":"terraform-provider-synology_0.3.3_linux_386.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"864a8f20a84c0e4863d64d4010cbdf6eff936022dd3cd276c008fb6c066f65b9"},{"fileName":"terraform-provider-synology_0.3.3_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"7fa8c11ace07d46dfecfa62ee23741decad8e7eea9aa121f70daf591096846f5"},{"fileName":"terraform-provider-synology_0.3.3_linux_arm.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"eda0e920ae128ca19416ed9c493484fca08e01f43a38c78658014546eadf5c9b"},{"fileName":"terraform-provider-synology_0.3.3_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"b12a7b655e769c61a69e76d11e1ccb452fe896e997aaa0cf2950d840f4dab333"},{"fileName":"terraform-provider-synology_0.3.3_manifest.json","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f"},{"fileName":"terraform-provider-synology_0.3.3_windows_386.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"de680880c8701fe8c7bab9f54b48026cfc7e640335b64fbf8bb1cc24085f2a43"},{"fileName":"terraform-provider-synology_0.3.3_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"5d5ec609ef51311c875d6448f49da9a3cf85b6e437227aec463f47dff1f7b348"},{"fileName":"terraform-provider-synology_0.3.3_windows_arm.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"6f0e1e9df118ceb5a8dbeb9f956e98fa994d520ef953e13ec6547ca57d4f9ac6"},{"fileName":"terraform-provider-synology_0.3.3_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-synology_0.3.3_SHA256SUMS","hash":"b454e7847d20b3e2d22001b16479e004dc79e90e28f82fadcb9f7558ba5ae8ff"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-synology_0.3.3_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "92874913f541ac4c7bcf757005f8977e18f7b31eaf5bd814b4c01686ee0c0461"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "3e18a8bb8b2e7cbac73b1c930c03833bb01083203f8524321e25398ee34b284a"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "20a8e219bee588a555f739830307be4de0cc69983197505a2c688d19f67ef563"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "eb762fd47fd54823c891bb18ffe3dae85123d6ac6f216b554da23696be996bd1"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "912c8c3b963f3f5dd1064ff4606b808b92f026e5bcb4f86d8fbcbbc8d412c245"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "e40f84ea2addbc054d705b8d9fd05929bc1db599d90219707b300d2bd931405c"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "864a8f20a84c0e4863d64d4010cbdf6eff936022dd3cd276c008fb6c066f65b9"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "7fa8c11ace07d46dfecfa62ee23741decad8e7eea9aa121f70daf591096846f5"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "eda0e920ae128ca19416ed9c493484fca08e01f43a38c78658014546eadf5c9b"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "b12a7b655e769c61a69e76d11e1ccb452fe896e997aaa0cf2950d840f4dab333"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_manifest.json",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "de680880c8701fe8c7bab9f54b48026cfc7e640335b64fbf8bb1cc24085f2a43"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "5d5ec609ef51311c875d6448f49da9a3cf85b6e437227aec463f47dff1f7b348"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "6f0e1e9df118ceb5a8dbeb9f956e98fa994d520ef953e13ec6547ca57d4f9ac6"
+    },
+    {
+      "fileName": "terraform-provider-synology_0.3.3_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-synology_0.3.3_SHA256SUMS",
+      "hash": "b454e7847d20b3e2d22001b16479e004dc79e90e28f82fadcb9f7558ba5ae8ff"
+    }
+  ]
+}

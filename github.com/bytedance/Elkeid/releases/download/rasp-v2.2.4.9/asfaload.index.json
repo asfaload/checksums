@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"output/rasp","algo":"Sha256","source":"SHA256SUMS","hash":"b5f440fec685a9a9200bf9095c542cbc3bd56d3be73d65e335afcbc992bec29b"},{"fileName":"rasp-linux-default-x86_64-2.2.4.9.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"ce19e5fdeab29470a0547272a3ca063947444c462918433522867badb17a6070"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "output/rasp",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "b5f440fec685a9a9200bf9095c542cbc3bd56d3be73d65e335afcbc992bec29b"
+    },
+    {
+      "fileName": "rasp-linux-default-x86_64-2.2.4.9.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ce19e5fdeab29470a0547272a3ca063947444c462918433522867badb17a6070"
+    }
+  ]
+}

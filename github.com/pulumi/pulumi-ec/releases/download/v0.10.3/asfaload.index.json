@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-ec-v0.10.3-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-ec_0.10.3_checksums.txt","hash":"3a53eefdf10e608934324a8f500eb8ef9c0f6b10"},{"fileName":"./pulumi-resource-ec-v0.10.3-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-ec_0.10.3_checksums.txt","hash":"a8e35db334b3ecf5a0d7f9bce480122878357577"},{"fileName":"./pulumi-resource-ec-v0.10.3-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-ec_0.10.3_checksums.txt","hash":"0d29099a08c8cc5b5e31573d66e700d968f4f81d"},{"fileName":"./pulumi-resource-ec-v0.10.3-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-ec_0.10.3_checksums.txt","hash":"801a6e041a8d480020305765b88c15758838370a"},{"fileName":"./pulumi-resource-ec-v0.10.3-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-ec_0.10.3_checksums.txt","hash":"24ff104a6b5784a3c1c01fe05e1e31cabb7b5f0d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-ec-v0.10.3-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-ec_0.10.3_checksums.txt",
+      "hash": "3a53eefdf10e608934324a8f500eb8ef9c0f6b10"
+    },
+    {
+      "fileName": "./pulumi-resource-ec-v0.10.3-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-ec_0.10.3_checksums.txt",
+      "hash": "a8e35db334b3ecf5a0d7f9bce480122878357577"
+    },
+    {
+      "fileName": "./pulumi-resource-ec-v0.10.3-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-ec_0.10.3_checksums.txt",
+      "hash": "0d29099a08c8cc5b5e31573d66e700d968f4f81d"
+    },
+    {
+      "fileName": "./pulumi-resource-ec-v0.10.3-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-ec_0.10.3_checksums.txt",
+      "hash": "801a6e041a8d480020305765b88c15758838370a"
+    },
+    {
+      "fileName": "./pulumi-resource-ec-v0.10.3-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-ec_0.10.3_checksums.txt",
+      "hash": "24ff104a6b5784a3c1c01fe05e1e31cabb7b5f0d"
+    }
+  ]
+}

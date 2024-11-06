@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"templ_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9b550c9fcdf80cfe932d6e9a933941da463b10dfffa4071e3076a4600aa77702"},{"fileName":"templ_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a345deb4da7be3545e325a758af805cd50a4d8f4cd45850bebf243486e0f25c3"},{"fileName":"templ_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"833afe185e099b9d251f53031c538a921eb703c939d3834f0630ed0d87ff36fd"},{"fileName":"templ_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8a9a97dd2e7afb7d873eeb6af5539b5dc7a21fca6064de0460b508aea6ca90b5"},{"fileName":"templ_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2cb042475d8bb215b4a7b586d069f74f05ae2709266208aaf83e6d8d3fc73eff"},{"fileName":"templ_Windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7cf8f82c1b21106b15087cac396c59a6a095582d6ea059a4fcdc37ccc4365d2d"},{"fileName":"templ_Windows_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"430f2a7365dd7f437826c2de2567ba9a3ea5784f6b118e20f6d2ac9b722e7662"},{"fileName":"templ_Windows_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1f969f557bcc3ee8116c222f427fe7391f67a4c0e811a5b0eecb300adef86b99"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "templ_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9b550c9fcdf80cfe932d6e9a933941da463b10dfffa4071e3076a4600aa77702"
+    },
+    {
+      "fileName": "templ_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a345deb4da7be3545e325a758af805cd50a4d8f4cd45850bebf243486e0f25c3"
+    },
+    {
+      "fileName": "templ_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "833afe185e099b9d251f53031c538a921eb703c939d3834f0630ed0d87ff36fd"
+    },
+    {
+      "fileName": "templ_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8a9a97dd2e7afb7d873eeb6af5539b5dc7a21fca6064de0460b508aea6ca90b5"
+    },
+    {
+      "fileName": "templ_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2cb042475d8bb215b4a7b586d069f74f05ae2709266208aaf83e6d8d3fc73eff"
+    },
+    {
+      "fileName": "templ_Windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7cf8f82c1b21106b15087cac396c59a6a095582d6ea059a4fcdc37ccc4365d2d"
+    },
+    {
+      "fileName": "templ_Windows_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "430f2a7365dd7f437826c2de2567ba9a3ea5784f6b118e20f6d2ac9b722e7662"
+    },
+    {
+      "fileName": "templ_Windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1f969f557bcc3ee8116c222f427fe7391f67a4c0e811a5b0eecb300adef86b99"
+    }
+  ]
+}

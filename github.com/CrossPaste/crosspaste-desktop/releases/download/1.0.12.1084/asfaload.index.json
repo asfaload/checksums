@@ -1,1 +1,169 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"InRelease","algo":"Sha256","source":"checksum.txt","hash":"05463574898e4e794f8d83b904493a378d53d7892fd8cca1167565b83595ed7d"},{"fileName":"Packages","algo":"Sha256","source":"checksum.txt","hash":"b24101dfd4256156680414b71c45e3ae341cfd9a9f0315140ebb4b0eaca7e2b6"},{"fileName":"Packages.xz","algo":"Sha256","source":"checksum.txt","hash":"58fa630a6320e06146be1f4c7e993b81b36cf4d4b6d6ad814361c087494280ac"},{"fileName":"Release","algo":"Sha256","source":"checksum.txt","hash":"7557ba6d5f49d0c749e553c6d208b6ce38180fc445c14c47c4c4431de9ee7444"},{"fileName":"appcast-aarch64.rss","algo":"Sha256","source":"checksum.txt","hash":"1711b76158a3abf6ad3dde850fd022748195931edd28ef06b7c0186d61f7b136"},{"fileName":"appcast-amd64.rss","algo":"Sha256","source":"checksum.txt","hash":"83cc06d22d0e86e94e23ba65999fb4b557f272ab7294b50421aea20e58c84ead"},{"fileName":"crosspaste-1.0.10.1001-1.0.12.1084-mac-aarch64.delta","algo":"Sha256","source":"checksum.txt","hash":"721ee6a0ff6399e2f9f21b7a887b9ed7f2d4de2c62e51336b4e2a96347ea4ab0"},{"fileName":"crosspaste-1.0.10.1001-1.0.12.1084-mac-amd64.delta","algo":"Sha256","source":"checksum.txt","hash":"56a4ef06b87b7a7200a6919e60ed4802812f472c4a3ad32e22afc5ffdfa21bb7"},{"fileName":"crosspaste-1.0.11.1037-1.0.12.1084-mac-aarch64.delta","algo":"Sha256","source":"checksum.txt","hash":"846b13723750a279db909fbe0eb318b10a9acb4531dab010dc863050dececa1f"},{"fileName":"crosspaste-1.0.11.1037-1.0.12.1084-mac-amd64.delta","algo":"Sha256","source":"checksum.txt","hash":"1aa28eda849bad389d66436ab2aa151c20dcf93d20308fc39b8a5da0dd0d709e"},{"fileName":"crosspaste-1.0.11.1046-1.0.12.1084-mac-aarch64.delta","algo":"Sha256","source":"checksum.txt","hash":"b3db1b6c4a047deeccdecdd6105f095929757dceca0c64b7b631c680010f1c63"},{"fileName":"crosspaste-1.0.11.1046-1.0.12.1084-mac-amd64.delta","algo":"Sha256","source":"checksum.txt","hash":"77787a4277ea6a0c1f64e0cdfa3ed743be8547c1f6408219c787cf60b109b8db"},{"fileName":"crosspaste-1.0.12-1084-linux-amd64.tar.gz","algo":"Sha256","source":"checksum.txt","hash":"f37e88abe7388ac2bad91f2b2ba02d69d44838a019656280cc1d8d2164840e0d"},{"fileName":"crosspaste-1.0.12-1084-mac-aarch64.zip","algo":"Sha256","source":"checksum.txt","hash":"478f7c07f6a7b843a6af874aa6c0e2ba3a1c9c89c88696bd991f2e7c6d08f7bb"},{"fileName":"crosspaste-1.0.12-1084-mac-amd64.zip","algo":"Sha256","source":"checksum.txt","hash":"d943674223b08aef976a427cb91adfcdb1225fb07a53a7571a2c03decbbd29ed"},{"fileName":"crosspaste-1.0.12-1084-windows-amd64.zip","algo":"Sha256","source":"checksum.txt","hash":"6637d5abd0fd2d5dee457b06a9355bf45f2dfc3ae8d1fbfea920e69bc636492b"},{"fileName":"crosspaste-1.0.12-1084.x64.msix","algo":"Sha256","source":"checksum.txt","hash":"a8b97328a2fd414a4b3a90954990797a5bd9d809b235705bc5368c18e933c1dc"},{"fileName":"crosspaste-1.0.12.1077-1.0.12.1084-mac-aarch64.delta","algo":"Sha256","source":"checksum.txt","hash":"060cd2aad6bc361693d6af73d91b6a8eda2e09a0bafbc898da803fe141e5e2a1"},{"fileName":"crosspaste-1.0.12.1077-1.0.12.1084-mac-amd64.delta","algo":"Sha256","source":"checksum.txt","hash":"e84f2368175ee8912c9320e9860ae8083c2875b946b26d4a57d2c8c6cc7c367a"},{"fileName":"crosspaste-1.0.9.974-1.0.12.1084-mac-aarch64.delta","algo":"Sha256","source":"checksum.txt","hash":"2b706fb13ca52efe6883c4f356535a22754a49840e8f864ab6221ed9975773b5"},{"fileName":"crosspaste-1.0.9.974-1.0.12.1084-mac-amd64.delta","algo":"Sha256","source":"checksum.txt","hash":"ca91bac1500e68533ff24a8bbc86fc74df430ada6123182dfd0f4d600f8c9762"},{"fileName":"crosspaste.appinstaller","algo":"Sha256","source":"checksum.txt","hash":"3797bfb2ea5d78b7c12f5034563adb6f2331682fa6fd49eb960abc2ccb2de830"},{"fileName":"crosspaste.crt","algo":"Sha256","source":"checksum.txt","hash":"7da896858869d6c8fc1e00bfbd316934a5640b9dc4236e6961a2996e8ce9c6c9"},{"fileName":"crosspaste.exe","algo":"Sha256","source":"checksum.txt","hash":"f89a9307336de91a3d9aa97e69ef1b9d90806176c8ce724af84e6d1726a97e2b"},{"fileName":"crosspaste_1.0.12-1084_amd64.deb","algo":"Sha256","source":"checksum.txt","hash":"597a7523c9d5c0066c742171092d41833f156609e79649b78758b655d0bd6585"},{"fileName":"install.ps1","algo":"Sha256","source":"checksum.txt","hash":"b10db2f7ba3fff4063ff5df9a91e2b35a822b5f32cdd3424ef6b2ceb11971571"},{"fileName":"metadata.properties","algo":"Sha256","source":"checksum.txt","hash":"2d0b304d58816f589829be18c5fe3e17d4d064ae4a747d402ca9df82abf4d0bf"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "InRelease",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "05463574898e4e794f8d83b904493a378d53d7892fd8cca1167565b83595ed7d"
+    },
+    {
+      "fileName": "Packages",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "b24101dfd4256156680414b71c45e3ae341cfd9a9f0315140ebb4b0eaca7e2b6"
+    },
+    {
+      "fileName": "Packages.xz",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "58fa630a6320e06146be1f4c7e993b81b36cf4d4b6d6ad814361c087494280ac"
+    },
+    {
+      "fileName": "Release",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "7557ba6d5f49d0c749e553c6d208b6ce38180fc445c14c47c4c4431de9ee7444"
+    },
+    {
+      "fileName": "appcast-aarch64.rss",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "1711b76158a3abf6ad3dde850fd022748195931edd28ef06b7c0186d61f7b136"
+    },
+    {
+      "fileName": "appcast-amd64.rss",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "83cc06d22d0e86e94e23ba65999fb4b557f272ab7294b50421aea20e58c84ead"
+    },
+    {
+      "fileName": "crosspaste-1.0.10.1001-1.0.12.1084-mac-aarch64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "721ee6a0ff6399e2f9f21b7a887b9ed7f2d4de2c62e51336b4e2a96347ea4ab0"
+    },
+    {
+      "fileName": "crosspaste-1.0.10.1001-1.0.12.1084-mac-amd64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "56a4ef06b87b7a7200a6919e60ed4802812f472c4a3ad32e22afc5ffdfa21bb7"
+    },
+    {
+      "fileName": "crosspaste-1.0.11.1037-1.0.12.1084-mac-aarch64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "846b13723750a279db909fbe0eb318b10a9acb4531dab010dc863050dececa1f"
+    },
+    {
+      "fileName": "crosspaste-1.0.11.1037-1.0.12.1084-mac-amd64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "1aa28eda849bad389d66436ab2aa151c20dcf93d20308fc39b8a5da0dd0d709e"
+    },
+    {
+      "fileName": "crosspaste-1.0.11.1046-1.0.12.1084-mac-aarch64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "b3db1b6c4a047deeccdecdd6105f095929757dceca0c64b7b631c680010f1c63"
+    },
+    {
+      "fileName": "crosspaste-1.0.11.1046-1.0.12.1084-mac-amd64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "77787a4277ea6a0c1f64e0cdfa3ed743be8547c1f6408219c787cf60b109b8db"
+    },
+    {
+      "fileName": "crosspaste-1.0.12-1084-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "f37e88abe7388ac2bad91f2b2ba02d69d44838a019656280cc1d8d2164840e0d"
+    },
+    {
+      "fileName": "crosspaste-1.0.12-1084-mac-aarch64.zip",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "478f7c07f6a7b843a6af874aa6c0e2ba3a1c9c89c88696bd991f2e7c6d08f7bb"
+    },
+    {
+      "fileName": "crosspaste-1.0.12-1084-mac-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "d943674223b08aef976a427cb91adfcdb1225fb07a53a7571a2c03decbbd29ed"
+    },
+    {
+      "fileName": "crosspaste-1.0.12-1084-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "6637d5abd0fd2d5dee457b06a9355bf45f2dfc3ae8d1fbfea920e69bc636492b"
+    },
+    {
+      "fileName": "crosspaste-1.0.12-1084.x64.msix",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "a8b97328a2fd414a4b3a90954990797a5bd9d809b235705bc5368c18e933c1dc"
+    },
+    {
+      "fileName": "crosspaste-1.0.12.1077-1.0.12.1084-mac-aarch64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "060cd2aad6bc361693d6af73d91b6a8eda2e09a0bafbc898da803fe141e5e2a1"
+    },
+    {
+      "fileName": "crosspaste-1.0.12.1077-1.0.12.1084-mac-amd64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "e84f2368175ee8912c9320e9860ae8083c2875b946b26d4a57d2c8c6cc7c367a"
+    },
+    {
+      "fileName": "crosspaste-1.0.9.974-1.0.12.1084-mac-aarch64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "2b706fb13ca52efe6883c4f356535a22754a49840e8f864ab6221ed9975773b5"
+    },
+    {
+      "fileName": "crosspaste-1.0.9.974-1.0.12.1084-mac-amd64.delta",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "ca91bac1500e68533ff24a8bbc86fc74df430ada6123182dfd0f4d600f8c9762"
+    },
+    {
+      "fileName": "crosspaste.appinstaller",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "3797bfb2ea5d78b7c12f5034563adb6f2331682fa6fd49eb960abc2ccb2de830"
+    },
+    {
+      "fileName": "crosspaste.crt",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "7da896858869d6c8fc1e00bfbd316934a5640b9dc4236e6961a2996e8ce9c6c9"
+    },
+    {
+      "fileName": "crosspaste.exe",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "f89a9307336de91a3d9aa97e69ef1b9d90806176c8ce724af84e6d1726a97e2b"
+    },
+    {
+      "fileName": "crosspaste_1.0.12-1084_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "597a7523c9d5c0066c742171092d41833f156609e79649b78758b655d0bd6585"
+    },
+    {
+      "fileName": "install.ps1",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "b10db2f7ba3fff4063ff5df9a91e2b35a822b5f32cdd3424ef6b2ceb11971571"
+    },
+    {
+      "fileName": "metadata.properties",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "2d0b304d58816f589829be18c5fe3e17d4d064ae4a747d402ca9df82abf4d0bf"
+    }
+  ]
+}

@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"43996194fe4642d95d744f0fbe91547a6e278aff5df7196f65e7bd1b22f05c11"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"d4004226726d0e364f1170c8ccd8a7a24a29b718c9e6b4cd129dfdcf22a6da23"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"b20fb0201ca466b4779f410d06226c99b68233619380e298df45458297072ce7"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"489b7f23dcd493f859c446bc21197976aef3469f4d74c7aeab535a14209bc7ac"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"d466164223f24a61367095f3dae23d38cbcb4b2e687b6d6743df3bfa9b77d676"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"1490b2a861c7d4e7ead2301a7e8d2f6d23e26165e67813e680462c18fbc5382b"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_linux_386.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"4fe99c0902230581be7e8a5d648d904b6ce720583b65ad2b6b78fca7f718d7c7"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"04ad0a8c8dbe2a94e4652c7a925d3134b5b6433f0df91288dd4ab0b9ee0a42fc"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_linux_arm.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"17e0faaa765b5bbac1028440dcd22ee524884bd7c6b7f06a28850b91fc2049c2"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"6012e17f91aa160be7ef0f5ee0aab1de31ebfaf2fcc39ddf9539ddbb32336fac"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_manifest.json","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_windows_386.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"38b44b55b6b9d0dbc420d5f4cf7eb5b73476626cb2b3580459bb3e53e9530d8d"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"1c33cf1bcd7296f9e994d3309546281cced82288ecfd79ff2adc5250b92afc14"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_windows_arm.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"48163d7712f042e368334f40b2c96cd16daa09ed5e56efa2a31530d386965451"},{"fileName":"terraform-provider-illumio-cloudsecure_1.1.0_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS","hash":"bfd193aa8abb1182ec18b059c6b1a9f2674d0ae7972b33780029106efc8f76e2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "43996194fe4642d95d744f0fbe91547a6e278aff5df7196f65e7bd1b22f05c11"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "d4004226726d0e364f1170c8ccd8a7a24a29b718c9e6b4cd129dfdcf22a6da23"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "b20fb0201ca466b4779f410d06226c99b68233619380e298df45458297072ce7"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "489b7f23dcd493f859c446bc21197976aef3469f4d74c7aeab535a14209bc7ac"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "d466164223f24a61367095f3dae23d38cbcb4b2e687b6d6743df3bfa9b77d676"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "1490b2a861c7d4e7ead2301a7e8d2f6d23e26165e67813e680462c18fbc5382b"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "4fe99c0902230581be7e8a5d648d904b6ce720583b65ad2b6b78fca7f718d7c7"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "04ad0a8c8dbe2a94e4652c7a925d3134b5b6433f0df91288dd4ab0b9ee0a42fc"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "17e0faaa765b5bbac1028440dcd22ee524884bd7c6b7f06a28850b91fc2049c2"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "6012e17f91aa160be7ef0f5ee0aab1de31ebfaf2fcc39ddf9539ddbb32336fac"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_manifest.json",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "38b44b55b6b9d0dbc420d5f4cf7eb5b73476626cb2b3580459bb3e53e9530d8d"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "1c33cf1bcd7296f9e994d3309546281cced82288ecfd79ff2adc5250b92afc14"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "48163d7712f042e368334f40b2c96cd16daa09ed5e56efa2a31530d386965451"
+    },
+    {
+      "fileName": "terraform-provider-illumio-cloudsecure_1.1.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-illumio-cloudsecure_1.1.0_SHA256SUMS",
+      "hash": "bfd193aa8abb1182ec18b059c6b1a9f2674d0ae7972b33780029106efc8f76e2"
+    }
+  ]
+}

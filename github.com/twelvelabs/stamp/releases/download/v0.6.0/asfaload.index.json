@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"stamp_0.6.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9428b422a6832e68b88957cb6378477ff07b175c8a016a89536c10856eb3beee"},{"fileName":"stamp_0.6.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fe3efb725b7be45e09dd0e8ebb502a1064ddcf977ae77fbdd6765701d6941e9e"},{"fileName":"stamp_0.6.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bba45883e736e2536401b50195b487cde8d3222abf0625e0603bf6ee905e20fc"},{"fileName":"stamp_0.6.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"200b809d7df19c3d9b34313741c814c8f2ee58f986a7a5c9909bc9a8c7b04528"},{"fileName":"stamp_0.6.0_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"8f8838947ff1ac6fe14b775a615cdb4314e9795669db43b55aaf090f9a2121c3"},{"fileName":"stamp_0.6.0_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"37cfd5de3e7935ccfc675ba6fe220bf7377f95eb1b584ffa624be79dc6890cd2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "stamp_0.6.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9428b422a6832e68b88957cb6378477ff07b175c8a016a89536c10856eb3beee"
+    },
+    {
+      "fileName": "stamp_0.6.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fe3efb725b7be45e09dd0e8ebb502a1064ddcf977ae77fbdd6765701d6941e9e"
+    },
+    {
+      "fileName": "stamp_0.6.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bba45883e736e2536401b50195b487cde8d3222abf0625e0603bf6ee905e20fc"
+    },
+    {
+      "fileName": "stamp_0.6.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "200b809d7df19c3d9b34313741c814c8f2ee58f986a7a5c9909bc9a8c7b04528"
+    },
+    {
+      "fileName": "stamp_0.6.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8f8838947ff1ac6fe14b775a615cdb4314e9795669db43b55aaf090f9a2121c3"
+    },
+    {
+      "fileName": "stamp_0.6.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "37cfd5de3e7935ccfc675ba6fe220bf7377f95eb1b584ffa624be79dc6890cd2"
+    }
+  ]
+}

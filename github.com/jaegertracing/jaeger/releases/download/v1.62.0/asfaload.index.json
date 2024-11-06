@@ -1,1 +1,427 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"jaeger-1.62.0-linux-ppc64le/example-hotrod","algo":"Sha256","source":"jaeger-1.62.0-linux-ppc64le.sha256sum.txt","hash":"64c5ff961b1fc504653f7711032eb7b0f8c3742d4c32dd844f8e4665f10da201"},{"fileName":"jaeger-1.62.0-linux-ppc64le/jaeger-agent","algo":"Sha256","source":"jaeger-1.62.0-linux-ppc64le.sha256sum.txt","hash":"3f431b3156209aa9b3d6dca66901a56c98bdda1cfcc3a8e69bc74f196d7ea7de"},{"fileName":"jaeger-1.62.0-linux-ppc64le/jaeger-all-in-one","algo":"Sha256","source":"jaeger-1.62.0-linux-ppc64le.sha256sum.txt","hash":"03348a5a0e50cb1cb20a901c25f34219620cafec6d9d041ca1b08bf5026e14f9"},{"fileName":"jaeger-1.62.0-linux-ppc64le/jaeger-collector","algo":"Sha256","source":"jaeger-1.62.0-linux-ppc64le.sha256sum.txt","hash":"94b10cc0fd6d8ee8a9274e8a22a62f9cf8fc75454bf4bdcc74deff6cf0349184"},{"fileName":"jaeger-1.62.0-linux-ppc64le/jaeger-ingester","algo":"Sha256","source":"jaeger-1.62.0-linux-ppc64le.sha256sum.txt","hash":"af2edffd7d7df63cbcc8271f709a893961a1762818bd9f57d53edb954962bb43"},{"fileName":"jaeger-1.62.0-linux-ppc64le/jaeger-query","algo":"Sha256","source":"jaeger-1.62.0-linux-ppc64le.sha256sum.txt","hash":"35680e6e6ddfeb466fe6ad3bd2ee257ad37ebd995ea0378fc65130afd46ed1c4"},{"fileName":"jaeger-1.62.0-darwin-amd64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"2600551425d5303feb99c53c91442ad397b00b0991d89cf522214c8a307c6a25"},{"fileName":"jaeger-1.62.0-darwin-arm64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"e8b9168629bbb3f52e21746076a9db3826c88b81f62a2ef7185b18df5e274aeb"},{"fileName":"jaeger-1.62.0-linux-amd64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"ccd00b24a3e740eb079579b1c74389f6e6a6742e4fd34697d8789dae05ae2079"},{"fileName":"jaeger-1.62.0-linux-arm64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"9a36f0b678c7e9a7ec9acfa064406d55c56682c26fdcb271415f918e09df8767"},{"fileName":"jaeger-1.62.0-linux-ppc64le.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"03a4620272d69bc05f53725e38efec1ce875bf506221a5f09d41381109b18773"},{"fileName":"jaeger-1.62.0-linux-s390x.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"bc931fe9695c17be81ef634ffdebab275cbe7d68397308b8acae6b24d2ad6091"},{"fileName":"jaeger-1.62.0-windows-amd64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"29da7b982beec21595fd2dc3adb1480fe7f708994d2b864a55fb8598efb12c89"},{"fileName":"jaeger-1.62.0-windows-amd64.zip","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"9cfabe536fdde88100f0244ae8927df970f0e1e1e11dfcf771a2d8e6fb31fff1"},{"fileName":"jaeger-2.0.0-rc2-darwin-amd64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"6de4721ec9c8b9ad5cda955fe1b602311bfe66b825afc39dfb420aa331d3588a"},{"fileName":"jaeger-2.0.0-rc2-darwin-arm64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"4523a8fcaf1b6bfdc1d68f3853ed25849e79f14c2683322b426f3c10e55782eb"},{"fileName":"jaeger-2.0.0-rc2-linux-amd64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"2d63e628b5b653c22e68db5e9600641f17c3b945f7b777539eff771cfe6597a8"},{"fileName":"jaeger-2.0.0-rc2-linux-arm64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"b84a9aed1da812405f86ad5394051bcbf13553e06f6a27a59de8a21baeea1786"},{"fileName":"jaeger-2.0.0-rc2-linux-ppc64le.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"f582c2de7cadc087eb3ea85ce18d3141bbfa64c10dde908df9170fe814b51792"},{"fileName":"jaeger-2.0.0-rc2-linux-s390x.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"368292ce1d4b6ff4c6096eef2cb0be7f89eca1fba6a5e186ec230f007648cca5"},{"fileName":"jaeger-2.0.0-rc2-windows-amd64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"ad314ed2a6eae099c10f9547dc2ff06a11bebb87180cb83b19b51ce0277b799f"},{"fileName":"jaeger-2.0.0-rc2-windows-amd64.zip","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"0127715e74455dfccd73258d21f95ef0d8cd0e89e5de16e1e7abab9eea808c5b"},{"fileName":"jaeger-tools-1.62.0-darwin-amd64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"ad709f35027f40edb8261cfbb51fcf2b24b862881d0d4d45f1b1bc62d571f945"},{"fileName":"jaeger-tools-1.62.0-darwin-arm64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"7cb5c27c1bddadebd501cc4c76c011737aa1fbe5b54d411e311a0163110bf12c"},{"fileName":"jaeger-tools-1.62.0-linux-amd64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"92af25870adbb0d0d2dfc2a3884724324649605bd70b627baa8addc2cca07a9c"},{"fileName":"jaeger-tools-1.62.0-linux-arm64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"fe3905f623b29850e70993233c2b2089167cefeb5537f4bdc28422ec109fe517"},{"fileName":"jaeger-tools-1.62.0-linux-ppc64le.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"178066880abcda081bcb3453533d3a914f6737f42fec65cc4cea77a9b8b3cc6b"},{"fileName":"jaeger-tools-1.62.0-linux-s390x.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"e83358d82f8905b4729fc2d2a6d6eb2e4332bffee41d9cb47396b657363ff72a"},{"fileName":"jaeger-tools-1.62.0-windows-amd64.tar.gz","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"16f394342c520828c8034a858ef1e26bd80b847fe1f572b16c8d4cb54f0a8114"},{"fileName":"jaeger-tools-1.62.0-windows-amd64.zip","algo":"Sha256","source":"jaeger-1.62.0.sha256sum.txt","hash":"5c969368a84b6a99cafeea5d0ca7fb1f51582a4a25f3bbf78b0210a057ccabe3"},{"fileName":"jaeger-1.62.0-windows-amd64/example-hotrod.exe","algo":"Sha256","source":"jaeger-1.62.0-windows-amd64.sha256sum.txt","hash":"6d86313c2f3912229338c419c80c789da78de94fe354e7ea83808a41eaafc6cf"},{"fileName":"jaeger-1.62.0-windows-amd64/jaeger-agent.exe","algo":"Sha256","source":"jaeger-1.62.0-windows-amd64.sha256sum.txt","hash":"90eb6ebeabaecabe96dbd5daca388134f3024ead7583ae186cfa45edd5fe4f7c"},{"fileName":"jaeger-1.62.0-windows-amd64/jaeger-all-in-one.exe","algo":"Sha256","source":"jaeger-1.62.0-windows-amd64.sha256sum.txt","hash":"eae6a6b2961aaad2e01e32604671316d5756d21bc431461bbb18cc24dba38db2"},{"fileName":"jaeger-1.62.0-windows-amd64/jaeger-collector.exe","algo":"Sha256","source":"jaeger-1.62.0-windows-amd64.sha256sum.txt","hash":"0c94f6583a600c315c5278278d6169543cfd5bdcf524e392e20c72638aa6658e"},{"fileName":"jaeger-1.62.0-windows-amd64/jaeger-ingester.exe","algo":"Sha256","source":"jaeger-1.62.0-windows-amd64.sha256sum.txt","hash":"7deba4f31c174edbab965b5a6883a771e62a7ebc4c2833a36242ccb2b03fc939"},{"fileName":"jaeger-1.62.0-windows-amd64/jaeger-query.exe","algo":"Sha256","source":"jaeger-1.62.0-windows-amd64.sha256sum.txt","hash":"6cfb10a2abdaf504f28a86bbd289d116f8b8bc827dbdb29d3825329130b45e87"},{"fileName":"jaeger-1.62.0-linux-s390x/example-hotrod","algo":"Sha256","source":"jaeger-1.62.0-linux-s390x.sha256sum.txt","hash":"3d03228e43d7dd2dae2554f388d6bb46c5632656be00ea1798e9ea93f8fec832"},{"fileName":"jaeger-1.62.0-linux-s390x/jaeger-agent","algo":"Sha256","source":"jaeger-1.62.0-linux-s390x.sha256sum.txt","hash":"3b0e358b77b59b963f9f80c0fa179f59a30a44f79067b27ac427192ab316e5e7"},{"fileName":"jaeger-1.62.0-linux-s390x/jaeger-all-in-one","algo":"Sha256","source":"jaeger-1.62.0-linux-s390x.sha256sum.txt","hash":"f990a4ae0bcbe3fb9908676ee6257cacef7b560a8b2f4631071f460f686e0a42"},{"fileName":"jaeger-1.62.0-linux-s390x/jaeger-collector","algo":"Sha256","source":"jaeger-1.62.0-linux-s390x.sha256sum.txt","hash":"b89687198e50bdd07a5a6f55d0328b793fa35526116d63fdea7a48b6d3039d01"},{"fileName":"jaeger-1.62.0-linux-s390x/jaeger-ingester","algo":"Sha256","source":"jaeger-1.62.0-linux-s390x.sha256sum.txt","hash":"600cc9ac86aa31135463a5ebe249cd6856967ddbdceb37669ecb60359150d219"},{"fileName":"jaeger-1.62.0-linux-s390x/jaeger-query","algo":"Sha256","source":"jaeger-1.62.0-linux-s390x.sha256sum.txt","hash":"810be53cbabf9d84869238e289479b3a7db8b76745733c0fb9b053852a42030d"},{"fileName":"jaeger-1.62.0-darwin-arm64/example-hotrod","algo":"Sha256","source":"jaeger-1.62.0-darwin-arm64.sha256sum.txt","hash":"739824056eedc1860a8ae657731c0036905e9ab3d819249d20c122fe767f9911"},{"fileName":"jaeger-1.62.0-darwin-arm64/jaeger-agent","algo":"Sha256","source":"jaeger-1.62.0-darwin-arm64.sha256sum.txt","hash":"74715fb07f12e8c44c93137c0dfdc6a1027bc87d2dba05151f91319284aae715"},{"fileName":"jaeger-1.62.0-darwin-arm64/jaeger-all-in-one","algo":"Sha256","source":"jaeger-1.62.0-darwin-arm64.sha256sum.txt","hash":"475175b889a4c26ea47f5154c9973a09a4190234003583ad6e0e79a1ee7873d4"},{"fileName":"jaeger-1.62.0-darwin-arm64/jaeger-collector","algo":"Sha256","source":"jaeger-1.62.0-darwin-arm64.sha256sum.txt","hash":"df978e5a1a1106a7eee0fcd1219728a039fd057e13240aeb9a5046d4dc667ab2"},{"fileName":"jaeger-1.62.0-darwin-arm64/jaeger-ingester","algo":"Sha256","source":"jaeger-1.62.0-darwin-arm64.sha256sum.txt","hash":"11f67d514f33ae97d666913a93fe82f87a398ccb1d8b926e0e5d6485733a8d7f"},{"fileName":"jaeger-1.62.0-darwin-arm64/jaeger-query","algo":"Sha256","source":"jaeger-1.62.0-darwin-arm64.sha256sum.txt","hash":"ee4c41e0ee8454ad8b763e33d1c60b52927eb7154ed0f4fb6a085d7eae78bc1d"},{"fileName":"jaeger-2.0.0-rc2-darwin-arm64/example-hotrod","algo":"Sha256","source":"jaeger-2.0.0-rc2-darwin-arm64.sha256sum.txt","hash":"739824056eedc1860a8ae657731c0036905e9ab3d819249d20c122fe767f9911"},{"fileName":"jaeger-2.0.0-rc2-darwin-arm64/jaeger","algo":"Sha256","source":"jaeger-2.0.0-rc2-darwin-arm64.sha256sum.txt","hash":"35290bd78af0bb96d5e0d2a974c1f17bda8afc5c87f0b2445c6ec4954a763f92"},{"fileName":"jaeger-1.62.0-linux-amd64/example-hotrod","algo":"Sha256","source":"jaeger-1.62.0-linux-amd64.sha256sum.txt","hash":"068a9a9b4de99510a533eae355106da637dccf81f46426eb2a72dffc25953b86"},{"fileName":"jaeger-1.62.0-linux-amd64/jaeger-agent","algo":"Sha256","source":"jaeger-1.62.0-linux-amd64.sha256sum.txt","hash":"5f14b5f3710886c9dad6363a9ef1208ae26e726420aafed018fedd2162cacc16"},{"fileName":"jaeger-1.62.0-linux-amd64/jaeger-all-in-one","algo":"Sha256","source":"jaeger-1.62.0-linux-amd64.sha256sum.txt","hash":"0f28bde9e9364e4eb572bd4119746d28cf310b2d8bcf2380972f3c97efb834ff"},{"fileName":"jaeger-1.62.0-linux-amd64/jaeger-collector","algo":"Sha256","source":"jaeger-1.62.0-linux-amd64.sha256sum.txt","hash":"366512ec8e796ec0146dbe95b144dbe287989509be957e98606fed9021ea7752"},{"fileName":"jaeger-1.62.0-linux-amd64/jaeger-ingester","algo":"Sha256","source":"jaeger-1.62.0-linux-amd64.sha256sum.txt","hash":"6d667477196c86bb9a008cf6c30af5e60ccf2faa4f0fa20d383a92d114b6a9cd"},{"fileName":"jaeger-1.62.0-linux-amd64/jaeger-query","algo":"Sha256","source":"jaeger-1.62.0-linux-amd64.sha256sum.txt","hash":"669ac01648958096bfb572217c12fbbf0d9c88ae4000ea975262c46bda95ae2b"},{"fileName":"jaeger-1.62.0-darwin-amd64/example-hotrod","algo":"Sha256","source":"jaeger-1.62.0-darwin-amd64.sha256sum.txt","hash":"3326b3ff7bf951fb8b7735022a10bdbe2e4905ff0fe4a301b5916089a5b1bf2a"},{"fileName":"jaeger-1.62.0-darwin-amd64/jaeger-agent","algo":"Sha256","source":"jaeger-1.62.0-darwin-amd64.sha256sum.txt","hash":"98199860ad65ceac33e87f3b486d1244b35ecdc9280e9d528049db44d54a9dae"},{"fileName":"jaeger-1.62.0-darwin-amd64/jaeger-all-in-one","algo":"Sha256","source":"jaeger-1.62.0-darwin-amd64.sha256sum.txt","hash":"dfe850238b1d9bffaa1b649633728405e816c4adb567cd2e4e1e525c6d2d82bb"},{"fileName":"jaeger-1.62.0-darwin-amd64/jaeger-collector","algo":"Sha256","source":"jaeger-1.62.0-darwin-amd64.sha256sum.txt","hash":"73cbe02024b0c865d7d0b4504eb6f5774e88ebb4e8e2659a11e94102a938927f"},{"fileName":"jaeger-1.62.0-darwin-amd64/jaeger-ingester","algo":"Sha256","source":"jaeger-1.62.0-darwin-amd64.sha256sum.txt","hash":"48091d5af94233ca8631be920b3b2b41a426c6791caab4ef576ef8a637b4328d"},{"fileName":"jaeger-1.62.0-darwin-amd64/jaeger-query","algo":"Sha256","source":"jaeger-1.62.0-darwin-amd64.sha256sum.txt","hash":"f91b131d8bf777eb42685c377be5a721ede7c8913912bd7ceafed73c5c327fba"},{"fileName":"jaeger-2.0.0-rc2-darwin-amd64/example-hotrod","algo":"Sha256","source":"jaeger-2.0.0-rc2-darwin-amd64.sha256sum.txt","hash":"3326b3ff7bf951fb8b7735022a10bdbe2e4905ff0fe4a301b5916089a5b1bf2a"},{"fileName":"jaeger-2.0.0-rc2-darwin-amd64/jaeger","algo":"Sha256","source":"jaeger-2.0.0-rc2-darwin-amd64.sha256sum.txt","hash":"c20904c179e64f3a68e80fd68e7f1131c33be49ef0bf3e5c9a651027752416d4"},{"fileName":"jaeger-1.62.0-linux-arm64/example-hotrod","algo":"Sha256","source":"jaeger-1.62.0-linux-arm64.sha256sum.txt","hash":"a3465ac4531d8ffc2af74f937df37ad5a172642cbc5c21fcc8d272b64d144f8f"},{"fileName":"jaeger-1.62.0-linux-arm64/jaeger-agent","algo":"Sha256","source":"jaeger-1.62.0-linux-arm64.sha256sum.txt","hash":"c72b226cb270a637a7005a97154ddb023ca3bfb810fb7b2ddbd4be27ed492e8f"},{"fileName":"jaeger-1.62.0-linux-arm64/jaeger-all-in-one","algo":"Sha256","source":"jaeger-1.62.0-linux-arm64.sha256sum.txt","hash":"f2557a2f4b8f3bf7aa46c1a297c989260f952a3f7b2f34ce5e869083975f3471"},{"fileName":"jaeger-1.62.0-linux-arm64/jaeger-collector","algo":"Sha256","source":"jaeger-1.62.0-linux-arm64.sha256sum.txt","hash":"052fafa47686fcb02ffa3b5919c1f5424d490529e5974892ee4416e263589fe2"},{"fileName":"jaeger-1.62.0-linux-arm64/jaeger-ingester","algo":"Sha256","source":"jaeger-1.62.0-linux-arm64.sha256sum.txt","hash":"60b0cad751f11b521c62d106f56bf0aa5fa4c9649b601988f5e22434856dda7e"},{"fileName":"jaeger-1.62.0-linux-arm64/jaeger-query","algo":"Sha256","source":"jaeger-1.62.0-linux-arm64.sha256sum.txt","hash":"48baf8377803b14a54a611ff1641088a52af19e284529ff92db927d3fc63aba7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "jaeger-1.62.0-linux-ppc64le/example-hotrod",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-ppc64le.sha256sum.txt",
+      "hash": "64c5ff961b1fc504653f7711032eb7b0f8c3742d4c32dd844f8e4665f10da201"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-ppc64le/jaeger-agent",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-ppc64le.sha256sum.txt",
+      "hash": "3f431b3156209aa9b3d6dca66901a56c98bdda1cfcc3a8e69bc74f196d7ea7de"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-ppc64le/jaeger-all-in-one",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-ppc64le.sha256sum.txt",
+      "hash": "03348a5a0e50cb1cb20a901c25f34219620cafec6d9d041ca1b08bf5026e14f9"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-ppc64le/jaeger-collector",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-ppc64le.sha256sum.txt",
+      "hash": "94b10cc0fd6d8ee8a9274e8a22a62f9cf8fc75454bf4bdcc74deff6cf0349184"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-ppc64le/jaeger-ingester",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-ppc64le.sha256sum.txt",
+      "hash": "af2edffd7d7df63cbcc8271f709a893961a1762818bd9f57d53edb954962bb43"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-ppc64le/jaeger-query",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-ppc64le.sha256sum.txt",
+      "hash": "35680e6e6ddfeb466fe6ad3bd2ee257ad37ebd995ea0378fc65130afd46ed1c4"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "2600551425d5303feb99c53c91442ad397b00b0991d89cf522214c8a307c6a25"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "e8b9168629bbb3f52e21746076a9db3826c88b81f62a2ef7185b18df5e274aeb"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "ccd00b24a3e740eb079579b1c74389f6e6a6742e4fd34697d8789dae05ae2079"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "9a36f0b678c7e9a7ec9acfa064406d55c56682c26fdcb271415f918e09df8767"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "03a4620272d69bc05f53725e38efec1ce875bf506221a5f09d41381109b18773"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "bc931fe9695c17be81ef634ffdebab275cbe7d68397308b8acae6b24d2ad6091"
+    },
+    {
+      "fileName": "jaeger-1.62.0-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "29da7b982beec21595fd2dc3adb1480fe7f708994d2b864a55fb8598efb12c89"
+    },
+    {
+      "fileName": "jaeger-1.62.0-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "9cfabe536fdde88100f0244ae8927df970f0e1e1e11dfcf771a2d8e6fb31fff1"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "6de4721ec9c8b9ad5cda955fe1b602311bfe66b825afc39dfb420aa331d3588a"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "4523a8fcaf1b6bfdc1d68f3853ed25849e79f14c2683322b426f3c10e55782eb"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "2d63e628b5b653c22e68db5e9600641f17c3b945f7b777539eff771cfe6597a8"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "b84a9aed1da812405f86ad5394051bcbf13553e06f6a27a59de8a21baeea1786"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-linux-ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "f582c2de7cadc087eb3ea85ce18d3141bbfa64c10dde908df9170fe814b51792"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-linux-s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "368292ce1d4b6ff4c6096eef2cb0be7f89eca1fba6a5e186ec230f007648cca5"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "ad314ed2a6eae099c10f9547dc2ff06a11bebb87180cb83b19b51ce0277b799f"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "0127715e74455dfccd73258d21f95ef0d8cd0e89e5de16e1e7abab9eea808c5b"
+    },
+    {
+      "fileName": "jaeger-tools-1.62.0-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "ad709f35027f40edb8261cfbb51fcf2b24b862881d0d4d45f1b1bc62d571f945"
+    },
+    {
+      "fileName": "jaeger-tools-1.62.0-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "7cb5c27c1bddadebd501cc4c76c011737aa1fbe5b54d411e311a0163110bf12c"
+    },
+    {
+      "fileName": "jaeger-tools-1.62.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "92af25870adbb0d0d2dfc2a3884724324649605bd70b627baa8addc2cca07a9c"
+    },
+    {
+      "fileName": "jaeger-tools-1.62.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "fe3905f623b29850e70993233c2b2089167cefeb5537f4bdc28422ec109fe517"
+    },
+    {
+      "fileName": "jaeger-tools-1.62.0-linux-ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "178066880abcda081bcb3453533d3a914f6737f42fec65cc4cea77a9b8b3cc6b"
+    },
+    {
+      "fileName": "jaeger-tools-1.62.0-linux-s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "e83358d82f8905b4729fc2d2a6d6eb2e4332bffee41d9cb47396b657363ff72a"
+    },
+    {
+      "fileName": "jaeger-tools-1.62.0-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "16f394342c520828c8034a858ef1e26bd80b847fe1f572b16c8d4cb54f0a8114"
+    },
+    {
+      "fileName": "jaeger-tools-1.62.0-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0.sha256sum.txt",
+      "hash": "5c969368a84b6a99cafeea5d0ca7fb1f51582a4a25f3bbf78b0210a057ccabe3"
+    },
+    {
+      "fileName": "jaeger-1.62.0-windows-amd64/example-hotrod.exe",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-windows-amd64.sha256sum.txt",
+      "hash": "6d86313c2f3912229338c419c80c789da78de94fe354e7ea83808a41eaafc6cf"
+    },
+    {
+      "fileName": "jaeger-1.62.0-windows-amd64/jaeger-agent.exe",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-windows-amd64.sha256sum.txt",
+      "hash": "90eb6ebeabaecabe96dbd5daca388134f3024ead7583ae186cfa45edd5fe4f7c"
+    },
+    {
+      "fileName": "jaeger-1.62.0-windows-amd64/jaeger-all-in-one.exe",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-windows-amd64.sha256sum.txt",
+      "hash": "eae6a6b2961aaad2e01e32604671316d5756d21bc431461bbb18cc24dba38db2"
+    },
+    {
+      "fileName": "jaeger-1.62.0-windows-amd64/jaeger-collector.exe",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-windows-amd64.sha256sum.txt",
+      "hash": "0c94f6583a600c315c5278278d6169543cfd5bdcf524e392e20c72638aa6658e"
+    },
+    {
+      "fileName": "jaeger-1.62.0-windows-amd64/jaeger-ingester.exe",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-windows-amd64.sha256sum.txt",
+      "hash": "7deba4f31c174edbab965b5a6883a771e62a7ebc4c2833a36242ccb2b03fc939"
+    },
+    {
+      "fileName": "jaeger-1.62.0-windows-amd64/jaeger-query.exe",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-windows-amd64.sha256sum.txt",
+      "hash": "6cfb10a2abdaf504f28a86bbd289d116f8b8bc827dbdb29d3825329130b45e87"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-s390x/example-hotrod",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-s390x.sha256sum.txt",
+      "hash": "3d03228e43d7dd2dae2554f388d6bb46c5632656be00ea1798e9ea93f8fec832"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-s390x/jaeger-agent",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-s390x.sha256sum.txt",
+      "hash": "3b0e358b77b59b963f9f80c0fa179f59a30a44f79067b27ac427192ab316e5e7"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-s390x/jaeger-all-in-one",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-s390x.sha256sum.txt",
+      "hash": "f990a4ae0bcbe3fb9908676ee6257cacef7b560a8b2f4631071f460f686e0a42"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-s390x/jaeger-collector",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-s390x.sha256sum.txt",
+      "hash": "b89687198e50bdd07a5a6f55d0328b793fa35526116d63fdea7a48b6d3039d01"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-s390x/jaeger-ingester",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-s390x.sha256sum.txt",
+      "hash": "600cc9ac86aa31135463a5ebe249cd6856967ddbdceb37669ecb60359150d219"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-s390x/jaeger-query",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-s390x.sha256sum.txt",
+      "hash": "810be53cbabf9d84869238e289479b3a7db8b76745733c0fb9b053852a42030d"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-arm64/example-hotrod",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-arm64.sha256sum.txt",
+      "hash": "739824056eedc1860a8ae657731c0036905e9ab3d819249d20c122fe767f9911"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-arm64/jaeger-agent",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-arm64.sha256sum.txt",
+      "hash": "74715fb07f12e8c44c93137c0dfdc6a1027bc87d2dba05151f91319284aae715"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-arm64/jaeger-all-in-one",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-arm64.sha256sum.txt",
+      "hash": "475175b889a4c26ea47f5154c9973a09a4190234003583ad6e0e79a1ee7873d4"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-arm64/jaeger-collector",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-arm64.sha256sum.txt",
+      "hash": "df978e5a1a1106a7eee0fcd1219728a039fd057e13240aeb9a5046d4dc667ab2"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-arm64/jaeger-ingester",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-arm64.sha256sum.txt",
+      "hash": "11f67d514f33ae97d666913a93fe82f87a398ccb1d8b926e0e5d6485733a8d7f"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-arm64/jaeger-query",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-arm64.sha256sum.txt",
+      "hash": "ee4c41e0ee8454ad8b763e33d1c60b52927eb7154ed0f4fb6a085d7eae78bc1d"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-darwin-arm64/example-hotrod",
+      "algo": "Sha256",
+      "source": "jaeger-2.0.0-rc2-darwin-arm64.sha256sum.txt",
+      "hash": "739824056eedc1860a8ae657731c0036905e9ab3d819249d20c122fe767f9911"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-darwin-arm64/jaeger",
+      "algo": "Sha256",
+      "source": "jaeger-2.0.0-rc2-darwin-arm64.sha256sum.txt",
+      "hash": "35290bd78af0bb96d5e0d2a974c1f17bda8afc5c87f0b2445c6ec4954a763f92"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-amd64/example-hotrod",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-amd64.sha256sum.txt",
+      "hash": "068a9a9b4de99510a533eae355106da637dccf81f46426eb2a72dffc25953b86"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-amd64/jaeger-agent",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-amd64.sha256sum.txt",
+      "hash": "5f14b5f3710886c9dad6363a9ef1208ae26e726420aafed018fedd2162cacc16"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-amd64/jaeger-all-in-one",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-amd64.sha256sum.txt",
+      "hash": "0f28bde9e9364e4eb572bd4119746d28cf310b2d8bcf2380972f3c97efb834ff"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-amd64/jaeger-collector",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-amd64.sha256sum.txt",
+      "hash": "366512ec8e796ec0146dbe95b144dbe287989509be957e98606fed9021ea7752"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-amd64/jaeger-ingester",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-amd64.sha256sum.txt",
+      "hash": "6d667477196c86bb9a008cf6c30af5e60ccf2faa4f0fa20d383a92d114b6a9cd"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-amd64/jaeger-query",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-amd64.sha256sum.txt",
+      "hash": "669ac01648958096bfb572217c12fbbf0d9c88ae4000ea975262c46bda95ae2b"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-amd64/example-hotrod",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-amd64.sha256sum.txt",
+      "hash": "3326b3ff7bf951fb8b7735022a10bdbe2e4905ff0fe4a301b5916089a5b1bf2a"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-amd64/jaeger-agent",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-amd64.sha256sum.txt",
+      "hash": "98199860ad65ceac33e87f3b486d1244b35ecdc9280e9d528049db44d54a9dae"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-amd64/jaeger-all-in-one",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-amd64.sha256sum.txt",
+      "hash": "dfe850238b1d9bffaa1b649633728405e816c4adb567cd2e4e1e525c6d2d82bb"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-amd64/jaeger-collector",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-amd64.sha256sum.txt",
+      "hash": "73cbe02024b0c865d7d0b4504eb6f5774e88ebb4e8e2659a11e94102a938927f"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-amd64/jaeger-ingester",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-amd64.sha256sum.txt",
+      "hash": "48091d5af94233ca8631be920b3b2b41a426c6791caab4ef576ef8a637b4328d"
+    },
+    {
+      "fileName": "jaeger-1.62.0-darwin-amd64/jaeger-query",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-darwin-amd64.sha256sum.txt",
+      "hash": "f91b131d8bf777eb42685c377be5a721ede7c8913912bd7ceafed73c5c327fba"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-darwin-amd64/example-hotrod",
+      "algo": "Sha256",
+      "source": "jaeger-2.0.0-rc2-darwin-amd64.sha256sum.txt",
+      "hash": "3326b3ff7bf951fb8b7735022a10bdbe2e4905ff0fe4a301b5916089a5b1bf2a"
+    },
+    {
+      "fileName": "jaeger-2.0.0-rc2-darwin-amd64/jaeger",
+      "algo": "Sha256",
+      "source": "jaeger-2.0.0-rc2-darwin-amd64.sha256sum.txt",
+      "hash": "c20904c179e64f3a68e80fd68e7f1131c33be49ef0bf3e5c9a651027752416d4"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-arm64/example-hotrod",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-arm64.sha256sum.txt",
+      "hash": "a3465ac4531d8ffc2af74f937df37ad5a172642cbc5c21fcc8d272b64d144f8f"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-arm64/jaeger-agent",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-arm64.sha256sum.txt",
+      "hash": "c72b226cb270a637a7005a97154ddb023ca3bfb810fb7b2ddbd4be27ed492e8f"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-arm64/jaeger-all-in-one",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-arm64.sha256sum.txt",
+      "hash": "f2557a2f4b8f3bf7aa46c1a297c989260f952a3f7b2f34ce5e869083975f3471"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-arm64/jaeger-collector",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-arm64.sha256sum.txt",
+      "hash": "052fafa47686fcb02ffa3b5919c1f5424d490529e5974892ee4416e263589fe2"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-arm64/jaeger-ingester",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-arm64.sha256sum.txt",
+      "hash": "60b0cad751f11b521c62d106f56bf0aa5fa4c9649b601988f5e22434856dda7e"
+    },
+    {
+      "fileName": "jaeger-1.62.0-linux-arm64/jaeger-query",
+      "algo": "Sha256",
+      "source": "jaeger-1.62.0-linux-arm64.sha256sum.txt",
+      "hash": "48baf8377803b14a54a611ff1641088a52af19e284529ff92db927d3fc63aba7"
+    }
+  ]
+}

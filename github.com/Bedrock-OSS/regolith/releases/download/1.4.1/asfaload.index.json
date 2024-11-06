@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"regolith_1.4.1_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"31e77c984c5d3aa3f2b4ce30068873c03bc07ef55819d9c0ed024c8619130f09"},{"fileName":"regolith_1.4.1_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"60cfcd88e430e4c9ce256ffbeff73ddb5fde24b032a3fc8c6da292f3b969d75a"},{"fileName":"regolith_1.4.1_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"32551da581882bb7c2c0bd30ec84805f989d3272e218b03522466a50f9ca3ea6"},{"fileName":"regolith_1.4.1_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"571441d7f85b61d136c2261a566633cf358a4414f2c148a5c7dfff573a168f8c"},{"fileName":"regolith_1.4.1_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7a727574f12fd9b4325a1787cfb98717f5997f0ef34ed6fed01a567e87f5d822"},{"fileName":"regolith_1.4.1_linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b6aee8e6c7e4d46bddd1ceebc6f1bbaf178027692e105fc57e466d22affd8e7c"},{"fileName":"regolith_1.4.1_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9d838b845d1873c266e556d620c540aa01e996455177076fdc84850e32ad9c1a"},{"fileName":"regolith_1.4.1_windows_386.zip","algo":"Sha256","source":"checksums.txt","hash":"f1c0567dc37ced106adf1d55f7fddf5713df2991fe55ef82723c759704e61021"},{"fileName":"regolith_1.4.1_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"e9d0faff0d21bb2205ddfe692358aa4e234cc337e532bab2764603db003a93b2"},{"fileName":"regolith_1.4.1_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"ffc66788711d4aeeadcac8e2ef73e7c98c587c03a7f746724619e221e5e3fab4"},{"fileName":"regolith_1.4.1_windows_armv6.zip","algo":"Sha256","source":"checksums.txt","hash":"073e290b0e9c6837ea676d8c05e0754f059666a0f4ddf469e3065e66e2d946d4"},{"fileName":"regolith_1.4.1_windows_armv7.zip","algo":"Sha256","source":"checksums.txt","hash":"4b90b7d503a71850eb7e48255505b0dcc8418c05469ae67daa20efa193c9bf10"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "regolith_1.4.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "31e77c984c5d3aa3f2b4ce30068873c03bc07ef55819d9c0ed024c8619130f09"
+    },
+    {
+      "fileName": "regolith_1.4.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "60cfcd88e430e4c9ce256ffbeff73ddb5fde24b032a3fc8c6da292f3b969d75a"
+    },
+    {
+      "fileName": "regolith_1.4.1_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "32551da581882bb7c2c0bd30ec84805f989d3272e218b03522466a50f9ca3ea6"
+    },
+    {
+      "fileName": "regolith_1.4.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "571441d7f85b61d136c2261a566633cf358a4414f2c148a5c7dfff573a168f8c"
+    },
+    {
+      "fileName": "regolith_1.4.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7a727574f12fd9b4325a1787cfb98717f5997f0ef34ed6fed01a567e87f5d822"
+    },
+    {
+      "fileName": "regolith_1.4.1_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b6aee8e6c7e4d46bddd1ceebc6f1bbaf178027692e105fc57e466d22affd8e7c"
+    },
+    {
+      "fileName": "regolith_1.4.1_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9d838b845d1873c266e556d620c540aa01e996455177076fdc84850e32ad9c1a"
+    },
+    {
+      "fileName": "regolith_1.4.1_windows_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f1c0567dc37ced106adf1d55f7fddf5713df2991fe55ef82723c759704e61021"
+    },
+    {
+      "fileName": "regolith_1.4.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e9d0faff0d21bb2205ddfe692358aa4e234cc337e532bab2764603db003a93b2"
+    },
+    {
+      "fileName": "regolith_1.4.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ffc66788711d4aeeadcac8e2ef73e7c98c587c03a7f746724619e221e5e3fab4"
+    },
+    {
+      "fileName": "regolith_1.4.1_windows_armv6.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "073e290b0e9c6837ea676d8c05e0754f059666a0f4ddf469e3065e66e2d946d4"
+    },
+    {
+      "fileName": "regolith_1.4.1_windows_armv7.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4b90b7d503a71850eb7e48255505b0dcc8418c05469ae67daa20efa193c9bf10"
+    }
+  ]
+}

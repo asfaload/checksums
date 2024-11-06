@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"registry.json","algo":"Sha256","source":"checksums.txt","hash":"7cd58c67d6be42f8ec42c9c5df79e8aa90cce7180f779d9195c7b2e559eaa325"},{"fileName":"registry.json.zip","algo":"Sha256","source":"checksums.txt","hash":"05cbce5d9d3d3909845a7be16ef21aeb8aeff10b64f4af7bdb7f22f1beca7ac1"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "registry.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7cd58c67d6be42f8ec42c9c5df79e8aa90cce7180f779d9195c7b2e559eaa325"
+    },
+    {
+      "fileName": "registry.json.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "05cbce5d9d3d3909845a7be16ef21aeb8aeff10b64f4af7bdb7f22f1beca7ac1"
+    }
+  ]
+}

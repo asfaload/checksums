@@ -1,1 +1,289 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cunicu_0.4.4_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"034412931a4f2eb8811e03b8c96d9c6c4e7749f1a46fa270b00ed32468fe76d3"},{"fileName":"cunicu_0.4.4_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"095599a8729cebbfe0d716aa6a8905a54dfb2c4ab3161d8efd5395cbed9bbbe1"},{"fileName":"cunicu_0.4.4_linux_mipsle_softfloat.rpm","algo":"Sha256","source":"checksums.txt","hash":"0ec8a666b3ad422f088a23f7c7773be0d89bd7d72cfe8da2a6ca5b99e1507a31"},{"fileName":"cunicu_0.4.4_linux_armv7.rpm","algo":"Sha256","source":"checksums.txt","hash":"0f4104a2cbc63736316c59f40d1f10b0a67865f1e064d1d8583f602998774a7f"},{"fileName":"cunicu_0.4.4_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"11247b354609d47095e08a8f1b10f08769e4360cfae4a4a257a39817d05463dd"},{"fileName":"cunicu_0.4.4_linux_mips_softfloat.deb","algo":"Sha256","source":"checksums.txt","hash":"16a66d3f519299f03d80734615293f2ca968a4c1bb3c220cf7bc707ab5ad1c69"},{"fileName":"cunicu_0.4.4_linux_s390x.rpm","algo":"Sha256","source":"checksums.txt","hash":"170ce4831813e80238dcf9ddcac205f2e885bfcbf75adcc50c7e0f9dbf5266ab"},{"fileName":"cunicu_0.4.4_linux_mips_softfloat.apk","algo":"Sha256","source":"checksums.txt","hash":"1b7162639e8bbc400e59d69be6366ea5eb81524eebc88651e49a908932e94271"},{"fileName":"cunicu_0.4.4_linux_riscv64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"236c927e090ae97b032a0f332a665406b06022933870473ee04e04c0a148a74f"},{"fileName":"cunicu_0.4.4_linux_riscv64.rpm","algo":"Sha256","source":"checksums.txt","hash":"240ea4f124184871d2c1a3cb449e8518c1518bdbf2c747db5088b0430fad17be"},{"fileName":"cunicu_0.4.4_darwin_all.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2676f05e66ab7d063857a811bfe0f26648d1b8b246bc8f6a7d91c1a497bf45fe"},{"fileName":"cunicu_0.4.4_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"291f96afd6311693686534a014326a43aa7bdb20156d67f365a9a2050d166223"},{"fileName":"cunicu_0.4.4_linux_ppc64le.deb","algo":"Sha256","source":"checksums.txt","hash":"2a2df3bcc20bcf22415901e55d2cbe89268d0c7616b8bfb766c4ba4714928338"},{"fileName":"cunicu_0.4.4_linux_s390x.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2b69953c053c4ab7ab94fd32b422b2dfa3586668f272c68cb4cc8317c67fc2f1"},{"fileName":"cunicu_0.4.4_linux_386.deb","algo":"Sha256","source":"checksums.txt","hash":"36bbcca8ca88ceb544c98f3802a579be494c16c02affeb203f33e0c40a1ffffb"},{"fileName":"cunicu_0.4.4_linux_mips_softfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"38fb79d8469239fa50cc43fbffcba44908251bf724b3ee7fd90fbaae87dc836a"},{"fileName":"cunicu_0.4.4_linux_mipsle_softfloat.deb","algo":"Sha256","source":"checksums.txt","hash":"4166e8264229e0888a85ef01142afae0fd2e068ef392a20b09394a9ae2a12d1a"},{"fileName":"cunicu_0.4.4_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"454179f6a02b933ae42acc2178878286fcb7f58778ebad4811bf8b1537e9355d"},{"fileName":"cunicu_0.4.4_linux_armv7.apk","algo":"Sha256","source":"checksums.txt","hash":"4911a986a99558f3285991a0c11bba8dfe3bb9d24a7039ca3d25e501626a58ae"},{"fileName":"cunicu_0.4.4_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"4b24411d17352c305e7ab288fe97dc970f5534ec8db5823af6a486ac14bd009b"},{"fileName":"cunicu_0.4.4_linux_s390x.apk","algo":"Sha256","source":"checksums.txt","hash":"503f818b256f9f20daa0a2b97e1ca1ef945dd3cca5d05c6940f31c9cc39eabec"},{"fileName":"cunicu_0.4.4_linux_armv7.deb","algo":"Sha256","source":"checksums.txt","hash":"61aa6a1e37d5822e7263121d315f8f1c180004293c6d27280781ee3c0c688135"},{"fileName":"cunicu_0.4.4_linux_mips64_softfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"679c1f6158babe30bf8ee6082d117b89f0f7d803570a812bdc260d015eef6145"},{"fileName":"cunicu_0.4.4_linux_mips64_softfloat.rpm","algo":"Sha256","source":"checksums.txt","hash":"6a1cf55bca603a394cf42f8319e8de391b1701ed3f15e8b9cd14b20a94d124d2"},{"fileName":"cunicu_0.4.4_linux_mips64le_softfloat.deb","algo":"Sha256","source":"checksums.txt","hash":"6d722cf3784094c6034bb846e1454abac1c2743b416b77241c5c7a4e0f685462"},{"fileName":"cunicu_0.4.4_linux_mips64_softfloat.apk","algo":"Sha256","source":"checksums.txt","hash":"6d79c308f740c61d5ff0e2ce1a7ab7f78615ee93783b27454ba4ea84346dde72"},{"fileName":"cunicu_0.4.4_linux_ppc64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6efb3ea2e1932dbdd4be7a44990f95c87967812ab41dfb8c334a3561e4fdf023"},{"fileName":"cunicu_0.4.4_linux_386.apk","algo":"Sha256","source":"checksums.txt","hash":"70f3d0f557b955483909ea9e8eaac6975f28641b8a5baa3d4726e014c550b1ec"},{"fileName":"cunicu_0.4.4_linux_mips64_softfloat.deb","algo":"Sha256","source":"checksums.txt","hash":"79a17703920eef5ad339e372ef7ea05c6b305d2a81dc4a360f71dc94854786e5"},{"fileName":"cunicu_0.4.4_linux_mipsle_softfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8599b12fc27275eb875b0f563afa689f83b9978b2ed02fa6cfd3d19a1e6b8047"},{"fileName":"cunicu_0.4.4_linux_mips64le_softfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"878812747ea4ec8e9e3da8da26fcf1147947b3da0ce7f8c9a9a6374df5b2c3d9"},{"fileName":"cunicu_0.4.4_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a15ffec168c9701348cedb084f24cec3ddda65034d1fddd427f46b4e4f37a7ce"},{"fileName":"cunicu_0.4.4_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"a66d2df97926ee586de7d27652dfcd2792f632f96ac80491ff8449afbabe2896"},{"fileName":"cunicu_0.4.4_linux_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"aa856b2c2f1da6e2a73086ad6dcac663cbdad6d96ce5ba84eb02c4cae545ccb3"},{"fileName":"cunicu_0.4.4_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"aa86af678ca07969db53052ea1aad97d40e8bd15530d4743aaddd83e4f4a2460"},{"fileName":"cunicu_0.4.4_linux_ppc64le.rpm","algo":"Sha256","source":"checksums.txt","hash":"aae262c63006e9531c3e6d09660ae839042adf980f97b57af56987e706b69c06"},{"fileName":"cunicu_0.4.4_linux_amd64.apk","algo":"Sha256","source":"checksums.txt","hash":"aef917fe86fb6ab1d12a8a906cdbb52e47a7948b9f0bb676ae5e14e0756f3232"},{"fileName":"cunicu_0.4.4_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b1186d47185dd96b0a53e198d60f242d88f1d5040e06c423b721a6cad865a983"},{"fileName":"cunicu_0.4.4_linux_mips_softfloat.rpm","algo":"Sha256","source":"checksums.txt","hash":"b1a424a52b0a9881e01175287324d949fdab0393f05ec4a523c7912c67bcbf75"},{"fileName":"cunicu_0.4.4_linux_ppc64le.apk","algo":"Sha256","source":"checksums.txt","hash":"d1c81f74e822654fda9672a126946daec2337f5f55e50412ddfbabb676095d5c"},{"fileName":"cunicu_0.4.4_linux_riscv64.deb","algo":"Sha256","source":"checksums.txt","hash":"e480ec35dbdf7d96fd9fb9ff570ba8fc79384c1dd2fd8cecd6932e52ade4dc57"},{"fileName":"cunicu_0.4.4_linux_s390x.deb","algo":"Sha256","source":"checksums.txt","hash":"e7161ea48dd83b8c18753dfc1a13bcff029de3063509bf0796942dfa07737ab4"},{"fileName":"cunicu_0.4.4_linux_mips64le_softfloat.apk","algo":"Sha256","source":"checksums.txt","hash":"e7358ab78f8843d8415ba81a760cc323e7ad5c036ff72edfb24dc77fe1d20f74"},{"fileName":"cunicu_0.4.4_linux_mips64le_softfloat.rpm","algo":"Sha256","source":"checksums.txt","hash":"f68e96b79272812a899c0bcd251eeb68f864d5a7c78f5fb1b59a8a28e96a0712"},{"fileName":"cunicu_0.4.4_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"f742612821ddcc35e26f1bb369a23ff19519570e8768c2f0df72da25dc307127"},{"fileName":"cunicu_0.4.4_linux_riscv64.apk","algo":"Sha256","source":"checksums.txt","hash":"f929a3bfdd574378d06240dc13db783c0a85bb77927d0b72efae9175a401650d"},{"fileName":"cunicu_0.4.4_linux_mipsle_softfloat.apk","algo":"Sha256","source":"checksums.txt","hash":"fdf950b697f0a280223b2551ff63eed67bdf4dab361f83fcd0907be824c79500"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cunicu_0.4.4_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "034412931a4f2eb8811e03b8c96d9c6c4e7749f1a46fa270b00ed32468fe76d3"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "095599a8729cebbfe0d716aa6a8905a54dfb2c4ab3161d8efd5395cbed9bbbe1"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mipsle_softfloat.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0ec8a666b3ad422f088a23f7c7773be0d89bd7d72cfe8da2a6ca5b99e1507a31"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0f4104a2cbc63736316c59f40d1f10b0a67865f1e064d1d8583f602998774a7f"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "11247b354609d47095e08a8f1b10f08769e4360cfae4a4a257a39817d05463dd"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips_softfloat.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "16a66d3f519299f03d80734615293f2ca968a4c1bb3c220cf7bc707ab5ad1c69"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_s390x.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "170ce4831813e80238dcf9ddcac205f2e885bfcbf75adcc50c7e0f9dbf5266ab"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips_softfloat.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1b7162639e8bbc400e59d69be6366ea5eb81524eebc88651e49a908932e94271"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "236c927e090ae97b032a0f332a665406b06022933870473ee04e04c0a148a74f"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_riscv64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "240ea4f124184871d2c1a3cb449e8518c1518bdbf2c747db5088b0430fad17be"
+    },
+    {
+      "fileName": "cunicu_0.4.4_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2676f05e66ab7d063857a811bfe0f26648d1b8b246bc8f6a7d91c1a497bf45fe"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "291f96afd6311693686534a014326a43aa7bdb20156d67f365a9a2050d166223"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_ppc64le.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2a2df3bcc20bcf22415901e55d2cbe89268d0c7616b8bfb766c4ba4714928338"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2b69953c053c4ab7ab94fd32b422b2dfa3586668f272c68cb4cc8317c67fc2f1"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "36bbcca8ca88ceb544c98f3802a579be494c16c02affeb203f33e0c40a1ffffb"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "38fb79d8469239fa50cc43fbffcba44908251bf724b3ee7fd90fbaae87dc836a"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mipsle_softfloat.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4166e8264229e0888a85ef01142afae0fd2e068ef392a20b09394a9ae2a12d1a"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "454179f6a02b933ae42acc2178878286fcb7f58778ebad4811bf8b1537e9355d"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_armv7.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4911a986a99558f3285991a0c11bba8dfe3bb9d24a7039ca3d25e501626a58ae"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4b24411d17352c305e7ab288fe97dc970f5534ec8db5823af6a486ac14bd009b"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_s390x.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "503f818b256f9f20daa0a2b97e1ca1ef945dd3cca5d05c6940f31c9cc39eabec"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "61aa6a1e37d5822e7263121d315f8f1c180004293c6d27280781ee3c0c688135"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips64_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "679c1f6158babe30bf8ee6082d117b89f0f7d803570a812bdc260d015eef6145"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips64_softfloat.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6a1cf55bca603a394cf42f8319e8de391b1701ed3f15e8b9cd14b20a94d124d2"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips64le_softfloat.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6d722cf3784094c6034bb846e1454abac1c2743b416b77241c5c7a4e0f685462"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips64_softfloat.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6d79c308f740c61d5ff0e2ce1a7ab7f78615ee93783b27454ba4ea84346dde72"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6efb3ea2e1932dbdd4be7a44990f95c87967812ab41dfb8c334a3561e4fdf023"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_386.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "70f3d0f557b955483909ea9e8eaac6975f28641b8a5baa3d4726e014c550b1ec"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips64_softfloat.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "79a17703920eef5ad339e372ef7ea05c6b305d2a81dc4a360f71dc94854786e5"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mipsle_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8599b12fc27275eb875b0f563afa689f83b9978b2ed02fa6cfd3d19a1e6b8047"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips64le_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "878812747ea4ec8e9e3da8da26fcf1147947b3da0ce7f8c9a9a6374df5b2c3d9"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a15ffec168c9701348cedb084f24cec3ddda65034d1fddd427f46b4e4f37a7ce"
+    },
+    {
+      "fileName": "cunicu_0.4.4_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a66d2df97926ee586de7d27652dfcd2792f632f96ac80491ff8449afbabe2896"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aa856b2c2f1da6e2a73086ad6dcac663cbdad6d96ce5ba84eb02c4cae545ccb3"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aa86af678ca07969db53052ea1aad97d40e8bd15530d4743aaddd83e4f4a2460"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_ppc64le.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aae262c63006e9531c3e6d09660ae839042adf980f97b57af56987e706b69c06"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aef917fe86fb6ab1d12a8a906cdbb52e47a7948b9f0bb676ae5e14e0756f3232"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b1186d47185dd96b0a53e198d60f242d88f1d5040e06c423b721a6cad865a983"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips_softfloat.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b1a424a52b0a9881e01175287324d949fdab0393f05ec4a523c7912c67bcbf75"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_ppc64le.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d1c81f74e822654fda9672a126946daec2337f5f55e50412ddfbabb676095d5c"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_riscv64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e480ec35dbdf7d96fd9fb9ff570ba8fc79384c1dd2fd8cecd6932e52ade4dc57"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_s390x.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e7161ea48dd83b8c18753dfc1a13bcff029de3063509bf0796942dfa07737ab4"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips64le_softfloat.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e7358ab78f8843d8415ba81a760cc323e7ad5c036ff72edfb24dc77fe1d20f74"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mips64le_softfloat.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f68e96b79272812a899c0bcd251eeb68f864d5a7c78f5fb1b59a8a28e96a0712"
+    },
+    {
+      "fileName": "cunicu_0.4.4_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f742612821ddcc35e26f1bb369a23ff19519570e8768c2f0df72da25dc307127"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_riscv64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f929a3bfdd574378d06240dc13db783c0a85bb77927d0b72efae9175a401650d"
+    },
+    {
+      "fileName": "cunicu_0.4.4_linux_mipsle_softfloat.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fdf950b697f0a280223b2551ff63eed67bdf4dab361f83fcd0907be824c79500"
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"courier_1.18.1-b1-staging_windows_amd64.tar.gz","algo":"Sha256","source":"courier_1.18.1-b1-staging_checksums.txt","hash":"99b907dd75ba04405bb7a3b7d99fbd86eb7744c02437a6f68f0078b1b8c8b6fa"},{"fileName":"courier_1.18.1-b1-staging_linux_amd64.tar.gz","algo":"Sha256","source":"courier_1.18.1-b1-staging_checksums.txt","hash":"fa9ecb4f0c897b69dd738e9b8d37764c602abaae5a536f4044ca7ae0f6767819"},{"fileName":"courier_1.18.1-b1-staging_darwin_amd64.tar.gz","algo":"Sha256","source":"courier_1.18.1-b1-staging_checksums.txt","hash":"fd4059beb4db7d82092fe2154ca4a69141938a027f48208c8e778f547c59e329"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "courier_1.18.1-b1-staging_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "courier_1.18.1-b1-staging_checksums.txt",
+      "hash": "99b907dd75ba04405bb7a3b7d99fbd86eb7744c02437a6f68f0078b1b8c8b6fa"
+    },
+    {
+      "fileName": "courier_1.18.1-b1-staging_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "courier_1.18.1-b1-staging_checksums.txt",
+      "hash": "fa9ecb4f0c897b69dd738e9b8d37764c602abaae5a536f4044ca7ae0f6767819"
+    },
+    {
+      "fileName": "courier_1.18.1-b1-staging_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "courier_1.18.1-b1-staging_checksums.txt",
+      "hash": "fd4059beb4db7d82092fe2154ca4a69141938a027f48208c8e778f547c59e329"
+    }
+  ]
+}

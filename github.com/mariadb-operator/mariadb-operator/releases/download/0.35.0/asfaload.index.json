@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mariadb-operator_0.35.0_darwin_amd64.tar.gz","algo":"Sha256","source":"mariadb-operator_0.35.0_checksums.txt","hash":"d5bca1330bc8d42e78d32a3bb8bdfc644452d9c76ec93f574b601efd70097686"},{"fileName":"mariadb-operator_0.35.0_darwin_arm64.tar.gz","algo":"Sha256","source":"mariadb-operator_0.35.0_checksums.txt","hash":"fa4f1d3e91ee38f219032a0c723f62d20a6248688aa65c89be1d29e4dd34ddcd"},{"fileName":"mariadb-operator_0.35.0_linux_amd64.tar.gz","algo":"Sha256","source":"mariadb-operator_0.35.0_checksums.txt","hash":"d83e958d1466aee76f0931f587177b4d43e4a766c53a5ba4d477af687d76677e"},{"fileName":"mariadb-operator_0.35.0_linux_arm64.tar.gz","algo":"Sha256","source":"mariadb-operator_0.35.0_checksums.txt","hash":"c627d313ce388640ed70cdc04fd4a073e3e228482e36adb4373991771a137010"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mariadb-operator_0.35.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "mariadb-operator_0.35.0_checksums.txt",
+      "hash": "d5bca1330bc8d42e78d32a3bb8bdfc644452d9c76ec93f574b601efd70097686"
+    },
+    {
+      "fileName": "mariadb-operator_0.35.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "mariadb-operator_0.35.0_checksums.txt",
+      "hash": "fa4f1d3e91ee38f219032a0c723f62d20a6248688aa65c89be1d29e4dd34ddcd"
+    },
+    {
+      "fileName": "mariadb-operator_0.35.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "mariadb-operator_0.35.0_checksums.txt",
+      "hash": "d83e958d1466aee76f0931f587177b4d43e4a766c53a5ba4d477af687d76677e"
+    },
+    {
+      "fileName": "mariadb-operator_0.35.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "mariadb-operator_0.35.0_checksums.txt",
+      "hash": "c627d313ce388640ed70cdc04fd4a073e3e228482e36adb4373991771a137010"
+    }
+  ]
+}

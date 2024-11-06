@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gke-operator_1.1.8_linux_amd64.tar.gz","algo":"Sha256","source":"gke-operator_1.1.8_checksums.txt","hash":"9e45f663f4da0174aa576691412a384618ec532de2483180afe134a625731a5b"},{"fileName":"gke-operator_1.1.8_linux_arm64.tar.gz","algo":"Sha256","source":"gke-operator_1.1.8_checksums.txt","hash":"b4301536b8858bc24690660bb5f3357652e416a124a372ff9af8cc84b4b82676"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gke-operator_1.1.8_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "gke-operator_1.1.8_checksums.txt",
+      "hash": "9e45f663f4da0174aa576691412a384618ec532de2483180afe134a625731a5b"
+    },
+    {
+      "fileName": "gke-operator_1.1.8_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gke-operator_1.1.8_checksums.txt",
+      "hash": "b4301536b8858bc24690660bb5f3357652e416a124a372ff9af8cc84b4b82676"
+    }
+  ]
+}

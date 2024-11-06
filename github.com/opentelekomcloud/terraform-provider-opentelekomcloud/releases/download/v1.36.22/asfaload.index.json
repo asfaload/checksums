@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-opentelekomcloud_1.36.22_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"51a28e0876629570123cc5caef8f1fdf4eef49fa90b24a01a414717ef7ad218f"},{"fileName":"terraform-provider-opentelekomcloud_1.36.22_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"8275a284712f47d861486fdd3d1550267378cccda187785d709e47ddc7553687"},{"fileName":"terraform-provider-opentelekomcloud_1.36.22_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"506f32019050d5060c6717f0258c503319613e989bd0e8786b55ffd84157c863"},{"fileName":"terraform-provider-opentelekomcloud_1.36.22_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"d3433096461917a1abf22fd7a69ab40d9e0ae71f00baa49ea5d63a626eb18574"},{"fileName":"terraform-provider-opentelekomcloud_1.36.22_linux_386.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"01432918dbe8afb6383afb4a863e96623d654afe3dabd336d7606c73c9b4e51c"},{"fileName":"terraform-provider-opentelekomcloud_1.36.22_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"32d1506248384937fa5f46d935099e8e67ca984376dcf5186e3ee72e9756cb18"},{"fileName":"terraform-provider-opentelekomcloud_1.36.22_linux_arm.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"a0058f27f2b7d4502c5caf712683e889bb81466024a15c66ad382da1fe1da505"},{"fileName":"terraform-provider-opentelekomcloud_1.36.22_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"0cc37d8e7309a2998eaba0c5276b31e9d8a6a71c2f376fa9a98bed81a33616fc"},{"fileName":"terraform-provider-opentelekomcloud_1.36.22_windows_386.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"fe7c3171dbb762fc102602c59b8033e52024325050d11a92ba1827106afec71e"},{"fileName":"terraform-provider-opentelekomcloud_1.36.22_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS","hash":"87589834a728d5fd66b6ca3a0c52ae59af7685ee630cb656c28e24d542697fd7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "51a28e0876629570123cc5caef8f1fdf4eef49fa90b24a01a414717ef7ad218f"
+    },
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "8275a284712f47d861486fdd3d1550267378cccda187785d709e47ddc7553687"
+    },
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "506f32019050d5060c6717f0258c503319613e989bd0e8786b55ffd84157c863"
+    },
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "d3433096461917a1abf22fd7a69ab40d9e0ae71f00baa49ea5d63a626eb18574"
+    },
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "01432918dbe8afb6383afb4a863e96623d654afe3dabd336d7606c73c9b4e51c"
+    },
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "32d1506248384937fa5f46d935099e8e67ca984376dcf5186e3ee72e9756cb18"
+    },
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "a0058f27f2b7d4502c5caf712683e889bb81466024a15c66ad382da1fe1da505"
+    },
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "0cc37d8e7309a2998eaba0c5276b31e9d8a6a71c2f376fa9a98bed81a33616fc"
+    },
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "fe7c3171dbb762fc102602c59b8033e52024325050d11a92ba1827106afec71e"
+    },
+    {
+      "fileName": "terraform-provider-opentelekomcloud_1.36.22_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-opentelekomcloud_1.36.22_SHA256SUMS",
+      "hash": "87589834a728d5fd66b6ca3a0c52ae59af7685ee630cb656c28e24d542697fd7"
+    }
+  ]
+}

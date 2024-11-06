@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"godyl_darwin_amd64.tar.gz","algo":"Sha256","source":"godyl_0.2_checksums.txt","hash":"a55730daf1cfc940514e4f532c6bd86a31a4a4150b2ff5028fa6e705b8ad5c6a"},{"fileName":"godyl_darwin_arm64.tar.gz","algo":"Sha256","source":"godyl_0.2_checksums.txt","hash":"3a2fab3b2c85a207be5de491d187512f9e7aacbaa1e1a35ec28886e2f3d758c2"},{"fileName":"godyl_linux_amd64.tar.gz","algo":"Sha256","source":"godyl_0.2_checksums.txt","hash":"23f4296708b363852e66fb09b06f766e179a0207560157ff017f15bf9f15b3fb"},{"fileName":"godyl_linux_arm64.tar.gz","algo":"Sha256","source":"godyl_0.2_checksums.txt","hash":"24d6a84e9da8d4af4924d5ab364aee21ad1dd4e8bf1bb3d49e1a5361fd0231a5"},{"fileName":"godyl_linux_armv6.tar.gz","algo":"Sha256","source":"godyl_0.2_checksums.txt","hash":"7dc2d1edf463a91fe4d578a7efc62191a622ea8c109d276d2a3d4fdce25c0421"},{"fileName":"godyl_linux_armv7.tar.gz","algo":"Sha256","source":"godyl_0.2_checksums.txt","hash":"ce6a064225def4d6b3625d35fd370c7b058efe842ffe879f944d44b0816f1e47"},{"fileName":"godyl_linux_x86.tar.gz","algo":"Sha256","source":"godyl_0.2_checksums.txt","hash":"c32ce26315973e6605cbd3fea133d908a5e19e16272a7b2415e3b16489cdd563"},{"fileName":"godyl_windows_amd64.zip","algo":"Sha256","source":"godyl_0.2_checksums.txt","hash":"8155092a221404c244911a7778be9d21bc7a693c1071cc21129c2b93f6d17eb9"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "godyl_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "godyl_0.2_checksums.txt",
+      "hash": "a55730daf1cfc940514e4f532c6bd86a31a4a4150b2ff5028fa6e705b8ad5c6a"
+    },
+    {
+      "fileName": "godyl_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "godyl_0.2_checksums.txt",
+      "hash": "3a2fab3b2c85a207be5de491d187512f9e7aacbaa1e1a35ec28886e2f3d758c2"
+    },
+    {
+      "fileName": "godyl_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "godyl_0.2_checksums.txt",
+      "hash": "23f4296708b363852e66fb09b06f766e179a0207560157ff017f15bf9f15b3fb"
+    },
+    {
+      "fileName": "godyl_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "godyl_0.2_checksums.txt",
+      "hash": "24d6a84e9da8d4af4924d5ab364aee21ad1dd4e8bf1bb3d49e1a5361fd0231a5"
+    },
+    {
+      "fileName": "godyl_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "godyl_0.2_checksums.txt",
+      "hash": "7dc2d1edf463a91fe4d578a7efc62191a622ea8c109d276d2a3d4fdce25c0421"
+    },
+    {
+      "fileName": "godyl_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "godyl_0.2_checksums.txt",
+      "hash": "ce6a064225def4d6b3625d35fd370c7b058efe842ffe879f944d44b0816f1e47"
+    },
+    {
+      "fileName": "godyl_linux_x86.tar.gz",
+      "algo": "Sha256",
+      "source": "godyl_0.2_checksums.txt",
+      "hash": "c32ce26315973e6605cbd3fea133d908a5e19e16272a7b2415e3b16489cdd563"
+    },
+    {
+      "fileName": "godyl_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "godyl_0.2_checksums.txt",
+      "hash": "8155092a221404c244911a7778be9d21bc7a693c1071cc21129c2b93f6d17eb9"
+    }
+  ]
+}

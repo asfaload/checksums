@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"dist/splunk-otel-java-metadata.yaml","algo":"Sha256","source":"checksums.txt","hash":"e3458740074d189e0e61c4a21c47b43c1dfe83cce075a63d100b2593d77c9de9"},{"fileName":"dist/splunk-otel-javaagent.jar","algo":"Sha256","source":"checksums.txt","hash":"e6a73ebd75aaf0b66962a49307c75bf9f1d22a80bf868bfb614db074ff9815dc"},{"fileName":"dist/splunk-otel-javaagent.jar.asc","algo":"Sha256","source":"checksums.txt","hash":"50c68e45f147b44b318ee6a9d3a4ef2ba8cf02f54bf2fe749d525d5e1daac46c"},{"fileName":"dist/splunk_otel_java_buildpack-linux.zip","algo":"Sha256","source":"checksums.txt","hash":"3ccd2e329c6c68e9689d3888fb28d03da115756d2b2636867394f7eb52167f3c"},{"fileName":"dist/splunk_otel_java_buildpack-linux.zip.asc","algo":"Sha256","source":"checksums.txt","hash":"375f5f7ecab0de3108d9eaee8a60ab588b493ecd45ed6b94fd547b4b41410789"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "dist/splunk-otel-java-metadata.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e3458740074d189e0e61c4a21c47b43c1dfe83cce075a63d100b2593d77c9de9"
+    },
+    {
+      "fileName": "dist/splunk-otel-javaagent.jar",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e6a73ebd75aaf0b66962a49307c75bf9f1d22a80bf868bfb614db074ff9815dc"
+    },
+    {
+      "fileName": "dist/splunk-otel-javaagent.jar.asc",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "50c68e45f147b44b318ee6a9d3a4ef2ba8cf02f54bf2fe749d525d5e1daac46c"
+    },
+    {
+      "fileName": "dist/splunk_otel_java_buildpack-linux.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3ccd2e329c6c68e9689d3888fb28d03da115756d2b2636867394f7eb52167f3c"
+    },
+    {
+      "fileName": "dist/splunk_otel_java_buildpack-linux.zip.asc",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "375f5f7ecab0de3108d9eaee8a60ab588b493ecd45ed6b94fd547b4b41410789"
+    }
+  ]
+}

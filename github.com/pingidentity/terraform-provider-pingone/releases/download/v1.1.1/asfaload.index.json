@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-pingone_1.1.1_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"d70cb18751cdacd62e67afd4ebf3ff0eac3aec6d4762001f6709f01ea5dbbf70"},{"fileName":"terraform-provider-pingone_1.1.1_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"ce103cbe5b12514e8886a3129e1f041a2151a78ba77987db4ba0066f2f6ecca7"},{"fileName":"terraform-provider-pingone_1.1.1_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"5a17b2f9d5e4925f99b357bff4a1e23192711f447dd5564b52e8e2ac60d68502"},{"fileName":"terraform-provider-pingone_1.1.1_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"f77c65350fa2269874cb8048eae34d4535551189ab9f456657f46b3a924e2bb4"},{"fileName":"terraform-provider-pingone_1.1.1_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"4f4963f58566b6fd01fa1c8544a0c0291f5dec197952024220a2dbec933f6e00"},{"fileName":"terraform-provider-pingone_1.1.1_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"cd91b4032f8173c5143fc5d9ffd970759ddf899542b9da03b683019ded496809"},{"fileName":"terraform-provider-pingone_1.1.1_linux_386.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"68ad7088c36f7807cbfbadf2ad1ac5bc1c471bca278cd5c1747db0b7102c852e"},{"fileName":"terraform-provider-pingone_1.1.1_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"7ce90fac3ac6a009154ab3166beb0f8c0f63402ece33bc0e3869270268216981"},{"fileName":"terraform-provider-pingone_1.1.1_linux_arm.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"c9f01bbfee2dbcdcec40fce26598e369885a0cbfa10b9906b11f3b7807ad55f2"},{"fileName":"terraform-provider-pingone_1.1.1_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"ed229d7d4f0414957dde1143f272510ec9bca2a7604fbeca6d9d8a16a80f6656"},{"fileName":"terraform-provider-pingone_1.1.1_manifest.json","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f"},{"fileName":"terraform-provider-pingone_1.1.1_windows_386.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"7d187c6b03c74ba7e5be7a28942e8ca0c1698504fdb8e26c0fd44018c3f1bd96"},{"fileName":"terraform-provider-pingone_1.1.1_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"d12d4f74a1b374d20c314ef4f7c0fe9574494d1a49d2f9c26bdc6356a4f2eba8"},{"fileName":"terraform-provider-pingone_1.1.1_windows_arm.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"06b1c6f45f429fd5a53daa0b25094011412ee91f4c1ca6363ca58ad0cf0821a5"},{"fileName":"terraform-provider-pingone_1.1.1_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-pingone_1.1.1_SHA256SUMS","hash":"8a3cce986982f81318eb7a7d567cc78fec7ff830c55bb9720ddc86fe4ef6b523"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "d70cb18751cdacd62e67afd4ebf3ff0eac3aec6d4762001f6709f01ea5dbbf70"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "ce103cbe5b12514e8886a3129e1f041a2151a78ba77987db4ba0066f2f6ecca7"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "5a17b2f9d5e4925f99b357bff4a1e23192711f447dd5564b52e8e2ac60d68502"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "f77c65350fa2269874cb8048eae34d4535551189ab9f456657f46b3a924e2bb4"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "4f4963f58566b6fd01fa1c8544a0c0291f5dec197952024220a2dbec933f6e00"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "cd91b4032f8173c5143fc5d9ffd970759ddf899542b9da03b683019ded496809"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "68ad7088c36f7807cbfbadf2ad1ac5bc1c471bca278cd5c1747db0b7102c852e"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "7ce90fac3ac6a009154ab3166beb0f8c0f63402ece33bc0e3869270268216981"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "c9f01bbfee2dbcdcec40fce26598e369885a0cbfa10b9906b11f3b7807ad55f2"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "ed229d7d4f0414957dde1143f272510ec9bca2a7604fbeca6d9d8a16a80f6656"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_manifest.json",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "7d187c6b03c74ba7e5be7a28942e8ca0c1698504fdb8e26c0fd44018c3f1bd96"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "d12d4f74a1b374d20c314ef4f7c0fe9574494d1a49d2f9c26bdc6356a4f2eba8"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "06b1c6f45f429fd5a53daa0b25094011412ee91f4c1ca6363ca58ad0cf0821a5"
+    },
+    {
+      "fileName": "terraform-provider-pingone_1.1.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-pingone_1.1.1_SHA256SUMS",
+      "hash": "8a3cce986982f81318eb7a7d567cc78fec7ff830c55bb9720ddc86fe4ef6b523"
+    }
+  ]
+}

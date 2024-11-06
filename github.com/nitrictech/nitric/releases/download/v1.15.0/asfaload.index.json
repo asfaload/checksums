@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gcptf_darwin_arm64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"22112bfa0f111aaa47cbff08f90de3f57037d4a6697909d27f93e1f22b1a6645"},{"fileName":"gcptf_darwin_x86_64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"ce79ab6876e79ae02184bfe79370a748bfcb5e4a09263bc49de3b5131e52a0af"},{"fileName":"gcptf_linux_arm64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"4c1029c94d1f499bedc1e2d15196ef57c44c5422200fc2521b0e1e9893999dd3"},{"fileName":"gcptf_linux_x86_64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"515710e0c39f5f9351b5116f67f7d516ca465a92e95edffc71fc862350986e12"},{"fileName":"gcptf_windows_arm64.zip","algo":"Sha256","source":"gcptf_checksums.txt","hash":"e6b9e92b98629a10ba06e0d05aa1611d2b18f786fae0652cded9c8b3a3a54ccd"},{"fileName":"gcptf_windows_x86_64.zip","algo":"Sha256","source":"gcptf_checksums.txt","hash":"aa116e7768c5116e425ee2eaaf774df87174f18597bb5ecce4658afd2d04bcfd"},{"fileName":"aws_darwin_arm64.tar.gz","algo":"Sha256","source":"aws_checksums.txt","hash":"50538b4718edfd88e35962d167f5aacf78291e42e2786b8b707a6250d3e870bd"},{"fileName":"aws_darwin_x86_64.tar.gz","algo":"Sha256","source":"aws_checksums.txt","hash":"d7898a853f1ba3443b0d450220dae2eda7afbf9a032783ff42ebf536e7793dfe"},{"fileName":"aws_linux_arm64.tar.gz","algo":"Sha256","source":"aws_checksums.txt","hash":"0ae086ab54cbf02614a4ee0bbe66a0a819980197caebdcf1c187a6f4b1af6094"},{"fileName":"aws_linux_x86_64.tar.gz","algo":"Sha256","source":"aws_checksums.txt","hash":"c1502ca3b8900542c733cf73104deb2630f2bdbfc28355283d599736ef199398"},{"fileName":"aws_windows_arm64.zip","algo":"Sha256","source":"aws_checksums.txt","hash":"72e397a6e84d74f49923bbb14fd7572242b9f1421c700930109597040d465ec2"},{"fileName":"aws_windows_x86_64.zip","algo":"Sha256","source":"aws_checksums.txt","hash":"4f80f55e26254efcc4149c2bc4957f809de7af6dc2a2be13853ff5be90758ffa"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gcptf_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "22112bfa0f111aaa47cbff08f90de3f57037d4a6697909d27f93e1f22b1a6645"
+    },
+    {
+      "fileName": "gcptf_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "ce79ab6876e79ae02184bfe79370a748bfcb5e4a09263bc49de3b5131e52a0af"
+    },
+    {
+      "fileName": "gcptf_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "4c1029c94d1f499bedc1e2d15196ef57c44c5422200fc2521b0e1e9893999dd3"
+    },
+    {
+      "fileName": "gcptf_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "515710e0c39f5f9351b5116f67f7d516ca465a92e95edffc71fc862350986e12"
+    },
+    {
+      "fileName": "gcptf_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "e6b9e92b98629a10ba06e0d05aa1611d2b18f786fae0652cded9c8b3a3a54ccd"
+    },
+    {
+      "fileName": "gcptf_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "aa116e7768c5116e425ee2eaaf774df87174f18597bb5ecce4658afd2d04bcfd"
+    },
+    {
+      "fileName": "aws_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "50538b4718edfd88e35962d167f5aacf78291e42e2786b8b707a6250d3e870bd"
+    },
+    {
+      "fileName": "aws_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "d7898a853f1ba3443b0d450220dae2eda7afbf9a032783ff42ebf536e7793dfe"
+    },
+    {
+      "fileName": "aws_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "0ae086ab54cbf02614a4ee0bbe66a0a819980197caebdcf1c187a6f4b1af6094"
+    },
+    {
+      "fileName": "aws_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "c1502ca3b8900542c733cf73104deb2630f2bdbfc28355283d599736ef199398"
+    },
+    {
+      "fileName": "aws_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "72e397a6e84d74f49923bbb14fd7572242b9f1421c700930109597040d465ec2"
+    },
+    {
+      "fileName": "aws_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "4f80f55e26254efcc4149c2bc4957f809de7af6dc2a2be13853ff5be90758ffa"
+    }
+  ]
+}

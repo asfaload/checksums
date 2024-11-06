@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pocketbase_0.22.22_darwin_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"14ef6208bcfd8fd15ce742e6406e3ea12d6510f9b6bb75314d334197d0e56e8c"},{"fileName":"pocketbase_0.22.22_darwin_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"982c111349986bf442b92d5dc3d67e590533c4b99046de99dea0407ad54ec5bc"},{"fileName":"pocketbase_0.22.22_linux_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"330714769484fcc77306ab9f14c25e9f4d9b4ffd8b5b16385a70199db4206978"},{"fileName":"pocketbase_0.22.22_linux_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"a1c99caa1099de61968b66a4be536f7d85969d01ea4f8ae7e21c85194dbcc79f"},{"fileName":"pocketbase_0.22.22_linux_armv7.zip","algo":"Sha256","source":"checksums.txt","hash":"6131e3b98d1aa7051f477c4836c0a3139e8d151afcc5e62d5fdfefdb6b6fa46d"},{"fileName":"pocketbase_0.22.22_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"045adcb69b38d7d090ae31985692dfdb47719de968e3086fe3489c0aa979b9ac"},{"fileName":"pocketbase_0.22.22_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"850b5daf05405838690bd8f76a41da56dd46b942564303addaf518c71e7a77ab"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pocketbase_0.22.22_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "14ef6208bcfd8fd15ce742e6406e3ea12d6510f9b6bb75314d334197d0e56e8c"
+    },
+    {
+      "fileName": "pocketbase_0.22.22_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "982c111349986bf442b92d5dc3d67e590533c4b99046de99dea0407ad54ec5bc"
+    },
+    {
+      "fileName": "pocketbase_0.22.22_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "330714769484fcc77306ab9f14c25e9f4d9b4ffd8b5b16385a70199db4206978"
+    },
+    {
+      "fileName": "pocketbase_0.22.22_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a1c99caa1099de61968b66a4be536f7d85969d01ea4f8ae7e21c85194dbcc79f"
+    },
+    {
+      "fileName": "pocketbase_0.22.22_linux_armv7.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6131e3b98d1aa7051f477c4836c0a3139e8d151afcc5e62d5fdfefdb6b6fa46d"
+    },
+    {
+      "fileName": "pocketbase_0.22.22_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "045adcb69b38d7d090ae31985692dfdb47719de968e3086fe3489c0aa979b9ac"
+    },
+    {
+      "fileName": "pocketbase_0.22.22_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "850b5daf05405838690bd8f76a41da56dd46b942564303addaf518c71e7a77ab"
+    }
+  ]
+}

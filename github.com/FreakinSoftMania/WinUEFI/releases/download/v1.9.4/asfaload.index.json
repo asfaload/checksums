@@ -1,1 +1,85 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"build/WinUEFI-i386.exe","algo":"Sha256","source":"checksums.txt","hash":"b273a949097f82d5d91935f8de4187b04731008456a147a0113e4000ebcd4ef2"},{"fileName":"build/WinUEFI-setup.exe","algo":"Sha256","source":"checksums.txt","hash":"296a6ab8d377eae22f83e65e7114c37477d39a5fc584afcaf820c4377bdecd7a"},{"fileName":"build/WinUEFI-amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"dab96329b1dc8d6133afa3c2f66898654d2fe0ad5501e9213bbb8bd9cb6cf7aa"},{"fileName":"build/WinUEFI-amd64-console.exe","algo":"Sha256","source":"checksums.txt","hash":"b3d0d5480ac3b5801e917618cfe869f1f258f153dd68e61b20aae5292a6623ef"},{"fileName":"build/WinUEFI-i386-console.exe","algo":"Sha256","source":"checksums.txt","hash":"0363f531a73aa31787d8fd5d263c18ff3dacb6c8a5aa4a426271232d64705e3a"},{"fileName":"build/WinUEFI-setup.iso","algo":"Sha256","source":"checksums.txt","hash":"7d053f2e9233647cedfe60d431df3827a72b986472d878a8e44f85460a392fc8"},{"fileName":"build/WinUEFI-setup.img","algo":"Sha256","source":"checksums.txt","hash":"d1b10b660bee30edc82f9b45a915d298e7c398fb0d64c16efce7d1f01c7571f9"},{"fileName":"build/WinUEFI-setup.mds","algo":"Sha256","source":"checksums.txt","hash":"953b0ecda78e82d1404bed9e45b2cf38a6aa07086df69e9c08b9a76579d07930"},{"fileName":"build/WinUEFI-setup(1).mds","algo":"Sha256","source":"checksums.txt","hash":"3287a1feae236ec21d17bb7371d359a090647627c9c84f54c9ce31382c5da088"},{"fileName":"src/WinUEFI-console.bat","algo":"Sha256","source":"checksums.txt","hash":"c855388a0934b486d6a1ccb9e9adc61c53af090fa878eacd40c9d452c6d4ecbf"},{"fileName":"src/WinUEFI.bat","algo":"Sha256","source":"checksums.txt","hash":"724684fd3e8c7b46ec97a8a3e8e98324e3e5be14e1f9a4fc3b0e6faf4458000c"},{"fileName":"src/WinUEFI.ps1","algo":"Sha256","source":"checksums.txt","hash":"2b30734b4413b48b17da3521ffbf32247414bfe43ed2c21efcf41fd79212c737"},{"fileName":"src/WinUEFI.py","algo":"Sha256","source":"checksums.txt","hash":"28faa72ed1da59a063302d9866b40fb76a8f188dcebd6fe0d68b968a6e448145"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "build/WinUEFI-i386.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b273a949097f82d5d91935f8de4187b04731008456a147a0113e4000ebcd4ef2"
+    },
+    {
+      "fileName": "build/WinUEFI-setup.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "296a6ab8d377eae22f83e65e7114c37477d39a5fc584afcaf820c4377bdecd7a"
+    },
+    {
+      "fileName": "build/WinUEFI-amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dab96329b1dc8d6133afa3c2f66898654d2fe0ad5501e9213bbb8bd9cb6cf7aa"
+    },
+    {
+      "fileName": "build/WinUEFI-amd64-console.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b3d0d5480ac3b5801e917618cfe869f1f258f153dd68e61b20aae5292a6623ef"
+    },
+    {
+      "fileName": "build/WinUEFI-i386-console.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0363f531a73aa31787d8fd5d263c18ff3dacb6c8a5aa4a426271232d64705e3a"
+    },
+    {
+      "fileName": "build/WinUEFI-setup.iso",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7d053f2e9233647cedfe60d431df3827a72b986472d878a8e44f85460a392fc8"
+    },
+    {
+      "fileName": "build/WinUEFI-setup.img",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d1b10b660bee30edc82f9b45a915d298e7c398fb0d64c16efce7d1f01c7571f9"
+    },
+    {
+      "fileName": "build/WinUEFI-setup.mds",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "953b0ecda78e82d1404bed9e45b2cf38a6aa07086df69e9c08b9a76579d07930"
+    },
+    {
+      "fileName": "build/WinUEFI-setup(1).mds",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3287a1feae236ec21d17bb7371d359a090647627c9c84f54c9ce31382c5da088"
+    },
+    {
+      "fileName": "src/WinUEFI-console.bat",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c855388a0934b486d6a1ccb9e9adc61c53af090fa878eacd40c9d452c6d4ecbf"
+    },
+    {
+      "fileName": "src/WinUEFI.bat",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "724684fd3e8c7b46ec97a8a3e8e98324e3e5be14e1f9a4fc3b0e6faf4458000c"
+    },
+    {
+      "fileName": "src/WinUEFI.ps1",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2b30734b4413b48b17da3521ffbf32247414bfe43ed2c21efcf41fd79212c737"
+    },
+    {
+      "fileName": "src/WinUEFI.py",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "28faa72ed1da59a063302d9866b40fb76a8f188dcebd6fe0d68b968a6e448145"
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sling_1.2.18_darwin_amd64.zip","algo":"Sha256","source":"sling_1.2.18_SHA256SUMS","hash":"5990d56b7fd19667c4b3f5d98626e3b7002e2e626470097dc4ea3cd78cdedaf6"},{"fileName":"sling_1.2.18_darwin_arm64.zip","algo":"Sha256","source":"sling_1.2.18_SHA256SUMS","hash":"6bae23e434defee7b43fbb1f2904e73b1057a7abc1475b49388884ea136c632d"},{"fileName":"sling_1.2.18_linux_amd64.zip","algo":"Sha256","source":"sling_1.2.18_SHA256SUMS","hash":"0e3b102c3c97fe5e5b2753323b0b34962b7c27762f395fbde8ddd8198298185a"},{"fileName":"sling_1.2.18_linux_arm64.zip","algo":"Sha256","source":"sling_1.2.18_SHA256SUMS","hash":"ebebc46846bb9d2f07c72955777951f64d61b8b9ca719e1fae91c974c4fcf248"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sling_1.2.18_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "sling_1.2.18_SHA256SUMS",
+      "hash": "5990d56b7fd19667c4b3f5d98626e3b7002e2e626470097dc4ea3cd78cdedaf6"
+    },
+    {
+      "fileName": "sling_1.2.18_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "sling_1.2.18_SHA256SUMS",
+      "hash": "6bae23e434defee7b43fbb1f2904e73b1057a7abc1475b49388884ea136c632d"
+    },
+    {
+      "fileName": "sling_1.2.18_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "sling_1.2.18_SHA256SUMS",
+      "hash": "0e3b102c3c97fe5e5b2753323b0b34962b7c27762f395fbde8ddd8198298185a"
+    },
+    {
+      "fileName": "sling_1.2.18_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "sling_1.2.18_SHA256SUMS",
+      "hash": "ebebc46846bb9d2f07c72955777951f64d61b8b9ca719e1fae91c974c4fcf248"
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-vsphere-v4.12.1-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-vsphere_4.12.1_checksums.txt","hash":"4afd00b218f3890041b84c6a899a10db5823cd31"},{"fileName":"./pulumi-resource-vsphere-v4.12.1-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-vsphere_4.12.1_checksums.txt","hash":"b3b1fc602e59830aada54f1dc899a0d9268e6cb1"},{"fileName":"./pulumi-resource-vsphere-v4.12.1-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-vsphere_4.12.1_checksums.txt","hash":"b420b98b9f1fd46a366241f9c564f791df5b133c"},{"fileName":"./pulumi-resource-vsphere-v4.12.1-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-vsphere_4.12.1_checksums.txt","hash":"ecd670bb8f6825c3fd5b6c73c986fa91fd9d3f61"},{"fileName":"./pulumi-resource-vsphere-v4.12.1-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-vsphere_4.12.1_checksums.txt","hash":"63792f06e7eab8c47987d0f73fda16f6998d3530"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-vsphere-v4.12.1-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-vsphere_4.12.1_checksums.txt",
+      "hash": "4afd00b218f3890041b84c6a899a10db5823cd31"
+    },
+    {
+      "fileName": "./pulumi-resource-vsphere-v4.12.1-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-vsphere_4.12.1_checksums.txt",
+      "hash": "b3b1fc602e59830aada54f1dc899a0d9268e6cb1"
+    },
+    {
+      "fileName": "./pulumi-resource-vsphere-v4.12.1-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-vsphere_4.12.1_checksums.txt",
+      "hash": "b420b98b9f1fd46a366241f9c564f791df5b133c"
+    },
+    {
+      "fileName": "./pulumi-resource-vsphere-v4.12.1-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-vsphere_4.12.1_checksums.txt",
+      "hash": "ecd670bb8f6825c3fd5b6c73c986fa91fd9d3f61"
+    },
+    {
+      "fileName": "./pulumi-resource-vsphere-v4.12.1-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-vsphere_4.12.1_checksums.txt",
+      "hash": "63792f06e7eab8c47987d0f73fda16f6998d3530"
+    }
+  ]
+}

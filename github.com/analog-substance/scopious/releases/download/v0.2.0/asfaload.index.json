@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"scopious_Darwin_arm64.tar.gz","algo":"Sha256","source":"scopious_0.2.0_checksums.txt","hash":"1b4c70680399e4c5c38817281f22c0078a0a1394a0de14193325780f08510a8c"},{"fileName":"scopious_Darwin_x86_64.tar.gz","algo":"Sha256","source":"scopious_0.2.0_checksums.txt","hash":"ef9d3520a4f55872785a00ffc6cdd7dd6da0522bfc02145dad75b16693fd03c5"},{"fileName":"scopious_Linux_arm64.tar.gz","algo":"Sha256","source":"scopious_0.2.0_checksums.txt","hash":"28bb1bffc71a6e3bdbc8c8092b6874509b83f52cf2346caa91ef3ce14aa0d02b"},{"fileName":"scopious_Linux_i386.tar.gz","algo":"Sha256","source":"scopious_0.2.0_checksums.txt","hash":"2c880b5abb3532448ed5fab8406c05ce2767ba9cd852198a87952ae5d45d4a74"},{"fileName":"scopious_Linux_x86_64.tar.gz","algo":"Sha256","source":"scopious_0.2.0_checksums.txt","hash":"5a2d0608b68be1eb8bbcba78113f08b32f448d6b9c826bc1f9d2c1b815ecf3b4"},{"fileName":"scopious_Windows_arm64.zip","algo":"Sha256","source":"scopious_0.2.0_checksums.txt","hash":"041ca6a609d72c58c47c09f08772987156dc39fee8cf732090e1ca790301b428"},{"fileName":"scopious_Windows_i386.zip","algo":"Sha256","source":"scopious_0.2.0_checksums.txt","hash":"c20ef91346c9092bc466c34cc294b61663d0ac204e1642095d586ffa039e2ad6"},{"fileName":"scopious_Windows_x86_64.zip","algo":"Sha256","source":"scopious_0.2.0_checksums.txt","hash":"49801f736f95166a7d7bb9500def3fa03d9c4c9795993e5986efc6687631548a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "scopious_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "scopious_0.2.0_checksums.txt",
+      "hash": "1b4c70680399e4c5c38817281f22c0078a0a1394a0de14193325780f08510a8c"
+    },
+    {
+      "fileName": "scopious_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "scopious_0.2.0_checksums.txt",
+      "hash": "ef9d3520a4f55872785a00ffc6cdd7dd6da0522bfc02145dad75b16693fd03c5"
+    },
+    {
+      "fileName": "scopious_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "scopious_0.2.0_checksums.txt",
+      "hash": "28bb1bffc71a6e3bdbc8c8092b6874509b83f52cf2346caa91ef3ce14aa0d02b"
+    },
+    {
+      "fileName": "scopious_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "scopious_0.2.0_checksums.txt",
+      "hash": "2c880b5abb3532448ed5fab8406c05ce2767ba9cd852198a87952ae5d45d4a74"
+    },
+    {
+      "fileName": "scopious_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "scopious_0.2.0_checksums.txt",
+      "hash": "5a2d0608b68be1eb8bbcba78113f08b32f448d6b9c826bc1f9d2c1b815ecf3b4"
+    },
+    {
+      "fileName": "scopious_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "scopious_0.2.0_checksums.txt",
+      "hash": "041ca6a609d72c58c47c09f08772987156dc39fee8cf732090e1ca790301b428"
+    },
+    {
+      "fileName": "scopious_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "scopious_0.2.0_checksums.txt",
+      "hash": "c20ef91346c9092bc466c34cc294b61663d0ac204e1642095d586ffa039e2ad6"
+    },
+    {
+      "fileName": "scopious_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "scopious_0.2.0_checksums.txt",
+      "hash": "49801f736f95166a7d7bb9500def3fa03d9c4c9795993e5986efc6687631548a"
+    }
+  ]
+}

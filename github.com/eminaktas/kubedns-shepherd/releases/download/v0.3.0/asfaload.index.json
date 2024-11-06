@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubedns-shepherd_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2e5d9d3e6eec8168081e0dca66fb0407271e33e89f46886059d3ac5d4130ce90"},{"fileName":"kubedns-shepherd_Linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"c72e829a72d8d7992b837f175d21eb188ed113ed0df3ea3b888d14aac753b101"},{"fileName":"kubedns-shepherd_Linux_ppc64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"49e068d3db141470688af13d9c18c32452dd8b1bf980f6dc49ab0bddca7cc902"},{"fileName":"kubedns-shepherd_Linux_ppc64le.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"42e51dcddb0ca241a3c9f1568e985bf6e53b0b39cc7df756ac659aaab20110c5"},{"fileName":"kubedns-shepherd_Linux_s390x.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"54598c3cbcb4a4148c575534674c5ba967d78a742038cd7c2b670451c23d8961"},{"fileName":"kubedns-shepherd_Linux_s390x.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"7c4db547ff905076880eee318f39b3093cd14cb7046c02a0f909598072a297e8"},{"fileName":"kubedns-shepherd_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c0b7f8560f3b56a14890565f0a395c737a92782c1036043f2bfadc9d5bd6f729"},{"fileName":"kubedns-shepherd_Linux_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"0da2ef56926b78c1febd590d7ea58da4cb1942ebfee15855c6b214d8b8b60220"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubedns-shepherd_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2e5d9d3e6eec8168081e0dca66fb0407271e33e89f46886059d3ac5d4130ce90"
+    },
+    {
+      "fileName": "kubedns-shepherd_Linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c72e829a72d8d7992b837f175d21eb188ed113ed0df3ea3b888d14aac753b101"
+    },
+    {
+      "fileName": "kubedns-shepherd_Linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "49e068d3db141470688af13d9c18c32452dd8b1bf980f6dc49ab0bddca7cc902"
+    },
+    {
+      "fileName": "kubedns-shepherd_Linux_ppc64le.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "42e51dcddb0ca241a3c9f1568e985bf6e53b0b39cc7df756ac659aaab20110c5"
+    },
+    {
+      "fileName": "kubedns-shepherd_Linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "54598c3cbcb4a4148c575534674c5ba967d78a742038cd7c2b670451c23d8961"
+    },
+    {
+      "fileName": "kubedns-shepherd_Linux_s390x.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7c4db547ff905076880eee318f39b3093cd14cb7046c02a0f909598072a297e8"
+    },
+    {
+      "fileName": "kubedns-shepherd_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c0b7f8560f3b56a14890565f0a395c737a92782c1036043f2bfadc9d5bd6f729"
+    },
+    {
+      "fileName": "kubedns-shepherd_Linux_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0da2ef56926b78c1febd590d7ea58da4cb1942ebfee15855c6b214d8b8b60220"
+    }
+  ]
+}

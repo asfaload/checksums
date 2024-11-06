@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"s3-manager_3.0.23_darwin_amd64.tar.gz","algo":"Sha256","source":"s3-manager_3.0.23_checksums.txt","hash":"906a822f365d5cca8e0d5f4affb032490abc6a9e25dd914ff39ae9d5c3250844"},{"fileName":"s3-manager_3.0.23_darwin_arm64.tar.gz","algo":"Sha256","source":"s3-manager_3.0.23_checksums.txt","hash":"af934b552d7e5ece1d2cd7b132a843c894c25a88a6731c6985f5ed3223fde89f"},{"fileName":"s3-manager_3.0.23_linux_amd64.tar.gz","algo":"Sha256","source":"s3-manager_3.0.23_checksums.txt","hash":"728fdc97d5690d429f0bda3c009412e3abb36a1a6aad9fd3d1079089407f1572"},{"fileName":"s3-manager_3.0.23_linux_arm64.tar.gz","algo":"Sha256","source":"s3-manager_3.0.23_checksums.txt","hash":"721ad9c3d8330071cea1e1a30030d5300f5f8522850adbcc49e53b6bdf3d66e3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "s3-manager_3.0.23_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "s3-manager_3.0.23_checksums.txt",
+      "hash": "906a822f365d5cca8e0d5f4affb032490abc6a9e25dd914ff39ae9d5c3250844"
+    },
+    {
+      "fileName": "s3-manager_3.0.23_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "s3-manager_3.0.23_checksums.txt",
+      "hash": "af934b552d7e5ece1d2cd7b132a843c894c25a88a6731c6985f5ed3223fde89f"
+    },
+    {
+      "fileName": "s3-manager_3.0.23_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "s3-manager_3.0.23_checksums.txt",
+      "hash": "728fdc97d5690d429f0bda3c009412e3abb36a1a6aad9fd3d1079089407f1572"
+    },
+    {
+      "fileName": "s3-manager_3.0.23_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "s3-manager_3.0.23_checksums.txt",
+      "hash": "721ad9c3d8330071cea1e1a30030d5300f5f8522850adbcc49e53b6bdf3d66e3"
+    }
+  ]
+}

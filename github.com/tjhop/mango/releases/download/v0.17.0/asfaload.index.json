@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mango_0.17.0_linux_386.deb","algo":"Sha256","source":"checksums.txt","hash":"3745fa833560d5a0f973d38949f475c5de0e91b1c6b59b8243ec4060022809e4"},{"fileName":"mango_0.17.0_linux_386.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"67e55db60aff4889c67068442c08029be9854141556bfc381042ec6f2eb17474"},{"fileName":"mango_0.17.0_linux_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"cfb3f1dbf1775ec02a5805d594da2bc88eb30d0403990906bfbdda797ca17c40"},{"fileName":"mango_0.17.0_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1148eea29b7827894c1614d4fcfedb0137a4029e9bc1b28530cbef428f7e1665"},{"fileName":"mango_0.17.0_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"f064f6eb2a381e991d879180b35cd5c7dfe7aec9254e8653eb86b550545e014c"},{"fileName":"mango_0.17.0_linux_amd64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"36affaa7bd595c39363db89456856f41ebf6fc93eb95884b398ef7786f8b02dd"},{"fileName":"mango_0.17.0_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"dff4340b21650b39f2928224d1f6bdb3cf5c4f203ad5c912ac2374a5552939bb"},{"fileName":"mango_0.17.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a1b24dbbc8e044953ee1da1debb3c2bc70ca53987b0ace8e17ba33911b8dcc33"},{"fileName":"mango_0.17.0_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"7ce898ca8135716fd9cc195e84a6e9a064a15f55ae22b6929d3f97bd3873e5eb"},{"fileName":"mango_0.17.0_linux_arm64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"3db80d99d76fa8e7498cb9bf8e54b5be2406ec350afb14a4ce14a50010f31f2e"},{"fileName":"mango_0.17.0_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"3d9246aeb971cfba0c9453a274fa5ca30b970db6bd5691ef73214abcb68e07fc"},{"fileName":"mango_0.17.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"17e2857a3d0ba445cac2fc409ce6fbf1da0be34d96e2afd8cd9b4d3c2d1d6375"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mango_0.17.0_linux_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3745fa833560d5a0f973d38949f475c5de0e91b1c6b59b8243ec4060022809e4"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_386.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "67e55db60aff4889c67068442c08029be9854141556bfc381042ec6f2eb17474"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cfb3f1dbf1775ec02a5805d594da2bc88eb30d0403990906bfbdda797ca17c40"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1148eea29b7827894c1614d4fcfedb0137a4029e9bc1b28530cbef428f7e1665"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f064f6eb2a381e991d879180b35cd5c7dfe7aec9254e8653eb86b550545e014c"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_amd64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "36affaa7bd595c39363db89456856f41ebf6fc93eb95884b398ef7786f8b02dd"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dff4340b21650b39f2928224d1f6bdb3cf5c4f203ad5c912ac2374a5552939bb"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a1b24dbbc8e044953ee1da1debb3c2bc70ca53987b0ace8e17ba33911b8dcc33"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7ce898ca8135716fd9cc195e84a6e9a064a15f55ae22b6929d3f97bd3873e5eb"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_arm64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3db80d99d76fa8e7498cb9bf8e54b5be2406ec350afb14a4ce14a50010f31f2e"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3d9246aeb971cfba0c9453a274fa5ca30b970db6bd5691ef73214abcb68e07fc"
+    },
+    {
+      "fileName": "mango_0.17.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "17e2857a3d0ba445cac2fc409ce6fbf1da0be34d96e2afd8cd9b4d3c2d1d6375"
+    }
+  ]
+}

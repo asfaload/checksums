@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"migration-assist-Darwin-arm64.tar.gz","algo":"Sha256","source":"migration-assist_0.3_checksums.txt","hash":"0454240ce0cf98f0f9625ffd414155826c0cd9b3e08df0b17cf58877fa9ae2a2"},{"fileName":"migration-assist-Darwin-x86_64.tar.gz","algo":"Sha256","source":"migration-assist_0.3_checksums.txt","hash":"517b673f438cda518dee858c0d12b5883c78c7d9cad098e2850f29ded70cad66"},{"fileName":"migration-assist-Linux-arm64.tar.gz","algo":"Sha256","source":"migration-assist_0.3_checksums.txt","hash":"e11098c7dc222496623bfe411a995a77fbcd845542364f3ce60f5a0df5d2f533"},{"fileName":"migration-assist-Linux-x86_64.tar.gz","algo":"Sha256","source":"migration-assist_0.3_checksums.txt","hash":"a596969ed5ac91c0b7f466ef9a8eaa6f8a422ebbc4ae59e6d2a41a6bb7d7e3b7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "migration-assist-Darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "migration-assist_0.3_checksums.txt",
+      "hash": "0454240ce0cf98f0f9625ffd414155826c0cd9b3e08df0b17cf58877fa9ae2a2"
+    },
+    {
+      "fileName": "migration-assist-Darwin-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "migration-assist_0.3_checksums.txt",
+      "hash": "517b673f438cda518dee858c0d12b5883c78c7d9cad098e2850f29ded70cad66"
+    },
+    {
+      "fileName": "migration-assist-Linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "migration-assist_0.3_checksums.txt",
+      "hash": "e11098c7dc222496623bfe411a995a77fbcd845542364f3ce60f5a0df5d2f533"
+    },
+    {
+      "fileName": "migration-assist-Linux-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "migration-assist_0.3_checksums.txt",
+      "hash": "a596969ed5ac91c0b7f466ef9a8eaa6f8a422ebbc4ae59e6d2a41a6bb7d7e3b7"
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mongodb-atlas-cli_1.29.0_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"901f08e62be937a3acca0c71d1477d08e98d23cf7faec82c2bc23ce8ee8e0d82"},{"fileName":"mongodb-atlas-cli_1.29.0_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"be1cfaa43b936d4caf7a6feb5341f97214f0f7bd9ffe58a3427a094172c58961"},{"fileName":"mongodb-atlas-cli_1.29.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ad9c7fbe86e2a926cba6648381de90c6b7f342a6e5bcae2e4212277e52f6294e"},{"fileName":"mongodb-atlas-cli_1.29.0_linux_x86_64.deb","algo":"Sha256","source":"checksums.txt","hash":"f361060ff83c4bb53ee409f5f6656a4d1f7246af4ccea707d46a4e6550bf6845"},{"fileName":"mongodb-atlas-cli_1.29.0_linux_x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"39181764a2e219bf6d0ec8d73ad2f0482667550b3ae2cb0ebe9bbde6cf8952a2"},{"fileName":"mongodb-atlas-cli_1.29.0_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a2c10e3d7dd3cbb0614b49d9e24b9d4647eb51dbafe67446bb0c1cc658a11e8b"},{"fileName":"mongodb-atlas-cli_1.29.0_macos_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"7ea96b880ffddeea509be85e04bd9c337599905060898d2d83385716b764c3ba"},{"fileName":"mongodb-atlas-cli_1.29.0_macos_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"c0a22f9f34ebb97efcc269c1ea2e7c100dd60acb01cf665b852d3fede4318997"},{"fileName":"mongodb-atlas-cli_1.29.0_windows_x86_64.msi","algo":"Sha256","source":"checksums.txt","hash":"17ecc459036d6a3cbb33cc4b51bcf15ed79541ce2e184ae05f71d9a2c96d7975"},{"fileName":"mongodb-atlas-cli_1.29.0_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"c227b417113a0d1849a3915971cd45845868c7746c68cad848041dfedb2be445"},{"fileName":"mongodb-atlas_1.29.0_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"abc73e640e5466c481998a649d71d9fe168c38bb92c9dd5268baeb1f89a82981"},{"fileName":"mongodb-atlas_1.29.0_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"fde356ce2aa31ddd81352f38cc30be12e242f96e43e6e16fa9d095debc704f4f"},{"fileName":"mongodb-atlas_1.29.0_linux_x86_64.deb","algo":"Sha256","source":"checksums.txt","hash":"73f94f042489a5628068ff706a3f1f4996360118d183e649b0ed043564ea14b5"},{"fileName":"mongodb-atlas_1.29.0_linux_x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"8dcef6422c145c8dcf948c6b156ca4cfc824f7d933fce124c77204db3fdfb84d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "901f08e62be937a3acca0c71d1477d08e98d23cf7faec82c2bc23ce8ee8e0d82"
+    },
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "be1cfaa43b936d4caf7a6feb5341f97214f0f7bd9ffe58a3427a094172c58961"
+    },
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ad9c7fbe86e2a926cba6648381de90c6b7f342a6e5bcae2e4212277e52f6294e"
+    },
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_linux_x86_64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f361060ff83c4bb53ee409f5f6656a4d1f7246af4ccea707d46a4e6550bf6845"
+    },
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_linux_x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "39181764a2e219bf6d0ec8d73ad2f0482667550b3ae2cb0ebe9bbde6cf8952a2"
+    },
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a2c10e3d7dd3cbb0614b49d9e24b9d4647eb51dbafe67446bb0c1cc658a11e8b"
+    },
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_macos_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7ea96b880ffddeea509be85e04bd9c337599905060898d2d83385716b764c3ba"
+    },
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_macos_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c0a22f9f34ebb97efcc269c1ea2e7c100dd60acb01cf665b852d3fede4318997"
+    },
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_windows_x86_64.msi",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "17ecc459036d6a3cbb33cc4b51bcf15ed79541ce2e184ae05f71d9a2c96d7975"
+    },
+    {
+      "fileName": "mongodb-atlas-cli_1.29.0_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c227b417113a0d1849a3915971cd45845868c7746c68cad848041dfedb2be445"
+    },
+    {
+      "fileName": "mongodb-atlas_1.29.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "abc73e640e5466c481998a649d71d9fe168c38bb92c9dd5268baeb1f89a82981"
+    },
+    {
+      "fileName": "mongodb-atlas_1.29.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fde356ce2aa31ddd81352f38cc30be12e242f96e43e6e16fa9d095debc704f4f"
+    },
+    {
+      "fileName": "mongodb-atlas_1.29.0_linux_x86_64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "73f94f042489a5628068ff706a3f1f4996360118d183e649b0ed043564ea14b5"
+    },
+    {
+      "fileName": "mongodb-atlas_1.29.0_linux_x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8dcef6422c145c8dcf948c6b156ca4cfc824f7d933fce124c77204db3fdfb84d"
+    }
+  ]
+}

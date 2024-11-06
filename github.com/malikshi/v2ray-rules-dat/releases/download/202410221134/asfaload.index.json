@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"geosite.db","algo":"Sha256","source":"geosite.db.sha256sum","hash":"fa17d7a821ad6481ef3e156ad76ba6f2595c7cab63f2ecd8aa1935279a405edd"},{"fileName":"geoip.db","algo":"Sha256","source":"geoip.db.sha256sum","hash":"b719cbeef84e288664ff097d297167585d3b9decbba1fc070eada2b7b63a3327"},{"fileName":"geosite.dat","algo":"Sha256","source":"geosite.dat.sha256sum","hash":"3c8b6b889d8200a7ef887383977bd10b2a81aa0781fa0091bc3f5e431fde2b00"},{"fileName":"geoip.dat","algo":"Sha256","source":"geoip.dat.sha256sum","hash":"a0667dfb90c84a407613615b3c6063ef7e74d13e32fd3152d29c9301c802d061"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "geosite.db",
+      "algo": "Sha256",
+      "source": "geosite.db.sha256sum",
+      "hash": "fa17d7a821ad6481ef3e156ad76ba6f2595c7cab63f2ecd8aa1935279a405edd"
+    },
+    {
+      "fileName": "geoip.db",
+      "algo": "Sha256",
+      "source": "geoip.db.sha256sum",
+      "hash": "b719cbeef84e288664ff097d297167585d3b9decbba1fc070eada2b7b63a3327"
+    },
+    {
+      "fileName": "geosite.dat",
+      "algo": "Sha256",
+      "source": "geosite.dat.sha256sum",
+      "hash": "3c8b6b889d8200a7ef887383977bd10b2a81aa0781fa0091bc3f5e431fde2b00"
+    },
+    {
+      "fileName": "geoip.dat",
+      "algo": "Sha256",
+      "source": "geoip.dat.sha256sum",
+      "hash": "a0667dfb90c84a407613615b3c6063ef7e74d13e32fd3152d29c9301c802d061"
+    }
+  ]
+}

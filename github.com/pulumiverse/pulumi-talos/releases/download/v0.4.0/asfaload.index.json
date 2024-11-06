@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T22:27:31+00:00","publishedOn":"2024-11-05T22:29:22.307976+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-talos-v0.4.0-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-talos_0.4.0_checksums.txt","hash":"1260ef98364b5112c96d17d5ee7f19d60b9d4105"},{"fileName":"./pulumi-resource-talos-v0.4.0-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-talos_0.4.0_checksums.txt","hash":"6124fb0004d7f363e0e4761b404f431f5286e0cd"},{"fileName":"./pulumi-resource-talos-v0.4.0-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-talos_0.4.0_checksums.txt","hash":"35d6dd150953cfcb32614001b82a9cd1d1e742b1"},{"fileName":"./pulumi-resource-talos-v0.4.0-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-talos_0.4.0_checksums.txt","hash":"19eb51d707cacee16ce1ad84993bf68db68a80f1"},{"fileName":"./pulumi-resource-talos-v0.4.0-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-talos_0.4.0_checksums.txt","hash":"d158052318dc942639fc4c2721e35bcd7830ca2a"}]}
+{
+  "mirroredOn": "2024-11-05T22:29:22.307976+00:00",
+  "publishedOn": "2024-11-05T22:27:31+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-talos-v0.4.0-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-talos_0.4.0_checksums.txt",
+      "hash": "1260ef98364b5112c96d17d5ee7f19d60b9d4105"
+    },
+    {
+      "fileName": "./pulumi-resource-talos-v0.4.0-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-talos_0.4.0_checksums.txt",
+      "hash": "6124fb0004d7f363e0e4761b404f431f5286e0cd"
+    },
+    {
+      "fileName": "./pulumi-resource-talos-v0.4.0-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-talos_0.4.0_checksums.txt",
+      "hash": "35d6dd150953cfcb32614001b82a9cd1d1e742b1"
+    },
+    {
+      "fileName": "./pulumi-resource-talos-v0.4.0-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-talos_0.4.0_checksums.txt",
+      "hash": "19eb51d707cacee16ce1ad84993bf68db68a80f1"
+    },
+    {
+      "fileName": "./pulumi-resource-talos-v0.4.0-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-talos_0.4.0_checksums.txt",
+      "hash": "d158052318dc942639fc4c2721e35bcd7830ca2a"
+    }
+  ]
+}

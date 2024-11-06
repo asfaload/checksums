@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-cloudinit-v1.4.8-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-cloudinit_1.4.8_checksums.txt","hash":"bd708af8204a5ac27b8ddaa7b5342874afdd0e93"},{"fileName":"./pulumi-resource-cloudinit-v1.4.8-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-cloudinit_1.4.8_checksums.txt","hash":"489c40259df5ecad5fde9fbabea303aa28624287"},{"fileName":"./pulumi-resource-cloudinit-v1.4.8-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-cloudinit_1.4.8_checksums.txt","hash":"e06786dc122081e1d90d0fd94c9d26ce97393080"},{"fileName":"./pulumi-resource-cloudinit-v1.4.8-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-cloudinit_1.4.8_checksums.txt","hash":"bfcea5be3aef309aa7c0d5e6b59cd61202372a5e"},{"fileName":"./pulumi-resource-cloudinit-v1.4.8-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-cloudinit_1.4.8_checksums.txt","hash":"e14900fa0bab4e4dd3fb0e5cd33f245b335c5d6b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-cloudinit-v1.4.8-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cloudinit_1.4.8_checksums.txt",
+      "hash": "bd708af8204a5ac27b8ddaa7b5342874afdd0e93"
+    },
+    {
+      "fileName": "./pulumi-resource-cloudinit-v1.4.8-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cloudinit_1.4.8_checksums.txt",
+      "hash": "489c40259df5ecad5fde9fbabea303aa28624287"
+    },
+    {
+      "fileName": "./pulumi-resource-cloudinit-v1.4.8-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cloudinit_1.4.8_checksums.txt",
+      "hash": "e06786dc122081e1d90d0fd94c9d26ce97393080"
+    },
+    {
+      "fileName": "./pulumi-resource-cloudinit-v1.4.8-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cloudinit_1.4.8_checksums.txt",
+      "hash": "bfcea5be3aef309aa7c0d5e6b59cd61202372a5e"
+    },
+    {
+      "fileName": "./pulumi-resource-cloudinit-v1.4.8-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cloudinit_1.4.8_checksums.txt",
+      "hash": "e14900fa0bab4e4dd3fb0e5cd33f245b335c5d6b"
+    }
+  ]
+}

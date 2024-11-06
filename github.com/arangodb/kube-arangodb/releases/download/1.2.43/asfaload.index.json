@@ -1,1 +1,85 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"arangodb_operator_ops_darwin_amd64","algo":"Sha256","source":"SHA256SUMS","hash":"4f0ed51b31de325d581951c3008215202af6736e32e9132c036eed5442639cb4"},{"fileName":"kube-arangodb-enterprise-1.2.43.tgz","algo":"Sha256","source":"SHA256SUMS","hash":"6d67e416bcf2270cb28a540083331859873aa3357d4b83e0e1a0191f5e756904"},{"fileName":"arangodb_operator_integration_linux_arm64","algo":"Sha256","source":"SHA256SUMS","hash":"5f8ca76c2a31f234960954b96dbc144ba3674f74f62ff5e0dfeaa2f18e26286e"},{"fileName":"arangodb_operator_integration_darwin_amd64","algo":"Sha256","source":"SHA256SUMS","hash":"2e00bb69bcaf938a2c4d92b6adb25674c63bb28c4958baae62fe4b8d3a5e8ca1"},{"fileName":"arangodb_operator_integration_darwin_arm64","algo":"Sha256","source":"SHA256SUMS","hash":"6cdf625abfcae00a633d2602f9b2e274256b2eabb073c82ae7d0780d2029313d"},{"fileName":"arangodb_operator_ops_linux_arm64","algo":"Sha256","source":"SHA256SUMS","hash":"d34e942df9489ac55126c8846defae91725fc1469fef17b78dc6656623b7c9d6"},{"fileName":"kube-arangodb-arm64-1.2.43.tgz","algo":"Sha256","source":"SHA256SUMS","hash":"7f2a517019516456f12edb394d27d0431b48d34a0532b1c32a7427cb98c2b72b"},{"fileName":"kube-arangodb-crd-1.2.43.tgz","algo":"Sha256","source":"SHA256SUMS","hash":"a2c28d8f31b515ac03b66fba843b8ec4c8b29089f59f98ae1c533e0a86927bd4"},{"fileName":"arangodb_operator_ops_darwin_arm64","algo":"Sha256","source":"SHA256SUMS","hash":"1677e705cb435d73a9e5d631a2a20d04356fa35c9e071cd2fedb2ad6b3b82fe9"},{"fileName":"kube-arangodb-enterprise-arm64-1.2.43.tgz","algo":"Sha256","source":"SHA256SUMS","hash":"ed06ea9db685b2734fa72ccabbe7cd3d2b43352d67cd7448fdea309c0621f0d5"},{"fileName":"arangodb_operator_integration_linux_amd64","algo":"Sha256","source":"SHA256SUMS","hash":"5d90a92639b8d08e599248b15db6e4b3249d9eefd5159bf21e468ff99377239d"},{"fileName":"arangodb_operator_ops_linux_amd64","algo":"Sha256","source":"SHA256SUMS","hash":"dd76a8cc2099f5edee219c532fc9398c60a2308723466c0cf64d76d486eb2827"},{"fileName":"kube-arangodb-1.2.43.tgz","algo":"Sha256","source":"SHA256SUMS","hash":"c2bb30c655ecb42e28f3dd2dd819137e2d009a320d2e1c00f22e9c132fa94775"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "arangodb_operator_ops_darwin_amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "4f0ed51b31de325d581951c3008215202af6736e32e9132c036eed5442639cb4"
+    },
+    {
+      "fileName": "kube-arangodb-enterprise-1.2.43.tgz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "6d67e416bcf2270cb28a540083331859873aa3357d4b83e0e1a0191f5e756904"
+    },
+    {
+      "fileName": "arangodb_operator_integration_linux_arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "5f8ca76c2a31f234960954b96dbc144ba3674f74f62ff5e0dfeaa2f18e26286e"
+    },
+    {
+      "fileName": "arangodb_operator_integration_darwin_amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "2e00bb69bcaf938a2c4d92b6adb25674c63bb28c4958baae62fe4b8d3a5e8ca1"
+    },
+    {
+      "fileName": "arangodb_operator_integration_darwin_arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "6cdf625abfcae00a633d2602f9b2e274256b2eabb073c82ae7d0780d2029313d"
+    },
+    {
+      "fileName": "arangodb_operator_ops_linux_arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "d34e942df9489ac55126c8846defae91725fc1469fef17b78dc6656623b7c9d6"
+    },
+    {
+      "fileName": "kube-arangodb-arm64-1.2.43.tgz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "7f2a517019516456f12edb394d27d0431b48d34a0532b1c32a7427cb98c2b72b"
+    },
+    {
+      "fileName": "kube-arangodb-crd-1.2.43.tgz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "a2c28d8f31b515ac03b66fba843b8ec4c8b29089f59f98ae1c533e0a86927bd4"
+    },
+    {
+      "fileName": "arangodb_operator_ops_darwin_arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "1677e705cb435d73a9e5d631a2a20d04356fa35c9e071cd2fedb2ad6b3b82fe9"
+    },
+    {
+      "fileName": "kube-arangodb-enterprise-arm64-1.2.43.tgz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ed06ea9db685b2734fa72ccabbe7cd3d2b43352d67cd7448fdea309c0621f0d5"
+    },
+    {
+      "fileName": "arangodb_operator_integration_linux_amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "5d90a92639b8d08e599248b15db6e4b3249d9eefd5159bf21e468ff99377239d"
+    },
+    {
+      "fileName": "arangodb_operator_ops_linux_amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "dd76a8cc2099f5edee219c532fc9398c60a2308723466c0cf64d76d486eb2827"
+    },
+    {
+      "fileName": "kube-arangodb-1.2.43.tgz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "c2bb30c655ecb42e28f3dd2dd819137e2d009a320d2e1c00f22e9c132fa94775"
+    }
+  ]
+}

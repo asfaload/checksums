@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kunai-aarch64","algo":"Sha512","source":"sha512.txt","hash":"02905ceda092a1637772cd1c25c349970d32e7ab02db04c12367b583e8e1c766b17b3422854afa26b9b406b9cb4fbc22564d02ea64a0c43bad5410e6765c04e2"},{"fileName":"kunai-amd64","algo":"Sha512","source":"sha512.txt","hash":"e54c3917b8317f8a52473de2b5dba9ca678ab828e44a8bbe126607b42a551f033081c23587d1b69dc404f0a1e5e1c679f482325e6f5723ffcac9711541f8df6a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kunai-aarch64",
+      "algo": "Sha512",
+      "source": "sha512.txt",
+      "hash": "02905ceda092a1637772cd1c25c349970d32e7ab02db04c12367b583e8e1c766b17b3422854afa26b9b406b9cb4fbc22564d02ea64a0c43bad5410e6765c04e2"
+    },
+    {
+      "fileName": "kunai-amd64",
+      "algo": "Sha512",
+      "source": "sha512.txt",
+      "hash": "e54c3917b8317f8a52473de2b5dba9ca678ab828e44a8bbe126607b42a551f033081c23587d1b69dc404f0a1e5e1c679f482325e6f5723ffcac9711541f8df6a"
+    }
+  ]
+}

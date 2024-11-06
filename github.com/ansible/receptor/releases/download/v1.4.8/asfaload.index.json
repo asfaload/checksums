@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"receptor_1.4.8_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9bb185158de63b9415c17e04d01a3ec57eb154085de3bcb14a344078c0fa8271"},{"fileName":"receptor_1.4.8_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c8db2be55ddf7f40517ede876815ba7a084043dca7d76908d0e4dd59e4b1510b"},{"fileName":"receptor_1.4.8_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f736a96bc9424d9fdccb1ecefd487b297b78b31ea5af691ced134c93d73ef595"},{"fileName":"receptor_1.4.8_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"54d3e5b0601312fdb90953a8bbe3b519ae8579939213b1447d63a535f0a88539"},{"fileName":"receptor_1.4.8_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e689b10ecadaf5936f9e26365c736f268e4ff4e3dbe1a4a711c341ae5b1c5ca5"},{"fileName":"receptor_1.4.8_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fcd6901a22cda3b81e875c342ad34e462f6a6ebbd5506614a1de1d97114ba0cb"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "receptor_1.4.8_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9bb185158de63b9415c17e04d01a3ec57eb154085de3bcb14a344078c0fa8271"
+    },
+    {
+      "fileName": "receptor_1.4.8_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c8db2be55ddf7f40517ede876815ba7a084043dca7d76908d0e4dd59e4b1510b"
+    },
+    {
+      "fileName": "receptor_1.4.8_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f736a96bc9424d9fdccb1ecefd487b297b78b31ea5af691ced134c93d73ef595"
+    },
+    {
+      "fileName": "receptor_1.4.8_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "54d3e5b0601312fdb90953a8bbe3b519ae8579939213b1447d63a535f0a88539"
+    },
+    {
+      "fileName": "receptor_1.4.8_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e689b10ecadaf5936f9e26365c736f268e4ff4e3dbe1a4a711c341ae5b1c5ca5"
+    },
+    {
+      "fileName": "receptor_1.4.8_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fcd6901a22cda3b81e875c342ad34e462f6a6ebbd5506614a1de1d97114ba0cb"
+    }
+  ]
+}

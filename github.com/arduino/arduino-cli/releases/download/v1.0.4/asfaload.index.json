@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"arduino-cli_1.0.4_Linux_32bit.tar.gz","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"2e4f055834ec93d850a1d1d7eeb5105a4781765bce7e52825b6e27d40bb2b75f"},{"fileName":"arduino-cli_1.0.4_Linux_64bit.tar.gz","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"a28a24721532d9c2f9499c9217ecec4ab94cece249dffdd568b02fe397fef923"},{"fileName":"arduino-cli_1.0.4_Linux_ARM64.tar.gz","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"6081c50681f54c8e6d13c9683a60e9f9c5cfa837e41e7ca5a8d2542f55578e13"},{"fileName":"arduino-cli_1.0.4_Linux_ARMv6.tar.gz","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"d16427359631a34f150df2970ccd8e3801509adf6d1297cdbde8252eabbfa887"},{"fileName":"arduino-cli_1.0.4_Linux_ARMv7.tar.gz","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"0b4085869e895143281c670a77a4dac2815467248ec55f1911a75e32cb14b4d1"},{"fileName":"arduino-cli_1.0.4_Windows_32bit.zip","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"64fe032dda77e4b10ed7834895f80fa886d4daa01a4380928a73dd6c3af26383"},{"fileName":"arduino-cli_1.0.4_Windows_64bit.msi","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"fd12fafadcd14c7da791198258b403988a60e309d8dde83938e9e87b27dee825"},{"fileName":"arduino-cli_1.0.4_Windows_64bit.zip","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"c11f09acb9897c49d11e7249d7508a490459d2de66f94f645389c3e2483d58e4"},{"fileName":"arduino-cli_1.0.4_configuration.schema.json","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"7f7a182a3b5b33b84331680382a0cd2b6fb8e2401de9da435eb277b75cceb8e6"},{"fileName":"arduino-cli_1.0.4_macOS_64bit.tar.gz","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"3eef85481aba8ef99c5764fed699d2caaff116a8dcc0becafbf6bc621f10d3b3"},{"fileName":"arduino-cli_1.0.4_macOS_ARM64.tar.gz","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"6359a6f9b96a0b14997a09ff78de2e510117bf40fc08cefe99cee5b350bca8b7"},{"fileName":"arduino-cli_1.0.4_proto.zip","algo":"Sha256","source":"1.0.4-checksums.txt","hash":"01135734609e5702ed545fb6ccc32ae6ca2b7c47a81e2133e91db54559645e4d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "arduino-cli_1.0.4_Linux_32bit.tar.gz",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "2e4f055834ec93d850a1d1d7eeb5105a4781765bce7e52825b6e27d40bb2b75f"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_Linux_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "a28a24721532d9c2f9499c9217ecec4ab94cece249dffdd568b02fe397fef923"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_Linux_ARM64.tar.gz",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "6081c50681f54c8e6d13c9683a60e9f9c5cfa837e41e7ca5a8d2542f55578e13"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_Linux_ARMv6.tar.gz",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "d16427359631a34f150df2970ccd8e3801509adf6d1297cdbde8252eabbfa887"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_Linux_ARMv7.tar.gz",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "0b4085869e895143281c670a77a4dac2815467248ec55f1911a75e32cb14b4d1"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_Windows_32bit.zip",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "64fe032dda77e4b10ed7834895f80fa886d4daa01a4380928a73dd6c3af26383"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_Windows_64bit.msi",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "fd12fafadcd14c7da791198258b403988a60e309d8dde83938e9e87b27dee825"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_Windows_64bit.zip",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "c11f09acb9897c49d11e7249d7508a490459d2de66f94f645389c3e2483d58e4"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_configuration.schema.json",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "7f7a182a3b5b33b84331680382a0cd2b6fb8e2401de9da435eb277b75cceb8e6"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_macOS_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "3eef85481aba8ef99c5764fed699d2caaff116a8dcc0becafbf6bc621f10d3b3"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_macOS_ARM64.tar.gz",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "6359a6f9b96a0b14997a09ff78de2e510117bf40fc08cefe99cee5b350bca8b7"
+    },
+    {
+      "fileName": "arduino-cli_1.0.4_proto.zip",
+      "algo": "Sha256",
+      "source": "1.0.4-checksums.txt",
+      "hash": "01135734609e5702ed545fb6ccc32ae6ca2b7c47a81e2133e91db54559645e4d"
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"hypha-api_Linux_arm64.tar.gz","algo":"Sha256","source":"api_1.0.17_checksums.txt","hash":"83b10c44ef6d3c8cb2792cc79ab402a0c45cec01d2067b03fe406cca21c3ccac"},{"fileName":"hypha-api_Linux_i386.tar.gz","algo":"Sha256","source":"api_1.0.17_checksums.txt","hash":"133a15fee377fa51c3b04ecc63cc83613333b4f948d93b305875fb75fef508bc"},{"fileName":"hypha-api_Linux_x86_64.tar.gz","algo":"Sha256","source":"api_1.0.17_checksums.txt","hash":"a5e2f2e7e5b96b8486298860cac241f5494a29d6e38e9ec077a94b684c49627b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "hypha-api_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "api_1.0.17_checksums.txt",
+      "hash": "83b10c44ef6d3c8cb2792cc79ab402a0c45cec01d2067b03fe406cca21c3ccac"
+    },
+    {
+      "fileName": "hypha-api_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "api_1.0.17_checksums.txt",
+      "hash": "133a15fee377fa51c3b04ecc63cc83613333b4f948d93b305875fb75fef508bc"
+    },
+    {
+      "fileName": "hypha-api_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "api_1.0.17_checksums.txt",
+      "hash": "a5e2f2e7e5b96b8486298860cac241f5494a29d6e38e9ec077a94b684c49627b"
+    }
+  ]
+}

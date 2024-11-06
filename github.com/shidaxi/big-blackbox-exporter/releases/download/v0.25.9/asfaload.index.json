@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"big-blackbox-exporter_0.25.9_darwin_amd64.tar.gz","algo":"Sha256","source":"big-blackbox-exporter_0.25.9_checksums.txt","hash":"a97a77af014c309b6f31e258c7ecd3b432021c2b6dafdf047efb7bffea10628a"},{"fileName":"big-blackbox-exporter_0.25.9_darwin_arm64.tar.gz","algo":"Sha256","source":"big-blackbox-exporter_0.25.9_checksums.txt","hash":"508df96f2520d6f6ee5873c6f8540bebe4c6f1ced6a509a279215e92bfe9fb53"},{"fileName":"big-blackbox-exporter_0.25.9_linux_amd64.tar.gz","algo":"Sha256","source":"big-blackbox-exporter_0.25.9_checksums.txt","hash":"ae0c9dbce8b2d4c6c53b20273c22e628458c1e16c3ecc21e5837e5ada90989ed"},{"fileName":"big-blackbox-exporter_0.25.9_linux_arm64.tar.gz","algo":"Sha256","source":"big-blackbox-exporter_0.25.9_checksums.txt","hash":"e39368b8b98a4605a0195c8fb7b161fab0903f3b5551f6c5e55d499c3ec1ac64"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "big-blackbox-exporter_0.25.9_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "big-blackbox-exporter_0.25.9_checksums.txt",
+      "hash": "a97a77af014c309b6f31e258c7ecd3b432021c2b6dafdf047efb7bffea10628a"
+    },
+    {
+      "fileName": "big-blackbox-exporter_0.25.9_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "big-blackbox-exporter_0.25.9_checksums.txt",
+      "hash": "508df96f2520d6f6ee5873c6f8540bebe4c6f1ced6a509a279215e92bfe9fb53"
+    },
+    {
+      "fileName": "big-blackbox-exporter_0.25.9_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "big-blackbox-exporter_0.25.9_checksums.txt",
+      "hash": "ae0c9dbce8b2d4c6c53b20273c22e628458c1e16c3ecc21e5837e5ada90989ed"
+    },
+    {
+      "fileName": "big-blackbox-exporter_0.25.9_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "big-blackbox-exporter_0.25.9_checksums.txt",
+      "hash": "e39368b8b98a4605a0195c8fb7b161fab0903f3b5551f6c5e55d499c3ec1ac64"
+    }
+  ]
+}

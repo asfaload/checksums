@@ -1,1 +1,199 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubectl-cnpg_1.24.0_darwin_arm64.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"b2d0a60f87ce3fe71d26d8218df2bca82e668e682c261854cecd205fb9208b48"},{"fileName":"kubectl-cnpg_1.24.0_darwin_x86_64.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"8147938336f7f06a6a0acc31f27ade5bfba52f2ed53841fa43ff3c5b5a7cf945"},{"fileName":"kubectl-cnpg_1.24.0_linux_arm64.deb","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"11b7e2e52c093b5efca9b4bb21a566bd946397685aad203930c87501f7a1e53a"},{"fileName":"kubectl-cnpg_1.24.0_linux_arm64.rpm","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"81b1c798e96df90d8cf062ed9a1a0dddeb3e61b24782445bcdb80cbee84c8d5c"},{"fileName":"kubectl-cnpg_1.24.0_linux_arm64.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"786e1f628c4edb5b63dca9b74441fcd6d8b0f03f343468076e9be2e103189746"},{"fileName":"kubectl-cnpg_1.24.0_linux_armv5.deb","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"af7f6a5466ed946dfbd34a410412ae34c26ca4112403916e180e77624a0a9cf0"},{"fileName":"kubectl-cnpg_1.24.0_linux_armv5.rpm","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"24132080bf91058a1a572419cf14b9db935aa3a93e5409446847872ff2121bfb"},{"fileName":"kubectl-cnpg_1.24.0_linux_armv5.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"2e72765f83b6435ad7d7ddb741108c3564220648ba752fb5008400817fd9445b"},{"fileName":"kubectl-cnpg_1.24.0_linux_armv6.deb","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"339d74663a05b659cdb1d6334b806face5bc8dc440688cb88fc33bb91a34dd09"},{"fileName":"kubectl-cnpg_1.24.0_linux_armv6.rpm","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"ab73067d4b048c988a6b3742fd25aa25957938faa738e200af39028fa5157527"},{"fileName":"kubectl-cnpg_1.24.0_linux_armv6.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"808756329531c2e5915ba1b0168c3d7fc39ee8edf86803008c50b7ce0ab71f60"},{"fileName":"kubectl-cnpg_1.24.0_linux_armv7.deb","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"e9bab890ab868b6112118c252830b9fce34450429c6b72596d827a2afe2b69c7"},{"fileName":"kubectl-cnpg_1.24.0_linux_armv7.rpm","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"43a7d8b780a7c0f66ae84d610dd9812c75426061b9cd1704bbda0fcbdc283c05"},{"fileName":"kubectl-cnpg_1.24.0_linux_armv7.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"5cfcc9f290a2b2c12860ad6b0098882958254cb7eeb1173240f35f70cce951cc"},{"fileName":"kubectl-cnpg_1.24.0_linux_i386.deb","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"8a8052836781ea49e9bed57d9d78a2a2ae2c64ad9f47779944d3446990c0ec0f"},{"fileName":"kubectl-cnpg_1.24.0_linux_i386.rpm","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"f31bcc77299b46a3b960af82d9e73ccd4b4c7b4f06927b3e715b8332c94e690e"},{"fileName":"kubectl-cnpg_1.24.0_linux_i386.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"537dcb15863d61327901e9776df4fabe4c2228268c93c5961504092fe70c26a9"},{"fileName":"kubectl-cnpg_1.24.0_linux_ppc64le.deb","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"93cabafcc6a7da085b8426797baf54a3b0099329d5bd4ba47261f6118bb1ff75"},{"fileName":"kubectl-cnpg_1.24.0_linux_ppc64le.rpm","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"7ddb3fdd98ec0a88f45540c1e005eed221d4c11a48b1b8f684ec0aee895fe918"},{"fileName":"kubectl-cnpg_1.24.0_linux_ppc64le.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"00a14716b3103c1635f340102712ce91cf1d05fe6a79818decac0af9a87ff79d"},{"fileName":"kubectl-cnpg_1.24.0_linux_s390x.deb","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"eb6fd8fd872701c0f3744058bddb3dfb86db128b1e75f370e8d1e2d4cafb1db9"},{"fileName":"kubectl-cnpg_1.24.0_linux_s390x.rpm","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"86904de2d844f113e0f0e12eeb98cd02aa4645c30dde9f42688acbe545b9b283"},{"fileName":"kubectl-cnpg_1.24.0_linux_s390x.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"b7fb142cfb7e55fdba82d2d7dfd7e53f8688fa13965e637a11eecc078f7d02ce"},{"fileName":"kubectl-cnpg_1.24.0_linux_x86_64.deb","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"8da308145a1445a680ed6f615f752ab2b520413fe1b7ada604620b8b65680fbb"},{"fileName":"kubectl-cnpg_1.24.0_linux_x86_64.rpm","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"2347e66ea0a1f915b9e8c844854ebf4c34295094791e130755903324cd609c33"},{"fileName":"kubectl-cnpg_1.24.0_linux_x86_64.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"38b9aa5dd22c9f4d6078f3be39ffd062be88bd3abd47abb4b7c6235576249112"},{"fileName":"kubectl-cnpg_1.24.0_windows_arm64.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"baf74c6a4d539a3d1174c12847898b0f9a216a049648114a97f9981b9f700310"},{"fileName":"kubectl-cnpg_1.24.0_windows_armv5.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"d81eda43c52932196869310a2561f6b65fe2c2c1e6fa6a1a09accbaf3b0fb8b4"},{"fileName":"kubectl-cnpg_1.24.0_windows_armv6.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"a810f3c5e6e0161152cc59813e4970abe74f5d034f6a80e7da8d947a44cc837c"},{"fileName":"kubectl-cnpg_1.24.0_windows_armv7.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"e9c77b3129e2e890befbdb846188c99d13f2e8fecbb2e5eec7727adec468023d"},{"fileName":"kubectl-cnpg_1.24.0_windows_i386.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"949417fde460180b6b309bf91bf0ad03dbba11a0f4978c0c2703260448511c37"},{"fileName":"kubectl-cnpg_1.24.0_windows_x86_64.tar.gz","algo":"Sha256","source":"cnpg-1.24.0-checksums.txt","hash":"ab32aa85a6445281348719178b9c128d2aa491bbe10e65fa4a32a96d95082766"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubectl-cnpg_1.24.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "b2d0a60f87ce3fe71d26d8218df2bca82e668e682c261854cecd205fb9208b48"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "8147938336f7f06a6a0acc31f27ade5bfba52f2ed53841fa43ff3c5b5a7cf945"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "11b7e2e52c093b5efca9b4bb21a566bd946397685aad203930c87501f7a1e53a"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "81b1c798e96df90d8cf062ed9a1a0dddeb3e61b24782445bcdb80cbee84c8d5c"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "786e1f628c4edb5b63dca9b74441fcd6d8b0f03f343468076e9be2e103189746"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_armv5.deb",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "af7f6a5466ed946dfbd34a410412ae34c26ca4112403916e180e77624a0a9cf0"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_armv5.rpm",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "24132080bf91058a1a572419cf14b9db935aa3a93e5409446847872ff2121bfb"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_armv5.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "2e72765f83b6435ad7d7ddb741108c3564220648ba752fb5008400817fd9445b"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_armv6.deb",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "339d74663a05b659cdb1d6334b806face5bc8dc440688cb88fc33bb91a34dd09"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_armv6.rpm",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "ab73067d4b048c988a6b3742fd25aa25957938faa738e200af39028fa5157527"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "808756329531c2e5915ba1b0168c3d7fc39ee8edf86803008c50b7ce0ab71f60"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "e9bab890ab868b6112118c252830b9fce34450429c6b72596d827a2afe2b69c7"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "43a7d8b780a7c0f66ae84d610dd9812c75426061b9cd1704bbda0fcbdc283c05"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "5cfcc9f290a2b2c12860ad6b0098882958254cb7eeb1173240f35f70cce951cc"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_i386.deb",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "8a8052836781ea49e9bed57d9d78a2a2ae2c64ad9f47779944d3446990c0ec0f"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_i386.rpm",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "f31bcc77299b46a3b960af82d9e73ccd4b4c7b4f06927b3e715b8332c94e690e"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "537dcb15863d61327901e9776df4fabe4c2228268c93c5961504092fe70c26a9"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_ppc64le.deb",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "93cabafcc6a7da085b8426797baf54a3b0099329d5bd4ba47261f6118bb1ff75"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_ppc64le.rpm",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "7ddb3fdd98ec0a88f45540c1e005eed221d4c11a48b1b8f684ec0aee895fe918"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "00a14716b3103c1635f340102712ce91cf1d05fe6a79818decac0af9a87ff79d"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_s390x.deb",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "eb6fd8fd872701c0f3744058bddb3dfb86db128b1e75f370e8d1e2d4cafb1db9"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_s390x.rpm",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "86904de2d844f113e0f0e12eeb98cd02aa4645c30dde9f42688acbe545b9b283"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "b7fb142cfb7e55fdba82d2d7dfd7e53f8688fa13965e637a11eecc078f7d02ce"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_x86_64.deb",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "8da308145a1445a680ed6f615f752ab2b520413fe1b7ada604620b8b65680fbb"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_x86_64.rpm",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "2347e66ea0a1f915b9e8c844854ebf4c34295094791e130755903324cd609c33"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "38b9aa5dd22c9f4d6078f3be39ffd062be88bd3abd47abb4b7c6235576249112"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "baf74c6a4d539a3d1174c12847898b0f9a216a049648114a97f9981b9f700310"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_windows_armv5.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "d81eda43c52932196869310a2561f6b65fe2c2c1e6fa6a1a09accbaf3b0fb8b4"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_windows_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "a810f3c5e6e0161152cc59813e4970abe74f5d034f6a80e7da8d947a44cc837c"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_windows_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "e9c77b3129e2e890befbdb846188c99d13f2e8fecbb2e5eec7727adec468023d"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_windows_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "949417fde460180b6b309bf91bf0ad03dbba11a0f4978c0c2703260448511c37"
+    },
+    {
+      "fileName": "kubectl-cnpg_1.24.0_windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnpg-1.24.0-checksums.txt",
+      "hash": "ab32aa85a6445281348719178b9c128d2aa491bbe10e65fa4a32a96d95082766"
+    }
+  ]
+}

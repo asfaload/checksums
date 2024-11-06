@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terramate_0.10.7_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"0402358ef1702679b590bc347da3d369b1270615a1986c21145f2e39c4824eea"},{"fileName":"terramate_0.10.7_darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"05ff4f85e1fc5701206c277c4d89bf7246e380f43c85a95e87cc9d08624a0cf8"},{"fileName":"terramate_0.10.7_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"1a5c8e6bb6afa2501e5f5391261d20314b219639222ebc37af1e80e152f46c3c"},{"fileName":"terramate_0.10.7_linux_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"24d5cffbf16a1f33780bf0055df4dc4b664e2c43e9832ea6a00f8ec9d0d8e791"},{"fileName":"terramate_0.10.7_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3aa209fd4dc9efd30951278fff2ced5507205de0d6b0b369f2f95988dbc2be89"},{"fileName":"terramate_0.10.7_linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5a0b0a1ff023300ce633a564121f52006a529c3cd7a8c4fa85dbc3116063358d"},{"fileName":"terramate_0.10.7_linux_386.deb","algo":"Sha256","source":"checksums.txt","hash":"86101b13dd0424fb3d9a0deb1386a4b2b6897ba50dfb6afb09ff7159c87848ea"},{"fileName":"terramate_0.10.7_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"a25253008041732aee0da623cf74ef6bce5db7a807c258e974d4ad6b161e6049"},{"fileName":"terramate_0.10.7_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"ba1ba007733b625af0e3097f88804c1a135c5689d6fe46f3bebb60a8daed0360"},{"fileName":"terramate_0.10.7_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"cd3eb1f494743835de4852d76654af2ac84709b3f7856d92965fbbc4cf46f6a4"},{"fileName":"terramate_0.10.7_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"cd8db21204ef45e22066a805126156a225fc6b595629a875020bc7ce34684c36"},{"fileName":"terramate_0.10.7_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d441e8a4d87db04269db27faa40ff02309fbdc6e0ab9b9953ba96bcc27a75a72"},{"fileName":"terramate_0.10.7_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"dd227eed70cd1fa954650d2428cf5eb1245578610a07bf6af05ded4c1c7acb97"},{"fileName":"terramate_0.10.7_windows_i386.zip","algo":"Sha256","source":"checksums.txt","hash":"f8c37b174f01e555b472fd2b757096e3d5fae800cd8aecb93f3150ac492cf364"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terramate_0.10.7_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0402358ef1702679b590bc347da3d369b1270615a1986c21145f2e39c4824eea"
+    },
+    {
+      "fileName": "terramate_0.10.7_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "05ff4f85e1fc5701206c277c4d89bf7246e380f43c85a95e87cc9d08624a0cf8"
+    },
+    {
+      "fileName": "terramate_0.10.7_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1a5c8e6bb6afa2501e5f5391261d20314b219639222ebc37af1e80e152f46c3c"
+    },
+    {
+      "fileName": "terramate_0.10.7_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "24d5cffbf16a1f33780bf0055df4dc4b664e2c43e9832ea6a00f8ec9d0d8e791"
+    },
+    {
+      "fileName": "terramate_0.10.7_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3aa209fd4dc9efd30951278fff2ced5507205de0d6b0b369f2f95988dbc2be89"
+    },
+    {
+      "fileName": "terramate_0.10.7_linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5a0b0a1ff023300ce633a564121f52006a529c3cd7a8c4fa85dbc3116063358d"
+    },
+    {
+      "fileName": "terramate_0.10.7_linux_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "86101b13dd0424fb3d9a0deb1386a4b2b6897ba50dfb6afb09ff7159c87848ea"
+    },
+    {
+      "fileName": "terramate_0.10.7_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a25253008041732aee0da623cf74ef6bce5db7a807c258e974d4ad6b161e6049"
+    },
+    {
+      "fileName": "terramate_0.10.7_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ba1ba007733b625af0e3097f88804c1a135c5689d6fe46f3bebb60a8daed0360"
+    },
+    {
+      "fileName": "terramate_0.10.7_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cd3eb1f494743835de4852d76654af2ac84709b3f7856d92965fbbc4cf46f6a4"
+    },
+    {
+      "fileName": "terramate_0.10.7_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cd8db21204ef45e22066a805126156a225fc6b595629a875020bc7ce34684c36"
+    },
+    {
+      "fileName": "terramate_0.10.7_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d441e8a4d87db04269db27faa40ff02309fbdc6e0ab9b9953ba96bcc27a75a72"
+    },
+    {
+      "fileName": "terramate_0.10.7_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dd227eed70cd1fa954650d2428cf5eb1245578610a07bf6af05ded4c1c7acb97"
+    },
+    {
+      "fileName": "terramate_0.10.7_windows_i386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f8c37b174f01e555b472fd2b757096e3d5fae800cd8aecb93f3150ac492cf364"
+    }
+  ]
+}

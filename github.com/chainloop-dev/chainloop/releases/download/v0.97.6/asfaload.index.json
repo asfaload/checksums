@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"chainloop-cli-0.97.6-darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"32fa8bd363f0d43cffcb9c2aa188efdbdd3fac77a8963b7beb5324b0019e1682"},{"fileName":"chainloop-cli-0.97.6-darwin-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"20557b0e789d53d6ceafdee986467e47bde5a3e6f35de20349591111ff02ce85"},{"fileName":"chainloop-cli-0.97.6-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"22933751d8134267f8ba94ad4e8b1fd2d0b03dc10172efaaa3db83613692080e"},{"fileName":"chainloop-cli-0.97.6-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8c347a7b0384f35b89b729d7261aabeb15036f96ca340be23a7c30604f992884"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "chainloop-cli-0.97.6-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "32fa8bd363f0d43cffcb9c2aa188efdbdd3fac77a8963b7beb5324b0019e1682"
+    },
+    {
+      "fileName": "chainloop-cli-0.97.6-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "20557b0e789d53d6ceafdee986467e47bde5a3e6f35de20349591111ff02ce85"
+    },
+    {
+      "fileName": "chainloop-cli-0.97.6-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "22933751d8134267f8ba94ad4e8b1fd2d0b03dc10172efaaa3db83613692080e"
+    },
+    {
+      "fileName": "chainloop-cli-0.97.6-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8c347a7b0384f35b89b729d7261aabeb15036f96ca340be23a7c30604f992884"
+    }
+  ]
+}

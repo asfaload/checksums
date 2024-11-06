@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cloudquery_darwin_amd64","algo":"Sha256","source":"checksums.txt","hash":"bee16bc1af49dc7622eeaba39e283449f3020913589e563093bf152d1c3cad52"},{"fileName":"cloudquery_darwin_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"f3481d0b588a48c5031987977586522b8b461706a228704bd256cc548671f91c"},{"fileName":"cloudquery_darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"d6ae20d614cefd2b494825626eafc5aa28b08ad0c2cd1dafeef1b9ba91740352"},{"fileName":"cloudquery_darwin_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"04aa716fb8e20508f0f90e0f333a3beeb7384200823ed988762edde637327069"},{"fileName":"cloudquery_linux_amd64","algo":"Sha256","source":"checksums.txt","hash":"4e83fb3776c3c3f4d091977677ae3f99bd31025973d474ef5afbeaea6669017a"},{"fileName":"cloudquery_linux_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"4d74d2dcbbf8a34d14b292a901260d12d8c77238cfa7030b754590f55dee69c2"},{"fileName":"cloudquery_linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"1210a47aa8ddb0738ff6405f102363cf4808e0595e2b87fc26ada2d509a76449"},{"fileName":"cloudquery_linux_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"49c03babb23a026e7589fa638dc3df486bb2dcfea9e99bf8c427b42fe7d17bd5"},{"fileName":"cloudquery_windows_amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"f5e5a75215bc4119519dd3c4e63d75242794e6a2358ac0931818ef7aebd9491f"},{"fileName":"cloudquery_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"8564b143d07275ff4e79e2d1cc44990a63bf5400abd8c0b4435869d1000d0d01"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cloudquery_darwin_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bee16bc1af49dc7622eeaba39e283449f3020913589e563093bf152d1c3cad52"
+    },
+    {
+      "fileName": "cloudquery_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f3481d0b588a48c5031987977586522b8b461706a228704bd256cc548671f91c"
+    },
+    {
+      "fileName": "cloudquery_darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d6ae20d614cefd2b494825626eafc5aa28b08ad0c2cd1dafeef1b9ba91740352"
+    },
+    {
+      "fileName": "cloudquery_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "04aa716fb8e20508f0f90e0f333a3beeb7384200823ed988762edde637327069"
+    },
+    {
+      "fileName": "cloudquery_linux_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e83fb3776c3c3f4d091977677ae3f99bd31025973d474ef5afbeaea6669017a"
+    },
+    {
+      "fileName": "cloudquery_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4d74d2dcbbf8a34d14b292a901260d12d8c77238cfa7030b754590f55dee69c2"
+    },
+    {
+      "fileName": "cloudquery_linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1210a47aa8ddb0738ff6405f102363cf4808e0595e2b87fc26ada2d509a76449"
+    },
+    {
+      "fileName": "cloudquery_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "49c03babb23a026e7589fa638dc3df486bb2dcfea9e99bf8c427b42fe7d17bd5"
+    },
+    {
+      "fileName": "cloudquery_windows_amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f5e5a75215bc4119519dd3c4e63d75242794e6a2358ac0931818ef7aebd9491f"
+    },
+    {
+      "fileName": "cloudquery_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8564b143d07275ff4e79e2d1cc44990a63bf5400abd8c0b4435869d1000d0d01"
+    }
+  ]
+}

@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-06T01:42:45+00:00","publishedOn":"2024-11-06T01:44:26.3397741+00:00","version":1,"publishedFiles":[{"fileName":"darwin-x86_64-13_OTP-master.tar.gz","algo":"Sha256","source":"darwin-x86_64-13_OTP-master.sha256.txt","hash":"1fb9282ea647d4a873304a4f756d584c8e14bd6ec6952582d074bf776913aadb"}]}
+{
+  "mirroredOn": "2024-11-06T01:44:26.3397741+00:00",
+  "publishedOn": "2024-11-06T01:42:45+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "darwin-x86_64-13_OTP-master.tar.gz",
+      "algo": "Sha256",
+      "source": "darwin-x86_64-13_OTP-master.sha256.txt",
+      "hash": "1fb9282ea647d4a873304a4f756d584c8e14bd6ec6952582d074bf776913aadb"
+    }
+  ]
+}

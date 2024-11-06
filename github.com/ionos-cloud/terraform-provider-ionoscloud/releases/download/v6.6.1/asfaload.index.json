@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-ionoscloud_6.6.1_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"1e9e4a9fc87f730c70ab2afb202ffb13717c8599c0c8209231ae673f8ba85110"},{"fileName":"terraform-provider-ionoscloud_6.6.1_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"6c79003f835f296e5217b3ee0f6b26e613296b4981d07eed56909cf596c9ffc4"},{"fileName":"terraform-provider-ionoscloud_6.6.1_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"068b715bc8fa5323eafc5c75737e2709e3fbc4df77ba221eb58d71e084277593"},{"fileName":"terraform-provider-ionoscloud_6.6.1_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"058682a813033416d23cda67747bdc6b4b6685bd9bbba2d130201185ec63e2b4"},{"fileName":"terraform-provider-ionoscloud_6.6.1_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"a1d2a32d884eac369d95dfc382d5348cf679e280c8cba7465eee5d9b985b0372"},{"fileName":"terraform-provider-ionoscloud_6.6.1_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"f80e845692c8b618e895012f261652690598698ee7c1a0dce5d1a63d9ac344cb"},{"fileName":"terraform-provider-ionoscloud_6.6.1_linux_386.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"c277ddd0e4ab2a5b76b0b10682923419d08639e8dc8ebe1d9d22757903714d1f"},{"fileName":"terraform-provider-ionoscloud_6.6.1_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"75d482950d812ea39b6f423d08be34664221e1ccdda2c84045e2d2878febf23b"},{"fileName":"terraform-provider-ionoscloud_6.6.1_linux_arm.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"c0ea1643681b68db7ffc5ff9edc404ef64ee80c6c6faa12d553e0b5afd7550ef"},{"fileName":"terraform-provider-ionoscloud_6.6.1_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"d9e33e4aeea3782e01d072177d5404c86c134bf20e99a08a8deeb774251cb218"},{"fileName":"terraform-provider-ionoscloud_6.6.1_windows_386.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"731a00ccac923b2517d1735a7cfdb277e7a6ef8573bcc54b87c6a3a2407dc269"},{"fileName":"terraform-provider-ionoscloud_6.6.1_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"41f103ce1939e1c2430aa877a99318ebc24f988d18bc6065442f3851608fd5be"},{"fileName":"terraform-provider-ionoscloud_6.6.1_windows_arm.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"d2d077ac4109a8f4d275f06876640d70fc052ac7dc3822c066921e5044a5d76f"},{"fileName":"terraform-provider-ionoscloud_6.6.1_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-ionoscloud_6.6.1_SHA256SUMS","hash":"ac0b5f5759ee632480b8fe030b5623864784353c7e8e80f62eea1e2904aafc1c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "1e9e4a9fc87f730c70ab2afb202ffb13717c8599c0c8209231ae673f8ba85110"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "6c79003f835f296e5217b3ee0f6b26e613296b4981d07eed56909cf596c9ffc4"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "068b715bc8fa5323eafc5c75737e2709e3fbc4df77ba221eb58d71e084277593"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "058682a813033416d23cda67747bdc6b4b6685bd9bbba2d130201185ec63e2b4"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "a1d2a32d884eac369d95dfc382d5348cf679e280c8cba7465eee5d9b985b0372"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "f80e845692c8b618e895012f261652690598698ee7c1a0dce5d1a63d9ac344cb"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "c277ddd0e4ab2a5b76b0b10682923419d08639e8dc8ebe1d9d22757903714d1f"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "75d482950d812ea39b6f423d08be34664221e1ccdda2c84045e2d2878febf23b"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "c0ea1643681b68db7ffc5ff9edc404ef64ee80c6c6faa12d553e0b5afd7550ef"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "d9e33e4aeea3782e01d072177d5404c86c134bf20e99a08a8deeb774251cb218"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "731a00ccac923b2517d1735a7cfdb277e7a6ef8573bcc54b87c6a3a2407dc269"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "41f103ce1939e1c2430aa877a99318ebc24f988d18bc6065442f3851608fd5be"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "d2d077ac4109a8f4d275f06876640d70fc052ac7dc3822c066921e5044a5d76f"
+    },
+    {
+      "fileName": "terraform-provider-ionoscloud_6.6.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-ionoscloud_6.6.1_SHA256SUMS",
+      "hash": "ac0b5f5759ee632480b8fe030b5623864784353c7e8e80f62eea1e2904aafc1c"
+    }
+  ]
+}

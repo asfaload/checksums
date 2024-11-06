@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"/data/git/github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.0.5/checksums.txt","algo":"Sha256","source":"checksums.txt.sha256","hash":"033934BE9967A028E74275939084CFD03A44BEEB82F18F8656413BA8A1EC02CB"},{"fileName":"posh-darwin-amd64","algo":"Sha256","source":"checksums.txt","hash":"db40bdeca26013799b600b179812f042e2a1312754016b0f90fffdfe602b2e62"},{"fileName":"posh-darwin-arm64","algo":"Sha256","source":"checksums.txt","hash":"9c41d090764775e78842eaab119a765ce0488fc2377fa37a0a854f0bfc36e9d6"},{"fileName":"posh-freebsd-386","algo":"Sha256","source":"checksums.txt","hash":"cfde595cc269cf8b4436b72e6cb1406f4821feb3b4b90cab6e3b01cf7a4785a1"},{"fileName":"posh-freebsd-amd64","algo":"Sha256","source":"checksums.txt","hash":"31393c3fdc318a992473848a601cecd9a1bf9b8a3669b3adad2fbc750c512a23"},{"fileName":"posh-freebsd-arm","algo":"Sha256","source":"checksums.txt","hash":"12dc55b19a9d7a99f245343737ad4c73eacabd30c1a76c93fd01b366681b7dc2"},{"fileName":"posh-freebsd-arm64","algo":"Sha256","source":"checksums.txt","hash":"61e91ee584486c199655ef698c5b70c4cda43d6de409645cd6bbab5ca84782b8"},{"fileName":"posh-linux-386","algo":"Sha256","source":"checksums.txt","hash":"834c9a6356e509cb65617bf78bdd9329c419cb0c3191bb04193a3f488950c078"},{"fileName":"posh-linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"b346b26f4eb3c1a917bb0d30da766596fe4e02369ad6f3a28cd4a39e63aecac1"},{"fileName":"posh-linux-arm","algo":"Sha256","source":"checksums.txt","hash":"40a12ef3fdb8cfcd74b04a671dfd401482fb83ae28110a9d2b4e8df065f08560"},{"fileName":"posh-linux-arm64","algo":"Sha256","source":"checksums.txt","hash":"23ab9681f606c201810dd0b4c1761a6de9139b5b133d2a48455e2057bf332410"},{"fileName":"posh-windows-386.exe","algo":"Sha256","source":"checksums.txt","hash":"ec6c3d337488c4e92beec130ce13e5cf3006fdf9022af0f6de4007e0b19ee4a1"},{"fileName":"posh-windows-amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"d8a481102e836eb0b1ac1b8fec1f996935a6f2c9a576a92d70b7a404df6a4aad"},{"fileName":"posh-windows-arm64.exe","algo":"Sha256","source":"checksums.txt","hash":"7db8abf6987ce7164c804f2a65f5e5215c950290e69972095cd37286c61ea50c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "/data/git/github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.0.5/checksums.txt",
+      "algo": "Sha256",
+      "source": "checksums.txt.sha256",
+      "hash": "033934BE9967A028E74275939084CFD03A44BEEB82F18F8656413BA8A1EC02CB"
+    },
+    {
+      "fileName": "posh-darwin-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "db40bdeca26013799b600b179812f042e2a1312754016b0f90fffdfe602b2e62"
+    },
+    {
+      "fileName": "posh-darwin-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9c41d090764775e78842eaab119a765ce0488fc2377fa37a0a854f0bfc36e9d6"
+    },
+    {
+      "fileName": "posh-freebsd-386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cfde595cc269cf8b4436b72e6cb1406f4821feb3b4b90cab6e3b01cf7a4785a1"
+    },
+    {
+      "fileName": "posh-freebsd-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "31393c3fdc318a992473848a601cecd9a1bf9b8a3669b3adad2fbc750c512a23"
+    },
+    {
+      "fileName": "posh-freebsd-arm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "12dc55b19a9d7a99f245343737ad4c73eacabd30c1a76c93fd01b366681b7dc2"
+    },
+    {
+      "fileName": "posh-freebsd-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "61e91ee584486c199655ef698c5b70c4cda43d6de409645cd6bbab5ca84782b8"
+    },
+    {
+      "fileName": "posh-linux-386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "834c9a6356e509cb65617bf78bdd9329c419cb0c3191bb04193a3f488950c078"
+    },
+    {
+      "fileName": "posh-linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b346b26f4eb3c1a917bb0d30da766596fe4e02369ad6f3a28cd4a39e63aecac1"
+    },
+    {
+      "fileName": "posh-linux-arm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "40a12ef3fdb8cfcd74b04a671dfd401482fb83ae28110a9d2b4e8df065f08560"
+    },
+    {
+      "fileName": "posh-linux-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "23ab9681f606c201810dd0b4c1761a6de9139b5b133d2a48455e2057bf332410"
+    },
+    {
+      "fileName": "posh-windows-386.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ec6c3d337488c4e92beec130ce13e5cf3006fdf9022af0f6de4007e0b19ee4a1"
+    },
+    {
+      "fileName": "posh-windows-amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d8a481102e836eb0b1ac1b8fec1f996935a6f2c9a576a92d70b7a404df6a4aad"
+    },
+    {
+      "fileName": "posh-windows-arm64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7db8abf6987ce7164c804f2a65f5e5215c950290e69972095cd37286c61ea50c"
+    }
+  ]
+}

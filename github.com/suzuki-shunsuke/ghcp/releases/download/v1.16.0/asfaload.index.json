@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ghcp_darwin_amd64.tar.gz","algo":"Sha256","source":"ghcp_1.16.0_checksums.txt","hash":"ca5eb65ed4469148b539aa4b83e1fb77887fac3c36896df8e5cc8702e7488b1a"},{"fileName":"ghcp_darwin_arm64.tar.gz","algo":"Sha256","source":"ghcp_1.16.0_checksums.txt","hash":"56b0ed7135feb44a2a7ec6a8960ca1e4c15d64b45a4ecdb307fc91a4ebbf33ac"},{"fileName":"ghcp_linux_amd64.tar.gz","algo":"Sha256","source":"ghcp_1.16.0_checksums.txt","hash":"89d99fa73477c11a60b274e385b9e990125d411c73f971d4cf21069bf7db92c6"},{"fileName":"ghcp_linux_arm64.tar.gz","algo":"Sha256","source":"ghcp_1.16.0_checksums.txt","hash":"7de544bf3cd3fa2830671f078484f0aa2c9c8bec8d7e887835250e77a62cc775"},{"fileName":"ghcp_windows_amd64.zip","algo":"Sha256","source":"ghcp_1.16.0_checksums.txt","hash":"96a93551d3fa3760a85b0128ee0bc48b8913041022a2f59da1fd8fe3d9dfa1c5"},{"fileName":"ghcp_windows_arm64.zip","algo":"Sha256","source":"ghcp_1.16.0_checksums.txt","hash":"07ba508b368f50266e06ced36135f2a68d4816cdc38d739aa7e7d50e0cbfc265"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ghcp_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "ghcp_1.16.0_checksums.txt",
+      "hash": "ca5eb65ed4469148b539aa4b83e1fb77887fac3c36896df8e5cc8702e7488b1a"
+    },
+    {
+      "fileName": "ghcp_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "ghcp_1.16.0_checksums.txt",
+      "hash": "56b0ed7135feb44a2a7ec6a8960ca1e4c15d64b45a4ecdb307fc91a4ebbf33ac"
+    },
+    {
+      "fileName": "ghcp_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "ghcp_1.16.0_checksums.txt",
+      "hash": "89d99fa73477c11a60b274e385b9e990125d411c73f971d4cf21069bf7db92c6"
+    },
+    {
+      "fileName": "ghcp_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "ghcp_1.16.0_checksums.txt",
+      "hash": "7de544bf3cd3fa2830671f078484f0aa2c9c8bec8d7e887835250e77a62cc775"
+    },
+    {
+      "fileName": "ghcp_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "ghcp_1.16.0_checksums.txt",
+      "hash": "96a93551d3fa3760a85b0128ee0bc48b8913041022a2f59da1fd8fe3d9dfa1c5"
+    },
+    {
+      "fileName": "ghcp_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "ghcp_1.16.0_checksums.txt",
+      "hash": "07ba508b368f50266e06ced36135f2a68d4816cdc38d739aa7e7d50e0cbfc265"
+    }
+  ]
+}

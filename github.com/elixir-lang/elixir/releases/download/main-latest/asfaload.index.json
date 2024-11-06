@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"elixir-otp-27.exe","algo":"Sha256","source":"elixir-otp-27.exe.sha256sum","hash":"afee0a0e6cf2b6eb971d4532fd70be93825007193201c78361b02e38e4016533"},{"fileName":"elixir-otp-26.zip","algo":"Sha256","source":"elixir-otp-26.zip.sha256sum","hash":"7938b29b6af0398398281d1d9f0472ab4f2294607f8c1f362e064c9abab8237c"},{"fileName":"elixir-otp-27.zip","algo":"Sha256","source":"elixir-otp-27.zip.sha256sum","hash":"9f820445ba418cbea5c45c6cfb39fc36e33d94b18af895cac7f7c2832eb84df9"},{"fileName":"Docs.zip","algo":"Sha256","source":"Docs.zip.sha256sum","hash":"934003d94bc91b610e6b0ec6120ce9b999eb9bc9e507dc1f00b48c485c0d8e3c"},{"fileName":"elixir-otp-25.zip","algo":"Sha256","source":"elixir-otp-25.zip.sha256sum","hash":"f3b756c014a57de8c9066f72401c1cef7e53c826b9ad1af5b2cfb58dc205dbf7"},{"fileName":"elixir-otp-25.exe","algo":"Sha256","source":"elixir-otp-25.exe.sha256sum","hash":"bf69508c4a62acbe309086d14805a86a03baa765a4c518acf9d48d6ed0be0916"},{"fileName":"elixir-otp-26.exe","algo":"Sha256","source":"elixir-otp-26.exe.sha256sum","hash":"3d345bc70611750a59cc48d48c2dc9617ad9d1f66828c03c3f3ddc99fdaefede"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "elixir-otp-27.exe",
+      "algo": "Sha256",
+      "source": "elixir-otp-27.exe.sha256sum",
+      "hash": "afee0a0e6cf2b6eb971d4532fd70be93825007193201c78361b02e38e4016533"
+    },
+    {
+      "fileName": "elixir-otp-26.zip",
+      "algo": "Sha256",
+      "source": "elixir-otp-26.zip.sha256sum",
+      "hash": "7938b29b6af0398398281d1d9f0472ab4f2294607f8c1f362e064c9abab8237c"
+    },
+    {
+      "fileName": "elixir-otp-27.zip",
+      "algo": "Sha256",
+      "source": "elixir-otp-27.zip.sha256sum",
+      "hash": "9f820445ba418cbea5c45c6cfb39fc36e33d94b18af895cac7f7c2832eb84df9"
+    },
+    {
+      "fileName": "Docs.zip",
+      "algo": "Sha256",
+      "source": "Docs.zip.sha256sum",
+      "hash": "934003d94bc91b610e6b0ec6120ce9b999eb9bc9e507dc1f00b48c485c0d8e3c"
+    },
+    {
+      "fileName": "elixir-otp-25.zip",
+      "algo": "Sha256",
+      "source": "elixir-otp-25.zip.sha256sum",
+      "hash": "f3b756c014a57de8c9066f72401c1cef7e53c826b9ad1af5b2cfb58dc205dbf7"
+    },
+    {
+      "fileName": "elixir-otp-25.exe",
+      "algo": "Sha256",
+      "source": "elixir-otp-25.exe.sha256sum",
+      "hash": "bf69508c4a62acbe309086d14805a86a03baa765a4c518acf9d48d6ed0be0916"
+    },
+    {
+      "fileName": "elixir-otp-26.exe",
+      "algo": "Sha256",
+      "source": "elixir-otp-26.exe.sha256sum",
+      "hash": "3d345bc70611750a59cc48d48c2dc9617ad9d1f66828c03c3f3ddc99fdaefede"
+    }
+  ]
+}

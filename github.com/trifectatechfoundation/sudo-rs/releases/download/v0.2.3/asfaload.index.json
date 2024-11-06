@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"su-0.2.3.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"4c5caa260aa7f6856f9af6b9c9eb4c0b755371f5780149acb8d7a5db0972ee27"},{"fileName":"sudo-0.2.3.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"38f7939cb957f5c6ade5c735735bd25760305585e7880d0a4904b13bb62b0601"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "su-0.2.3.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "4c5caa260aa7f6856f9af6b9c9eb4c0b755371f5780149acb8d7a5db0972ee27"
+    },
+    {
+      "fileName": "sudo-0.2.3.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "38f7939cb957f5c6ade5c735735bd25760305585e7880d0a4904b13bb62b0601"
+    }
+  ]
+}

@@ -1,1 +1,331 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ipsw_3.1.551_iOS_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"185524da48cfa2adb61b8c42d72ea31b362536670a6e0afe4303b42792386f44"},{"fileName":"ipsw_3.1.551_iOS_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"e5ef87e4c8812aeb3e9695e777fb62ad55f0f4aeec42bbf7d2f9ad6ff83b6c08"},{"fileName":"ipsw_3.1.551_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"9560b67b2146b323153975a2819a356b79d8a7b650adeaf17d369f4b66f91b3e"},{"fileName":"ipsw_3.1.551_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"4dae50fcc244f2f9e3d77e60a86b59fc4b0312fdadc5811ac277903a6644f003"},{"fileName":"ipsw_3.1.551_linux_arm64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"f2cc1bfd916b4f7171e4412b94854a3ae1e85f6bcf0dc021d31fce672ece565d"},{"fileName":"ipsw_3.1.551_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"c7726f4d37c844053e84bc35ad7343b8465e8dea850bdc11cd431923dd2aaaf1"},{"fileName":"ipsw_3.1.551_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e0e173c5f09e7ec941cac35a66d4d809c2571e572e96f7eca9d892a52b0a12dd"},{"fileName":"ipsw_3.1.551_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"6ea7223a4fa87f51799003a10ff1955f4f6cce1d44275f7097ff47630e386829"},{"fileName":"ipsw_3.1.551_linux_x86_64.apk","algo":"Sha256","source":"checksums.txt","hash":"3ff5b133f3fba0285e655a0e8c92d1b2b17c83c99e2edb728f127855c428e13e"},{"fileName":"ipsw_3.1.551_linux_x86_64.deb","algo":"Sha256","source":"checksums.txt","hash":"a99b8c2c730a78a300d4ec8abb2f82cebeded49501e1a4ac0ece9b9147a4cb5c"},{"fileName":"ipsw_3.1.551_linux_x86_64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"554d70a30be286ea9ee1fd326fd7f3fe3356af585e9f5b6dc187a69a900044b4"},{"fileName":"ipsw_3.1.551_linux_x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"d2f749db487b3bf088b0b75cf0d650b067e7a004ab04567a7a310aa18e53659e"},{"fileName":"ipsw_3.1.551_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"519daa6324b97d5a467b300bb57fec72d20a89ab61a9bd600a7e3cccf4dee18e"},{"fileName":"ipsw_3.1.551_linux_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"b95a443696e4e04325637d16c44d1bb6097081f7c8b926a30416ca84e4b3bed0"},{"fileName":"ipsw_3.1.551_macOS_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"153a67618338ebd02d9d0bbac64f78b8aeda4b04d94b160eb91930d7bf011356"},{"fileName":"ipsw_3.1.551_macOS_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"53c0a547200dd36a9c4477d5c65cb02ff97ec816ea38c55d136b6bd675cfb7c5"},{"fileName":"ipsw_3.1.551_macOS_arm64_extras.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a0aafd6a2eaf6817ab10759c21e625e95005f42289a23f1b71f8a1d44f2c1dfc"},{"fileName":"ipsw_3.1.551_macOS_arm64_extras.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"15033777feda168096168db060b76ecbcba8687ec48a5c07899e737f526e937c"},{"fileName":"ipsw_3.1.551_macOS_arm64_frida.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6ef381763524279a724a2ab87d5edc057a9c5923221cdc0f5113cc0c0842b84d"},{"fileName":"ipsw_3.1.551_macOS_arm64_frida.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"f0e9a1f94d4d960e609ab7ac122c3d0524dc4e68c2e23fee6cd42901eb719075"},{"fileName":"ipsw_3.1.551_macOS_universal.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6b9d7c571904e10d655cb0afbc62f89b9c970b154d4d701e1b9b329947af5bc0"},{"fileName":"ipsw_3.1.551_macOS_universal.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"bacfdb3ba7c07471051bbcb5ca9518d9949d981b6aad8b0519ed1ce3d662c340"},{"fileName":"ipsw_3.1.551_macOS_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e7094603ea7fa861cc85b72cb7d38079993a395e99eb463c340ecb861c0aa4c8"},{"fileName":"ipsw_3.1.551_macOS_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"09e063294fe463b8f6539f7ebf4af9892157219df54a8681f1e008ad4d5f5204"},{"fileName":"ipsw_3.1.551_macOS_x86_64_extras.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"de45582d2bd4c67748b00c036531df4b1446a747e990ae0733bca02de2b79f53"},{"fileName":"ipsw_3.1.551_macOS_x86_64_extras.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"d2866157392f95dd0a1efb457b0ed18bc9d50fcd0fdce06902c441cb9da23c38"},{"fileName":"ipsw_3.1.551_macOS_x86_64_frida.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a8e757b292806f3a30783c321d6484b81f12d9340fdd97fd995443057f1227bf"},{"fileName":"ipsw_3.1.551_macOS_x86_64_frida.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"6ed800247aa58bd147be6fb140438791e50cca34b3a2c3c25c1cc33e34b6fa12"},{"fileName":"ipsw_3.1.551_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"9b453b147a5f71b96ca8a4f5c2c5ae1a15b752f4919af33780fb07c844ee4f83"},{"fileName":"ipsw_3.1.551_windows_arm64.zip.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"5ec3a2166b4c15982a7c22cd48bf3e89882b3e1cb559c3ca6f0d40aa24983057"},{"fileName":"ipsw_3.1.551_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"5d040db36642921418bd7aa9131c828b7a9bb669e331f364f1b0992c044054b3"},{"fileName":"ipsw_3.1.551_windows_x86_64.zip.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"353aedba98e465951c17bc44e2d2af753442161070e74908127a734beb69441b"},{"fileName":"ipswd_3.1.551_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"30e3917b0ffbb6b88c2074de5ee70e6137d411fa9761c1dd4987c02e8123ed26"},{"fileName":"ipswd_3.1.551_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"7af3ef3345d71a7d700fc00adb23d56549000cc23d3facdd57638b160953bcc2"},{"fileName":"ipswd_3.1.551_linux_arm64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"05bfdf989f43ef94a3bbeb2db4757ed697e53af5c5181915454fab182c9ea7cd"},{"fileName":"ipswd_3.1.551_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"c427ce358918c6804d9fb7d6e6bc18262d990d65892b1c746890dc1384cf5775"},{"fileName":"ipswd_3.1.551_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fd88eba5a1d5de5f62295eeea875d5e6923db8e3c8aa44a3dcfc3933d5975d3d"},{"fileName":"ipswd_3.1.551_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"8cb36d3ace0e442773ab491f898c5c12050f27dd9e68ad51c888074df7321f81"},{"fileName":"ipswd_3.1.551_linux_x86_64.apk","algo":"Sha256","source":"checksums.txt","hash":"eda9d23c5cb11b643c60e6cc1456c92b94f14e36b13dddd38213fde9a3e1dce9"},{"fileName":"ipswd_3.1.551_linux_x86_64.deb","algo":"Sha256","source":"checksums.txt","hash":"f4730ca049c6abb966500583e7ca0a874bbe6adf480faca1b379d7c7da07cbd2"},{"fileName":"ipswd_3.1.551_linux_x86_64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"a48be629accc8c8fa0808c5bd8e7a2b927c3a2365900684483d4b967d6de1750"},{"fileName":"ipswd_3.1.551_linux_x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"a7586765d465b1b41b3ff63bd81ff8b03618418b013e21de5a67b8c1cfb7069d"},{"fileName":"ipswd_3.1.551_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9d8b5c7ad26c89d257848e116b576ac83c9ede04f174fbfd04210bd26924f9bf"},{"fileName":"ipswd_3.1.551_linux_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"f93f567207b5f10ffb943ec118da21df91fa15df5a887bf6d79b900cd7038711"},{"fileName":"ipswd_3.1.551_macOS_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c4b8994d76a1f862f880f2aa2129c703638878f68095733728c337088b27d18e"},{"fileName":"ipswd_3.1.551_macOS_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"9c11968337f88518c511bfdc8efe0d3e1b1c01a51b314f68099cafb1067ed712"},{"fileName":"ipswd_3.1.551_macOS_universal.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"39fcaceb0167f5835bb8668503b1a4d5586578f7fa7dd84f01b6b9a10da70af1"},{"fileName":"ipswd_3.1.551_macOS_universal.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"a2434fc52106d627f9d6051dc3d08d591e195881bdc7afe207abdf70acd8926d"},{"fileName":"ipswd_3.1.551_macOS_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1a27e725da1339c91c32c11a6dd0a161f69653a1a375f65471a9e6c840c1aa67"},{"fileName":"ipswd_3.1.551_macOS_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"83c38b2db065c9db72b19c9c400593630bbc511943cd0a4a336bc7e8e7c43f59"},{"fileName":"ipswd_3.1.551_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"a4e7b2128f58966ac357aa4cb40cfa30a382d5742fa2c9e9584c6643f9b99ded"},{"fileName":"ipswd_3.1.551_windows_arm64.zip.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"d37c037437de1a8ebd8e234e59abccb92c8374615da6bf4398adb652f9e8bc71"},{"fileName":"ipswd_3.1.551_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"d70b7784d8e7a5fa5c6b69fc316950929ebb1d8922e9e35d0714475839a0b9c3"},{"fileName":"ipswd_3.1.551_windows_x86_64.zip.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"b26525bebee5a4ffccc500508ed8ea269dfe18ee4d759c81389b310db4d0f87a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ipsw_3.1.551_iOS_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "185524da48cfa2adb61b8c42d72ea31b362536670a6e0afe4303b42792386f44"
+    },
+    {
+      "fileName": "ipsw_3.1.551_iOS_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e5ef87e4c8812aeb3e9695e777fb62ad55f0f4aeec42bbf7d2f9ad6ff83b6c08"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9560b67b2146b323153975a2819a356b79d8a7b650adeaf17d369f4b66f91b3e"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4dae50fcc244f2f9e3d77e60a86b59fc4b0312fdadc5811ac277903a6644f003"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_arm64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f2cc1bfd916b4f7171e4412b94854a3ae1e85f6bcf0dc021d31fce672ece565d"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c7726f4d37c844053e84bc35ad7343b8465e8dea850bdc11cd431923dd2aaaf1"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e0e173c5f09e7ec941cac35a66d4d809c2571e572e96f7eca9d892a52b0a12dd"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6ea7223a4fa87f51799003a10ff1955f4f6cce1d44275f7097ff47630e386829"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_x86_64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3ff5b133f3fba0285e655a0e8c92d1b2b17c83c99e2edb728f127855c428e13e"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_x86_64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a99b8c2c730a78a300d4ec8abb2f82cebeded49501e1a4ac0ece9b9147a4cb5c"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_x86_64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "554d70a30be286ea9ee1fd326fd7f3fe3356af585e9f5b6dc187a69a900044b4"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d2f749db487b3bf088b0b75cf0d650b067e7a004ab04567a7a310aa18e53659e"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "519daa6324b97d5a467b300bb57fec72d20a89ab61a9bd600a7e3cccf4dee18e"
+    },
+    {
+      "fileName": "ipsw_3.1.551_linux_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b95a443696e4e04325637d16c44d1bb6097081f7c8b926a30416ca84e4b3bed0"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "153a67618338ebd02d9d0bbac64f78b8aeda4b04d94b160eb91930d7bf011356"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "53c0a547200dd36a9c4477d5c65cb02ff97ec816ea38c55d136b6bd675cfb7c5"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_arm64_extras.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a0aafd6a2eaf6817ab10759c21e625e95005f42289a23f1b71f8a1d44f2c1dfc"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_arm64_extras.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "15033777feda168096168db060b76ecbcba8687ec48a5c07899e737f526e937c"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_arm64_frida.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6ef381763524279a724a2ab87d5edc057a9c5923221cdc0f5113cc0c0842b84d"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_arm64_frida.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f0e9a1f94d4d960e609ab7ac122c3d0524dc4e68c2e23fee6cd42901eb719075"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_universal.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6b9d7c571904e10d655cb0afbc62f89b9c970b154d4d701e1b9b329947af5bc0"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_universal.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bacfdb3ba7c07471051bbcb5ca9518d9949d981b6aad8b0519ed1ce3d662c340"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e7094603ea7fa861cc85b72cb7d38079993a395e99eb463c340ecb861c0aa4c8"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "09e063294fe463b8f6539f7ebf4af9892157219df54a8681f1e008ad4d5f5204"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_x86_64_extras.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "de45582d2bd4c67748b00c036531df4b1446a747e990ae0733bca02de2b79f53"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_x86_64_extras.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d2866157392f95dd0a1efb457b0ed18bc9d50fcd0fdce06902c441cb9da23c38"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_x86_64_frida.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a8e757b292806f3a30783c321d6484b81f12d9340fdd97fd995443057f1227bf"
+    },
+    {
+      "fileName": "ipsw_3.1.551_macOS_x86_64_frida.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6ed800247aa58bd147be6fb140438791e50cca34b3a2c3c25c1cc33e34b6fa12"
+    },
+    {
+      "fileName": "ipsw_3.1.551_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9b453b147a5f71b96ca8a4f5c2c5ae1a15b752f4919af33780fb07c844ee4f83"
+    },
+    {
+      "fileName": "ipsw_3.1.551_windows_arm64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5ec3a2166b4c15982a7c22cd48bf3e89882b3e1cb559c3ca6f0d40aa24983057"
+    },
+    {
+      "fileName": "ipsw_3.1.551_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5d040db36642921418bd7aa9131c828b7a9bb669e331f364f1b0992c044054b3"
+    },
+    {
+      "fileName": "ipsw_3.1.551_windows_x86_64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "353aedba98e465951c17bc44e2d2af753442161070e74908127a734beb69441b"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "30e3917b0ffbb6b88c2074de5ee70e6137d411fa9761c1dd4987c02e8123ed26"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7af3ef3345d71a7d700fc00adb23d56549000cc23d3facdd57638b160953bcc2"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_arm64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "05bfdf989f43ef94a3bbeb2db4757ed697e53af5c5181915454fab182c9ea7cd"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c427ce358918c6804d9fb7d6e6bc18262d990d65892b1c746890dc1384cf5775"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fd88eba5a1d5de5f62295eeea875d5e6923db8e3c8aa44a3dcfc3933d5975d3d"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8cb36d3ace0e442773ab491f898c5c12050f27dd9e68ad51c888074df7321f81"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_x86_64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eda9d23c5cb11b643c60e6cc1456c92b94f14e36b13dddd38213fde9a3e1dce9"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_x86_64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f4730ca049c6abb966500583e7ca0a874bbe6adf480faca1b379d7c7da07cbd2"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_x86_64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a48be629accc8c8fa0808c5bd8e7a2b927c3a2365900684483d4b967d6de1750"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a7586765d465b1b41b3ff63bd81ff8b03618418b013e21de5a67b8c1cfb7069d"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9d8b5c7ad26c89d257848e116b576ac83c9ede04f174fbfd04210bd26924f9bf"
+    },
+    {
+      "fileName": "ipswd_3.1.551_linux_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f93f567207b5f10ffb943ec118da21df91fa15df5a887bf6d79b900cd7038711"
+    },
+    {
+      "fileName": "ipswd_3.1.551_macOS_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c4b8994d76a1f862f880f2aa2129c703638878f68095733728c337088b27d18e"
+    },
+    {
+      "fileName": "ipswd_3.1.551_macOS_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9c11968337f88518c511bfdc8efe0d3e1b1c01a51b314f68099cafb1067ed712"
+    },
+    {
+      "fileName": "ipswd_3.1.551_macOS_universal.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "39fcaceb0167f5835bb8668503b1a4d5586578f7fa7dd84f01b6b9a10da70af1"
+    },
+    {
+      "fileName": "ipswd_3.1.551_macOS_universal.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a2434fc52106d627f9d6051dc3d08d591e195881bdc7afe207abdf70acd8926d"
+    },
+    {
+      "fileName": "ipswd_3.1.551_macOS_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1a27e725da1339c91c32c11a6dd0a161f69653a1a375f65471a9e6c840c1aa67"
+    },
+    {
+      "fileName": "ipswd_3.1.551_macOS_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "83c38b2db065c9db72b19c9c400593630bbc511943cd0a4a336bc7e8e7c43f59"
+    },
+    {
+      "fileName": "ipswd_3.1.551_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a4e7b2128f58966ac357aa4cb40cfa30a382d5742fa2c9e9584c6643f9b99ded"
+    },
+    {
+      "fileName": "ipswd_3.1.551_windows_arm64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d37c037437de1a8ebd8e234e59abccb92c8374615da6bf4398adb652f9e8bc71"
+    },
+    {
+      "fileName": "ipswd_3.1.551_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d70b7784d8e7a5fa5c6b69fc316950929ebb1d8922e9e35d0714475839a0b9c3"
+    },
+    {
+      "fileName": "ipswd_3.1.551_windows_x86_64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b26525bebee5a4ffccc500508ed8ea269dfe18ee4d759c81389b310db4d0f87a"
+    }
+  ]
+}

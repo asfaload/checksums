@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"shuru_0.0.24_x86_64-unknown-linux-musl.tar.xz","algo":"Sha256","source":"shuru_0.0.24_x86_64-unknown-linux-musl.tar.xz.sha256sum","hash":"9a020ac0744a63fc882c1b939a00781064eb05821dc871960bf8871bea3f6a88"},{"fileName":"shuru_0.0.24_x86_64-unknown-linux-musl.tar.gz","algo":"Sha256","source":"shuru_0.0.24_x86_64-unknown-linux-musl.tar.gz.sha256sum","hash":"ef697a5063ca46108943fbf528034cb5c88885b4dec2bb4461e7254a7a8b56b4"},{"fileName":"shuru_0.0.24_x86_64-pc-windows-gnu.zip","algo":"Sha256","source":"shuru_0.0.24_x86_64-pc-windows-gnu.zip.sha256sum","hash":"61925f87fbf3411531ff09c52384908757a44bbcaba6484ce5d68b8f0d6ea223"},{"fileName":"shuru_0.0.24_x86_64-unknown-linux-musl.tar.zst","algo":"Sha256","source":"shuru_0.0.24_x86_64-unknown-linux-musl.tar.zst.sha256sum","hash":"2cd65feede95b330d673c1c85c16aa8b4b59da1c7021ccbd32a368fb8465b089"},{"fileName":"shuru_0.0.24_x86_64-apple-darwin.zip","algo":"Sha256","source":"shuru_0.0.24_x86_64-apple-darwin.zip.sha256sum","hash":"36d1b0eae20b0dc5ab03cd2ea78f2a7dfffc25da9efeca29dd6d8976318ce01a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "shuru_0.0.24_x86_64-unknown-linux-musl.tar.xz",
+      "algo": "Sha256",
+      "source": "shuru_0.0.24_x86_64-unknown-linux-musl.tar.xz.sha256sum",
+      "hash": "9a020ac0744a63fc882c1b939a00781064eb05821dc871960bf8871bea3f6a88"
+    },
+    {
+      "fileName": "shuru_0.0.24_x86_64-unknown-linux-musl.tar.gz",
+      "algo": "Sha256",
+      "source": "shuru_0.0.24_x86_64-unknown-linux-musl.tar.gz.sha256sum",
+      "hash": "ef697a5063ca46108943fbf528034cb5c88885b4dec2bb4461e7254a7a8b56b4"
+    },
+    {
+      "fileName": "shuru_0.0.24_x86_64-pc-windows-gnu.zip",
+      "algo": "Sha256",
+      "source": "shuru_0.0.24_x86_64-pc-windows-gnu.zip.sha256sum",
+      "hash": "61925f87fbf3411531ff09c52384908757a44bbcaba6484ce5d68b8f0d6ea223"
+    },
+    {
+      "fileName": "shuru_0.0.24_x86_64-unknown-linux-musl.tar.zst",
+      "algo": "Sha256",
+      "source": "shuru_0.0.24_x86_64-unknown-linux-musl.tar.zst.sha256sum",
+      "hash": "2cd65feede95b330d673c1c85c16aa8b4b59da1c7021ccbd32a368fb8465b089"
+    },
+    {
+      "fileName": "shuru_0.0.24_x86_64-apple-darwin.zip",
+      "algo": "Sha256",
+      "source": "shuru_0.0.24_x86_64-apple-darwin.zip.sha256sum",
+      "hash": "36d1b0eae20b0dc5ab03cd2ea78f2a7dfffc25da9efeca29dd6d8976318ce01a"
+    }
+  ]
+}

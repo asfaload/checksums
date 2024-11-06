@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tart-amd64.tar.gz","algo":"Sha256","source":"tart_2.18.5_checksums.txt","hash":"147a77140589217235e8e70fde0c3f38c5e1c7016ff9857a9fe4adf8cc8a1aee"},{"fileName":"tart-arm64.tar.gz","algo":"Sha256","source":"tart_2.18.5_checksums.txt","hash":"de66cee87949c4497d359cc9f086995844aa3f34bb393c3e23eb745c7db90ff4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tart-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "tart_2.18.5_checksums.txt",
+      "hash": "147a77140589217235e8e70fde0c3f38c5e1c7016ff9857a9fe4adf8cc8a1aee"
+    },
+    {
+      "fileName": "tart-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "tart_2.18.5_checksums.txt",
+      "hash": "de66cee87949c4497d359cc9f086995844aa3f34bb393c3e23eb745c7db90ff4"
+    }
+  ]
+}

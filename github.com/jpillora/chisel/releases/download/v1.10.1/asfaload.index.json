@@ -1,1 +1,499 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"chisel_1.10.1_darwin_amd64.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"5a7e6ba198e840492d34d7110e1c90118642faac542773121a4c4cc9b44c226a"},{"fileName":"chisel_1.10.1_darwin_arm64.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"474bf6d3dd92c9162950d1a8d8e912709b1e48494ca6af5dc5d0381ab80e56bd"},{"fileName":"chisel_1.10.1_linux_386.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"f9f23abaf4a8b2e82abd3fd627d2dbabbd703db3c93aea318e09c4aea95ba897"},{"fileName":"chisel_1.10.1_linux_386.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"c8f1c81dee66b2efecd475a97bbeb564af12e4387f89cdc25ecd3398c2a4f1c8"},{"fileName":"chisel_1.10.1_linux_386.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"9737179a33736ecfd3bc6c25d48c0b64285bbc7d06f6494f8650e945cf538741"},{"fileName":"chisel_1.10.1_linux_386.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"d9d1b46ff5905b8a7222138ab9f8305c45b4c9dca1884af13019610fc221849b"},{"fileName":"chisel_1.10.1_linux_amd64.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"d233d1dbf4237cb8bb1f876a7d3a590d00f21c278d0b54e467db017cd09fd6f6"},{"fileName":"chisel_1.10.1_linux_amd64.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"0c7e4abb892faca44dbc9b7363af27e3859b68492e10771fea446fd5e8535e5d"},{"fileName":"chisel_1.10.1_linux_amd64.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"0525aa3c5d457f2a4075e66221d5125d434bedf15006d3271c213f5cd6ff2230"},{"fileName":"chisel_1.10.1_linux_amd64.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"9900b9ebef254324d9d31d13e619e4eeb583c6797b8028fcea04d38c20c477f3"},{"fileName":"chisel_1.10.1_linux_arm64.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"5081b59f818900e90c2c0bb4e014dd28d33e10fc09d4055558d8c16ffdb483ea"},{"fileName":"chisel_1.10.1_linux_arm64.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"057efeb0f423b60bfcc3338519a58cf7dcfdedd2aec3420cb1d7c21ce84217f8"},{"fileName":"chisel_1.10.1_linux_arm64.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"f55beb68fb99b69903df1adcff4197fbfdb82cb0ee596848c0f055dc219da983"},{"fileName":"chisel_1.10.1_linux_arm64.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"a9f6c52651d5b28f283a631d1a400cd33af9716d3d8dbeaf90ff5d1f438a41da"},{"fileName":"chisel_1.10.1_linux_armv5.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"e7c1299a08ac0372ed0ab38374a89b71b7237f4c44f564158a5f497e3f940915"},{"fileName":"chisel_1.10.1_linux_armv5.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"3060a71e29c187d03502f001db6b7216959814d910f32fa4e650420c4f499e6b"},{"fileName":"chisel_1.10.1_linux_armv5.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"d72acf842cc1242abc4c6856b39ae942a313dc4ea45f8b73afb61968bc9f9112"},{"fileName":"chisel_1.10.1_linux_armv5.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"29eeea6cebc84a2edea00f704d2c95f8854f7aadcbc824910e9d6ba18e1fc161"},{"fileName":"chisel_1.10.1_linux_armv6.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"c8145c5b2f075d044adabe36330dc23ad70e82240c03df6db25ad1f88ec9e9db"},{"fileName":"chisel_1.10.1_linux_armv6.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"004b92b35b0789430a628de28ded38cff3815557fdae54e85eb948c753df6034"},{"fileName":"chisel_1.10.1_linux_armv6.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"bc9f6f07709af29191d77a48f451404c0d0fbff686460b3d11982ab1420fce9f"},{"fileName":"chisel_1.10.1_linux_armv6.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"fd7df55f7179d2935cca10464984c25dac514c621d87ddf2cf1bde47227f9ff6"},{"fileName":"chisel_1.10.1_linux_armv7.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"132e8fed78a0673103475218fbb5d6bc6f20fee1a428386d8e9e50e07719c27f"},{"fileName":"chisel_1.10.1_linux_armv7.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"bc0ecb186f065b81496684a600728723b9286860618814abf2fc2d96f92498a1"},{"fileName":"chisel_1.10.1_linux_armv7.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"f81c1497d22caa0bb6e461b36e9f46a27f9edeaae3e3994aae2f8a5c2c9b84ef"},{"fileName":"chisel_1.10.1_linux_armv7.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"b21acaf2787d4757c5efa646eb878a7b02d5efc6ee41aaebd9b55c9a63a9b413"},{"fileName":"chisel_1.10.1_linux_mips64_hardfloat.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"d35488c1cc73f6cbd1cfae9ec8aebaed3d18cfa487405cd8b50336db2887264c"},{"fileName":"chisel_1.10.1_linux_mips64_hardfloat.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"a8cd1068ada3abfd4c9cde0d8cf35117d1abf820f9eac2ca54ef64bcbb4c5673"},{"fileName":"chisel_1.10.1_linux_mips64_hardfloat.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"4f2eadde4c2751a9cf627da648b9b84444253fdffe965da46d55fe5dbe50a940"},{"fileName":"chisel_1.10.1_linux_mips64_hardfloat.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"f91f7252bef2f1bf355097c038727846317e746be463c0aa4f78e219d4c48d56"},{"fileName":"chisel_1.10.1_linux_mips64_softfloat.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"4ebb85ec40b8c09e95fcc1b830e04ec689c9e58c3d617b5560de95047930886a"},{"fileName":"chisel_1.10.1_linux_mips64_softfloat.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"5c17128c09d005c48142e096f6488f8573d0bf4ec0f53a228565bccb9c4956d9"},{"fileName":"chisel_1.10.1_linux_mips64_softfloat.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"bcc5d164b4116f5a305b656e8092eb55c5231dd0be4d7b3c3fccf3c39fe3e851"},{"fileName":"chisel_1.10.1_linux_mips64_softfloat.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"15432f8320384b2e7c21ba34f46986ae232acb4c5bcdcbd0dce2a49cf0a763df"},{"fileName":"chisel_1.10.1_linux_mips64le_hardfloat.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"46bab87c019ea7132be5d44cd9d3e889326423ec1e73feb87de0c20f00b84e24"},{"fileName":"chisel_1.10.1_linux_mips64le_hardfloat.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"25c4405af1903c6c0a80885bebedb5012cc92d2952049395ae1121fbc3f398c8"},{"fileName":"chisel_1.10.1_linux_mips64le_hardfloat.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"25b193965b24667bc2dbbc41485cbd0b1d12b06033df65455ce822fe0e13fbb4"},{"fileName":"chisel_1.10.1_linux_mips64le_hardfloat.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"6969a44af067eb26c6fd60f6b55e977de81041551d1ea2c81f99e2401cca0bfa"},{"fileName":"chisel_1.10.1_linux_mips64le_softfloat.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"e37dc7cc391f86d087f36ca6eb0869438d4848fa7d36a319e6444cc845c3ddbc"},{"fileName":"chisel_1.10.1_linux_mips64le_softfloat.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"ef9d27b03bce468c66c4c5cc996700ba25f2f935b23700b5bdae73adc3ad70a8"},{"fileName":"chisel_1.10.1_linux_mips64le_softfloat.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"e0e32a966ed7605a67dcb8c7d5d425460d84dca99f6a9464bda12f9941dbbd7f"},{"fileName":"chisel_1.10.1_linux_mips64le_softfloat.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"3ecf8ef01ef9521532ebb4cb71e63b6de3122aeb0e7fe79469fbba8e7053e4a1"},{"fileName":"chisel_1.10.1_linux_mips_hardfloat.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"7d9f03076abf1ea87b272205a8d52b08405eab0d998f2d6781728438ed13b407"},{"fileName":"chisel_1.10.1_linux_mips_hardfloat.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"57955ae18b868697009bdd553fdb815a8b4990f5e9405d3d06c2065b1c6e2150"},{"fileName":"chisel_1.10.1_linux_mips_hardfloat.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"1042ee64aa4047e2e0b5b7125c75a00feecfcc04a0b7459014f208e83d180928"},{"fileName":"chisel_1.10.1_linux_mips_hardfloat.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"71b4a8a07664e6e4e9ce09ab70f0a7a8a7ee59a9b6312981a6f108a84d3fc98f"},{"fileName":"chisel_1.10.1_linux_mips_softfloat.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"18f4a18e6fc69066cc5dea4a2a8c7fad1f0f9bafa526b4dc4195c4bc60e93750"},{"fileName":"chisel_1.10.1_linux_mips_softfloat.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"cca5b9b614cd6078e410d2185692e12f2b4c83c3cbb88433ef9d3d770d3106ef"},{"fileName":"chisel_1.10.1_linux_mips_softfloat.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"e01c7c0915dc00ca150d76060d8aa62dacaf6026f91afa6883a7df94e5db4c92"},{"fileName":"chisel_1.10.1_linux_mips_softfloat.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"cf0037dc02b2cb83b59a69b615c3af49efeab73d6cfdeb5f9b4b38c43408a0f4"},{"fileName":"chisel_1.10.1_linux_mipsle_hardfloat.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"921bd5c358a039318b864f03046d5309adcd66d5f75eed4ef88a44a10329831a"},{"fileName":"chisel_1.10.1_linux_mipsle_hardfloat.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"db93102435c9a70fac5e4b5b7f69218a2729e598fcffcd9f2b7fbfbb25de6756"},{"fileName":"chisel_1.10.1_linux_mipsle_hardfloat.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"fb7b1b94a339a1d73f5485d6700fddde86593194aea357fc92ec1eb4899e2f08"},{"fileName":"chisel_1.10.1_linux_mipsle_hardfloat.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"ce3e6c4ae1792cb66929641f02e231731fdab00fadaed3456f545410950ad1e6"},{"fileName":"chisel_1.10.1_linux_mipsle_softfloat.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"3a8a9c1940501b91ca75c3afaa3db854b7e3eb3207b6de1eccc730254fbd927a"},{"fileName":"chisel_1.10.1_linux_mipsle_softfloat.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"45de9ce877951922523c19cdc02a39b662e404e489d9b5ec3f55e7e532b66f6b"},{"fileName":"chisel_1.10.1_linux_mipsle_softfloat.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"145d412e9b8b954af9fce01d1f5092ecd3d502eb1674bbab905ee8c5d3adec59"},{"fileName":"chisel_1.10.1_linux_mipsle_softfloat.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"601532184762bc57088a20f360c1fdfd732d977b0799c645a1d565decf7ea5a0"},{"fileName":"chisel_1.10.1_linux_ppc64.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"8ceb141a117766315741d6d482779a79c6f47cc7c4f9cfc0ce344c312b554051"},{"fileName":"chisel_1.10.1_linux_ppc64.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"81c7e7da44727ed06371ba900fcf236e5513afd0ce45c8e27ac41c260261f1b8"},{"fileName":"chisel_1.10.1_linux_ppc64.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"f42f2bacc857347ec28669908f56c894377d685738b3686e661619d2e9b22922"},{"fileName":"chisel_1.10.1_linux_ppc64.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"d5d05181d792a97d5f74ba42aebfeb06c0778d332fd1480222308c2f8e0b3e6b"},{"fileName":"chisel_1.10.1_linux_ppc64le.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"fa38b5109751afdc4142b7322dc217e3e66ea14e71aa5712de4fd40a2502d845"},{"fileName":"chisel_1.10.1_linux_ppc64le.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"51ed594f1ca5f8316b0abdd8b21afd7a001d73329cb79a5da51a894e6c039a11"},{"fileName":"chisel_1.10.1_linux_ppc64le.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"8f90059be4495b84ec75ae64de0b84b7f588bfb79c0d3a9e98e5e32e01dbb283"},{"fileName":"chisel_1.10.1_linux_ppc64le.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"6b0e59956d9bbde87523f825378b7636966d9a1ae4d17f3131fecc06cd4f7d1a"},{"fileName":"chisel_1.10.1_linux_s390x.apk","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"31bb9be2f13883cab6ac4d45a476b4ca5698b7fcd30a5b825de5b4ab8f5276e9"},{"fileName":"chisel_1.10.1_linux_s390x.deb","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"1294bab66f271960fd0762509901e174626ceb4d49ad50207e5898c8a07db3cc"},{"fileName":"chisel_1.10.1_linux_s390x.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"80d57ef943d2a9fc5c18d0c0d852a585b0ba6ba4b9388d9592b143b7ad151531"},{"fileName":"chisel_1.10.1_linux_s390x.rpm","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"40a1660e9bce9cdd774e71c4c1564126b5800db14eac212572c8fe1c93282866"},{"fileName":"chisel_1.10.1_openbsd_386.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"ec827a104f2eab50becc0f252c1209739b38a9ffb6cebb9fae2008f9e0b27c5f"},{"fileName":"chisel_1.10.1_openbsd_amd64.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"abcad82bc9de4f7c8112f8ef152170cd66dd3472a0109a4714097ac425d53b9b"},{"fileName":"chisel_1.10.1_openbsd_arm64.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"b333546e9e954ed72df741941e0f529293b2ff6c39d2e68c47a6172d57c3b8eb"},{"fileName":"chisel_1.10.1_openbsd_armv5.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"fa5f64917a058fc46bfb6060dbf4acce07ba10266425c87cb8177ae3f30546cc"},{"fileName":"chisel_1.10.1_openbsd_armv6.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"8a26bb01e04de92bdf060fe8ed384f5f086d364a45a5cad2179e6d81e4886809"},{"fileName":"chisel_1.10.1_openbsd_armv7.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"f8a9973e15a8862121800bc3a21083fa6d6d09bee0f3cd7aa564d63d5b710284"},{"fileName":"chisel_1.10.1_windows_386.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"9af93373a3cfb8a43dd857050d3b265b70270b23184ce7ae47674c69ca44fd3c"},{"fileName":"chisel_1.10.1_windows_amd64.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"42fd40bb0e6e8e0072a83f3a824de5045636c1cc8e3819daa3c9b7a985a2cc58"},{"fileName":"chisel_1.10.1_windows_arm64.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"20f6f8967ac6e4c0b9113cd07fff7b1f7061887ab469e7246724be67410f5663"},{"fileName":"chisel_1.10.1_windows_armv5.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"8ca8a0ebb05bc9ea5e23e6a1a54802f2c228fb02b8e9232178e12cde277e57ec"},{"fileName":"chisel_1.10.1_windows_armv6.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"1aa12ee6f53f6e6f233e017cd39e697f2935861c2b071d5fee1abff154ac42b8"},{"fileName":"chisel_1.10.1_windows_armv7.gz","algo":"Sha256","source":"chisel_1.10.1_checksums.txt","hash":"41bc1e4b6a135da959b396a64c6e2fc8288222ccb10434e63451396e16732435"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "chisel_1.10.1_darwin_amd64.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "5a7e6ba198e840492d34d7110e1c90118642faac542773121a4c4cc9b44c226a"
+    },
+    {
+      "fileName": "chisel_1.10.1_darwin_arm64.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "474bf6d3dd92c9162950d1a8d8e912709b1e48494ca6af5dc5d0381ab80e56bd"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_386.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "f9f23abaf4a8b2e82abd3fd627d2dbabbd703db3c93aea318e09c4aea95ba897"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_386.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "c8f1c81dee66b2efecd475a97bbeb564af12e4387f89cdc25ecd3398c2a4f1c8"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_386.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "9737179a33736ecfd3bc6c25d48c0b64285bbc7d06f6494f8650e945cf538741"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "d9d1b46ff5905b8a7222138ab9f8305c45b4c9dca1884af13019610fc221849b"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "d233d1dbf4237cb8bb1f876a7d3a590d00f21c278d0b54e467db017cd09fd6f6"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "0c7e4abb892faca44dbc9b7363af27e3859b68492e10771fea446fd5e8535e5d"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_amd64.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "0525aa3c5d457f2a4075e66221d5125d434bedf15006d3271c213f5cd6ff2230"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "9900b9ebef254324d9d31d13e619e4eeb583c6797b8028fcea04d38c20c477f3"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "5081b59f818900e90c2c0bb4e014dd28d33e10fc09d4055558d8c16ffdb483ea"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "057efeb0f423b60bfcc3338519a58cf7dcfdedd2aec3420cb1d7c21ce84217f8"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_arm64.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "f55beb68fb99b69903df1adcff4197fbfdb82cb0ee596848c0f055dc219da983"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "a9f6c52651d5b28f283a631d1a400cd33af9716d3d8dbeaf90ff5d1f438a41da"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv5.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "e7c1299a08ac0372ed0ab38374a89b71b7237f4c44f564158a5f497e3f940915"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv5.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "3060a71e29c187d03502f001db6b7216959814d910f32fa4e650420c4f499e6b"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv5.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "d72acf842cc1242abc4c6856b39ae942a313dc4ea45f8b73afb61968bc9f9112"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv5.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "29eeea6cebc84a2edea00f704d2c95f8854f7aadcbc824910e9d6ba18e1fc161"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv6.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "c8145c5b2f075d044adabe36330dc23ad70e82240c03df6db25ad1f88ec9e9db"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv6.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "004b92b35b0789430a628de28ded38cff3815557fdae54e85eb948c753df6034"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv6.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "bc9f6f07709af29191d77a48f451404c0d0fbff686460b3d11982ab1420fce9f"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv6.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "fd7df55f7179d2935cca10464984c25dac514c621d87ddf2cf1bde47227f9ff6"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv7.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "132e8fed78a0673103475218fbb5d6bc6f20fee1a428386d8e9e50e07719c27f"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "bc0ecb186f065b81496684a600728723b9286860618814abf2fc2d96f92498a1"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv7.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "f81c1497d22caa0bb6e461b36e9f46a27f9edeaae3e3994aae2f8a5c2c9b84ef"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "b21acaf2787d4757c5efa646eb878a7b02d5efc6ee41aaebd9b55c9a63a9b413"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64_hardfloat.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "d35488c1cc73f6cbd1cfae9ec8aebaed3d18cfa487405cd8b50336db2887264c"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64_hardfloat.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "a8cd1068ada3abfd4c9cde0d8cf35117d1abf820f9eac2ca54ef64bcbb4c5673"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64_hardfloat.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "4f2eadde4c2751a9cf627da648b9b84444253fdffe965da46d55fe5dbe50a940"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64_hardfloat.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "f91f7252bef2f1bf355097c038727846317e746be463c0aa4f78e219d4c48d56"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64_softfloat.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "4ebb85ec40b8c09e95fcc1b830e04ec689c9e58c3d617b5560de95047930886a"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64_softfloat.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "5c17128c09d005c48142e096f6488f8573d0bf4ec0f53a228565bccb9c4956d9"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64_softfloat.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "bcc5d164b4116f5a305b656e8092eb55c5231dd0be4d7b3c3fccf3c39fe3e851"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64_softfloat.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "15432f8320384b2e7c21ba34f46986ae232acb4c5bcdcbd0dce2a49cf0a763df"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64le_hardfloat.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "46bab87c019ea7132be5d44cd9d3e889326423ec1e73feb87de0c20f00b84e24"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64le_hardfloat.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "25c4405af1903c6c0a80885bebedb5012cc92d2952049395ae1121fbc3f398c8"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64le_hardfloat.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "25b193965b24667bc2dbbc41485cbd0b1d12b06033df65455ce822fe0e13fbb4"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64le_hardfloat.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "6969a44af067eb26c6fd60f6b55e977de81041551d1ea2c81f99e2401cca0bfa"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64le_softfloat.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "e37dc7cc391f86d087f36ca6eb0869438d4848fa7d36a319e6444cc845c3ddbc"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64le_softfloat.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "ef9d27b03bce468c66c4c5cc996700ba25f2f935b23700b5bdae73adc3ad70a8"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64le_softfloat.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "e0e32a966ed7605a67dcb8c7d5d425460d84dca99f6a9464bda12f9941dbbd7f"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips64le_softfloat.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "3ecf8ef01ef9521532ebb4cb71e63b6de3122aeb0e7fe79469fbba8e7053e4a1"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips_hardfloat.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "7d9f03076abf1ea87b272205a8d52b08405eab0d998f2d6781728438ed13b407"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips_hardfloat.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "57955ae18b868697009bdd553fdb815a8b4990f5e9405d3d06c2065b1c6e2150"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips_hardfloat.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "1042ee64aa4047e2e0b5b7125c75a00feecfcc04a0b7459014f208e83d180928"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips_hardfloat.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "71b4a8a07664e6e4e9ce09ab70f0a7a8a7ee59a9b6312981a6f108a84d3fc98f"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips_softfloat.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "18f4a18e6fc69066cc5dea4a2a8c7fad1f0f9bafa526b4dc4195c4bc60e93750"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips_softfloat.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "cca5b9b614cd6078e410d2185692e12f2b4c83c3cbb88433ef9d3d770d3106ef"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips_softfloat.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "e01c7c0915dc00ca150d76060d8aa62dacaf6026f91afa6883a7df94e5db4c92"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mips_softfloat.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "cf0037dc02b2cb83b59a69b615c3af49efeab73d6cfdeb5f9b4b38c43408a0f4"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mipsle_hardfloat.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "921bd5c358a039318b864f03046d5309adcd66d5f75eed4ef88a44a10329831a"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mipsle_hardfloat.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "db93102435c9a70fac5e4b5b7f69218a2729e598fcffcd9f2b7fbfbb25de6756"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mipsle_hardfloat.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "fb7b1b94a339a1d73f5485d6700fddde86593194aea357fc92ec1eb4899e2f08"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mipsle_hardfloat.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "ce3e6c4ae1792cb66929641f02e231731fdab00fadaed3456f545410950ad1e6"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mipsle_softfloat.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "3a8a9c1940501b91ca75c3afaa3db854b7e3eb3207b6de1eccc730254fbd927a"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mipsle_softfloat.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "45de9ce877951922523c19cdc02a39b662e404e489d9b5ec3f55e7e532b66f6b"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mipsle_softfloat.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "145d412e9b8b954af9fce01d1f5092ecd3d502eb1674bbab905ee8c5d3adec59"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_mipsle_softfloat.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "601532184762bc57088a20f360c1fdfd732d977b0799c645a1d565decf7ea5a0"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_ppc64.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "8ceb141a117766315741d6d482779a79c6f47cc7c4f9cfc0ce344c312b554051"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_ppc64.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "81c7e7da44727ed06371ba900fcf236e5513afd0ce45c8e27ac41c260261f1b8"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_ppc64.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "f42f2bacc857347ec28669908f56c894377d685738b3686e661619d2e9b22922"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_ppc64.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "d5d05181d792a97d5f74ba42aebfeb06c0778d332fd1480222308c2f8e0b3e6b"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_ppc64le.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "fa38b5109751afdc4142b7322dc217e3e66ea14e71aa5712de4fd40a2502d845"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_ppc64le.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "51ed594f1ca5f8316b0abdd8b21afd7a001d73329cb79a5da51a894e6c039a11"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_ppc64le.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "8f90059be4495b84ec75ae64de0b84b7f588bfb79c0d3a9e98e5e32e01dbb283"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_ppc64le.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "6b0e59956d9bbde87523f825378b7636966d9a1ae4d17f3131fecc06cd4f7d1a"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_s390x.apk",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "31bb9be2f13883cab6ac4d45a476b4ca5698b7fcd30a5b825de5b4ab8f5276e9"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_s390x.deb",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "1294bab66f271960fd0762509901e174626ceb4d49ad50207e5898c8a07db3cc"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_s390x.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "80d57ef943d2a9fc5c18d0c0d852a585b0ba6ba4b9388d9592b143b7ad151531"
+    },
+    {
+      "fileName": "chisel_1.10.1_linux_s390x.rpm",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "40a1660e9bce9cdd774e71c4c1564126b5800db14eac212572c8fe1c93282866"
+    },
+    {
+      "fileName": "chisel_1.10.1_openbsd_386.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "ec827a104f2eab50becc0f252c1209739b38a9ffb6cebb9fae2008f9e0b27c5f"
+    },
+    {
+      "fileName": "chisel_1.10.1_openbsd_amd64.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "abcad82bc9de4f7c8112f8ef152170cd66dd3472a0109a4714097ac425d53b9b"
+    },
+    {
+      "fileName": "chisel_1.10.1_openbsd_arm64.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "b333546e9e954ed72df741941e0f529293b2ff6c39d2e68c47a6172d57c3b8eb"
+    },
+    {
+      "fileName": "chisel_1.10.1_openbsd_armv5.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "fa5f64917a058fc46bfb6060dbf4acce07ba10266425c87cb8177ae3f30546cc"
+    },
+    {
+      "fileName": "chisel_1.10.1_openbsd_armv6.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "8a26bb01e04de92bdf060fe8ed384f5f086d364a45a5cad2179e6d81e4886809"
+    },
+    {
+      "fileName": "chisel_1.10.1_openbsd_armv7.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "f8a9973e15a8862121800bc3a21083fa6d6d09bee0f3cd7aa564d63d5b710284"
+    },
+    {
+      "fileName": "chisel_1.10.1_windows_386.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "9af93373a3cfb8a43dd857050d3b265b70270b23184ce7ae47674c69ca44fd3c"
+    },
+    {
+      "fileName": "chisel_1.10.1_windows_amd64.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "42fd40bb0e6e8e0072a83f3a824de5045636c1cc8e3819daa3c9b7a985a2cc58"
+    },
+    {
+      "fileName": "chisel_1.10.1_windows_arm64.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "20f6f8967ac6e4c0b9113cd07fff7b1f7061887ab469e7246724be67410f5663"
+    },
+    {
+      "fileName": "chisel_1.10.1_windows_armv5.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "8ca8a0ebb05bc9ea5e23e6a1a54802f2c228fb02b8e9232178e12cde277e57ec"
+    },
+    {
+      "fileName": "chisel_1.10.1_windows_armv6.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "1aa12ee6f53f6e6f233e017cd39e697f2935861c2b071d5fee1abff154ac42b8"
+    },
+    {
+      "fileName": "chisel_1.10.1_windows_armv7.gz",
+      "algo": "Sha256",
+      "source": "chisel_1.10.1_checksums.txt",
+      "hash": "41bc1e4b6a135da959b396a64c6e2fc8288222ccb10434e63451396e16732435"
+    }
+  ]
+}

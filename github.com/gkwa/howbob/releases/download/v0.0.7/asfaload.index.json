@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"howbob_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f579dfc9799a6852c7ebd36ce4359b627e72ee2881f1aa62c690ae7ac7a1f876"},{"fileName":"howbob_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"04897251619ca799bb5b83311a348d55e13d2c8d8673eb5671389d876d535a64"},{"fileName":"howbob_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"0717d076b94a8d12c378159f55981aca7dbd51423cf67cfb82413184f852c998"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "howbob_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f579dfc9799a6852c7ebd36ce4359b627e72ee2881f1aa62c690ae7ac7a1f876"
+    },
+    {
+      "fileName": "howbob_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "04897251619ca799bb5b83311a348d55e13d2c8d8673eb5671389d876d535a64"
+    },
+    {
+      "fileName": "howbob_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0717d076b94a8d12c378159f55981aca7dbd51423cf67cfb82413184f852c998"
+    }
+  ]
+}

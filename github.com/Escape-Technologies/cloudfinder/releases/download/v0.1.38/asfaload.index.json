@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-06T00:10:46+00:00","publishedOn":"2024-11-06T01:07:57.6883772+00:00","version":1,"publishedFiles":[{"fileName":"cloudfinder_0.1.38_darwin_amd64.tar.gz","algo":"Sha256","source":"cloudfinder_0.1.38_checksums.txt","hash":"f1d01aa9eb394e752d5483958377efcec2a2464f33f9896ae74fccbc8326abe6"},{"fileName":"cloudfinder_0.1.38_darwin_arm64.tar.gz","algo":"Sha256","source":"cloudfinder_0.1.38_checksums.txt","hash":"5d1d7f439c94011db1727df881fc1e2d7d0b7c59f3872960517deade965ce8ea"},{"fileName":"cloudfinder_0.1.38_linux_amd64.tar.gz","algo":"Sha256","source":"cloudfinder_0.1.38_checksums.txt","hash":"ab7fba1a13afccc2c400d1f7fd24832537f9ad05500ad85dfb570c034102b50c"},{"fileName":"cloudfinder_0.1.38_linux_arm64.tar.gz","algo":"Sha256","source":"cloudfinder_0.1.38_checksums.txt","hash":"1d70ea760ceeb0d851597dcc67398871e1815420a219b0bc157e30971f308fed"},{"fileName":"cloudfinder_0.1.38_windows_amd64.tar.gz","algo":"Sha256","source":"cloudfinder_0.1.38_checksums.txt","hash":"6d711500feeaef6873643862508af2af43a386b1c97654a260f7fc283a5b2a82"},{"fileName":"cloudfinder_0.1.38_windows_arm64.tar.gz","algo":"Sha256","source":"cloudfinder_0.1.38_checksums.txt","hash":"a3c87a69ba50c2123b49e4674b8a86446f7123af8ee829c8988d26fcf39fe736"}]}
+{
+  "mirroredOn": "2024-11-06T01:07:57.6883772+00:00",
+  "publishedOn": "2024-11-06T00:10:46+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cloudfinder_0.1.38_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloudfinder_0.1.38_checksums.txt",
+      "hash": "f1d01aa9eb394e752d5483958377efcec2a2464f33f9896ae74fccbc8326abe6"
+    },
+    {
+      "fileName": "cloudfinder_0.1.38_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloudfinder_0.1.38_checksums.txt",
+      "hash": "5d1d7f439c94011db1727df881fc1e2d7d0b7c59f3872960517deade965ce8ea"
+    },
+    {
+      "fileName": "cloudfinder_0.1.38_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloudfinder_0.1.38_checksums.txt",
+      "hash": "ab7fba1a13afccc2c400d1f7fd24832537f9ad05500ad85dfb570c034102b50c"
+    },
+    {
+      "fileName": "cloudfinder_0.1.38_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloudfinder_0.1.38_checksums.txt",
+      "hash": "1d70ea760ceeb0d851597dcc67398871e1815420a219b0bc157e30971f308fed"
+    },
+    {
+      "fileName": "cloudfinder_0.1.38_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloudfinder_0.1.38_checksums.txt",
+      "hash": "6d711500feeaef6873643862508af2af43a386b1c97654a260f7fc283a5b2a82"
+    },
+    {
+      "fileName": "cloudfinder_0.1.38_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloudfinder_0.1.38_checksums.txt",
+      "hash": "a3c87a69ba50c2123b49e4674b8a86446f7123af8ee829c8988d26fcf39fe736"
+    }
+  ]
+}

@@ -1,1 +1,85 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"nuru.linux-386.deb","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"f66bdcda6e033d63e1e8ebe453b40c5d3e921ce63e62ec3c5614f596c6eb9fee"},{"fileName":"nuru.linux-amd64.deb","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"66ea30dcfd4398a84ff71f23361c38f1e1f5697456a5356b21494dfe46040691"},{"fileName":"nuru.linux-arm64.deb","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"154663e3cb24391ed1ccc6bd2547d72e96beb46f4a3f45b297cf1258d5fc601f"},{"fileName":"nuru_Android_amd64.tar.gz","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"0c9e475ba8ce37c2b5dca299413c008feb352dbe799f9b58b6e84978acf74a98"},{"fileName":"nuru_Android_arm64.tar.gz","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"2ca0d6a97f22b03a36a94fb5fd483e2b6519ccfad8a9fb9286f690704d9e69e8"},{"fileName":"nuru_Darwin_amd64.tar.gz","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"a3a9f5c4bdc17893210752c2b936c1a4ee706a64e20389f7cd433965255b2b89"},{"fileName":"nuru_Darwin_arm64.tar.gz","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"5e093a8e5494fc3d1f6d25f0f76c47b2905efb0f6e8db5bbf49823a8771b9241"},{"fileName":"nuru_Linux_amd64.tar.gz","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"19fdc6940bbf5915e92180e5944858d02e08c28cf15b353fbd99e268c83f52de"},{"fileName":"nuru_Linux_arm64.tar.gz","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"fb6008ef4ee8b703f56290e6216878da6344d03a7c271c8ef8a0bd77db7151a4"},{"fileName":"nuru_Linux_i386.tar.gz","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"28b23ff08fb7667be04281a4c14d553addfdf71e8f60b9a71babceb72edd8a36"},{"fileName":"nuru_Windows_amd64.zip","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"1ab2693e6b785fc4dc70193bfcd36eb79f013277657d6c4c44c9b01be570911e"},{"fileName":"nuru_Windows_arm64.zip","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"9332784199bfe3db6fb9f72ec7113ca96e61ecd8b894e3bb67ad69cc204e530c"},{"fileName":"nuru_Windows_i386.zip","algo":"Sha256","source":"nuru_0.5.17_checksums.txt","hash":"b877e731a18b85dc57275a49fd9244835eb1459f2de89da1a652d72ca67d919c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nuru.linux-386.deb",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "f66bdcda6e033d63e1e8ebe453b40c5d3e921ce63e62ec3c5614f596c6eb9fee"
+    },
+    {
+      "fileName": "nuru.linux-amd64.deb",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "66ea30dcfd4398a84ff71f23361c38f1e1f5697456a5356b21494dfe46040691"
+    },
+    {
+      "fileName": "nuru.linux-arm64.deb",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "154663e3cb24391ed1ccc6bd2547d72e96beb46f4a3f45b297cf1258d5fc601f"
+    },
+    {
+      "fileName": "nuru_Android_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "0c9e475ba8ce37c2b5dca299413c008feb352dbe799f9b58b6e84978acf74a98"
+    },
+    {
+      "fileName": "nuru_Android_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "2ca0d6a97f22b03a36a94fb5fd483e2b6519ccfad8a9fb9286f690704d9e69e8"
+    },
+    {
+      "fileName": "nuru_Darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "a3a9f5c4bdc17893210752c2b936c1a4ee706a64e20389f7cd433965255b2b89"
+    },
+    {
+      "fileName": "nuru_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "5e093a8e5494fc3d1f6d25f0f76c47b2905efb0f6e8db5bbf49823a8771b9241"
+    },
+    {
+      "fileName": "nuru_Linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "19fdc6940bbf5915e92180e5944858d02e08c28cf15b353fbd99e268c83f52de"
+    },
+    {
+      "fileName": "nuru_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "fb6008ef4ee8b703f56290e6216878da6344d03a7c271c8ef8a0bd77db7151a4"
+    },
+    {
+      "fileName": "nuru_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "28b23ff08fb7667be04281a4c14d553addfdf71e8f60b9a71babceb72edd8a36"
+    },
+    {
+      "fileName": "nuru_Windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "1ab2693e6b785fc4dc70193bfcd36eb79f013277657d6c4c44c9b01be570911e"
+    },
+    {
+      "fileName": "nuru_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "9332784199bfe3db6fb9f72ec7113ca96e61ecd8b894e3bb67ad69cc204e530c"
+    },
+    {
+      "fileName": "nuru_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "nuru_0.5.17_checksums.txt",
+      "hash": "b877e731a18b85dc57275a49fd9244835eb1459f2de89da1a652d72ca67d919c"
+    }
+  ]
+}

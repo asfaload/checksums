@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-06T01:39:41+00:00","publishedOn":"2024-11-06T01:41:51.1593893+00:00","version":1,"publishedFiles":[{"fileName":"cri-containerd-1.7.23-linux-riscv64.tar.gz","algo":"Sha256","source":"cri-containerd-1.7.23-linux-riscv64.tar.gz.sha256sum","hash":"9466c9bc5b16de9f29f4c40408e2e81282f6c3f8db21fa1731da9058d27c4892"},{"fileName":"containerd-static-1.7.23-linux-riscv64.tar.gz","algo":"Sha256","source":"containerd-static-1.7.23-linux-riscv64.tar.gz.sha256sum","hash":"896a48af9d879a5f3f4bc8e833dd987cdd770f22bee47d73dde46666f69fc726"},{"fileName":"containerd-static-1.7.23-linux-ppc64le.tar.gz","algo":"Sha256","source":"containerd-static-1.7.23-linux-ppc64le.tar.gz.sha256sum","hash":"ea02bf4493cd5b5b4841d0ebea056e8119d4ce1247bc3d4d9859048b8701c711"},{"fileName":"cri-containerd-1.7.23-linux-arm64.tar.gz","algo":"Sha256","source":"cri-containerd-1.7.23-linux-arm64.tar.gz.sha256sum","hash":"fb4507b3158829b954ffe4ed7d501ee43a17448ea0685d10e6fe22c6319c4d53"},{"fileName":"containerd-1.7.23-linux-amd64.tar.gz","algo":"Sha256","source":"containerd-1.7.23-linux-amd64.tar.gz.sha256sum","hash":"3d9263bc63d356bd89bbc56bb032fb5edf817e33efc81102bccad4308d68bb65"},{"fileName":"containerd-static-1.7.23-linux-amd64.tar.gz","algo":"Sha256","source":"containerd-static-1.7.23-linux-amd64.tar.gz.sha256sum","hash":"a9bc9a4f101fd4b6febd185e2a7a54e8b6d49d8ee9c37d82c688a1e7d23199b1"},{"fileName":"containerd-1.7.23-linux-riscv64.tar.gz","algo":"Sha256","source":"containerd-1.7.23-linux-riscv64.tar.gz.sha256sum","hash":"3773eb4d1a1bd091a6dc0932326b0521e9a74b9c2adccbaa0126c8ee366e2fd3"},{"fileName":"containerd-static-1.7.23-linux-arm64.tar.gz","algo":"Sha256","source":"containerd-static-1.7.23-linux-arm64.tar.gz.sha256sum","hash":"0c04736e3ea12c78fb1f981d5a83f47de1b9011276085cfc8fe4a84a8f46e8ed"},{"fileName":"containerd-1.7.23-linux-arm64.tar.gz","algo":"Sha256","source":"containerd-1.7.23-linux-arm64.tar.gz.sha256sum","hash":"fb67c8062aedb0a6616c1a3e4d5c1b9e99439b22e09b355a0d5d642314502352"},{"fileName":"cri-containerd-1.7.23-linux-ppc64le.tar.gz","algo":"Sha256","source":"cri-containerd-1.7.23-linux-ppc64le.tar.gz.sha256sum","hash":"7d9ecf4c05810f3d44405412598da223bfa2c04ead565787c0ccd3a8e796b17e"},{"fileName":"cri-containerd-1.7.23-linux-amd64.tar.gz","algo":"Sha256","source":"cri-containerd-1.7.23-linux-amd64.tar.gz.sha256sum","hash":"4cb4d597b49bbd6adfe23fa17f7082e7b7f01e2aac40dfc4b991df9029d0d126"},{"fileName":"containerd-1.7.23-linux-s390x.tar.gz","algo":"Sha256","source":"containerd-1.7.23-linux-s390x.tar.gz.sha256sum","hash":"88d4025ff5e800c2964a4221dd75e563f85ca036d5e0bbede9e2e660039939b7"},{"fileName":"containerd-1.7.23-linux-ppc64le.tar.gz","algo":"Sha256","source":"containerd-1.7.23-linux-ppc64le.tar.gz.sha256sum","hash":"963590701d48b9e10cb72e656e3a45485d852f55488f7632168d09d12e09ebf0"},{"fileName":"containerd-1.7.23-windows-amd64.tar.gz","algo":"Sha256","source":"containerd-1.7.23-windows-amd64.tar.gz.sha256sum","hash":"e1c996fb1de8a34e29c7477e22f045e2a5fafd7c04fcf2588f83f6bec663374a"},{"fileName":"containerd-static-1.7.23-linux-s390x.tar.gz","algo":"Sha256","source":"containerd-static-1.7.23-linux-s390x.tar.gz.sha256sum","hash":"6e811dcb8e169e8fceb325939e9d2150693653209fbe22d606f2fb5e5f063712"}]}
+{
+  "mirroredOn": "2024-11-06T01:41:51.1593893+00:00",
+  "publishedOn": "2024-11-06T01:39:41+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cri-containerd-1.7.23-linux-riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "cri-containerd-1.7.23-linux-riscv64.tar.gz.sha256sum",
+      "hash": "9466c9bc5b16de9f29f4c40408e2e81282f6c3f8db21fa1731da9058d27c4892"
+    },
+    {
+      "fileName": "containerd-static-1.7.23-linux-riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-1.7.23-linux-riscv64.tar.gz.sha256sum",
+      "hash": "896a48af9d879a5f3f4bc8e833dd987cdd770f22bee47d73dde46666f69fc726"
+    },
+    {
+      "fileName": "containerd-static-1.7.23-linux-ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-1.7.23-linux-ppc64le.tar.gz.sha256sum",
+      "hash": "ea02bf4493cd5b5b4841d0ebea056e8119d4ce1247bc3d4d9859048b8701c711"
+    },
+    {
+      "fileName": "cri-containerd-1.7.23-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cri-containerd-1.7.23-linux-arm64.tar.gz.sha256sum",
+      "hash": "fb4507b3158829b954ffe4ed7d501ee43a17448ea0685d10e6fe22c6319c4d53"
+    },
+    {
+      "fileName": "containerd-1.7.23-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-1.7.23-linux-amd64.tar.gz.sha256sum",
+      "hash": "3d9263bc63d356bd89bbc56bb032fb5edf817e33efc81102bccad4308d68bb65"
+    },
+    {
+      "fileName": "containerd-static-1.7.23-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-1.7.23-linux-amd64.tar.gz.sha256sum",
+      "hash": "a9bc9a4f101fd4b6febd185e2a7a54e8b6d49d8ee9c37d82c688a1e7d23199b1"
+    },
+    {
+      "fileName": "containerd-1.7.23-linux-riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-1.7.23-linux-riscv64.tar.gz.sha256sum",
+      "hash": "3773eb4d1a1bd091a6dc0932326b0521e9a74b9c2adccbaa0126c8ee366e2fd3"
+    },
+    {
+      "fileName": "containerd-static-1.7.23-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-1.7.23-linux-arm64.tar.gz.sha256sum",
+      "hash": "0c04736e3ea12c78fb1f981d5a83f47de1b9011276085cfc8fe4a84a8f46e8ed"
+    },
+    {
+      "fileName": "containerd-1.7.23-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-1.7.23-linux-arm64.tar.gz.sha256sum",
+      "hash": "fb67c8062aedb0a6616c1a3e4d5c1b9e99439b22e09b355a0d5d642314502352"
+    },
+    {
+      "fileName": "cri-containerd-1.7.23-linux-ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "cri-containerd-1.7.23-linux-ppc64le.tar.gz.sha256sum",
+      "hash": "7d9ecf4c05810f3d44405412598da223bfa2c04ead565787c0ccd3a8e796b17e"
+    },
+    {
+      "fileName": "cri-containerd-1.7.23-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cri-containerd-1.7.23-linux-amd64.tar.gz.sha256sum",
+      "hash": "4cb4d597b49bbd6adfe23fa17f7082e7b7f01e2aac40dfc4b991df9029d0d126"
+    },
+    {
+      "fileName": "containerd-1.7.23-linux-s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-1.7.23-linux-s390x.tar.gz.sha256sum",
+      "hash": "88d4025ff5e800c2964a4221dd75e563f85ca036d5e0bbede9e2e660039939b7"
+    },
+    {
+      "fileName": "containerd-1.7.23-linux-ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-1.7.23-linux-ppc64le.tar.gz.sha256sum",
+      "hash": "963590701d48b9e10cb72e656e3a45485d852f55488f7632168d09d12e09ebf0"
+    },
+    {
+      "fileName": "containerd-1.7.23-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-1.7.23-windows-amd64.tar.gz.sha256sum",
+      "hash": "e1c996fb1de8a34e29c7477e22f045e2a5fafd7c04fcf2588f83f6bec663374a"
+    },
+    {
+      "fileName": "containerd-static-1.7.23-linux-s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "containerd-static-1.7.23-linux-s390x.tar.gz.sha256sum",
+      "hash": "6e811dcb8e169e8fceb325939e9d2150693653209fbe22d606f2fb5e5f063712"
+    }
+  ]
+}

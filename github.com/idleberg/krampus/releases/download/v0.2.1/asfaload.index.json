@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"krampus-0.2.1-Darwin-arm64.tar.gz","algo":"Sha256","source":"krampus-checksums.txt","hash":"c3e344943c5fe31a2a048f546819121350bb6adc1138ce527156f735643ef295"},{"fileName":"krampus-0.2.1-Darwin-x86_64.tar.gz","algo":"Sha256","source":"krampus-checksums.txt","hash":"b1d22095850b986d8ef971432a7b5615fba6343b4c66e3b145fdcf25d9c99240"},{"fileName":"krampus-0.2.1-Linux-arm64.tar.gz","algo":"Sha256","source":"krampus-checksums.txt","hash":"cbef2459bafadbedbb2c639131465988d8c66e7d6761a7cc1138440bdc726275"},{"fileName":"krampus-0.2.1-Linux-i386.tar.gz","algo":"Sha256","source":"krampus-checksums.txt","hash":"0325f2b21f9a32eecddb5669006f6d63920ea25a530d510be8bbdc8b1c759a9c"},{"fileName":"krampus-0.2.1-Linux-x86_64.tar.gz","algo":"Sha256","source":"krampus-checksums.txt","hash":"41526ad3855c8f24a3cacc7c65632904eae97236ef4d03d42ff65f17f88245d4"},{"fileName":"krampus-0.2.1-Windows-arm64.zip","algo":"Sha256","source":"krampus-checksums.txt","hash":"004de8c7cbace830bc018f491ca40c680202ad199d81afc9f677c030c3480d68"},{"fileName":"krampus-0.2.1-Windows-i386.zip","algo":"Sha256","source":"krampus-checksums.txt","hash":"9276a56b1d1bb1363d80a8f22a287aa3590a0c48d09eff488e1f0457379af805"},{"fileName":"krampus-0.2.1-Windows-x86_64.zip","algo":"Sha256","source":"krampus-checksums.txt","hash":"4b58710be16960ab7d5ac806454d72e6f9955544f95f114a46025b502f1165c3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "krampus-0.2.1-Darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "krampus-checksums.txt",
+      "hash": "c3e344943c5fe31a2a048f546819121350bb6adc1138ce527156f735643ef295"
+    },
+    {
+      "fileName": "krampus-0.2.1-Darwin-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "krampus-checksums.txt",
+      "hash": "b1d22095850b986d8ef971432a7b5615fba6343b4c66e3b145fdcf25d9c99240"
+    },
+    {
+      "fileName": "krampus-0.2.1-Linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "krampus-checksums.txt",
+      "hash": "cbef2459bafadbedbb2c639131465988d8c66e7d6761a7cc1138440bdc726275"
+    },
+    {
+      "fileName": "krampus-0.2.1-Linux-i386.tar.gz",
+      "algo": "Sha256",
+      "source": "krampus-checksums.txt",
+      "hash": "0325f2b21f9a32eecddb5669006f6d63920ea25a530d510be8bbdc8b1c759a9c"
+    },
+    {
+      "fileName": "krampus-0.2.1-Linux-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "krampus-checksums.txt",
+      "hash": "41526ad3855c8f24a3cacc7c65632904eae97236ef4d03d42ff65f17f88245d4"
+    },
+    {
+      "fileName": "krampus-0.2.1-Windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "krampus-checksums.txt",
+      "hash": "004de8c7cbace830bc018f491ca40c680202ad199d81afc9f677c030c3480d68"
+    },
+    {
+      "fileName": "krampus-0.2.1-Windows-i386.zip",
+      "algo": "Sha256",
+      "source": "krampus-checksums.txt",
+      "hash": "9276a56b1d1bb1363d80a8f22a287aa3590a0c48d09eff488e1f0457379af805"
+    },
+    {
+      "fileName": "krampus-0.2.1-Windows-x86_64.zip",
+      "algo": "Sha256",
+      "source": "krampus-checksums.txt",
+      "hash": "4b58710be16960ab7d5ac806454d72e6f9955544f95f114a46025b502f1165c3"
+    }
+  ]
+}

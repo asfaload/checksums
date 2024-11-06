@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"license_0.7.1_linux_arm64.tar.gz","algo":"Sha256","source":"license_0.7.1_checksums.txt","hash":"14b002fbda4d144d7d5ca6aab161703d2cfc85dcd56600660917a80fe20c3faf"},{"fileName":"license_0.7.1_windows_arm64.zip","algo":"Sha256","source":"license_0.7.1_checksums.txt","hash":"1c57e6ad19aaddf30025c7e48f5b08f434f9267c2ade803a0575dfe18a245792"},{"fileName":"license_0.7.1_linux_amd64.tar.gz","algo":"Sha256","source":"license_0.7.1_checksums.txt","hash":"1f337d92ef9273daa1fe284ec923856afaf1194bc67d5705860841eaafcdee96"},{"fileName":"license_0.7.1_darwin_all.tar.gz","algo":"Sha256","source":"license_0.7.1_checksums.txt","hash":"3e50b4be7df30340cbcda784932986cd962acfe87ef4f53b339baed84c5a2793"},{"fileName":"license_0.7.1_windows_amd64.zip","algo":"Sha256","source":"license_0.7.1_checksums.txt","hash":"d06bbce30d290d287eb020491ee4c46a9c5ee7c7cf59d249995db51e09728705"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "license_0.7.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "license_0.7.1_checksums.txt",
+      "hash": "14b002fbda4d144d7d5ca6aab161703d2cfc85dcd56600660917a80fe20c3faf"
+    },
+    {
+      "fileName": "license_0.7.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "license_0.7.1_checksums.txt",
+      "hash": "1c57e6ad19aaddf30025c7e48f5b08f434f9267c2ade803a0575dfe18a245792"
+    },
+    {
+      "fileName": "license_0.7.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "license_0.7.1_checksums.txt",
+      "hash": "1f337d92ef9273daa1fe284ec923856afaf1194bc67d5705860841eaafcdee96"
+    },
+    {
+      "fileName": "license_0.7.1_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "license_0.7.1_checksums.txt",
+      "hash": "3e50b4be7df30340cbcda784932986cd962acfe87ef4f53b339baed84c5a2793"
+    },
+    {
+      "fileName": "license_0.7.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "license_0.7.1_checksums.txt",
+      "hash": "d06bbce30d290d287eb020491ee4c46a9c5ee7c7cf59d249995db51e09728705"
+    }
+  ]
+}

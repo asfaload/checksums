@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"virtualos.zip","algo":"Sha512","source":"SHASUMS512.txt","hash":"c6e4d4dc5445f44a87c5ec8ba0b751ef5885633b08882d208996e76c76760697bb5d3986af1eec66ce3114dd6a685b02be771109a78be512c289accf8fcc79da"},{"fileName":"virtualos.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"7c4dd97351a085561930009a8c5a92ce53d841d617f066c325ca607840b3b34d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "virtualos.zip",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "c6e4d4dc5445f44a87c5ec8ba0b751ef5885633b08882d208996e76c76760697bb5d3986af1eec66ce3114dd6a685b02be771109a78be512c289accf8fcc79da"
+    },
+    {
+      "fileName": "virtualos.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "7c4dd97351a085561930009a8c5a92ce53d841d617f066c325ca607840b3b34d"
+    }
+  ]
+}

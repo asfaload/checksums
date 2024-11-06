@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"src-cli_5.9.0_darwin_amd64.tar.gz","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"bbe49fd21f946ea7f3f83c36b8a2321338a4998b4bb0db9fe199abdefa06faca"},{"fileName":"src-cli_5.9.0_darwin_arm64.tar.gz","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"f025c7d4792b689e8127923d69f0df17e4859c9010ce92d568ef7cfba169e7a5"},{"fileName":"src-cli_5.9.0_linux_amd64.tar.gz","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"940cd3f490f6959aadfeb6abcbbb919614d39bc68de4aedc8fa4933706cd75dd"},{"fileName":"src-cli_5.9.0_linux_arm64.tar.gz","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"0183d3823c2646f07ed17f4a1a8ee84673a9b404076ae712d24e3a47d920e338"},{"fileName":"src-cli_5.9.0_windows_amd64.tar.gz","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"c95a4f85d40fe7471f9533e98cce5a5b15f7f6344102437f41e77e3f44204bb0"},{"fileName":"src-cli_5.9.0_windows_arm64.tar.gz","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"95f68c6b6d667d67ccd45adf9df2787aa57c34b18c60cbe5d1788f23548d8f67"},{"fileName":"src_darwin_amd64","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"444da7b4363d47ef2861f7c60400d7312b907a07cfaae92f10d5c9dc53f342a1"},{"fileName":"src_darwin_arm64","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"c0af7aa8782f8bebe92a4045d3c5bbcd9bc770970e16c22b2e9da1d43dffde3b"},{"fileName":"src_linux_amd64","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"84d6bd46b937204c28b0d22e6dd283c8bb7c53d83939d1acc95a794516858c61"},{"fileName":"src_linux_arm64","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"32e80e800b46993345fc8edc11a62091f7b1034a3dd30600f4483597473872ab"},{"fileName":"src_windows_amd64.exe","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"61df048970cf7a1203742811fef1bbe6f260678d23eaadaf1db2de62a8586f4a"},{"fileName":"src_windows_arm64.exe","algo":"Sha256","source":"src-cli_5.9.0_checksums.txt","hash":"db236e30d99adc4749cf8a4365ab1889f28b1c35f97c56e0d9ca117631a3c9bc"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "src-cli_5.9.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "bbe49fd21f946ea7f3f83c36b8a2321338a4998b4bb0db9fe199abdefa06faca"
+    },
+    {
+      "fileName": "src-cli_5.9.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "f025c7d4792b689e8127923d69f0df17e4859c9010ce92d568ef7cfba169e7a5"
+    },
+    {
+      "fileName": "src-cli_5.9.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "940cd3f490f6959aadfeb6abcbbb919614d39bc68de4aedc8fa4933706cd75dd"
+    },
+    {
+      "fileName": "src-cli_5.9.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "0183d3823c2646f07ed17f4a1a8ee84673a9b404076ae712d24e3a47d920e338"
+    },
+    {
+      "fileName": "src-cli_5.9.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "c95a4f85d40fe7471f9533e98cce5a5b15f7f6344102437f41e77e3f44204bb0"
+    },
+    {
+      "fileName": "src-cli_5.9.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "95f68c6b6d667d67ccd45adf9df2787aa57c34b18c60cbe5d1788f23548d8f67"
+    },
+    {
+      "fileName": "src_darwin_amd64",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "444da7b4363d47ef2861f7c60400d7312b907a07cfaae92f10d5c9dc53f342a1"
+    },
+    {
+      "fileName": "src_darwin_arm64",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "c0af7aa8782f8bebe92a4045d3c5bbcd9bc770970e16c22b2e9da1d43dffde3b"
+    },
+    {
+      "fileName": "src_linux_amd64",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "84d6bd46b937204c28b0d22e6dd283c8bb7c53d83939d1acc95a794516858c61"
+    },
+    {
+      "fileName": "src_linux_arm64",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "32e80e800b46993345fc8edc11a62091f7b1034a3dd30600f4483597473872ab"
+    },
+    {
+      "fileName": "src_windows_amd64.exe",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "61df048970cf7a1203742811fef1bbe6f260678d23eaadaf1db2de62a8586f4a"
+    },
+    {
+      "fileName": "src_windows_arm64.exe",
+      "algo": "Sha256",
+      "source": "src-cli_5.9.0_checksums.txt",
+      "hash": "db236e30d99adc4749cf8a4365ab1889f28b1c35f97c56e0d9ca117631a3c9bc"
+    }
+  ]
+}

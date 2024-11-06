@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"third-eye_3.0.6_linux_amd64.tar.gz","algo":"Sha256","source":"third-eye_3.0.6_checksums.txt","hash":"5e606aff8cc6d8e10a6827596d04fbb2509f91888f68595184ac96b48fc71a4c"},{"fileName":"third-eye_3.0.6_linux_arm64.tar.gz","algo":"Sha256","source":"third-eye_3.0.6_checksums.txt","hash":"c4451157aeae41addf90bd2c0295e71d8f234dac52125f1eecfc9744b25fb79c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "third-eye_3.0.6_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "third-eye_3.0.6_checksums.txt",
+      "hash": "5e606aff8cc6d8e10a6827596d04fbb2509f91888f68595184ac96b48fc71a4c"
+    },
+    {
+      "fileName": "third-eye_3.0.6_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "third-eye_3.0.6_checksums.txt",
+      "hash": "c4451157aeae41addf90bd2c0295e71d8f234dac52125f1eecfc9744b25fb79c"
+    }
+  ]
+}

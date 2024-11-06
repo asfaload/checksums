@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"misctl_0.0.1_darwin_amd64.tar.gz","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"83c55ea11fe515e24a105f46bb271231ff70a29316756f86d2d0ed9cf36fa3ca"},{"fileName":"misctl_0.0.1_darwin_arm64.tar.gz","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"57ce4256e45b7c707925f4609733680cbc78c58a5113b9ab17f03718bfeb13c3"},{"fileName":"misctl_0.0.1_linux_386.tar.gz","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"47f6c219226db367b62bc4a55d31ff7247387d02306c5add2d7a02961f4400e2"},{"fileName":"misctl_0.0.1_linux_amd64.tar.gz","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"059ad8312553ccda28c6ec02c6869895013ffe77dce3d045dcfbf2de4d8a5d13"},{"fileName":"misctl_0.0.1_linux_arm.tar.gz","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"f70da84e013f9ab0087464e4f89937543e5355b3760df2ebef91be164e11d9d3"},{"fileName":"misctl_0.0.1_linux_arm64.tar.gz","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"3817f849e9e576bc3402462472a15b50cb0ce36632bbd591858d1188d22f68a6"},{"fileName":"misctl_0.0.1_windows_386.zip","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"c62419e899b2885ac4d460536df46603d44879b714186db5744c82a62d6cce76"},{"fileName":"misctl_0.0.1_windows_amd64.zip","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"cd5b2cd2f7515fcdfc8a7ba1b4656a96b3da2348e1ba5a0fe16935f42f10fbeb"},{"fileName":"misctl_0.0.1_windows_arm.zip","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"697d385055f61175a7f90466e40d42a404cd433f65e67c41d50a2eabef506f8e"},{"fileName":"misctl_0.0.1_windows_arm64.zip","algo":"Sha256","source":"misctl_0.0.1_checksums.txt","hash":"55cd0c824f7f924a564365ce14d322cad2ba1d0ded76a1e0898f990a8a22ee43"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "misctl_0.0.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "83c55ea11fe515e24a105f46bb271231ff70a29316756f86d2d0ed9cf36fa3ca"
+    },
+    {
+      "fileName": "misctl_0.0.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "57ce4256e45b7c707925f4609733680cbc78c58a5113b9ab17f03718bfeb13c3"
+    },
+    {
+      "fileName": "misctl_0.0.1_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "47f6c219226db367b62bc4a55d31ff7247387d02306c5add2d7a02961f4400e2"
+    },
+    {
+      "fileName": "misctl_0.0.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "059ad8312553ccda28c6ec02c6869895013ffe77dce3d045dcfbf2de4d8a5d13"
+    },
+    {
+      "fileName": "misctl_0.0.1_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "f70da84e013f9ab0087464e4f89937543e5355b3760df2ebef91be164e11d9d3"
+    },
+    {
+      "fileName": "misctl_0.0.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "3817f849e9e576bc3402462472a15b50cb0ce36632bbd591858d1188d22f68a6"
+    },
+    {
+      "fileName": "misctl_0.0.1_windows_386.zip",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "c62419e899b2885ac4d460536df46603d44879b714186db5744c82a62d6cce76"
+    },
+    {
+      "fileName": "misctl_0.0.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "cd5b2cd2f7515fcdfc8a7ba1b4656a96b3da2348e1ba5a0fe16935f42f10fbeb"
+    },
+    {
+      "fileName": "misctl_0.0.1_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "697d385055f61175a7f90466e40d42a404cd433f65e67c41d50a2eabef506f8e"
+    },
+    {
+      "fileName": "misctl_0.0.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "misctl_0.0.1_checksums.txt",
+      "hash": "55cd0c824f7f924a564365ce14d322cad2ba1d0ded76a1e0898f990a8a22ee43"
+    }
+  ]
+}

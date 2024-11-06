@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ignore-darwin-amd64-v0.0.1","algo":"Sha256","source":"checksums.txt","hash":"74e276fdee2683a1e4e9f3e9cb5803b6e8a623e95046ee7f2a61071b11f0213d"},{"fileName":"ignore-darwin-arm64-v0.0.1","algo":"Sha256","source":"checksums.txt","hash":"84ed217248ba9a49ee9a966e67f0beb8d41264770a08ea40fd953c523e4acfb0"},{"fileName":"ignore-linux-amd64-v0.0.1","algo":"Sha256","source":"checksums.txt","hash":"284c611599d7204e288a8f383d146703d57f73e99884b8fd57db04780cb1d7dc"},{"fileName":"ignore-linux-arm64-v0.0.1","algo":"Sha256","source":"checksums.txt","hash":"7099b7f97b3fc287f4f0a4343cebe5eb3de508aef94932e8020f8e5ba2a7b0df"},{"fileName":"ignore-windows-amd64-v0.0.1.exe","algo":"Sha256","source":"checksums.txt","hash":"3fd9c55b485b0fb3077f40c7d7c17209d4d4525962ffa4b961ec8810fad1ed67"},{"fileName":"ignore-windows-arm64-v0.0.1.exe","algo":"Sha256","source":"checksums.txt","hash":"530fb6fa8523d117e5c2c22beabb4008635672639734e1da261d30b6d05b2d43"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ignore-darwin-amd64-v0.0.1",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "74e276fdee2683a1e4e9f3e9cb5803b6e8a623e95046ee7f2a61071b11f0213d"
+    },
+    {
+      "fileName": "ignore-darwin-arm64-v0.0.1",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "84ed217248ba9a49ee9a966e67f0beb8d41264770a08ea40fd953c523e4acfb0"
+    },
+    {
+      "fileName": "ignore-linux-amd64-v0.0.1",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "284c611599d7204e288a8f383d146703d57f73e99884b8fd57db04780cb1d7dc"
+    },
+    {
+      "fileName": "ignore-linux-arm64-v0.0.1",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7099b7f97b3fc287f4f0a4343cebe5eb3de508aef94932e8020f8e5ba2a7b0df"
+    },
+    {
+      "fileName": "ignore-windows-amd64-v0.0.1.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3fd9c55b485b0fb3077f40c7d7c17209d4d4525962ffa4b961ec8810fad1ed67"
+    },
+    {
+      "fileName": "ignore-windows-arm64-v0.0.1.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "530fb6fa8523d117e5c2c22beabb4008635672639734e1da261d30b6d05b2d43"
+    }
+  ]
+}

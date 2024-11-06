@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-github_0.1.8_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-github_0.1.8_SHA256SUMS","hash":"bb91162982b575c55cc3939dff508e4cb05b1f1a461e49c771beac73b60666d6"},{"fileName":"terraform-provider-github_0.1.8_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-github_0.1.8_SHA256SUMS","hash":"261fce109e5d80f3273aee8d525e4522cacca6bc746e709e8d11809f6ff53c5b"},{"fileName":"terraform-provider-github_0.1.8_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-github_0.1.8_SHA256SUMS","hash":"2139ae96853d91ca14ba271a170e2e5fef405f1839627260725238c3eb420be6"},{"fileName":"terraform-provider-github_0.1.8_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-github_0.1.8_SHA256SUMS","hash":"b7cb7d03e5bd9db67b1fba3c0b5e8ce4024af3f19af3874ed86233a84c8d689e"},{"fileName":"terraform-provider-github_0.1.8_manifest.json","algo":"Sha256","source":"terraform-provider-github_0.1.8_SHA256SUMS","hash":"f809ab383cca0a5f83072981c64208cbd7fa67e986a86ee02dd2c82333221e32"},{"fileName":"terraform-provider-github_0.1.8_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-github_0.1.8_SHA256SUMS","hash":"d495fb4841d2c5553e96c0a87a553ad7116a2344f3910ff8c46e54867a6c7ba8"},{"fileName":"terraform-provider-github_0.1.8_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-github_0.1.8_SHA256SUMS","hash":"8470de6c2d17bcf63a967aeca5def550758132c958911f2b87ca7e51c4b55243"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-github_0.1.8_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-github_0.1.8_SHA256SUMS",
+      "hash": "bb91162982b575c55cc3939dff508e4cb05b1f1a461e49c771beac73b60666d6"
+    },
+    {
+      "fileName": "terraform-provider-github_0.1.8_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-github_0.1.8_SHA256SUMS",
+      "hash": "261fce109e5d80f3273aee8d525e4522cacca6bc746e709e8d11809f6ff53c5b"
+    },
+    {
+      "fileName": "terraform-provider-github_0.1.8_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-github_0.1.8_SHA256SUMS",
+      "hash": "2139ae96853d91ca14ba271a170e2e5fef405f1839627260725238c3eb420be6"
+    },
+    {
+      "fileName": "terraform-provider-github_0.1.8_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-github_0.1.8_SHA256SUMS",
+      "hash": "b7cb7d03e5bd9db67b1fba3c0b5e8ce4024af3f19af3874ed86233a84c8d689e"
+    },
+    {
+      "fileName": "terraform-provider-github_0.1.8_manifest.json",
+      "algo": "Sha256",
+      "source": "terraform-provider-github_0.1.8_SHA256SUMS",
+      "hash": "f809ab383cca0a5f83072981c64208cbd7fa67e986a86ee02dd2c82333221e32"
+    },
+    {
+      "fileName": "terraform-provider-github_0.1.8_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-github_0.1.8_SHA256SUMS",
+      "hash": "d495fb4841d2c5553e96c0a87a553ad7116a2344f3910ff8c46e54867a6c7ba8"
+    },
+    {
+      "fileName": "terraform-provider-github_0.1.8_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-github_0.1.8_SHA256SUMS",
+      "hash": "8470de6c2d17bcf63a967aeca5def550758132c958911f2b87ca7e51c4b55243"
+    }
+  ]
+}

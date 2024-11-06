@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"risor_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"791c0ca59192d8ab1d7ed700a67f7a40b3b6d185e1335591819e5b4f23386f42"},{"fileName":"risor_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c6200f5f6c37026d50a58675a292a226e793d8dc17796305587ae007a8f46a5b"},{"fileName":"risor_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"90009087088b86a2bf5307057cc2f61bfdf95373f193c2940027a0ad24f4efab"},{"fileName":"risor_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"64661e332eb5a90f5823d4f65999dc94dd9684941a8c86fe0ad1a020ef2bc90d"},{"fileName":"risor_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"279fe6410651331d7a9b3aaed336d6a694364a0961395ec67628f2f6b0bc9c9a"},{"fileName":"risor_Windows_i386.zip","algo":"Sha256","source":"checksums.txt","hash":"6552dc0e415c79bbe0fb78b17367653aa1b71c465079a15dd5b358708b3ea80f"},{"fileName":"risor_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"87d78e7e255370e26a09ad484ab32a6a298787451288fc59d5bc4de37a0768c6"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "risor_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "791c0ca59192d8ab1d7ed700a67f7a40b3b6d185e1335591819e5b4f23386f42"
+    },
+    {
+      "fileName": "risor_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c6200f5f6c37026d50a58675a292a226e793d8dc17796305587ae007a8f46a5b"
+    },
+    {
+      "fileName": "risor_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "90009087088b86a2bf5307057cc2f61bfdf95373f193c2940027a0ad24f4efab"
+    },
+    {
+      "fileName": "risor_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "64661e332eb5a90f5823d4f65999dc94dd9684941a8c86fe0ad1a020ef2bc90d"
+    },
+    {
+      "fileName": "risor_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "279fe6410651331d7a9b3aaed336d6a694364a0961395ec67628f2f6b0bc9c9a"
+    },
+    {
+      "fileName": "risor_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6552dc0e415c79bbe0fb78b17367653aa1b71c465079a15dd5b358708b3ea80f"
+    },
+    {
+      "fileName": "risor_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "87d78e7e255370e26a09ad484ab32a6a298787451288fc59d5bc4de37a0768c6"
+    }
+  ]
+}

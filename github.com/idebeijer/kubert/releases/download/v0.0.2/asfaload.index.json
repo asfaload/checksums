@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubert_0.0.2_darwin_amd64.tar.gz","algo":"Sha256","source":"kubert_0.0.2_checksums.txt","hash":"c2a927119989b6ae7fba1b5f2d5e0cecf178e312119f6c9473bcaf20ba0859e8"},{"fileName":"kubert_0.0.2_darwin_arm64.tar.gz","algo":"Sha256","source":"kubert_0.0.2_checksums.txt","hash":"038e4c5dbe3edcb5abc2686c9c511303f64cb238518e045baeef226fcdfadd0a"},{"fileName":"kubert_0.0.2_linux_386.tar.gz","algo":"Sha256","source":"kubert_0.0.2_checksums.txt","hash":"10253f9c515b49c448ee424153cc1fdef2a03ecc635b6187f149781df2997a52"},{"fileName":"kubert_0.0.2_linux_amd64.tar.gz","algo":"Sha256","source":"kubert_0.0.2_checksums.txt","hash":"b4236426c45b63384df9bbc76c0ccf66a44a2a69577b9d0a8b21722bea3eb933"},{"fileName":"kubert_0.0.2_linux_arm64.tar.gz","algo":"Sha256","source":"kubert_0.0.2_checksums.txt","hash":"e817de956b2dd02864ad697d55dc548b7ea9e59a9d9db2d7f87a033c0ede0a5a"},{"fileName":"kubert_0.0.2_windows_386.tar.gz","algo":"Sha256","source":"kubert_0.0.2_checksums.txt","hash":"983b0e0d05864620c5f849a2027085edd88f84e8daf9a118978dde1a85ada420"},{"fileName":"kubert_0.0.2_windows_amd64.tar.gz","algo":"Sha256","source":"kubert_0.0.2_checksums.txt","hash":"8040def47a24d9630278567da79ec7c134eff25c1deb980dbb9df9b7100f6163"},{"fileName":"kubert_0.0.2_windows_arm64.tar.gz","algo":"Sha256","source":"kubert_0.0.2_checksums.txt","hash":"e6e8fc5517d9abfc5f7567bb682f9e7ec51fb2da83f8fc087ca29bb1770e9deb"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubert_0.0.2_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubert_0.0.2_checksums.txt",
+      "hash": "c2a927119989b6ae7fba1b5f2d5e0cecf178e312119f6c9473bcaf20ba0859e8"
+    },
+    {
+      "fileName": "kubert_0.0.2_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubert_0.0.2_checksums.txt",
+      "hash": "038e4c5dbe3edcb5abc2686c9c511303f64cb238518e045baeef226fcdfadd0a"
+    },
+    {
+      "fileName": "kubert_0.0.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "kubert_0.0.2_checksums.txt",
+      "hash": "10253f9c515b49c448ee424153cc1fdef2a03ecc635b6187f149781df2997a52"
+    },
+    {
+      "fileName": "kubert_0.0.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubert_0.0.2_checksums.txt",
+      "hash": "b4236426c45b63384df9bbc76c0ccf66a44a2a69577b9d0a8b21722bea3eb933"
+    },
+    {
+      "fileName": "kubert_0.0.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubert_0.0.2_checksums.txt",
+      "hash": "e817de956b2dd02864ad697d55dc548b7ea9e59a9d9db2d7f87a033c0ede0a5a"
+    },
+    {
+      "fileName": "kubert_0.0.2_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "kubert_0.0.2_checksums.txt",
+      "hash": "983b0e0d05864620c5f849a2027085edd88f84e8daf9a118978dde1a85ada420"
+    },
+    {
+      "fileName": "kubert_0.0.2_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubert_0.0.2_checksums.txt",
+      "hash": "8040def47a24d9630278567da79ec7c134eff25c1deb980dbb9df9b7100f6163"
+    },
+    {
+      "fileName": "kubert_0.0.2_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubert_0.0.2_checksums.txt",
+      "hash": "e6e8fc5517d9abfc5f7567bb682f9e7ec51fb2da83f8fc087ca29bb1770e9deb"
+    }
+  ]
+}

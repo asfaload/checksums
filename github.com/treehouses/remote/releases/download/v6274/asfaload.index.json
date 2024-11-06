@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T18:34:50+00:00","publishedOn":"2024-11-05T18:37:13.7017711+00:00","version":1,"publishedFiles":[{"fileName":"output/remote.aab","algo":"Sha256","source":"remote.aab.sha256","hash":"d2600c8c0bb11b1f6762416c95450cfad3fa504fce0ba6df868567f9bf9c5f45"},{"fileName":"output/remote.apk","algo":"Sha256","source":"remote.apk.sha256","hash":"a0016ec8334230fa68a3abc5c25ae5d8d5a77b14476f34de73bdf01b684e721b"}]}
+{
+  "mirroredOn": "2024-11-05T18:37:13.7017711+00:00",
+  "publishedOn": "2024-11-05T18:34:50+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "output/remote.aab",
+      "algo": "Sha256",
+      "source": "remote.aab.sha256",
+      "hash": "d2600c8c0bb11b1f6762416c95450cfad3fa504fce0ba6df868567f9bf9c5f45"
+    },
+    {
+      "fileName": "output/remote.apk",
+      "algo": "Sha256",
+      "source": "remote.apk.sha256",
+      "hash": "a0016ec8334230fa68a3abc5c25ae5d8d5a77b14476f34de73bdf01b684e721b"
+    }
+  ]
+}

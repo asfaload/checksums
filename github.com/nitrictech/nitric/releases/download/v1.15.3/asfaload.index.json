@@ -1,1 +1,151 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gcp_darwin_arm64.tar.gz","algo":"Sha256","source":"gcp_checksums.txt","hash":"d8577e6b6960c147236bb6b2cf6ff3ac12191f06b892f419aa836565c6b46ff6"},{"fileName":"gcp_darwin_x86_64.tar.gz","algo":"Sha256","source":"gcp_checksums.txt","hash":"aece9ec810013755390e9847d29f2f0346c4cdf835cc5dea2128a0ff5a35f9ef"},{"fileName":"gcp_linux_arm64.tar.gz","algo":"Sha256","source":"gcp_checksums.txt","hash":"831907b6a94f9f7287fb45fccfee3f59aaf383d8c5de9341c6b2ed63d6cf47da"},{"fileName":"gcp_linux_x86_64.tar.gz","algo":"Sha256","source":"gcp_checksums.txt","hash":"6100db5bfb826b35687da9ae1498780642f4686053f201fb87e286f20f774a67"},{"fileName":"gcp_windows_arm64.zip","algo":"Sha256","source":"gcp_checksums.txt","hash":"ff0222e8051fa7d7351cd7375895b67165d9500856e03f78430815030762b4ee"},{"fileName":"gcp_windows_x86_64.zip","algo":"Sha256","source":"gcp_checksums.txt","hash":"8265060abae064ed8f9f55e3875ee4925fb48a5bc0c33e549a460376dfa7fda5"},{"fileName":"gcptf_darwin_arm64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"5177d5e2f6049ba18a604e2dfd0b9f1576abbfa148cef448816d123f0e9a0040"},{"fileName":"gcptf_darwin_x86_64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"8e851e44cb0b7850cde8da31fd2e55ddb697050a9552f87c490fe82c9dfa8286"},{"fileName":"gcptf_linux_arm64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"509d55a6d87c8243f58624e5820f0a41ded01d2d92d6ee9c2aed23d9e1fe7337"},{"fileName":"gcptf_linux_x86_64.tar.gz","algo":"Sha256","source":"gcptf_checksums.txt","hash":"0ef84f0c0d0fbb36452401ec5222519fc368ff192ee0796a5e30e041e78fe1e0"},{"fileName":"gcptf_windows_arm64.zip","algo":"Sha256","source":"gcptf_checksums.txt","hash":"c3cf29d83ac740b26f8b98d4cba15bf13809a8fda9d84a6050149641dd6700f5"},{"fileName":"gcptf_windows_x86_64.zip","algo":"Sha256","source":"gcptf_checksums.txt","hash":"405142d95c5e2f23965bfa419243558eed0a96d18f9a0a17bbc41fa6d7974494"},{"fileName":"aws_darwin_arm64.tar.gz","algo":"Sha256","source":"aws_checksums.txt","hash":"d7f3929f28409c26569a995fe6ec3073bdd687b97e55de4b8660a81d525e56f1"},{"fileName":"aws_darwin_x86_64.tar.gz","algo":"Sha256","source":"aws_checksums.txt","hash":"169ec9104efb5fbc0e07fe10c3b4a8f14be2fc60e60f42f7567449a2fc49a8b1"},{"fileName":"aws_linux_arm64.tar.gz","algo":"Sha256","source":"aws_checksums.txt","hash":"bbc8cb9901fa0afe69d1286982bd2bb5a69fe951bec63761c69969de4224591e"},{"fileName":"aws_linux_x86_64.tar.gz","algo":"Sha256","source":"aws_checksums.txt","hash":"7feedd9e9301a7b16bc9fdcf310097d48adaa65a0c2c8a1156e0f3cc7d8d2163"},{"fileName":"aws_windows_arm64.zip","algo":"Sha256","source":"aws_checksums.txt","hash":"a7e98096a457eb5a6caa9e190a3120d076cbf22c23d3edeb4dc3bcc2eb9c3765"},{"fileName":"aws_windows_x86_64.zip","algo":"Sha256","source":"aws_checksums.txt","hash":"d9cbebc402e584c1387ff302eede14219041b53b085c25d5c19cfab41bb55857"},{"fileName":"awstf_darwin_arm64.tar.gz","algo":"Sha256","source":"awstf_checksums.txt","hash":"79ecb3697e9fdd8a89beca12f718ace1450ac703e7af4a3f1c9f973669ea68a4"},{"fileName":"awstf_darwin_x86_64.tar.gz","algo":"Sha256","source":"awstf_checksums.txt","hash":"dc032d9dee9b56ddf7160b5f9dabedd5844be92bc5753d1709765d4f83e8dcc5"},{"fileName":"awstf_linux_arm64.tar.gz","algo":"Sha256","source":"awstf_checksums.txt","hash":"965e9975bafbb804f8768c42f522eaf3b3cf8a64d8bcc40835e0445194698320"},{"fileName":"awstf_linux_x86_64.tar.gz","algo":"Sha256","source":"awstf_checksums.txt","hash":"5a386f3c6f713de1464b280d4143dacd93d3520de26196291c562a3e90ec93de"},{"fileName":"awstf_windows_arm64.zip","algo":"Sha256","source":"awstf_checksums.txt","hash":"7153935cf3ec8b83fb6ccc25e9fb13b4ba9878f5ad3ed6ad77d033ab717d0a71"},{"fileName":"awstf_windows_x86_64.zip","algo":"Sha256","source":"awstf_checksums.txt","hash":"93b2df5b2aad606fc588ee22cdc32f6fcba3bf22d9ecdcc2a1a642f2778f7931"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gcp_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcp_checksums.txt",
+      "hash": "d8577e6b6960c147236bb6b2cf6ff3ac12191f06b892f419aa836565c6b46ff6"
+    },
+    {
+      "fileName": "gcp_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcp_checksums.txt",
+      "hash": "aece9ec810013755390e9847d29f2f0346c4cdf835cc5dea2128a0ff5a35f9ef"
+    },
+    {
+      "fileName": "gcp_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcp_checksums.txt",
+      "hash": "831907b6a94f9f7287fb45fccfee3f59aaf383d8c5de9341c6b2ed63d6cf47da"
+    },
+    {
+      "fileName": "gcp_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcp_checksums.txt",
+      "hash": "6100db5bfb826b35687da9ae1498780642f4686053f201fb87e286f20f774a67"
+    },
+    {
+      "fileName": "gcp_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "gcp_checksums.txt",
+      "hash": "ff0222e8051fa7d7351cd7375895b67165d9500856e03f78430815030762b4ee"
+    },
+    {
+      "fileName": "gcp_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "gcp_checksums.txt",
+      "hash": "8265060abae064ed8f9f55e3875ee4925fb48a5bc0c33e549a460376dfa7fda5"
+    },
+    {
+      "fileName": "gcptf_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "5177d5e2f6049ba18a604e2dfd0b9f1576abbfa148cef448816d123f0e9a0040"
+    },
+    {
+      "fileName": "gcptf_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "8e851e44cb0b7850cde8da31fd2e55ddb697050a9552f87c490fe82c9dfa8286"
+    },
+    {
+      "fileName": "gcptf_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "509d55a6d87c8243f58624e5820f0a41ded01d2d92d6ee9c2aed23d9e1fe7337"
+    },
+    {
+      "fileName": "gcptf_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "0ef84f0c0d0fbb36452401ec5222519fc368ff192ee0796a5e30e041e78fe1e0"
+    },
+    {
+      "fileName": "gcptf_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "c3cf29d83ac740b26f8b98d4cba15bf13809a8fda9d84a6050149641dd6700f5"
+    },
+    {
+      "fileName": "gcptf_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "gcptf_checksums.txt",
+      "hash": "405142d95c5e2f23965bfa419243558eed0a96d18f9a0a17bbc41fa6d7974494"
+    },
+    {
+      "fileName": "aws_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "d7f3929f28409c26569a995fe6ec3073bdd687b97e55de4b8660a81d525e56f1"
+    },
+    {
+      "fileName": "aws_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "169ec9104efb5fbc0e07fe10c3b4a8f14be2fc60e60f42f7567449a2fc49a8b1"
+    },
+    {
+      "fileName": "aws_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "bbc8cb9901fa0afe69d1286982bd2bb5a69fe951bec63761c69969de4224591e"
+    },
+    {
+      "fileName": "aws_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "7feedd9e9301a7b16bc9fdcf310097d48adaa65a0c2c8a1156e0f3cc7d8d2163"
+    },
+    {
+      "fileName": "aws_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "a7e98096a457eb5a6caa9e190a3120d076cbf22c23d3edeb4dc3bcc2eb9c3765"
+    },
+    {
+      "fileName": "aws_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "aws_checksums.txt",
+      "hash": "d9cbebc402e584c1387ff302eede14219041b53b085c25d5c19cfab41bb55857"
+    },
+    {
+      "fileName": "awstf_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "awstf_checksums.txt",
+      "hash": "79ecb3697e9fdd8a89beca12f718ace1450ac703e7af4a3f1c9f973669ea68a4"
+    },
+    {
+      "fileName": "awstf_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "awstf_checksums.txt",
+      "hash": "dc032d9dee9b56ddf7160b5f9dabedd5844be92bc5753d1709765d4f83e8dcc5"
+    },
+    {
+      "fileName": "awstf_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "awstf_checksums.txt",
+      "hash": "965e9975bafbb804f8768c42f522eaf3b3cf8a64d8bcc40835e0445194698320"
+    },
+    {
+      "fileName": "awstf_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "awstf_checksums.txt",
+      "hash": "5a386f3c6f713de1464b280d4143dacd93d3520de26196291c562a3e90ec93de"
+    },
+    {
+      "fileName": "awstf_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "awstf_checksums.txt",
+      "hash": "7153935cf3ec8b83fb6ccc25e9fb13b4ba9878f5ad3ed6ad77d033ab717d0a71"
+    },
+    {
+      "fileName": "awstf_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "awstf_checksums.txt",
+      "hash": "93b2df5b2aad606fc588ee22cdc32f6fcba3bf22d9ecdcc2a1a642f2778f7931"
+    }
+  ]
+}

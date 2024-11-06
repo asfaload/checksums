@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cartero-0.1.2.tar.xz","algo":"Sha256","source":"cartero-0.1.2.tar.xz.sha256sum","hash":"d06ed9dacab343c190adfc7df11665ea0851dbf9f40d04c0f5065146921cc194"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cartero-0.1.2.tar.xz",
+      "algo": "Sha256",
+      "source": "cartero-0.1.2.tar.xz.sha256sum",
+      "hash": "d06ed9dacab343c190adfc7df11665ea0851dbf9f40d04c0f5065146921cc194"
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"bank-vaults_1.31.2_Darwin_arm64.tar.gz","algo":"Sha256","source":"bank-vaults_1.31.2_checksums.txt","hash":"fee784576509f4d18ccf8f46c63ab9914c0a8d50cd9a6b7591e89baed94f9304"},{"fileName":"bank-vaults_1.31.2_Darwin_x86_64.tar.gz","algo":"Sha256","source":"bank-vaults_1.31.2_checksums.txt","hash":"750b36a2fc2e7105607e413cad5bcb6b4b8a21aead1441318fc3d883b98f46ce"},{"fileName":"bank-vaults_1.31.2_Linux_arm64.tar.gz","algo":"Sha256","source":"bank-vaults_1.31.2_checksums.txt","hash":"e60611c5d0b5d00ff64cc00e1a986c9625f646a24e963e6d2c8af986d66eb8d6"},{"fileName":"bank-vaults_1.31.2_Linux_x86_64.tar.gz","algo":"Sha256","source":"bank-vaults_1.31.2_checksums.txt","hash":"3791ec1f9e95569d94f22775cf6ee5007f43a90a1128bdecc3a830da2faf1253"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "bank-vaults_1.31.2_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "bank-vaults_1.31.2_checksums.txt",
+      "hash": "fee784576509f4d18ccf8f46c63ab9914c0a8d50cd9a6b7591e89baed94f9304"
+    },
+    {
+      "fileName": "bank-vaults_1.31.2_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "bank-vaults_1.31.2_checksums.txt",
+      "hash": "750b36a2fc2e7105607e413cad5bcb6b4b8a21aead1441318fc3d883b98f46ce"
+    },
+    {
+      "fileName": "bank-vaults_1.31.2_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "bank-vaults_1.31.2_checksums.txt",
+      "hash": "e60611c5d0b5d00ff64cc00e1a986c9625f646a24e963e6d2c8af986d66eb8d6"
+    },
+    {
+      "fileName": "bank-vaults_1.31.2_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "bank-vaults_1.31.2_checksums.txt",
+      "hash": "3791ec1f9e95569d94f22775cf6ee5007f43a90a1128bdecc3a830da2faf1253"
+    }
+  ]
+}

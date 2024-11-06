@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ftl-0.388.0.darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1544e6d148d31681f33aa4fa7304c77402b2c7f36c65fb9d7a422682efacc69a"},{"fileName":"ftl-0.388.0.darwin-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"20cba4ecd501160c4bdb014d2d3ecab1f96a3f924d93983946c145772c706f8a"},{"fileName":"ftl-0.388.0.linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"47854e54e250fe3fe6b12f1f11e2732c7a15894958d875472838705ae1c3c848"},{"fileName":"ftl-0.388.0.linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9f9d93fbd7bb83f4a442d56e33983f56ce66c0500cd0d9bd2578fa9420f3bad2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ftl-0.388.0.darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1544e6d148d31681f33aa4fa7304c77402b2c7f36c65fb9d7a422682efacc69a"
+    },
+    {
+      "fileName": "ftl-0.388.0.darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "20cba4ecd501160c4bdb014d2d3ecab1f96a3f924d93983946c145772c706f8a"
+    },
+    {
+      "fileName": "ftl-0.388.0.linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "47854e54e250fe3fe6b12f1f11e2732c7a15894958d875472838705ae1c3c848"
+    },
+    {
+      "fileName": "ftl-0.388.0.linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9f9d93fbd7bb83f4a442d56e33983f56ce66c0500cd0d9bd2578fa9420f3bad2"
+    }
+  ]
+}

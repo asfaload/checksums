@@ -1,1 +1,127 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"book_6.0.0_android_amd64.tar.gz","algo":"Sha256","source":"book_checksums.txt","hash":"44333907124331f98787122eb3cbdf2cd3f9d8a9f2c66e0fd27b63e711a6da7b"},{"fileName":"book_6.0.0_android_arm64.tar.gz","algo":"Sha256","source":"book_checksums.txt","hash":"a260c093191d47ddf4db7b6f32e953113fb7e2514ef582b06d5cb5c8c5aea3eb"},{"fileName":"book_6.0.0_darwin_amd64.tar.gz","algo":"Sha256","source":"book_checksums.txt","hash":"9e1b9317fee3f0139abe0abc61dbd5f8705e5f17036237919a1863a13743ef68"},{"fileName":"book_6.0.0_darwin_arm64.tar.gz","algo":"Sha256","source":"book_checksums.txt","hash":"b3d8bd26ebf4ff98dc2bc3e4ef2fb2e02091d466e82d729db0cb3e8d5b6cab11"},{"fileName":"book_6.0.0_linux_386.deb","algo":"Sha256","source":"book_checksums.txt","hash":"3c799c3e8a106affc9ffab1d3c853f9e05da86c8f21d2df33b3264c002f79a13"},{"fileName":"book_6.0.0_linux_386.rpm","algo":"Sha256","source":"book_checksums.txt","hash":"bdb777d007ffb0679fb0162a245ec6da2e505673b35c23bca41e1a6cde0cbfaa"},{"fileName":"book_6.0.0_linux_386.tar.gz","algo":"Sha256","source":"book_checksums.txt","hash":"3304d3a4a33449ad770b736ae02d54148438752d335469469d27908db3b28d0a"},{"fileName":"book_6.0.0_linux_amd64.deb","algo":"Sha256","source":"book_checksums.txt","hash":"6775bba5f9574a05667692dfe4e00b3ecabe19976af9a5d630013033b20d4636"},{"fileName":"book_6.0.0_linux_amd64.rpm","algo":"Sha256","source":"book_checksums.txt","hash":"d90dd7a2d4c53f0dae0b19be6fd89f2269062ab584957849444d01320809d541"},{"fileName":"book_6.0.0_linux_amd64.tar.gz","algo":"Sha256","source":"book_checksums.txt","hash":"5c9c8dcaf8deee067758483a901ee7d658d1957f126ac169a0606c5fc397aebf"},{"fileName":"book_6.0.0_linux_arm.tar.gz","algo":"Sha256","source":"book_checksums.txt","hash":"5a6e45b4f16e21009b12cd432e4e9e41f8d1e32e03c52542d0b5b2a77b27224e"},{"fileName":"book_6.0.0_linux_arm64.deb","algo":"Sha256","source":"book_checksums.txt","hash":"851c78c311906ea309a39cb83cdf4aba34c961af6cf294820ae9de4f6859a0bd"},{"fileName":"book_6.0.0_linux_arm64.rpm","algo":"Sha256","source":"book_checksums.txt","hash":"ec5f64549d4bc98febd7fd21881c88ad6259f4deaec75e0ecaa157336df5784e"},{"fileName":"book_6.0.0_linux_arm64.tar.gz","algo":"Sha256","source":"book_checksums.txt","hash":"f4804c0204e82ccb7be88fccbf2d45f759c7aa68b8bcf00779eaf469445a59b6"},{"fileName":"book_6.0.0_linux_armv6.deb","algo":"Sha256","source":"book_checksums.txt","hash":"5623575502c75cf748c077aae0a8c5da3fed9d4760d348ecb7928bc2cc5d6a16"},{"fileName":"book_6.0.0_linux_armv6.rpm","algo":"Sha256","source":"book_checksums.txt","hash":"b40b9a8b974de5acd8101fa0fbf2d6ffe8e22eb54e4290017567b923d06546dc"},{"fileName":"book_6.0.0_windows_386.zip","algo":"Sha256","source":"book_checksums.txt","hash":"5b0a2f62d42a0e588ef341141f54e53f3f2142519bf5d1ba694bda313b336c50"},{"fileName":"book_6.0.0_windows_amd64.zip","algo":"Sha256","source":"book_checksums.txt","hash":"be2415fc6a181268ee0508388bd78ffc6bdd0e948581d3aecba00d845c02e32f"},{"fileName":"book_6.0.0_windows_arm.zip","algo":"Sha256","source":"book_checksums.txt","hash":"5d36d8f6f46fa2ac1614741a131c090073851f71c15f7de477cdc4aa92a6b741"},{"fileName":"book_6.0.0_windows_arm64.zip","algo":"Sha256","source":"book_checksums.txt","hash":"5671cbcec605f8193b615746e04e32437af143823f60aea8bebdd8747e4b5b32"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "book_6.0.0_android_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "44333907124331f98787122eb3cbdf2cd3f9d8a9f2c66e0fd27b63e711a6da7b"
+    },
+    {
+      "fileName": "book_6.0.0_android_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "a260c093191d47ddf4db7b6f32e953113fb7e2514ef582b06d5cb5c8c5aea3eb"
+    },
+    {
+      "fileName": "book_6.0.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "9e1b9317fee3f0139abe0abc61dbd5f8705e5f17036237919a1863a13743ef68"
+    },
+    {
+      "fileName": "book_6.0.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "b3d8bd26ebf4ff98dc2bc3e4ef2fb2e02091d466e82d729db0cb3e8d5b6cab11"
+    },
+    {
+      "fileName": "book_6.0.0_linux_386.deb",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "3c799c3e8a106affc9ffab1d3c853f9e05da86c8f21d2df33b3264c002f79a13"
+    },
+    {
+      "fileName": "book_6.0.0_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "bdb777d007ffb0679fb0162a245ec6da2e505673b35c23bca41e1a6cde0cbfaa"
+    },
+    {
+      "fileName": "book_6.0.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "3304d3a4a33449ad770b736ae02d54148438752d335469469d27908db3b28d0a"
+    },
+    {
+      "fileName": "book_6.0.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "6775bba5f9574a05667692dfe4e00b3ecabe19976af9a5d630013033b20d4636"
+    },
+    {
+      "fileName": "book_6.0.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "d90dd7a2d4c53f0dae0b19be6fd89f2269062ab584957849444d01320809d541"
+    },
+    {
+      "fileName": "book_6.0.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "5c9c8dcaf8deee067758483a901ee7d658d1957f126ac169a0606c5fc397aebf"
+    },
+    {
+      "fileName": "book_6.0.0_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "5a6e45b4f16e21009b12cd432e4e9e41f8d1e32e03c52542d0b5b2a77b27224e"
+    },
+    {
+      "fileName": "book_6.0.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "851c78c311906ea309a39cb83cdf4aba34c961af6cf294820ae9de4f6859a0bd"
+    },
+    {
+      "fileName": "book_6.0.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "ec5f64549d4bc98febd7fd21881c88ad6259f4deaec75e0ecaa157336df5784e"
+    },
+    {
+      "fileName": "book_6.0.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "f4804c0204e82ccb7be88fccbf2d45f759c7aa68b8bcf00779eaf469445a59b6"
+    },
+    {
+      "fileName": "book_6.0.0_linux_armv6.deb",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "5623575502c75cf748c077aae0a8c5da3fed9d4760d348ecb7928bc2cc5d6a16"
+    },
+    {
+      "fileName": "book_6.0.0_linux_armv6.rpm",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "b40b9a8b974de5acd8101fa0fbf2d6ffe8e22eb54e4290017567b923d06546dc"
+    },
+    {
+      "fileName": "book_6.0.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "5b0a2f62d42a0e588ef341141f54e53f3f2142519bf5d1ba694bda313b336c50"
+    },
+    {
+      "fileName": "book_6.0.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "be2415fc6a181268ee0508388bd78ffc6bdd0e948581d3aecba00d845c02e32f"
+    },
+    {
+      "fileName": "book_6.0.0_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "5d36d8f6f46fa2ac1614741a131c090073851f71c15f7de477cdc4aa92a6b741"
+    },
+    {
+      "fileName": "book_6.0.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "book_checksums.txt",
+      "hash": "5671cbcec605f8193b615746e04e32437af143823f60aea8bebdd8747e4b5b32"
+    }
+  ]
+}

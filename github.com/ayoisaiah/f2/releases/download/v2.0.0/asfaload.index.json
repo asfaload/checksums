@@ -1,1 +1,121 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"f2_2.0.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"46a28f850c75372d8ade952f41db52a6d722e7123134fad16a5f3e14de896206"},{"fileName":"f2_2.0.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"51a6e67be913acdd4ca4e5d9b1c7e4e3e910b6801277c71f1a237cad25f7838a"},{"fileName":"f2_2.0.0_linux_386.apk","algo":"Sha256","source":"checksums.txt","hash":"674206f86410facae54bb9b8234bdf7d4a438ea1149fc788fc607461cc8f0f9a"},{"fileName":"f2_2.0.0_linux_386.deb","algo":"Sha256","source":"checksums.txt","hash":"40fbaa64e90c4142cd4adc808375fa1466d1d25e3bc2a7c35d8e10daca0311e9"},{"fileName":"f2_2.0.0_linux_386.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"c58b670eb35a8a2146a9b0efdfdf117f53b982cc0fb758c9d74752dc5faddef0"},{"fileName":"f2_2.0.0_linux_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"0542cd00eba95ccbc9d677a212c5ff043fd96aea3e7e093f248a68f091831f8d"},{"fileName":"f2_2.0.0_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"96f170c1cb012c1f4d1a0a8dbec9bd2ec5db223cacd0588bcdf74db15dc9d8a9"},{"fileName":"f2_2.0.0_linux_amd64.apk","algo":"Sha256","source":"checksums.txt","hash":"dffc6d18ed48e0f5ac76d5542dd471f57ae9630cab9045501a45dff77446b648"},{"fileName":"f2_2.0.0_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"6ae3963229cb24ecbaa85816fe27a77b411aadbb96baa29d2b5c7b28ca4f801e"},{"fileName":"f2_2.0.0_linux_amd64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"78fb66e6c5284106fe86df66fb84fc1810a6bfed3b8e1f24921d6ac746f89ee1"},{"fileName":"f2_2.0.0_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"32c492ea5db632db81564e1a366141b63f484215497da08d549e066a1c9b9b6a"},{"fileName":"f2_2.0.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9d9337000d27aaccdd1f5035e11ee34459465e6491ec0324a13e33f377d6a9de"},{"fileName":"f2_2.0.0_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"fa02e4798c9319e52e510ded05e49df1847693e944dfa5ad09f0d858343bf3ac"},{"fileName":"f2_2.0.0_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"a3570ef29e642c12653d2caf4db666495304dfb0f3ef7e4fbda8c4e048945b2f"},{"fileName":"f2_2.0.0_linux_arm64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"53b7ded0f3997517c045abd5a1071b2887cffd8d91504b0f43a27c005c6dbf0b"},{"fileName":"f2_2.0.0_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"9ec20baf4370ccbff50bf679b13cbc6a2e0ee7277ca5bab80d1cd9d1456ed72c"},{"fileName":"f2_2.0.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"55ca3981d77130e4819779303988165b977a7589e7f01370baeae6b430ff8046"},{"fileName":"f2_2.0.0_windows_386.zip","algo":"Sha256","source":"checksums.txt","hash":"ab2f409036125fc453cd86d84e241ed8a15df2dcbfcb50027075b24e703e5937"},{"fileName":"f2_2.0.0_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"063e049c13dde4c2c27581beb951d9a73dfb46fae9a3093310e0fb175ceb7f9e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "f2_2.0.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "46a28f850c75372d8ade952f41db52a6d722e7123134fad16a5f3e14de896206"
+    },
+    {
+      "fileName": "f2_2.0.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "51a6e67be913acdd4ca4e5d9b1c7e4e3e910b6801277c71f1a237cad25f7838a"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_386.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "674206f86410facae54bb9b8234bdf7d4a438ea1149fc788fc607461cc8f0f9a"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "40fbaa64e90c4142cd4adc808375fa1466d1d25e3bc2a7c35d8e10daca0311e9"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_386.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c58b670eb35a8a2146a9b0efdfdf117f53b982cc0fb758c9d74752dc5faddef0"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0542cd00eba95ccbc9d677a212c5ff043fd96aea3e7e093f248a68f091831f8d"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "96f170c1cb012c1f4d1a0a8dbec9bd2ec5db223cacd0588bcdf74db15dc9d8a9"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dffc6d18ed48e0f5ac76d5542dd471f57ae9630cab9045501a45dff77446b648"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6ae3963229cb24ecbaa85816fe27a77b411aadbb96baa29d2b5c7b28ca4f801e"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_amd64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "78fb66e6c5284106fe86df66fb84fc1810a6bfed3b8e1f24921d6ac746f89ee1"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "32c492ea5db632db81564e1a366141b63f484215497da08d549e066a1c9b9b6a"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9d9337000d27aaccdd1f5035e11ee34459465e6491ec0324a13e33f377d6a9de"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fa02e4798c9319e52e510ded05e49df1847693e944dfa5ad09f0d858343bf3ac"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a3570ef29e642c12653d2caf4db666495304dfb0f3ef7e4fbda8c4e048945b2f"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_arm64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "53b7ded0f3997517c045abd5a1071b2887cffd8d91504b0f43a27c005c6dbf0b"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9ec20baf4370ccbff50bf679b13cbc6a2e0ee7277ca5bab80d1cd9d1456ed72c"
+    },
+    {
+      "fileName": "f2_2.0.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "55ca3981d77130e4819779303988165b977a7589e7f01370baeae6b430ff8046"
+    },
+    {
+      "fileName": "f2_2.0.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ab2f409036125fc453cd86d84e241ed8a15df2dcbfcb50027075b24e703e5937"
+    },
+    {
+      "fileName": "f2_2.0.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "063e049c13dde4c2c27581beb951d9a73dfb46fae9a3093310e0fb175ceb7f9e"
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"QOwnNotes.zip","algo":"Sha256","source":"QOwnNotes.zip.sha256sum","hash":"b38585c279fef6f42293f181927102bfc0221221e29feec7475051e702e828b7"},{"fileName":"qownnotes-24.10.2.tar.xz","algo":"Sha256","source":"qownnotes-24.10.2.tar.xz.sha256sum","hash":"3495139f5e28cbfd56ace15f5830e4305f93653ff3db79290559da744bb064c0"},{"fileName":"QOwnNotes-x86_64.AppImage","algo":"Sha256","source":"QOwnNotes-x86_64-Qt6.AppImage.sha256sum","hash":"3d6242d2e8c2dfa8bd43c619772c29102a4d0957c62a80575c9afa2b2b48c208"},{"fileName":"QOwnNotes-x86_64.AppImage","algo":"Sha256","source":"QOwnNotes-x86_64.AppImage.sha256sum","hash":"5e5681e41290882848ed14b09d0cf69e0996c1433e84986f72007bfadc32cbfa"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "QOwnNotes.zip",
+      "algo": "Sha256",
+      "source": "QOwnNotes.zip.sha256sum",
+      "hash": "b38585c279fef6f42293f181927102bfc0221221e29feec7475051e702e828b7"
+    },
+    {
+      "fileName": "qownnotes-24.10.2.tar.xz",
+      "algo": "Sha256",
+      "source": "qownnotes-24.10.2.tar.xz.sha256sum",
+      "hash": "3495139f5e28cbfd56ace15f5830e4305f93653ff3db79290559da744bb064c0"
+    },
+    {
+      "fileName": "QOwnNotes-x86_64.AppImage",
+      "algo": "Sha256",
+      "source": "QOwnNotes-x86_64-Qt6.AppImage.sha256sum",
+      "hash": "3d6242d2e8c2dfa8bd43c619772c29102a4d0957c62a80575c9afa2b2b48c208"
+    },
+    {
+      "fileName": "QOwnNotes-x86_64.AppImage",
+      "algo": "Sha256",
+      "source": "QOwnNotes-x86_64.AppImage.sha256sum",
+      "hash": "5e5681e41290882848ed14b09d0cf69e0996c1433e84986f72007bfadc32cbfa"
+    }
+  ]
+}

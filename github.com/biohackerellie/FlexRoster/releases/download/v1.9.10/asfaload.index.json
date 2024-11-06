@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"FlexRoster-1.9.10.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fb7281e8dbe03ef555788e991281231fd4d47f4f89c0cefba38c23b5e8a539da"},{"fileName":"FlexRoster-1.9.10.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"c85f4cffa386c8a48ef7afa689ae73cfc3d936952ff9be3a39e4c1170cabd71e"},{"fileName":"FlexRoster_1.9.10_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"11591c2d292f0e16c17fce8af60b01ecf9368402e74a74adf00c968dca849d40"},{"fileName":"FlexRoster_1.9.10_darwin_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"efee3a7eafa77930b26fffa7bcc3fe31a328e70cc865f4b6ad6c3fd83ea45538"},{"fileName":"FlexRoster_1.9.10_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4013a8e69a0ebe10885c89361eae35b6fca30d2c306d150c7966033ccb33f5b5"},{"fileName":"FlexRoster_1.9.10_darwin_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"54c4a800231ad5ea4578a7360dbfe34dca0d06debf6878fe6195599fe0e69279"},{"fileName":"FlexRoster_1.9.10_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ffb914e1f1b0190af57c10a6c10a67705fd529b1e065daeba519423c2e46c35f"},{"fileName":"FlexRoster_1.9.10_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"33b1fc5ce52ce82645c515ffc787b8387c72508b0bd85968bd294e42b1d56403"},{"fileName":"FlexRoster_1.9.10_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0b0ea8d938479061694b8cbf61446a6f522f9bdc03826279690d6ff1a306c0bc"},{"fileName":"FlexRoster_1.9.10_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"b927d95c01aed30a0996128e41eea6501e9d7880d49039ae60b3d8c009ea6c69"},{"fileName":"FlexRoster_1.9.10_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"4d554eef176b8e246f8c0fd658b6e4dcc2a51ccbaa0dde0764ca28ff2c92abfb"},{"fileName":"FlexRoster_1.9.10_windows_amd64.zip.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"9478af25576db06fee9d045ee684c8580157f339bfebaff2cc020d6bf8f65d5c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "FlexRoster-1.9.10.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fb7281e8dbe03ef555788e991281231fd4d47f4f89c0cefba38c23b5e8a539da"
+    },
+    {
+      "fileName": "FlexRoster-1.9.10.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c85f4cffa386c8a48ef7afa689ae73cfc3d936952ff9be3a39e4c1170cabd71e"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "11591c2d292f0e16c17fce8af60b01ecf9368402e74a74adf00c968dca849d40"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_darwin_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "efee3a7eafa77930b26fffa7bcc3fe31a328e70cc865f4b6ad6c3fd83ea45538"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4013a8e69a0ebe10885c89361eae35b6fca30d2c306d150c7966033ccb33f5b5"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_darwin_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "54c4a800231ad5ea4578a7360dbfe34dca0d06debf6878fe6195599fe0e69279"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ffb914e1f1b0190af57c10a6c10a67705fd529b1e065daeba519423c2e46c35f"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "33b1fc5ce52ce82645c515ffc787b8387c72508b0bd85968bd294e42b1d56403"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0b0ea8d938479061694b8cbf61446a6f522f9bdc03826279690d6ff1a306c0bc"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b927d95c01aed30a0996128e41eea6501e9d7880d49039ae60b3d8c009ea6c69"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4d554eef176b8e246f8c0fd658b6e4dcc2a51ccbaa0dde0764ca28ff2c92abfb"
+    },
+    {
+      "fileName": "FlexRoster_1.9.10_windows_amd64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9478af25576db06fee9d045ee684c8580157f339bfebaff2cc020d6bf8f65d5c"
+    }
+  ]
+}

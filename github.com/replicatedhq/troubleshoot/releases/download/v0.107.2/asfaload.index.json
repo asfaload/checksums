@@ -1,1 +1,151 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"collect_darwin_amd64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"ebd1ef6d1d7395c5e99f2008e42972543e522c492c014835905ca7b17cbec994"},{"fileName":"collect_darwin_arm64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"2d98a8e338be1dd4c02bb93aeedbd4b320e80141722d0f1db09782efacb06521"},{"fileName":"collect_linux_amd64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"bf9fe5e43bf5b5d4359cd37532221c97a9c2286e7feb0710f7f02391cf39e437"},{"fileName":"collect_linux_arm.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"4328e12e4a0ebcf1387d7500620c5727e1c37c94eccc964cb323a0bd2049feff"},{"fileName":"collect_linux_arm64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"f024a6e4296ad3e44f11937106c469fac8a5c178279ded8934f8addaeb63b903"},{"fileName":"collect_linux_riscv64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"f8752afcbc3726824346344219635fe2ef8a90192ee06c60e7b8cb3b6e7b4a87"},{"fileName":"collect_windows_amd64.zip","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"dcf7688b28fcd29adbce40a474c208c9799b88c030505d4b8899e74d8c21b9c3"},{"fileName":"collect_windows_arm64.zip","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"d353581ad9eea470dc345462f2308a0355f964b8cffec79015d2f70b087ed379"},{"fileName":"preflight_darwin_amd64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"7c42f6cb2b74011a50a9fc24fe134896f9c37b6991e7dffe5821f650b9265fc7"},{"fileName":"preflight_darwin_arm64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"40a27bbdc39d3f6f1e24a54f72675fa48dd43bd0564843bcc1dbacd12c61b710"},{"fileName":"preflight_linux_amd64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"49d1d50a851ba811b02347b72264e157e867b4417e4c1ec87b1e24a06708f916"},{"fileName":"preflight_linux_arm.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"ec8fab7db76954433ca9e30ecbd9c87e53a3d5f9b6156e78ad02662b43fac6dc"},{"fileName":"preflight_linux_arm64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"e6b438c6867bb74eb13c1b5a6d8f372e0ef8299018ed5616b2f4045a9488bfcf"},{"fileName":"preflight_linux_riscv64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"d5b0f19babd74a2572db375ee3108dbce7fc570667bbef06c00fcbba4baa496f"},{"fileName":"preflight_windows_amd64.zip","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"9e9bc0c73e6f7c81dec2673ff1b21e696594cb7c6c7d4b889503047cbdd282df"},{"fileName":"preflight_windows_arm64.zip","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"ba4e6cce7b37ac10f51b89380b58d4751f4dd80cad3d49111f73fbf1ba6bcbc9"},{"fileName":"support-bundle_darwin_amd64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"2caf4830011261313c85cf5e03e4f9181ab10c422fddb8e3ff128e46612d6e0d"},{"fileName":"support-bundle_darwin_arm64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"12555a12f2d8b29e2f2bab2327b19636f23cee6ef7f79e4851a1054b46453b0f"},{"fileName":"support-bundle_linux_amd64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"a95184d7f3fa5d0a2e7fdcf58154efc96748ea837d52e7e55a251e4e52c4606f"},{"fileName":"support-bundle_linux_arm.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"182ece080477f8a9b24c21788ee98817b057742746d50dcf0f22db7ebde61031"},{"fileName":"support-bundle_linux_arm64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"62f6882d8263aea8c1280ac194958d225a3dce99544f302753a5e3ca530f7831"},{"fileName":"support-bundle_linux_riscv64.tar.gz","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"9ac6808e5b5902b5192e96199c7123da68ceefade42504957d821638eb565adf"},{"fileName":"support-bundle_windows_amd64.zip","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"3a7e845b4d0ebc3fff52467edcf6e3ebe6fa165e38d3940383b6a1b4f5f805ee"},{"fileName":"support-bundle_windows_arm64.zip","algo":"Sha256","source":"troubleshoot_0.107.2_checksums.txt","hash":"168fbd0332ef352ececc59608d06490d429d792356cdf395474239600caea0fb"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "collect_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "ebd1ef6d1d7395c5e99f2008e42972543e522c492c014835905ca7b17cbec994"
+    },
+    {
+      "fileName": "collect_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "2d98a8e338be1dd4c02bb93aeedbd4b320e80141722d0f1db09782efacb06521"
+    },
+    {
+      "fileName": "collect_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "bf9fe5e43bf5b5d4359cd37532221c97a9c2286e7feb0710f7f02391cf39e437"
+    },
+    {
+      "fileName": "collect_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "4328e12e4a0ebcf1387d7500620c5727e1c37c94eccc964cb323a0bd2049feff"
+    },
+    {
+      "fileName": "collect_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "f024a6e4296ad3e44f11937106c469fac8a5c178279ded8934f8addaeb63b903"
+    },
+    {
+      "fileName": "collect_linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "f8752afcbc3726824346344219635fe2ef8a90192ee06c60e7b8cb3b6e7b4a87"
+    },
+    {
+      "fileName": "collect_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "dcf7688b28fcd29adbce40a474c208c9799b88c030505d4b8899e74d8c21b9c3"
+    },
+    {
+      "fileName": "collect_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "d353581ad9eea470dc345462f2308a0355f964b8cffec79015d2f70b087ed379"
+    },
+    {
+      "fileName": "preflight_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "7c42f6cb2b74011a50a9fc24fe134896f9c37b6991e7dffe5821f650b9265fc7"
+    },
+    {
+      "fileName": "preflight_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "40a27bbdc39d3f6f1e24a54f72675fa48dd43bd0564843bcc1dbacd12c61b710"
+    },
+    {
+      "fileName": "preflight_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "49d1d50a851ba811b02347b72264e157e867b4417e4c1ec87b1e24a06708f916"
+    },
+    {
+      "fileName": "preflight_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "ec8fab7db76954433ca9e30ecbd9c87e53a3d5f9b6156e78ad02662b43fac6dc"
+    },
+    {
+      "fileName": "preflight_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "e6b438c6867bb74eb13c1b5a6d8f372e0ef8299018ed5616b2f4045a9488bfcf"
+    },
+    {
+      "fileName": "preflight_linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "d5b0f19babd74a2572db375ee3108dbce7fc570667bbef06c00fcbba4baa496f"
+    },
+    {
+      "fileName": "preflight_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "9e9bc0c73e6f7c81dec2673ff1b21e696594cb7c6c7d4b889503047cbdd282df"
+    },
+    {
+      "fileName": "preflight_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "ba4e6cce7b37ac10f51b89380b58d4751f4dd80cad3d49111f73fbf1ba6bcbc9"
+    },
+    {
+      "fileName": "support-bundle_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "2caf4830011261313c85cf5e03e4f9181ab10c422fddb8e3ff128e46612d6e0d"
+    },
+    {
+      "fileName": "support-bundle_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "12555a12f2d8b29e2f2bab2327b19636f23cee6ef7f79e4851a1054b46453b0f"
+    },
+    {
+      "fileName": "support-bundle_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "a95184d7f3fa5d0a2e7fdcf58154efc96748ea837d52e7e55a251e4e52c4606f"
+    },
+    {
+      "fileName": "support-bundle_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "182ece080477f8a9b24c21788ee98817b057742746d50dcf0f22db7ebde61031"
+    },
+    {
+      "fileName": "support-bundle_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "62f6882d8263aea8c1280ac194958d225a3dce99544f302753a5e3ca530f7831"
+    },
+    {
+      "fileName": "support-bundle_linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "9ac6808e5b5902b5192e96199c7123da68ceefade42504957d821638eb565adf"
+    },
+    {
+      "fileName": "support-bundle_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "3a7e845b4d0ebc3fff52467edcf6e3ebe6fa165e38d3940383b6a1b4f5f805ee"
+    },
+    {
+      "fileName": "support-bundle_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "troubleshoot_0.107.2_checksums.txt",
+      "hash": "168fbd0332ef352ececc59608d06490d429d792356cdf395474239600caea0fb"
+    }
+  ]
+}

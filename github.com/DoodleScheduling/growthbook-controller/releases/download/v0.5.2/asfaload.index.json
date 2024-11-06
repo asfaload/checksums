@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"growthbook-controller_0.5.2_sbom.spdx.json","algo":"Sha256","source":"checksums.txt","hash":"60f764c1d4385f4ba8c5c3b73250119e8a11b5dd7242e7f436cbabaed68f0fb8"},{"fileName":"growthbook-controller_0.5.2_source_code.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"dae49085ae61ee05fbc40b8dc53a9e2b683ce978a3ce38467642f3c693093459"},{"fileName":"manager_0.5.2_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"40697224a654baa004c2ad7e48a78cd6e57d4b5893bf3e60f21fa1d911c2ef8b"},{"fileName":"manager_0.5.2_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f59e9a65df3b9d81609ae42c79fa29347161b700445ee6a7a312743f21f74e4d"},{"fileName":"manager_0.5.2_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5e9ee356bc8681fd4146cf209be2bfa6fb0c5818caa4d9213d9219f7f8114163"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "growthbook-controller_0.5.2_sbom.spdx.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "60f764c1d4385f4ba8c5c3b73250119e8a11b5dd7242e7f436cbabaed68f0fb8"
+    },
+    {
+      "fileName": "growthbook-controller_0.5.2_source_code.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dae49085ae61ee05fbc40b8dc53a9e2b683ce978a3ce38467642f3c693093459"
+    },
+    {
+      "fileName": "manager_0.5.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "40697224a654baa004c2ad7e48a78cd6e57d4b5893bf3e60f21fa1d911c2ef8b"
+    },
+    {
+      "fileName": "manager_0.5.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f59e9a65df3b9d81609ae42c79fa29347161b700445ee6a7a312743f21f74e4d"
+    },
+    {
+      "fileName": "manager_0.5.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5e9ee356bc8681fd4146cf209be2bfa6fb0c5818caa4d9213d9219f7f8114163"
+    }
+  ]
+}

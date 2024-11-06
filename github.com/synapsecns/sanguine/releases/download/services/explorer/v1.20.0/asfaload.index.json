@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"explorer-1.20.0.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d2d0739abae165807019b7ada7485831d62fa1b35a05fbe5242b4b889536b845"},{"fileName":"explorer-1.20.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"67875d84612b121ae6a0e9971bdaf66904ceffb73005f39bd0cad41bb0d8317d"},{"fileName":"explorer-1.20.0_linux_amd64.tar.gz.sbom","algo":"Sha256","source":"checksums.txt","hash":"c4467eca53c0c5e48379f20dd2d88ad7434082938c42a17e95b6a1c5a100897a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "explorer-1.20.0.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d2d0739abae165807019b7ada7485831d62fa1b35a05fbe5242b4b889536b845"
+    },
+    {
+      "fileName": "explorer-1.20.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "67875d84612b121ae6a0e9971bdaf66904ceffb73005f39bd0cad41bb0d8317d"
+    },
+    {
+      "fileName": "explorer-1.20.0_linux_amd64.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c4467eca53c0c5e48379f20dd2d88ad7434082938c42a17e95b6a1c5a100897a"
+    }
+  ]
+}

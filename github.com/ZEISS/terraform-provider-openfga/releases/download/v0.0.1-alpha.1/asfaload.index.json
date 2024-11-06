@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_darwin_amd64.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"},{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_darwin_arm64.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"},{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_linux_386.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"},{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_linux_amd64.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"},{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_linux_arm.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"},{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_linux_arm64.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"},{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_windows_386.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"acecafe7eaf965dc74c1253a38c8adc3c7a9e7096d0c61afca8dd517d4428781"},{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_windows_amd64.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"acecafe7eaf965dc74c1253a38c8adc3c7a9e7096d0c61afca8dd517d4428781"},{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_windows_arm.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"acecafe7eaf965dc74c1253a38c8adc3c7a9e7096d0c61afca8dd517d4428781"},{"fileName":"terraform_provider_openfga_0.0.1-alpha.1_windows_arm64.tar.gz","algo":"Sha256","source":"terraform-provider-openfga_checksums.txt","hash":"acecafe7eaf965dc74c1253a38c8adc3c7a9e7096d0c61afca8dd517d4428781"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"
+    },
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"
+    },
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"
+    },
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"
+    },
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"
+    },
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "c8054c2f10fb358ee15db73a16593e337fcc4df1c5784c6d617f3665c0f76020"
+    },
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "acecafe7eaf965dc74c1253a38c8adc3c7a9e7096d0c61afca8dd517d4428781"
+    },
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "acecafe7eaf965dc74c1253a38c8adc3c7a9e7096d0c61afca8dd517d4428781"
+    },
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_windows_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "acecafe7eaf965dc74c1253a38c8adc3c7a9e7096d0c61afca8dd517d4428781"
+    },
+    {
+      "fileName": "terraform_provider_openfga_0.0.1-alpha.1_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "terraform-provider-openfga_checksums.txt",
+      "hash": "acecafe7eaf965dc74c1253a38c8adc3c7a9e7096d0c61afca8dd517d4428781"
+    }
+  ]
+}

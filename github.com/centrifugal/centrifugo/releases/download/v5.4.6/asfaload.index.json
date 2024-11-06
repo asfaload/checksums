@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"centrifugo_5.4.6_darwin_amd64.tar.gz","algo":"Sha256","source":"centrifugo_5.4.6_checksums.txt","hash":"4e54bc253563bb45fe9b3d491dbf50611c240d399b81df1fdcc83b6498b9ccdc"},{"fileName":"centrifugo_5.4.6_darwin_arm64.tar.gz","algo":"Sha256","source":"centrifugo_5.4.6_checksums.txt","hash":"91959922cf70beebcd8922abcfa5cc8c8a8e658b531a74e315d8ea13990b9532"},{"fileName":"centrifugo_5.4.6_freebsd_amd64.tar.gz","algo":"Sha256","source":"centrifugo_5.4.6_checksums.txt","hash":"ea8c8f90d79b01cf4425a3e6e089b9e9e5c49f13d022af57967cd50a42c85a86"},{"fileName":"centrifugo_5.4.6_linux_386.tar.gz","algo":"Sha256","source":"centrifugo_5.4.6_checksums.txt","hash":"1ca8733010fb73541b303c5323822687d64146b49e054856864b1e22e6115031"},{"fileName":"centrifugo_5.4.6_linux_amd64.tar.gz","algo":"Sha256","source":"centrifugo_5.4.6_checksums.txt","hash":"58fff65b15fb4f56d5f47f71910cb1db15f64b01a7ca02f10bec33cb212605e4"},{"fileName":"centrifugo_5.4.6_linux_arm64.tar.gz","algo":"Sha256","source":"centrifugo_5.4.6_checksums.txt","hash":"0b7802da3074974dfc8b4d24179a2a821467da87d5d33543273794595aaa0d63"},{"fileName":"centrifugo_5.4.6_linux_armv6.tar.gz","algo":"Sha256","source":"centrifugo_5.4.6_checksums.txt","hash":"02f83b0117c632a0fac9b13c7d7cae5b16fd9c0b777f2d9bc67168a0e55425f8"},{"fileName":"centrifugo_5.4.6_windows_amd64.zip","algo":"Sha256","source":"centrifugo_5.4.6_checksums.txt","hash":"8b7d0b4812d3bb71f9dc8f30dd048270383154eacdaf2b4110a47cee93f98cd1"},{"fileName":"centrifugo-5.4.6-0.x86_64.rpm","algo":"Sha256","source":"centrifugo-5.4.6-0.x86_64.rpm_checksum.txt","hash":"6916699f201285920e6bca52b4906dbd61695c58e7690a6fe8ff0c953274e2e7"},{"fileName":"centrifugo_5.4.6-0_amd64.deb","algo":"Sha256","source":"centrifugo_5.4.6-0_amd64.deb_checksum.txt","hash":"558f65292a41bad2cc3979a1109a7d555414b81571cdce14812e0ccf2d05e8a6"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "centrifugo_5.4.6_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "centrifugo_5.4.6_checksums.txt",
+      "hash": "4e54bc253563bb45fe9b3d491dbf50611c240d399b81df1fdcc83b6498b9ccdc"
+    },
+    {
+      "fileName": "centrifugo_5.4.6_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "centrifugo_5.4.6_checksums.txt",
+      "hash": "91959922cf70beebcd8922abcfa5cc8c8a8e658b531a74e315d8ea13990b9532"
+    },
+    {
+      "fileName": "centrifugo_5.4.6_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "centrifugo_5.4.6_checksums.txt",
+      "hash": "ea8c8f90d79b01cf4425a3e6e089b9e9e5c49f13d022af57967cd50a42c85a86"
+    },
+    {
+      "fileName": "centrifugo_5.4.6_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "centrifugo_5.4.6_checksums.txt",
+      "hash": "1ca8733010fb73541b303c5323822687d64146b49e054856864b1e22e6115031"
+    },
+    {
+      "fileName": "centrifugo_5.4.6_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "centrifugo_5.4.6_checksums.txt",
+      "hash": "58fff65b15fb4f56d5f47f71910cb1db15f64b01a7ca02f10bec33cb212605e4"
+    },
+    {
+      "fileName": "centrifugo_5.4.6_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "centrifugo_5.4.6_checksums.txt",
+      "hash": "0b7802da3074974dfc8b4d24179a2a821467da87d5d33543273794595aaa0d63"
+    },
+    {
+      "fileName": "centrifugo_5.4.6_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "centrifugo_5.4.6_checksums.txt",
+      "hash": "02f83b0117c632a0fac9b13c7d7cae5b16fd9c0b777f2d9bc67168a0e55425f8"
+    },
+    {
+      "fileName": "centrifugo_5.4.6_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "centrifugo_5.4.6_checksums.txt",
+      "hash": "8b7d0b4812d3bb71f9dc8f30dd048270383154eacdaf2b4110a47cee93f98cd1"
+    },
+    {
+      "fileName": "centrifugo-5.4.6-0.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "centrifugo-5.4.6-0.x86_64.rpm_checksum.txt",
+      "hash": "6916699f201285920e6bca52b4906dbd61695c58e7690a6fe8ff0c953274e2e7"
+    },
+    {
+      "fileName": "centrifugo_5.4.6-0_amd64.deb",
+      "algo": "Sha256",
+      "source": "centrifugo_5.4.6-0_amd64.deb_checksum.txt",
+      "hash": "558f65292a41bad2cc3979a1109a7d555414b81571cdce14812e0ccf2d05e8a6"
+    }
+  ]
+}

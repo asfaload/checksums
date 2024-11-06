@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"CloudCompare-v2.13.2.tar.gz","algo":"Sha256","source":"CloudCompare-v2.13.2.tar.gz.sha256sum","hash":"26951ea7ff0818d56dd620bad7f49411d99ffb35126593c3da206f327be188ea"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "CloudCompare-v2.13.2.tar.gz",
+      "algo": "Sha256",
+      "source": "CloudCompare-v2.13.2.tar.gz.sha256sum",
+      "hash": "26951ea7ff0818d56dd620bad7f49411d99ffb35126593c3da206f327be188ea"
+    }
+  ]
+}

@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"q_0.19.2_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1a3b71d0eb7943f61a983115a79d2b8178ec66d3577430e60662d8e58950762a"},{"fileName":"q_0.19.2_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e52507b2ef48feaee762f3551b137e501c9ece9f6788129b4f49ffdc3ebd28d6"},{"fileName":"q_0.19.2_freebsd_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3cfc01f6a0c118c3549f475b664844af2dbfa0422cc6043bdb4db64941ecf56d"},{"fileName":"q_0.19.2_freebsd_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ec7c4e9920748ba8feb96246724570603392f8cb478bddfd5e1b1db8f48264fd"},{"fileName":"q_0.19.2_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"d4f3384db64d41ada91ccbefae26a457d9ea9c93d486c8c2f59e92f0ab09015b"},{"fileName":"q_0.19.2_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"db09a11267e401f18d476352c9c89a6284d02a63624442e8424bc46376e6d67d"},{"fileName":"q_0.19.2_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e3a0a960592d320eddbef8c4ce2f9df4651fbcb0d9648aa24fbf8f0d7b3aace1"},{"fileName":"q_0.19.2_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"941d19a3c5628e2bc9e53faa5f0006e204856dea0c8c43a7d02427e262495a60"},{"fileName":"q_0.19.2_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"bef3789b222fbb115b39f6f55103fac556fe9d85cb9866af6339b3c451f11aec"},{"fileName":"q_0.19.2_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9c97877a243e8693961d7f31dc5ede3d583b1b811f136c4245a21040478cb984"},{"fileName":"q_0.19.2_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7c3086038217c7e5558258018b204df71796f3f5dc351bcb31cf9996405c6e0f"},{"fileName":"q_0.19.2_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ae123dc792a7901d285e868b4ab30a06c2ed95b16520841c8f7668cf2aeb4c28"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "q_0.19.2_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1a3b71d0eb7943f61a983115a79d2b8178ec66d3577430e60662d8e58950762a"
+    },
+    {
+      "fileName": "q_0.19.2_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e52507b2ef48feaee762f3551b137e501c9ece9f6788129b4f49ffdc3ebd28d6"
+    },
+    {
+      "fileName": "q_0.19.2_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3cfc01f6a0c118c3549f475b664844af2dbfa0422cc6043bdb4db64941ecf56d"
+    },
+    {
+      "fileName": "q_0.19.2_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ec7c4e9920748ba8feb96246724570603392f8cb478bddfd5e1b1db8f48264fd"
+    },
+    {
+      "fileName": "q_0.19.2_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d4f3384db64d41ada91ccbefae26a457d9ea9c93d486c8c2f59e92f0ab09015b"
+    },
+    {
+      "fileName": "q_0.19.2_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "db09a11267e401f18d476352c9c89a6284d02a63624442e8424bc46376e6d67d"
+    },
+    {
+      "fileName": "q_0.19.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e3a0a960592d320eddbef8c4ce2f9df4651fbcb0d9648aa24fbf8f0d7b3aace1"
+    },
+    {
+      "fileName": "q_0.19.2_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "941d19a3c5628e2bc9e53faa5f0006e204856dea0c8c43a7d02427e262495a60"
+    },
+    {
+      "fileName": "q_0.19.2_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bef3789b222fbb115b39f6f55103fac556fe9d85cb9866af6339b3c451f11aec"
+    },
+    {
+      "fileName": "q_0.19.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9c97877a243e8693961d7f31dc5ede3d583b1b811f136c4245a21040478cb984"
+    },
+    {
+      "fileName": "q_0.19.2_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7c3086038217c7e5558258018b204df71796f3f5dc351bcb31cf9996405c6e0f"
+    },
+    {
+      "fileName": "q_0.19.2_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ae123dc792a7901d285e868b4ab30a06c2ed95b16520841c8f7668cf2aeb4c28"
+    }
+  ]
+}

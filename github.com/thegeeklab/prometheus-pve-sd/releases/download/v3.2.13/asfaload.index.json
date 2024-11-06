@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T18:38:07+00:00","publishedOn":"2024-11-05T18:40:11.9983903+00:00","version":1,"publishedFiles":[{"fileName":"prometheus_pve_sd-3.2.13-py3-none-any.whl","algo":"Sha256","source":"sha256sum.txt","hash":"fb49dd23df6a50828109fdc879e5517c50e863f97f6a16c00a78f05b8254ac68"},{"fileName":"prometheus_pve_sd-3.2.13.tar.gz","algo":"Sha256","source":"sha256sum.txt","hash":"875f842bcabea5baefcd588cb568105b3c11b2a7f0865152735d1af95bccc622"}]}
+{
+  "mirroredOn": "2024-11-05T18:40:11.9983903+00:00",
+  "publishedOn": "2024-11-05T18:38:07+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "prometheus_pve_sd-3.2.13-py3-none-any.whl",
+      "algo": "Sha256",
+      "source": "sha256sum.txt",
+      "hash": "fb49dd23df6a50828109fdc879e5517c50e863f97f6a16c00a78f05b8254ac68"
+    },
+    {
+      "fileName": "prometheus_pve_sd-3.2.13.tar.gz",
+      "algo": "Sha256",
+      "source": "sha256sum.txt",
+      "hash": "875f842bcabea5baefcd588cb568105b3c11b2a7f0865152735d1af95bccc622"
+    }
+  ]
+}

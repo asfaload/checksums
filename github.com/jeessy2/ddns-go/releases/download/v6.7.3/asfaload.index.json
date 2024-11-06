@@ -1,1 +1,181 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ddns-go_6.7.3_android_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d8fb886cc3109520742f1a426fd6ae69ca6109ec803b59106a6e8e63515c16ed"},{"fileName":"ddns-go_6.7.3_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ada53d2a05ec8d947805a12a1f95d58644829f51bb027c1325e7af02f20d8354"},{"fileName":"ddns-go_6.7.3_darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c994205f920cb7639c8194615664d3e9236e90bd978ab6a7b8ac344d331b2210"},{"fileName":"ddns-go_6.7.3_freebsd_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4f189af1f8b9753dbdbb867ae7b076400edcb7b6349c25dd7d87e71d5ff56927"},{"fileName":"ddns-go_6.7.3_freebsd_armv5.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fe7bbeabd832bd010c8c9bc06c28a43ab38e759511b084f833f23c7533886c80"},{"fileName":"ddns-go_6.7.3_freebsd_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"86f764abdf602524abcfb7355da850945457b7735c96d0ae5845780aa2315a7d"},{"fileName":"ddns-go_6.7.3_freebsd_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6d33aeb21a6905a6563f23496d6687e7ca1036fd524b80a943cbd3c2e8696e4d"},{"fileName":"ddns-go_6.7.3_freebsd_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7c17f1802d2c2590e83b14631ed952c90b8a3d69ec391b56ba0688413459e243"},{"fileName":"ddns-go_6.7.3_freebsd_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"de2b42964001fa7085f82308934e499a268be54e1bc9f2cafc530d25051092d8"},{"fileName":"ddns-go_6.7.3_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e3c229e085d5c4928d2ea4ddfeb280b3e25ae85f49c2855f27f9a86bede509f9"},{"fileName":"ddns-go_6.7.3_linux_armv5.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"953915d1df8afe8b7eb4994a52debd0d69ec9b0d4111e0132a3f2457b9fdffe5"},{"fileName":"ddns-go_6.7.3_linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bd942e3e0237dae0135bd75da40262a2b4f15b4519bfad8482fdbae7638e8e01"},{"fileName":"ddns-go_6.7.3_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"409db5d9350c6dc69109ec16f3e36dc247cf2012517a9cce2c669448ba35f4c2"},{"fileName":"ddns-go_6.7.3_linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"aea778109c52220b0010b07ee409cea4f738237ddaceb2fd332a89fee4640355"},{"fileName":"ddns-go_6.7.3_linux_mips64_hardfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8722db70b1e7ae0d09f90dd84f92b94f86d7fbfd5ad98931ae044b933873c4f4"},{"fileName":"ddns-go_6.7.3_linux_mips64_softfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f184a823c22f6a1c908f4f43459e491bf9af15c34f7b0dc141f2012885fd07f6"},{"fileName":"ddns-go_6.7.3_linux_mips64le_hardfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"77c646d1d31e4420a85588eef9c13ddd23bf95a9cf45e109b74c86c87899f506"},{"fileName":"ddns-go_6.7.3_linux_mips64le_softfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a063252df661c28b86fb82b6b22f8017e1b57163657987d52db98f9dccce529e"},{"fileName":"ddns-go_6.7.3_linux_mips_hardfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"65f06ce72857d989fc59176644e66e4f85940e709b090b8cbed9c69dcec03c75"},{"fileName":"ddns-go_6.7.3_linux_mips_softfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"de26f851be8f8fd18f460385813c4a1bdf15ecca80fe6c686a51bf2923d15d6e"},{"fileName":"ddns-go_6.7.3_linux_mipsle_hardfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"622e969a17c439bd0276243e244e39f9790343c268759682d76fe2426f59e037"},{"fileName":"ddns-go_6.7.3_linux_mipsle_softfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e514d31f254595f90c7b89ce283728159102363500522fb04142a1b3e87fed4a"},{"fileName":"ddns-go_6.7.3_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e268eda63e7a4fb5239c79a97707201d2e41f59157f24742de347f9668876c65"},{"fileName":"ddns-go_6.7.3_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"1a4d466279a8ae4df4d07c48b15c952aba4b6a08c885eee2e8af69cf899c1024"},{"fileName":"ddns-go_6.7.3_windows_armv5.zip","algo":"Sha256","source":"checksums.txt","hash":"49e9a201f769265dbc6b2dccda98d583bb5896a68e5c8fc456cb51eabd8455d2"},{"fileName":"ddns-go_6.7.3_windows_armv6.zip","algo":"Sha256","source":"checksums.txt","hash":"4a4b2009d120b8b7bcfc913e92e50de4d07f3918f05e1aa9dceb2ebacf4478d8"},{"fileName":"ddns-go_6.7.3_windows_armv7.zip","algo":"Sha256","source":"checksums.txt","hash":"4e7bf1b4f99cbb985af50f9c47e221b07526a5c33d75bd5eb872e219ddaa6d6b"},{"fileName":"ddns-go_6.7.3_windows_i386.zip","algo":"Sha256","source":"checksums.txt","hash":"9e7c6c5acadec45695d3d4e15d69b2fa360f52a02f06acb1aa827c613a9f53f3"},{"fileName":"ddns-go_6.7.3_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"3905760c98a5089926d8de7b1a020cb10eadb786c6f6491c3d224aa947c2985a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ddns-go_6.7.3_android_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d8fb886cc3109520742f1a426fd6ae69ca6109ec803b59106a6e8e63515c16ed"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ada53d2a05ec8d947805a12a1f95d58644829f51bb027c1325e7af02f20d8354"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c994205f920cb7639c8194615664d3e9236e90bd978ab6a7b8ac344d331b2210"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4f189af1f8b9753dbdbb867ae7b076400edcb7b6349c25dd7d87e71d5ff56927"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_freebsd_armv5.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fe7bbeabd832bd010c8c9bc06c28a43ab38e759511b084f833f23c7533886c80"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_freebsd_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "86f764abdf602524abcfb7355da850945457b7735c96d0ae5845780aa2315a7d"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_freebsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6d33aeb21a6905a6563f23496d6687e7ca1036fd524b80a943cbd3c2e8696e4d"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_freebsd_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7c17f1802d2c2590e83b14631ed952c90b8a3d69ec391b56ba0688413459e243"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_freebsd_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "de2b42964001fa7085f82308934e499a268be54e1bc9f2cafc530d25051092d8"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e3c229e085d5c4928d2ea4ddfeb280b3e25ae85f49c2855f27f9a86bede509f9"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_armv5.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "953915d1df8afe8b7eb4994a52debd0d69ec9b0d4111e0132a3f2457b9fdffe5"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bd942e3e0237dae0135bd75da40262a2b4f15b4519bfad8482fdbae7638e8e01"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "409db5d9350c6dc69109ec16f3e36dc247cf2012517a9cce2c669448ba35f4c2"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aea778109c52220b0010b07ee409cea4f738237ddaceb2fd332a89fee4640355"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_mips64_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8722db70b1e7ae0d09f90dd84f92b94f86d7fbfd5ad98931ae044b933873c4f4"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_mips64_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f184a823c22f6a1c908f4f43459e491bf9af15c34f7b0dc141f2012885fd07f6"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_mips64le_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "77c646d1d31e4420a85588eef9c13ddd23bf95a9cf45e109b74c86c87899f506"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_mips64le_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a063252df661c28b86fb82b6b22f8017e1b57163657987d52db98f9dccce529e"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_mips_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "65f06ce72857d989fc59176644e66e4f85940e709b090b8cbed9c69dcec03c75"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_mips_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "de26f851be8f8fd18f460385813c4a1bdf15ecca80fe6c686a51bf2923d15d6e"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_mipsle_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "622e969a17c439bd0276243e244e39f9790343c268759682d76fe2426f59e037"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_mipsle_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e514d31f254595f90c7b89ce283728159102363500522fb04142a1b3e87fed4a"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e268eda63e7a4fb5239c79a97707201d2e41f59157f24742de347f9668876c65"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1a4d466279a8ae4df4d07c48b15c952aba4b6a08c885eee2e8af69cf899c1024"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_windows_armv5.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "49e9a201f769265dbc6b2dccda98d583bb5896a68e5c8fc456cb51eabd8455d2"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_windows_armv6.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4a4b2009d120b8b7bcfc913e92e50de4d07f3918f05e1aa9dceb2ebacf4478d8"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_windows_armv7.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e7bf1b4f99cbb985af50f9c47e221b07526a5c33d75bd5eb872e219ddaa6d6b"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_windows_i386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9e7c6c5acadec45695d3d4e15d69b2fa360f52a02f06acb1aa827c613a9f53f3"
+    },
+    {
+      "fileName": "ddns-go_6.7.3_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3905760c98a5089926d8de7b1a020cb10eadb786c6f6491c3d224aa947c2985a"
+    }
+  ]
+}

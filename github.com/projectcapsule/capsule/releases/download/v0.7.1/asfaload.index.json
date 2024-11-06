@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"capsule_0.7.1_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"dc046dcdce8664c9db82a16d0d3f8019684225d7f502e1700ceed0bb7ebeb065"},{"fileName":"capsule_0.7.1_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"5f654464b2b9dfca42a5a006a144469eccfa38b491c68f4259c93e0d1a2dfd07"},{"fileName":"capsule_0.7.1_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"df6d669c704236228384612cf8cd14b63f99a5356f863a31a5a3ebdf03ec1507"},{"fileName":"capsule_0.7.1_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"6d491caea0c22cdc6fb2b0d32ba989c8f5b0b3bc8b6a09ac1dc30eaade582753"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "capsule_0.7.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dc046dcdce8664c9db82a16d0d3f8019684225d7f502e1700ceed0bb7ebeb065"
+    },
+    {
+      "fileName": "capsule_0.7.1_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5f654464b2b9dfca42a5a006a144469eccfa38b491c68f4259c93e0d1a2dfd07"
+    },
+    {
+      "fileName": "capsule_0.7.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "df6d669c704236228384612cf8cd14b63f99a5356f863a31a5a3ebdf03ec1507"
+    },
+    {
+      "fileName": "capsule_0.7.1_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6d491caea0c22cdc6fb2b0d32ba989c8f5b0b3bc8b6a09ac1dc30eaade582753"
+    }
+  ]
+}

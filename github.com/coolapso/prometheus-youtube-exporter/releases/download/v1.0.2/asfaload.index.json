@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"prometheus-youtube-exporter_1.0.2_linux_amd64.tar.gz","algo":"Sha256","source":"prometheus-youtube-exporter_1.0.2_checksums.txt","hash":"e9deff7a0edc73696e2ff4d0baf83e2a389c4398ee03cef3e0b35d7c14701a72"},{"fileName":"prometheus-youtube-exporter_1.0.2_linux_arm64.tar.gz","algo":"Sha256","source":"prometheus-youtube-exporter_1.0.2_checksums.txt","hash":"f62e217cb296d5c5ce1819e8e86cf2d2660d6bcbc1451fc84eec6ca5af298cd3"},{"fileName":"prometheus-youtube-exporter_1.0.2_linux_armv6.tar.gz","algo":"Sha256","source":"prometheus-youtube-exporter_1.0.2_checksums.txt","hash":"7951ff24e21b4759a42f930e89e57ebd4a2b83346f679347007fdad4e01d05b9"},{"fileName":"prometheus-youtube-exporter_1.0.2_linux_armv7.tar.gz","algo":"Sha256","source":"prometheus-youtube-exporter_1.0.2_checksums.txt","hash":"d4612483b0cdfdbd9bf0cfeca1b3be24f1afe62d378c1deb9c314a10c64b556b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "prometheus-youtube-exporter_1.0.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "prometheus-youtube-exporter_1.0.2_checksums.txt",
+      "hash": "e9deff7a0edc73696e2ff4d0baf83e2a389c4398ee03cef3e0b35d7c14701a72"
+    },
+    {
+      "fileName": "prometheus-youtube-exporter_1.0.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "prometheus-youtube-exporter_1.0.2_checksums.txt",
+      "hash": "f62e217cb296d5c5ce1819e8e86cf2d2660d6bcbc1451fc84eec6ca5af298cd3"
+    },
+    {
+      "fileName": "prometheus-youtube-exporter_1.0.2_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "prometheus-youtube-exporter_1.0.2_checksums.txt",
+      "hash": "7951ff24e21b4759a42f930e89e57ebd4a2b83346f679347007fdad4e01d05b9"
+    },
+    {
+      "fileName": "prometheus-youtube-exporter_1.0.2_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "prometheus-youtube-exporter_1.0.2_checksums.txt",
+      "hash": "d4612483b0cdfdbd9bf0cfeca1b3be24f1afe62d378c1deb9c314a10c64b556b"
+    }
+  ]
+}

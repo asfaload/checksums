@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"k0sctl-linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"a7394088c710633b6c02bbbb5a9ff8d9ab94a31e5d17f7b34808cd4aeefef40c"},{"fileName":"k0sctl-linux-arm64","algo":"Sha256","source":"checksums.txt","hash":"7796d96c7bf85722396b9f5b6000c47da0ac0f90e98f45b48b83bd79dc517c2c"},{"fileName":"k0sctl-linux-arm","algo":"Sha256","source":"checksums.txt","hash":"90276c36641d7bd95a7cc6b00dee68b6b2eb2d0fd5036ed9c7c7e9cd5887e913"},{"fileName":"k0sctl-win-amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"262f51195f2c4cfd58dfc00598285f8f7de988147cd4c6de8d22d2d4b2621768"},{"fileName":"k0sctl-darwin-amd64","algo":"Sha256","source":"checksums.txt","hash":"8c71c225802c9b9d1352728adb7def0a6d6ff30cdf8b93c4b82d4ad6f420b75f"},{"fileName":"k0sctl-darwin-arm64","algo":"Sha256","source":"checksums.txt","hash":"7d18000b18b4505c6402eeca4d3a318711909b28ed6ae61ce9d2aacb9147532b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "k0sctl-linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a7394088c710633b6c02bbbb5a9ff8d9ab94a31e5d17f7b34808cd4aeefef40c"
+    },
+    {
+      "fileName": "k0sctl-linux-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7796d96c7bf85722396b9f5b6000c47da0ac0f90e98f45b48b83bd79dc517c2c"
+    },
+    {
+      "fileName": "k0sctl-linux-arm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "90276c36641d7bd95a7cc6b00dee68b6b2eb2d0fd5036ed9c7c7e9cd5887e913"
+    },
+    {
+      "fileName": "k0sctl-win-amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "262f51195f2c4cfd58dfc00598285f8f7de988147cd4c6de8d22d2d4b2621768"
+    },
+    {
+      "fileName": "k0sctl-darwin-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8c71c225802c9b9d1352728adb7def0a6d6ff30cdf8b93c4b82d4ad6f420b75f"
+    },
+    {
+      "fileName": "k0sctl-darwin-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7d18000b18b4505c6402eeca4d3a318711909b28ed6ae61ce9d2aacb9147532b"
+    }
+  ]
+}

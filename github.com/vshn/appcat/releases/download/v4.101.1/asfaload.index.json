@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"appcat_linux_amd64","algo":"Sha256","source":"checksums.txt","hash":"78314a288483a4aa76f909da28dc503c14f10610c9024a11e2c988c68c02643b"},{"fileName":"appcat_linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"f442e92d5075225d60e3b90f05f80665cdc60892a863a7eea01ff31dd07a26d6"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "appcat_linux_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "78314a288483a4aa76f909da28dc503c14f10610c9024a11e2c988c68c02643b"
+    },
+    {
+      "fileName": "appcat_linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f442e92d5075225d60e3b90f05f80665cdc60892a863a7eea01ff31dd07a26d6"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"manifest-checkers_Darwin_arm64.tar.gz","algo":"Sha256","source":"manifest-checkers_0.2.0-alpha0_checksums.txt","hash":"dd890b6aa987093ccc905a3bc930674db74aad5c973055f4b157c1d0787d6346"},{"fileName":"manifest-checkers_Darwin_x86_64.tar.gz","algo":"Sha256","source":"manifest-checkers_0.2.0-alpha0_checksums.txt","hash":"5ae78e00b4d31d27fb9b61178a574f3cf47e8b56cf483325d5b29ba812203e54"},{"fileName":"manifest-checkers_Linux_arm64.tar.gz","algo":"Sha256","source":"manifest-checkers_0.2.0-alpha0_checksums.txt","hash":"cf1f91a88cffbe3889ee849a2ef1c29eb7a6fa2c373bff32513fef47b152c889"},{"fileName":"manifest-checkers_Linux_i386.tar.gz","algo":"Sha256","source":"manifest-checkers_0.2.0-alpha0_checksums.txt","hash":"e26764f03c33c3f170cfbfd4ae959282025d46cfc5d58aad390c9c076ddaf765"},{"fileName":"manifest-checkers_Linux_x86_64.tar.gz","algo":"Sha256","source":"manifest-checkers_0.2.0-alpha0_checksums.txt","hash":"4292ee24f8b3430c5b7c425c978506a90f8ae7c965c4a7183c30cd1b14f2523e"},{"fileName":"manifest-checkers_Windows_arm64.zip","algo":"Sha256","source":"manifest-checkers_0.2.0-alpha0_checksums.txt","hash":"152d8670021bde10b5c01632a722289c8c2c4b3a852d89931916cbf83936ad55"},{"fileName":"manifest-checkers_Windows_i386.zip","algo":"Sha256","source":"manifest-checkers_0.2.0-alpha0_checksums.txt","hash":"8618b27687e8e0f66495efdff42fd4eeba0881375492de0e29321e4dc6f03c89"},{"fileName":"manifest-checkers_Windows_x86_64.zip","algo":"Sha256","source":"manifest-checkers_0.2.0-alpha0_checksums.txt","hash":"cab3ab0df5acf893843a9fb58d6f94a60705bd1ddd7b6eeec4236e09b5797008"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "manifest-checkers_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "manifest-checkers_0.2.0-alpha0_checksums.txt",
+      "hash": "dd890b6aa987093ccc905a3bc930674db74aad5c973055f4b157c1d0787d6346"
+    },
+    {
+      "fileName": "manifest-checkers_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "manifest-checkers_0.2.0-alpha0_checksums.txt",
+      "hash": "5ae78e00b4d31d27fb9b61178a574f3cf47e8b56cf483325d5b29ba812203e54"
+    },
+    {
+      "fileName": "manifest-checkers_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "manifest-checkers_0.2.0-alpha0_checksums.txt",
+      "hash": "cf1f91a88cffbe3889ee849a2ef1c29eb7a6fa2c373bff32513fef47b152c889"
+    },
+    {
+      "fileName": "manifest-checkers_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "manifest-checkers_0.2.0-alpha0_checksums.txt",
+      "hash": "e26764f03c33c3f170cfbfd4ae959282025d46cfc5d58aad390c9c076ddaf765"
+    },
+    {
+      "fileName": "manifest-checkers_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "manifest-checkers_0.2.0-alpha0_checksums.txt",
+      "hash": "4292ee24f8b3430c5b7c425c978506a90f8ae7c965c4a7183c30cd1b14f2523e"
+    },
+    {
+      "fileName": "manifest-checkers_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "manifest-checkers_0.2.0-alpha0_checksums.txt",
+      "hash": "152d8670021bde10b5c01632a722289c8c2c4b3a852d89931916cbf83936ad55"
+    },
+    {
+      "fileName": "manifest-checkers_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "manifest-checkers_0.2.0-alpha0_checksums.txt",
+      "hash": "8618b27687e8e0f66495efdff42fd4eeba0881375492de0e29321e4dc6f03c89"
+    },
+    {
+      "fileName": "manifest-checkers_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "manifest-checkers_0.2.0-alpha0_checksums.txt",
+      "hash": "cab3ab0df5acf893843a9fb58d6f94a60705bd1ddd7b6eeec4236e09b5797008"
+    }
+  ]
+}

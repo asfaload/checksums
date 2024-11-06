@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ns_0.0.394_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"817a8e46fbb70b352f084d256352acf398ef962fd0dd0581c30126530b8140f1"},{"fileName":"ns_0.0.394_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"374dc442ec3ff22a4a189c869a38dd45cf2521c95eb5433ec9ed7302c3fcb249"},{"fileName":"ns_0.0.394_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"83a8a814f50f22a9b53c8882f13742ca2c6e1ca24a18bc7b0c144ed5ab14e73a"},{"fileName":"ns_0.0.394_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3b722d8d4d7c6e84fd8f7e4be5f60e05aa87c85db648282fe859082f0edbbcdc"},{"fileName":"nsc_0.0.394_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ae07e88961bd67039b6ed1e721e05571cba1eea65b754c9b12905159c0bcaae3"},{"fileName":"nsc_0.0.394_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"472fb214e60866251681793e1e2b614003987104d01b5f7ef0f235044dbc739f"},{"fileName":"nsc_0.0.394_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a708338b74ddd411b7c79ab2b56f22460793eed7d6c4fec4551ee01f8abf0965"},{"fileName":"nsc_0.0.394_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0b11e3e8ae584b332a5b827a974c40a517e388941937c8bed20c8dc8c99b6114"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ns_0.0.394_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "817a8e46fbb70b352f084d256352acf398ef962fd0dd0581c30126530b8140f1"
+    },
+    {
+      "fileName": "ns_0.0.394_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "374dc442ec3ff22a4a189c869a38dd45cf2521c95eb5433ec9ed7302c3fcb249"
+    },
+    {
+      "fileName": "ns_0.0.394_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "83a8a814f50f22a9b53c8882f13742ca2c6e1ca24a18bc7b0c144ed5ab14e73a"
+    },
+    {
+      "fileName": "ns_0.0.394_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3b722d8d4d7c6e84fd8f7e4be5f60e05aa87c85db648282fe859082f0edbbcdc"
+    },
+    {
+      "fileName": "nsc_0.0.394_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ae07e88961bd67039b6ed1e721e05571cba1eea65b754c9b12905159c0bcaae3"
+    },
+    {
+      "fileName": "nsc_0.0.394_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "472fb214e60866251681793e1e2b614003987104d01b5f7ef0f235044dbc739f"
+    },
+    {
+      "fileName": "nsc_0.0.394_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a708338b74ddd411b7c79ab2b56f22460793eed7d6c4fec4551ee01f8abf0965"
+    },
+    {
+      "fileName": "nsc_0.0.394_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0b11e3e8ae584b332a5b827a974c40a517e388941937c8bed20c8dc8c99b6114"
+    }
+  ]
+}

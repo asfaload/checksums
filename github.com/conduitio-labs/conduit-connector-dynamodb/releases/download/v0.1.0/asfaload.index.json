@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"conduit-connector-dynamodb_0.1.0_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a6e0d5b55524aab74c45a69ca390d5125ea121afe13e950cb51e40ab87e84559"},{"fileName":"conduit-connector-dynamodb_0.1.0_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c010c4b532d8858de94ee950f8b147f5ac9dc1745f9b6abb6b2ea6708af16b1c"},{"fileName":"conduit-connector-dynamodb_0.1.0_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0e07fabce2a25cc350ead87d19022b9e44c5242691c04e0471ec7cdbe5ae7048"},{"fileName":"conduit-connector-dynamodb_0.1.0_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8b6bc88c558710ef54feaef8f80c6ae0a2e31b08f1c5956e41abf1f1a727f937"},{"fileName":"conduit-connector-dynamodb_0.1.0_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6dcd1e04c05936a0df4dd867eb9e3e431eb2cded6b647368bd0fa3e1e599024f"},{"fileName":"conduit-connector-dynamodb_0.1.0_Windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"812ad6ae189ed4a9cc68b5315209d42b8e1a8b8958d26999fef9113a66ab5cfc"},{"fileName":"conduit-connector-dynamodb_0.1.0_Windows_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2794c0856ddeca848200b6af9ae76e74d4b5f828e6897e8fbdd0c4e0c3e7ecae"},{"fileName":"conduit-connector-dynamodb_0.1.0_Windows_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d935ebd8c69da373dca0f142423530ff3bf17dc25a0821cb14fe62930debcf96"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "conduit-connector-dynamodb_0.1.0_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a6e0d5b55524aab74c45a69ca390d5125ea121afe13e950cb51e40ab87e84559"
+    },
+    {
+      "fileName": "conduit-connector-dynamodb_0.1.0_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c010c4b532d8858de94ee950f8b147f5ac9dc1745f9b6abb6b2ea6708af16b1c"
+    },
+    {
+      "fileName": "conduit-connector-dynamodb_0.1.0_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0e07fabce2a25cc350ead87d19022b9e44c5242691c04e0471ec7cdbe5ae7048"
+    },
+    {
+      "fileName": "conduit-connector-dynamodb_0.1.0_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8b6bc88c558710ef54feaef8f80c6ae0a2e31b08f1c5956e41abf1f1a727f937"
+    },
+    {
+      "fileName": "conduit-connector-dynamodb_0.1.0_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6dcd1e04c05936a0df4dd867eb9e3e431eb2cded6b647368bd0fa3e1e599024f"
+    },
+    {
+      "fileName": "conduit-connector-dynamodb_0.1.0_Windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "812ad6ae189ed4a9cc68b5315209d42b8e1a8b8958d26999fef9113a66ab5cfc"
+    },
+    {
+      "fileName": "conduit-connector-dynamodb_0.1.0_Windows_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2794c0856ddeca848200b6af9ae76e74d4b5f828e6897e8fbdd0c4e0c3e7ecae"
+    },
+    {
+      "fileName": "conduit-connector-dynamodb_0.1.0_Windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d935ebd8c69da373dca0f142423530ff3bf17dc25a0821cb14fe62930debcf96"
+    }
+  ]
+}

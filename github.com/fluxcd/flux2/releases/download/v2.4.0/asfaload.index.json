@@ -1,1 +1,85 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"crd-schemas.tar.gz","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"a54649033d13a55a63a972a44dc6b093e2420436ef6f39081d76d48edd16dc37"},{"fileName":"flux_2.4.0_darwin_amd64.tar.gz","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"aa7ae3666980d8255722133a1a9bf88c62a72c182581b36e17c3e05cc350f561"},{"fileName":"flux_2.4.0_darwin_arm64.tar.gz","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"d7c0595f7faa4b796da40e7d9b324dedb65ba67fb27e7101478bba47d0e05b32"},{"fileName":"flux_2.4.0_linux_amd64.tar.gz","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"7b70b75af20e28fc30ee66cf5372ec8d51dd466fd2ee21aa42690984de70b09b"},{"fileName":"flux_2.4.0_linux_arm.tar.gz","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"3ce5c753d4216d8aeeb63292839775f8682817e008c1b73c8c3c7351a7d4ee14"},{"fileName":"flux_2.4.0_linux_arm64.tar.gz","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"4b8c95a1e8ad262dd33a67d28e22979cf3e022a9283d4676763b6728247d92a0"},{"fileName":"flux_2.4.0_sbom.spdx.json","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"c4e6da07d09b9420d576a3c5bc608fd6d64a6e41d0e73191a0739e698710b3dc"},{"fileName":"flux_2.4.0_source_code.tar.gz","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"16e96fca84397908b1804463c8730ebaee51afc41ecf0589386f0f5e373884ec"},{"fileName":"flux_2.4.0_windows_386.zip","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"fe4c1a06ba837a4fa462699692df39801b432b282c46b77380b2e57179e6804c"},{"fileName":"flux_2.4.0_windows_amd64.zip","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"5abe6eda1241bf1492ac57fda660d55444522973ea63becdc6c5d1ce6caf602e"},{"fileName":"flux_2.4.0_windows_arm64.zip","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"f0be013c670108fb45415c35fe43d2d93646e334bfc4b87c9f24c52804653a1e"},{"fileName":"install.yaml","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"3aca0de604932df9632c6cc8e7522873d16cdd621d1debcf91293589a6d41afe"},{"fileName":"manifests.tar.gz","algo":"Sha256","source":"flux_2.4.0_checksums.txt","hash":"d3a7e11168347a1941af81c7f64777292d9ddf30445389fcc89cb3681a2aaeb5"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "crd-schemas.tar.gz",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "a54649033d13a55a63a972a44dc6b093e2420436ef6f39081d76d48edd16dc37"
+    },
+    {
+      "fileName": "flux_2.4.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "aa7ae3666980d8255722133a1a9bf88c62a72c182581b36e17c3e05cc350f561"
+    },
+    {
+      "fileName": "flux_2.4.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "d7c0595f7faa4b796da40e7d9b324dedb65ba67fb27e7101478bba47d0e05b32"
+    },
+    {
+      "fileName": "flux_2.4.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "7b70b75af20e28fc30ee66cf5372ec8d51dd466fd2ee21aa42690984de70b09b"
+    },
+    {
+      "fileName": "flux_2.4.0_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "3ce5c753d4216d8aeeb63292839775f8682817e008c1b73c8c3c7351a7d4ee14"
+    },
+    {
+      "fileName": "flux_2.4.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "4b8c95a1e8ad262dd33a67d28e22979cf3e022a9283d4676763b6728247d92a0"
+    },
+    {
+      "fileName": "flux_2.4.0_sbom.spdx.json",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "c4e6da07d09b9420d576a3c5bc608fd6d64a6e41d0e73191a0739e698710b3dc"
+    },
+    {
+      "fileName": "flux_2.4.0_source_code.tar.gz",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "16e96fca84397908b1804463c8730ebaee51afc41ecf0589386f0f5e373884ec"
+    },
+    {
+      "fileName": "flux_2.4.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "fe4c1a06ba837a4fa462699692df39801b432b282c46b77380b2e57179e6804c"
+    },
+    {
+      "fileName": "flux_2.4.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "5abe6eda1241bf1492ac57fda660d55444522973ea63becdc6c5d1ce6caf602e"
+    },
+    {
+      "fileName": "flux_2.4.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "f0be013c670108fb45415c35fe43d2d93646e334bfc4b87c9f24c52804653a1e"
+    },
+    {
+      "fileName": "install.yaml",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "3aca0de604932df9632c6cc8e7522873d16cdd621d1debcf91293589a6d41afe"
+    },
+    {
+      "fileName": "manifests.tar.gz",
+      "algo": "Sha256",
+      "source": "flux_2.4.0_checksums.txt",
+      "hash": "d3a7e11168347a1941af81c7f64777292d9ddf30445389fcc89cb3681a2aaeb5"
+    }
+  ]
+}

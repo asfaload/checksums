@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-alicloud-v3.64.0-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-alicloud_3.64.0_checksums.txt","hash":"524bef5e83687477dc88578e7f2472a28dc2547c"},{"fileName":"./pulumi-resource-alicloud-v3.64.0-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-alicloud_3.64.0_checksums.txt","hash":"18dd3175a5de4dfab927d7c66001368b2f3fb18a"},{"fileName":"./pulumi-resource-alicloud-v3.64.0-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-alicloud_3.64.0_checksums.txt","hash":"5acd0e285e0ef024fd0d2f476b2985ad83681eed"},{"fileName":"./pulumi-resource-alicloud-v3.64.0-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-alicloud_3.64.0_checksums.txt","hash":"e168ccc112c79db89b7c711dade0a4fd666b5f0e"},{"fileName":"./pulumi-resource-alicloud-v3.64.0-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-alicloud_3.64.0_checksums.txt","hash":"acc5fcd5d43954c6d15e0e997bf337349d4269fc"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-alicloud-v3.64.0-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-alicloud_3.64.0_checksums.txt",
+      "hash": "524bef5e83687477dc88578e7f2472a28dc2547c"
+    },
+    {
+      "fileName": "./pulumi-resource-alicloud-v3.64.0-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-alicloud_3.64.0_checksums.txt",
+      "hash": "18dd3175a5de4dfab927d7c66001368b2f3fb18a"
+    },
+    {
+      "fileName": "./pulumi-resource-alicloud-v3.64.0-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-alicloud_3.64.0_checksums.txt",
+      "hash": "5acd0e285e0ef024fd0d2f476b2985ad83681eed"
+    },
+    {
+      "fileName": "./pulumi-resource-alicloud-v3.64.0-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-alicloud_3.64.0_checksums.txt",
+      "hash": "e168ccc112c79db89b7c711dade0a4fd666b5f0e"
+    },
+    {
+      "fileName": "./pulumi-resource-alicloud-v3.64.0-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-alicloud_3.64.0_checksums.txt",
+      "hash": "acc5fcd5d43954c6d15e0e997bf337349d4269fc"
+    }
+  ]
+}

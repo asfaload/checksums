@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"rdmp-8.3.1-cli-linux-x64.tar.xz","algo":"Sha256","source":"SHA256SUMS","hash":"2AE3CE4565430069442ACE5FC8A518577A8CCE38A36822D4741D161405B76F71"},{"fileName":"rdmp-8.3.1-cli-linux-x64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"D99EB7CB5DC75564646D793756A790324465CBF29A28658D5E163C747DE29F9F"},{"fileName":"rdmp-8.3.1-cli-win-x64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"C3A267D0ADEA2A9FDC19A1C2C8835F1520241141815F19C7A4FACE1801B73D83"},{"fileName":"rdmp-8.3.1-client.zip","algo":"Sha256","source":"SHA256SUMS","hash":"6AF43D9046BF6B9555D9E9625D354965FBBFC6702310DD72325B5A3965C9ECD0"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "rdmp-8.3.1-cli-linux-x64.tar.xz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "2AE3CE4565430069442ACE5FC8A518577A8CCE38A36822D4741D161405B76F71"
+    },
+    {
+      "fileName": "rdmp-8.3.1-cli-linux-x64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "D99EB7CB5DC75564646D793756A790324465CBF29A28658D5E163C747DE29F9F"
+    },
+    {
+      "fileName": "rdmp-8.3.1-cli-win-x64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "C3A267D0ADEA2A9FDC19A1C2C8835F1520241141815F19C7A4FACE1801B73D83"
+    },
+    {
+      "fileName": "rdmp-8.3.1-client.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "6AF43D9046BF6B9555D9E9625D354965FBBFC6702310DD72325B5A3965C9ECD0"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"opengist1.7.5-darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bffc78610fae63cb4ab24536f8abc961a7ea301acd06e2bc419ba1a05e5df2b9"},{"fileName":"opengist1.7.5-darwin-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3e8bc067277642d2905e7eb66998e8be39d96d950004518a432c7d5fa958d98a"},{"fileName":"opengist1.7.5-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1add685c0ed395725e0450767c393c6a66e1a315381cbe2bab3a4a00256dc4e1"},{"fileName":"opengist1.7.5-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e6ba9b368e5af9276c8c27817af545dbc5b3547cbc354795f12a06eeaeeb0e70"},{"fileName":"opengist1.7.5-linux-armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"40906e066f63ef9ca7aaf8f8123812e4ad73d794299ff58ad3ec932c7dc9766c"},{"fileName":"opengist1.7.5-linux-armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b1a70a515efc4a4236595f35452fe9581a00a7e3d02ab9998182efee1b00f551"},{"fileName":"opengist1.7.5-linux-386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e75f9944aec590907ee65d276dbb60fe1c037f36ce5c90e95541a935df949af9"},{"fileName":"opengist1.7.5-windows-amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"63c629d5ff08941d4799495f9d5001934539c1ee465d7ec38f7c033dbd17b4b8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "opengist1.7.5-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bffc78610fae63cb4ab24536f8abc961a7ea301acd06e2bc419ba1a05e5df2b9"
+    },
+    {
+      "fileName": "opengist1.7.5-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3e8bc067277642d2905e7eb66998e8be39d96d950004518a432c7d5fa958d98a"
+    },
+    {
+      "fileName": "opengist1.7.5-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1add685c0ed395725e0450767c393c6a66e1a315381cbe2bab3a4a00256dc4e1"
+    },
+    {
+      "fileName": "opengist1.7.5-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e6ba9b368e5af9276c8c27817af545dbc5b3547cbc354795f12a06eeaeeb0e70"
+    },
+    {
+      "fileName": "opengist1.7.5-linux-armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "40906e066f63ef9ca7aaf8f8123812e4ad73d794299ff58ad3ec932c7dc9766c"
+    },
+    {
+      "fileName": "opengist1.7.5-linux-armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b1a70a515efc4a4236595f35452fe9581a00a7e3d02ab9998182efee1b00f551"
+    },
+    {
+      "fileName": "opengist1.7.5-linux-386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e75f9944aec590907ee65d276dbb60fe1c037f36ce5c90e95541a935df949af9"
+    },
+    {
+      "fileName": "opengist1.7.5-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "63c629d5ff08941d4799495f9d5001934539c1ee465d7ec38f7c033dbd17b4b8"
+    }
+  ]
+}

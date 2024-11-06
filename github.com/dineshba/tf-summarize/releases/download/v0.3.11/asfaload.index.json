@@ -1,1 +1,133 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tf-summarize_0.3.11_linux_386.apk","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"8cb1233a45aedfb12256ce07169523ccdc052cc6f737efb21436d461db9eeca9"},{"fileName":"tf-summarize_0.3.11_linux_386.deb","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"58018148b85287118b3518a4768d48c77561bea12e10636f588f5cb11651c093"},{"fileName":"tf-summarize_0.3.11_linux_386.rpm","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"b1118ab04617b1eb015af3c025046b6f461b279484a38cf647de62878262e543"},{"fileName":"tf-summarize_0.3.11_linux_amd64.apk","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"548b463f6592e3d5ee77c9bc83fc4b7cc8278900ec580f2a5751ff435830a788"},{"fileName":"tf-summarize_0.3.11_linux_amd64.deb","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"f00bd789960f261719083e4604c42d8a8a1bf8c07e96b91a8e000f05b37877c4"},{"fileName":"tf-summarize_0.3.11_linux_amd64.rpm","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"d168820979dfb0beff15b22d47a95fee37e27d4d4c14626ba2ce7dc0241f83c1"},{"fileName":"tf-summarize_0.3.11_linux_arm64.apk","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"b246207b6574a370cdc5af3f2c80d7e204983b86c778d80cfcc6e4346492adee"},{"fileName":"tf-summarize_0.3.11_linux_arm64.deb","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"40a3415745f95aaa0089eeef7d3eba7be01cd95f4164d1465ecdd2c479f7556d"},{"fileName":"tf-summarize_0.3.11_linux_arm64.rpm","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"32bd8ca6626a9ca31eb47546f67de3566b002039f48eebae9265f6d73dc96db0"},{"fileName":"tf-summarize_0.3.11_linux_armv6.apk","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"34b6d2793fd38c7031c93bd000c668583397a0a823605b68d780a46df6ab4395"},{"fileName":"tf-summarize_0.3.11_linux_armv6.deb","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"9bfeb034698cdf2e35322ec5e04d2bc4a56855ba51458d2a7d5b05430e0f0905"},{"fileName":"tf-summarize_0.3.11_linux_armv6.rpm","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"db68015cf550249dbf35683b81d40ecadb4fd6b665a588f19107d297df576bd9"},{"fileName":"tf-summarize_darwin_amd64.tar.gz","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"954ecb35ae41a7727fc591297c3b6e8b952fcc429f5f40969ae43731ff6d6998"},{"fileName":"tf-summarize_darwin_arm64.tar.gz","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"ef6d4b6d3c72f35a77c3578baa2bdca5c91f3a985e0321875c979d039bddbccf"},{"fileName":"tf-summarize_linux_386.tar.gz","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"fb8eaae381a791477b9d9e8b1c48f566fa1c5c84777955e150de7917edbe5d71"},{"fileName":"tf-summarize_linux_amd64.tar.gz","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"597c2db6d9fde348839dcdc2efb95de94e66ed043e42430a8f33de5642aa4aba"},{"fileName":"tf-summarize_linux_arm.tar.gz","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"c959fce8b0615c52fff6ab3277ce8fc29f280faf2f7bae722a375c7f2fd67641"},{"fileName":"tf-summarize_linux_arm64.tar.gz","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"25dcb151252e96319c76c5db0404ec9fb64c6c6a55a9e56e6cb442be11f79b27"},{"fileName":"tf-summarize_windows_amd64.zip","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"7a68103b8e3cf93df817c06382477f804d3f9cc3b3d6de7b3779b5564d8fd566"},{"fileName":"tf-summarize_windows_arm.zip","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"a5b08f4056d9f8e8f8cd914399c6b7a1ab08f086fcc5e00abf1001045e581131"},{"fileName":"tf-summarize_windows_arm64.zip","algo":"Sha256","source":"tf-summarize_SHA256SUMS","hash":"12772b5b016a797eb2fa813b30dc0540d9cf50b510e964d4d285ec936f014a9e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tf-summarize_0.3.11_linux_386.apk",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "8cb1233a45aedfb12256ce07169523ccdc052cc6f737efb21436d461db9eeca9"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_386.deb",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "58018148b85287118b3518a4768d48c77561bea12e10636f588f5cb11651c093"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "b1118ab04617b1eb015af3c025046b6f461b279484a38cf647de62878262e543"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "548b463f6592e3d5ee77c9bc83fc4b7cc8278900ec580f2a5751ff435830a788"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "f00bd789960f261719083e4604c42d8a8a1bf8c07e96b91a8e000f05b37877c4"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "d168820979dfb0beff15b22d47a95fee37e27d4d4c14626ba2ce7dc0241f83c1"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "b246207b6574a370cdc5af3f2c80d7e204983b86c778d80cfcc6e4346492adee"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "40a3415745f95aaa0089eeef7d3eba7be01cd95f4164d1465ecdd2c479f7556d"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "32bd8ca6626a9ca31eb47546f67de3566b002039f48eebae9265f6d73dc96db0"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_armv6.apk",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "34b6d2793fd38c7031c93bd000c668583397a0a823605b68d780a46df6ab4395"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_armv6.deb",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "9bfeb034698cdf2e35322ec5e04d2bc4a56855ba51458d2a7d5b05430e0f0905"
+    },
+    {
+      "fileName": "tf-summarize_0.3.11_linux_armv6.rpm",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "db68015cf550249dbf35683b81d40ecadb4fd6b665a588f19107d297df576bd9"
+    },
+    {
+      "fileName": "tf-summarize_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "954ecb35ae41a7727fc591297c3b6e8b952fcc429f5f40969ae43731ff6d6998"
+    },
+    {
+      "fileName": "tf-summarize_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "ef6d4b6d3c72f35a77c3578baa2bdca5c91f3a985e0321875c979d039bddbccf"
+    },
+    {
+      "fileName": "tf-summarize_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "fb8eaae381a791477b9d9e8b1c48f566fa1c5c84777955e150de7917edbe5d71"
+    },
+    {
+      "fileName": "tf-summarize_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "597c2db6d9fde348839dcdc2efb95de94e66ed043e42430a8f33de5642aa4aba"
+    },
+    {
+      "fileName": "tf-summarize_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "c959fce8b0615c52fff6ab3277ce8fc29f280faf2f7bae722a375c7f2fd67641"
+    },
+    {
+      "fileName": "tf-summarize_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "25dcb151252e96319c76c5db0404ec9fb64c6c6a55a9e56e6cb442be11f79b27"
+    },
+    {
+      "fileName": "tf-summarize_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "7a68103b8e3cf93df817c06382477f804d3f9cc3b3d6de7b3779b5564d8fd566"
+    },
+    {
+      "fileName": "tf-summarize_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "a5b08f4056d9f8e8f8cd914399c6b7a1ab08f086fcc5e00abf1001045e581131"
+    },
+    {
+      "fileName": "tf-summarize_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "tf-summarize_SHA256SUMS",
+      "hash": "12772b5b016a797eb2fa813b30dc0540d9cf50b510e964d4d285ec936f014a9e"
+    }
+  ]
+}

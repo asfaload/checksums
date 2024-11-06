@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"goi18n-2.4.1-darwin-amd64","algo":"Sha256","source":"checksums.txt","hash":"9fe8f5648deb6cd4b71697e1de668c584324251990198e8a9af7efa59457daec"},{"fileName":"goi18n-2.4.1-linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"89c0c9667822a1f3f95c2659e59aebe6f83010c3db91314789c255c9eb754366"},{"fileName":"goi18n-2.4.1-windows-amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"4b51d8116d14f9e0c626ceed989f41db83182b5febdf16a844155f9bc72b2d54"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "goi18n-2.4.1-darwin-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9fe8f5648deb6cd4b71697e1de668c584324251990198e8a9af7efa59457daec"
+    },
+    {
+      "fileName": "goi18n-2.4.1-linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "89c0c9667822a1f3f95c2659e59aebe6f83010c3db91314789c255c9eb754366"
+    },
+    {
+      "fileName": "goi18n-2.4.1-windows-amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4b51d8116d14f9e0c626ceed989f41db83182b5febdf16a844155f9bc72b2d54"
+    }
+  ]
+}

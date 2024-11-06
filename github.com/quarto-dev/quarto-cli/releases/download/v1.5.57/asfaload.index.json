@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"quarto-1.5.57-win.msi","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"665682f127d5ed98bab7e50513d7ddde2ed3aeda9fb5e11ff19a534730135927"},{"fileName":"quarto-1.5.57-win.zip","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"7e8c55c2151f4f898230f53451eac199206cd7b018308ab203e9b3353cacdf19"},{"fileName":"quarto-1.5.57-macos.tar.gz","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"0c90ca0ad03b4337213d71ec97b3fa5ed1e1fe450c4df64eb6c825808cc70e61"},{"fileName":"quarto-1.5.57-macos.pkg","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"97a1d0a7403c7d038a6c0a21cc3e7af964ec85a05d2ed9afbe3279eff1f1e73c"},{"fileName":"quarto-1.5.57-linux-rhel7-amd64.tar.gz","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"5fcd03e74a98d09f6db1f14141da4e1ea032370f70bbd9bccba5c90dd2cc9e31"},{"fileName":"quarto-1.5.57-linux-amd64.tar.gz","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"6418effd9f7c8a5f043197bcf1f30a4a2d588de399f23121ecec580ca5133296"},{"fileName":"quarto-1.5.57-linux-arm64.tar.gz","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"13225b149fa487457ab633a73e4e8fad892aa4d1dc8e44a20d06e5b51995cdd6"},{"fileName":"quarto-1.5.57-linux-amd64.deb","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"eeab8c89064488acd8d659e4c29cbcf2d95a4f36cfcbacd30773a2d63507b305"},{"fileName":"quarto-1.5.57-linux-arm64.deb","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"e60dc4bbc103b24e890a9d80a86456d4fdb449b49bb0437ae9b34e7428986d47"},{"fileName":"quarto-1.5.57.tar.gz","algo":"Sha256","source":"quarto-1.5.57-checksums.txt","hash":"3cfa5f7e8e58cccc16f179479c4e021f791ae69b6e2da447621dbb5e7a169fed"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "quarto-1.5.57-win.msi",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "665682f127d5ed98bab7e50513d7ddde2ed3aeda9fb5e11ff19a534730135927"
+    },
+    {
+      "fileName": "quarto-1.5.57-win.zip",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "7e8c55c2151f4f898230f53451eac199206cd7b018308ab203e9b3353cacdf19"
+    },
+    {
+      "fileName": "quarto-1.5.57-macos.tar.gz",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "0c90ca0ad03b4337213d71ec97b3fa5ed1e1fe450c4df64eb6c825808cc70e61"
+    },
+    {
+      "fileName": "quarto-1.5.57-macos.pkg",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "97a1d0a7403c7d038a6c0a21cc3e7af964ec85a05d2ed9afbe3279eff1f1e73c"
+    },
+    {
+      "fileName": "quarto-1.5.57-linux-rhel7-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "5fcd03e74a98d09f6db1f14141da4e1ea032370f70bbd9bccba5c90dd2cc9e31"
+    },
+    {
+      "fileName": "quarto-1.5.57-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "6418effd9f7c8a5f043197bcf1f30a4a2d588de399f23121ecec580ca5133296"
+    },
+    {
+      "fileName": "quarto-1.5.57-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "13225b149fa487457ab633a73e4e8fad892aa4d1dc8e44a20d06e5b51995cdd6"
+    },
+    {
+      "fileName": "quarto-1.5.57-linux-amd64.deb",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "eeab8c89064488acd8d659e4c29cbcf2d95a4f36cfcbacd30773a2d63507b305"
+    },
+    {
+      "fileName": "quarto-1.5.57-linux-arm64.deb",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "e60dc4bbc103b24e890a9d80a86456d4fdb449b49bb0437ae9b34e7428986d47"
+    },
+    {
+      "fileName": "quarto-1.5.57.tar.gz",
+      "algo": "Sha256",
+      "source": "quarto-1.5.57-checksums.txt",
+      "hash": "3cfa5f7e8e58cccc16f179479c4e021f791ae69b6e2da447621dbb5e7a169fed"
+    }
+  ]
+}

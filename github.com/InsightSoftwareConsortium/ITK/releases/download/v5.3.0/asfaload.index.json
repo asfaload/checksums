@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./InsightData-5.3.0.tar.gz","algo":"Sha512","source":"SHA512SUMS","hash":"3caf7d1d64543312d668ef1a6b8c879161a37deee5c980fbfeb14e299a296a2825ae48463bff915f50c98ec0ccdbef3e1aff7c4f52604a93c6028951f90a4757"},{"fileName":"./InsightData-5.3.0.zip","algo":"Sha512","source":"SHA512SUMS","hash":"f0d166dc0991c2584f1e42c9040725f8ea51b5c7310b3981b9c9840937be949c1966567943029c9b569c022ddec791531ebb4c89de3fe789166998e423722770"},{"fileName":"./InsightToolkit-5.3.0.tar.gz","algo":"Sha512","source":"SHA512SUMS","hash":"29359839c0fb13acd430410e6adadbecb4d9d8cb4871a0aba0ac67b539c235354a591655dd654f43daa5f035a33721671d665eee8a4a129a9d0d3419e2356e97"},{"fileName":"./InsightToolkit-5.3.0.zip","algo":"Sha512","source":"SHA512SUMS","hash":"ce778628b297e77dff5c328be16409f3596ea2d9675d67106c3360082c66617bf8870c58bbf20d3b92316b26048ca1eb1113aecb5db1f09455d6fe8f39022f6c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./InsightData-5.3.0.tar.gz",
+      "algo": "Sha512",
+      "source": "SHA512SUMS",
+      "hash": "3caf7d1d64543312d668ef1a6b8c879161a37deee5c980fbfeb14e299a296a2825ae48463bff915f50c98ec0ccdbef3e1aff7c4f52604a93c6028951f90a4757"
+    },
+    {
+      "fileName": "./InsightData-5.3.0.zip",
+      "algo": "Sha512",
+      "source": "SHA512SUMS",
+      "hash": "f0d166dc0991c2584f1e42c9040725f8ea51b5c7310b3981b9c9840937be949c1966567943029c9b569c022ddec791531ebb4c89de3fe789166998e423722770"
+    },
+    {
+      "fileName": "./InsightToolkit-5.3.0.tar.gz",
+      "algo": "Sha512",
+      "source": "SHA512SUMS",
+      "hash": "29359839c0fb13acd430410e6adadbecb4d9d8cb4871a0aba0ac67b539c235354a591655dd654f43daa5f035a33721671d665eee8a4a129a9d0d3419e2356e97"
+    },
+    {
+      "fileName": "./InsightToolkit-5.3.0.zip",
+      "algo": "Sha512",
+      "source": "SHA512SUMS",
+      "hash": "ce778628b297e77dff5c328be16409f3596ea2d9675d67106c3360082c66617bf8870c58bbf20d3b92316b26048ca1eb1113aecb5db1f09455d6fe8f39022f6c"
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"signal-desktop_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"1a3f0610edd2eda5dac88573c30bba236c4d7aa4741392bb81af035ebbbf8255"},{"fileName":"signal-desktop_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"e65622cd9f79a1d0d4ee1ae5c8b9f01d0d0a40d6441736b813da4fdaeea59f82"},{"fileName":"./signal_arm64.flatpak","algo":"Sha256","source":"checksums.txt","hash":"431ff35a9cfb5f861504f47cdf9da07d107a9e05717177872e9279e2c8f71f00"},{"fileName":"./signal_amd64.flatpak","algo":"Sha256","source":"checksums.txt","hash":"0b9a3d80b39ef483b85a37bfba54a7489753777ad807f6621b3985381662058b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "signal-desktop_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1a3f0610edd2eda5dac88573c30bba236c4d7aa4741392bb81af035ebbbf8255"
+    },
+    {
+      "fileName": "signal-desktop_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e65622cd9f79a1d0d4ee1ae5c8b9f01d0d0a40d6441736b813da4fdaeea59f82"
+    },
+    {
+      "fileName": "./signal_arm64.flatpak",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "431ff35a9cfb5f861504f47cdf9da07d107a9e05717177872e9279e2c8f71f00"
+    },
+    {
+      "fileName": "./signal_amd64.flatpak",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0b9a3d80b39ef483b85a37bfba54a7489753777ad807f6621b3985381662058b"
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"keploy_darwin_all.tar.gz","algo":"Sha256","source":"keploy_2.3.0-beta33_checksums.txt","hash":"75efa5d048f9d72c9486aa9473eb381a4cf21e2d0e7ddf5e7c591814caceac8a"},{"fileName":"keploy_linux_amd64.tar.gz","algo":"Sha256","source":"keploy_2.3.0-beta33_checksums.txt","hash":"1700b4a4951a76b160ab3a875082c0f06a74ea40b5d5eb87762ed70466eff827"},{"fileName":"keploy_linux_arm64.tar.gz","algo":"Sha256","source":"keploy_2.3.0-beta33_checksums.txt","hash":"a0ac86904d5cafaf47e6771baba4217d9d070ee34e311363ed0e13f2b5cc62c4"},{"fileName":"keploy_windows_amd64.tar.gz","algo":"Sha256","source":"keploy_2.3.0-beta33_checksums.txt","hash":"db2f304eb08dbb266d25005baceb79d61a1dce2a694c77ed325a474602c00645"},{"fileName":"keploy_windows_arm64.tar.gz","algo":"Sha256","source":"keploy_2.3.0-beta33_checksums.txt","hash":"8d6de48363c8c4eed7f642a29212f829216f006facd66b8fcecea3b818fcf023"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "keploy_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "keploy_2.3.0-beta33_checksums.txt",
+      "hash": "75efa5d048f9d72c9486aa9473eb381a4cf21e2d0e7ddf5e7c591814caceac8a"
+    },
+    {
+      "fileName": "keploy_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "keploy_2.3.0-beta33_checksums.txt",
+      "hash": "1700b4a4951a76b160ab3a875082c0f06a74ea40b5d5eb87762ed70466eff827"
+    },
+    {
+      "fileName": "keploy_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "keploy_2.3.0-beta33_checksums.txt",
+      "hash": "a0ac86904d5cafaf47e6771baba4217d9d070ee34e311363ed0e13f2b5cc62c4"
+    },
+    {
+      "fileName": "keploy_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "keploy_2.3.0-beta33_checksums.txt",
+      "hash": "db2f304eb08dbb266d25005baceb79d61a1dce2a694c77ed325a474602c00645"
+    },
+    {
+      "fileName": "keploy_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "keploy_2.3.0-beta33_checksums.txt",
+      "hash": "8d6de48363c8c4eed7f642a29212f829216f006facd66b8fcecea3b818fcf023"
+    }
+  ]
+}

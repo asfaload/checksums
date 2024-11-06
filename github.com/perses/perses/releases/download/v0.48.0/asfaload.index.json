@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"perses_0.48.0_darwin_amd64.tar.gz","algo":"Sha256","source":"perses_0.48.0_checksums.txt","hash":"fae23b90e3ef83fbf887d5ff23e75ca8bb55386e86602c10ed495d73533c86ce"},{"fileName":"perses_0.48.0_darwin_arm64.tar.gz","algo":"Sha256","source":"perses_0.48.0_checksums.txt","hash":"49c65223feaa782f3b3b9d49adca24fc7e7b9bfa0e1191156e2cd1bbd367a1ed"},{"fileName":"perses_0.48.0_linux_amd64.tar.gz","algo":"Sha256","source":"perses_0.48.0_checksums.txt","hash":"0a457361e247f0b30956e82fd668222b6c0e0cdafe2334554cac251578fe7741"},{"fileName":"perses_0.48.0_linux_arm64.tar.gz","algo":"Sha256","source":"perses_0.48.0_checksums.txt","hash":"0f319783ed3ceecb08ee9bd53e9910c3cb471caca9713d046d8af17ae75b2b5d"},{"fileName":"perses_0.48.0_linux_armv6.tar.gz","algo":"Sha256","source":"perses_0.48.0_checksums.txt","hash":"2d875ba8e8a14d73b10ec3849ec014ed9d28aa1df39d6fe7830cfd8564848e10"},{"fileName":"perses_0.48.0_windows_amd64.tar.gz","algo":"Sha256","source":"perses_0.48.0_checksums.txt","hash":"6d67f5d7f5eaade9368211ca4c2c5a267ae74c0b536f4b1bf3861a0b7602e596"},{"fileName":"perses_0.48.0_windows_arm64.tar.gz","algo":"Sha256","source":"perses_0.48.0_checksums.txt","hash":"3dbaad2e046453add9cb7c391276d69b0792502c5fe37d4ab19bf82560aec53a"},{"fileName":"perses_0.48.0_windows_armv6.tar.gz","algo":"Sha256","source":"perses_0.48.0_checksums.txt","hash":"5845ceb99a7035db7ebdb366cc9e3e25dfd21ec883fe43357f7dfe64e32809ef"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "perses_0.48.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "perses_0.48.0_checksums.txt",
+      "hash": "fae23b90e3ef83fbf887d5ff23e75ca8bb55386e86602c10ed495d73533c86ce"
+    },
+    {
+      "fileName": "perses_0.48.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "perses_0.48.0_checksums.txt",
+      "hash": "49c65223feaa782f3b3b9d49adca24fc7e7b9bfa0e1191156e2cd1bbd367a1ed"
+    },
+    {
+      "fileName": "perses_0.48.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "perses_0.48.0_checksums.txt",
+      "hash": "0a457361e247f0b30956e82fd668222b6c0e0cdafe2334554cac251578fe7741"
+    },
+    {
+      "fileName": "perses_0.48.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "perses_0.48.0_checksums.txt",
+      "hash": "0f319783ed3ceecb08ee9bd53e9910c3cb471caca9713d046d8af17ae75b2b5d"
+    },
+    {
+      "fileName": "perses_0.48.0_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "perses_0.48.0_checksums.txt",
+      "hash": "2d875ba8e8a14d73b10ec3849ec014ed9d28aa1df39d6fe7830cfd8564848e10"
+    },
+    {
+      "fileName": "perses_0.48.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "perses_0.48.0_checksums.txt",
+      "hash": "6d67f5d7f5eaade9368211ca4c2c5a267ae74c0b536f4b1bf3861a0b7602e596"
+    },
+    {
+      "fileName": "perses_0.48.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "perses_0.48.0_checksums.txt",
+      "hash": "3dbaad2e046453add9cb7c391276d69b0792502c5fe37d4ab19bf82560aec53a"
+    },
+    {
+      "fileName": "perses_0.48.0_windows_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "perses_0.48.0_checksums.txt",
+      "hash": "5845ceb99a7035db7ebdb366cc9e3e25dfd21ec883fe43357f7dfe64e32809ef"
+    }
+  ]
+}

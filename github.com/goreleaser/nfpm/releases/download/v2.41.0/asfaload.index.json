@@ -1,1 +1,175 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"nfpm-2.41.0-1.aarch64.rpm","algo":"Sha256","source":"checksums.txt","hash":"89bd7870ae66082790becef15113a4bc329bd10a85b436950b55cf277b0656e4"},{"fileName":"nfpm-2.41.0-1.ppc64le.rpm","algo":"Sha256","source":"checksums.txt","hash":"1bb246a40eebe3967cc43baa31116c62269b8cabc52957300e8ab76f56cb9974"},{"fileName":"nfpm-2.41.0-1.s390x.rpm","algo":"Sha256","source":"checksums.txt","hash":"7d74b6446b8d00ede5aa3e61273579174897fc845866dc72f34207405bfae72d"},{"fileName":"nfpm-2.41.0-1.x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"9f8a6ee2df87779bb779b5ae6af686481d998d5b821e5b7c28a945aabba55117"},{"fileName":"nfpm_2.41.0_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fa8cc9e52633c15cc171fa99d96fb7ac069f0ea3c200116139049f97d7813123"},{"fileName":"nfpm_2.41.0_Darwin_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"baa5d83285e02402ffc81bce283fe691cef2c562ace38fce4799212541695c47"},{"fileName":"nfpm_2.41.0_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"42c854d9d66e94246fc5112aaee17c93f222d92338f2dc140085fd4edd3003f3"},{"fileName":"nfpm_2.41.0_Darwin_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"62bf4af17b7181fd6b5a03aba45a4dfcbbc98fb985d53d5385913be9ea9b86bd"},{"fileName":"nfpm_2.41.0_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"22cfb3988ec33337468e39a661f6224d0e28e857b4d7e9af8b497d2d1cb955e0"},{"fileName":"nfpm_2.41.0_Linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"01f94fcbb7ed9e3c63a3a8aedb52295f36e5424debd52c685d1504bccd967881"},{"fileName":"nfpm_2.41.0_Linux_ppc64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8efa35343da04900af3a450b0bbdfc56053fa621816cf4d6cdc7ba85b95ba2f2"},{"fileName":"nfpm_2.41.0_Linux_ppc64le.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"4701e90f17d9e7d163008809ae99565ef2c52ae97fd49db3a93e7c2d696b9672"},{"fileName":"nfpm_2.41.0_Linux_s390x.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8a701eeefcc0f73abc451e3e2ec485850cb1c53fb8ca3d708554275e4e0806f5"},{"fileName":"nfpm_2.41.0_Linux_s390x.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"8faa1f2df84e107114145ee24f8e3e8f5ff2ffb33281f3bd0dd25fed37f94a7b"},{"fileName":"nfpm_2.41.0_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2fec509cc508fd7688b03f1426747725e93e024ff3c94a7f02022a50ddaa6c04"},{"fileName":"nfpm_2.41.0_Linux_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"be265e90a3610c163a98302ae77bb38ea949fe83525f856139ecc7a881f85bc5"},{"fileName":"nfpm_2.41.0_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"dcaec909b52aac95c5e9b628f6b9dec24004a2127e5e64e3a7771b6ba257ad1a"},{"fileName":"nfpm_2.41.0_Windows_arm64.zip.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"5caf85a899d8280c683dc11958d70541289aa9df180d6d736754f0a758a8c230"},{"fileName":"nfpm_2.41.0_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"5f773d6a18963f5b607beef2e213aa4f5299d8753a12a122aed7db3ab8d7a5f2"},{"fileName":"nfpm_2.41.0_Windows_x86_64.zip.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"298eb9ae648685666b1e507787df6ff25ae715897a4c0b445133a2fe7c3e7d61"},{"fileName":"nfpm_2.41.0_aarch64.apk","algo":"Sha256","source":"checksums.txt","hash":"73706c0de165f76659f5db945328b3a3f0956e244a42be4695b21f49b2fdf860"},{"fileName":"nfpm_2.41.0_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"8b90c04456459d727ec2728a5a52c57d235c4c0178b9c34ba23a43877c880cab"},{"fileName":"nfpm_2.41.0_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"a4d4b0448367c6e3405eecc973946e752d645bbcf2fc84e541e5318f02b3b578"},{"fileName":"nfpm_2.41.0_ppc64el.deb","algo":"Sha256","source":"checksums.txt","hash":"1f61a983e67ed384e6dcfe77bde03efaac7bf72172a1dae04d3b1ccb7b62bc96"},{"fileName":"nfpm_2.41.0_ppc64le.apk","algo":"Sha256","source":"checksums.txt","hash":"5c4c631a9c591424ca5857cff2497521e456a6d7074be41587279916e42fc8e1"},{"fileName":"nfpm_2.41.0_s390x.apk","algo":"Sha256","source":"checksums.txt","hash":"8b64ca4adb419d608ebaea4d66280ffa1632a9f0eca6f12c5814e36b2a105dd8"},{"fileName":"nfpm_2.41.0_s390x.deb","algo":"Sha256","source":"checksums.txt","hash":"d04c2b7a5b914c9f9cef458cb1a681ce5b648f69409bf048e8929d59c6abc58f"},{"fileName":"nfpm_2.41.0_x86_64.apk","algo":"Sha256","source":"checksums.txt","hash":"eb194e91a6f91d038f55f43d1a7ce545c55508463cfe128c0cc9cfad3639de94"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nfpm-2.41.0-1.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "89bd7870ae66082790becef15113a4bc329bd10a85b436950b55cf277b0656e4"
+    },
+    {
+      "fileName": "nfpm-2.41.0-1.ppc64le.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1bb246a40eebe3967cc43baa31116c62269b8cabc52957300e8ab76f56cb9974"
+    },
+    {
+      "fileName": "nfpm-2.41.0-1.s390x.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7d74b6446b8d00ede5aa3e61273579174897fc845866dc72f34207405bfae72d"
+    },
+    {
+      "fileName": "nfpm-2.41.0-1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9f8a6ee2df87779bb779b5ae6af686481d998d5b821e5b7c28a945aabba55117"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fa8cc9e52633c15cc171fa99d96fb7ac069f0ea3c200116139049f97d7813123"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Darwin_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "baa5d83285e02402ffc81bce283fe691cef2c562ace38fce4799212541695c47"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "42c854d9d66e94246fc5112aaee17c93f222d92338f2dc140085fd4edd3003f3"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Darwin_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "62bf4af17b7181fd6b5a03aba45a4dfcbbc98fb985d53d5385913be9ea9b86bd"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "22cfb3988ec33337468e39a661f6224d0e28e857b4d7e9af8b497d2d1cb955e0"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "01f94fcbb7ed9e3c63a3a8aedb52295f36e5424debd52c685d1504bccd967881"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8efa35343da04900af3a450b0bbdfc56053fa621816cf4d6cdc7ba85b95ba2f2"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Linux_ppc64le.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4701e90f17d9e7d163008809ae99565ef2c52ae97fd49db3a93e7c2d696b9672"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8a701eeefcc0f73abc451e3e2ec485850cb1c53fb8ca3d708554275e4e0806f5"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Linux_s390x.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8faa1f2df84e107114145ee24f8e3e8f5ff2ffb33281f3bd0dd25fed37f94a7b"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2fec509cc508fd7688b03f1426747725e93e024ff3c94a7f02022a50ddaa6c04"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Linux_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "be265e90a3610c163a98302ae77bb38ea949fe83525f856139ecc7a881f85bc5"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dcaec909b52aac95c5e9b628f6b9dec24004a2127e5e64e3a7771b6ba257ad1a"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Windows_arm64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5caf85a899d8280c683dc11958d70541289aa9df180d6d736754f0a758a8c230"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5f773d6a18963f5b607beef2e213aa4f5299d8753a12a122aed7db3ab8d7a5f2"
+    },
+    {
+      "fileName": "nfpm_2.41.0_Windows_x86_64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "298eb9ae648685666b1e507787df6ff25ae715897a4c0b445133a2fe7c3e7d61"
+    },
+    {
+      "fileName": "nfpm_2.41.0_aarch64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "73706c0de165f76659f5db945328b3a3f0956e244a42be4695b21f49b2fdf860"
+    },
+    {
+      "fileName": "nfpm_2.41.0_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8b90c04456459d727ec2728a5a52c57d235c4c0178b9c34ba23a43877c880cab"
+    },
+    {
+      "fileName": "nfpm_2.41.0_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a4d4b0448367c6e3405eecc973946e752d645bbcf2fc84e541e5318f02b3b578"
+    },
+    {
+      "fileName": "nfpm_2.41.0_ppc64el.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1f61a983e67ed384e6dcfe77bde03efaac7bf72172a1dae04d3b1ccb7b62bc96"
+    },
+    {
+      "fileName": "nfpm_2.41.0_ppc64le.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5c4c631a9c591424ca5857cff2497521e456a6d7074be41587279916e42fc8e1"
+    },
+    {
+      "fileName": "nfpm_2.41.0_s390x.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8b64ca4adb419d608ebaea4d66280ffa1632a9f0eca6f12c5814e36b2a105dd8"
+    },
+    {
+      "fileName": "nfpm_2.41.0_s390x.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d04c2b7a5b914c9f9cef458cb1a681ce5b648f69409bf048e8929d59c6abc58f"
+    },
+    {
+      "fileName": "nfpm_2.41.0_x86_64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eb194e91a6f91d038f55f43d1a7ce545c55508463cfe128c0cc9cfad3639de94"
+    }
+  ]
+}

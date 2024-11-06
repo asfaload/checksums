@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"7be0572185b07aa35341929ef823c1a644aa1132418c699edd70ae7ab1e45e39"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"b73687a0f77e7ced4a45cb7d2ae202de939296f8b653cf4f48ee6f0a6b917217"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"b70ad4058ff909bdfbccd42e60539e2f73109c88d5a3e1a350291b78bb1074e6"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"c79989732397de892ed3529c3e6a0ee19e7c98d83eed4a889a6d92369c406548"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"b8771ce18ffbe9400dcc136deb96c70eb2fe333dae2c0a224c92acd7f04e54a7"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"d0a7cefbbde1cc30d24ddbf77866bb5f46799c91808c040cb97fe39a1ae146de"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_linux_386.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"c45bb6ea14c0e2414e211e90057f34267f89ef3a2cb6e888d243aa501f043b4a"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"e0b076af8b97d08f292f643f8358c0001e80ad369f41cd4caff0b11127d243f7"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_linux_arm.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"56e9f5d90cfc15ae4b2ec906468050ae1efe7531fba8b13006f0700f7d0af5cc"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"e08bc824b3cd89d9f731fc948d06cb9b3236b81cf033a12b815efdedbd3caa66"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_manifest.json","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"775bd9cb0411c11bcb40646a60354e8346678c00e297bd0e1305c6dec834815f"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_windows_386.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"be056212b2b217025af8cf437c80664102b5ca985b6e874ad72276e59262f84d"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"3c6c202c8685344fae57c85d67e79afd1b03cf936bd6497f0f16b0163a22ec8f"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_windows_arm.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"ff81dd666acac475c210241a8e6875196229e236dee4821f5e6442faaff452a7"},{"fileName":"terraform-provider-microsoft365_0.2.0-alpha_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS","hash":"fa78ba0416e14b337eaf136d703f974721c41c90e1171ed6b735d9c3881595a2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "7be0572185b07aa35341929ef823c1a644aa1132418c699edd70ae7ab1e45e39"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "b73687a0f77e7ced4a45cb7d2ae202de939296f8b653cf4f48ee6f0a6b917217"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "b70ad4058ff909bdfbccd42e60539e2f73109c88d5a3e1a350291b78bb1074e6"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "c79989732397de892ed3529c3e6a0ee19e7c98d83eed4a889a6d92369c406548"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "b8771ce18ffbe9400dcc136deb96c70eb2fe333dae2c0a224c92acd7f04e54a7"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "d0a7cefbbde1cc30d24ddbf77866bb5f46799c91808c040cb97fe39a1ae146de"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "c45bb6ea14c0e2414e211e90057f34267f89ef3a2cb6e888d243aa501f043b4a"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "e0b076af8b97d08f292f643f8358c0001e80ad369f41cd4caff0b11127d243f7"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "56e9f5d90cfc15ae4b2ec906468050ae1efe7531fba8b13006f0700f7d0af5cc"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "e08bc824b3cd89d9f731fc948d06cb9b3236b81cf033a12b815efdedbd3caa66"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_manifest.json",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "775bd9cb0411c11bcb40646a60354e8346678c00e297bd0e1305c6dec834815f"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "be056212b2b217025af8cf437c80664102b5ca985b6e874ad72276e59262f84d"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "3c6c202c8685344fae57c85d67e79afd1b03cf936bd6497f0f16b0163a22ec8f"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "ff81dd666acac475c210241a8e6875196229e236dee4821f5e6442faaff452a7"
+    },
+    {
+      "fileName": "terraform-provider-microsoft365_0.2.0-alpha_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-microsoft365_0.2.0-alpha_SHA256SUMS",
+      "hash": "fa78ba0416e14b337eaf136d703f974721c41c90e1171ed6b735d9c3881595a2"
+    }
+  ]
+}

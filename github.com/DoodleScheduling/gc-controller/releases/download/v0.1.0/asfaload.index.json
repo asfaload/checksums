@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gc-controller_0.1.0_sbom.spdx.json","algo":"Sha256","source":"checksums.txt","hash":"540daef73333150f95885b389800c2998ace5badd8b973acdb599ec8a674c22a"},{"fileName":"gc-controller_0.1.0_source_code.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"efc6e16f095b85a3193b20abe949cfdd9c2e3c040d924d7cdf3f101eba0dc209"},{"fileName":"manager_0.1.0_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2516850443a5b21d093bde70a6314ff67bc612fdab6655233ed5d2f65ad15834"},{"fileName":"manager_0.1.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2d976d5717db9e8746e70df0e5ad48620a0c540d601f82f7edfcad82788a25a5"},{"fileName":"manager_0.1.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"97ba2fe002d6ab67956ca00bb2635b4920b3f55b4a0dd9d32be3d392a3c47174"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gc-controller_0.1.0_sbom.spdx.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "540daef73333150f95885b389800c2998ace5badd8b973acdb599ec8a674c22a"
+    },
+    {
+      "fileName": "gc-controller_0.1.0_source_code.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "efc6e16f095b85a3193b20abe949cfdd9c2e3c040d924d7cdf3f101eba0dc209"
+    },
+    {
+      "fileName": "manager_0.1.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2516850443a5b21d093bde70a6314ff67bc612fdab6655233ed5d2f65ad15834"
+    },
+    {
+      "fileName": "manager_0.1.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2d976d5717db9e8746e70df0e5ad48620a0c540d601f82f7edfcad82788a25a5"
+    },
+    {
+      "fileName": "manager_0.1.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "97ba2fe002d6ab67956ca00bb2635b4920b3f55b4a0dd9d32be3d392a3c47174"
+    }
+  ]
+}

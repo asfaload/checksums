@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./ProjectAutomation.xcframework.zip","algo":"Sha512","source":"SHASUMS512.txt","hash":"ebab8bb34768843c563ceb1219cddbac767562b6264ff7a85ad85cca960698c977aa1780d71ddbd48cf5b8c0bc2b552b6d4f51f89439cec74a4044b3901c3c24"},{"fileName":"./ProjectDescription.framework.zip","algo":"Sha512","source":"SHASUMS512.txt","hash":"804736d01dcb50190f9eb6658279ce636045270011e359d760b195842917800da82f91a09c808827a056ebf84c8d917dbbdbdef6217d40d62184eafa2ab41fb2"},{"fileName":"./ProjectDescription.xcframework.zip","algo":"Sha512","source":"SHASUMS512.txt","hash":"710397aa0b92f962f777d34b0f418f2c46e21060f55bf55fab5732e547c81b1668f6ce232b438f73d5ba30640f7c3e04a8ad2b90f3a9b5f2490c565533a173f1"},{"fileName":"./tuist.zip","algo":"Sha512","source":"SHASUMS512.txt","hash":"a7af9b7a615782dd5b5b92bd92555444143b4b7bd132e8ac962f31f70a3ecd960ed029d000370bbe07cdd5b94a854604158a29f877183ca126352e590cc1c6ab"},{"fileName":"./ProjectAutomation.xcframework.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"43197b2f5049f8d018c7e28fdcf37560c85664dd2b6db86096bfa6dfc1948837"},{"fileName":"./ProjectDescription.framework.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"273ea44f558ba546eadbb6a2bc7f38fd48a9fe95bd69475c743435be5edf9715"},{"fileName":"./ProjectDescription.xcframework.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"3421342ad2f55004fd24b5bce95bca25af640b0c634847de5297185dfc75aaf8"},{"fileName":"./tuist.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"943760da4c2db5519abfdeb942ec5b5ee8e07d0796305a37a27ce6367041b0f5"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./ProjectAutomation.xcframework.zip",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "ebab8bb34768843c563ceb1219cddbac767562b6264ff7a85ad85cca960698c977aa1780d71ddbd48cf5b8c0bc2b552b6d4f51f89439cec74a4044b3901c3c24"
+    },
+    {
+      "fileName": "./ProjectDescription.framework.zip",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "804736d01dcb50190f9eb6658279ce636045270011e359d760b195842917800da82f91a09c808827a056ebf84c8d917dbbdbdef6217d40d62184eafa2ab41fb2"
+    },
+    {
+      "fileName": "./ProjectDescription.xcframework.zip",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "710397aa0b92f962f777d34b0f418f2c46e21060f55bf55fab5732e547c81b1668f6ce232b438f73d5ba30640f7c3e04a8ad2b90f3a9b5f2490c565533a173f1"
+    },
+    {
+      "fileName": "./tuist.zip",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "a7af9b7a615782dd5b5b92bd92555444143b4b7bd132e8ac962f31f70a3ecd960ed029d000370bbe07cdd5b94a854604158a29f877183ca126352e590cc1c6ab"
+    },
+    {
+      "fileName": "./ProjectAutomation.xcframework.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "43197b2f5049f8d018c7e28fdcf37560c85664dd2b6db86096bfa6dfc1948837"
+    },
+    {
+      "fileName": "./ProjectDescription.framework.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "273ea44f558ba546eadbb6a2bc7f38fd48a9fe95bd69475c743435be5edf9715"
+    },
+    {
+      "fileName": "./ProjectDescription.xcframework.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "3421342ad2f55004fd24b5bce95bca25af640b0c634847de5297185dfc75aaf8"
+    },
+    {
+      "fileName": "./tuist.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "943760da4c2db5519abfdeb942ec5b5ee8e07d0796305a37a27ce6367041b0f5"
+    }
+  ]
+}

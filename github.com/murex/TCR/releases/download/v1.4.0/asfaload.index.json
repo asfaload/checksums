@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tcr_1.4.0_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fcdc4d5aebdac6aa13d1f5e6821d496f8454a6b79cf3845ace1d7f6692428bdd"},{"fileName":"tcr_1.4.0_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2fa2a4bd41165e9ddf6b75be2f89a30ed59ab56fdc61063d373f3d774413ce02"},{"fileName":"tcr_1.4.0_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"73ee834a98df1ec0b336dd8966ffc01c33a98067384b4c48076235e177510d5f"},{"fileName":"tcr_1.4.0_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8a6c108b79f5a95d0d0b5497dd61d3e349d4ecae7bdd3ccd87f7478ace621e2d"},{"fileName":"tcr_1.4.0_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"60430dbfcd5f61bc6396b6d32f9e40fe8007755ab3f30666de15b08c90e20a32"},{"fileName":"tcr_1.4.0_Windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a4954de446b676ee9c3547574b65cc03bd666ec4916c58dfe748cf7a9d420394"},{"fileName":"tcr_1.4.0_Windows_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"34c44b81a56012b3a7790770c101443b00e2efaa73a3180a45a7e496737685ee"},{"fileName":"tcr_1.4.0_Windows_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"21e789698b98af77d280789302ba3cdd6fc5c7dadb3b159b9a2fcc870b830067"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tcr_1.4.0_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fcdc4d5aebdac6aa13d1f5e6821d496f8454a6b79cf3845ace1d7f6692428bdd"
+    },
+    {
+      "fileName": "tcr_1.4.0_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2fa2a4bd41165e9ddf6b75be2f89a30ed59ab56fdc61063d373f3d774413ce02"
+    },
+    {
+      "fileName": "tcr_1.4.0_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "73ee834a98df1ec0b336dd8966ffc01c33a98067384b4c48076235e177510d5f"
+    },
+    {
+      "fileName": "tcr_1.4.0_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8a6c108b79f5a95d0d0b5497dd61d3e349d4ecae7bdd3ccd87f7478ace621e2d"
+    },
+    {
+      "fileName": "tcr_1.4.0_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "60430dbfcd5f61bc6396b6d32f9e40fe8007755ab3f30666de15b08c90e20a32"
+    },
+    {
+      "fileName": "tcr_1.4.0_Windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a4954de446b676ee9c3547574b65cc03bd666ec4916c58dfe748cf7a9d420394"
+    },
+    {
+      "fileName": "tcr_1.4.0_Windows_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "34c44b81a56012b3a7790770c101443b00e2efaa73a3180a45a7e496737685ee"
+    },
+    {
+      "fileName": "tcr_1.4.0_Windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "21e789698b98af77d280789302ba3cdd6fc5c7dadb3b159b9a2fcc870b830067"
+    }
+  ]
+}

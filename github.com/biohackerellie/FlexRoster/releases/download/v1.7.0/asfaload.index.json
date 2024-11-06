@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"FlexRoster_1.7.0_linux_amd64.tar.gz","algo":"Sha256","source":"FlexRoster_1.7.0_checksums.txt","hash":"46bee67f083dad72725dc0dab5a680dca4ad5af1ae93a1d3ddcac5e4b87de2c1"},{"fileName":"FlexRoster_1.7.0_windows_amd64.tar.gz","algo":"Sha256","source":"FlexRoster_1.7.0_checksums.txt","hash":"49162268f68cc023f6f469eb402725a6c9d14b8fe907f08bec3aa1a31e1a35aa"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "FlexRoster_1.7.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "FlexRoster_1.7.0_checksums.txt",
+      "hash": "46bee67f083dad72725dc0dab5a680dca4ad5af1ae93a1d3ddcac5e4b87de2c1"
+    },
+    {
+      "fileName": "FlexRoster_1.7.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "FlexRoster_1.7.0_checksums.txt",
+      "hash": "49162268f68cc023f6f469eb402725a6c9d14b8fe907f08bec3aa1a31e1a35aa"
+    }
+  ]
+}

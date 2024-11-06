@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"boulder-1.23.1.1730149111-3377102a.x86_64.deb","algo":"Sha256","source":"boulder-1.23.1.1730149176-3377102a.checksums.txt","hash":"96758fd6d0a49d3035c103aab8975fae5da808e67ba8ea1e6633a11936836ec1"},{"fileName":"boulder-1.23.1.1730149111-3377102a.amd64.tar.gz","algo":"Sha256","source":"boulder-1.23.1.1730149176-3377102a.checksums.txt","hash":"188eb5762f9ac5a0b0873458a4fe30825d8477fdf45f34b9685d6017a45d470f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "boulder-1.23.1.1730149111-3377102a.x86_64.deb",
+      "algo": "Sha256",
+      "source": "boulder-1.23.1.1730149176-3377102a.checksums.txt",
+      "hash": "96758fd6d0a49d3035c103aab8975fae5da808e67ba8ea1e6633a11936836ec1"
+    },
+    {
+      "fileName": "boulder-1.23.1.1730149111-3377102a.amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "boulder-1.23.1.1730149176-3377102a.checksums.txt",
+      "hash": "188eb5762f9ac5a0b0873458a4fe30825d8477fdf45f34b9685d6017a45d470f"
+    }
+  ]
+}

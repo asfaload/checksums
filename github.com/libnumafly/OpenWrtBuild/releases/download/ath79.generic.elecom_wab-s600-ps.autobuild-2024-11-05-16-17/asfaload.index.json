@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T16:17:47+00:00","publishedOn":"2024-11-05T16:30:57.1337985+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"8dffeda97173814b78e935f2b4c88c4c3808980287d98f7202575f7fc5a3a364"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"4bef72b1641cd9757d1b83fc74d9e3d530db6c1b5c4edb0c42e427013f91f99c"},{"fileName":"openwrt-ath79-generic-elecom_wab-s600-ps-initramfs-kernel.bin","algo":"Sha256","source":"sha256sums","hash":"b38be78df52aa65461f2b62d43e320b8dde807537c4e82b5829277f8799c869c"},{"fileName":"openwrt-ath79-generic-elecom_wab-s600-ps-squashfs-factory.bin","algo":"Sha256","source":"sha256sums","hash":"e4255f5ac747b5441473ce7d90cceba867ea54803a23fb77317984f37a2406e3"},{"fileName":"openwrt-ath79-generic-elecom_wab-s600-ps-squashfs-sysupgrade.bin","algo":"Sha256","source":"sha256sums","hash":"21a19124b33e8ce3075b7114c70c98389c79bd1886f75c4c33e28baf5c6d3779"},{"fileName":"openwrt-ath79-generic-elecom_wab-s600-ps.manifest","algo":"Sha256","source":"sha256sums","hash":"e5b1dfecb00a65b2ed46996f8d977e3b402e1ac07b57338524a5a54e06f0d3fa"},{"fileName":"profiles.json","algo":"Sha256","source":"sha256sums","hash":"726f73c7c112cf7f078ab87f25f21aec512134a040bcc20b3d28c5b29f7c7fee"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"bc085616a3fcf6dbef2a1cfb77efe1da5e4fbeaa17d54c3d295cec9393586089"}]}
+{
+  "mirroredOn": "2024-11-05T16:30:57.1337985+00:00",
+  "publishedOn": "2024-11-05T16:17:47+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "8dffeda97173814b78e935f2b4c88c4c3808980287d98f7202575f7fc5a3a364"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "4bef72b1641cd9757d1b83fc74d9e3d530db6c1b5c4edb0c42e427013f91f99c"
+    },
+    {
+      "fileName": "openwrt-ath79-generic-elecom_wab-s600-ps-initramfs-kernel.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "b38be78df52aa65461f2b62d43e320b8dde807537c4e82b5829277f8799c869c"
+    },
+    {
+      "fileName": "openwrt-ath79-generic-elecom_wab-s600-ps-squashfs-factory.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "e4255f5ac747b5441473ce7d90cceba867ea54803a23fb77317984f37a2406e3"
+    },
+    {
+      "fileName": "openwrt-ath79-generic-elecom_wab-s600-ps-squashfs-sysupgrade.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "21a19124b33e8ce3075b7114c70c98389c79bd1886f75c4c33e28baf5c6d3779"
+    },
+    {
+      "fileName": "openwrt-ath79-generic-elecom_wab-s600-ps.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "e5b1dfecb00a65b2ed46996f8d977e3b402e1ac07b57338524a5a54e06f0d3fa"
+    },
+    {
+      "fileName": "profiles.json",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "726f73c7c112cf7f078ab87f25f21aec512134a040bcc20b3d28c5b29f7c7fee"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "bc085616a3fcf6dbef2a1cfb77efe1da5e4fbeaa17d54c3d295cec9393586089"
+    }
+  ]
+}

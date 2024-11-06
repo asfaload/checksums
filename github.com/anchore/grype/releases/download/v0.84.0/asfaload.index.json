@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:03:57+00:00","publishedOn":"2024-11-05T15:41:56.269688+00:00","version":1,"publishedFiles":[{"fileName":"grype_0.84.0_darwin_amd64.tar.gz","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"b7a3fca6201330c82715a2da099800eb43915ae667bab90d8611004dc4f30bec"},{"fileName":"grype_0.84.0_darwin_arm64.tar.gz","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"d20583413f05b774f2e55cb37ed6250d324f6480f207b200bb3beb8c3fe7a60a"},{"fileName":"grype_0.84.0_linux_amd64.deb","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"0b79dac2c141d649fcc339eef6713e2c907d4c2432ad4ae13c3d9a9aea14b44e"},{"fileName":"grype_0.84.0_linux_amd64.rpm","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"b53ac0cff6d67989fa8b772f6553d3ea048f01ed4ca0c539aafb59179bc6554e"},{"fileName":"grype_0.84.0_linux_amd64.tar.gz","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"f2322ca8599ddcd5bc75679a584f04e1a6b48f50ff4318989c39a241be1616e4"},{"fileName":"grype_0.84.0_linux_arm64.deb","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"69af58b1aad8156bb9841e9890c8167fa00e720386e5f8a25cdc9f8f7bc6252f"},{"fileName":"grype_0.84.0_linux_arm64.rpm","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"df8a04e44819987ada9540cbefc3d6d0dfc830b08782d3d353ba88a647fc87a5"},{"fileName":"grype_0.84.0_linux_arm64.tar.gz","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"51572473ef96478082daeb6891a94393f1782e1041794d6676ecb08754796ba0"},{"fileName":"grype_0.84.0_linux_ppc64le.deb","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"af45edaff0f034f870de144269afdf487b26060b6af4697ff5336f7a22d37279"},{"fileName":"grype_0.84.0_linux_ppc64le.rpm","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"e3c01d0de96eebac45db6b5c1ece8826979046b2722de8a9800b2cf978ec2f85"},{"fileName":"grype_0.84.0_linux_ppc64le.tar.gz","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"b1644240d181ded6b7d7690692aa3bdb1c6545b95cae8f3c13d1c3b8cfdb1e83"},{"fileName":"grype_0.84.0_linux_s390x.deb","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"71bb60a188f42f7539696c7f04ed8fd0d777410b55dd843d380a6b733977acd8"},{"fileName":"grype_0.84.0_linux_s390x.rpm","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"d1c1faa25000ad364f812a339b5cd52c70af0114f728cb9486f88bf618361f35"},{"fileName":"grype_0.84.0_linux_s390x.tar.gz","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"b3c3be2f8dd6efc3b59f40dff59e423e91caed78183655713ff906a9fd3c3fad"},{"fileName":"grype_0.84.0_windows_amd64.zip","algo":"Sha256","source":"grype_0.84.0_checksums.txt","hash":"b8670faedcb3c993f09c31db184ebda5eadd4120891419c420dbe7527507307c"}]}
+{
+  "mirroredOn": "2024-11-05T15:41:56.269688+00:00",
+  "publishedOn": "2024-11-05T15:03:57+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "grype_0.84.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "b7a3fca6201330c82715a2da099800eb43915ae667bab90d8611004dc4f30bec"
+    },
+    {
+      "fileName": "grype_0.84.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "d20583413f05b774f2e55cb37ed6250d324f6480f207b200bb3beb8c3fe7a60a"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "0b79dac2c141d649fcc339eef6713e2c907d4c2432ad4ae13c3d9a9aea14b44e"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "b53ac0cff6d67989fa8b772f6553d3ea048f01ed4ca0c539aafb59179bc6554e"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "f2322ca8599ddcd5bc75679a584f04e1a6b48f50ff4318989c39a241be1616e4"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "69af58b1aad8156bb9841e9890c8167fa00e720386e5f8a25cdc9f8f7bc6252f"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "df8a04e44819987ada9540cbefc3d6d0dfc830b08782d3d353ba88a647fc87a5"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "51572473ef96478082daeb6891a94393f1782e1041794d6676ecb08754796ba0"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_ppc64le.deb",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "af45edaff0f034f870de144269afdf487b26060b6af4697ff5336f7a22d37279"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_ppc64le.rpm",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "e3c01d0de96eebac45db6b5c1ece8826979046b2722de8a9800b2cf978ec2f85"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "b1644240d181ded6b7d7690692aa3bdb1c6545b95cae8f3c13d1c3b8cfdb1e83"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_s390x.deb",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "71bb60a188f42f7539696c7f04ed8fd0d777410b55dd843d380a6b733977acd8"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_s390x.rpm",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "d1c1faa25000ad364f812a339b5cd52c70af0114f728cb9486f88bf618361f35"
+    },
+    {
+      "fileName": "grype_0.84.0_linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "b3c3be2f8dd6efc3b59f40dff59e423e91caed78183655713ff906a9fd3c3fad"
+    },
+    {
+      "fileName": "grype_0.84.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "grype_0.84.0_checksums.txt",
+      "hash": "b8670faedcb3c993f09c31db184ebda5eadd4120891419c420dbe7527507307c"
+    }
+  ]
+}

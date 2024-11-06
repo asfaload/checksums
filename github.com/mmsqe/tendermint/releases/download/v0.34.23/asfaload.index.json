@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tendermint_0.34.23_windows_armv6.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.34.23.txt","hash":"0023931d31d53c33f1d7b39ee8989a2fed4a121d4b4c633d19281e3501f503a8"},{"fileName":"tendermint_0.34.23_linux_armv6.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.34.23.txt","hash":"3b33dc499f28f9f0293a7e60a119436ba8e94e2e2558fd69a44f3224067a1dc7"},{"fileName":"tendermint_0.34.23_darwin_arm64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.34.23.txt","hash":"65825576db0050155baf0a53196231799053cc3bd607c4f073d699139fec6ee0"},{"fileName":"tendermint_0.34.23_windows_arm64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.34.23.txt","hash":"748335f6d0ee12671feff97be135146475203f42b10d3a6037cc2a29ab9d9210"},{"fileName":"tendermint_0.34.23_windows_amd64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.34.23.txt","hash":"be7723bc840772bc49f95e36310658ae52c8cf072b661d7f7cb5813db0ab93fe"},{"fileName":"tendermint_0.34.23_darwin_amd64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.34.23.txt","hash":"cf42066c63f7ff376d2670491b3a847fd281e065116cf1a8027a83798708af16"},{"fileName":"tendermint_0.34.23_linux_amd64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.34.23.txt","hash":"d117c01a1556684ecb7779cdc236f8f274825168455188609df2da1a3cb05215"},{"fileName":"tendermint_0.34.23_linux_arm64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.34.23.txt","hash":"ff3670f12c1ce3f3c6488ae8f186ec9d9985db57eb75273727f34e0a89bc59a1"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tendermint_0.34.23_windows_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.34.23.txt",
+      "hash": "0023931d31d53c33f1d7b39ee8989a2fed4a121d4b4c633d19281e3501f503a8"
+    },
+    {
+      "fileName": "tendermint_0.34.23_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.34.23.txt",
+      "hash": "3b33dc499f28f9f0293a7e60a119436ba8e94e2e2558fd69a44f3224067a1dc7"
+    },
+    {
+      "fileName": "tendermint_0.34.23_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.34.23.txt",
+      "hash": "65825576db0050155baf0a53196231799053cc3bd607c4f073d699139fec6ee0"
+    },
+    {
+      "fileName": "tendermint_0.34.23_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.34.23.txt",
+      "hash": "748335f6d0ee12671feff97be135146475203f42b10d3a6037cc2a29ab9d9210"
+    },
+    {
+      "fileName": "tendermint_0.34.23_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.34.23.txt",
+      "hash": "be7723bc840772bc49f95e36310658ae52c8cf072b661d7f7cb5813db0ab93fe"
+    },
+    {
+      "fileName": "tendermint_0.34.23_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.34.23.txt",
+      "hash": "cf42066c63f7ff376d2670491b3a847fd281e065116cf1a8027a83798708af16"
+    },
+    {
+      "fileName": "tendermint_0.34.23_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.34.23.txt",
+      "hash": "d117c01a1556684ecb7779cdc236f8f274825168455188609df2da1a3cb05215"
+    },
+    {
+      "fileName": "tendermint_0.34.23_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.34.23.txt",
+      "hash": "ff3670f12c1ce3f3c6488ae8f186ec9d9985db57eb75273727f34e0a89bc59a1"
+    }
+  ]
+}

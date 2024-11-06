@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pulumi-resource-ctfd-v1.0.0-darwin-amd64.tar.gz","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"39c6edf17a87e6a6cbf0c3ac84745ff3ec67a3c4ff295e748992a9fc616e0b06"},{"fileName":"pulumi-resource-ctfd-v1.0.0-darwin-amd64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"d6c67ff11cfd22ae8f28170bb93a41f7919c5c3c95381ef9f8969bb0a6634dcb"},{"fileName":"pulumi-resource-ctfd-v1.0.0-darwin-arm64.tar.gz","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"4aa7000a8a5895001f8d4b5464dad1cdc65ce414ae91968a9b40fe75bd93b93c"},{"fileName":"pulumi-resource-ctfd-v1.0.0-darwin-arm64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"2e752d91ff970dae413a1c129275d9175cf0fed39a6eb0ec14ebbc48a867c968"},{"fileName":"pulumi-resource-ctfd-v1.0.0-linux-amd64.tar.gz","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"296450683b882c9bb31cb1c1e432249a5eab27cf86efdae8896e7f6d1baf03f9"},{"fileName":"pulumi-resource-ctfd-v1.0.0-linux-amd64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"91d3a225515b741aab9a18ac02821645b6fe8dc06e2f1f1139bbeef7f4e60b8c"},{"fileName":"pulumi-resource-ctfd-v1.0.0-linux-arm64.tar.gz","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"dffe7d9d8848e7300a4dcbb30c31f0b8d72cca7963556c966adab1f3f80e8782"},{"fileName":"pulumi-resource-ctfd-v1.0.0-linux-arm64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"f6c97075825cef25b29f8d4aff86fb41bd9a6fda35e7c55eb0222f64221c8f56"},{"fileName":"pulumi-resource-ctfd-v1.0.0-windows-amd64.tar.gz","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"80764f1bca2e31b08ffa20792f94ef1a0825876153fbca61e38f611c36ccda99"},{"fileName":"pulumi-resource-ctfd-v1.0.0-windows-amd64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"5152b346258675d4c90ad6fba0047382421ebf94e626b4ac1ba33aee379fc2fd"},{"fileName":"pulumi-resource-ctfd-v1.0.0-windows-arm64.tar.gz","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"938e45c323bf86597efbf955c5a7a1f811d7e027bd6c56eb36c6579da7d1f666"},{"fileName":"pulumi-resource-ctfd-v1.0.0-windows-arm64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ctfd_1.0.0_checksums.txt","hash":"12b81bfbc39c8e8a7d29c7ece649f5c8d4627d3cfa8b5d9124e075838bd62b18"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "39c6edf17a87e6a6cbf0c3ac84745ff3ec67a3c4ff295e748992a9fc616e0b06"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-darwin-amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "d6c67ff11cfd22ae8f28170bb93a41f7919c5c3c95381ef9f8969bb0a6634dcb"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "4aa7000a8a5895001f8d4b5464dad1cdc65ce414ae91968a9b40fe75bd93b93c"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-darwin-arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "2e752d91ff970dae413a1c129275d9175cf0fed39a6eb0ec14ebbc48a867c968"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "296450683b882c9bb31cb1c1e432249a5eab27cf86efdae8896e7f6d1baf03f9"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-linux-amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "91d3a225515b741aab9a18ac02821645b6fe8dc06e2f1f1139bbeef7f4e60b8c"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "dffe7d9d8848e7300a4dcbb30c31f0b8d72cca7963556c966adab1f3f80e8782"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-linux-arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "f6c97075825cef25b29f8d4aff86fb41bd9a6fda35e7c55eb0222f64221c8f56"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "80764f1bca2e31b08ffa20792f94ef1a0825876153fbca61e38f611c36ccda99"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-windows-amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "5152b346258675d4c90ad6fba0047382421ebf94e626b4ac1ba33aee379fc2fd"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-windows-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "938e45c323bf86597efbf955c5a7a1f811d7e027bd6c56eb36c6579da7d1f666"
+    },
+    {
+      "fileName": "pulumi-resource-ctfd-v1.0.0-windows-arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ctfd_1.0.0_checksums.txt",
+      "hash": "12b81bfbc39c8e8a7d29c7ece649f5c8d4627d3cfa8b5d9124e075838bd62b18"
+    }
+  ]
+}

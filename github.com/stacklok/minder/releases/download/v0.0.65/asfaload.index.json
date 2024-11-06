@@ -1,1 +1,85 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"minder-0.0.65.tar.gz","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"42b3664929cce960691e37092a8b1397f0c82b75b1fee48007b4e199374434cf"},{"fileName":"minder_0.0.65_darwin_amd64.tar.gz","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"4d171747570581b50899160f44436906f30c0bb7ee42800f19d963c52f876d39"},{"fileName":"minder_0.0.65_darwin_amd64.tar.gz.sbom.json","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"bdc88de03ef31a45b300484a8c7bebde72883a8d0f3e105a06a0ceb20196c1b2"},{"fileName":"minder_0.0.65_darwin_arm64.tar.gz","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"5c94b2cccd4a4dca0370c0a20428066801da9ee99f1a755a78e7347523888253"},{"fileName":"minder_0.0.65_darwin_arm64.tar.gz.sbom.json","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"f8e7554dd5b5eeb7a2cf2b24644fba7a18a61df2120a1b7bb47da2f942cd4160"},{"fileName":"minder_0.0.65_linux_amd64.tar.gz","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"2b152f581c511685ea9792fe84fd09e56aaad561cec3923878025b2b5d5dbcbe"},{"fileName":"minder_0.0.65_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"aa1adf779bab2290cb79aeec56e7ea22fc8063bee669e9aaad42dd09acfc6f17"},{"fileName":"minder_0.0.65_linux_arm64.tar.gz","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"34dec07932f326b21bc4c24048f06ca96be18c6dfdac9f689724e0df14c46d36"},{"fileName":"minder_0.0.65_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"4e2cba24dafd36a98836201582fb9b995fd33cb04fbc86b3b5bfd68e02b67c90"},{"fileName":"minder_0.0.65_windows_amd64.zip","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"e798e3905c9b4a4a2fc8a9a57f1cbf66ad6c3bd22f708723d4c6babd48a27549"},{"fileName":"minder_0.0.65_windows_amd64.zip.sbom.json","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"c708e7564b544377942c62822ad7bded40634f98def66c0f385d06c5a0264a3d"},{"fileName":"minder_0.0.65_windows_arm64.zip","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"cc8dc2916b55a77bf832b384258cd4b11cd6ceeaa72cb7651311ff2e378ac5e2"},{"fileName":"minder_0.0.65_windows_arm64.zip.sbom.json","algo":"Sha256","source":"minder_0.0.65_checksums.txt","hash":"70073eb18111067d31eef2646b94a36c645a413cee7ad045febf57b83b87f9de"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "minder-0.0.65.tar.gz",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "42b3664929cce960691e37092a8b1397f0c82b75b1fee48007b4e199374434cf"
+    },
+    {
+      "fileName": "minder_0.0.65_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "4d171747570581b50899160f44436906f30c0bb7ee42800f19d963c52f876d39"
+    },
+    {
+      "fileName": "minder_0.0.65_darwin_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "bdc88de03ef31a45b300484a8c7bebde72883a8d0f3e105a06a0ceb20196c1b2"
+    },
+    {
+      "fileName": "minder_0.0.65_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "5c94b2cccd4a4dca0370c0a20428066801da9ee99f1a755a78e7347523888253"
+    },
+    {
+      "fileName": "minder_0.0.65_darwin_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "f8e7554dd5b5eeb7a2cf2b24644fba7a18a61df2120a1b7bb47da2f942cd4160"
+    },
+    {
+      "fileName": "minder_0.0.65_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "2b152f581c511685ea9792fe84fd09e56aaad561cec3923878025b2b5d5dbcbe"
+    },
+    {
+      "fileName": "minder_0.0.65_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "aa1adf779bab2290cb79aeec56e7ea22fc8063bee669e9aaad42dd09acfc6f17"
+    },
+    {
+      "fileName": "minder_0.0.65_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "34dec07932f326b21bc4c24048f06ca96be18c6dfdac9f689724e0df14c46d36"
+    },
+    {
+      "fileName": "minder_0.0.65_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "4e2cba24dafd36a98836201582fb9b995fd33cb04fbc86b3b5bfd68e02b67c90"
+    },
+    {
+      "fileName": "minder_0.0.65_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "e798e3905c9b4a4a2fc8a9a57f1cbf66ad6c3bd22f708723d4c6babd48a27549"
+    },
+    {
+      "fileName": "minder_0.0.65_windows_amd64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "c708e7564b544377942c62822ad7bded40634f98def66c0f385d06c5a0264a3d"
+    },
+    {
+      "fileName": "minder_0.0.65_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "cc8dc2916b55a77bf832b384258cd4b11cd6ceeaa72cb7651311ff2e378ac5e2"
+    },
+    {
+      "fileName": "minder_0.0.65_windows_arm64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "minder_0.0.65_checksums.txt",
+      "hash": "70073eb18111067d31eef2646b94a36c645a413cee7ad045febf57b83b87f9de"
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"categraf-slim-v0.3.81-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"821fbb27c2a034d94fbf2762afc579b09de653522f4c2a93f28d2010a79c7ab5"},{"fileName":"categraf-slim-v0.3.81-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ad6d9a9ce868745b24cf8b4b9f462751e284f78a75fc12cf699e81ce238246c5"},{"fileName":"categraf-v0.3.81-linux-amd64-with-cgo-plugin.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"888b43bd8aee33e4a2a40ab6356edf1e1706a05ab6d4020c5ca96672d5c37386"},{"fileName":"categraf-v0.3.81-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ed4231ef6f565a25a5803f04253f624b4dc3295cdde5815553cc70e46874ecb7"},{"fileName":"categraf-v0.3.81-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2747a43a6271e7642838a3065f918c7f468fdc661da4bdc0a0de1ced829d4600"},{"fileName":"categraf-v0.3.81-windows-amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"d3fe610394af0a26e8c06e3fe523c2b01daf9cb2b3397b8aa26981e40a03c71b"},{"fileName":"categraf-v0.3.81-windows-arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"9e5eb7c20f69912fdef3b6850f59f42125e8be154f26c1f3f7980766e84375af"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "categraf-slim-v0.3.81-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "821fbb27c2a034d94fbf2762afc579b09de653522f4c2a93f28d2010a79c7ab5"
+    },
+    {
+      "fileName": "categraf-slim-v0.3.81-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ad6d9a9ce868745b24cf8b4b9f462751e284f78a75fc12cf699e81ce238246c5"
+    },
+    {
+      "fileName": "categraf-v0.3.81-linux-amd64-with-cgo-plugin.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "888b43bd8aee33e4a2a40ab6356edf1e1706a05ab6d4020c5ca96672d5c37386"
+    },
+    {
+      "fileName": "categraf-v0.3.81-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ed4231ef6f565a25a5803f04253f624b4dc3295cdde5815553cc70e46874ecb7"
+    },
+    {
+      "fileName": "categraf-v0.3.81-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2747a43a6271e7642838a3065f918c7f468fdc661da4bdc0a0de1ced829d4600"
+    },
+    {
+      "fileName": "categraf-v0.3.81-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d3fe610394af0a26e8c06e3fe523c2b01daf9cb2b3397b8aa26981e40a03c71b"
+    },
+    {
+      "fileName": "categraf-v0.3.81-windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9e5eb7c20f69912fdef3b6850f59f42125e8be154f26c1f3f7980766e84375af"
+    }
+  ]
+}

@@ -1,1 +1,103 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tflint-ruleset-uw-kafka-config_darwin_amd64","algo":"Sha256","source":"checksums.txt","hash":"19da525c99d36ed73c4b52f8427ab57b596e5f89994b93f92e980483ca969edb"},{"fileName":"tflint-ruleset-uw-kafka-config_darwin_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"f46062bfdb42c6e5e0e7d1fb5be1e476a9b7bd9632215be12172ffca994fa378"},{"fileName":"tflint-ruleset-uw-kafka-config_darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"d03c2f9568c9670ef881455f3942c1bf397df45477868e3b5b000d12e358165e"},{"fileName":"tflint-ruleset-uw-kafka-config_darwin_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"47081355705c8d31b97ebf69496720e92fc60b4681f3f27fad666ced29ec4c89"},{"fileName":"tflint-ruleset-uw-kafka-config_linux_386","algo":"Sha256","source":"checksums.txt","hash":"97fe91ba5fd16d7784bee9a66828f034ccf844b5260c78a87580d970c1c9d0af"},{"fileName":"tflint-ruleset-uw-kafka-config_linux_386.zip","algo":"Sha256","source":"checksums.txt","hash":"9e3b8900dcf8cdef381b5bd968444b8ce5db60a3aef0864cd6e013bb642f107d"},{"fileName":"tflint-ruleset-uw-kafka-config_linux_amd64","algo":"Sha256","source":"checksums.txt","hash":"9678e717cfa1d8238d135d8a4bc46873e2af9737cb17dddd21bab27eacdfb9ad"},{"fileName":"tflint-ruleset-uw-kafka-config_linux_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"730ee05ef6e674aeedba62102cabb1821690dfe867235df787ccd940f186dcf9"},{"fileName":"tflint-ruleset-uw-kafka-config_linux_arm","algo":"Sha256","source":"checksums.txt","hash":"1c0739052bad34ead5e4ca6ad383ae88bc7cf2c8631ddd2f2a911ae953e73865"},{"fileName":"tflint-ruleset-uw-kafka-config_linux_arm.zip","algo":"Sha256","source":"checksums.txt","hash":"d5293c0ffa246b5c918186ee463a7a6bf8c31e3fc01c9ebeb3346ac4b865e3b4"},{"fileName":"tflint-ruleset-uw-kafka-config_linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"867990da519a814d15182400c77fc2b323f32992094f2db4c35351d0169b27b5"},{"fileName":"tflint-ruleset-uw-kafka-config_linux_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"1b5bd4551761977b82f8b087574f4fcbd8839c7444e9e561d6dfc1619a5e560e"},{"fileName":"tflint-ruleset-uw-kafka-config_windows_386","algo":"Sha256","source":"checksums.txt","hash":"0eb108ae4d800884878f711200a48e44a5b2b6101e4848f5064afa3978ccbcf9"},{"fileName":"tflint-ruleset-uw-kafka-config_windows_386.zip","algo":"Sha256","source":"checksums.txt","hash":"8829f426b1fcb938c90410fa58f6b60081081f50b0a373a6d9e2cefa38030918"},{"fileName":"tflint-ruleset-uw-kafka-config_windows_amd64","algo":"Sha256","source":"checksums.txt","hash":"4c61c4770d6b5bbff2eb39c70dd7bd78dde5a0528fd84479e228857cccd982f0"},{"fileName":"tflint-ruleset-uw-kafka-config_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"93de067a6496cd1ebc4d75a8dc11d6bd88504638f5f35d1e9757f4e7cec962e7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_darwin_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "19da525c99d36ed73c4b52f8427ab57b596e5f89994b93f92e980483ca969edb"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f46062bfdb42c6e5e0e7d1fb5be1e476a9b7bd9632215be12172ffca994fa378"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d03c2f9568c9670ef881455f3942c1bf397df45477868e3b5b000d12e358165e"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "47081355705c8d31b97ebf69496720e92fc60b4681f3f27fad666ced29ec4c89"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_linux_386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "97fe91ba5fd16d7784bee9a66828f034ccf844b5260c78a87580d970c1c9d0af"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_linux_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9e3b8900dcf8cdef381b5bd968444b8ce5db60a3aef0864cd6e013bb642f107d"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_linux_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9678e717cfa1d8238d135d8a4bc46873e2af9737cb17dddd21bab27eacdfb9ad"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "730ee05ef6e674aeedba62102cabb1821690dfe867235df787ccd940f186dcf9"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_linux_arm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1c0739052bad34ead5e4ca6ad383ae88bc7cf2c8631ddd2f2a911ae953e73865"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d5293c0ffa246b5c918186ee463a7a6bf8c31e3fc01c9ebeb3346ac4b865e3b4"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "867990da519a814d15182400c77fc2b323f32992094f2db4c35351d0169b27b5"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1b5bd4551761977b82f8b087574f4fcbd8839c7444e9e561d6dfc1619a5e560e"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_windows_386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0eb108ae4d800884878f711200a48e44a5b2b6101e4848f5064afa3978ccbcf9"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_windows_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8829f426b1fcb938c90410fa58f6b60081081f50b0a373a6d9e2cefa38030918"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_windows_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4c61c4770d6b5bbff2eb39c70dd7bd78dde5a0528fd84479e228857cccd982f0"
+    },
+    {
+      "fileName": "tflint-ruleset-uw-kafka-config_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "93de067a6496cd1ebc4d75a8dc11d6bd88504638f5f35d1e9757f4e7cec962e7"
+    }
+  ]
+}

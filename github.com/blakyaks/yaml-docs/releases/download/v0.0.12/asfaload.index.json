@@ -1,1 +1,115 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"yaml-docs_0.0.12_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c90802de702064174017fc6736043d455bd685c21bcf17908e84be937fe462b8"},{"fileName":"yaml-docs_0.0.12_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c1c63176bc1e607993f999e1035b243f0e2d3127edb9ab0e33b3ef1d29ae0fa9"},{"fileName":"yaml-docs_0.0.12_Linux_arm6.deb","algo":"Sha256","source":"checksums.txt","hash":"6de8bdec9e23187e5f4a0990846c5d67dcd543ee02db7e1663f0cb55137c9644"},{"fileName":"yaml-docs_0.0.12_Linux_arm6.rpm","algo":"Sha256","source":"checksums.txt","hash":"b67185ae684a938280f750091f8cd4ab0d16360558789b17b4dd63862acad884"},{"fileName":"yaml-docs_0.0.12_Linux_arm6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6447b098219b0f092afdb318f128c5e887b916f12a0fcbe728a391346e8371e2"},{"fileName":"yaml-docs_0.0.12_Linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"a12330cf36f0f0293d42c96654b84aab8969ab82f9253a9543d519bc55824316"},{"fileName":"yaml-docs_0.0.12_Linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"4e70194cab797a114dec18a7c53f4825b4c934016849ddf12a444423e7228be1"},{"fileName":"yaml-docs_0.0.12_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c8570b69aae4a4ec1367a2b4b435595880f5af3c4868f13711d03696dc9a7e75"},{"fileName":"yaml-docs_0.0.12_Linux_arm7.deb","algo":"Sha256","source":"checksums.txt","hash":"7070389c1ca531e82df14c345763b711286b0cace5c09c352de7012535aabbac"},{"fileName":"yaml-docs_0.0.12_Linux_arm7.rpm","algo":"Sha256","source":"checksums.txt","hash":"e877d749001e58904f4f136c55282b12e9371edaa9c1cc55092fec05d7abb9d0"},{"fileName":"yaml-docs_0.0.12_Linux_arm7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bea2e6bde1e809265c4d24115a8945debcca597af0f28a4db8d18530556c884b"},{"fileName":"yaml-docs_0.0.12_Linux_x86_64.deb","algo":"Sha256","source":"checksums.txt","hash":"d37094613c6aae5f46ea80b8fed08d0a19f20deb4b9da7a32c916d01e693d4e8"},{"fileName":"yaml-docs_0.0.12_Linux_x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"059f881032f2911b2de2957bf8bf06077619446e7fdb30484b8668b1b5628c3a"},{"fileName":"yaml-docs_0.0.12_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d9766524e6e1fb5dfaca7da139c7314c573ff2fc280d2a23c73f7746824573f9"},{"fileName":"yaml-docs_0.0.12_Windows_arm6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a08a9473c505528f63643f1efd0c215226bb7ab374785eafe10cc61f0851e25a"},{"fileName":"yaml-docs_0.0.12_Windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9f1205904068952abe492b518fa687389393d449a97d3d335481d634a4f7a047"},{"fileName":"yaml-docs_0.0.12_Windows_arm7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7ce359fd305d4c279c6cb8ed511b90d0f8e6788a8cc3f786debec0bf91484209"},{"fileName":"yaml-docs_0.0.12_Windows_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fe1bafaa3a7060c1c1b1508dc34c7ec739421c70aead7192f5c4f663686c5d2f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "yaml-docs_0.0.12_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c90802de702064174017fc6736043d455bd685c21bcf17908e84be937fe462b8"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c1c63176bc1e607993f999e1035b243f0e2d3127edb9ab0e33b3ef1d29ae0fa9"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_arm6.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6de8bdec9e23187e5f4a0990846c5d67dcd543ee02db7e1663f0cb55137c9644"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_arm6.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b67185ae684a938280f750091f8cd4ab0d16360558789b17b4dd63862acad884"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_arm6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6447b098219b0f092afdb318f128c5e887b916f12a0fcbe728a391346e8371e2"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a12330cf36f0f0293d42c96654b84aab8969ab82f9253a9543d519bc55824316"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e70194cab797a114dec18a7c53f4825b4c934016849ddf12a444423e7228be1"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c8570b69aae4a4ec1367a2b4b435595880f5af3c4868f13711d03696dc9a7e75"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_arm7.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7070389c1ca531e82df14c345763b711286b0cace5c09c352de7012535aabbac"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_arm7.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e877d749001e58904f4f136c55282b12e9371edaa9c1cc55092fec05d7abb9d0"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_arm7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bea2e6bde1e809265c4d24115a8945debcca597af0f28a4db8d18530556c884b"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_x86_64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d37094613c6aae5f46ea80b8fed08d0a19f20deb4b9da7a32c916d01e693d4e8"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "059f881032f2911b2de2957bf8bf06077619446e7fdb30484b8668b1b5628c3a"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d9766524e6e1fb5dfaca7da139c7314c573ff2fc280d2a23c73f7746824573f9"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Windows_arm6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a08a9473c505528f63643f1efd0c215226bb7ab374785eafe10cc61f0851e25a"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9f1205904068952abe492b518fa687389393d449a97d3d335481d634a4f7a047"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Windows_arm7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7ce359fd305d4c279c6cb8ed511b90d0f8e6788a8cc3f786debec0bf91484209"
+    },
+    {
+      "fileName": "yaml-docs_0.0.12_Windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fe1bafaa3a7060c1c1b1508dc34c7ec739421c70aead7192f5c4f663686c5d2f"
+    }
+  ]
+}

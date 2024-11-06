@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"containerlab_0.58.0_linux_amd64.apk","algo":"Sha256","source":"checksums.txt","hash":"cdda4e671e82cf679ab400ee2263b82242a0306311ff09994be8873e51bcb544"},{"fileName":"containerlab_0.58.0_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"37471a9f469c74601e08945b6ad76bcac3c02ce582c9df7b27cd1cb815dbce8c"},{"fileName":"containerlab_0.58.0_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"6a80c803ba4189ea4c36fb944883b4adbfc319e149d58730e9db1c5636bb45df"},{"fileName":"containerlab_0.58.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9921f2a443611b8a462a411bbdf99803172b3c6ca9f7ec9717739093032b5ee8"},{"fileName":"containerlab_0.58.0_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"31649391f2dc2b09342217d747837d2b0afe2365431b86dde8dbb0c3cb003343"},{"fileName":"containerlab_0.58.0_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"78a006faec139bac744cd456f4f075752297bc3c3faeb16157114ffa8cb6e4d5"},{"fileName":"containerlab_0.58.0_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"c18edaf1bbdc954e9f898d9ecdf4ca569a9dc7210e217cf2b13f6fd8ec2ffcff"},{"fileName":"containerlab_0.58.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f865bb21a997dbe2fa0aaf70ae8953148a1668c5672fb31c2f049fa05d183d7a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "containerlab_0.58.0_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cdda4e671e82cf679ab400ee2263b82242a0306311ff09994be8873e51bcb544"
+    },
+    {
+      "fileName": "containerlab_0.58.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "37471a9f469c74601e08945b6ad76bcac3c02ce582c9df7b27cd1cb815dbce8c"
+    },
+    {
+      "fileName": "containerlab_0.58.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6a80c803ba4189ea4c36fb944883b4adbfc319e149d58730e9db1c5636bb45df"
+    },
+    {
+      "fileName": "containerlab_0.58.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9921f2a443611b8a462a411bbdf99803172b3c6ca9f7ec9717739093032b5ee8"
+    },
+    {
+      "fileName": "containerlab_0.58.0_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "31649391f2dc2b09342217d747837d2b0afe2365431b86dde8dbb0c3cb003343"
+    },
+    {
+      "fileName": "containerlab_0.58.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "78a006faec139bac744cd456f4f075752297bc3c3faeb16157114ffa8cb6e4d5"
+    },
+    {
+      "fileName": "containerlab_0.58.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c18edaf1bbdc954e9f898d9ecdf4ca569a9dc7210e217cf2b13f6fd8ec2ffcff"
+    },
+    {
+      "fileName": "containerlab_0.58.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f865bb21a997dbe2fa0aaf70ae8953148a1668c5672fb31c2f049fa05d183d7a"
+    }
+  ]
+}

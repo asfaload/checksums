@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"JPEGView32_1.3.46.7z","algo":"Sha256","source":"SHA256SUMS","hash":"f91c1135dea06acbd3f22f13683433fa3da5a772a4cdb26c5dfe67b082447409"},{"fileName":"JPEGView32_en-us_1.3.46.msi","algo":"Sha256","source":"SHA256SUMS","hash":"842a864ad7f26054aa86aed556a56eea129a1f9d958e6f96e983df899a2d1a9a"},{"fileName":"JPEGView32_WinXP_1.3.46.zip","algo":"Sha256","source":"SHA256SUMS","hash":"d0184fff039e60296c726f000311a38ce29f6ef9bc50307c856cbc6b7f0f8b86"},{"fileName":"JPEGView64_1.3.46.7z","algo":"Sha256","source":"SHA256SUMS","hash":"06855623d543edc829f29dbb85b19e7431a5c27bd4d18e131db75171fd107a16"},{"fileName":"JPEGView64_en-us_1.3.46.msi","algo":"Sha256","source":"SHA256SUMS","hash":"3108a85b5d408fa17027b25454f0ee7e7b450e680dbc1dab68d26d9099e18bf2"},{"fileName":"JPEGView_1.3.46.7z","algo":"Sha256","source":"SHA256SUMS","hash":"f8bea0cec1f3430b4eb37f2dfe3190324bf6e353b5bd65ec5a34b40b4a9a43a9"},{"fileName":"JPEGView_1.3.46.zip","algo":"Sha256","source":"SHA256SUMS","hash":"ba71d5983b6c9e2dc55abbec0da53be54e67cf3251d6e9d2d8be82fe7d85bbe5"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "JPEGView32_1.3.46.7z",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "f91c1135dea06acbd3f22f13683433fa3da5a772a4cdb26c5dfe67b082447409"
+    },
+    {
+      "fileName": "JPEGView32_en-us_1.3.46.msi",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "842a864ad7f26054aa86aed556a56eea129a1f9d958e6f96e983df899a2d1a9a"
+    },
+    {
+      "fileName": "JPEGView32_WinXP_1.3.46.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "d0184fff039e60296c726f000311a38ce29f6ef9bc50307c856cbc6b7f0f8b86"
+    },
+    {
+      "fileName": "JPEGView64_1.3.46.7z",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "06855623d543edc829f29dbb85b19e7431a5c27bd4d18e131db75171fd107a16"
+    },
+    {
+      "fileName": "JPEGView64_en-us_1.3.46.msi",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "3108a85b5d408fa17027b25454f0ee7e7b450e680dbc1dab68d26d9099e18bf2"
+    },
+    {
+      "fileName": "JPEGView_1.3.46.7z",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "f8bea0cec1f3430b4eb37f2dfe3190324bf6e353b5bd65ec5a34b40b4a9a43a9"
+    },
+    {
+      "fileName": "JPEGView_1.3.46.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ba71d5983b6c9e2dc55abbec0da53be54e67cf3251d6e9d2d8be82fe7d85bbe5"
+    }
+  ]
+}

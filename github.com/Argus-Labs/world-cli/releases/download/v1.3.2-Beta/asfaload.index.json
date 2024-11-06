@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"world-cli_Darwin_arm64.tar.gz","algo":"Sha256","source":"world-cli_1.3.2-Beta_checksums.txt","hash":"f950da27e7735de2a9a05e39aa16099eede46875330a7a7e5b2f8fb48e2b6c89"},{"fileName":"world-cli_Darwin_x86_64.tar.gz","algo":"Sha256","source":"world-cli_1.3.2-Beta_checksums.txt","hash":"ecca92966a6210878a103e884aafbe62e023f605ee8a916757fdb50660129524"},{"fileName":"world-cli_Linux_arm64.tar.gz","algo":"Sha256","source":"world-cli_1.3.2-Beta_checksums.txt","hash":"83a782be9b18ae8eb6822c03798ad2d7cc410b1f32a7b76850d22c324c6e596b"},{"fileName":"world-cli_Linux_i386.tar.gz","algo":"Sha256","source":"world-cli_1.3.2-Beta_checksums.txt","hash":"77b704136d4cbbccc4dc15565dd62f3d3a8aff1c1b360450df7e1bd47fcaf76f"},{"fileName":"world-cli_Linux_x86_64.tar.gz","algo":"Sha256","source":"world-cli_1.3.2-Beta_checksums.txt","hash":"44188ee2dc19dbba58ce696616dc9ae320d315c79e7240d3b86e2067d62e1fe5"},{"fileName":"world-cli_Windows_arm64.zip","algo":"Sha256","source":"world-cli_1.3.2-Beta_checksums.txt","hash":"48a5fb73631b231e45f063b772fabc94fa58fb2dab383257bb499c6a0487cf68"},{"fileName":"world-cli_Windows_i386.zip","algo":"Sha256","source":"world-cli_1.3.2-Beta_checksums.txt","hash":"4669175a8db6cd0b90de5a1c842e8f1dfdbf9a0c29fe6798fff1d741b33b640f"},{"fileName":"world-cli_Windows_x86_64.zip","algo":"Sha256","source":"world-cli_1.3.2-Beta_checksums.txt","hash":"a74d593958b3737fc9a052f5cfbc776a6fe6c9430fcabed5abb4dd77e33fb0c9"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "world-cli_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "world-cli_1.3.2-Beta_checksums.txt",
+      "hash": "f950da27e7735de2a9a05e39aa16099eede46875330a7a7e5b2f8fb48e2b6c89"
+    },
+    {
+      "fileName": "world-cli_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "world-cli_1.3.2-Beta_checksums.txt",
+      "hash": "ecca92966a6210878a103e884aafbe62e023f605ee8a916757fdb50660129524"
+    },
+    {
+      "fileName": "world-cli_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "world-cli_1.3.2-Beta_checksums.txt",
+      "hash": "83a782be9b18ae8eb6822c03798ad2d7cc410b1f32a7b76850d22c324c6e596b"
+    },
+    {
+      "fileName": "world-cli_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "world-cli_1.3.2-Beta_checksums.txt",
+      "hash": "77b704136d4cbbccc4dc15565dd62f3d3a8aff1c1b360450df7e1bd47fcaf76f"
+    },
+    {
+      "fileName": "world-cli_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "world-cli_1.3.2-Beta_checksums.txt",
+      "hash": "44188ee2dc19dbba58ce696616dc9ae320d315c79e7240d3b86e2067d62e1fe5"
+    },
+    {
+      "fileName": "world-cli_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "world-cli_1.3.2-Beta_checksums.txt",
+      "hash": "48a5fb73631b231e45f063b772fabc94fa58fb2dab383257bb499c6a0487cf68"
+    },
+    {
+      "fileName": "world-cli_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "world-cli_1.3.2-Beta_checksums.txt",
+      "hash": "4669175a8db6cd0b90de5a1c842e8f1dfdbf9a0c29fe6798fff1d741b33b640f"
+    },
+    {
+      "fileName": "world-cli_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "world-cli_1.3.2-Beta_checksums.txt",
+      "hash": "a74d593958b3737fc9a052f5cfbc776a6fe6c9430fcabed5abb4dd77e33fb0c9"
+    }
+  ]
+}

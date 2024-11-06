@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"OrganicMaps-24100805-web-release.apk","algo":"Sha256","source":"OrganicMaps-24100805-web-release.apk.sha256sum","hash":"32544cd46fa291f5154e7de7505fda7a70351b33bb7a972f9da5c958b5e3d3bc"},{"fileName":"OrganicMaps-24100805-google-release.apk","algo":"Sha256","source":"OrganicMaps-24100805-google-release.apk.sha256sum","hash":"077e3d157899b515994bda9143a023cba40e3021f423fa7cd940bdb6080c8b07"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "OrganicMaps-24100805-web-release.apk",
+      "algo": "Sha256",
+      "source": "OrganicMaps-24100805-web-release.apk.sha256sum",
+      "hash": "32544cd46fa291f5154e7de7505fda7a70351b33bb7a972f9da5c958b5e3d3bc"
+    },
+    {
+      "fileName": "OrganicMaps-24100805-google-release.apk",
+      "algo": "Sha256",
+      "source": "OrganicMaps-24100805-google-release.apk.sha256sum",
+      "hash": "077e3d157899b515994bda9143a023cba40e3021f423fa7cd940bdb6080c8b07"
+    }
+  ]
+}

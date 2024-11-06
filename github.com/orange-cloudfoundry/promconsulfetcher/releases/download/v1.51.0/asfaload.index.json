@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"promconsulfetcher_1.51.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ec69e73de6158c156f7cdef77588f7e45788a8a2cfa0ca6ae18bd93a430149a3"},{"fileName":"promconsulfetcher_1.51.0_darwin_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"2b468fab9e2a4026cc5be401fef17c772122db15e74b87044e1735f566d926b5"},{"fileName":"promconsulfetcher_1.51.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"60cc8a08cf56d507213ea418fed7831c33450b13434767f36f01bb30567cdf42"},{"fileName":"promconsulfetcher_1.51.0_linux_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"35613302c7986110e41f41c14694676d8589970bc7f4e1f8b82af332d23445ff"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "promconsulfetcher_1.51.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ec69e73de6158c156f7cdef77588f7e45788a8a2cfa0ca6ae18bd93a430149a3"
+    },
+    {
+      "fileName": "promconsulfetcher_1.51.0_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2b468fab9e2a4026cc5be401fef17c772122db15e74b87044e1735f566d926b5"
+    },
+    {
+      "fileName": "promconsulfetcher_1.51.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "60cc8a08cf56d507213ea418fed7831c33450b13434767f36f01bb30567cdf42"
+    },
+    {
+      "fileName": "promconsulfetcher_1.51.0_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "35613302c7986110e41f41c14694676d8589970bc7f4e1f8b82af332d23445ff"
+    }
+  ]
+}

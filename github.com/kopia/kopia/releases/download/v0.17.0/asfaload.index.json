@@ -1,1 +1,259 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"CHANGELOG.md","algo":"Sha256","source":"checksums.txt","hash":"d303b42cfdec9a0e339a0c6dfbaa84c9ca573a4ec8badba4d583d7c07eaf7de8"},{"fileName":"KopiaUI-0.17.0-arm64-mac.zip","algo":"Sha256","source":"checksums.txt","hash":"4e18d1f8f68ed34d18fdcb69fb6a7554d6d08ed1a413df8cc1e31ca6afa6c3c0"},{"fileName":"KopiaUI-0.17.0-arm64.AppImage","algo":"Sha256","source":"checksums.txt","hash":"dfdb391a4f4d5c9a2535b05a878b1fa0d7978b4d6b419f7c410b6471d3e7728a"},{"fileName":"KopiaUI-0.17.0-arm64.dmg","algo":"Sha256","source":"checksums.txt","hash":"9eb1d11c749aab2ce05db801bc7090b140337b0c6eff6d7242f74f2a08bb4b5a"},{"fileName":"KopiaUI-0.17.0-armv7l.AppImage","algo":"Sha256","source":"checksums.txt","hash":"5a79d9b6c52a45080cb721de1a8ae06a922b9db64f47d0bcdec25477bb678c6f"},{"fileName":"KopiaUI-0.17.0-mac.zip","algo":"Sha256","source":"checksums.txt","hash":"7ff8253509839c58c20875f818742f5816f252e85f1cef1c385a6ae91532070f"},{"fileName":"KopiaUI-0.17.0-win.zip","algo":"Sha256","source":"checksums.txt","hash":"e8393ce14b538ffa42e92560cc44d5bc4c85d3b10ae7993eb3b95dea3deb84d6"},{"fileName":"KopiaUI-0.17.0.AppImage","algo":"Sha256","source":"checksums.txt","hash":"ac8bbc3b9c023723fac836c48608f79da4d38c0c7354f5c12dcee820da8b7b94"},{"fileName":"KopiaUI-0.17.0.dmg","algo":"Sha256","source":"checksums.txt","hash":"358b7ee3a3be8f23682ad55e6c505b67841fdf6495da4f8ed7af407ad14cc27e"},{"fileName":"KopiaUI-Setup-0.17.0.exe","algo":"Sha256","source":"checksums.txt","hash":"6d592de6be4a9c887a26477ccfbfe34c8633edc28d28fa16f9834f6d2219d10f"},{"fileName":"builder-debug.yml","algo":"Sha256","source":"checksums.txt","hash":"46e77c6c8accb20e5866372887f35a48de4422e65e1c42e7d0083ff539a910d3"},{"fileName":"change_log.md","algo":"Sha256","source":"checksums.txt","hash":"7bd07bbf9e76170456a9b33c07b668064f65f0cae6b5914a25fe0e1c394c7073"},{"fileName":"kopia-0.17.0-freebsd-experimental-arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3047835fc27d3982ac64c68668891bb0c683e2c18abd483622b2556d6907cf96"},{"fileName":"kopia-0.17.0-freebsd-experimental-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9b67c0f04eb8fbfe7c3c4ebd425f1245945195d6ec03776d1d3db4ad624b565f"},{"fileName":"kopia-0.17.0-freebsd-experimental-x64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a8dda59209201b8bb8660eff148e0a7019dc3c43db6f5b1e59b24b078d624bb8"},{"fileName":"kopia-0.17.0-linux-arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"25804d7271a0dfe6d0821270c5640caa01da5e05a03a7c4783fd1edafb234d51"},{"fileName":"kopia-0.17.0-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9679415cd2717a90cb6a793aa2d4accde4059084245b27fa4807d7e13fbe40a0"},{"fileName":"kopia-0.17.0-linux-x64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6851bba9f49c2ca2cabc5bec85a813149a180472d1e338fad42a8285dad047ee"},{"fileName":"kopia-0.17.0-macOS-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e81b2b7a91501b7d4f834daaec78c11f910ed1a8f50ba46ba4c9725c87787c9e"},{"fileName":"kopia-0.17.0-macOS-universal.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4f7a7221214460d4831eebdf57c4cb34ba9b6434ebd755a4ab5bebd7870859d7"},{"fileName":"kopia-0.17.0-macOS-x64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8f0c41835b70a1c529cb6e946193785b10df1da09c5bfe3cc96a3007226b04d6"},{"fileName":"kopia-0.17.0-openbsd-experimental-arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b5b8a3e0a8d6f0618d8d9289f660f0084f72450f900092c0a5a49d600b05b24a"},{"fileName":"kopia-0.17.0-openbsd-experimental-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"eee45f0de12ef04a56266f400bbb50012d704d05722144361f5dea64785e36da"},{"fileName":"kopia-0.17.0-openbsd-experimental-x64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f9d36a42b8f5718d3acc4531cc13677f18caabc63aa469c2c4303eddf072de1e"},{"fileName":"kopia-0.17.0-windows-x64.zip","algo":"Sha256","source":"checksums.txt","hash":"0bcfc616e52fe3847e7d0484fb6612512e926990277a37c8ced446dcce2dc6cb"},{"fileName":"kopia-0.17.0.aarch64.rpm","algo":"Sha256","source":"checksums.txt","hash":"ad440000991c29716f08e6719eef9d12492c1cd30635fd673264b6b71279b227"},{"fileName":"kopia-0.17.0.armhfp.rpm","algo":"Sha256","source":"checksums.txt","hash":"2b9ab172b6e3ecea54ad8f67c1c38ed804a564f5763204c93f93178ff9824b89"},{"fileName":"kopia-0.17.0.x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"1420b55cbd9fbba0135425f051d4e60eaa22aed36a36c08d980733fbdad1ee79"},{"fileName":"kopia-ui-0.17.0.aarch64.rpm","algo":"Sha256","source":"checksums.txt","hash":"cc5281b83b1f3fb5cfe1f6ed1922d3b0ff5144f58a741480acab2614486f2ff1"},{"fileName":"kopia-ui-0.17.0.armv7l.rpm","algo":"Sha256","source":"checksums.txt","hash":"9d2d63b6683b5c50e85c71b6726d88dc7ee5f635ea49b2811aedf06d55fdddcd"},{"fileName":"kopia-ui-0.17.0.x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"3f0af91910b901fd577d38344f497bf5b15718465f5a49b3d1d7aca79e751dbb"},{"fileName":"kopia-ui_0.17.0_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"7bf9efbc042126869c3a04def7323e177af0027fe5291cedc9e09e43a22da3e4"},{"fileName":"kopia-ui_0.17.0_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"8ad79b3c8d5c71bde3e1306a08454ef1aeda4491f9bf7150c35470f3fbf13adf"},{"fileName":"kopia-ui_0.17.0_armv7l.deb","algo":"Sha256","source":"checksums.txt","hash":"056ee9c5598d22f93e5ad7b74da2cafa87a38552697f415ebb52f9ab111218ec"},{"fileName":"kopia_0.17.0_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"3529928a44d613a38c6017be4eef72cde69fea81d1b97a1e772263f0d5d7acd0"},{"fileName":"kopia_0.17.0_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"60e4dfe2f9c1c13dcc397f465c30f5e86f4ddd84dd765ed9cbb6aabb268e11b2"},{"fileName":"kopia_0.17.0_linux_armhf.deb","algo":"Sha256","source":"checksums.txt","hash":"2e537ee5293f692e8de8fb366ac07a1be256959a4ed1fcaa4f1779c463ec5e7e"},{"fileName":"latest-linux-arm.yml","algo":"Sha256","source":"checksums.txt","hash":"51da4b1a6b03ab7d8b6ef99d1d2ba858198eeeea4a30b1cdc0e36a135284a8f1"},{"fileName":"latest-linux-arm64.yml","algo":"Sha256","source":"checksums.txt","hash":"68bc10a4941fc7e9694c3e0f5970a7591d3a032e9d529437c945de39a004663a"},{"fileName":"latest-linux.yml","algo":"Sha256","source":"checksums.txt","hash":"f6988e3020d44fe4cc096120a56f417d753095fb53ce18d1febc13ae83c4a669"},{"fileName":"latest-mac.yml","algo":"Sha256","source":"checksums.txt","hash":"3fe184ff9708e4bce813ccb83d07e8d641d50a057330174b0ee29163fe77bb69"},{"fileName":"latest.yml","algo":"Sha256","source":"checksums.txt","hash":"ec0625a935a81823a0af2458e9cb4b769cbb81c3e149d259539eb2d8b9e15f5f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "CHANGELOG.md",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d303b42cfdec9a0e339a0c6dfbaa84c9ca573a4ec8badba4d583d7c07eaf7de8"
+    },
+    {
+      "fileName": "KopiaUI-0.17.0-arm64-mac.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e18d1f8f68ed34d18fdcb69fb6a7554d6d08ed1a413df8cc1e31ca6afa6c3c0"
+    },
+    {
+      "fileName": "KopiaUI-0.17.0-arm64.AppImage",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dfdb391a4f4d5c9a2535b05a878b1fa0d7978b4d6b419f7c410b6471d3e7728a"
+    },
+    {
+      "fileName": "KopiaUI-0.17.0-arm64.dmg",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9eb1d11c749aab2ce05db801bc7090b140337b0c6eff6d7242f74f2a08bb4b5a"
+    },
+    {
+      "fileName": "KopiaUI-0.17.0-armv7l.AppImage",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5a79d9b6c52a45080cb721de1a8ae06a922b9db64f47d0bcdec25477bb678c6f"
+    },
+    {
+      "fileName": "KopiaUI-0.17.0-mac.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7ff8253509839c58c20875f818742f5816f252e85f1cef1c385a6ae91532070f"
+    },
+    {
+      "fileName": "KopiaUI-0.17.0-win.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e8393ce14b538ffa42e92560cc44d5bc4c85d3b10ae7993eb3b95dea3deb84d6"
+    },
+    {
+      "fileName": "KopiaUI-0.17.0.AppImage",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ac8bbc3b9c023723fac836c48608f79da4d38c0c7354f5c12dcee820da8b7b94"
+    },
+    {
+      "fileName": "KopiaUI-0.17.0.dmg",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "358b7ee3a3be8f23682ad55e6c505b67841fdf6495da4f8ed7af407ad14cc27e"
+    },
+    {
+      "fileName": "KopiaUI-Setup-0.17.0.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6d592de6be4a9c887a26477ccfbfe34c8633edc28d28fa16f9834f6d2219d10f"
+    },
+    {
+      "fileName": "builder-debug.yml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "46e77c6c8accb20e5866372887f35a48de4422e65e1c42e7d0083ff539a910d3"
+    },
+    {
+      "fileName": "change_log.md",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7bd07bbf9e76170456a9b33c07b668064f65f0cae6b5914a25fe0e1c394c7073"
+    },
+    {
+      "fileName": "kopia-0.17.0-freebsd-experimental-arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3047835fc27d3982ac64c68668891bb0c683e2c18abd483622b2556d6907cf96"
+    },
+    {
+      "fileName": "kopia-0.17.0-freebsd-experimental-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9b67c0f04eb8fbfe7c3c4ebd425f1245945195d6ec03776d1d3db4ad624b565f"
+    },
+    {
+      "fileName": "kopia-0.17.0-freebsd-experimental-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a8dda59209201b8bb8660eff148e0a7019dc3c43db6f5b1e59b24b078d624bb8"
+    },
+    {
+      "fileName": "kopia-0.17.0-linux-arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "25804d7271a0dfe6d0821270c5640caa01da5e05a03a7c4783fd1edafb234d51"
+    },
+    {
+      "fileName": "kopia-0.17.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9679415cd2717a90cb6a793aa2d4accde4059084245b27fa4807d7e13fbe40a0"
+    },
+    {
+      "fileName": "kopia-0.17.0-linux-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6851bba9f49c2ca2cabc5bec85a813149a180472d1e338fad42a8285dad047ee"
+    },
+    {
+      "fileName": "kopia-0.17.0-macOS-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e81b2b7a91501b7d4f834daaec78c11f910ed1a8f50ba46ba4c9725c87787c9e"
+    },
+    {
+      "fileName": "kopia-0.17.0-macOS-universal.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4f7a7221214460d4831eebdf57c4cb34ba9b6434ebd755a4ab5bebd7870859d7"
+    },
+    {
+      "fileName": "kopia-0.17.0-macOS-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8f0c41835b70a1c529cb6e946193785b10df1da09c5bfe3cc96a3007226b04d6"
+    },
+    {
+      "fileName": "kopia-0.17.0-openbsd-experimental-arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b5b8a3e0a8d6f0618d8d9289f660f0084f72450f900092c0a5a49d600b05b24a"
+    },
+    {
+      "fileName": "kopia-0.17.0-openbsd-experimental-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eee45f0de12ef04a56266f400bbb50012d704d05722144361f5dea64785e36da"
+    },
+    {
+      "fileName": "kopia-0.17.0-openbsd-experimental-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f9d36a42b8f5718d3acc4531cc13677f18caabc63aa469c2c4303eddf072de1e"
+    },
+    {
+      "fileName": "kopia-0.17.0-windows-x64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0bcfc616e52fe3847e7d0484fb6612512e926990277a37c8ced446dcce2dc6cb"
+    },
+    {
+      "fileName": "kopia-0.17.0.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ad440000991c29716f08e6719eef9d12492c1cd30635fd673264b6b71279b227"
+    },
+    {
+      "fileName": "kopia-0.17.0.armhfp.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2b9ab172b6e3ecea54ad8f67c1c38ed804a564f5763204c93f93178ff9824b89"
+    },
+    {
+      "fileName": "kopia-0.17.0.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1420b55cbd9fbba0135425f051d4e60eaa22aed36a36c08d980733fbdad1ee79"
+    },
+    {
+      "fileName": "kopia-ui-0.17.0.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cc5281b83b1f3fb5cfe1f6ed1922d3b0ff5144f58a741480acab2614486f2ff1"
+    },
+    {
+      "fileName": "kopia-ui-0.17.0.armv7l.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9d2d63b6683b5c50e85c71b6726d88dc7ee5f635ea49b2811aedf06d55fdddcd"
+    },
+    {
+      "fileName": "kopia-ui-0.17.0.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3f0af91910b901fd577d38344f497bf5b15718465f5a49b3d1d7aca79e751dbb"
+    },
+    {
+      "fileName": "kopia-ui_0.17.0_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7bf9efbc042126869c3a04def7323e177af0027fe5291cedc9e09e43a22da3e4"
+    },
+    {
+      "fileName": "kopia-ui_0.17.0_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8ad79b3c8d5c71bde3e1306a08454ef1aeda4491f9bf7150c35470f3fbf13adf"
+    },
+    {
+      "fileName": "kopia-ui_0.17.0_armv7l.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "056ee9c5598d22f93e5ad7b74da2cafa87a38552697f415ebb52f9ab111218ec"
+    },
+    {
+      "fileName": "kopia_0.17.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3529928a44d613a38c6017be4eef72cde69fea81d1b97a1e772263f0d5d7acd0"
+    },
+    {
+      "fileName": "kopia_0.17.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "60e4dfe2f9c1c13dcc397f465c30f5e86f4ddd84dd765ed9cbb6aabb268e11b2"
+    },
+    {
+      "fileName": "kopia_0.17.0_linux_armhf.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2e537ee5293f692e8de8fb366ac07a1be256959a4ed1fcaa4f1779c463ec5e7e"
+    },
+    {
+      "fileName": "latest-linux-arm.yml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "51da4b1a6b03ab7d8b6ef99d1d2ba858198eeeea4a30b1cdc0e36a135284a8f1"
+    },
+    {
+      "fileName": "latest-linux-arm64.yml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "68bc10a4941fc7e9694c3e0f5970a7591d3a032e9d529437c945de39a004663a"
+    },
+    {
+      "fileName": "latest-linux.yml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f6988e3020d44fe4cc096120a56f417d753095fb53ce18d1febc13ae83c4a669"
+    },
+    {
+      "fileName": "latest-mac.yml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3fe184ff9708e4bce813ccb83d07e8d641d50a057330174b0ee29163fe77bb69"
+    },
+    {
+      "fileName": "latest.yml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ec0625a935a81823a0af2458e9cb4b769cbb81c3e149d259539eb2d8b9e15f5f"
+    }
+  ]
+}

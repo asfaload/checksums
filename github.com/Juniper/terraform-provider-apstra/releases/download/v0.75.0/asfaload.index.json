@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-apstra_0.75.0_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-apstra_0.75.0_SHA256SUMS","hash":"19e5bde519bf9985d7071d4a3b33f7f3340be80eb4209ff8c1602c32cf75942e"},{"fileName":"terraform-provider-apstra_0.75.0_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-apstra_0.75.0_SHA256SUMS","hash":"87f5b8b5186d5b84e439d24d660200754ac08b4e701448fa077543066d3739ac"},{"fileName":"terraform-provider-apstra_0.75.0_linux_386.zip","algo":"Sha256","source":"terraform-provider-apstra_0.75.0_SHA256SUMS","hash":"910fae89972a0f0931c338a07675f63a2eb67113b10f883aa28d80d2a4340531"},{"fileName":"terraform-provider-apstra_0.75.0_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-apstra_0.75.0_SHA256SUMS","hash":"aba38439652e15a63f89dd7f144b593c58150823b2767fe810e1a1f922cb2e1b"},{"fileName":"terraform-provider-apstra_0.75.0_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-apstra_0.75.0_SHA256SUMS","hash":"640e0ef81a5be9f25a203f710aac64e46d1703077cda5cc40a26804b8a5c74ea"},{"fileName":"terraform-provider-apstra_0.75.0_manifest.json","algo":"Sha256","source":"terraform-provider-apstra_0.75.0_SHA256SUMS","hash":"f809ab383cca0a5f83072981c64208cbd7fa67e986a86ee02dd2c82333221e32"},{"fileName":"terraform-provider-apstra_0.75.0_windows_386.zip","algo":"Sha256","source":"terraform-provider-apstra_0.75.0_SHA256SUMS","hash":"0493be7404e52fd08fd27169eb3a4ce069ff9cad0a05e32eb435f772332d6caf"},{"fileName":"terraform-provider-apstra_0.75.0_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-apstra_0.75.0_SHA256SUMS","hash":"f3c3e538557ea79ac98d6b1845bb7cf9fadea117b28912e3eea03a2bf41e820a"},{"fileName":"terraform-provider-apstra_0.75.0_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-apstra_0.75.0_SHA256SUMS","hash":"d72aaf4aaccd65de9b8b6cf0fb2ce84146a1e3477b2df6f53fcb00acd8890e40"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-apstra_0.75.0_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-apstra_0.75.0_SHA256SUMS",
+      "hash": "19e5bde519bf9985d7071d4a3b33f7f3340be80eb4209ff8c1602c32cf75942e"
+    },
+    {
+      "fileName": "terraform-provider-apstra_0.75.0_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-apstra_0.75.0_SHA256SUMS",
+      "hash": "87f5b8b5186d5b84e439d24d660200754ac08b4e701448fa077543066d3739ac"
+    },
+    {
+      "fileName": "terraform-provider-apstra_0.75.0_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-apstra_0.75.0_SHA256SUMS",
+      "hash": "910fae89972a0f0931c338a07675f63a2eb67113b10f883aa28d80d2a4340531"
+    },
+    {
+      "fileName": "terraform-provider-apstra_0.75.0_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-apstra_0.75.0_SHA256SUMS",
+      "hash": "aba38439652e15a63f89dd7f144b593c58150823b2767fe810e1a1f922cb2e1b"
+    },
+    {
+      "fileName": "terraform-provider-apstra_0.75.0_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-apstra_0.75.0_SHA256SUMS",
+      "hash": "640e0ef81a5be9f25a203f710aac64e46d1703077cda5cc40a26804b8a5c74ea"
+    },
+    {
+      "fileName": "terraform-provider-apstra_0.75.0_manifest.json",
+      "algo": "Sha256",
+      "source": "terraform-provider-apstra_0.75.0_SHA256SUMS",
+      "hash": "f809ab383cca0a5f83072981c64208cbd7fa67e986a86ee02dd2c82333221e32"
+    },
+    {
+      "fileName": "terraform-provider-apstra_0.75.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-apstra_0.75.0_SHA256SUMS",
+      "hash": "0493be7404e52fd08fd27169eb3a4ce069ff9cad0a05e32eb435f772332d6caf"
+    },
+    {
+      "fileName": "terraform-provider-apstra_0.75.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-apstra_0.75.0_SHA256SUMS",
+      "hash": "f3c3e538557ea79ac98d6b1845bb7cf9fadea117b28912e3eea03a2bf41e820a"
+    },
+    {
+      "fileName": "terraform-provider-apstra_0.75.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-apstra_0.75.0_SHA256SUMS",
+      "hash": "d72aaf4aaccd65de9b8b6cf0fb2ce84146a1e3477b2df6f53fcb00acd8890e40"
+    }
+  ]
+}

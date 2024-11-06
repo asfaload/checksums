@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"netbird-ui-linux_0.31.0_linux_amd64.tar.gz","algo":"Sha256","source":"netbird-ui_0.31.0_checksums.txt","hash":"e5a2262adeaf96d0ae3f3863ce24b819c510dc18ef62468ad9ace071420cd0d9"},{"fileName":"netbird-ui-windows_0.31.0_windows_amd64.tar.gz","algo":"Sha256","source":"netbird-ui_0.31.0_checksums.txt","hash":"d4a329801a1af3793b6858d9716702f5f25964d243d9ff9c2c61bc2dafd4f18d"},{"fileName":"netbird-ui_0.31.0_linux_amd64.deb","algo":"Sha256","source":"netbird-ui_0.31.0_checksums.txt","hash":"1b88e121b62773c4bc45fba399416c7ac296159eaac9ed43fd16c35ce398a9a1"},{"fileName":"netbird-ui_0.31.0_linux_amd64.rpm","algo":"Sha256","source":"netbird-ui_0.31.0_checksums.txt","hash":"0b07b2090d23a13f67961c28d425e5554eb5b093b092f079076ff0922de20fdd"},{"fileName":"netbird-ui_0.31.0_darwin_all.tar.gz","algo":"Sha256","source":"netbird-ui_darwin_checksums.txt","hash":"5a7a2ec4d7d3ed65c7a37484cab0ab98111144dbfc6092f968b55db63dddb0c3"},{"fileName":"netbird-ui_0.31.0_darwin_amd64.tar.gz","algo":"Sha256","source":"netbird-ui_darwin_checksums.txt","hash":"9889d7941543ed19a1655c90385b168cc6d61442c73dd90f834bffc731dc0946"},{"fileName":"netbird-ui_0.31.0_darwin_arm64.tar.gz","algo":"Sha256","source":"netbird-ui_darwin_checksums.txt","hash":"0f208ef3783028ce4e5acb41262218efe158d63dd4680afcc74277c23e44c199"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "netbird-ui-linux_0.31.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "netbird-ui_0.31.0_checksums.txt",
+      "hash": "e5a2262adeaf96d0ae3f3863ce24b819c510dc18ef62468ad9ace071420cd0d9"
+    },
+    {
+      "fileName": "netbird-ui-windows_0.31.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "netbird-ui_0.31.0_checksums.txt",
+      "hash": "d4a329801a1af3793b6858d9716702f5f25964d243d9ff9c2c61bc2dafd4f18d"
+    },
+    {
+      "fileName": "netbird-ui_0.31.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "netbird-ui_0.31.0_checksums.txt",
+      "hash": "1b88e121b62773c4bc45fba399416c7ac296159eaac9ed43fd16c35ce398a9a1"
+    },
+    {
+      "fileName": "netbird-ui_0.31.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "netbird-ui_0.31.0_checksums.txt",
+      "hash": "0b07b2090d23a13f67961c28d425e5554eb5b093b092f079076ff0922de20fdd"
+    },
+    {
+      "fileName": "netbird-ui_0.31.0_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "netbird-ui_darwin_checksums.txt",
+      "hash": "5a7a2ec4d7d3ed65c7a37484cab0ab98111144dbfc6092f968b55db63dddb0c3"
+    },
+    {
+      "fileName": "netbird-ui_0.31.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "netbird-ui_darwin_checksums.txt",
+      "hash": "9889d7941543ed19a1655c90385b168cc6d61442c73dd90f834bffc731dc0946"
+    },
+    {
+      "fileName": "netbird-ui_0.31.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "netbird-ui_darwin_checksums.txt",
+      "hash": "0f208ef3783028ce4e5acb41262218efe158d63dd4680afcc74277c23e44c199"
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pulumi-resource-azure-native-v2.68.0-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-azure-native_2.68.0_checksums.txt","hash":"f4387a24ce05e80d43d4e8fc16d57fa18541ec99"},{"fileName":"pulumi-resource-azure-native-v2.68.0-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-azure-native_2.68.0_checksums.txt","hash":"2dfc6602660e64f6752280fed5978a0e985791c5"},{"fileName":"pulumi-resource-azure-native-v2.68.0-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-azure-native_2.68.0_checksums.txt","hash":"da6f81bea556d85790d14f2440ba45aa88285975"},{"fileName":"pulumi-resource-azure-native-v2.68.0-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-azure-native_2.68.0_checksums.txt","hash":"b8697ad3731e355319803599a727e31a183bf0c4"},{"fileName":"pulumi-resource-azure-native-v2.68.0-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-azure-native_2.68.0_checksums.txt","hash":"4171f2134ba850c3c9265fd276dd5fac7212c310"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pulumi-resource-azure-native-v2.68.0-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-azure-native_2.68.0_checksums.txt",
+      "hash": "f4387a24ce05e80d43d4e8fc16d57fa18541ec99"
+    },
+    {
+      "fileName": "pulumi-resource-azure-native-v2.68.0-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-azure-native_2.68.0_checksums.txt",
+      "hash": "2dfc6602660e64f6752280fed5978a0e985791c5"
+    },
+    {
+      "fileName": "pulumi-resource-azure-native-v2.68.0-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-azure-native_2.68.0_checksums.txt",
+      "hash": "da6f81bea556d85790d14f2440ba45aa88285975"
+    },
+    {
+      "fileName": "pulumi-resource-azure-native-v2.68.0-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-azure-native_2.68.0_checksums.txt",
+      "hash": "b8697ad3731e355319803599a727e31a183bf0c4"
+    },
+    {
+      "fileName": "pulumi-resource-azure-native-v2.68.0-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-azure-native_2.68.0_checksums.txt",
+      "hash": "4171f2134ba850c3c9265fd276dd5fac7212c310"
+    }
+  ]
+}

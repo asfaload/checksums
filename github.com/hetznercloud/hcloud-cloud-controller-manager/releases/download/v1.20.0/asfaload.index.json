@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"hcloud-cloud-controller-manager_1.20.0_linux_amd64.tar.gz","algo":"Sha256","source":"hcloud-cloud-controller-manager_1.20.0_checksums.txt","hash":"b929ced81c26fd81b6488643ba7031fe6952a41b4b248c2816401ebdfd2c4615"},{"fileName":"hcloud-cloud-controller-manager_1.20.0_linux_arm64.tar.gz","algo":"Sha256","source":"hcloud-cloud-controller-manager_1.20.0_checksums.txt","hash":"cfc08dc266d586519dbc010ea268851d8669a330132575758401f53cf1e6bd52"},{"fileName":"hcloud-cloud-controller-manager_1.20.0_linux_armv6.tar.gz","algo":"Sha256","source":"hcloud-cloud-controller-manager_1.20.0_checksums.txt","hash":"7879bf7fbe2e5e8722942763fcade53906c8ecc51fe7ab8ef6e0b02855af056a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "hcloud-cloud-controller-manager_1.20.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "hcloud-cloud-controller-manager_1.20.0_checksums.txt",
+      "hash": "b929ced81c26fd81b6488643ba7031fe6952a41b4b248c2816401ebdfd2c4615"
+    },
+    {
+      "fileName": "hcloud-cloud-controller-manager_1.20.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "hcloud-cloud-controller-manager_1.20.0_checksums.txt",
+      "hash": "cfc08dc266d586519dbc010ea268851d8669a330132575758401f53cf1e6bd52"
+    },
+    {
+      "fileName": "hcloud-cloud-controller-manager_1.20.0_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "hcloud-cloud-controller-manager_1.20.0_checksums.txt",
+      "hash": "7879bf7fbe2e5e8722942763fcade53906c8ecc51fe7ab8ef6e0b02855af056a"
+    }
+  ]
+}

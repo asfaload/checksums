@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"stripe_1.21.8_windows_x86_64.zip","algo":"Sha256","source":"stripe-windows-checksums.txt","hash":"4c55264c595e05c04ff1e6c0cda7f49021dc01687db9e2cc6702465930daf000"},{"fileName":"stripe_1.21.8_windows_i386.zip","algo":"Sha256","source":"stripe-windows-checksums.txt","hash":"be8232181d22a7c14dca6276bd8963353be0437868008535822215a3e49873da"},{"fileName":"stripe_1.21.8_mac-os_arm64.tar.gz","algo":"Sha256","source":"stripe-mac-checksums.txt","hash":"393280e7fc5bd532808a6ef3924cc2d103a5acabfca70018812540b81fd47746"},{"fileName":"stripe_1.21.8_mac-os_x86_64.tar.gz","algo":"Sha256","source":"stripe-mac-checksums.txt","hash":"596b4fdfdbe9e7089c42c5e33de0c014a57fae51de251705a94f56ce5e344bd7"},{"fileName":"stripe_1.21.8_linux_x86_64.tar.gz","algo":"Sha256","source":"stripe-linux-checksums.txt","hash":"143b3eb202731d9ffdd510350596ab668d006f440720e746cbaeb8bfa578678a"},{"fileName":"stripe_1.21.8_linux_amd64.deb","algo":"Sha256","source":"stripe-linux-checksums.txt","hash":"21df5973360801f13c1e50de4ffda615894969285a5d105ec74bb3ad0938d4fb"},{"fileName":"stripe_1.21.8_linux_amd64.rpm","algo":"Sha256","source":"stripe-linux-checksums.txt","hash":"28d9016549f73afa2e407fb0143d98c73160dc06c98f6ea3837889a81a06dd19"},{"fileName":"stripe_1.21.8_linux_arm64.deb","algo":"Sha256","source":"stripe-linux-checksums.txt","hash":"2b415b32d0451f8acccf72138efdecf19cf0001188457a4a8197529ac7cfc0e2"},{"fileName":"stripe_1.21.8_linux_arm64.rpm","algo":"Sha256","source":"stripe-linux-checksums.txt","hash":"8a8b122549ea4800d38210b64b764ac20ac5ba50b3a17f469a64270e603aa1aa"},{"fileName":"stripe_1.21.8_linux_arm64.tar.gz","algo":"Sha256","source":"stripe-linux-checksums.txt","hash":"b6f3e152a39948ad10a1d7aeb1118aa618c132a70c2eb28e5afca8a524ce88f4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "stripe_1.21.8_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "stripe-windows-checksums.txt",
+      "hash": "4c55264c595e05c04ff1e6c0cda7f49021dc01687db9e2cc6702465930daf000"
+    },
+    {
+      "fileName": "stripe_1.21.8_windows_i386.zip",
+      "algo": "Sha256",
+      "source": "stripe-windows-checksums.txt",
+      "hash": "be8232181d22a7c14dca6276bd8963353be0437868008535822215a3e49873da"
+    },
+    {
+      "fileName": "stripe_1.21.8_mac-os_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "stripe-mac-checksums.txt",
+      "hash": "393280e7fc5bd532808a6ef3924cc2d103a5acabfca70018812540b81fd47746"
+    },
+    {
+      "fileName": "stripe_1.21.8_mac-os_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "stripe-mac-checksums.txt",
+      "hash": "596b4fdfdbe9e7089c42c5e33de0c014a57fae51de251705a94f56ce5e344bd7"
+    },
+    {
+      "fileName": "stripe_1.21.8_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "stripe-linux-checksums.txt",
+      "hash": "143b3eb202731d9ffdd510350596ab668d006f440720e746cbaeb8bfa578678a"
+    },
+    {
+      "fileName": "stripe_1.21.8_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "stripe-linux-checksums.txt",
+      "hash": "21df5973360801f13c1e50de4ffda615894969285a5d105ec74bb3ad0938d4fb"
+    },
+    {
+      "fileName": "stripe_1.21.8_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "stripe-linux-checksums.txt",
+      "hash": "28d9016549f73afa2e407fb0143d98c73160dc06c98f6ea3837889a81a06dd19"
+    },
+    {
+      "fileName": "stripe_1.21.8_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "stripe-linux-checksums.txt",
+      "hash": "2b415b32d0451f8acccf72138efdecf19cf0001188457a4a8197529ac7cfc0e2"
+    },
+    {
+      "fileName": "stripe_1.21.8_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "stripe-linux-checksums.txt",
+      "hash": "8a8b122549ea4800d38210b64b764ac20ac5ba50b3a17f469a64270e603aa1aa"
+    },
+    {
+      "fileName": "stripe_1.21.8_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "stripe-linux-checksums.txt",
+      "hash": "b6f3e152a39948ad10a1d7aeb1118aa618c132a70c2eb28e5afca8a524ce88f4"
+    }
+  ]
+}

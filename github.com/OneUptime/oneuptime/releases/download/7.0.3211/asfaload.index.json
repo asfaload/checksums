@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"oneuptime-infrastructure-agent_darwin_amd64.tar.gz","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"017f6c00d1c322d91cee555744b8929a7e7c33518dabba853113216d6eef4bf1"},{"fileName":"oneuptime-infrastructure-agent_darwin_arm64.tar.gz","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"f2f8eaebdd6991f19b13b815c103b867308e31711979d2ddc33aa7948e934db7"},{"fileName":"oneuptime-infrastructure-agent_freebsd_amd64.tar.gz","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"9b18eb0d76fc102143a55ebd8333afe710f95b6135740459e984d60324cc49d5"},{"fileName":"oneuptime-infrastructure-agent_freebsd_arm64.tar.gz","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"6a93b624de6707110633e21c8017b0fc0a65b6390585fe1abf450fcfafe349e8"},{"fileName":"oneuptime-infrastructure-agent_linux_amd64.tar.gz","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"fde7dbc1012466140525ec41b3c51d796ec4ac20f0fbaa470a9c84f6efe9bf0c"},{"fileName":"oneuptime-infrastructure-agent_linux_arm64.tar.gz","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"7767ecd03632d19d7656735291d93d45be6c77dcef0e1763adb971a90bf9b7b1"},{"fileName":"oneuptime-infrastructure-agent_openbsd_amd64.tar.gz","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"4f7735aba8516a1f0a6dbd21b04a66a36b8ab79b483505453f2223e40f3d0033"},{"fileName":"oneuptime-infrastructure-agent_openbsd_arm64.tar.gz","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"e3125db9ff091d6b884879ec8fb98dfdb9630910ed9d7860208ba18fb84f91fc"},{"fileName":"oneuptime-infrastructure-agent_windows_amd64.zip","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"9ccb506e6edbf5afbc26d83700d761c4f698735af7e8947b3fc03c6493df2ed4"},{"fileName":"oneuptime-infrastructure-agent_windows_arm64.zip","algo":"Sha256","source":"oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt","hash":"51f2f77b9126c29b74299bb070c28943c760a852cbf261da3946ccf5be4e99de"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "oneuptime-infrastructure-agent_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "017f6c00d1c322d91cee555744b8929a7e7c33518dabba853113216d6eef4bf1"
+    },
+    {
+      "fileName": "oneuptime-infrastructure-agent_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "f2f8eaebdd6991f19b13b815c103b867308e31711979d2ddc33aa7948e934db7"
+    },
+    {
+      "fileName": "oneuptime-infrastructure-agent_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "9b18eb0d76fc102143a55ebd8333afe710f95b6135740459e984d60324cc49d5"
+    },
+    {
+      "fileName": "oneuptime-infrastructure-agent_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "6a93b624de6707110633e21c8017b0fc0a65b6390585fe1abf450fcfafe349e8"
+    },
+    {
+      "fileName": "oneuptime-infrastructure-agent_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "fde7dbc1012466140525ec41b3c51d796ec4ac20f0fbaa470a9c84f6efe9bf0c"
+    },
+    {
+      "fileName": "oneuptime-infrastructure-agent_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "7767ecd03632d19d7656735291d93d45be6c77dcef0e1763adb971a90bf9b7b1"
+    },
+    {
+      "fileName": "oneuptime-infrastructure-agent_openbsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "4f7735aba8516a1f0a6dbd21b04a66a36b8ab79b483505453f2223e40f3d0033"
+    },
+    {
+      "fileName": "oneuptime-infrastructure-agent_openbsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "e3125db9ff091d6b884879ec8fb98dfdb9630910ed9d7860208ba18fb84f91fc"
+    },
+    {
+      "fileName": "oneuptime-infrastructure-agent_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "9ccb506e6edbf5afbc26d83700d761c4f698735af7e8947b3fc03c6493df2ed4"
+    },
+    {
+      "fileName": "oneuptime-infrastructure-agent_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "oneuptime_7.0.3211-SNAPSHOT-771b0e4_checksums.txt",
+      "hash": "51f2f77b9126c29b74299bb070c28943c760a852cbf261da3946ccf5be4e99de"
+    }
+  ]
+}

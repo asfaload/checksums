@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"libwebrtc-linux-arm64.tar.gz","algo":"Sha256","source":"libwebrtc-linux-arm64.tar.gz.sha256sum","hash":"dc39f5ea44546a18460bb514cf0e13aa31803294f9de5e41189ac9831ece7ff7"},{"fileName":"libwebrtc-android.tar.gz","algo":"Sha256","source":"libwebrtc-android.tar.gz.sha256sum","hash":"102be318782dd7c2dab98e20a215918d9736e8c0ca692d81f91edf0e5817e2fb"},{"fileName":"libwebrtc-linux-x64.tar.gz","algo":"Sha256","source":"libwebrtc-linux-x64.tar.gz.sha256sum","hash":"5919d720e2191f88347f2e32680a5730999cb12c55eea75f53f1605a09e47a0f"},{"fileName":"libwebrtc-macos-arm64.tar.gz","algo":"Sha256","source":"libwebrtc-macos-arm64.tar.gz.sha256sum","hash":"dd8c23d923deb986eee7cab6739a8cd1499decdaf9dffdd95563588a7a1ea083"},{"fileName":"libwebrtc-ios.zip","algo":"Sha256","source":"libwebrtc-ios.zip.sha256sum","hash":"949e5d75794fe3a83b05f45f39a0bcda042b6cb2289156a45f1635b1c7ec9c2d"},{"fileName":"libwebrtc-windows-x64.tar.gz","algo":"Sha256","source":"libwebrtc-windows-x64.tar.gz.sha256sum","hash":"26c6741edea8148b77cb5dc3294cf44460ae8f8f5db0a34867492bc55c0146e5"},{"fileName":"libwebrtc-macos-x64.tar.gz","algo":"Sha256","source":"libwebrtc-macos-x64.tar.gz.sha256sum","hash":"85b5c9218a40e41ec62931bc3500d0de6b501822cc42bf88cd80811e7f363fe6"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "libwebrtc-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "libwebrtc-linux-arm64.tar.gz.sha256sum",
+      "hash": "dc39f5ea44546a18460bb514cf0e13aa31803294f9de5e41189ac9831ece7ff7"
+    },
+    {
+      "fileName": "libwebrtc-android.tar.gz",
+      "algo": "Sha256",
+      "source": "libwebrtc-android.tar.gz.sha256sum",
+      "hash": "102be318782dd7c2dab98e20a215918d9736e8c0ca692d81f91edf0e5817e2fb"
+    },
+    {
+      "fileName": "libwebrtc-linux-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "libwebrtc-linux-x64.tar.gz.sha256sum",
+      "hash": "5919d720e2191f88347f2e32680a5730999cb12c55eea75f53f1605a09e47a0f"
+    },
+    {
+      "fileName": "libwebrtc-macos-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "libwebrtc-macos-arm64.tar.gz.sha256sum",
+      "hash": "dd8c23d923deb986eee7cab6739a8cd1499decdaf9dffdd95563588a7a1ea083"
+    },
+    {
+      "fileName": "libwebrtc-ios.zip",
+      "algo": "Sha256",
+      "source": "libwebrtc-ios.zip.sha256sum",
+      "hash": "949e5d75794fe3a83b05f45f39a0bcda042b6cb2289156a45f1635b1c7ec9c2d"
+    },
+    {
+      "fileName": "libwebrtc-windows-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "libwebrtc-windows-x64.tar.gz.sha256sum",
+      "hash": "26c6741edea8148b77cb5dc3294cf44460ae8f8f5db0a34867492bc55c0146e5"
+    },
+    {
+      "fileName": "libwebrtc-macos-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "libwebrtc-macos-x64.tar.gz.sha256sum",
+      "hash": "85b5c9218a40e41ec62931bc3500d0de6b501822cc42bf88cd80811e7f363fe6"
+    }
+  ]
+}

@@ -1,1 +1,133 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"hugo_extended_0.136.5_linux-amd64.deb","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"23c2dec1fc5daea7ec40d376ce2827905d92d1c3fe50471883e786620b5481d7"},{"fileName":"hugo_0.136.5_dragonfly-amd64.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"27ddeca70cfc3f263720ccac58aeed9573321303f8da73cca058393a0d548dc8"},{"fileName":"hugo_0.136.5_netbsd-amd64.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"2bd8720dc7fdb4da5c13834649e9804b9aa231517b912b25ca2f6c550e766b5b"},{"fileName":"hugo_0.136.5_Linux-64bit.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"2f1b2157fcc9bc4de8733f5cff0b99b7fe13c088fd1001af7e6952eace93553b"},{"fileName":"hugo_0.136.5_linux-amd64.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"2f1b2157fcc9bc4de8733f5cff0b99b7fe13c088fd1001af7e6952eace93553b"},{"fileName":"hugo_0.136.5_linux-amd64.deb","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"2fddc9966d1d5b8390ba8973a4f8592207c172758da57de89e9bc75ef4ba308d"},{"fileName":"hugo_extended_0.136.5_linux-arm64.deb","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"3eecb90a1a2f8ee05ddf35c37b7456abf79014ae033754c69d19e5966a05fb3f"},{"fileName":"hugo_0.136.5_linux-arm64.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"432554befdbca7d2519c4f823c6a6591a3329195a4d20475ce38e66c521069ff"},{"fileName":"hugo_0.136.5_solaris-amd64.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"44ff654ba185e407e4c4d15021c9d520b35f3e42e3d4735f47703dd0dfd88b4d"},{"fileName":"hugo_0.136.5_windows-amd64.zip","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"4ebae236d1e55255748139e4b43c9b0ac40ca8ac8cb11186acc3f85e9c5cf7b3"},{"fileName":"hugo_0.136.5_linux-arm.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"57eacfa48c79d53f4cbf035cfd0e39dcefb9872c2d79a9defcbed57087ed6e67"},{"fileName":"hugo_0.136.5_freebsd-amd64.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"64ad6d6a3c88af3715f036e2cfbe1c765ef7fead9a418d49c5c1294ee216f1e8"},{"fileName":"hugo_0.136.5_linux-arm64.deb","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"64f5b09914441dbb89d84e84caca56a318c020bb166d3a946a6c0f3a84e3fec2"},{"fileName":"hugo_extended_0.136.5_linux-arm64.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"8ebc7f58b7a188b608aa851788d1e490a9ebe4857dfb9238ab70ea93be08d9c4"},{"fileName":"hugo_0.136.5_darwin-universal.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"91c8ceb4d5812cac059742a9aacffff1651a5d540f53786370f867d225af3229"},{"fileName":"hugo_0.136.5_windows-arm64.zip","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"b13005f0158ec2213281b4e7f3fdb9922ba80a07240fe77bbf30d97e4a436981"},{"fileName":"hugo_extended_0.136.5_Linux-64bit.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"b7be7c1abb0b077ce079f634c479791dfadaaf3236fa47948b0290a6b0bf70ff"},{"fileName":"hugo_extended_0.136.5_linux-amd64.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"b7be7c1abb0b077ce079f634c479791dfadaaf3236fa47948b0290a6b0bf70ff"},{"fileName":"hugo_extended_0.136.5_darwin-universal.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"ca3f419f177baf5eac99b079e378e0c492755242c1b723de38d50169266fc557"},{"fileName":"hugo_extended_0.136.5_windows-amd64.zip","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"e87fcbf11ef477e81953b5e8278a780c49e7f7ed937e345babac4ed33707f33b"},{"fileName":"hugo_0.136.5_openbsd-amd64.tar.gz","algo":"Sha256","source":"hugo_0.136.5_checksums.txt","hash":"fba75d0c019e1a9ddca75948bb513a14c7b68403c596c2b5da8b9470ff93e9cf"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "hugo_extended_0.136.5_linux-amd64.deb",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "23c2dec1fc5daea7ec40d376ce2827905d92d1c3fe50471883e786620b5481d7"
+    },
+    {
+      "fileName": "hugo_0.136.5_dragonfly-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "27ddeca70cfc3f263720ccac58aeed9573321303f8da73cca058393a0d548dc8"
+    },
+    {
+      "fileName": "hugo_0.136.5_netbsd-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "2bd8720dc7fdb4da5c13834649e9804b9aa231517b912b25ca2f6c550e766b5b"
+    },
+    {
+      "fileName": "hugo_0.136.5_Linux-64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "2f1b2157fcc9bc4de8733f5cff0b99b7fe13c088fd1001af7e6952eace93553b"
+    },
+    {
+      "fileName": "hugo_0.136.5_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "2f1b2157fcc9bc4de8733f5cff0b99b7fe13c088fd1001af7e6952eace93553b"
+    },
+    {
+      "fileName": "hugo_0.136.5_linux-amd64.deb",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "2fddc9966d1d5b8390ba8973a4f8592207c172758da57de89e9bc75ef4ba308d"
+    },
+    {
+      "fileName": "hugo_extended_0.136.5_linux-arm64.deb",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "3eecb90a1a2f8ee05ddf35c37b7456abf79014ae033754c69d19e5966a05fb3f"
+    },
+    {
+      "fileName": "hugo_0.136.5_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "432554befdbca7d2519c4f823c6a6591a3329195a4d20475ce38e66c521069ff"
+    },
+    {
+      "fileName": "hugo_0.136.5_solaris-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "44ff654ba185e407e4c4d15021c9d520b35f3e42e3d4735f47703dd0dfd88b4d"
+    },
+    {
+      "fileName": "hugo_0.136.5_windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "4ebae236d1e55255748139e4b43c9b0ac40ca8ac8cb11186acc3f85e9c5cf7b3"
+    },
+    {
+      "fileName": "hugo_0.136.5_linux-arm.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "57eacfa48c79d53f4cbf035cfd0e39dcefb9872c2d79a9defcbed57087ed6e67"
+    },
+    {
+      "fileName": "hugo_0.136.5_freebsd-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "64ad6d6a3c88af3715f036e2cfbe1c765ef7fead9a418d49c5c1294ee216f1e8"
+    },
+    {
+      "fileName": "hugo_0.136.5_linux-arm64.deb",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "64f5b09914441dbb89d84e84caca56a318c020bb166d3a946a6c0f3a84e3fec2"
+    },
+    {
+      "fileName": "hugo_extended_0.136.5_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "8ebc7f58b7a188b608aa851788d1e490a9ebe4857dfb9238ab70ea93be08d9c4"
+    },
+    {
+      "fileName": "hugo_0.136.5_darwin-universal.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "91c8ceb4d5812cac059742a9aacffff1651a5d540f53786370f867d225af3229"
+    },
+    {
+      "fileName": "hugo_0.136.5_windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "b13005f0158ec2213281b4e7f3fdb9922ba80a07240fe77bbf30d97e4a436981"
+    },
+    {
+      "fileName": "hugo_extended_0.136.5_Linux-64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "b7be7c1abb0b077ce079f634c479791dfadaaf3236fa47948b0290a6b0bf70ff"
+    },
+    {
+      "fileName": "hugo_extended_0.136.5_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "b7be7c1abb0b077ce079f634c479791dfadaaf3236fa47948b0290a6b0bf70ff"
+    },
+    {
+      "fileName": "hugo_extended_0.136.5_darwin-universal.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "ca3f419f177baf5eac99b079e378e0c492755242c1b723de38d50169266fc557"
+    },
+    {
+      "fileName": "hugo_extended_0.136.5_windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "e87fcbf11ef477e81953b5e8278a780c49e7f7ed937e345babac4ed33707f33b"
+    },
+    {
+      "fileName": "hugo_0.136.5_openbsd-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "hugo_0.136.5_checksums.txt",
+      "hash": "fba75d0c019e1a9ddca75948bb513a14c7b68403c596c2b5da8b9470ff93e9cf"
+    }
+  ]
+}

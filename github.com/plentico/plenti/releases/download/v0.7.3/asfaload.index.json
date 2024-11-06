@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"plenti_0.7.3_linux_64-bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2285deeed6d4fabe7235c2d702e30d469aaa3aefa06529844117e4970495571a"},{"fileName":"plenti_0.7.3_mac_64-bit.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"050f15b67275889ab4ff4e7b504b0ee91cc6027e70ef4330d64031ffae5ad8c3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "plenti_0.7.3_linux_64-bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2285deeed6d4fabe7235c2d702e30d469aaa3aefa06529844117e4970495571a"
+    },
+    {
+      "fileName": "plenti_0.7.3_mac_64-bit.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "050f15b67275889ab4ff4e7b504b0ee91cc6027e70ef4330d64031ffae5ad8c3"
+    }
+  ]
+}

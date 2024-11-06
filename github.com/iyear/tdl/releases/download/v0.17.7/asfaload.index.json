@@ -1,1 +1,103 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tdl_Linux_64bit.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"00c1f5ff9ee060d0abe0821512ec1f0bf663234ece1fe1aa86da5735a2af0854"},{"fileName":"tdl_Linux_riscv64.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"0a3895d09f04a78740416c441ca488085fe3faf88ca89a8bc3bb920a81414158"},{"fileName":"tdl_Linux_32bit.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"23abb0e54b03d474827dd67920d0bf4e321c863ae171c42b3e2d794b42c5fcca"},{"fileName":"tdl_Linux_armv5.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"385cac9ac4f0446ab6ea1b3a19ce4c8625bea915cb3ed03a8ea2f8bf8c500de4"},{"fileName":"tdl_MacOS_arm64.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"42e674bba11fc4906db78718c7a64dd7e0c35a3150ea49f0e845eb9c9159c828"},{"fileName":"tdl_Linux_arm64.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"55357cf5cd732634b11704a05f338a16d213af1049143a79729cb432aaff58a8"},{"fileName":"tdl_Windows_armv5.zip","algo":"Sha256","source":"tdl_checksums.txt","hash":"742c552fd18bb359d15f477a38b4fb98f9e53d551336cd4db70117a090dc6cec"},{"fileName":"tdl_Windows_arm64.zip","algo":"Sha256","source":"tdl_checksums.txt","hash":"8d1bd746191b4ac454dd3deae5e9731151a75aa719a068f74e699fe255c7b428"},{"fileName":"tdl_Windows_armv6.zip","algo":"Sha256","source":"tdl_checksums.txt","hash":"93468570094dbc7c76d8b1449fc71562ef6a3675574f2e36de8ec0650f4d3b3d"},{"fileName":"tdl_Linux_armv7.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"ae8c20bea216e1825302e83298f52a8ce538fca525a1f2dfea262f3b8e9a586c"},{"fileName":"tdl_MacOS_64bit.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"bde864f101f00210ddd995da186944093a1b3754497dea43043a956ce5f74da9"},{"fileName":"tdl_Windows_armv7.zip","algo":"Sha256","source":"tdl_checksums.txt","hash":"c8a3d49cc91e99fcbace2c67c62dcd1c2ee9e30fd42215d7e35b85b5452f5d72"},{"fileName":"tdl_Linux_loong64.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"ccfeb6bcb2406e28846961d0da46129bf8aae1509b4809e079fe5f044e0ace4e"},{"fileName":"tdl_Windows_32bit.zip","algo":"Sha256","source":"tdl_checksums.txt","hash":"dcc8d0daf11f43ca63ee30e5c0be2a5aec240f6522170022a6ebc8bbadb6f1c8"},{"fileName":"tdl_Linux_armv6.tar.gz","algo":"Sha256","source":"tdl_checksums.txt","hash":"f43c3ce0fdb0408e149daf57665cbc62ee6ce782179e868d42ef69bc55baf3c4"},{"fileName":"tdl_Windows_64bit.zip","algo":"Sha256","source":"tdl_checksums.txt","hash":"fa54df1f57d63380b3e07ad6609ab24c6f34c21b11ae7ad257d13d67b2837145"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tdl_Linux_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "00c1f5ff9ee060d0abe0821512ec1f0bf663234ece1fe1aa86da5735a2af0854"
+    },
+    {
+      "fileName": "tdl_Linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "0a3895d09f04a78740416c441ca488085fe3faf88ca89a8bc3bb920a81414158"
+    },
+    {
+      "fileName": "tdl_Linux_32bit.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "23abb0e54b03d474827dd67920d0bf4e321c863ae171c42b3e2d794b42c5fcca"
+    },
+    {
+      "fileName": "tdl_Linux_armv5.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "385cac9ac4f0446ab6ea1b3a19ce4c8625bea915cb3ed03a8ea2f8bf8c500de4"
+    },
+    {
+      "fileName": "tdl_MacOS_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "42e674bba11fc4906db78718c7a64dd7e0c35a3150ea49f0e845eb9c9159c828"
+    },
+    {
+      "fileName": "tdl_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "55357cf5cd732634b11704a05f338a16d213af1049143a79729cb432aaff58a8"
+    },
+    {
+      "fileName": "tdl_Windows_armv5.zip",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "742c552fd18bb359d15f477a38b4fb98f9e53d551336cd4db70117a090dc6cec"
+    },
+    {
+      "fileName": "tdl_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "8d1bd746191b4ac454dd3deae5e9731151a75aa719a068f74e699fe255c7b428"
+    },
+    {
+      "fileName": "tdl_Windows_armv6.zip",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "93468570094dbc7c76d8b1449fc71562ef6a3675574f2e36de8ec0650f4d3b3d"
+    },
+    {
+      "fileName": "tdl_Linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "ae8c20bea216e1825302e83298f52a8ce538fca525a1f2dfea262f3b8e9a586c"
+    },
+    {
+      "fileName": "tdl_MacOS_64bit.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "bde864f101f00210ddd995da186944093a1b3754497dea43043a956ce5f74da9"
+    },
+    {
+      "fileName": "tdl_Windows_armv7.zip",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "c8a3d49cc91e99fcbace2c67c62dcd1c2ee9e30fd42215d7e35b85b5452f5d72"
+    },
+    {
+      "fileName": "tdl_Linux_loong64.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "ccfeb6bcb2406e28846961d0da46129bf8aae1509b4809e079fe5f044e0ace4e"
+    },
+    {
+      "fileName": "tdl_Windows_32bit.zip",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "dcc8d0daf11f43ca63ee30e5c0be2a5aec240f6522170022a6ebc8bbadb6f1c8"
+    },
+    {
+      "fileName": "tdl_Linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "f43c3ce0fdb0408e149daf57665cbc62ee6ce782179e868d42ef69bc55baf3c4"
+    },
+    {
+      "fileName": "tdl_Windows_64bit.zip",
+      "algo": "Sha256",
+      "source": "tdl_checksums.txt",
+      "hash": "fa54df1f57d63380b3e07ad6609ab24c6f34c21b11ae7ad257d13d67b2837145"
+    }
+  ]
+}

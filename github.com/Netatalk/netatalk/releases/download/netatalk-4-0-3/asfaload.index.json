@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"netatalk-4.0.3.tar.xz","algo":"Sha256","source":"netatalk-4.0.3.tar.xz.sha256sum","hash":"beaf77962fe15deffb5a09853b2f1a07c308f8bf27369398d62b46d9be7ce83f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "netatalk-4.0.3.tar.xz",
+      "algo": "Sha256",
+      "source": "netatalk-4.0.3.tar.xz.sha256sum",
+      "hash": "beaf77962fe15deffb5a09853b2f1a07c308f8bf27369398d62b46d9be7ce83f"
+    }
+  ]
+}

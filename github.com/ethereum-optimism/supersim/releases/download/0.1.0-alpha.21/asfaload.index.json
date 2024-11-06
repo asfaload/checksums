@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"supersim_Darwin_arm64.tar.gz","algo":"Sha256","source":"supersim_0.1.0-alpha.21_checksums.txt","hash":"c0d13ff63fbfa32fb445e4a9e08a5e8582b5bdb07049b34a32b74f5773ab822a"},{"fileName":"supersim_Darwin_x86_64.tar.gz","algo":"Sha256","source":"supersim_0.1.0-alpha.21_checksums.txt","hash":"c19f9926ca566c384b67d92678b4a7c3ddd47b434edc2096c00084fc93ac117e"},{"fileName":"supersim_Linux_arm64.tar.gz","algo":"Sha256","source":"supersim_0.1.0-alpha.21_checksums.txt","hash":"869f2aec4acca0d6f38c9a088fd05ea5f0e254fdaeb7236eb1dc608edc26c7c5"},{"fileName":"supersim_Linux_x86_64.tar.gz","algo":"Sha256","source":"supersim_0.1.0-alpha.21_checksums.txt","hash":"7d1a6968e15dcb34fbacfcefb99919c8d674020abc8bf3b54b15ef286b496e09"},{"fileName":"supersim_Windows_arm64.zip","algo":"Sha256","source":"supersim_0.1.0-alpha.21_checksums.txt","hash":"4f13e0e7aa57523c7d4769f1a1b86937a01c3e9b33715c22d2fb3c1262b0333d"},{"fileName":"supersim_Windows_x86_64.zip","algo":"Sha256","source":"supersim_0.1.0-alpha.21_checksums.txt","hash":"dc8bb9eac64c0347a1868d9dd71040693f604dfe3c985d12c558e3d98a93433f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "supersim_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "supersim_0.1.0-alpha.21_checksums.txt",
+      "hash": "c0d13ff63fbfa32fb445e4a9e08a5e8582b5bdb07049b34a32b74f5773ab822a"
+    },
+    {
+      "fileName": "supersim_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "supersim_0.1.0-alpha.21_checksums.txt",
+      "hash": "c19f9926ca566c384b67d92678b4a7c3ddd47b434edc2096c00084fc93ac117e"
+    },
+    {
+      "fileName": "supersim_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "supersim_0.1.0-alpha.21_checksums.txt",
+      "hash": "869f2aec4acca0d6f38c9a088fd05ea5f0e254fdaeb7236eb1dc608edc26c7c5"
+    },
+    {
+      "fileName": "supersim_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "supersim_0.1.0-alpha.21_checksums.txt",
+      "hash": "7d1a6968e15dcb34fbacfcefb99919c8d674020abc8bf3b54b15ef286b496e09"
+    },
+    {
+      "fileName": "supersim_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "supersim_0.1.0-alpha.21_checksums.txt",
+      "hash": "4f13e0e7aa57523c7d4769f1a1b86937a01c3e9b33715c22d2fb3c1262b0333d"
+    },
+    {
+      "fileName": "supersim_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "supersim_0.1.0-alpha.21_checksums.txt",
+      "hash": "dc8bb9eac64c0347a1868d9dd71040693f604dfe3c985d12c558e3d98a93433f"
+    }
+  ]
+}

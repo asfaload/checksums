@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"nym-vpnc_1.0.0~alpha.1-1_amd64.deb","algo":"Sha256","source":"nym-vpnc_1.0.0.alpha.1-1_amd64.deb.sha256sum","hash":"84135e21b92ee1578253c674cde0a8fc9188b038f8e93a6a66567cb1599939c5"},{"fileName":"nym-vpn-core-v1.0.0-alpha.1_android_aarch64.tar.gz","algo":"Sha256","source":"nym-vpn-core-v1.0.0-alpha.1_android_aarch64.tar.gz.sha256sum","hash":"ce3a7a5f13e1c45aa49a4369a75c319d1fcd531d1d19dd8af4ae6bd270f51eba"},{"fileName":"nym-vpn-core-v1.0.0-alpha.1_macos_universal.tar.gz","algo":"Sha256","source":"nym-vpn-core-v1.0.1-alpha.1_macos_universal.tar.gz.sha256sum","hash":"402cdb7823f02605dd43ec154479366c4ef67faf8a835e23eb57faad8c087b03"},{"fileName":"nym-vpn-core-v1.0.0-alpha.1_windows_x86_64.zip","algo":"Sha256","source":"nym-vpn-core-v1.0.0-alpha.1_windows_x86_64.zip.sha256sum","hash":"1c4759f949a2b0ed20e3f97a34fa2b958caee9730b664e078d3b923c589f35a9"},{"fileName":"nym-vpn-core-v1.0.0-alpha.1_ios_universal.zip","algo":"Sha256","source":"nym-vpn-core-v1.0.0-alpha.1_ios_universal.zip.sha256sum","hash":"fc6787c6336a15d4766d442d897d3a014b30f6869206d7d2ab70be50bf52e001"},{"fileName":"nym-vpn-core-v1.0.0-alpha.1_linux_x86_64.tar.gz","algo":"Sha256","source":"nym-vpn-core-v1.0.0-alpha.1_linux_x86_64.tar.gz.sha256sum","hash":"56880738c33ed4845037e955bd166029ef7b641ae2715252a41e13ad56be8136"},{"fileName":"nym-vpnd_1.0.0~alpha.1-1_amd64.deb","algo":"Sha256","source":"nym-vpnd_1.0.0.alpha.1-1_amd64.deb.sha256sum","hash":"00174c1f65b8274d9d4cfd5b52819aba3cb3610836e733a3f53dd86c2b6da4a7"},{"fileName":"nym-vpn-cli_1.0.0~alpha.1-1_amd64.deb","algo":"Sha256","source":"nym-vpn-cli_1.0.0.alpha.1-1_amd64.deb.sha256sum","hash":"bf83c750d1397059147f73fe2fa38db6ca7ca15376e9875233e79a005d454790"},{"fileName":"nym-vpn-core-v1.0.0-alpha.1_macos_universal.tar.gz","algo":"Sha256","source":"nym-vpn-core-v1.0.0-alpha.1_macos_universal.tar.gz.sha256sum","hash":"402cdb7823f02605dd43ec154479366c4ef67faf8a835e23eb57faad8c087b03"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nym-vpnc_1.0.0~alpha.1-1_amd64.deb",
+      "algo": "Sha256",
+      "source": "nym-vpnc_1.0.0.alpha.1-1_amd64.deb.sha256sum",
+      "hash": "84135e21b92ee1578253c674cde0a8fc9188b038f8e93a6a66567cb1599939c5"
+    },
+    {
+      "fileName": "nym-vpn-core-v1.0.0-alpha.1_android_aarch64.tar.gz",
+      "algo": "Sha256",
+      "source": "nym-vpn-core-v1.0.0-alpha.1_android_aarch64.tar.gz.sha256sum",
+      "hash": "ce3a7a5f13e1c45aa49a4369a75c319d1fcd531d1d19dd8af4ae6bd270f51eba"
+    },
+    {
+      "fileName": "nym-vpn-core-v1.0.0-alpha.1_macos_universal.tar.gz",
+      "algo": "Sha256",
+      "source": "nym-vpn-core-v1.0.1-alpha.1_macos_universal.tar.gz.sha256sum",
+      "hash": "402cdb7823f02605dd43ec154479366c4ef67faf8a835e23eb57faad8c087b03"
+    },
+    {
+      "fileName": "nym-vpn-core-v1.0.0-alpha.1_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "nym-vpn-core-v1.0.0-alpha.1_windows_x86_64.zip.sha256sum",
+      "hash": "1c4759f949a2b0ed20e3f97a34fa2b958caee9730b664e078d3b923c589f35a9"
+    },
+    {
+      "fileName": "nym-vpn-core-v1.0.0-alpha.1_ios_universal.zip",
+      "algo": "Sha256",
+      "source": "nym-vpn-core-v1.0.0-alpha.1_ios_universal.zip.sha256sum",
+      "hash": "fc6787c6336a15d4766d442d897d3a014b30f6869206d7d2ab70be50bf52e001"
+    },
+    {
+      "fileName": "nym-vpn-core-v1.0.0-alpha.1_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "nym-vpn-core-v1.0.0-alpha.1_linux_x86_64.tar.gz.sha256sum",
+      "hash": "56880738c33ed4845037e955bd166029ef7b641ae2715252a41e13ad56be8136"
+    },
+    {
+      "fileName": "nym-vpnd_1.0.0~alpha.1-1_amd64.deb",
+      "algo": "Sha256",
+      "source": "nym-vpnd_1.0.0.alpha.1-1_amd64.deb.sha256sum",
+      "hash": "00174c1f65b8274d9d4cfd5b52819aba3cb3610836e733a3f53dd86c2b6da4a7"
+    },
+    {
+      "fileName": "nym-vpn-cli_1.0.0~alpha.1-1_amd64.deb",
+      "algo": "Sha256",
+      "source": "nym-vpn-cli_1.0.0.alpha.1-1_amd64.deb.sha256sum",
+      "hash": "bf83c750d1397059147f73fe2fa38db6ca7ca15376e9875233e79a005d454790"
+    },
+    {
+      "fileName": "nym-vpn-core-v1.0.0-alpha.1_macos_universal.tar.gz",
+      "algo": "Sha256",
+      "source": "nym-vpn-core-v1.0.0-alpha.1_macos_universal.tar.gz.sha256sum",
+      "hash": "402cdb7823f02605dd43ec154479366c4ef67faf8a835e23eb57faad8c087b03"
+    }
+  ]
+}

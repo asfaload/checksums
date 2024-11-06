@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"katana_1.1.1_macOS_amd64.zip","algo":"Sha256","source":"katana-mac-checksums.txt","hash":"3f032c20e9a5f55d59275da1debdaf8adb8ea1335a0e6d6bc3df7f6b906ba383"},{"fileName":"katana_1.1.1_macOS_arm64.zip","algo":"Sha256","source":"katana-mac-checksums.txt","hash":"4fa610e3a130e22dd3a278321e6245c86d034a0bd5226a1ecfb8d4e9c5c34183"},{"fileName":"katana_1.1.1_windows_386.zip","algo":"Sha256","source":"katana-windows-checksums.txt","hash":"c388d6b1c8db5e4f5a44ff615dc86813c05db5d121fd4c88b38542f03165cb4b"},{"fileName":"katana_1.1.1_windows_amd64.zip","algo":"Sha256","source":"katana-windows-checksums.txt","hash":"f82e54244e5ff2b661f4751b6667a919a295178c04edc0e4ec27428e7a1c9ed6"},{"fileName":"katana_1.1.1_windows_arm64.zip","algo":"Sha256","source":"katana-windows-checksums.txt","hash":"d923a26a4bc7becb5a8a23c77f1bed2b06c11e7dc39cc1a51ef28ef90fe7dc31"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "katana_1.1.1_macOS_amd64.zip",
+      "algo": "Sha256",
+      "source": "katana-mac-checksums.txt",
+      "hash": "3f032c20e9a5f55d59275da1debdaf8adb8ea1335a0e6d6bc3df7f6b906ba383"
+    },
+    {
+      "fileName": "katana_1.1.1_macOS_arm64.zip",
+      "algo": "Sha256",
+      "source": "katana-mac-checksums.txt",
+      "hash": "4fa610e3a130e22dd3a278321e6245c86d034a0bd5226a1ecfb8d4e9c5c34183"
+    },
+    {
+      "fileName": "katana_1.1.1_windows_386.zip",
+      "algo": "Sha256",
+      "source": "katana-windows-checksums.txt",
+      "hash": "c388d6b1c8db5e4f5a44ff615dc86813c05db5d121fd4c88b38542f03165cb4b"
+    },
+    {
+      "fileName": "katana_1.1.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "katana-windows-checksums.txt",
+      "hash": "f82e54244e5ff2b661f4751b6667a919a295178c04edc0e4ec27428e7a1c9ed6"
+    },
+    {
+      "fileName": "katana_1.1.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "katana-windows-checksums.txt",
+      "hash": "d923a26a4bc7becb5a8a23c77f1bed2b06c11e7dc39cc1a51ef28ef90fe7dc31"
+    }
+  ]
+}

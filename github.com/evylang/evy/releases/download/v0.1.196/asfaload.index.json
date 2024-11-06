@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"evy_0.1.196_darwin_amd64.tar.gz","algo":"Sha256","source":"evy_0.1.196_checksums.txt","hash":"1cfb9c3ce5131e410c08274030a8d46f08732320ee5b900f0a1fbea5ed0e645f"},{"fileName":"evy_0.1.196_darwin_arm64.tar.gz","algo":"Sha256","source":"evy_0.1.196_checksums.txt","hash":"b05228ea5737d7f99ba83b1851e46de70364aaa0c5443e2c4845afdbe1c057a9"},{"fileName":"evy_0.1.196_linux_386.tar.gz","algo":"Sha256","source":"evy_0.1.196_checksums.txt","hash":"99fe794ca705a94f1d29f097f903fc310758d149963b59e19d64f6e2d7ffded3"},{"fileName":"evy_0.1.196_linux_amd64.tar.gz","algo":"Sha256","source":"evy_0.1.196_checksums.txt","hash":"efdcbd3619b94c921e550eee2b695ae6f8442721c9799526adc1329e46b407cd"},{"fileName":"evy_0.1.196_linux_arm64.tar.gz","algo":"Sha256","source":"evy_0.1.196_checksums.txt","hash":"fbc122f247e4f1445472858de543a680493a32979e2c44ce26475c8cda3026e5"},{"fileName":"evy_0.1.196_windows_386.tar.gz","algo":"Sha256","source":"evy_0.1.196_checksums.txt","hash":"027e4c8534d232ceaa50b62ef58cb6c1ff373cc45b1172094ad7aadc1272e04e"},{"fileName":"evy_0.1.196_windows_amd64.tar.gz","algo":"Sha256","source":"evy_0.1.196_checksums.txt","hash":"47dd5ad704f692683fcc2d1ceb9c5d72c8c6f75b19b3ec7c43c4100ffe3cd4d2"},{"fileName":"evy_0.1.196_windows_arm64.tar.gz","algo":"Sha256","source":"evy_0.1.196_checksums.txt","hash":"1b7d3e6c96dfb8268216b0177433272bbd7d4951ae3840212980d8d0e92b7453"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "evy_0.1.196_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "evy_0.1.196_checksums.txt",
+      "hash": "1cfb9c3ce5131e410c08274030a8d46f08732320ee5b900f0a1fbea5ed0e645f"
+    },
+    {
+      "fileName": "evy_0.1.196_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "evy_0.1.196_checksums.txt",
+      "hash": "b05228ea5737d7f99ba83b1851e46de70364aaa0c5443e2c4845afdbe1c057a9"
+    },
+    {
+      "fileName": "evy_0.1.196_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "evy_0.1.196_checksums.txt",
+      "hash": "99fe794ca705a94f1d29f097f903fc310758d149963b59e19d64f6e2d7ffded3"
+    },
+    {
+      "fileName": "evy_0.1.196_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "evy_0.1.196_checksums.txt",
+      "hash": "efdcbd3619b94c921e550eee2b695ae6f8442721c9799526adc1329e46b407cd"
+    },
+    {
+      "fileName": "evy_0.1.196_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "evy_0.1.196_checksums.txt",
+      "hash": "fbc122f247e4f1445472858de543a680493a32979e2c44ce26475c8cda3026e5"
+    },
+    {
+      "fileName": "evy_0.1.196_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "evy_0.1.196_checksums.txt",
+      "hash": "027e4c8534d232ceaa50b62ef58cb6c1ff373cc45b1172094ad7aadc1272e04e"
+    },
+    {
+      "fileName": "evy_0.1.196_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "evy_0.1.196_checksums.txt",
+      "hash": "47dd5ad704f692683fcc2d1ceb9c5d72c8c6f75b19b3ec7c43c4100ffe3cd4d2"
+    },
+    {
+      "fileName": "evy_0.1.196_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "evy_0.1.196_checksums.txt",
+      "hash": "1b7d3e6c96dfb8268216b0177433272bbd7d4951ae3840212980d8d0e92b7453"
+    }
+  ]
+}

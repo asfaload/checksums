@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gofee_Darwin_arm64.tar.gz","algo":"Sha256","source":"gofee_0.1.0_checksums.txt","hash":"a562ea9df8a0e504097618dd2ebbe49dfe7b411f4056e94b4a64a0ff12c34016"},{"fileName":"gofee_Darwin_x86_64.tar.gz","algo":"Sha256","source":"gofee_0.1.0_checksums.txt","hash":"c2416b3d6d673c736d53acfb56ed1f13746d6322235b4fb72f0000a69c32cc5e"},{"fileName":"gofee_Linux_arm64.tar.gz","algo":"Sha256","source":"gofee_0.1.0_checksums.txt","hash":"a7dac0ff47ed5c02c7cbbed25eeca8d888e8b012e9e06d539ffb0b55b7b99cee"},{"fileName":"gofee_Linux_i386.tar.gz","algo":"Sha256","source":"gofee_0.1.0_checksums.txt","hash":"b214984da0e09bddd5a79dd6a79af14c63d58a235897ea75bd01140bd649f128"},{"fileName":"gofee_Linux_x86_64.tar.gz","algo":"Sha256","source":"gofee_0.1.0_checksums.txt","hash":"6b3aa5e990c20202c728945ed2d4a09f791bfa1a81ad496617f327aa8535ba89"},{"fileName":"gofee_Windows_arm64.zip","algo":"Sha256","source":"gofee_0.1.0_checksums.txt","hash":"4fd60df4387e3d9fbfcc360a5a758d8cde460a96323ceba8e5b9598b254ad1f3"},{"fileName":"gofee_Windows_i386.zip","algo":"Sha256","source":"gofee_0.1.0_checksums.txt","hash":"dd7930c1bdc149a71451d0eb7314940a9ecb1aa6f6935cfdaa02e5900c4d70a5"},{"fileName":"gofee_Windows_x86_64.zip","algo":"Sha256","source":"gofee_0.1.0_checksums.txt","hash":"b0caa35b781413fa4babc3d2b0cbec83b2a1d75f653c2734d85f05d0bf02aca3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gofee_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gofee_0.1.0_checksums.txt",
+      "hash": "a562ea9df8a0e504097618dd2ebbe49dfe7b411f4056e94b4a64a0ff12c34016"
+    },
+    {
+      "fileName": "gofee_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gofee_0.1.0_checksums.txt",
+      "hash": "c2416b3d6d673c736d53acfb56ed1f13746d6322235b4fb72f0000a69c32cc5e"
+    },
+    {
+      "fileName": "gofee_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gofee_0.1.0_checksums.txt",
+      "hash": "a7dac0ff47ed5c02c7cbbed25eeca8d888e8b012e9e06d539ffb0b55b7b99cee"
+    },
+    {
+      "fileName": "gofee_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "gofee_0.1.0_checksums.txt",
+      "hash": "b214984da0e09bddd5a79dd6a79af14c63d58a235897ea75bd01140bd649f128"
+    },
+    {
+      "fileName": "gofee_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gofee_0.1.0_checksums.txt",
+      "hash": "6b3aa5e990c20202c728945ed2d4a09f791bfa1a81ad496617f327aa8535ba89"
+    },
+    {
+      "fileName": "gofee_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "gofee_0.1.0_checksums.txt",
+      "hash": "4fd60df4387e3d9fbfcc360a5a758d8cde460a96323ceba8e5b9598b254ad1f3"
+    },
+    {
+      "fileName": "gofee_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "gofee_0.1.0_checksums.txt",
+      "hash": "dd7930c1bdc149a71451d0eb7314940a9ecb1aa6f6935cfdaa02e5900c4d70a5"
+    },
+    {
+      "fileName": "gofee_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "gofee_0.1.0_checksums.txt",
+      "hash": "b0caa35b781413fa4babc3d2b0cbec83b2a1d75f653c2734d85f05d0bf02aca3"
+    }
+  ]
+}

@@ -1,1 +1,121 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"radare2-5.9.4.tar.xz","algo":"Sha256","source":"checksums.txt","hash":"edf4fc9255482ef790a85e1e563ecce147c6dc6ef49572586b3bb7fa6f1331b3"},{"fileName":"radare2_5.9.4_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"ba3713e6676fae44506ab0a984268a3439b7bf7a140b3c5460be2d082cad8468"},{"fileName":"radare2_5.9.4_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"4ced7aba1907c632d4cd02525fd0ce0801c75865314d6731522c9ed57e5f6aa1"},{"fileName":"radare2_5.9.4_i386.deb","algo":"Sha256","source":"checksums.txt","hash":"1affda8b8d00059bfe05eaeecf56abb09e2bdc5efcc761f542f001540458d8f2"},{"fileName":"radare2-5.9.4-w64.zip","algo":"Sha256","source":"checksums.txt","hash":"34ecc131cf2199e475102c96502e3bbb69b4a98f70894be08d0ed91284b9f37c"},{"fileName":"radare2-5.9.4-w32.zip","algo":"Sha256","source":"checksums.txt","hash":"db8d7470cbd79c1bf66097fad5111fc3ac2b939c8e4834de89f6a6282b56c5b5"},{"fileName":"radare2-m1-5.9.4.pkg","algo":"Sha256","source":"checksums.txt","hash":"0fc01be1b7357ea20d76f02290f4b9d5b2dd9df792962abb40407ba067bfcdce"},{"fileName":"radare2-x64-5.9.4.pkg","algo":"Sha256","source":"checksums.txt","hash":"f9e58f80faf89b3ce94fb5fcc783420a189f6f4a6601c66043527db16b081c40"},{"fileName":"radare2_5.9.4_iphoneos-arm.deb","algo":"Sha256","source":"checksums.txt","hash":"591635431540b6142ea702e00fc79dff6cb664408200939be7f3d7972f73bb61"},{"fileName":"radare2-arm32_5.9.4_iphoneos-arm.deb","algo":"Sha256","source":"checksums.txt","hash":"5d70952b4715a992edf9948ffac3b8660046b32797b38225ebfe46567e16ac12"},{"fileName":"r2ios-sdk-5.9.4.zip","algo":"Sha256","source":"checksums.txt","hash":"a60f6a9a11ce9fb7957c807c0d817da273aab72a0105758de98487fdf41831b5"},{"fileName":"radare2-5.9.4-android-aarch64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0ae3e5fbc797ecdcafb1f5ee44814183047e5092662ff6f8adb7fa511e83e2ae"},{"fileName":"radare2-5.9.4-android-arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"dd8b3f948e58fec2c7af52d205b14a083223a92d346ee27436cb1bde7d265d9d"},{"fileName":"radare2-5.9.4-static.tar.xz","algo":"Sha256","source":"checksums.txt","hash":"356083ea1888f6578d3b3244030b1e5fa78d0332972422f5aa1468886687a63d"},{"fileName":"radare2-dev_5.9.4_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"2c5503a0cacb6591b629f355731fd000ac3ec008437708919035ea8c2efaae76"},{"fileName":"radare2-dev_5.9.4_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"4025c31e59ccd0398fcd58d69749decf27ff58bd5191f4fbd2c8ec02a7beb99a"},{"fileName":"radare2-dev_5.9.4_i386.deb","algo":"Sha256","source":"checksums.txt","hash":"81cb00dbe0b6776d6a0e326bb4e357d09b621c0cd87d93a42c7d087ddbe4c8b3"},{"fileName":"radare2-5.9.4-wasi.zip","algo":"Sha256","source":"checksums.txt","hash":"574764d0c89cff747e583cf0c8a7db1576eee27df443521b28507111f312b146"},{"fileName":"r2blob-5.9.4-w64.zip","algo":"Sha256","source":"checksums.txt","hash":"d5cb0543b0c3f1c785eab150e9c2dcf32abd7d5fcf278c9825be57b27e983bbd"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "radare2-5.9.4.tar.xz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "edf4fc9255482ef790a85e1e563ecce147c6dc6ef49572586b3bb7fa6f1331b3"
+    },
+    {
+      "fileName": "radare2_5.9.4_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ba3713e6676fae44506ab0a984268a3439b7bf7a140b3c5460be2d082cad8468"
+    },
+    {
+      "fileName": "radare2_5.9.4_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4ced7aba1907c632d4cd02525fd0ce0801c75865314d6731522c9ed57e5f6aa1"
+    },
+    {
+      "fileName": "radare2_5.9.4_i386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1affda8b8d00059bfe05eaeecf56abb09e2bdc5efcc761f542f001540458d8f2"
+    },
+    {
+      "fileName": "radare2-5.9.4-w64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "34ecc131cf2199e475102c96502e3bbb69b4a98f70894be08d0ed91284b9f37c"
+    },
+    {
+      "fileName": "radare2-5.9.4-w32.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "db8d7470cbd79c1bf66097fad5111fc3ac2b939c8e4834de89f6a6282b56c5b5"
+    },
+    {
+      "fileName": "radare2-m1-5.9.4.pkg",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0fc01be1b7357ea20d76f02290f4b9d5b2dd9df792962abb40407ba067bfcdce"
+    },
+    {
+      "fileName": "radare2-x64-5.9.4.pkg",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f9e58f80faf89b3ce94fb5fcc783420a189f6f4a6601c66043527db16b081c40"
+    },
+    {
+      "fileName": "radare2_5.9.4_iphoneos-arm.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "591635431540b6142ea702e00fc79dff6cb664408200939be7f3d7972f73bb61"
+    },
+    {
+      "fileName": "radare2-arm32_5.9.4_iphoneos-arm.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5d70952b4715a992edf9948ffac3b8660046b32797b38225ebfe46567e16ac12"
+    },
+    {
+      "fileName": "r2ios-sdk-5.9.4.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a60f6a9a11ce9fb7957c807c0d817da273aab72a0105758de98487fdf41831b5"
+    },
+    {
+      "fileName": "radare2-5.9.4-android-aarch64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0ae3e5fbc797ecdcafb1f5ee44814183047e5092662ff6f8adb7fa511e83e2ae"
+    },
+    {
+      "fileName": "radare2-5.9.4-android-arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dd8b3f948e58fec2c7af52d205b14a083223a92d346ee27436cb1bde7d265d9d"
+    },
+    {
+      "fileName": "radare2-5.9.4-static.tar.xz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "356083ea1888f6578d3b3244030b1e5fa78d0332972422f5aa1468886687a63d"
+    },
+    {
+      "fileName": "radare2-dev_5.9.4_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2c5503a0cacb6591b629f355731fd000ac3ec008437708919035ea8c2efaae76"
+    },
+    {
+      "fileName": "radare2-dev_5.9.4_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4025c31e59ccd0398fcd58d69749decf27ff58bd5191f4fbd2c8ec02a7beb99a"
+    },
+    {
+      "fileName": "radare2-dev_5.9.4_i386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "81cb00dbe0b6776d6a0e326bb4e357d09b621c0cd87d93a42c7d087ddbe4c8b3"
+    },
+    {
+      "fileName": "radare2-5.9.4-wasi.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "574764d0c89cff747e583cf0c8a7db1576eee27df443521b28507111f312b146"
+    },
+    {
+      "fileName": "r2blob-5.9.4-w64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d5cb0543b0c3f1c785eab150e9c2dcf32abd7d5fcf278c9825be57b27e983bbd"
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"geoip-lite.dat","algo":"Sha256","source":"geoip-lite.dat.sha256sum","hash":"10350c630467c193d1a378ad88d8324c6d9d11d2bb410a192606ba730a2a7e69"},{"fileName":"country-lite.mmdb","algo":"Sha256","source":"country-lite.mmdb.sha256sum","hash":"6e6f9515d31d5001c32f39c57143dd9f2e8ca62c6cb2a5c2b6ae411e716003fd"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "geoip-lite.dat",
+      "algo": "Sha256",
+      "source": "geoip-lite.dat.sha256sum",
+      "hash": "10350c630467c193d1a378ad88d8324c6d9d11d2bb410a192606ba730a2a7e69"
+    },
+    {
+      "fileName": "country-lite.mmdb",
+      "algo": "Sha256",
+      "source": "country-lite.mmdb.sha256sum",
+      "hash": "6e6f9515d31d5001c32f39c57143dd9f2e8ca62c6cb2a5c2b6ae411e716003fd"
+    }
+  ]
+}

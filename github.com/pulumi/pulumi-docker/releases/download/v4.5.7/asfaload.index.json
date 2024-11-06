@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-docker-v4.5.7-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-docker_4.5.7_checksums.txt","hash":"2cde279943f4adafeac31d6a29d00f7311902b1a"},{"fileName":"./pulumi-resource-docker-v4.5.7-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-docker_4.5.7_checksums.txt","hash":"23b4a6b9491a07538730db19a19119b04b231bad"},{"fileName":"./pulumi-resource-docker-v4.5.7-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-docker_4.5.7_checksums.txt","hash":"157e095fd30a76d19c4c5de3e135e52a16b23450"},{"fileName":"./pulumi-resource-docker-v4.5.7-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-docker_4.5.7_checksums.txt","hash":"f68c63990fa7fddc86415718bad3305844e5b1c5"},{"fileName":"./pulumi-resource-docker-v4.5.7-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-docker_4.5.7_checksums.txt","hash":"e985337dca9a45f7ee968ce970d5a44899492269"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-docker-v4.5.7-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-docker_4.5.7_checksums.txt",
+      "hash": "2cde279943f4adafeac31d6a29d00f7311902b1a"
+    },
+    {
+      "fileName": "./pulumi-resource-docker-v4.5.7-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-docker_4.5.7_checksums.txt",
+      "hash": "23b4a6b9491a07538730db19a19119b04b231bad"
+    },
+    {
+      "fileName": "./pulumi-resource-docker-v4.5.7-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-docker_4.5.7_checksums.txt",
+      "hash": "157e095fd30a76d19c4c5de3e135e52a16b23450"
+    },
+    {
+      "fileName": "./pulumi-resource-docker-v4.5.7-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-docker_4.5.7_checksums.txt",
+      "hash": "f68c63990fa7fddc86415718bad3305844e5b1c5"
+    },
+    {
+      "fileName": "./pulumi-resource-docker-v4.5.7-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-docker_4.5.7_checksums.txt",
+      "hash": "e985337dca9a45f7ee968ce970d5a44899492269"
+    }
+  ]
+}

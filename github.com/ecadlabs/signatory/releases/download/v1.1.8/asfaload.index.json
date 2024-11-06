@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"signatory_1.1.8_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4e8241a5a7e4a1a66b7d031c7372d549bbf06fe8a512b58b0a34d50d8e3c66d4"},{"fileName":"signatory_1.1.8_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"628b07ee694ad42c4818513510e945e6b7659c5c9ebab11d6e017b5bf32ea147"},{"fileName":"signatory_1.1.8_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"698ac0d8c49d3c14b06fd7d661d678f7f9b224fefe47a3fc0b2236c550d86c68"},{"fileName":"signatory_1.1.8_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7029a3505c455026feda19e77d1b49ac349cf2f66438e5a1bde80bec5155f186"},{"fileName":"signatory_1.1.8_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9e2a8da2cffa6c8def0da257dd30788e6e8c0e60eba52fb76dd97ffd9146915c"},{"fileName":"signatory_1.1.8_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"aad45e1b3d8cbd3309e42f921677b989f2b9667062fd534b991c2d3bd2955d1a"},{"fileName":"signatory_1.1.8_linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"caa807dbce1af0c867ad924ee841b6856a8ff50e42918c605ded8cac4a3d7105"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "signatory_1.1.8_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e8241a5a7e4a1a66b7d031c7372d549bbf06fe8a512b58b0a34d50d8e3c66d4"
+    },
+    {
+      "fileName": "signatory_1.1.8_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "628b07ee694ad42c4818513510e945e6b7659c5c9ebab11d6e017b5bf32ea147"
+    },
+    {
+      "fileName": "signatory_1.1.8_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "698ac0d8c49d3c14b06fd7d661d678f7f9b224fefe47a3fc0b2236c550d86c68"
+    },
+    {
+      "fileName": "signatory_1.1.8_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7029a3505c455026feda19e77d1b49ac349cf2f66438e5a1bde80bec5155f186"
+    },
+    {
+      "fileName": "signatory_1.1.8_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9e2a8da2cffa6c8def0da257dd30788e6e8c0e60eba52fb76dd97ffd9146915c"
+    },
+    {
+      "fileName": "signatory_1.1.8_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aad45e1b3d8cbd3309e42f921677b989f2b9667062fd534b991c2d3bd2955d1a"
+    },
+    {
+      "fileName": "signatory_1.1.8_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "caa807dbce1af0c867ad924ee841b6856a8ff50e42918c605ded8cac4a3d7105"
+    }
+  ]
+}

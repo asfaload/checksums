@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gotosocial-0.17.2-source-code.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8bc00b0b28f0e6171fef564bc4b56462406c1baf68b87f7bc4601f7fbdd14f89"},{"fileName":"gotosocial_0.17.2_freebsd_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"23775fbfba856742cb5c8ed617448c866259e68b550fa44d54940404c20d4d82"},{"fileName":"gotosocial_0.17.2_freebsd_amd64_moderncsqlite.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ce7c795dc544292efacd7204264da7ff81594467ce0b3f29ebae0f2901e05481"},{"fileName":"gotosocial_0.17.2_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"443fe1fd7f8d114dfabf1e8326756fc4939ca315006936a6a001b0cb58fe4cb5"},{"fileName":"gotosocial_0.17.2_linux_386_moderncsqlite.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9f6bd23ff6244c72042834dccb1b90f70ae50926132857bbc02b0c667ca4e997"},{"fileName":"gotosocial_0.17.2_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9716a07a0f9290bfb60dd9c603e6ba7de385ad4b3c399bb74b2926c6e076c92f"},{"fileName":"gotosocial_0.17.2_linux_amd64_moderncsqlite.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0ec69ba65dfc3eb3cbf167c8e70b2823448af6b8797a45db9bb7bc524daf0ffe"},{"fileName":"gotosocial_0.17.2_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f330b49b35233c4b0160c31186452d9d23aeef6cfc690e3e8cf770cf82609ff4"},{"fileName":"gotosocial_0.17.2_linux_arm64_moderncsqlite.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6f052f13438fa678813a76c544c6f001c1f3fc56d39ff123c8b1705a1ed3633d"},{"fileName":"gotosocial_0.17.2_linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"14c85e4675dc05206dbc99a2b7a991da75cd46bfb1524344af5621d9b897b532"},{"fileName":"gotosocial_0.17.2_linux_armv6_moderncsqlite.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3e0b39278c8090c1d8e90ff11fd5b22c0f6f09069153b0acc59a3dbc8a1c2130"},{"fileName":"gotosocial_0.17.2_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bba3f11b82661d25fd4e46d52f1f4018c60edd0f2fc210d5db19eaea13acbe35"},{"fileName":"gotosocial_0.17.2_linux_armv7_moderncsqlite.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7eea464c56e76529a62a6702648295cf71e71b7fa4bd356688fb19f1ab4f69d2"},{"fileName":"gotosocial_0.17.2_web-assets.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1d79fdd17c9c4e794c1596b91ece77494d5a8084502aafc3efa972dd46a06a69"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gotosocial-0.17.2-source-code.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8bc00b0b28f0e6171fef564bc4b56462406c1baf68b87f7bc4601f7fbdd14f89"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "23775fbfba856742cb5c8ed617448c866259e68b550fa44d54940404c20d4d82"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_freebsd_amd64_moderncsqlite.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ce7c795dc544292efacd7204264da7ff81594467ce0b3f29ebae0f2901e05481"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "443fe1fd7f8d114dfabf1e8326756fc4939ca315006936a6a001b0cb58fe4cb5"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_386_moderncsqlite.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9f6bd23ff6244c72042834dccb1b90f70ae50926132857bbc02b0c667ca4e997"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9716a07a0f9290bfb60dd9c603e6ba7de385ad4b3c399bb74b2926c6e076c92f"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_amd64_moderncsqlite.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0ec69ba65dfc3eb3cbf167c8e70b2823448af6b8797a45db9bb7bc524daf0ffe"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f330b49b35233c4b0160c31186452d9d23aeef6cfc690e3e8cf770cf82609ff4"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_arm64_moderncsqlite.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6f052f13438fa678813a76c544c6f001c1f3fc56d39ff123c8b1705a1ed3633d"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "14c85e4675dc05206dbc99a2b7a991da75cd46bfb1524344af5621d9b897b532"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_armv6_moderncsqlite.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3e0b39278c8090c1d8e90ff11fd5b22c0f6f09069153b0acc59a3dbc8a1c2130"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bba3f11b82661d25fd4e46d52f1f4018c60edd0f2fc210d5db19eaea13acbe35"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_linux_armv7_moderncsqlite.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7eea464c56e76529a62a6702648295cf71e71b7fa4bd356688fb19f1ab4f69d2"
+    },
+    {
+      "fileName": "gotosocial_0.17.2_web-assets.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1d79fdd17c9c4e794c1596b91ece77494d5a8084502aafc3efa972dd46a06a69"
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"firezone-client-gui-windows_1.3.9_x86_64.msi","algo":"Sha256","source":"firezone-client-gui-windows_1.3.9_x86_64.msi.sha256sum.txt","hash":"760283ce92b8d34cf79fff0abe76569c1aa4065422b7cb0943c2eb5a173e6627"},{"fileName":"firezone-client-gui-linux_1.3.9_aarch64.deb","algo":"Sha256","source":"firezone-client-gui-linux_1.3.9_aarch64.deb.sha256sum.txt","hash":"c5537eeaed0d44843bb94177345a13c85b559905e366c2164ef710db2a84d229"},{"fileName":"firezone-client-gui-linux_1.3.9_x86_64.deb","algo":"Sha256","source":"firezone-client-gui-linux_1.3.9_x86_64.deb.sha256sum.txt","hash":"8890c6c3ed95215a15043603175d278c86f96ac082babcd74b60f0b8801d3233"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "firezone-client-gui-windows_1.3.9_x86_64.msi",
+      "algo": "Sha256",
+      "source": "firezone-client-gui-windows_1.3.9_x86_64.msi.sha256sum.txt",
+      "hash": "760283ce92b8d34cf79fff0abe76569c1aa4065422b7cb0943c2eb5a173e6627"
+    },
+    {
+      "fileName": "firezone-client-gui-linux_1.3.9_aarch64.deb",
+      "algo": "Sha256",
+      "source": "firezone-client-gui-linux_1.3.9_aarch64.deb.sha256sum.txt",
+      "hash": "c5537eeaed0d44843bb94177345a13c85b559905e366c2164ef710db2a84d229"
+    },
+    {
+      "fileName": "firezone-client-gui-linux_1.3.9_x86_64.deb",
+      "algo": "Sha256",
+      "source": "firezone-client-gui-linux_1.3.9_x86_64.deb.sha256sum.txt",
+      "hash": "8890c6c3ed95215a15043603175d278c86f96ac082babcd74b60f0b8801d3233"
+    }
+  ]
+}

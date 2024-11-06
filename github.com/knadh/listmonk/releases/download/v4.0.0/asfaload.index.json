@@ -1,1 +1,139 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"listmonk_4.0.0_darwin_amd64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"4853aa2dd4b772625b72d5827a782f09867c9cb0f6bc540e850a04490e024e4c"},{"fileName":"listmonk_4.0.0_darwin_arm64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"0f4096f314a2ef6f2a3d1fc0925d08e170aea5fd672af51f347620fd3168e6a6"},{"fileName":"listmonk_4.0.0_freebsd_amd64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"8a75f46f20b58b4566b967cf153b42bb0db89805205f522081035e35e38dd2a8"},{"fileName":"listmonk_4.0.0_freebsd_arm64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"215da7c9bf061facaed822dfd2771a81cc1b1f58d7f261fc0d19d7791783d4db"},{"fileName":"listmonk_4.0.0_freebsd_armv6.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"bb1839cc4274aa6b48f5ff4b104923dd2fe01eb703a4bb2c55bccab7034484ba"},{"fileName":"listmonk_4.0.0_freebsd_armv7.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"4ee1bc7cf8c4c5a4d4ce425a8c9b0cfc9e9abec27aca87ade9c1305a4670c8c5"},{"fileName":"listmonk_4.0.0_linux_amd64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"2eff79873a5f1051d4285bc7cf8ee92bf6a5e56eb1b4f59094675101f15b1994"},{"fileName":"listmonk_4.0.0_linux_arm64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"1239f154dae76d357dd89f734502590a15aef754e9ff410a3c854fa46d4af1fb"},{"fileName":"listmonk_4.0.0_linux_armv6.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"f2263b2fe8bc860d8134fa4da29b72dc47a01105bf16ea1230e49e83b09aeb5d"},{"fileName":"listmonk_4.0.0_linux_armv7.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"31f21ca353c98d8c851f942560b554871febfb1c189a6190a5d776cf305e8dda"},{"fileName":"listmonk_4.0.0_netbsd_amd64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"a12e491aa69056f2599c013a5a08f19b6d2767fc584613f4e98eae373d927548"},{"fileName":"listmonk_4.0.0_netbsd_arm64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"f5d98e5f51cbd4b1851bb95ca7444271ef92da89482ceb5d6a093c7b7ca7b8f0"},{"fileName":"listmonk_4.0.0_netbsd_armv6.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"3b7c0a66a2fb21ae2c7c19b2cd48fec561555877f2b16dd2bb9d120b0e300a11"},{"fileName":"listmonk_4.0.0_netbsd_armv7.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"74eb5bc476199024e2415b3030675ff2b320ae5ccc4dfdba51451d9ea0ecd30f"},{"fileName":"listmonk_4.0.0_openbsd_amd64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"623058942442914cac67673ed3b720a4c3b43d85a3ea1ce38199c96597a66835"},{"fileName":"listmonk_4.0.0_openbsd_arm64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"a027867e5ec87065c13e0d46cdc350a23d1627f1219e203d91d927848a8737ee"},{"fileName":"listmonk_4.0.0_openbsd_armv6.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"d3ef8e3cbbefe989b58ff2b594f26f0a81a4d0acf567be0b91a587b03c91b24a"},{"fileName":"listmonk_4.0.0_openbsd_armv7.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"e1c7eecef16a1bec3b8b29987885f304a9d11b3bf0f6d3cdb9a2afc153e0dc5d"},{"fileName":"listmonk_4.0.0_windows_amd64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"5a4ce8948fda16e5f2d0dbfc182dd9cbd4c1fee4f02fec45648050ced5b95a90"},{"fileName":"listmonk_4.0.0_windows_arm64.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"4c29cd2eef05cd8164b0979afa41ad8f1a285e22c01c177572d4aa22959e491f"},{"fileName":"listmonk_4.0.0_windows_armv6.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"e3a72daca0c9f448ee4166dc1e5b394fd0fe7a834fba4ce03d2166326438807a"},{"fileName":"listmonk_4.0.0_windows_armv7.tar.gz","algo":"Sha256","source":"listmonk_4.0.0_checksums.txt","hash":"680d27005e3d62deabb90982071ac3430aabfe144748a0fa7b3b454ba87bd9b8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "listmonk_4.0.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "4853aa2dd4b772625b72d5827a782f09867c9cb0f6bc540e850a04490e024e4c"
+    },
+    {
+      "fileName": "listmonk_4.0.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "0f4096f314a2ef6f2a3d1fc0925d08e170aea5fd672af51f347620fd3168e6a6"
+    },
+    {
+      "fileName": "listmonk_4.0.0_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "8a75f46f20b58b4566b967cf153b42bb0db89805205f522081035e35e38dd2a8"
+    },
+    {
+      "fileName": "listmonk_4.0.0_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "215da7c9bf061facaed822dfd2771a81cc1b1f58d7f261fc0d19d7791783d4db"
+    },
+    {
+      "fileName": "listmonk_4.0.0_freebsd_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "bb1839cc4274aa6b48f5ff4b104923dd2fe01eb703a4bb2c55bccab7034484ba"
+    },
+    {
+      "fileName": "listmonk_4.0.0_freebsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "4ee1bc7cf8c4c5a4d4ce425a8c9b0cfc9e9abec27aca87ade9c1305a4670c8c5"
+    },
+    {
+      "fileName": "listmonk_4.0.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "2eff79873a5f1051d4285bc7cf8ee92bf6a5e56eb1b4f59094675101f15b1994"
+    },
+    {
+      "fileName": "listmonk_4.0.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "1239f154dae76d357dd89f734502590a15aef754e9ff410a3c854fa46d4af1fb"
+    },
+    {
+      "fileName": "listmonk_4.0.0_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "f2263b2fe8bc860d8134fa4da29b72dc47a01105bf16ea1230e49e83b09aeb5d"
+    },
+    {
+      "fileName": "listmonk_4.0.0_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "31f21ca353c98d8c851f942560b554871febfb1c189a6190a5d776cf305e8dda"
+    },
+    {
+      "fileName": "listmonk_4.0.0_netbsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "a12e491aa69056f2599c013a5a08f19b6d2767fc584613f4e98eae373d927548"
+    },
+    {
+      "fileName": "listmonk_4.0.0_netbsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "f5d98e5f51cbd4b1851bb95ca7444271ef92da89482ceb5d6a093c7b7ca7b8f0"
+    },
+    {
+      "fileName": "listmonk_4.0.0_netbsd_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "3b7c0a66a2fb21ae2c7c19b2cd48fec561555877f2b16dd2bb9d120b0e300a11"
+    },
+    {
+      "fileName": "listmonk_4.0.0_netbsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "74eb5bc476199024e2415b3030675ff2b320ae5ccc4dfdba51451d9ea0ecd30f"
+    },
+    {
+      "fileName": "listmonk_4.0.0_openbsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "623058942442914cac67673ed3b720a4c3b43d85a3ea1ce38199c96597a66835"
+    },
+    {
+      "fileName": "listmonk_4.0.0_openbsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "a027867e5ec87065c13e0d46cdc350a23d1627f1219e203d91d927848a8737ee"
+    },
+    {
+      "fileName": "listmonk_4.0.0_openbsd_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "d3ef8e3cbbefe989b58ff2b594f26f0a81a4d0acf567be0b91a587b03c91b24a"
+    },
+    {
+      "fileName": "listmonk_4.0.0_openbsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "e1c7eecef16a1bec3b8b29987885f304a9d11b3bf0f6d3cdb9a2afc153e0dc5d"
+    },
+    {
+      "fileName": "listmonk_4.0.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "5a4ce8948fda16e5f2d0dbfc182dd9cbd4c1fee4f02fec45648050ced5b95a90"
+    },
+    {
+      "fileName": "listmonk_4.0.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "4c29cd2eef05cd8164b0979afa41ad8f1a285e22c01c177572d4aa22959e491f"
+    },
+    {
+      "fileName": "listmonk_4.0.0_windows_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "e3a72daca0c9f448ee4166dc1e5b394fd0fe7a834fba4ce03d2166326438807a"
+    },
+    {
+      "fileName": "listmonk_4.0.0_windows_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "listmonk_4.0.0_checksums.txt",
+      "hash": "680d27005e3d62deabb90982071ac3430aabfe144748a0fa7b3b454ba87bd9b8"
+    }
+  ]
+}

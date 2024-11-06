@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"colima-Darwin-arm64","algo":"Sha256","source":"colima-Darwin-arm64.sha256sum","hash":"267696d6cb28eaf6daa3ea9622c626697b4baeb847b882d15b26c732e841913c"},{"fileName":"colima-Linux-aarch64","algo":"Sha256","source":"colima-Linux-aarch64.sha256sum","hash":"330e11a4b2e5ce69ee6253635308c9f0f49195f236da01718ede35cdb2729901"},{"fileName":"colima-Linux-x86_64","algo":"Sha256","source":"colima-Linux-x86_64.sha256sum","hash":"a3d440033776b2fb0cdd6139a2dbebf6764aabf78a671d4aa13b45c26df21a8a"},{"fileName":"colima-Darwin-x86_64","algo":"Sha256","source":"colima-Darwin-x86_64.sha256sum","hash":"53f78b4aaef5fb5dab65cae19fba4504047de1fdafa152fba90435d8a7569c2b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "colima-Darwin-arm64",
+      "algo": "Sha256",
+      "source": "colima-Darwin-arm64.sha256sum",
+      "hash": "267696d6cb28eaf6daa3ea9622c626697b4baeb847b882d15b26c732e841913c"
+    },
+    {
+      "fileName": "colima-Linux-aarch64",
+      "algo": "Sha256",
+      "source": "colima-Linux-aarch64.sha256sum",
+      "hash": "330e11a4b2e5ce69ee6253635308c9f0f49195f236da01718ede35cdb2729901"
+    },
+    {
+      "fileName": "colima-Linux-x86_64",
+      "algo": "Sha256",
+      "source": "colima-Linux-x86_64.sha256sum",
+      "hash": "a3d440033776b2fb0cdd6139a2dbebf6764aabf78a671d4aa13b45c26df21a8a"
+    },
+    {
+      "fileName": "colima-Darwin-x86_64",
+      "algo": "Sha256",
+      "source": "colima-Darwin-x86_64.sha256sum",
+      "hash": "53f78b4aaef5fb5dab65cae19fba4504047de1fdafa152fba90435d8a7569c2b"
+    }
+  ]
+}

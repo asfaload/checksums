@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"zetaclientd-linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"8c1fcf1819ae7a60c47ea3c607eceeb2b346552a7753f8c6691e59bc5a561a74"},{"fileName":"zetaclientd-linux-arm64","algo":"Sha256","source":"checksums.txt","hash":"b016c511c3139cacaf36f3ea9f94ab7ae9bc9def62a8abe11d41f8606686f093"},{"fileName":"zetacored-darwin-amd64","algo":"Sha256","source":"checksums.txt","hash":"19248c7ea23db59cb128d06dc2f9a8e2ef271445e82489e6e48751e36b33dce1"},{"fileName":"zetacored-darwin-arm64","algo":"Sha256","source":"checksums.txt","hash":"9b378ee4968452d08c90d28fbe21ad3d9767dc1b53a1171db9c5b3f4a47c146a"},{"fileName":"zetacored-linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"f7a01864282e8eb18c757570f1dbb8dd116a2480abb14b09d3289571bf690996"},{"fileName":"zetacored-linux-arm64","algo":"Sha256","source":"checksums.txt","hash":"2cc145793e2a5ae89bd7049b18c4134ca6e9853d197be55ac82ac61274ee0ada"},{"fileName":"zetacored-windows-amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"047cbd363cd693b79d6d8df55d5795aad799f024d65c7e9ba7a7c44d922001a9"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "zetaclientd-linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8c1fcf1819ae7a60c47ea3c607eceeb2b346552a7753f8c6691e59bc5a561a74"
+    },
+    {
+      "fileName": "zetaclientd-linux-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b016c511c3139cacaf36f3ea9f94ab7ae9bc9def62a8abe11d41f8606686f093"
+    },
+    {
+      "fileName": "zetacored-darwin-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "19248c7ea23db59cb128d06dc2f9a8e2ef271445e82489e6e48751e36b33dce1"
+    },
+    {
+      "fileName": "zetacored-darwin-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9b378ee4968452d08c90d28fbe21ad3d9767dc1b53a1171db9c5b3f4a47c146a"
+    },
+    {
+      "fileName": "zetacored-linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f7a01864282e8eb18c757570f1dbb8dd116a2480abb14b09d3289571bf690996"
+    },
+    {
+      "fileName": "zetacored-linux-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2cc145793e2a5ae89bd7049b18c4134ca6e9853d197be55ac82ac61274ee0ada"
+    },
+    {
+      "fileName": "zetacored-windows-amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "047cbd363cd693b79d6d8df55d5795aad799f024d65c7e9ba7a7c44d922001a9"
+    }
+  ]
+}

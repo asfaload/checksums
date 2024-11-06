@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"paloma_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8f92796cbd84c567c8351830549cdaf7f6dfa012439a767ec633c52104a85f6d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "paloma_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8f92796cbd84c567c8351830549cdaf7f6dfa012439a767ec633c52104a85f6d"
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kbcli-darwin-amd64-v0.9.0.tar.gz","algo":"Sha256","source":"kbcli-checksums.txt","hash":"8dfcc4b193f36e8bf95546aa1fc3f05b931a8699d217134dc8029cc2addcdd79"},{"fileName":"kbcli-darwin-arm64-v0.9.0.tar.gz","algo":"Sha256","source":"kbcli-checksums.txt","hash":"13888682c19321396e92e301bfec78944cb885aa35d23027ca099defe4d4a808"},{"fileName":"kbcli-linux-amd64-v0.9.0.deb","algo":"Sha256","source":"kbcli-checksums.txt","hash":"620bfc974ce8041c80e9dc48a7a0e61f62a0c5e5e294935744c7eb57b4b20a08"},{"fileName":"kbcli-linux-amd64-v0.9.0.rpm","algo":"Sha256","source":"kbcli-checksums.txt","hash":"3c0825bfcf419b90883972a5957eeadf01f455b6273039466189919def48f66f"},{"fileName":"kbcli-linux-amd64-v0.9.0.tar.gz","algo":"Sha256","source":"kbcli-checksums.txt","hash":"f0ea899287b59900a3aff8efd94498d7a62f7a8051bfbcd371cf936e39965489"},{"fileName":"kbcli-linux-arm64-v0.9.0.deb","algo":"Sha256","source":"kbcli-checksums.txt","hash":"0723af4708914b04aad0e52b78a92a39702b173249db1ab98c28b981cf02ed81"},{"fileName":"kbcli-linux-arm64-v0.9.0.rpm","algo":"Sha256","source":"kbcli-checksums.txt","hash":"442e83a43cc49543117336d360bef59c970bf79d671de03b34d064595f39d96f"},{"fileName":"kbcli-linux-arm64-v0.9.0.tar.gz","algo":"Sha256","source":"kbcli-checksums.txt","hash":"a6ab1cd99663bd5eb430a8d754c0a857250eea2b9470831ee3da19ffd3965c69"},{"fileName":"kbcli-windows-amd64-v0.9.0.zip","algo":"Sha256","source":"kbcli-checksums.txt","hash":"0095ede299ce165c49e9d00f8af3de1c17aa8787528617f24dc00413b5fd4aa1"},{"fileName":"kbcli-windows-arm64-v0.9.0.zip","algo":"Sha256","source":"kbcli-checksums.txt","hash":"1f3b296d8242ed674336b5e9f585984e11857aff3cf9620318b8735fa02709cc"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kbcli-darwin-amd64-v0.9.0.tar.gz",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "8dfcc4b193f36e8bf95546aa1fc3f05b931a8699d217134dc8029cc2addcdd79"
+    },
+    {
+      "fileName": "kbcli-darwin-arm64-v0.9.0.tar.gz",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "13888682c19321396e92e301bfec78944cb885aa35d23027ca099defe4d4a808"
+    },
+    {
+      "fileName": "kbcli-linux-amd64-v0.9.0.deb",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "620bfc974ce8041c80e9dc48a7a0e61f62a0c5e5e294935744c7eb57b4b20a08"
+    },
+    {
+      "fileName": "kbcli-linux-amd64-v0.9.0.rpm",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "3c0825bfcf419b90883972a5957eeadf01f455b6273039466189919def48f66f"
+    },
+    {
+      "fileName": "kbcli-linux-amd64-v0.9.0.tar.gz",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "f0ea899287b59900a3aff8efd94498d7a62f7a8051bfbcd371cf936e39965489"
+    },
+    {
+      "fileName": "kbcli-linux-arm64-v0.9.0.deb",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "0723af4708914b04aad0e52b78a92a39702b173249db1ab98c28b981cf02ed81"
+    },
+    {
+      "fileName": "kbcli-linux-arm64-v0.9.0.rpm",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "442e83a43cc49543117336d360bef59c970bf79d671de03b34d064595f39d96f"
+    },
+    {
+      "fileName": "kbcli-linux-arm64-v0.9.0.tar.gz",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "a6ab1cd99663bd5eb430a8d754c0a857250eea2b9470831ee3da19ffd3965c69"
+    },
+    {
+      "fileName": "kbcli-windows-amd64-v0.9.0.zip",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "0095ede299ce165c49e9d00f8af3de1c17aa8787528617f24dc00413b5fd4aa1"
+    },
+    {
+      "fileName": "kbcli-windows-arm64-v0.9.0.zip",
+      "algo": "Sha256",
+      "source": "kbcli-checksums.txt",
+      "hash": "1f3b296d8242ed674336b5e9f585984e11857aff3cf9620318b8735fa02709cc"
+    }
+  ]
+}

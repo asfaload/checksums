@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"meeds-tomcat-standalone-1.5.0.zip","algo":"Sha256","source":"SHA256SUMS","hash":"3faaee539c2b2c1c2e091132f735c56852fed531c1bbe2445c8016ef0373f081"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "meeds-tomcat-standalone-1.5.0.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "3faaee539c2b2c1c2e091132f735c56852fed531c1bbe2445c8016ef0373f081"
+    }
+  ]
+}

@@ -1,1 +1,103 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mk_0.0.16_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9671ddb476dfb6b4cd82e05f683a5d659492ab9bb5e23f73fc4ff7d57b837991"},{"fileName":"mk_0.0.16_darwin_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"cc2543b3e9c4316fe073909f6525558dc2f11e4fe73b8795ac9143e1431134a3"},{"fileName":"mk_0.0.16_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"676912006c2916940de3918424a89b0f4560d6c66e256171bdb53f1abb53d9d5"},{"fileName":"mk_0.0.16_darwin_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"68bf91499fa31c010b960df42538803711db1d06edc119f91d6097ef3345922b"},{"fileName":"mk_0.0.16_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1cad26f83ae4bfec011e6bad5b8beedb91562d0b90a4a612575d410b38f3d1c4"},{"fileName":"mk_0.0.16_linux_386.zip","algo":"Sha256","source":"checksums.txt","hash":"e20c67146467dd8696656b5960cad125e5a257c0148fd7d8b4e3f60979849876"},{"fileName":"mk_0.0.16_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"615ef3cd0ed76aaa16037ffe23e22b838e94ba52885888c500d84aa3425fffcc"},{"fileName":"mk_0.0.16_linux_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"58255e58e5c2018f22fbc325d5b4c0fcab2c63eb057569368f47ddd07c24d22f"},{"fileName":"mk_0.0.16_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d3b54ccf2f7d98543c8592abb8d5b9ba617d3b47f3c9601db25e509f8bd1daab"},{"fileName":"mk_0.0.16_linux_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"5e9c26d66d16acd6d527abc1914363ca32ac0b3e9df21b82799bb58153594315"},{"fileName":"mk_0.0.16_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"74f51980c07ea891844bb45af3d804b380fd2c184589401e180521de4fcbf434"},{"fileName":"mk_0.0.16_windows_386.zip","algo":"Sha256","source":"checksums.txt","hash":"d9ef7d5129cb8ff7c9f8649b3ff43a79ed0e8abf1cb1474de9dd53b9ffab3561"},{"fileName":"mk_0.0.16_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9f29fe4bf832d4a2d02b91a822496606201f995d0a3e73ecd3db9ddd2e2dd540"},{"fileName":"mk_0.0.16_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"041b1466c01b30f91eee6cded81f7cbb784967d96cba3f4f8f1ad81903486004"},{"fileName":"mk_0.0.16_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5afa54fa27206cfc170c344415512334d55a700f7f5c1b97b6cb4ad725644f3a"},{"fileName":"mk_0.0.16_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"3b1aac766e79a8812acff42c5e7dca080682ac26e4006c7374c433c9e76afe50"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mk_0.0.16_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9671ddb476dfb6b4cd82e05f683a5d659492ab9bb5e23f73fc4ff7d57b837991"
+    },
+    {
+      "fileName": "mk_0.0.16_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cc2543b3e9c4316fe073909f6525558dc2f11e4fe73b8795ac9143e1431134a3"
+    },
+    {
+      "fileName": "mk_0.0.16_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "676912006c2916940de3918424a89b0f4560d6c66e256171bdb53f1abb53d9d5"
+    },
+    {
+      "fileName": "mk_0.0.16_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "68bf91499fa31c010b960df42538803711db1d06edc119f91d6097ef3345922b"
+    },
+    {
+      "fileName": "mk_0.0.16_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1cad26f83ae4bfec011e6bad5b8beedb91562d0b90a4a612575d410b38f3d1c4"
+    },
+    {
+      "fileName": "mk_0.0.16_linux_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e20c67146467dd8696656b5960cad125e5a257c0148fd7d8b4e3f60979849876"
+    },
+    {
+      "fileName": "mk_0.0.16_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "615ef3cd0ed76aaa16037ffe23e22b838e94ba52885888c500d84aa3425fffcc"
+    },
+    {
+      "fileName": "mk_0.0.16_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "58255e58e5c2018f22fbc325d5b4c0fcab2c63eb057569368f47ddd07c24d22f"
+    },
+    {
+      "fileName": "mk_0.0.16_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d3b54ccf2f7d98543c8592abb8d5b9ba617d3b47f3c9601db25e509f8bd1daab"
+    },
+    {
+      "fileName": "mk_0.0.16_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5e9c26d66d16acd6d527abc1914363ca32ac0b3e9df21b82799bb58153594315"
+    },
+    {
+      "fileName": "mk_0.0.16_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "74f51980c07ea891844bb45af3d804b380fd2c184589401e180521de4fcbf434"
+    },
+    {
+      "fileName": "mk_0.0.16_windows_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d9ef7d5129cb8ff7c9f8649b3ff43a79ed0e8abf1cb1474de9dd53b9ffab3561"
+    },
+    {
+      "fileName": "mk_0.0.16_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9f29fe4bf832d4a2d02b91a822496606201f995d0a3e73ecd3db9ddd2e2dd540"
+    },
+    {
+      "fileName": "mk_0.0.16_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "041b1466c01b30f91eee6cded81f7cbb784967d96cba3f4f8f1ad81903486004"
+    },
+    {
+      "fileName": "mk_0.0.16_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5afa54fa27206cfc170c344415512334d55a700f7f5c1b97b6cb4ad725644f3a"
+    },
+    {
+      "fileName": "mk_0.0.16_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3b1aac766e79a8812acff42c5e7dca080682ac26e4006c7374c433c9e76afe50"
+    }
+  ]
+}

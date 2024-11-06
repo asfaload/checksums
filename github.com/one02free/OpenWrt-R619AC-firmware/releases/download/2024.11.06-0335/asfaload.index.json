@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T19:35:30+00:00","publishedOn":"2024-11-05T19:38:47.9240953+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"3faa9e277747d56ab33a702f0ac601d8f3cde732f072a95922ea4ff3c7b865b0"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"f644ad16e4df48a9dcf3bf1b0a84095f85706f315e14e0876ad08e29ae0a2e1c"},{"fileName":"openwrt-ipq40xx-generic-8dev_habanero-dvk-initramfs-fit-uImage.itb","algo":"Sha256","source":"sha256sums","hash":"b89440bdbfa8c76787a5d2f51fec938a7f961fe447f0894e9ea2528e93ec1f78"},{"fileName":"openwrt-ipq40xx-generic-8dev_habanero-dvk.manifest","algo":"Sha256","source":"sha256sums","hash":"f8007906cec661f6ec47285a1ec61360fbf9dcd2013d805afed755a1cb9adb9b"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"7910595504294bd0a2cbe2a95cb38ba97c3f820329ea56deea46368b54b4ee9d"}]}
+{
+  "mirroredOn": "2024-11-05T19:38:47.9240953+00:00",
+  "publishedOn": "2024-11-05T19:35:30+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "3faa9e277747d56ab33a702f0ac601d8f3cde732f072a95922ea4ff3c7b865b0"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "f644ad16e4df48a9dcf3bf1b0a84095f85706f315e14e0876ad08e29ae0a2e1c"
+    },
+    {
+      "fileName": "openwrt-ipq40xx-generic-8dev_habanero-dvk-initramfs-fit-uImage.itb",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "b89440bdbfa8c76787a5d2f51fec938a7f961fe447f0894e9ea2528e93ec1f78"
+    },
+    {
+      "fileName": "openwrt-ipq40xx-generic-8dev_habanero-dvk.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "f8007906cec661f6ec47285a1ec61360fbf9dcd2013d805afed755a1cb9adb9b"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "7910595504294bd0a2cbe2a95cb38ba97c3f820329ea56deea46368b54b4ee9d"
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"operator.yaml","algo":"Sha256","source":"checksums.txt","hash":"47174e01dcc1900a5ad5ba015e6afc30d213f149282c18faf91ee380b6ba8a62"},{"fileName":"knative-operator-v1.15.8.tgz","algo":"Sha256","source":"checksums.txt","hash":"71c77dd9fbf85222016d37887af06940dfa8a756f3139146d6a17571f333b197"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "operator.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "47174e01dcc1900a5ad5ba015e6afc30d213f149282c18faf91ee380b6ba8a62"
+    },
+    {
+      "fileName": "knative-operator-v1.15.8.tgz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "71c77dd9fbf85222016d37887af06940dfa8a756f3139146d6a17571f333b197"
+    }
+  ]
+}

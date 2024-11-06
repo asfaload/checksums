@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ddev_1.23.4_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"f9b23880288bc1be3a00c3c584d44c08eda26ad303c3c4bd3113359566a646d5"},{"fileName":"ddev_1.23.4_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"377f6404be00871e71cb7ec9d13b451986969994397189c281de8ac0754c1440"},{"fileName":"ddev_1.23.4_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"ef1eb6dfb5a042665676af52c98d667599c9c93059c462f27268347fa7960e6b"},{"fileName":"ddev_1.23.4_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"0e028054ec00aeaa0d5f806754f7b57d02cea7819f66faf4638cfdeced1a2908"},{"fileName":"ddev_linux-amd64.v1.23.4.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0cd944a2ebfa55f212218290c956fb0996bf064d55baf6ac6597a953635c64e9"},{"fileName":"ddev_linux-arm64.v1.23.4.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a28fa9f35f3ad6a2a97c598ae779c5274adf41f28cfc17da95f4e4e43353a560"},{"fileName":"ddev_macos-amd64.v1.23.4.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"21399cfb6d0f9d38f00171a9c86d328b6472c43e7d3e2f075432c69ddf66cce8"},{"fileName":"ddev_macos-arm64.v1.23.4.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"345249de45f0e60d89c7547538ca2f7cf9284e7822768efb560c6e6ce4717255"},{"fileName":"ddev_shell_completion_scripts.v1.23.4.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"863fed766b281d5411e462758ecc9d41d8b003f7af81cd0a1ad47014167ea4f8"},{"fileName":"ddev_windows-amd64.v1.23.4.zip","algo":"Sha256","source":"checksums.txt","hash":"1a559af04aa268e4106840a771b381d5225ddd6aafcf5c0ef2c827dc61dae877"},{"fileName":"ddev_windows-arm64.v1.23.4.zip","algo":"Sha256","source":"checksums.txt","hash":"c9af07a875c70582f3fc24954ade33aa035e226464d423368efb9338b3001c06"},{"fileName":"ddev_windows_installer.v1.23.4.exe","algo":"Sha256","source":"checksums.txt","hash":"97eaef34c50d9466f4b5d9b22007c4726fe2b346ac3f80ac354ba23271fd9548"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ddev_1.23.4_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f9b23880288bc1be3a00c3c584d44c08eda26ad303c3c4bd3113359566a646d5"
+    },
+    {
+      "fileName": "ddev_1.23.4_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "377f6404be00871e71cb7ec9d13b451986969994397189c281de8ac0754c1440"
+    },
+    {
+      "fileName": "ddev_1.23.4_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ef1eb6dfb5a042665676af52c98d667599c9c93059c462f27268347fa7960e6b"
+    },
+    {
+      "fileName": "ddev_1.23.4_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0e028054ec00aeaa0d5f806754f7b57d02cea7819f66faf4638cfdeced1a2908"
+    },
+    {
+      "fileName": "ddev_linux-amd64.v1.23.4.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0cd944a2ebfa55f212218290c956fb0996bf064d55baf6ac6597a953635c64e9"
+    },
+    {
+      "fileName": "ddev_linux-arm64.v1.23.4.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a28fa9f35f3ad6a2a97c598ae779c5274adf41f28cfc17da95f4e4e43353a560"
+    },
+    {
+      "fileName": "ddev_macos-amd64.v1.23.4.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "21399cfb6d0f9d38f00171a9c86d328b6472c43e7d3e2f075432c69ddf66cce8"
+    },
+    {
+      "fileName": "ddev_macos-arm64.v1.23.4.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "345249de45f0e60d89c7547538ca2f7cf9284e7822768efb560c6e6ce4717255"
+    },
+    {
+      "fileName": "ddev_shell_completion_scripts.v1.23.4.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "863fed766b281d5411e462758ecc9d41d8b003f7af81cd0a1ad47014167ea4f8"
+    },
+    {
+      "fileName": "ddev_windows-amd64.v1.23.4.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1a559af04aa268e4106840a771b381d5225ddd6aafcf5c0ef2c827dc61dae877"
+    },
+    {
+      "fileName": "ddev_windows-arm64.v1.23.4.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c9af07a875c70582f3fc24954ade33aa035e226464d423368efb9338b3001c06"
+    },
+    {
+      "fileName": "ddev_windows_installer.v1.23.4.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "97eaef34c50d9466f4b5d9b22007c4726fe2b346ac3f80ac354ba23271fd9548"
+    }
+  ]
+}

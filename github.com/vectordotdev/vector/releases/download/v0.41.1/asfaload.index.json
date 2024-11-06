@@ -1,1 +1,115 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"vector-0.41.1-1.aarch64.rpm","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"4f5e9a4941c4419a8e0ea97e8227af001de5fd31c6be0178daa8bdb06114f530"},{"fileName":"vector-0.41.1-1.armv7hl.rpm","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"82f7d19ca79f5fff14ff6db447421f0ac6492d6eef862973ab30634165275302"},{"fileName":"vector-0.41.1-1.x86_64.rpm","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"01101b86c549f1593d3d12c4e9bddf2a51e5ca408bbe10259adf4da8a00d5ce8"},{"fileName":"vector-0.41.1-aarch64-unknown-linux-gnu.tar.gz","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"1588945c4d8491128d6898cd6249b6e5a3c233f31d4dc91b3f122ed586e8c12a"},{"fileName":"vector-0.41.1-aarch64-unknown-linux-musl.tar.gz","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"886b514ceb72eb3fd580242ee22c0024e52eefbb9a05a9f31c625b0833a3b534"},{"fileName":"vector-0.41.1-arm-unknown-linux-gnueabi.tar.gz","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"ec9da3919ad08bf60f656b84f474a3fb23f2bb91af5b8a9a9528f41ff05926aa"},{"fileName":"vector-0.41.1-arm-unknown-linux-musleabi.tar.gz","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"f91146d4af0edefa28e78eb1a4f9fc38503781c3243ace202e98224624fd45e2"},{"fileName":"vector-0.41.1-armv7-unknown-linux-gnueabihf.tar.gz","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"83501bb4c1f711ae4488acda9b8d81e86095df8cc3a88a6217e262222b37ff02"},{"fileName":"vector-0.41.1-armv7-unknown-linux-musleabihf.tar.gz","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"d2e442f74ba1fff76d367f4f6ba0621871342b12e5ccf3aa65c6040fc3b31cc9"},{"fileName":"vector-0.41.1-x64.msi","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"9c9f80b56bc3fdb99ed94c8f5c6a386d1a827bbef93c971d65cf413570a1b852"},{"fileName":"vector-0.41.1-x86_64-apple-darwin.tar.gz","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"1f21b31b8f41ea1f32c5e0945c4b665f56c4c592812c3f6e9cb1fe7852cc3639"},{"fileName":"vector-0.41.1-x86_64-pc-windows-msvc.zip","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"da5ff0f8108ad744a33ecf59eb406b9a99900c649957217da0e989dbcf0c3dee"},{"fileName":"vector-0.41.1-x86_64-unknown-linux-gnu.tar.gz","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"78fdb7bb9e13ff36b35923928a3830256497f7a514dac154746cba4fd2e4085e"},{"fileName":"vector-0.41.1-x86_64-unknown-linux-musl.tar.gz","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"e31a3c19a3905c26bfcae0b0dc1288b2bd52e977c432fe6e9e301cea1f4ee977"},{"fileName":"vector_0.41.1-1_amd64.deb","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"a4fe30ec0e9ef959bac8b6de013a28e22890f6e5a5afd00d42ef7affaf432442"},{"fileName":"vector_0.41.1-1_arm64.deb","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"74ad86a66087bc182bb1a2badcf5627d7da3ffc73a6dc2ac320534594edff854"},{"fileName":"vector_0.41.1-1_armel.deb","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"3aff4cc8bbb509496d6f9f67c3029b669e0c25ef2ca75822a39cfb7d52cf3172"},{"fileName":"vector_0.41.1-1_armhf.deb","algo":"Sha256","source":"vector-0.41.1-SHA256SUMS","hash":"f100789716a5cfafc31c8dae8ed50b859fcb409c77ee4d81d673877e987cf9ce"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "vector-0.41.1-1.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "4f5e9a4941c4419a8e0ea97e8227af001de5fd31c6be0178daa8bdb06114f530"
+    },
+    {
+      "fileName": "vector-0.41.1-1.armv7hl.rpm",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "82f7d19ca79f5fff14ff6db447421f0ac6492d6eef862973ab30634165275302"
+    },
+    {
+      "fileName": "vector-0.41.1-1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "01101b86c549f1593d3d12c4e9bddf2a51e5ca408bbe10259adf4da8a00d5ce8"
+    },
+    {
+      "fileName": "vector-0.41.1-aarch64-unknown-linux-gnu.tar.gz",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "1588945c4d8491128d6898cd6249b6e5a3c233f31d4dc91b3f122ed586e8c12a"
+    },
+    {
+      "fileName": "vector-0.41.1-aarch64-unknown-linux-musl.tar.gz",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "886b514ceb72eb3fd580242ee22c0024e52eefbb9a05a9f31c625b0833a3b534"
+    },
+    {
+      "fileName": "vector-0.41.1-arm-unknown-linux-gnueabi.tar.gz",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "ec9da3919ad08bf60f656b84f474a3fb23f2bb91af5b8a9a9528f41ff05926aa"
+    },
+    {
+      "fileName": "vector-0.41.1-arm-unknown-linux-musleabi.tar.gz",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "f91146d4af0edefa28e78eb1a4f9fc38503781c3243ace202e98224624fd45e2"
+    },
+    {
+      "fileName": "vector-0.41.1-armv7-unknown-linux-gnueabihf.tar.gz",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "83501bb4c1f711ae4488acda9b8d81e86095df8cc3a88a6217e262222b37ff02"
+    },
+    {
+      "fileName": "vector-0.41.1-armv7-unknown-linux-musleabihf.tar.gz",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "d2e442f74ba1fff76d367f4f6ba0621871342b12e5ccf3aa65c6040fc3b31cc9"
+    },
+    {
+      "fileName": "vector-0.41.1-x64.msi",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "9c9f80b56bc3fdb99ed94c8f5c6a386d1a827bbef93c971d65cf413570a1b852"
+    },
+    {
+      "fileName": "vector-0.41.1-x86_64-apple-darwin.tar.gz",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "1f21b31b8f41ea1f32c5e0945c4b665f56c4c592812c3f6e9cb1fe7852cc3639"
+    },
+    {
+      "fileName": "vector-0.41.1-x86_64-pc-windows-msvc.zip",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "da5ff0f8108ad744a33ecf59eb406b9a99900c649957217da0e989dbcf0c3dee"
+    },
+    {
+      "fileName": "vector-0.41.1-x86_64-unknown-linux-gnu.tar.gz",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "78fdb7bb9e13ff36b35923928a3830256497f7a514dac154746cba4fd2e4085e"
+    },
+    {
+      "fileName": "vector-0.41.1-x86_64-unknown-linux-musl.tar.gz",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "e31a3c19a3905c26bfcae0b0dc1288b2bd52e977c432fe6e9e301cea1f4ee977"
+    },
+    {
+      "fileName": "vector_0.41.1-1_amd64.deb",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "a4fe30ec0e9ef959bac8b6de013a28e22890f6e5a5afd00d42ef7affaf432442"
+    },
+    {
+      "fileName": "vector_0.41.1-1_arm64.deb",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "74ad86a66087bc182bb1a2badcf5627d7da3ffc73a6dc2ac320534594edff854"
+    },
+    {
+      "fileName": "vector_0.41.1-1_armel.deb",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "3aff4cc8bbb509496d6f9f67c3029b669e0c25ef2ca75822a39cfb7d52cf3172"
+    },
+    {
+      "fileName": "vector_0.41.1-1_armhf.deb",
+      "algo": "Sha256",
+      "source": "vector-0.41.1-SHA256SUMS",
+      "hash": "f100789716a5cfafc31c8dae8ed50b859fcb409c77ee4d81d673877e987cf9ce"
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ftl_0.12.0_darwin_amd64.tar.gz","algo":"Sha256","source":"ftl_0.12.0_checksums.txt","hash":"43cc8aed3598bcba1ae676f94ca9af016af34a4d644f5ee4b2e1f81532e9702b"},{"fileName":"ftl_0.12.0_darwin_arm64.tar.gz","algo":"Sha256","source":"ftl_0.12.0_checksums.txt","hash":"1a79780c5225a3ddb5766be9823a5981c7adf5e1adc56b153200543a66fedf51"},{"fileName":"ftl_0.12.0_linux_amd64.tar.gz","algo":"Sha256","source":"ftl_0.12.0_checksums.txt","hash":"183cf7ce370b4c2b7ed7e0d9fd1a4f1a3065f330660226a6a0557ccc1551d0f9"},{"fileName":"ftl_0.12.0_linux_arm64.tar.gz","algo":"Sha256","source":"ftl_0.12.0_checksums.txt","hash":"9f2ca7c1b10833d3200b335380599a8ac05c63235b20a3b28489338c18768f50"},{"fileName":"ftl_0.12.0_windows_amd64.tar.gz","algo":"Sha256","source":"ftl_0.12.0_checksums.txt","hash":"2f54e96f10db0aa02b7ac5d8ca61aeef7db290e2127be42c68f5732fe85b7787"},{"fileName":"ftl_0.12.0_windows_arm64.tar.gz","algo":"Sha256","source":"ftl_0.12.0_checksums.txt","hash":"6847a4b569f9cedf830ea1f4fcb2afbac355842da80432f329d39e80ad1bf524"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ftl_0.12.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "ftl_0.12.0_checksums.txt",
+      "hash": "43cc8aed3598bcba1ae676f94ca9af016af34a4d644f5ee4b2e1f81532e9702b"
+    },
+    {
+      "fileName": "ftl_0.12.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "ftl_0.12.0_checksums.txt",
+      "hash": "1a79780c5225a3ddb5766be9823a5981c7adf5e1adc56b153200543a66fedf51"
+    },
+    {
+      "fileName": "ftl_0.12.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "ftl_0.12.0_checksums.txt",
+      "hash": "183cf7ce370b4c2b7ed7e0d9fd1a4f1a3065f330660226a6a0557ccc1551d0f9"
+    },
+    {
+      "fileName": "ftl_0.12.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "ftl_0.12.0_checksums.txt",
+      "hash": "9f2ca7c1b10833d3200b335380599a8ac05c63235b20a3b28489338c18768f50"
+    },
+    {
+      "fileName": "ftl_0.12.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "ftl_0.12.0_checksums.txt",
+      "hash": "2f54e96f10db0aa02b7ac5d8ca61aeef7db290e2127be42c68f5732fe85b7787"
+    },
+    {
+      "fileName": "ftl_0.12.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "ftl_0.12.0_checksums.txt",
+      "hash": "6847a4b569f9cedf830ea1f4fcb2afbac355842da80432f329d39e80ad1bf524"
+    }
+  ]
+}

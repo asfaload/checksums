@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"grype-db_0.27.0_darwin_amd64.tar.gz","algo":"Sha256","source":"grype-db_0.27.0_checksums.txt","hash":"7f3d39a0d00ab75f432c1386cdc2afb40f2b01569ffac771dc6321a059876ea1"},{"fileName":"grype-db_0.27.0_darwin_arm64.tar.gz","algo":"Sha256","source":"grype-db_0.27.0_checksums.txt","hash":"38f8d70f0dc54228948d2cbf4c8ca96f04bf1bb40c572a67fa9714d7efbbfa4e"},{"fileName":"grype-db_0.27.0_linux_amd64.tar.gz","algo":"Sha256","source":"grype-db_0.27.0_checksums.txt","hash":"8dfa74ff5b6dcc60e2121a6b44a43b4ecc882edc8ca849a3b5654515fb827165"},{"fileName":"grype-db_0.27.0_linux_arm64.tar.gz","algo":"Sha256","source":"grype-db_0.27.0_checksums.txt","hash":"8b13f8fec09e94c4d12b0fbf9f8f61eaefc25d6aa37914c508fa4517af2d7a9a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "grype-db_0.27.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "grype-db_0.27.0_checksums.txt",
+      "hash": "7f3d39a0d00ab75f432c1386cdc2afb40f2b01569ffac771dc6321a059876ea1"
+    },
+    {
+      "fileName": "grype-db_0.27.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "grype-db_0.27.0_checksums.txt",
+      "hash": "38f8d70f0dc54228948d2cbf4c8ca96f04bf1bb40c572a67fa9714d7efbbfa4e"
+    },
+    {
+      "fileName": "grype-db_0.27.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "grype-db_0.27.0_checksums.txt",
+      "hash": "8dfa74ff5b6dcc60e2121a6b44a43b4ecc882edc8ca849a3b5654515fb827165"
+    },
+    {
+      "fileName": "grype-db_0.27.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "grype-db_0.27.0_checksums.txt",
+      "hash": "8b13f8fec09e94c4d12b0fbf9f8f61eaefc25d6aa37914c508fa4517af2d7a9a"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"homebox_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"86a09f3572f631dd662f1f291a5d75e41508259922f705201904366374f98ae5"},{"fileName":"homebox_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9094807c6778ae6cb35fc50bcf23466ad56630ce76dee10a8ac0ec616758474c"},{"fileName":"homebox_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9e22600b19e6a0015bbb8a1ddcca2556c67d3263e7b0b02db3e11cab0b4f0e12"},{"fileName":"homebox_Linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2d8a039684a2dc1f90253733895a033fcac5d8f5f247245a8312eda3a839a210"},{"fileName":"homebox_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a95c0d9f8e787f11d9b304e1f731e87b7335709ef1db57d4ce263220520ad1e0"},{"fileName":"homebox_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"94f69753a0d7fe8cdec14ca43f70e241e4c842a3c87cbf30ec56c436b6580463"},{"fileName":"homebox_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"29a45bfdc77fc71df0c5bed1eb5f5f720b430c25430a4dddf160ae113559dca2"},{"fileName":"homebox_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"f8ccfeaa81aa0da17c4d68d988132234201c6218729bab01aa18eccb40efb2e3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "homebox_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "86a09f3572f631dd662f1f291a5d75e41508259922f705201904366374f98ae5"
+    },
+    {
+      "fileName": "homebox_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9094807c6778ae6cb35fc50bcf23466ad56630ce76dee10a8ac0ec616758474c"
+    },
+    {
+      "fileName": "homebox_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9e22600b19e6a0015bbb8a1ddcca2556c67d3263e7b0b02db3e11cab0b4f0e12"
+    },
+    {
+      "fileName": "homebox_Linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2d8a039684a2dc1f90253733895a033fcac5d8f5f247245a8312eda3a839a210"
+    },
+    {
+      "fileName": "homebox_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a95c0d9f8e787f11d9b304e1f731e87b7335709ef1db57d4ce263220520ad1e0"
+    },
+    {
+      "fileName": "homebox_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "94f69753a0d7fe8cdec14ca43f70e241e4c842a3c87cbf30ec56c436b6580463"
+    },
+    {
+      "fileName": "homebox_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "29a45bfdc77fc71df0c5bed1eb5f5f720b430c25430a4dddf160ae113559dca2"
+    },
+    {
+      "fileName": "homebox_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f8ccfeaa81aa0da17c4d68d988132234201c6218729bab01aa18eccb40efb2e3"
+    }
+  ]
+}

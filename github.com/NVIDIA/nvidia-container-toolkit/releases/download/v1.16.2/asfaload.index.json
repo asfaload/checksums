@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"release-v1.16.2-stable/nvidia-container-toolkit_1.16.2_deb_amd64.tar.gz","algo":"Sha256","source":"nvidia-container-toolkit_1.16.2_checksums.txt","hash":"9fb2cfb59d34dc816609ac95fb211fd534a665d9081859b5b673564df69fd92f"},{"fileName":"release-v1.16.2-stable/nvidia-container-toolkit_1.16.2_deb_arm64.tar.gz","algo":"Sha256","source":"nvidia-container-toolkit_1.16.2_checksums.txt","hash":"ba9d90c435832e7a4da8696d20856a2114b78bdd1b627803932c34debe6b0a08"},{"fileName":"release-v1.16.2-stable/nvidia-container-toolkit_1.16.2_rpm_aarch64.tar.gz","algo":"Sha256","source":"nvidia-container-toolkit_1.16.2_checksums.txt","hash":"7b9923503e39b6b999fb0ddeced47bde78899c0ae60d944358522565869b92d1"},{"fileName":"release-v1.16.2-stable/nvidia-container-toolkit_1.16.2_rpm_x86_64.tar.gz","algo":"Sha256","source":"nvidia-container-toolkit_1.16.2_checksums.txt","hash":"4698570ac0c1939107c254ce46c4946972d50967c7548f322084e4fad5900192"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "release-v1.16.2-stable/nvidia-container-toolkit_1.16.2_deb_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "nvidia-container-toolkit_1.16.2_checksums.txt",
+      "hash": "9fb2cfb59d34dc816609ac95fb211fd534a665d9081859b5b673564df69fd92f"
+    },
+    {
+      "fileName": "release-v1.16.2-stable/nvidia-container-toolkit_1.16.2_deb_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "nvidia-container-toolkit_1.16.2_checksums.txt",
+      "hash": "ba9d90c435832e7a4da8696d20856a2114b78bdd1b627803932c34debe6b0a08"
+    },
+    {
+      "fileName": "release-v1.16.2-stable/nvidia-container-toolkit_1.16.2_rpm_aarch64.tar.gz",
+      "algo": "Sha256",
+      "source": "nvidia-container-toolkit_1.16.2_checksums.txt",
+      "hash": "7b9923503e39b6b999fb0ddeced47bde78899c0ae60d944358522565869b92d1"
+    },
+    {
+      "fileName": "release-v1.16.2-stable/nvidia-container-toolkit_1.16.2_rpm_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "nvidia-container-toolkit_1.16.2_checksums.txt",
+      "hash": "4698570ac0c1939107c254ce46c4946972d50967c7548f322084e4fad5900192"
+    }
+  ]
+}

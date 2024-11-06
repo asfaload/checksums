@@ -1,1 +1,127 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"interactsh-client_1.2.2_linux_386.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"baf9116f80fc8ac0aec307c0847bb185498b98218bc791e22a2677b1641f37f7"},{"fileName":"interactsh-client_1.2.2_linux_amd64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"0f07f169535da6d24987df788d0fd0a7fc081206b1c52f58067b538ddfbe0b91"},{"fileName":"interactsh-client_1.2.2_linux_arm.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"738d7da970bdcb7abc4bc329802794ca861263612f1dc43bdbabeb84f46a4e35"},{"fileName":"interactsh-client_1.2.2_linux_arm64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"5a1727114799a9505d929f8d21b2823abdea1df643f15827dc33d81c7ce40e70"},{"fileName":"interactsh-client_1.2.2_macOS_amd64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"0dba8db0b47bb9378f309deb6dcc96d1833551b3f088b3301cb58cb4984eae81"},{"fileName":"interactsh-client_1.2.2_macOS_arm64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"d33147ce306043f2e5f690dfbde41c7c600f961722fa7fc7a7b1965d933b5605"},{"fileName":"interactsh-client_1.2.2_windows_386.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"6c41078a199d1f4ccefb28dd3965da93c841fb943feb3710f01fd1708ebd5bba"},{"fileName":"interactsh-client_1.2.2_windows_amd64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"d3e4afed65a9c2dcb4cfd60bd067ac9ca7f15885c27cf8337b0e1ec46205ba31"},{"fileName":"interactsh-client_1.2.2_windows_arm.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"06d35df63bf7e0282255728cda22e32e718433ad427c783fd524ec668e706af1"},{"fileName":"interactsh-client_1.2.2_windows_arm64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"1481450ac5b36cb074cf15dfc1650564e1aba2a9e58dadbb8569a250bc878caf"},{"fileName":"interactsh-server_1.2.2_linux_386.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"a010603fc9dda9da45a7939e275c93a5665aa0b24d468d21932066b379dc2974"},{"fileName":"interactsh-server_1.2.2_linux_amd64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"c51bc0f77207d70b64307af6b24a60760cfa377c732343b991ac33cb18727a3d"},{"fileName":"interactsh-server_1.2.2_linux_arm.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"08f2f75a168e245ba1cb757ee7234275c4b0733cc6ed9f60bebefbd794b7f307"},{"fileName":"interactsh-server_1.2.2_linux_arm64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"1f4c88d71aa5ce6af454db3eee0e90c35787dd99421bb42eb1acebb1f574017a"},{"fileName":"interactsh-server_1.2.2_macOS_amd64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"37cb91314267316e5c3cb179616b871294fd9423da9c0ac77ef33be2dd07615f"},{"fileName":"interactsh-server_1.2.2_macOS_arm64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"3c08dba85b55c9bd21c0ce93b91fa30efdd85741b4d5f77ca7f3b84223d32bd2"},{"fileName":"interactsh-server_1.2.2_windows_386.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"709e04f2da4d6313d4d5e698197f2c838e31aba0aa0cb8af41c8e6c0a5916b43"},{"fileName":"interactsh-server_1.2.2_windows_amd64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"2be16735dbab22329a3c5ba7e12b89921d63e43c2273d94e2e65026bf6a807f9"},{"fileName":"interactsh-server_1.2.2_windows_arm.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"0fbedc52610add2b1de6cdfc8a7887cf209e13ec53a5be816d0164c6bf7047b7"},{"fileName":"interactsh-server_1.2.2_windows_arm64.zip","algo":"Sha256","source":"interactsh_1.2.2_checksums.txt","hash":"0b522cb60cc4f62c510da4d231a33df9a47ee22c6c731a58896b7291336c2df7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "interactsh-client_1.2.2_linux_386.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "baf9116f80fc8ac0aec307c0847bb185498b98218bc791e22a2677b1641f37f7"
+    },
+    {
+      "fileName": "interactsh-client_1.2.2_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "0f07f169535da6d24987df788d0fd0a7fc081206b1c52f58067b538ddfbe0b91"
+    },
+    {
+      "fileName": "interactsh-client_1.2.2_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "738d7da970bdcb7abc4bc329802794ca861263612f1dc43bdbabeb84f46a4e35"
+    },
+    {
+      "fileName": "interactsh-client_1.2.2_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "5a1727114799a9505d929f8d21b2823abdea1df643f15827dc33d81c7ce40e70"
+    },
+    {
+      "fileName": "interactsh-client_1.2.2_macOS_amd64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "0dba8db0b47bb9378f309deb6dcc96d1833551b3f088b3301cb58cb4984eae81"
+    },
+    {
+      "fileName": "interactsh-client_1.2.2_macOS_arm64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "d33147ce306043f2e5f690dfbde41c7c600f961722fa7fc7a7b1965d933b5605"
+    },
+    {
+      "fileName": "interactsh-client_1.2.2_windows_386.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "6c41078a199d1f4ccefb28dd3965da93c841fb943feb3710f01fd1708ebd5bba"
+    },
+    {
+      "fileName": "interactsh-client_1.2.2_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "d3e4afed65a9c2dcb4cfd60bd067ac9ca7f15885c27cf8337b0e1ec46205ba31"
+    },
+    {
+      "fileName": "interactsh-client_1.2.2_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "06d35df63bf7e0282255728cda22e32e718433ad427c783fd524ec668e706af1"
+    },
+    {
+      "fileName": "interactsh-client_1.2.2_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "1481450ac5b36cb074cf15dfc1650564e1aba2a9e58dadbb8569a250bc878caf"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_linux_386.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "a010603fc9dda9da45a7939e275c93a5665aa0b24d468d21932066b379dc2974"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "c51bc0f77207d70b64307af6b24a60760cfa377c732343b991ac33cb18727a3d"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "08f2f75a168e245ba1cb757ee7234275c4b0733cc6ed9f60bebefbd794b7f307"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "1f4c88d71aa5ce6af454db3eee0e90c35787dd99421bb42eb1acebb1f574017a"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_macOS_amd64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "37cb91314267316e5c3cb179616b871294fd9423da9c0ac77ef33be2dd07615f"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_macOS_arm64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "3c08dba85b55c9bd21c0ce93b91fa30efdd85741b4d5f77ca7f3b84223d32bd2"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_windows_386.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "709e04f2da4d6313d4d5e698197f2c838e31aba0aa0cb8af41c8e6c0a5916b43"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "2be16735dbab22329a3c5ba7e12b89921d63e43c2273d94e2e65026bf6a807f9"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "0fbedc52610add2b1de6cdfc8a7887cf209e13ec53a5be816d0164c6bf7047b7"
+    },
+    {
+      "fileName": "interactsh-server_1.2.2_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "interactsh_1.2.2_checksums.txt",
+      "hash": "0b522cb60cc4f62c510da4d231a33df9a47ee22c6c731a58896b7291336c2df7"
+    }
+  ]
+}

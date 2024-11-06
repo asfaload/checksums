@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-archive-v0.2.2-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-archive_0.2.2_checksums.txt","hash":"d2f28afd3c306131103cebf27fa656db756ba0e6"},{"fileName":"./pulumi-resource-archive-v0.2.2-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-archive_0.2.2_checksums.txt","hash":"70f7ac3e10a662bdf2ca51b701e08e9dd4c96c86"},{"fileName":"./pulumi-resource-archive-v0.2.2-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-archive_0.2.2_checksums.txt","hash":"c777bb4409b31f997a0e8f8d0452e72fcc75ebbf"},{"fileName":"./pulumi-resource-archive-v0.2.2-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-archive_0.2.2_checksums.txt","hash":"a1b2880e8e09d4d4c64c1c643d1c7301748e965f"},{"fileName":"./pulumi-resource-archive-v0.2.2-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-archive_0.2.2_checksums.txt","hash":"ebf817a66d9bb6dfe564c7d59f856d51b9795414"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-archive-v0.2.2-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-archive_0.2.2_checksums.txt",
+      "hash": "d2f28afd3c306131103cebf27fa656db756ba0e6"
+    },
+    {
+      "fileName": "./pulumi-resource-archive-v0.2.2-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-archive_0.2.2_checksums.txt",
+      "hash": "70f7ac3e10a662bdf2ca51b701e08e9dd4c96c86"
+    },
+    {
+      "fileName": "./pulumi-resource-archive-v0.2.2-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-archive_0.2.2_checksums.txt",
+      "hash": "c777bb4409b31f997a0e8f8d0452e72fcc75ebbf"
+    },
+    {
+      "fileName": "./pulumi-resource-archive-v0.2.2-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-archive_0.2.2_checksums.txt",
+      "hash": "a1b2880e8e09d4d4c64c1c643d1c7301748e965f"
+    },
+    {
+      "fileName": "./pulumi-resource-archive-v0.2.2-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-archive_0.2.2_checksums.txt",
+      "hash": "ebf817a66d9bb6dfe564c7d59f856d51b9795414"
+    }
+  ]
+}

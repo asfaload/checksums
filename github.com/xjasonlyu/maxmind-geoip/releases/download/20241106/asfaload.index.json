@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-06T02:23:13+00:00","publishedOn":"2024-11-06T02:24:53.6062197+00:00","version":1,"publishedFiles":[{"fileName":"City.mmdb","algo":"Sha256","source":"City.mmdb.sha256","hash":"efcfeaca7012bb1c186a4cf754b9c23cf2aa315755dad55a8259862ceee38b13"},{"fileName":"ASN.mmdb","algo":"Sha256","source":"ASN.mmdb.sha256","hash":"ff8fc21bd93e90209867ab881d036133dfd73396a2d37340f186d3b76f8217ec"},{"fileName":"Country.mmdb","algo":"Sha256","source":"Country.mmdb.sha256","hash":"d79eb51da8e06401a91a98d0eb828c28d2eb648e321a2eb2f0a0df0fbd878a0b"}]}
+{
+  "mirroredOn": "2024-11-06T02:24:53.6062197+00:00",
+  "publishedOn": "2024-11-06T02:23:13+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "City.mmdb",
+      "algo": "Sha256",
+      "source": "City.mmdb.sha256",
+      "hash": "efcfeaca7012bb1c186a4cf754b9c23cf2aa315755dad55a8259862ceee38b13"
+    },
+    {
+      "fileName": "ASN.mmdb",
+      "algo": "Sha256",
+      "source": "ASN.mmdb.sha256",
+      "hash": "ff8fc21bd93e90209867ab881d036133dfd73396a2d37340f186d3b76f8217ec"
+    },
+    {
+      "fileName": "Country.mmdb",
+      "algo": "Sha256",
+      "source": "Country.mmdb.sha256",
+      "hash": "d79eb51da8e06401a91a98d0eb828c28d2eb648e321a2eb2f0a0df0fbd878a0b"
+    }
+  ]
+}

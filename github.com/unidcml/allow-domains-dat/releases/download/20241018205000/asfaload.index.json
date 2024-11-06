@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./publish/subnets.dat","algo":"Sha256","source":"subnets.dat.sha256sum","hash":"170a3a6bfa233705e14d41239b1720192ceb49b1332c744de5832bf307d38cf9"},{"fileName":"./publish/allow-domains.dat","algo":"Sha256","source":"allow-domains.dat.sha256sum","hash":"842f257c356ba1bc5b488ec9d876a2c7adf8fcd959d31549e5ea371bca36f23f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./publish/subnets.dat",
+      "algo": "Sha256",
+      "source": "subnets.dat.sha256sum",
+      "hash": "170a3a6bfa233705e14d41239b1720192ceb49b1332c744de5832bf307d38cf9"
+    },
+    {
+      "fileName": "./publish/allow-domains.dat",
+      "algo": "Sha256",
+      "source": "allow-domains.dat.sha256sum",
+      "hash": "842f257c356ba1bc5b488ec9d876a2c7adf8fcd959d31549e5ea371bca36f23f"
+    }
+  ]
+}

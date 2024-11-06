@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"c2w-net-proxy.wasm","algo":"Sha256","source":"SHA256SUMS","hash":"104bf2a99cb2b0a8afd32bd486f8daf382735606569fff76bfc8f88f5d547730"},{"fileName":"container2wasm-v0.6.5-linux-amd64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"52cc383eff321f9738126b1b3b32d0da4dacc0f869aff44897ac87ed6a2991f9"},{"fileName":"container2wasm-v0.6.5-linux-arm64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"ee0c8ad264f5a963daf801023336b465b2ce05b8374916b441e746847db4c1f8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "c2w-net-proxy.wasm",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "104bf2a99cb2b0a8afd32bd486f8daf382735606569fff76bfc8f88f5d547730"
+    },
+    {
+      "fileName": "container2wasm-v0.6.5-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "52cc383eff321f9738126b1b3b32d0da4dacc0f869aff44897ac87ed6a2991f9"
+    },
+    {
+      "fileName": "container2wasm-v0.6.5-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ee0c8ad264f5a963daf801023336b465b2ce05b8374916b441e746847db4c1f8"
+    }
+  ]
+}

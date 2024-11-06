@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tinshop-ng_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8077ef5eb472af45a1e63184f69b0de6767a751a4076211f1b83cb8431defe7f"},{"fileName":"tinshop-ng_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d0068c431501f24e448e32cd20557d01cadedc0cead33f3e11814016ea74e0e4"},{"fileName":"tinshop-ng_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d0e5bd6137e23faab344fe1b311a4a0fe85bf41ae59c09d0511ee8b536bbbde1"},{"fileName":"tinshop-ng_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"82f1c524e1d586ade44c7b4b7c5607d64eaa6a624d3cde0ef6f4411c7ad10b24"},{"fileName":"tinshop-ng_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bb19445d0e0ecba9b17811a21e160623ed933d15a8ce247c939a496fee7fba05"},{"fileName":"tinshop-ng_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"267bcd1b4bef3ac1d7dd4e2aa631bf134e148ddd98367a9c883b08e0463a81ab"},{"fileName":"tinshop-ng_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ac799562e74c150fe5451eba412c03047c6c8e4ddc0a5ba8df7ee500aef2c669"},{"fileName":"tinshop-ng_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"93a1e701fe48a5810e4c0a46f4e3fa4cfc49dcae73613a45025f41e3df9f647b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tinshop-ng_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8077ef5eb472af45a1e63184f69b0de6767a751a4076211f1b83cb8431defe7f"
+    },
+    {
+      "fileName": "tinshop-ng_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d0068c431501f24e448e32cd20557d01cadedc0cead33f3e11814016ea74e0e4"
+    },
+    {
+      "fileName": "tinshop-ng_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d0e5bd6137e23faab344fe1b311a4a0fe85bf41ae59c09d0511ee8b536bbbde1"
+    },
+    {
+      "fileName": "tinshop-ng_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "82f1c524e1d586ade44c7b4b7c5607d64eaa6a624d3cde0ef6f4411c7ad10b24"
+    },
+    {
+      "fileName": "tinshop-ng_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bb19445d0e0ecba9b17811a21e160623ed933d15a8ce247c939a496fee7fba05"
+    },
+    {
+      "fileName": "tinshop-ng_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "267bcd1b4bef3ac1d7dd4e2aa631bf134e148ddd98367a9c883b08e0463a81ab"
+    },
+    {
+      "fileName": "tinshop-ng_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ac799562e74c150fe5451eba412c03047c6c8e4ddc0a5ba8df7ee500aef2c669"
+    },
+    {
+      "fileName": "tinshop-ng_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "93a1e701fe48a5810e4c0a46f4e3fa4cfc49dcae73613a45025f41e3df9f647b"
+    }
+  ]
+}

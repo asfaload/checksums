@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cilium-darwin-amd64.tar.gz","algo":"Sha256","source":"cilium-darwin-amd64.tar.gz.sha256sum","hash":"c0734578602f6bf2e9e8885d267ce43314107874de36efe0c8f4b6bd67182228"},{"fileName":"cilium-linux-arm64.tar.gz","algo":"Sha256","source":"cilium-linux-arm64.tar.gz.sha256sum","hash":"4a7a401d671054efb98dc9a8028aea82d66bed0bfc86ff008d823d1200d20030"},{"fileName":"cilium-darwin-arm64.tar.gz","algo":"Sha256","source":"cilium-darwin-arm64.tar.gz.sha256sum","hash":"219fcdb16860bd561084bee0affb3a04793d5b3cff8fde159bd995c48fb2b520"},{"fileName":"cilium-linux-amd64.tar.gz","algo":"Sha256","source":"cilium-linux-amd64.tar.gz.sha256sum","hash":"211c994c9cabe1cb194f308510b78d8498681ee88771fd7c503e259e74eeb541"},{"fileName":"cilium-windows-arm64.zip","algo":"Sha256","source":"cilium-windows-arm64.zip.sha256sum","hash":"9be805416b2652e8be898a6ddb22614caa080cc7f7bcd12039bfdf9a1d3753a6"},{"fileName":"cilium-windows-amd64.zip","algo":"Sha256","source":"cilium-windows-amd64.zip.sha256sum","hash":"f76a07f38e1ce23af263ea993a84df89ec92c669bafe43a36ef736f3f9b28638"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cilium-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cilium-darwin-amd64.tar.gz.sha256sum",
+      "hash": "c0734578602f6bf2e9e8885d267ce43314107874de36efe0c8f4b6bd67182228"
+    },
+    {
+      "fileName": "cilium-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cilium-linux-arm64.tar.gz.sha256sum",
+      "hash": "4a7a401d671054efb98dc9a8028aea82d66bed0bfc86ff008d823d1200d20030"
+    },
+    {
+      "fileName": "cilium-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cilium-darwin-arm64.tar.gz.sha256sum",
+      "hash": "219fcdb16860bd561084bee0affb3a04793d5b3cff8fde159bd995c48fb2b520"
+    },
+    {
+      "fileName": "cilium-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cilium-linux-amd64.tar.gz.sha256sum",
+      "hash": "211c994c9cabe1cb194f308510b78d8498681ee88771fd7c503e259e74eeb541"
+    },
+    {
+      "fileName": "cilium-windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "cilium-windows-arm64.zip.sha256sum",
+      "hash": "9be805416b2652e8be898a6ddb22614caa080cc7f7bcd12039bfdf9a1d3753a6"
+    },
+    {
+      "fileName": "cilium-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "cilium-windows-amd64.zip.sha256sum",
+      "hash": "f76a07f38e1ce23af263ea993a84df89ec92c669bafe43a36ef736f3f9b28638"
+    }
+  ]
+}

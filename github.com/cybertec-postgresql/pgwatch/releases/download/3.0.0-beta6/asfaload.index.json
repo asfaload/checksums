@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pgwatch_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"45450965bacbdb849cf44724fbc57d76edd1e8e98484e4082b7e8c661090d748"},{"fileName":"pgwatch_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d9aa321a36363133fe47ee794b539b3834192fd286a9b7cc911a8e02625e9580"},{"fileName":"pgwatch_Linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"6578e045c9e535e37beb7ed3e1045a84e5fd3f9dff120a5f937acf2cee27b343"},{"fileName":"pgwatch_Linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"6542724f05fcf4f7cbdf9897d3936bdc9ec258ad6725e6d9e4dd9008fccb7ffb"},{"fileName":"pgwatch_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9c97d145dd3045701ad45c2634c45dc27193acba3abf3fc93e843003d79b60d7"},{"fileName":"pgwatch_Linux_x86_64.deb","algo":"Sha256","source":"checksums.txt","hash":"08a3a63dc869bc0b7f2990f76b1496f1c754fb77f9b40a2b0e7474c0e3caec44"},{"fileName":"pgwatch_Linux_x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"d500dff0cf2276368bba648742449b85e207ab95bec951f4ff21752b62ec4798"},{"fileName":"pgwatch_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8eb851f1a24c43531edd062dea8253bd45b55448ef27361e0d3c1a068777dd28"},{"fileName":"pgwatch_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"e8b2558ae10b8e78514c9a490c33f6b84f15a790a1ab463634a6748c01798b8d"},{"fileName":"pgwatch_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"73bfd98f8308ab81e90167ab08d23e924b893f07a20cb048b49b36cec0034f9a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pgwatch_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "45450965bacbdb849cf44724fbc57d76edd1e8e98484e4082b7e8c661090d748"
+    },
+    {
+      "fileName": "pgwatch_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d9aa321a36363133fe47ee794b539b3834192fd286a9b7cc911a8e02625e9580"
+    },
+    {
+      "fileName": "pgwatch_Linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6578e045c9e535e37beb7ed3e1045a84e5fd3f9dff120a5f937acf2cee27b343"
+    },
+    {
+      "fileName": "pgwatch_Linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6542724f05fcf4f7cbdf9897d3936bdc9ec258ad6725e6d9e4dd9008fccb7ffb"
+    },
+    {
+      "fileName": "pgwatch_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9c97d145dd3045701ad45c2634c45dc27193acba3abf3fc93e843003d79b60d7"
+    },
+    {
+      "fileName": "pgwatch_Linux_x86_64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "08a3a63dc869bc0b7f2990f76b1496f1c754fb77f9b40a2b0e7474c0e3caec44"
+    },
+    {
+      "fileName": "pgwatch_Linux_x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d500dff0cf2276368bba648742449b85e207ab95bec951f4ff21752b62ec4798"
+    },
+    {
+      "fileName": "pgwatch_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8eb851f1a24c43531edd062dea8253bd45b55448ef27361e0d3c1a068777dd28"
+    },
+    {
+      "fileName": "pgwatch_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e8b2558ae10b8e78514c9a490c33f6b84f15a790a1ab463634a6748c01798b8d"
+    },
+    {
+      "fileName": "pgwatch_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "73bfd98f8308ab81e90167ab08d23e924b893f07a20cb048b49b36cec0034f9a"
+    }
+  ]
+}

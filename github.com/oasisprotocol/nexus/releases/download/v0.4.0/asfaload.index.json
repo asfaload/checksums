@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"oasis_nexus_0.4.0_linux_amd64.tar.gz","algo":"Sha256","source":"SHA256SUMS-0.4.0.txt","hash":"d61a686a03f9bc4d5e8c38b1cf762c9aad983914f0651a265999e9a9de53fa45"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "oasis_nexus_0.4.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS-0.4.0.txt",
+      "hash": "d61a686a03f9bc4d5e8c38b1cf762c9aad983914f0651a265999e9a9de53fa45"
+    }
+  ]
+}

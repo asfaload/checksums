@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"check_elasticsearch_v0.5.2_Darwin_x86_64","algo":"Sha256","source":"checksums.txt","hash":"4ef36dbfbf59d0ca24fe15f8621e7e8779e301ab7a0a6760df631e4029cb8ef4"},{"fileName":"check_elasticsearch_v0.5.2_Linux_x86_64","algo":"Sha256","source":"checksums.txt","hash":"a5bb5d046f0ccd18c56f91e20a93adb8bca4558aab0a14d84992a118cb44b124"},{"fileName":"check_elasticsearch_v0.5.2_Windows_x86_64.exe","algo":"Sha256","source":"checksums.txt","hash":"1a27263bb8dd4eeab103c2ff0878b00bde74a7232cf3fa9d07f8bfbe510adcdc"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "check_elasticsearch_v0.5.2_Darwin_x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4ef36dbfbf59d0ca24fe15f8621e7e8779e301ab7a0a6760df631e4029cb8ef4"
+    },
+    {
+      "fileName": "check_elasticsearch_v0.5.2_Linux_x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a5bb5d046f0ccd18c56f91e20a93adb8bca4558aab0a14d84992a118cb44b124"
+    },
+    {
+      "fileName": "check_elasticsearch_v0.5.2_Windows_x86_64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1a27263bb8dd4eeab103c2ff0878b00bde74a7232cf3fa9d07f8bfbe510adcdc"
+    }
+  ]
+}

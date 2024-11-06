@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"Kuzco_0.8.0_386.deb","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"64419ae633f8844b36b998cfb519a91d39fca9e5afe8a621532118c11809129e"},{"fileName":"Kuzco_0.8.0_amd64.deb","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"e84dd97d72f620a6b2461beeb4174dff536fd82cbbd7249aef5a935210b7bece"},{"fileName":"Kuzco_0.8.0_arm64.deb","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"52e6ae482a930941d3576df2bdd677df1ab35e384552a70d9c4179544706eef4"},{"fileName":"Kuzco_Darwin_arm64.tar.gz","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"e07a7f8e6d7f29fb123b266dc8f26bfaa7c533944a96ba9890664bdb94847aa6"},{"fileName":"Kuzco_Darwin_x86_64.tar.gz","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"24ee0a54a07aa5e5208cd30f3b73aa9936f444f66479028810270729a68f2a39"},{"fileName":"Kuzco_Linux_arm64.tar.gz","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"120ff4850d139fe2be99f99027209801ef7954e38a821be03d2944f563e30cba"},{"fileName":"Kuzco_Linux_i386.tar.gz","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"c6136104e14c39d3a0303e905a1a0f68a35bf8261e260551c1651eb1b7adcdfa"},{"fileName":"Kuzco_Linux_x86_64.tar.gz","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"56f8b702ce3dd39825402a76777855f5c3e7db040399f12b5c76ec2ec785b3d9"},{"fileName":"Kuzco_Windows_arm64.zip","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"67df7496dc04e9ccbf1057b5f5c6bb22f3a301d49e4cfd0019a2cd91f9354c5b"},{"fileName":"Kuzco_Windows_i386.zip","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"01f931f19785407601a16a3c7e369ccca81c8985fc6a115f8775956276019508"},{"fileName":"Kuzco_Windows_x86_64.zip","algo":"Sha256","source":"Kuzco_0.8.0_checksums.txt","hash":"7f6ea01982e3c528622bb3bc79f4873418afe3ef335bad3b5578fdb6d63492e8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "Kuzco_0.8.0_386.deb",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "64419ae633f8844b36b998cfb519a91d39fca9e5afe8a621532118c11809129e"
+    },
+    {
+      "fileName": "Kuzco_0.8.0_amd64.deb",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "e84dd97d72f620a6b2461beeb4174dff536fd82cbbd7249aef5a935210b7bece"
+    },
+    {
+      "fileName": "Kuzco_0.8.0_arm64.deb",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "52e6ae482a930941d3576df2bdd677df1ab35e384552a70d9c4179544706eef4"
+    },
+    {
+      "fileName": "Kuzco_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "e07a7f8e6d7f29fb123b266dc8f26bfaa7c533944a96ba9890664bdb94847aa6"
+    },
+    {
+      "fileName": "Kuzco_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "24ee0a54a07aa5e5208cd30f3b73aa9936f444f66479028810270729a68f2a39"
+    },
+    {
+      "fileName": "Kuzco_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "120ff4850d139fe2be99f99027209801ef7954e38a821be03d2944f563e30cba"
+    },
+    {
+      "fileName": "Kuzco_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "c6136104e14c39d3a0303e905a1a0f68a35bf8261e260551c1651eb1b7adcdfa"
+    },
+    {
+      "fileName": "Kuzco_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "56f8b702ce3dd39825402a76777855f5c3e7db040399f12b5c76ec2ec785b3d9"
+    },
+    {
+      "fileName": "Kuzco_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "67df7496dc04e9ccbf1057b5f5c6bb22f3a301d49e4cfd0019a2cd91f9354c5b"
+    },
+    {
+      "fileName": "Kuzco_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "01f931f19785407601a16a3c7e369ccca81c8985fc6a115f8775956276019508"
+    },
+    {
+      "fileName": "Kuzco_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "Kuzco_0.8.0_checksums.txt",
+      "hash": "7f6ea01982e3c528622bb3bc79f4873418afe3ef335bad3b5578fdb6d63492e8"
+    }
+  ]
+}

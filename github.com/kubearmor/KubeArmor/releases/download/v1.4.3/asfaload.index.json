@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubearmor_1.4.3_linux-amd64.deb","algo":"Sha256","source":"kubearmor_1.4.3_checksums.txt","hash":"ab8bd60f6d69d1f867cadb0a61f469ecd93cdc6895a9f71b5a313ab33d298cc0"},{"fileName":"kubearmor_1.4.3_linux-amd64.rpm","algo":"Sha256","source":"kubearmor_1.4.3_checksums.txt","hash":"a6a88b97f3426dd3e2e47c1aff747d96ba15fe1767fb4afb5da6f16dcbd0a05c"},{"fileName":"kubearmor_1.4.3_linux-amd64.tar.gz","algo":"Sha256","source":"kubearmor_1.4.3_checksums.txt","hash":"8f267d4f24efc5ff97daf33a71f854175ecf6bc29d2eba1cfd884f565aca2aec"},{"fileName":"kubearmor_1.4.3_linux-arm64.deb","algo":"Sha256","source":"kubearmor_1.4.3_checksums.txt","hash":"0767f497d4023b5ac10459f6f03c6aa7728c836426da19dea33d84967f410a7d"},{"fileName":"kubearmor_1.4.3_linux-arm64.rpm","algo":"Sha256","source":"kubearmor_1.4.3_checksums.txt","hash":"84148cce4f2181e9596960bc2a9300d4ef36769f49197912643ea64b2aabb1ec"},{"fileName":"kubearmor_1.4.3_linux-arm64.tar.gz","algo":"Sha256","source":"kubearmor_1.4.3_checksums.txt","hash":"04552c745c4409be2640be8d67fc3c941ad0c674f566729d6b5adcb912c68817"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubearmor_1.4.3_linux-amd64.deb",
+      "algo": "Sha256",
+      "source": "kubearmor_1.4.3_checksums.txt",
+      "hash": "ab8bd60f6d69d1f867cadb0a61f469ecd93cdc6895a9f71b5a313ab33d298cc0"
+    },
+    {
+      "fileName": "kubearmor_1.4.3_linux-amd64.rpm",
+      "algo": "Sha256",
+      "source": "kubearmor_1.4.3_checksums.txt",
+      "hash": "a6a88b97f3426dd3e2e47c1aff747d96ba15fe1767fb4afb5da6f16dcbd0a05c"
+    },
+    {
+      "fileName": "kubearmor_1.4.3_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubearmor_1.4.3_checksums.txt",
+      "hash": "8f267d4f24efc5ff97daf33a71f854175ecf6bc29d2eba1cfd884f565aca2aec"
+    },
+    {
+      "fileName": "kubearmor_1.4.3_linux-arm64.deb",
+      "algo": "Sha256",
+      "source": "kubearmor_1.4.3_checksums.txt",
+      "hash": "0767f497d4023b5ac10459f6f03c6aa7728c836426da19dea33d84967f410a7d"
+    },
+    {
+      "fileName": "kubearmor_1.4.3_linux-arm64.rpm",
+      "algo": "Sha256",
+      "source": "kubearmor_1.4.3_checksums.txt",
+      "hash": "84148cce4f2181e9596960bc2a9300d4ef36769f49197912643ea64b2aabb1ec"
+    },
+    {
+      "fileName": "kubearmor_1.4.3_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubearmor_1.4.3_checksums.txt",
+      "hash": "04552c745c4409be2640be8d67fc3c941ad0c674f566729d6b5adcb912c68817"
+    }
+  ]
+}

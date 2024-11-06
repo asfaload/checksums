@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410270259/lede-202410270259-tl-wr941n-v7.bin","algo":"Sha256","source":"lede-202410270259-tl-wr941n-v7.bin.sha256sum","hash":"5a3137d6a4ddb81d6843e392a25eefaa8d483d83500ff9913089f436a3a4165f"},{"fileName":"/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410270259/lede-202410270259-tl-wr841-v9.bin","algo":"Sha256","source":"lede-202410270259-tl-wr841-v9.bin.sha256sum","hash":"728a54a3119bceb96be5a6eddd2eb18c072f32c0712e1f038ef7fc944d8c5614"},{"fileName":"/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410270259/lede-202410270259-tl-wr941nd-v6-cn.bin","algo":"Sha256","source":"lede-202410270259-tl-wr941nd-v6-cn.bin.sha256sum","hash":"9bf6245324ef0b7323c9dc2f9795d965bb425a54e95b443e3fd042a517a6d83a"},{"fileName":"/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410270259/lede-202410270259-tl-wr885n-v1.bin","algo":"Sha256","source":"lede-202410270259-tl-wr885n-v1.bin.sha256sum","hash":"97fbfe0d466bf7c2ffb30447223812921814fb241630ab045da338503dd196f7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410270259/lede-202410270259-tl-wr941n-v7.bin",
+      "algo": "Sha256",
+      "source": "lede-202410270259-tl-wr941n-v7.bin.sha256sum",
+      "hash": "5a3137d6a4ddb81d6843e392a25eefaa8d483d83500ff9913089f436a3a4165f"
+    },
+    {
+      "fileName": "/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410270259/lede-202410270259-tl-wr841-v9.bin",
+      "algo": "Sha256",
+      "source": "lede-202410270259-tl-wr841-v9.bin.sha256sum",
+      "hash": "728a54a3119bceb96be5a6eddd2eb18c072f32c0712e1f038ef7fc944d8c5614"
+    },
+    {
+      "fileName": "/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410270259/lede-202410270259-tl-wr941nd-v6-cn.bin",
+      "algo": "Sha256",
+      "source": "lede-202410270259-tl-wr941nd-v6-cn.bin.sha256sum",
+      "hash": "9bf6245324ef0b7323c9dc2f9795d965bb425a54e95b443e3fd042a517a6d83a"
+    },
+    {
+      "fileName": "/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410270259/lede-202410270259-tl-wr885n-v1.bin",
+      "algo": "Sha256",
+      "source": "lede-202410270259-tl-wr885n-v1.bin.sha256sum",
+      "hash": "97fbfe0d466bf7c2ffb30447223812921814fb241630ab045da338503dd196f7"
+    }
+  ]
+}

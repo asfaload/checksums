@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"webhookx_Darwin_arm64.tar.gz","algo":"Sha256","source":"webhookx_0.2.1_checksums.txt","hash":"e326f16c58113371c1c91b8c946327ad8f58964ff8ba116c72bce8fce7c5ab60"},{"fileName":"webhookx_Darwin_x86_64.tar.gz","algo":"Sha256","source":"webhookx_0.2.1_checksums.txt","hash":"b62784f0bb6e97ef7ff00bea4deec2042be63ccdc786f8bb5a2ad8dbb3419047"},{"fileName":"webhookx_Linux_arm64.tar.gz","algo":"Sha256","source":"webhookx_0.2.1_checksums.txt","hash":"20c695e7bd2f43eacfcce4f5994ad4f6dd203ecb1c518340667cef4ef9a38648"},{"fileName":"webhookx_Linux_i386.tar.gz","algo":"Sha256","source":"webhookx_0.2.1_checksums.txt","hash":"f6ddf4d9c1d811ae13eb4dccc4d4c5db02f541c366858ae62508a0e94b98146d"},{"fileName":"webhookx_Linux_x86_64.tar.gz","algo":"Sha256","source":"webhookx_0.2.1_checksums.txt","hash":"5c99dc03eacb6a370d227c844b1bab8a965bf009f0af9cabc31cfdaac4b006f4"},{"fileName":"webhookx_Windows_arm64.zip","algo":"Sha256","source":"webhookx_0.2.1_checksums.txt","hash":"3ca919596ae20592c1a1dd42361ecc4ee937fa5b8f63ac920c5d21d6c74f5b1c"},{"fileName":"webhookx_Windows_i386.zip","algo":"Sha256","source":"webhookx_0.2.1_checksums.txt","hash":"3cdfd6a2e223c74ae7291dcdddf75d1b49e0d75a436fe7c20351fd00243fccd3"},{"fileName":"webhookx_Windows_x86_64.zip","algo":"Sha256","source":"webhookx_0.2.1_checksums.txt","hash":"554683385bd146c5983ab5cafc85971cc3bfcdf1069b2b1a297b1357129341dd"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "webhookx_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "webhookx_0.2.1_checksums.txt",
+      "hash": "e326f16c58113371c1c91b8c946327ad8f58964ff8ba116c72bce8fce7c5ab60"
+    },
+    {
+      "fileName": "webhookx_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "webhookx_0.2.1_checksums.txt",
+      "hash": "b62784f0bb6e97ef7ff00bea4deec2042be63ccdc786f8bb5a2ad8dbb3419047"
+    },
+    {
+      "fileName": "webhookx_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "webhookx_0.2.1_checksums.txt",
+      "hash": "20c695e7bd2f43eacfcce4f5994ad4f6dd203ecb1c518340667cef4ef9a38648"
+    },
+    {
+      "fileName": "webhookx_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "webhookx_0.2.1_checksums.txt",
+      "hash": "f6ddf4d9c1d811ae13eb4dccc4d4c5db02f541c366858ae62508a0e94b98146d"
+    },
+    {
+      "fileName": "webhookx_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "webhookx_0.2.1_checksums.txt",
+      "hash": "5c99dc03eacb6a370d227c844b1bab8a965bf009f0af9cabc31cfdaac4b006f4"
+    },
+    {
+      "fileName": "webhookx_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "webhookx_0.2.1_checksums.txt",
+      "hash": "3ca919596ae20592c1a1dd42361ecc4ee937fa5b8f63ac920c5d21d6c74f5b1c"
+    },
+    {
+      "fileName": "webhookx_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "webhookx_0.2.1_checksums.txt",
+      "hash": "3cdfd6a2e223c74ae7291dcdddf75d1b49e0d75a436fe7c20351fd00243fccd3"
+    },
+    {
+      "fileName": "webhookx_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "webhookx_0.2.1_checksums.txt",
+      "hash": "554683385bd146c5983ab5cafc85971cc3bfcdf1069b2b1a297b1357129341dd"
+    }
+  ]
+}

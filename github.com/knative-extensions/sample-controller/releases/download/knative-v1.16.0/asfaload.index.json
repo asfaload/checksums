@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sample.yaml","algo":"Sha256","source":"checksums.txt","hash":"13f2cb886ae4986fa508f502538a6e2186ac1cacdfdb5980252fd0ccece12a84"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sample.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "13f2cb886ae4986fa508f502538a6e2186ac1cacdfdb5980252fd0ccece12a84"
+    }
+  ]
+}

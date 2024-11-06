@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"Reloader_v1.1.0_darwin_amd64.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"01678b12c873e71b61f2064f0e86bc1277466024d0ee2bf5756793345ef5a040"},{"fileName":"Reloader_v1.1.0_darwin_arm64.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"51372c6781b053c5bfabe687c30c7bf0e606ece82b047036307dba6fc28e1bd4"},{"fileName":"Reloader_v1.1.0_linux_386.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"7804e4a8c5c02b37b217bd2aa87f15a67bcdb580b88b9919dd554dfab02f6f66"},{"fileName":"Reloader_v1.1.0_linux_amd64.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"9a3ea13f1ac65cec9f736303c2211e160a3fb366057e3db9197eeb4195834aec"},{"fileName":"Reloader_v1.1.0_linux_arm64.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"de7d2130158a776faab31549778ca20530787d9c1eda4e926af13315e12e9001"},{"fileName":"Reloader_v1.1.0_linux_armv6.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"275f88f10f79b6e4f56412e94d424e1e9d43a26576652957ab69dcba9d9bcfa8"},{"fileName":"Reloader_v1.1.0_linux_ppc64le.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"5e2a51bc4893f2b927c798add12a71ccf6dae6ab1eded99e5397fa674a6eb73e"},{"fileName":"Reloader_v1.1.0_windows_386.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"5c66dc8d9438f3157df5a2ce39d4b957c70583087705a87633194c88916d6996"},{"fileName":"Reloader_v1.1.0_windows_amd64.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"ea4bed2cf82b403bfa932cc8cb3a3dfa8a1ec61551ca0aa12b141f191065be6e"},{"fileName":"Reloader_v1.1.0_windows_arm64.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"178ff57aafd7ccc14a7942ad693b7e58f3603075742503d6bbef97c2ee22dc47"},{"fileName":"Reloader_v1.1.0_windows_armv6.tar.gz","algo":"Sha256","source":"Reloader_1.1.0_checksums.txt","hash":"e52004d6ac9c0156a8c99d47b43fbe81b863c233739c5bce2a927b00bb73ca64"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "Reloader_v1.1.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "01678b12c873e71b61f2064f0e86bc1277466024d0ee2bf5756793345ef5a040"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "51372c6781b053c5bfabe687c30c7bf0e606ece82b047036307dba6fc28e1bd4"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "7804e4a8c5c02b37b217bd2aa87f15a67bcdb580b88b9919dd554dfab02f6f66"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "9a3ea13f1ac65cec9f736303c2211e160a3fb366057e3db9197eeb4195834aec"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "de7d2130158a776faab31549778ca20530787d9c1eda4e926af13315e12e9001"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "275f88f10f79b6e4f56412e94d424e1e9d43a26576652957ab69dcba9d9bcfa8"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "5e2a51bc4893f2b927c798add12a71ccf6dae6ab1eded99e5397fa674a6eb73e"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "5c66dc8d9438f3157df5a2ce39d4b957c70583087705a87633194c88916d6996"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "ea4bed2cf82b403bfa932cc8cb3a3dfa8a1ec61551ca0aa12b141f191065be6e"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "178ff57aafd7ccc14a7942ad693b7e58f3603075742503d6bbef97c2ee22dc47"
+    },
+    {
+      "fileName": "Reloader_v1.1.0_windows_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "Reloader_1.1.0_checksums.txt",
+      "hash": "e52004d6ac9c0156a8c99d47b43fbe81b863c233739c5bce2a927b00bb73ca64"
+    }
+  ]
+}

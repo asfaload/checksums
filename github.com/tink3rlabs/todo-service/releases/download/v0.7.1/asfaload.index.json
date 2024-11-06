@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"todo-service_0.7.1_darwin_amd64.tar.gz","algo":"Sha256","source":"todo-service_0.7.1_checksums.txt","hash":"be30b90ba38b2058a4ba4cd2a38538e7cb793c2df58a50497d26dcb2165b3fcd"},{"fileName":"todo-service_0.7.1_darwin_arm64.tar.gz","algo":"Sha256","source":"todo-service_0.7.1_checksums.txt","hash":"ef79757a06e04625958e4dad7061af170138e77af64b6883b0d1b2608d463842"},{"fileName":"todo-service_0.7.1_linux_386.tar.gz","algo":"Sha256","source":"todo-service_0.7.1_checksums.txt","hash":"3e038cc3e5df83f03819e3040d618282c7d82785b5d73fc47dfaf48a325c4e7f"},{"fileName":"todo-service_0.7.1_linux_amd64.tar.gz","algo":"Sha256","source":"todo-service_0.7.1_checksums.txt","hash":"99e3302293e2233e9159e8831aff2af6ec97667aa1af4677873d31f282ed2bf5"},{"fileName":"todo-service_0.7.1_linux_arm64.tar.gz","algo":"Sha256","source":"todo-service_0.7.1_checksums.txt","hash":"d9458c774bd55ce4dcab29f095b9fdce9369f345b8fb097535429848b85f7f9f"},{"fileName":"todo-service_0.7.1_windows_386.tar.gz","algo":"Sha256","source":"todo-service_0.7.1_checksums.txt","hash":"25032e5ffe11e161c77aacae12bc05d31adb577fcc8d01ef79eb714da4ef9614"},{"fileName":"todo-service_0.7.1_windows_amd64.tar.gz","algo":"Sha256","source":"todo-service_0.7.1_checksums.txt","hash":"d2d8432fc1a3e0062dd9eb2b495ef3ef457e0344eeb8fd129b91ad2de0e3c7e4"},{"fileName":"todo-service_0.7.1_windows_arm64.tar.gz","algo":"Sha256","source":"todo-service_0.7.1_checksums.txt","hash":"31d79d1274b0dc3fcdb93b0ef0da22f497a4c490ed3f889671f3575f654475ab"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "todo-service_0.7.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "todo-service_0.7.1_checksums.txt",
+      "hash": "be30b90ba38b2058a4ba4cd2a38538e7cb793c2df58a50497d26dcb2165b3fcd"
+    },
+    {
+      "fileName": "todo-service_0.7.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "todo-service_0.7.1_checksums.txt",
+      "hash": "ef79757a06e04625958e4dad7061af170138e77af64b6883b0d1b2608d463842"
+    },
+    {
+      "fileName": "todo-service_0.7.1_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "todo-service_0.7.1_checksums.txt",
+      "hash": "3e038cc3e5df83f03819e3040d618282c7d82785b5d73fc47dfaf48a325c4e7f"
+    },
+    {
+      "fileName": "todo-service_0.7.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "todo-service_0.7.1_checksums.txt",
+      "hash": "99e3302293e2233e9159e8831aff2af6ec97667aa1af4677873d31f282ed2bf5"
+    },
+    {
+      "fileName": "todo-service_0.7.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "todo-service_0.7.1_checksums.txt",
+      "hash": "d9458c774bd55ce4dcab29f095b9fdce9369f345b8fb097535429848b85f7f9f"
+    },
+    {
+      "fileName": "todo-service_0.7.1_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "todo-service_0.7.1_checksums.txt",
+      "hash": "25032e5ffe11e161c77aacae12bc05d31adb577fcc8d01ef79eb714da4ef9614"
+    },
+    {
+      "fileName": "todo-service_0.7.1_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "todo-service_0.7.1_checksums.txt",
+      "hash": "d2d8432fc1a3e0062dd9eb2b495ef3ef457e0344eeb8fd129b91ad2de0e3c7e4"
+    },
+    {
+      "fileName": "todo-service_0.7.1_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "todo-service_0.7.1_checksums.txt",
+      "hash": "31d79d1274b0dc3fcdb93b0ef0da22f497a4c490ed3f889671f3575f654475ab"
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"talert_0.4.0_darwin_amd64.tar.gz","algo":"Sha256","source":"talert_0.4.0_checksums.txt","hash":"6a34d614519b6d336a4e3a253f514e99dea4d165c4106709454097f4d99bd78a"},{"fileName":"talert_0.4.0_darwin_arm64.tar.gz","algo":"Sha256","source":"talert_0.4.0_checksums.txt","hash":"357347e969fb0d695a41feb14d967d20d7a6954bfc89a274db0c372a8cd6298c"},{"fileName":"talert_0.4.0_linux_amd64.tar.gz","algo":"Sha256","source":"talert_0.4.0_checksums.txt","hash":"90dc5022e58f243bdea012f814f1cceac82310312eac7435ab030766869b6b55"},{"fileName":"talert_0.4.0_linux_arm64.tar.gz","algo":"Sha256","source":"talert_0.4.0_checksums.txt","hash":"79d180b0859bfd77a37aa08ee14e08b99e64a7b23deaf2c1d7642e30008d2990"},{"fileName":"talert_0.4.0_windows_amd64.zip","algo":"Sha256","source":"talert_0.4.0_checksums.txt","hash":"7a792eb926018d9ac577ee22ed07197e672e9a97b91de75458fe5122ea327e42"},{"fileName":"talert_0.4.0_windows_arm64.zip","algo":"Sha256","source":"talert_0.4.0_checksums.txt","hash":"279af3f1391886e01434b4917699b6df02b7d531ea28ececc8975e0cee469c7f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "talert_0.4.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "talert_0.4.0_checksums.txt",
+      "hash": "6a34d614519b6d336a4e3a253f514e99dea4d165c4106709454097f4d99bd78a"
+    },
+    {
+      "fileName": "talert_0.4.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "talert_0.4.0_checksums.txt",
+      "hash": "357347e969fb0d695a41feb14d967d20d7a6954bfc89a274db0c372a8cd6298c"
+    },
+    {
+      "fileName": "talert_0.4.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "talert_0.4.0_checksums.txt",
+      "hash": "90dc5022e58f243bdea012f814f1cceac82310312eac7435ab030766869b6b55"
+    },
+    {
+      "fileName": "talert_0.4.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "talert_0.4.0_checksums.txt",
+      "hash": "79d180b0859bfd77a37aa08ee14e08b99e64a7b23deaf2c1d7642e30008d2990"
+    },
+    {
+      "fileName": "talert_0.4.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "talert_0.4.0_checksums.txt",
+      "hash": "7a792eb926018d9ac577ee22ed07197e672e9a97b91de75458fe5122ea327e42"
+    },
+    {
+      "fileName": "talert_0.4.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "talert_0.4.0_checksums.txt",
+      "hash": "279af3f1391886e01434b4917699b6df02b7d531ea28ececc8975e0cee469c7f"
+    }
+  ]
+}

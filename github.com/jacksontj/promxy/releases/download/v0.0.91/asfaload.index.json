@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"promxy-v0.0.91-darwin-amd64","algo":"Sha256","source":"SHA256SUMS","hash":"fc57babb20036dc6faef73da09d6240f918294ff5294715d172a15103b4cc008"},{"fileName":"promxy-v0.0.91-darwin-arm64","algo":"Sha256","source":"SHA256SUMS","hash":"c9f6cfe33b6a448358f2409772530f3ff7a835e0bf048ae47be2afa8e388e150"},{"fileName":"promxy-v0.0.91-linux-386","algo":"Sha256","source":"SHA256SUMS","hash":"ca0b97b8c5d7c39f4ebc4ad35b0a9a3d29d4d4619cdfaa995c7ee73cc21b7a10"},{"fileName":"promxy-v0.0.91-linux-amd64","algo":"Sha256","source":"SHA256SUMS","hash":"7f4d1373c33aa32234b31f9a9e012d67f624262977683926cb66ab8300c5dd49"},{"fileName":"promxy-v0.0.91-linux-arm","algo":"Sha256","source":"SHA256SUMS","hash":"52296ff6c226f491e5a89cf512ce9904c9bd073e1561be27a27c4866c3edfd68"},{"fileName":"promxy-v0.0.91-linux-arm64","algo":"Sha256","source":"SHA256SUMS","hash":"e83c829926252f4bc6f75afa5c1f7ac26f252b5cacaf961d5dd9a5c4b1ffce0c"},{"fileName":"remote_write_exporter-v0.0.91-darwin-amd64","algo":"Sha256","source":"SHA256SUMS","hash":"08ed269d91be608f3a129663b090e96a31ae797d081c777f40b4f1b6792bd537"},{"fileName":"remote_write_exporter-v0.0.91-darwin-arm64","algo":"Sha256","source":"SHA256SUMS","hash":"6ab53d5b4cd71f89c3e64f43339289c41dca9a57f8f8860a2aeae8558b1dd13e"},{"fileName":"remote_write_exporter-v0.0.91-linux-386","algo":"Sha256","source":"SHA256SUMS","hash":"fc11690425380c0006bed592930858d3102f6aea51dfa899ff5e532f6d513372"},{"fileName":"remote_write_exporter-v0.0.91-linux-amd64","algo":"Sha256","source":"SHA256SUMS","hash":"a9f39ea0f03dfeb5ed03f178f0b02df4184a8e394b25407d93fcd378cd8acdf0"},{"fileName":"remote_write_exporter-v0.0.91-linux-arm","algo":"Sha256","source":"SHA256SUMS","hash":"7f292d0ec05ad4b67a9596d779c600fb7e684c25fdd678975255474b4e7ded4d"},{"fileName":"remote_write_exporter-v0.0.91-linux-arm64","algo":"Sha256","source":"SHA256SUMS","hash":"031b752ffe7c2a44af90c97c5f5b4241d18762c4cd27a6364664c4238269bcf2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "promxy-v0.0.91-darwin-amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "fc57babb20036dc6faef73da09d6240f918294ff5294715d172a15103b4cc008"
+    },
+    {
+      "fileName": "promxy-v0.0.91-darwin-arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "c9f6cfe33b6a448358f2409772530f3ff7a835e0bf048ae47be2afa8e388e150"
+    },
+    {
+      "fileName": "promxy-v0.0.91-linux-386",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ca0b97b8c5d7c39f4ebc4ad35b0a9a3d29d4d4619cdfaa995c7ee73cc21b7a10"
+    },
+    {
+      "fileName": "promxy-v0.0.91-linux-amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "7f4d1373c33aa32234b31f9a9e012d67f624262977683926cb66ab8300c5dd49"
+    },
+    {
+      "fileName": "promxy-v0.0.91-linux-arm",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "52296ff6c226f491e5a89cf512ce9904c9bd073e1561be27a27c4866c3edfd68"
+    },
+    {
+      "fileName": "promxy-v0.0.91-linux-arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "e83c829926252f4bc6f75afa5c1f7ac26f252b5cacaf961d5dd9a5c4b1ffce0c"
+    },
+    {
+      "fileName": "remote_write_exporter-v0.0.91-darwin-amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "08ed269d91be608f3a129663b090e96a31ae797d081c777f40b4f1b6792bd537"
+    },
+    {
+      "fileName": "remote_write_exporter-v0.0.91-darwin-arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "6ab53d5b4cd71f89c3e64f43339289c41dca9a57f8f8860a2aeae8558b1dd13e"
+    },
+    {
+      "fileName": "remote_write_exporter-v0.0.91-linux-386",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "fc11690425380c0006bed592930858d3102f6aea51dfa899ff5e532f6d513372"
+    },
+    {
+      "fileName": "remote_write_exporter-v0.0.91-linux-amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "a9f39ea0f03dfeb5ed03f178f0b02df4184a8e394b25407d93fcd378cd8acdf0"
+    },
+    {
+      "fileName": "remote_write_exporter-v0.0.91-linux-arm",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "7f292d0ec05ad4b67a9596d779c600fb7e684c25fdd678975255474b4e7ded4d"
+    },
+    {
+      "fileName": "remote_write_exporter-v0.0.91-linux-arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "031b752ffe7c2a44af90c97c5f5b4241d18762c4cd27a6364664c4238269bcf2"
+    }
+  ]
+}

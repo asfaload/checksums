@@ -1,1 +1,139 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cnquery_11.28.1_darwin_amd64.tar.gz","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"9b7db5386e273e4c60478f04b4d654787a6d472fd06d87c28b5c2b062552892f"},{"fileName":"cnquery_11.28.1_darwin_arm64.tar.gz","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"cc4269390fd01217ccf6122634e71b658f1645255432104ecd9521eb3f80be15"},{"fileName":"cnquery_11.28.1_linux_386.deb","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"00c81eb0b8553e20125fb939dfd85d6d13084ef6117143626272c24b93e24bd2"},{"fileName":"cnquery_11.28.1_linux_386.rpm","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"3fa39731ddad70304bb88627dbe1157393a8c424dd4122acf68509bb61d3153a"},{"fileName":"cnquery_11.28.1_linux_386.tar.gz","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"c1ce8e78808fb07020a73a52bac0a3fc74252b41b256ab35c4a1550c654c881e"},{"fileName":"cnquery_11.28.1_linux_amd64.deb","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"07014c8f7be38a5fbd7a155919959a979fa9d763f83b0d65b4a4d7adc47a94e1"},{"fileName":"cnquery_11.28.1_linux_amd64.rpm","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"c2a5513e6e7b1b02d056e9cd48f91a579f21dbc1362b612adea29dfd8d739a78"},{"fileName":"cnquery_11.28.1_linux_amd64.tar.gz","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"d3daba362394818151b5eac99c7721bb03047eb38ef1941d2f435930571c1ca1"},{"fileName":"cnquery_11.28.1_linux_arm64.deb","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"b84912b8794616b5e761ff9ac0f22a4b212cadfbc27dfb92f06c7911d3446165"},{"fileName":"cnquery_11.28.1_linux_arm64.rpm","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"d2eb2766e87305c102db1da20775592563e985f85c1383298976903ea7a3b10e"},{"fileName":"cnquery_11.28.1_linux_arm64.tar.gz","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"3cf54353c4d007e07c691b5b8edf934001498540bae52c44d9a54c75296a1883"},{"fileName":"cnquery_11.28.1_linux_armv6.deb","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"9df21416dd20146e3c4cbf3f43f843794ada3434839420813fdc65f625e7698f"},{"fileName":"cnquery_11.28.1_linux_armv6.rpm","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"9c383c2e797bd4b935c3943c77017c04f5f05cab2f55ae7b499971391fe9cce4"},{"fileName":"cnquery_11.28.1_linux_armv6.tar.gz","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"bb76d799c03d4ef4e891bbfa12d1cf3e3ee6591205f4d71180337dd9378a68bd"},{"fileName":"cnquery_11.28.1_linux_armv7.deb","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"070c711526e9e57c16c2bda46fd820a551f87538530376217e49d678fd60f17a"},{"fileName":"cnquery_11.28.1_linux_armv7.rpm","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"49727a1d20e9f6c2dede2f2a8bbaec98a2883501d02376d087c4dbf6df051979"},{"fileName":"cnquery_11.28.1_linux_armv7.tar.gz","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"ee32edc02e960cbb72319fc93f17331e5df93d9d68f2c65a5d7e22644d831314"},{"fileName":"cnquery_11.28.1_linux_ppc64le.deb","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"a35e54dc2a575e6701d56d3809a31dbd931bb57e057ea6644fe7e02d299d323e"},{"fileName":"cnquery_11.28.1_linux_ppc64le.rpm","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"c5f334a2c12bfe5c3795279e611cfe9fe62fb6cc862ec5a62ff9bc1f4d4ce897"},{"fileName":"cnquery_11.28.1_linux_ppc64le.tar.gz","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"cc787477a026ccc46b5b6a599a824dc0248b9c96675a166f3b3b1126151098a3"},{"fileName":"cnquery_11.28.1_windows_amd64.zip","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"5da453cbd8b31b4d264ca003a3f0f7bb73989d234ef2a0e005b5fface98a95bb"},{"fileName":"cnquery_11.28.1_windows_arm64.zip","algo":"Sha256","source":"cnquery_v11.28.1_SHA256SUMS","hash":"0bc9208531334bc3d798e8865dce987fa0525876cd024070c6dbfabf3c6ebc99"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cnquery_11.28.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "9b7db5386e273e4c60478f04b4d654787a6d472fd06d87c28b5c2b062552892f"
+    },
+    {
+      "fileName": "cnquery_11.28.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "cc4269390fd01217ccf6122634e71b658f1645255432104ecd9521eb3f80be15"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_386.deb",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "00c81eb0b8553e20125fb939dfd85d6d13084ef6117143626272c24b93e24bd2"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "3fa39731ddad70304bb88627dbe1157393a8c424dd4122acf68509bb61d3153a"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "c1ce8e78808fb07020a73a52bac0a3fc74252b41b256ab35c4a1550c654c881e"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "07014c8f7be38a5fbd7a155919959a979fa9d763f83b0d65b4a4d7adc47a94e1"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "c2a5513e6e7b1b02d056e9cd48f91a579f21dbc1362b612adea29dfd8d739a78"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "d3daba362394818151b5eac99c7721bb03047eb38ef1941d2f435930571c1ca1"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "b84912b8794616b5e761ff9ac0f22a4b212cadfbc27dfb92f06c7911d3446165"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "d2eb2766e87305c102db1da20775592563e985f85c1383298976903ea7a3b10e"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "3cf54353c4d007e07c691b5b8edf934001498540bae52c44d9a54c75296a1883"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_armv6.deb",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "9df21416dd20146e3c4cbf3f43f843794ada3434839420813fdc65f625e7698f"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_armv6.rpm",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "9c383c2e797bd4b935c3943c77017c04f5f05cab2f55ae7b499971391fe9cce4"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "bb76d799c03d4ef4e891bbfa12d1cf3e3ee6591205f4d71180337dd9378a68bd"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "070c711526e9e57c16c2bda46fd820a551f87538530376217e49d678fd60f17a"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "49727a1d20e9f6c2dede2f2a8bbaec98a2883501d02376d087c4dbf6df051979"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "ee32edc02e960cbb72319fc93f17331e5df93d9d68f2c65a5d7e22644d831314"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_ppc64le.deb",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "a35e54dc2a575e6701d56d3809a31dbd931bb57e057ea6644fe7e02d299d323e"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_ppc64le.rpm",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "c5f334a2c12bfe5c3795279e611cfe9fe62fb6cc862ec5a62ff9bc1f4d4ce897"
+    },
+    {
+      "fileName": "cnquery_11.28.1_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "cc787477a026ccc46b5b6a599a824dc0248b9c96675a166f3b3b1126151098a3"
+    },
+    {
+      "fileName": "cnquery_11.28.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "5da453cbd8b31b4d264ca003a3f0f7bb73989d234ef2a0e005b5fface98a95bb"
+    },
+    {
+      "fileName": "cnquery_11.28.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "cnquery_v11.28.1_SHA256SUMS",
+      "hash": "0bc9208531334bc3d798e8865dce987fa0525876cd024070c6dbfabf3c6ebc99"
+    }
+  ]
+}

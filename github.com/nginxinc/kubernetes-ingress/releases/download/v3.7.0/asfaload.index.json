@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubernetes-ingress_3.7.0_linux_amd64.tar.gz","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"c3a9a41562a0352a5d6c79f3b5f9b6351fefde5283b80eee31412921a2f4718d"},{"fileName":"kubernetes-ingress_3.7.0_linux_amd64.tar.gz.spdx.json","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"65722bc7ecbabd6d521716336df07acb384c674930241338d7ed59985809bcf8"},{"fileName":"kubernetes-ingress_3.7.0_linux_arm_7.tar.gz","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"7c5f4747e1b07f9196f33ab58fd7bc1ceeb64cbcf0fd85bb5ba8a5a62650b9a6"},{"fileName":"kubernetes-ingress_3.7.0_linux_arm_7.tar.gz.spdx.json","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"4213e39be71d986bc0e3e4e20b1815fc8ecfa461eb0eabde20358e597a33f305"},{"fileName":"kubernetes-ingress_3.7.0_linux_s390x.tar.gz","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"4cf599eddb1ab3ddda6292946a1215532a714813661e47d57bf6869e2e2e7cf2"},{"fileName":"kubernetes-ingress_3.7.0_linux_s390x.tar.gz.spdx.json","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"da226ade6414855e66de554a6d18d8cae1c362b7b346c30537aa785d5a967783"},{"fileName":"kubernetes-ingress_3.7.0_linux_arm64.tar.gz","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"26aec4a4f137ae6dcc858f216c241950af440dd0583599c0824f8b3bb1399d94"},{"fileName":"kubernetes-ingress_3.7.0_linux_arm64.tar.gz.spdx.json","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"c949fbad80c82e58bd9cb1df2b114a5cc9596e366af95bcd90a2dd124ff922d1"},{"fileName":"kubernetes-ingress_3.7.0_linux_ppc64le.tar.gz","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"66130751899936a4f4f9fbf96947752fea07366feacd0117576d4abc68cfffff"},{"fileName":"kubernetes-ingress_3.7.0_linux_ppc64le.tar.gz.spdx.json","algo":"Sha256","source":"kubernetes-ingress_3.7.0_checksums.txt","hash":"2caf5f35292968c7b9d2a087ad1718229eeb9a36e1f91bd881ee48a63b462689"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "c3a9a41562a0352a5d6c79f3b5f9b6351fefde5283b80eee31412921a2f4718d"
+    },
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_amd64.tar.gz.spdx.json",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "65722bc7ecbabd6d521716336df07acb384c674930241338d7ed59985809bcf8"
+    },
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_arm_7.tar.gz",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "7c5f4747e1b07f9196f33ab58fd7bc1ceeb64cbcf0fd85bb5ba8a5a62650b9a6"
+    },
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_arm_7.tar.gz.spdx.json",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "4213e39be71d986bc0e3e4e20b1815fc8ecfa461eb0eabde20358e597a33f305"
+    },
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "4cf599eddb1ab3ddda6292946a1215532a714813661e47d57bf6869e2e2e7cf2"
+    },
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_s390x.tar.gz.spdx.json",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "da226ade6414855e66de554a6d18d8cae1c362b7b346c30537aa785d5a967783"
+    },
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "26aec4a4f137ae6dcc858f216c241950af440dd0583599c0824f8b3bb1399d94"
+    },
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_arm64.tar.gz.spdx.json",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "c949fbad80c82e58bd9cb1df2b114a5cc9596e366af95bcd90a2dd124ff922d1"
+    },
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "66130751899936a4f4f9fbf96947752fea07366feacd0117576d4abc68cfffff"
+    },
+    {
+      "fileName": "kubernetes-ingress_3.7.0_linux_ppc64le.tar.gz.spdx.json",
+      "algo": "Sha256",
+      "source": "kubernetes-ingress_3.7.0_checksums.txt",
+      "hash": "2caf5f35292968c7b9d2a087ad1718229eeb9a36e1f91bd881ee48a63b462689"
+    }
+  ]
+}

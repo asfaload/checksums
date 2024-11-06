@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"guardian_2.0.0-alpha5_linux_arm64.tar.gz","algo":"Sha512","source":"guardian_2.0.0-alpha5_SHA512SUMS","hash":"0bfdb639970fd63754845595728ff9dc6b4054495fe0c066b2a771dabdd4d5b2792da9a51a5efc1bac35d4677c248b4b0ee3cebcedee16b5ceaf41c94329fe87"},{"fileName":"guardian_2.0.0-alpha5_darwin_arm64.tar.gz","algo":"Sha512","source":"guardian_2.0.0-alpha5_SHA512SUMS","hash":"368686b1ca3c4bd5c7ad3087ad35508733d0fa3ec4fc7b2dc24a953f86441716b8a3f78049c808276b40b464d7b6465492ab34d9d77977845197288d38032da5"},{"fileName":"guardian_2.0.0-alpha5_darwin_amd64.tar.gz","algo":"Sha512","source":"guardian_2.0.0-alpha5_SHA512SUMS","hash":"636741b85510ad356c0f7b8e3d7abb285661e2f267fa709dda4f519b4fac16d5123157efbe7078447e8a872ef220257c3c19e0764888f566d418ea412c141f49"},{"fileName":"guardian_2.0.0-alpha5_linux_amd64.tar.gz","algo":"Sha512","source":"guardian_2.0.0-alpha5_SHA512SUMS","hash":"b49a7a646612e665988d7ce92efbaac8c7e82a10ef1281a00f4e4aea625c87698603adc379d0dbb061667c5f77f9168139a0ff0bdc15f0401d56462bcccc390d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "guardian_2.0.0-alpha5_linux_arm64.tar.gz",
+      "algo": "Sha512",
+      "source": "guardian_2.0.0-alpha5_SHA512SUMS",
+      "hash": "0bfdb639970fd63754845595728ff9dc6b4054495fe0c066b2a771dabdd4d5b2792da9a51a5efc1bac35d4677c248b4b0ee3cebcedee16b5ceaf41c94329fe87"
+    },
+    {
+      "fileName": "guardian_2.0.0-alpha5_darwin_arm64.tar.gz",
+      "algo": "Sha512",
+      "source": "guardian_2.0.0-alpha5_SHA512SUMS",
+      "hash": "368686b1ca3c4bd5c7ad3087ad35508733d0fa3ec4fc7b2dc24a953f86441716b8a3f78049c808276b40b464d7b6465492ab34d9d77977845197288d38032da5"
+    },
+    {
+      "fileName": "guardian_2.0.0-alpha5_darwin_amd64.tar.gz",
+      "algo": "Sha512",
+      "source": "guardian_2.0.0-alpha5_SHA512SUMS",
+      "hash": "636741b85510ad356c0f7b8e3d7abb285661e2f267fa709dda4f519b4fac16d5123157efbe7078447e8a872ef220257c3c19e0764888f566d418ea412c141f49"
+    },
+    {
+      "fileName": "guardian_2.0.0-alpha5_linux_amd64.tar.gz",
+      "algo": "Sha512",
+      "source": "guardian_2.0.0-alpha5_SHA512SUMS",
+      "hash": "b49a7a646612e665988d7ce92efbaac8c7e82a10ef1281a00f4e4aea625c87698603adc379d0dbb061667c5f77f9168139a0ff0bdc15f0401d56462bcccc390d"
+    }
+  ]
+}

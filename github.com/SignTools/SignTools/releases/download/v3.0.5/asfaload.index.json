@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"SignTools_3.0.5_windows_armv7.exe","algo":"Sha256","source":"checksums.txt","hash":"10cf8a938f1c8a18c34583a667d1645c1cdfc09df6fcd4ddefd6dab09fc0acc0"},{"fileName":"SignTools_3.0.5_linux_386","algo":"Sha256","source":"checksums.txt","hash":"131ae06f87b93ff57ea0d31082c225c52b38cfcdcaba5eeb42d5ec6ed76655cf"},{"fileName":"SignTools_3.0.5_linux_armv7","algo":"Sha256","source":"checksums.txt","hash":"23f8a6de614a6bdea92370eb05ebc8e2176d5ded6f65b06235c1ce222cea3629"},{"fileName":"SignTools_3.0.5_linux_armv6","algo":"Sha256","source":"checksums.txt","hash":"4af2337c3b9c29793589751a313e87195fd8d705ba1f2fd76570a57b64516ba0"},{"fileName":"SignTools_3.0.5_linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"5042ffe250ee08eb3a80eac81392b74c6df5c72614ef1190daa74eb466e031b6"},{"fileName":"SignTools_3.0.5_windows_amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"67e5099e12d40e00d60d38ec11c968d03ea502b73236211325efb74c59d3aeb3"},{"fileName":"SignTools_3.0.5_linux_amd64","algo":"Sha256","source":"checksums.txt","hash":"7c15d509a8fae9213366c930df1bc8c0768e6bb713499894cf023127d2e50309"},{"fileName":"SignTools_3.0.5_windows_arm64.exe","algo":"Sha256","source":"checksums.txt","hash":"835d4fc2e5110af6fec4bf5e7f777522b960652c258054c0703b364495131e61"},{"fileName":"SignTools_3.0.5_windows_386.exe","algo":"Sha256","source":"checksums.txt","hash":"938e4804ad7aafc3c87a81dd621afb9d9afd5937536361805038a59371ebf33c"},{"fileName":"SignTools_3.0.5_windows_armv6.exe","algo":"Sha256","source":"checksums.txt","hash":"9dd3db3b27e93374bb4602a985c2d55e97e177436d5e12c6f1eaa145d7d8f5df"},{"fileName":"SignTools_3.0.5_darwin_amd64","algo":"Sha256","source":"checksums.txt","hash":"c0ad721511ebdbaeba51f45e8d8d463a98deaeb7cf3fa28050fe9df54b76f9c4"},{"fileName":"SignTools_3.0.5_darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"c6121fe7bf87ab5047e055778696bd24b9b0a388ae6eca97c1da19f75f2d8c7e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "SignTools_3.0.5_windows_armv7.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "10cf8a938f1c8a18c34583a667d1645c1cdfc09df6fcd4ddefd6dab09fc0acc0"
+    },
+    {
+      "fileName": "SignTools_3.0.5_linux_386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "131ae06f87b93ff57ea0d31082c225c52b38cfcdcaba5eeb42d5ec6ed76655cf"
+    },
+    {
+      "fileName": "SignTools_3.0.5_linux_armv7",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "23f8a6de614a6bdea92370eb05ebc8e2176d5ded6f65b06235c1ce222cea3629"
+    },
+    {
+      "fileName": "SignTools_3.0.5_linux_armv6",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4af2337c3b9c29793589751a313e87195fd8d705ba1f2fd76570a57b64516ba0"
+    },
+    {
+      "fileName": "SignTools_3.0.5_linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5042ffe250ee08eb3a80eac81392b74c6df5c72614ef1190daa74eb466e031b6"
+    },
+    {
+      "fileName": "SignTools_3.0.5_windows_amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "67e5099e12d40e00d60d38ec11c968d03ea502b73236211325efb74c59d3aeb3"
+    },
+    {
+      "fileName": "SignTools_3.0.5_linux_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7c15d509a8fae9213366c930df1bc8c0768e6bb713499894cf023127d2e50309"
+    },
+    {
+      "fileName": "SignTools_3.0.5_windows_arm64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "835d4fc2e5110af6fec4bf5e7f777522b960652c258054c0703b364495131e61"
+    },
+    {
+      "fileName": "SignTools_3.0.5_windows_386.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "938e4804ad7aafc3c87a81dd621afb9d9afd5937536361805038a59371ebf33c"
+    },
+    {
+      "fileName": "SignTools_3.0.5_windows_armv6.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9dd3db3b27e93374bb4602a985c2d55e97e177436d5e12c6f1eaa145d7d8f5df"
+    },
+    {
+      "fileName": "SignTools_3.0.5_darwin_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c0ad721511ebdbaeba51f45e8d8d463a98deaeb7cf3fa28050fe9df54b76f9c4"
+    },
+    {
+      "fileName": "SignTools_3.0.5_darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c6121fe7bf87ab5047e055778696bd24b9b0a388ae6eca97c1da19f75f2d8c7e"
+    }
+  ]
+}

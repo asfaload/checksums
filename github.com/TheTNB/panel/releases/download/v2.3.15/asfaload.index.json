@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"panel_2.3.15_linux_amd64.zip","algo":"Sha256","source":"panel_2.3.15_checksums.txt","hash":"dfaedf876600c3a6b34c33ca068a31a8e1838c39991deb3059e8ee76ff91ede1"},{"fileName":"panel_2.3.15_linux_arm64.zip","algo":"Sha256","source":"panel_2.3.15_checksums.txt","hash":"aaba89cb96a879c01a8c946d392c5746c592775bf3827359ae34c760f2db8c73"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "panel_2.3.15_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "panel_2.3.15_checksums.txt",
+      "hash": "dfaedf876600c3a6b34c33ca068a31a8e1838c39991deb3059e8ee76ff91ede1"
+    },
+    {
+      "fileName": "panel_2.3.15_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "panel_2.3.15_checksums.txt",
+      "hash": "aaba89cb96a879c01a8c946d392c5746c592775bf3827359ae34c760f2db8c73"
+    }
+  ]
+}

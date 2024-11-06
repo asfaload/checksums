@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"serving-core.yaml","algo":"Sha256","source":"checksums.txt","hash":"1f55c6b02bbea20ffe7c203811ae8dfd238ead7caca1f2e76275b239dfd06206"},{"fileName":"serving-default-domain.yaml","algo":"Sha256","source":"checksums.txt","hash":"89f0a1d958003236d22e545b0f9c32b556bb8f2d15c1e8703549ee600caa553e"},{"fileName":"serving-storage-version-migration.yaml","algo":"Sha256","source":"checksums.txt","hash":"cee49f08045d20ca6dd52b359e9b2dc78b96aa3290c4763c61efe71fea5df621"},{"fileName":"serving-post-install-jobs.yaml","algo":"Sha256","source":"checksums.txt","hash":"c30d84ef82aa784ab9f18ef31c73ecedea382d006b72c62fc9ec1113c0601d34"},{"fileName":"serving-hpa.yaml","algo":"Sha256","source":"checksums.txt","hash":"90a7d7bd461bb87a97f4986f20412e4ee27e47c0e4b592e6ba10b5e44826c852"},{"fileName":"serving-crds.yaml","algo":"Sha256","source":"checksums.txt","hash":"33cc24f96321cd19deea6b85397e53b24e1a7ae61aebc4a92c2bd867e93611ec"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "serving-core.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1f55c6b02bbea20ffe7c203811ae8dfd238ead7caca1f2e76275b239dfd06206"
+    },
+    {
+      "fileName": "serving-default-domain.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "89f0a1d958003236d22e545b0f9c32b556bb8f2d15c1e8703549ee600caa553e"
+    },
+    {
+      "fileName": "serving-storage-version-migration.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cee49f08045d20ca6dd52b359e9b2dc78b96aa3290c4763c61efe71fea5df621"
+    },
+    {
+      "fileName": "serving-post-install-jobs.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c30d84ef82aa784ab9f18ef31c73ecedea382d006b72c62fc9ec1113c0601d34"
+    },
+    {
+      "fileName": "serving-hpa.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "90a7d7bd461bb87a97f4986f20412e4ee27e47c0e4b592e6ba10b5e44826c852"
+    },
+    {
+      "fileName": "serving-crds.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "33cc24f96321cd19deea6b85397e53b24e1a7ae61aebc4a92c2bd867e93611ec"
+    }
+  ]
+}

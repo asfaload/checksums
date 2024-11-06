@@ -1,1 +1,115 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"profilecli_1.9.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ef2da8564527266349f18cf1767b1e1b9929add86f823f72b3592b0343cde2e9"},{"fileName":"profilecli_1.9.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7cbe84c6e29f6f20c4beae70d89279202685bd6ee4e704e6e438acc55364df44"},{"fileName":"profilecli_1.9.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a09a88aba1b3dd5558a9fd1da7d05daa1708fb1a26b2db743277ca22a0f356c5"},{"fileName":"profilecli_1.9.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4cdfcbe5326c4afbbe0280b55783662749c19a4bf760f7ea8219b25d3e4941c8"},{"fileName":"profilecli_1.9.0_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b8c6e9c8284c427bd24548b606dbb7b1937ea232e45389f8599b5d536e6fe79c"},{"fileName":"profilecli_1.9.0_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"388da9464a7a082fe62566ed38f97c2aa3aff87c2af2585bd66a1fb8e73be4b7"},{"fileName":"profilecli_1.9.0_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"55346157f74268bd95e94e11153e53556ea33b4268c4d09ab4c70e70468a4d8c"},{"fileName":"pyroscope_1.9.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c6331384043d8c41fdc4f150d6d92674e537b28d1ddb4fb9dbf6670269d2a15a"},{"fileName":"pyroscope_1.9.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"cf936af555bac6cda7f265ed9c3f3086df3b8e221ea9b2828f6e17daf42982a2"},{"fileName":"pyroscope_1.9.0_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"bc0d46e5bfb2200350f3aa84150496bc63f322793ce9e5c8ccbd82a0b5a19f80"},{"fileName":"pyroscope_1.9.0_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"41f10a62f60c5fb13d141716a3db5192c874dec942e1bbf2203657aedb0b41c2"},{"fileName":"pyroscope_1.9.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"733e73dab294a8ba398fea4cbc8c16aae7e94e609efc83f5361ddefa3c414021"},{"fileName":"pyroscope_1.9.0_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"9f909ffa23797fd86c5403808ffc5eb1ff094ea532fdf218a8fe57499a32de2b"},{"fileName":"pyroscope_1.9.0_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"d65af32226fb5d2ad448079420a9f5aabd97ab5aa88a33ca26cbcc802189534a"},{"fileName":"pyroscope_1.9.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"eb06c0135921b182646035c0ca08eb76c7d9f5b0fdd7d4a9dbf80c67908722e6"},{"fileName":"pyroscope_1.9.0_linux_armv7.deb","algo":"Sha256","source":"checksums.txt","hash":"e8b0ca804754e45c3e0bbff6398a6f1967ba56cb57c6654035219b57e90d642e"},{"fileName":"pyroscope_1.9.0_linux_armv7.rpm","algo":"Sha256","source":"checksums.txt","hash":"7b786fbecabcb216c9892ee6818aeff036c7948d0b7acfb49f130499f641579a"},{"fileName":"pyroscope_1.9.0_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8f81de6848765653e9ec23d0bc5815de7a9b0c38174ec909464e49a03492c6e4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "profilecli_1.9.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ef2da8564527266349f18cf1767b1e1b9929add86f823f72b3592b0343cde2e9"
+    },
+    {
+      "fileName": "profilecli_1.9.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7cbe84c6e29f6f20c4beae70d89279202685bd6ee4e704e6e438acc55364df44"
+    },
+    {
+      "fileName": "profilecli_1.9.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a09a88aba1b3dd5558a9fd1da7d05daa1708fb1a26b2db743277ca22a0f356c5"
+    },
+    {
+      "fileName": "profilecli_1.9.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4cdfcbe5326c4afbbe0280b55783662749c19a4bf760f7ea8219b25d3e4941c8"
+    },
+    {
+      "fileName": "profilecli_1.9.0_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b8c6e9c8284c427bd24548b606dbb7b1937ea232e45389f8599b5d536e6fe79c"
+    },
+    {
+      "fileName": "profilecli_1.9.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "388da9464a7a082fe62566ed38f97c2aa3aff87c2af2585bd66a1fb8e73be4b7"
+    },
+    {
+      "fileName": "profilecli_1.9.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "55346157f74268bd95e94e11153e53556ea33b4268c4d09ab4c70e70468a4d8c"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c6331384043d8c41fdc4f150d6d92674e537b28d1ddb4fb9dbf6670269d2a15a"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cf936af555bac6cda7f265ed9c3f3086df3b8e221ea9b2828f6e17daf42982a2"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bc0d46e5bfb2200350f3aa84150496bc63f322793ce9e5c8ccbd82a0b5a19f80"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "41f10a62f60c5fb13d141716a3db5192c874dec942e1bbf2203657aedb0b41c2"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "733e73dab294a8ba398fea4cbc8c16aae7e94e609efc83f5361ddefa3c414021"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9f909ffa23797fd86c5403808ffc5eb1ff094ea532fdf218a8fe57499a32de2b"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d65af32226fb5d2ad448079420a9f5aabd97ab5aa88a33ca26cbcc802189534a"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eb06c0135921b182646035c0ca08eb76c7d9f5b0fdd7d4a9dbf80c67908722e6"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e8b0ca804754e45c3e0bbff6398a6f1967ba56cb57c6654035219b57e90d642e"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7b786fbecabcb216c9892ee6818aeff036c7948d0b7acfb49f130499f641579a"
+    },
+    {
+      "fileName": "pyroscope_1.9.0_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8f81de6848765653e9ec23d0bc5815de7a9b0c38174ec909464e49a03492c6e4"
+    }
+  ]
+}

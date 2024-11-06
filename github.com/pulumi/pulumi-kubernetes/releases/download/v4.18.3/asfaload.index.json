@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pulumi-resource-kubernetes-v4.18.3-darwin-amd64.tar.gz","algo":"Sha256","source":"pulumi-kubernetes_4.18.3_checksums.txt","hash":"15a58fae66f09d8d224edda91c7b5019e8feeaffecd30c65772a1b47e3552b37"},{"fileName":"pulumi-resource-kubernetes-v4.18.3-darwin-arm64.tar.gz","algo":"Sha256","source":"pulumi-kubernetes_4.18.3_checksums.txt","hash":"f6d65bcab8b338b98ae975568cb12b5fe50f09aaa8ddb5ba27b2a63fcc0e7a41"},{"fileName":"pulumi-resource-kubernetes-v4.18.3-linux-amd64.tar.gz","algo":"Sha256","source":"pulumi-kubernetes_4.18.3_checksums.txt","hash":"d8406bf482ba151f8ea65b2b93b9f5dc7a8ccb579140607c1d12b0392e213650"},{"fileName":"pulumi-resource-kubernetes-v4.18.3-linux-arm64.tar.gz","algo":"Sha256","source":"pulumi-kubernetes_4.18.3_checksums.txt","hash":"6f4485b1f412975780c5ba12d252996205b1acfb046d0ce9533f745a11dcbf32"},{"fileName":"pulumi-resource-kubernetes-v4.18.3-windows-amd64.tar.gz","algo":"Sha256","source":"pulumi-kubernetes_4.18.3_checksums.txt","hash":"4256a041a175f44034e89343756425384d9fd667d02ea77d1a8929a9ace9a9f9"},{"fileName":"pulumi-resource-kubernetes-v4.18.3-windows-arm64.tar.gz","algo":"Sha256","source":"pulumi-kubernetes_4.18.3_checksums.txt","hash":"ca9246b9925421ccc59db52b51ae7ab5420f7597b8c00ae1335a144193463773"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pulumi-resource-kubernetes-v4.18.3-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-kubernetes_4.18.3_checksums.txt",
+      "hash": "15a58fae66f09d8d224edda91c7b5019e8feeaffecd30c65772a1b47e3552b37"
+    },
+    {
+      "fileName": "pulumi-resource-kubernetes-v4.18.3-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-kubernetes_4.18.3_checksums.txt",
+      "hash": "f6d65bcab8b338b98ae975568cb12b5fe50f09aaa8ddb5ba27b2a63fcc0e7a41"
+    },
+    {
+      "fileName": "pulumi-resource-kubernetes-v4.18.3-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-kubernetes_4.18.3_checksums.txt",
+      "hash": "d8406bf482ba151f8ea65b2b93b9f5dc7a8ccb579140607c1d12b0392e213650"
+    },
+    {
+      "fileName": "pulumi-resource-kubernetes-v4.18.3-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-kubernetes_4.18.3_checksums.txt",
+      "hash": "6f4485b1f412975780c5ba12d252996205b1acfb046d0ce9533f745a11dcbf32"
+    },
+    {
+      "fileName": "pulumi-resource-kubernetes-v4.18.3-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-kubernetes_4.18.3_checksums.txt",
+      "hash": "4256a041a175f44034e89343756425384d9fd667d02ea77d1a8929a9ace9a9f9"
+    },
+    {
+      "fileName": "pulumi-resource-kubernetes-v4.18.3-windows-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-kubernetes_4.18.3_checksums.txt",
+      "hash": "ca9246b9925421ccc59db52b51ae7ab5420f7597b8c00ae1335a144193463773"
+    }
+  ]
+}

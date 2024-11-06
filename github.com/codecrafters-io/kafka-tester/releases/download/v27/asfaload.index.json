@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"v27_darwin_amd64.tar.gz","algo":"Sha256","source":"kafka-tester_27_checksums.txt","hash":"31c69f813072ceb8ac2708763cb9a844bc5b28cb69ad4c40dbb3da16d52af823"},{"fileName":"v27_darwin_arm64.tar.gz","algo":"Sha256","source":"kafka-tester_27_checksums.txt","hash":"903323ae469fa86bc295b6fb9dafd781511b61229b254188bb7e56f56a70a810"},{"fileName":"v27_linux_arm64.tar.gz","algo":"Sha256","source":"kafka-tester_27_checksums.txt","hash":"b5dab135a5c94d55877925faaf5ab17d0b1d5610322eb38269cd8bd70c1acb8b"},{"fileName":"v27_linux_amd64.tar.gz","algo":"Sha256","source":"kafka-tester_27_checksums.txt","hash":"c2fa26981c10491ed9969e982abe37c70168712e1d7ecee2ae992c5c5221a3c0"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "v27_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kafka-tester_27_checksums.txt",
+      "hash": "31c69f813072ceb8ac2708763cb9a844bc5b28cb69ad4c40dbb3da16d52af823"
+    },
+    {
+      "fileName": "v27_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kafka-tester_27_checksums.txt",
+      "hash": "903323ae469fa86bc295b6fb9dafd781511b61229b254188bb7e56f56a70a810"
+    },
+    {
+      "fileName": "v27_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kafka-tester_27_checksums.txt",
+      "hash": "b5dab135a5c94d55877925faaf5ab17d0b1d5610322eb38269cd8bd70c1acb8b"
+    },
+    {
+      "fileName": "v27_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kafka-tester_27_checksums.txt",
+      "hash": "c2fa26981c10491ed9969e982abe37c70168712e1d7ecee2ae992c5c5221a3c0"
+    }
+  ]
+}

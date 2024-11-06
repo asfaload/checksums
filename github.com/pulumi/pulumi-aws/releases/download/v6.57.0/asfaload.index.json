@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-aws-v6.57.0-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-aws_6.57.0_checksums.txt","hash":"dca824b275293dc980aba32eaf1a65edb90fef7a"},{"fileName":"./pulumi-resource-aws-v6.57.0-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-aws_6.57.0_checksums.txt","hash":"43fde4b2ca85c12cec76a390620d2a24b0638c3f"},{"fileName":"./pulumi-resource-aws-v6.57.0-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-aws_6.57.0_checksums.txt","hash":"a1891f5db27119cb46b64c7ecd999581ceb6c178"},{"fileName":"./pulumi-resource-aws-v6.57.0-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-aws_6.57.0_checksums.txt","hash":"c02b30322e91875bfa8ebf7c01d888cdf3ed16f6"},{"fileName":"./pulumi-resource-aws-v6.57.0-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-aws_6.57.0_checksums.txt","hash":"32bdc8a6c20c443406860e4ab08b66abf4603581"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-aws-v6.57.0-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aws_6.57.0_checksums.txt",
+      "hash": "dca824b275293dc980aba32eaf1a65edb90fef7a"
+    },
+    {
+      "fileName": "./pulumi-resource-aws-v6.57.0-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aws_6.57.0_checksums.txt",
+      "hash": "43fde4b2ca85c12cec76a390620d2a24b0638c3f"
+    },
+    {
+      "fileName": "./pulumi-resource-aws-v6.57.0-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aws_6.57.0_checksums.txt",
+      "hash": "a1891f5db27119cb46b64c7ecd999581ceb6c178"
+    },
+    {
+      "fileName": "./pulumi-resource-aws-v6.57.0-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aws_6.57.0_checksums.txt",
+      "hash": "c02b30322e91875bfa8ebf7c01d888cdf3ed16f6"
+    },
+    {
+      "fileName": "./pulumi-resource-aws-v6.57.0-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aws_6.57.0_checksums.txt",
+      "hash": "32bdc8a6c20c443406860e4ab08b66abf4603581"
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gojs-cvss-0.1.6.tar.gz","algo":"Sha256","source":"gojs-cvss_0.1.6_checksums.txt","hash":"2242d68a5f49e7c30a3ae979b96dc6c3c37782f07dbdb4aa72fd10b1c795ac09"},{"fileName":"gojs-cvss-0.1.6.tar.gz.sbom","algo":"Sha256","source":"gojs-cvss_0.1.6_checksums.txt","hash":"8057777cc4eb0dc3712963be7a91e8b641047c7d6d1fb61c8179a114a6228c91"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gojs-cvss-0.1.6.tar.gz",
+      "algo": "Sha256",
+      "source": "gojs-cvss_0.1.6_checksums.txt",
+      "hash": "2242d68a5f49e7c30a3ae979b96dc6c3c37782f07dbdb4aa72fd10b1c795ac09"
+    },
+    {
+      "fileName": "gojs-cvss-0.1.6.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "gojs-cvss_0.1.6_checksums.txt",
+      "hash": "8057777cc4eb0dc3712963be7a91e8b641047c7d6d1fb61c8179a114a6228c91"
+    }
+  ]
+}

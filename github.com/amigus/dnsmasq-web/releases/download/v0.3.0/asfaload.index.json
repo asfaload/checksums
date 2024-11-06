@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"dnsmasq-web-v0.3.0_linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"bc8211e6b1cd17e3fde95048e1af409c7504ace7535a64db7ef840809b0cb0fb"},{"fileName":"dnsmasq-web-v0.3.0_linux-amd64-musl","algo":"Sha256","source":"checksums.txt","hash":"2b7f14d31f837583dc14141adc15b39eef54cfafd7955637f9431fb604beba91"},{"fileName":"dnsmasq-web-v0.3.0_linux-arm-7","algo":"Sha256","source":"checksums.txt","hash":"86f76afc1e969d19b967fab90c52d0cbef62e0c7c6846b0b6521cf30d3a90505"},{"fileName":"dnsmasq-web-v0.3.0_linux-arm64","algo":"Sha256","source":"checksums.txt","hash":"ac7bf24dd3bde76dac6e600e8a10df10a4a0a5113ef54b86354b3ee87782e57b"},{"fileName":"dnsmasq-web-v0.3.0_linux-arm64-musl","algo":"Sha256","source":"checksums.txt","hash":"8e17dda27b472ef6580bcd045bbe627db48927aa56836d49211f957df97f5505"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "dnsmasq-web-v0.3.0_linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bc8211e6b1cd17e3fde95048e1af409c7504ace7535a64db7ef840809b0cb0fb"
+    },
+    {
+      "fileName": "dnsmasq-web-v0.3.0_linux-amd64-musl",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2b7f14d31f837583dc14141adc15b39eef54cfafd7955637f9431fb604beba91"
+    },
+    {
+      "fileName": "dnsmasq-web-v0.3.0_linux-arm-7",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "86f76afc1e969d19b967fab90c52d0cbef62e0c7c6846b0b6521cf30d3a90505"
+    },
+    {
+      "fileName": "dnsmasq-web-v0.3.0_linux-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ac7bf24dd3bde76dac6e600e8a10df10a4a0a5113ef54b86354b3ee87782e57b"
+    },
+    {
+      "fileName": "dnsmasq-web-v0.3.0_linux-arm64-musl",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8e17dda27b472ef6580bcd045bbe627db48927aa56836d49211f957df97f5505"
+    }
+  ]
+}

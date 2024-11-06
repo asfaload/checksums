@@ -1,1 +1,115 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"autobrr_1.48.0_darwin_arm64.tar.gz","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"1a8d1e9ffdf3dcfa4665698d5d1471cff47e5f8db68a2ca2217bd984625dff17"},{"fileName":"autobrr_1.48.0_darwin_x86_64.tar.gz","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"047c38fd4e6ff9cdd36528973271f1ac5b9ee44af11feb4ed1c86e0a2b8050eb"},{"fileName":"autobrr_1.48.0_freebsd_x86_64.tar.gz","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"6ec5869d49b51fef2507074556954748a5879a380bb11d8ed4ea38a176875df2"},{"fileName":"autobrr_1.48.0_linux_amd64.apk","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"faec72ce2f01c1eaf446c541ae4e6d7f536a05db089cf1aefd6f36f68c913592"},{"fileName":"autobrr_1.48.0_linux_amd64.deb","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"6bbbcbedf2205f1ee2bb6e0a8d0f3b1ea6c0e111eb38b05f40acb27bcde0dbf8"},{"fileName":"autobrr_1.48.0_linux_amd64.pkg.tar.zst","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"b47f450901929d2796e9f956c43e8290d4c90c631658a3106d32822292393b48"},{"fileName":"autobrr_1.48.0_linux_amd64.rpm","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"6b5e41a8640273ab698e5c3e6d4ab2b11a37a09b565bffb19c7842f6d0ed8a66"},{"fileName":"autobrr_1.48.0_linux_arm.tar.gz","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"3d0a9bc3e7e185c4c65eb3720dc03b340c28a483dba0a26fa3a2a002e8034e28"},{"fileName":"autobrr_1.48.0_linux_arm64.apk","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"b6e2693dfeaf34f62d86a2e63ca7e1118a6cd24db1cb4840d69cf863c875a3ae"},{"fileName":"autobrr_1.48.0_linux_arm64.deb","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"86b7c49b400462de3a948b26ff0c41ff395686887ae219e23b0e8a251000c59c"},{"fileName":"autobrr_1.48.0_linux_arm64.pkg.tar.zst","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"99bc7f68337ffa12dd1b5328cb79efa80bb8f2cf29365ea75f4b8869ce21ec38"},{"fileName":"autobrr_1.48.0_linux_arm64.rpm","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"eddb13fc5a65b466585290626eac3dc96a0c50204ffb258086c121914d3fc4b8"},{"fileName":"autobrr_1.48.0_linux_arm64.tar.gz","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"2dabb201399e2f0bc5839d51d03f7ad057888ed36afcf07517c370f9c23d2091"},{"fileName":"autobrr_1.48.0_linux_armv6.apk","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"08c9a248bc77995a0c2065dad0d39a9e2967765578889d88bfa24aac25e9aed7"},{"fileName":"autobrr_1.48.0_linux_armv6.deb","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"45405100886b8fedd8d8e712b32f13bca538eef1e58b4430a1c5189a3e254c99"},{"fileName":"autobrr_1.48.0_linux_armv6.rpm","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"569ca012724b0b86ec56949032719b75442d507cec19122f2331e14bded22e21"},{"fileName":"autobrr_1.48.0_linux_x86_64.tar.gz","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"731dd9b0de8472c6030e783cba1f5941703b0876640e42bcc1640fcee96674f3"},{"fileName":"autobrr_1.48.0_windows_x86_64.zip","algo":"Sha256","source":"autobrr_1.48.0_checksums.txt","hash":"c68d3e2dfc26713272b639e0278034ccad4ea27b51f1bcf0f01ef2224eddb533"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "autobrr_1.48.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "1a8d1e9ffdf3dcfa4665698d5d1471cff47e5f8db68a2ca2217bd984625dff17"
+    },
+    {
+      "fileName": "autobrr_1.48.0_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "047c38fd4e6ff9cdd36528973271f1ac5b9ee44af11feb4ed1c86e0a2b8050eb"
+    },
+    {
+      "fileName": "autobrr_1.48.0_freebsd_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "6ec5869d49b51fef2507074556954748a5879a380bb11d8ed4ea38a176875df2"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "faec72ce2f01c1eaf446c541ae4e6d7f536a05db089cf1aefd6f36f68c913592"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "6bbbcbedf2205f1ee2bb6e0a8d0f3b1ea6c0e111eb38b05f40acb27bcde0dbf8"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_amd64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "b47f450901929d2796e9f956c43e8290d4c90c631658a3106d32822292393b48"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "6b5e41a8640273ab698e5c3e6d4ab2b11a37a09b565bffb19c7842f6d0ed8a66"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "3d0a9bc3e7e185c4c65eb3720dc03b340c28a483dba0a26fa3a2a002e8034e28"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "b6e2693dfeaf34f62d86a2e63ca7e1118a6cd24db1cb4840d69cf863c875a3ae"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "86b7c49b400462de3a948b26ff0c41ff395686887ae219e23b0e8a251000c59c"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_arm64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "99bc7f68337ffa12dd1b5328cb79efa80bb8f2cf29365ea75f4b8869ce21ec38"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "eddb13fc5a65b466585290626eac3dc96a0c50204ffb258086c121914d3fc4b8"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "2dabb201399e2f0bc5839d51d03f7ad057888ed36afcf07517c370f9c23d2091"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_armv6.apk",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "08c9a248bc77995a0c2065dad0d39a9e2967765578889d88bfa24aac25e9aed7"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_armv6.deb",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "45405100886b8fedd8d8e712b32f13bca538eef1e58b4430a1c5189a3e254c99"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_armv6.rpm",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "569ca012724b0b86ec56949032719b75442d507cec19122f2331e14bded22e21"
+    },
+    {
+      "fileName": "autobrr_1.48.0_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "731dd9b0de8472c6030e783cba1f5941703b0876640e42bcc1640fcee96674f3"
+    },
+    {
+      "fileName": "autobrr_1.48.0_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "autobrr_1.48.0_checksums.txt",
+      "hash": "c68d3e2dfc26713272b639e0278034ccad4ea27b51f1bcf0f01ef2224eddb533"
+    }
+  ]
+}

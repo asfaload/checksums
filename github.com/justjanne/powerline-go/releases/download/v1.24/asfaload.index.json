@@ -1,1 +1,127 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"powerline-go-openbsd-arm64","algo":"Sha256","source":"checksums.txt","hash":"04fe7019e4fc806d40324b5e706acd2d61981c48cc5ba78e1cae86e27866b672"},{"fileName":"powerline-go-windows-arm.exe","algo":"Sha256","source":"checksums.txt","hash":"0fbe65b996827ae72333df07b84b08aabb250d1f9047603245f2d640ddaa315f"},{"fileName":"powerline-go-netbsd-386","algo":"Sha256","source":"checksums.txt","hash":"1d2ad5e712f65f5245c77b6c96d3db44fc52a6cea19e029e5cd73a63507a5766"},{"fileName":"powerline-go-freebsd-amd64","algo":"Sha256","source":"checksums.txt","hash":"1d523eb369fd5b34e09fa5759de8e97b33551d5d490b8b37cae5194b956f4523"},{"fileName":"powerline-go-windows-386.exe","algo":"Sha256","source":"checksums.txt","hash":"2300d5258492badffdc490d11cb23aed65315c1bed8a57291d6d8dcfbab0e303"},{"fileName":"powerline-go-linux-arm","algo":"Sha256","source":"checksums.txt","hash":"5134ca7a9b24ef43b8979467257f07760701b97b63e7ca13e66b569c498aebf1"},{"fileName":"powerline-go-netbsd-arm","algo":"Sha256","source":"checksums.txt","hash":"82e48884b3c5f8f4146b47222b43252443a28cfcbe593d63bda4d030666720e0"},{"fileName":"powerline-go-windows-amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"84ea36ce194a8e77ab72b8db04247331feed779097c0d25b3f68cc846fd441c6"},{"fileName":"powerline-go-freebsd-386","algo":"Sha256","source":"checksums.txt","hash":"8b012605b5cc4339ae3e4d751f94d498b37f3dbe120302b0003d50eb340fe057"},{"fileName":"powerline-go-freebsd-arm","algo":"Sha256","source":"checksums.txt","hash":"8f11ddfff49b0e44d1d9b76b8e0afeadfad1d7f712e40e393cd0beae8aff888c"},{"fileName":"powerline-go-linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"9f2318bfba088a711614cea830adc11a373fd956c711a06a0f456f7614d5f34a"},{"fileName":"powerline-go-linux-arm64","algo":"Sha256","source":"checksums.txt","hash":"a505ded88653a95906e2511c9a606839a28d89cb3f150aea7ac501aee8b917e8"},{"fileName":"powerline-go-windows-arm64.exe","algo":"Sha256","source":"checksums.txt","hash":"b9dd46836a6a6623a567cd5c86731419b4c405ca63cfd207caebbc7cbf6060f2"},{"fileName":"powerline-go-darwin-amd64","algo":"Sha256","source":"checksums.txt","hash":"c2bf26f361cfbb5bc1f9534d65912b81bc858fae7679c6e7f76c164861ce07ab"},{"fileName":"powerline-go-openbsd-amd64","algo":"Sha256","source":"checksums.txt","hash":"c80f82f7367047e5b42b8f67452269de5870f86c45b26ca910cb5fbb62af082a"},{"fileName":"powerline-go-darwin-arm64","algo":"Sha256","source":"checksums.txt","hash":"c86f26b14a23171c01ce5bb3cde4d58fb5e026f6f9680f701e8171e1896291ec"},{"fileName":"powerline-go-openbsd-386","algo":"Sha256","source":"checksums.txt","hash":"cda026a4374ecde15f38af29ff78d6234df99a7d3034ca2811af066a12b47381"},{"fileName":"powerline-go-linux-386","algo":"Sha256","source":"checksums.txt","hash":"e57aa7150126115a5a11ea69757f482b909357a601787756eff1fedfe74bbb3b"},{"fileName":"powerline-go-freebsd-arm64","algo":"Sha256","source":"checksums.txt","hash":"eeeb329c3ad9d32cfe316469185eae68f23140eff58f859ff8af5258571d2dd1"},{"fileName":"powerline-go-netbsd-amd64","algo":"Sha256","source":"checksums.txt","hash":"f88e6c94cef724118714151a81a9d50483756ffb0786b47c3863a9fcd26c7766"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "powerline-go-openbsd-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "04fe7019e4fc806d40324b5e706acd2d61981c48cc5ba78e1cae86e27866b672"
+    },
+    {
+      "fileName": "powerline-go-windows-arm.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0fbe65b996827ae72333df07b84b08aabb250d1f9047603245f2d640ddaa315f"
+    },
+    {
+      "fileName": "powerline-go-netbsd-386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1d2ad5e712f65f5245c77b6c96d3db44fc52a6cea19e029e5cd73a63507a5766"
+    },
+    {
+      "fileName": "powerline-go-freebsd-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1d523eb369fd5b34e09fa5759de8e97b33551d5d490b8b37cae5194b956f4523"
+    },
+    {
+      "fileName": "powerline-go-windows-386.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2300d5258492badffdc490d11cb23aed65315c1bed8a57291d6d8dcfbab0e303"
+    },
+    {
+      "fileName": "powerline-go-linux-arm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5134ca7a9b24ef43b8979467257f07760701b97b63e7ca13e66b569c498aebf1"
+    },
+    {
+      "fileName": "powerline-go-netbsd-arm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "82e48884b3c5f8f4146b47222b43252443a28cfcbe593d63bda4d030666720e0"
+    },
+    {
+      "fileName": "powerline-go-windows-amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "84ea36ce194a8e77ab72b8db04247331feed779097c0d25b3f68cc846fd441c6"
+    },
+    {
+      "fileName": "powerline-go-freebsd-386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8b012605b5cc4339ae3e4d751f94d498b37f3dbe120302b0003d50eb340fe057"
+    },
+    {
+      "fileName": "powerline-go-freebsd-arm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8f11ddfff49b0e44d1d9b76b8e0afeadfad1d7f712e40e393cd0beae8aff888c"
+    },
+    {
+      "fileName": "powerline-go-linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9f2318bfba088a711614cea830adc11a373fd956c711a06a0f456f7614d5f34a"
+    },
+    {
+      "fileName": "powerline-go-linux-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a505ded88653a95906e2511c9a606839a28d89cb3f150aea7ac501aee8b917e8"
+    },
+    {
+      "fileName": "powerline-go-windows-arm64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b9dd46836a6a6623a567cd5c86731419b4c405ca63cfd207caebbc7cbf6060f2"
+    },
+    {
+      "fileName": "powerline-go-darwin-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c2bf26f361cfbb5bc1f9534d65912b81bc858fae7679c6e7f76c164861ce07ab"
+    },
+    {
+      "fileName": "powerline-go-openbsd-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c80f82f7367047e5b42b8f67452269de5870f86c45b26ca910cb5fbb62af082a"
+    },
+    {
+      "fileName": "powerline-go-darwin-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c86f26b14a23171c01ce5bb3cde4d58fb5e026f6f9680f701e8171e1896291ec"
+    },
+    {
+      "fileName": "powerline-go-openbsd-386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cda026a4374ecde15f38af29ff78d6234df99a7d3034ca2811af066a12b47381"
+    },
+    {
+      "fileName": "powerline-go-linux-386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e57aa7150126115a5a11ea69757f482b909357a601787756eff1fedfe74bbb3b"
+    },
+    {
+      "fileName": "powerline-go-freebsd-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eeeb329c3ad9d32cfe316469185eae68f23140eff58f859ff8af5258571d2dd1"
+    },
+    {
+      "fileName": "powerline-go-netbsd-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f88e6c94cef724118714151a81a9d50483756ffb0786b47c3863a9fcd26c7766"
+    }
+  ]
+}

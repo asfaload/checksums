@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"bandd-v2.5.4-linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"e57b097f7557ea47cb67e16cbe9e8ba1dc4be1babbdeb3b8f4526f8bd4202644"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "bandd-v2.5.4-linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e57b097f7557ea47cb67e16cbe9e8ba1dc4be1babbdeb3b8f4526f8bd4202644"
+    }
+  ]
+}

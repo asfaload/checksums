@@ -1,1 +1,193 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"govc_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d42d6ae9e2744940a42063ca03c70c2ed72b73c6ab440cb03245ed6199b9e5e1"},{"fileName":"govc_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3befdfc86060fe77b719da1d489226c0feca1062a2d4a51c577d818fdf840ec5"},{"fileName":"govc_Freebsd_arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"91e624fe040695b25868618f119e7cd586b167c552f4259546aa24eb996fe6e5"},{"fileName":"govc_Freebsd_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"47fcd8a9ebc6f17add7075edd8b3558e2da1426b284fb32c00734b1d0ad37281"},{"fileName":"govc_Freebsd_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"94ccbed9faeccdf761ef0dba709ab38134024538e4de3f8ad58fb7a2b0e8c1cf"},{"fileName":"govc_Linux_arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"26bda3c43111ab6bf13c2649624192577b2f5b496fc5be9525df26737d3b8410"},{"fileName":"govc_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"064849770265fa5af498902338abf9bb7c0ee8dec12a238bef6972be1aa11c64"},{"fileName":"govc_Linux_mips64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8acd11cf69a1c5cc2106ffab16d5ec8d314fd50e47869f25a494406ff805df68"},{"fileName":"govc_Linux_s390x.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0c3502f5e618bb2ea38117178a41ae77218059a29f08cf581b5c7400e0071cba"},{"fileName":"govc_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"aed3cbe37f19c874449362974a160dd3d084f1b22eb3bc7d14affc6e5d700a37"},{"fileName":"govc_Windows_arm.zip","algo":"Sha256","source":"checksums.txt","hash":"25082a82c67890235506f139a851ce119a1ac65e593be398115bd2a2b24f260f"},{"fileName":"govc_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"cfb2db9855e15d311747ccf3b3f565b07d411c73bf12c9d708617f3e4e7eb74c"},{"fileName":"govc_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"d495db78e14ad6917686fcff05a99cf6ab16c89a630a43c5790b29477e9e245a"},{"fileName":"govmomi_0.44.1_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"25a27f7750bda4b23fe79890ceffa7a7e8240ca7215f48a882f1aa0238f4af1c"},{"fileName":"govmomi_0.44.1_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"f081244ea86b6d51c846994df92a03a02c0c5d1a0716c1fb5819276d75bb10e9"},{"fileName":"govmomi_0.44.1_linux_armv6.rpm","algo":"Sha256","source":"checksums.txt","hash":"89cd1b1a7457bcc2634c17a112f28ab001e1ebdd55c856e1db20fcde40ee466b"},{"fileName":"govmomi_0.44.1_linux_mips64le_hardfloat.rpm","algo":"Sha256","source":"checksums.txt","hash":"cf68072694d87791a04c0e8ed400f25ba05a5cc50007cbda51eb44bc10261048"},{"fileName":"govmomi_0.44.1_linux_s390x.rpm","algo":"Sha256","source":"checksums.txt","hash":"de192f2db35743a8a536a666e308b3f381726189ab99d55ea59f6507dd1d1b8a"},{"fileName":"vcsim_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"50b4b5d91b5d6ee0dc6cec796a81ffdb43df780d4a36d0a07294896930133d2e"},{"fileName":"vcsim_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4e0107c69f96ae423d221e7e07936ba89a16d7a46f7451a9cc914c3e2c67ef72"},{"fileName":"vcsim_Freebsd_arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"45f2d2501156f705fec702974d7da62f0cb0f1b107ae1755dae4a443c89a1b02"},{"fileName":"vcsim_Freebsd_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"65abadb18173fb757e14494a538e8bbd5e4bd43bc39334657afb82babaa6f0bd"},{"fileName":"vcsim_Freebsd_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"97fd60289581d2e272f270a0d5fd537f8d7cdda8eb2e3ccf3484b0f85096c974"},{"fileName":"vcsim_Linux_arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"003c6f00c007a827884d886c5eb4b2b8c95f309bfaf5422b3f19e1645526ab09"},{"fileName":"vcsim_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6d88c6f7a3b3e803a3af9775a0fbb0a05760f9ed888e700cd7f4a857a6b7a520"},{"fileName":"vcsim_Linux_mips64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"38793018f0c2edd3bb674cd88c094bc6066cd6e9aaf707a572f36ed520d7f8fa"},{"fileName":"vcsim_Linux_s390x.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6f411a4c024bc92186010d1d835abdfc2cac64dac4314912a587e3cfc265641f"},{"fileName":"vcsim_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"73c91cb655f9c6815e323955a1b60d48668df23de1c5fc4bb6d18ac17ceae047"},{"fileName":"vcsim_Windows_arm.zip","algo":"Sha256","source":"checksums.txt","hash":"ac173c0515911385b6e8620abccd5be9dc77496925112bbebc76bb130799a5fb"},{"fileName":"vcsim_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"ace7996113d5b5eb68ee60592377742f0d6d4087a82251297c738aa19d308549"},{"fileName":"vcsim_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"988da3bac5bda9f3e0c4031011943f8f097f6fac5548916ccad6aac3b321dd7d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "govc_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d42d6ae9e2744940a42063ca03c70c2ed72b73c6ab440cb03245ed6199b9e5e1"
+    },
+    {
+      "fileName": "govc_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3befdfc86060fe77b719da1d489226c0feca1062a2d4a51c577d818fdf840ec5"
+    },
+    {
+      "fileName": "govc_Freebsd_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "91e624fe040695b25868618f119e7cd586b167c552f4259546aa24eb996fe6e5"
+    },
+    {
+      "fileName": "govc_Freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "47fcd8a9ebc6f17add7075edd8b3558e2da1426b284fb32c00734b1d0ad37281"
+    },
+    {
+      "fileName": "govc_Freebsd_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "94ccbed9faeccdf761ef0dba709ab38134024538e4de3f8ad58fb7a2b0e8c1cf"
+    },
+    {
+      "fileName": "govc_Linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "26bda3c43111ab6bf13c2649624192577b2f5b496fc5be9525df26737d3b8410"
+    },
+    {
+      "fileName": "govc_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "064849770265fa5af498902338abf9bb7c0ee8dec12a238bef6972be1aa11c64"
+    },
+    {
+      "fileName": "govc_Linux_mips64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8acd11cf69a1c5cc2106ffab16d5ec8d314fd50e47869f25a494406ff805df68"
+    },
+    {
+      "fileName": "govc_Linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0c3502f5e618bb2ea38117178a41ae77218059a29f08cf581b5c7400e0071cba"
+    },
+    {
+      "fileName": "govc_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aed3cbe37f19c874449362974a160dd3d084f1b22eb3bc7d14affc6e5d700a37"
+    },
+    {
+      "fileName": "govc_Windows_arm.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "25082a82c67890235506f139a851ce119a1ac65e593be398115bd2a2b24f260f"
+    },
+    {
+      "fileName": "govc_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cfb2db9855e15d311747ccf3b3f565b07d411c73bf12c9d708617f3e4e7eb74c"
+    },
+    {
+      "fileName": "govc_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d495db78e14ad6917686fcff05a99cf6ab16c89a630a43c5790b29477e9e245a"
+    },
+    {
+      "fileName": "govmomi_0.44.1_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "25a27f7750bda4b23fe79890ceffa7a7e8240ca7215f48a882f1aa0238f4af1c"
+    },
+    {
+      "fileName": "govmomi_0.44.1_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f081244ea86b6d51c846994df92a03a02c0c5d1a0716c1fb5819276d75bb10e9"
+    },
+    {
+      "fileName": "govmomi_0.44.1_linux_armv6.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "89cd1b1a7457bcc2634c17a112f28ab001e1ebdd55c856e1db20fcde40ee466b"
+    },
+    {
+      "fileName": "govmomi_0.44.1_linux_mips64le_hardfloat.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cf68072694d87791a04c0e8ed400f25ba05a5cc50007cbda51eb44bc10261048"
+    },
+    {
+      "fileName": "govmomi_0.44.1_linux_s390x.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "de192f2db35743a8a536a666e308b3f381726189ab99d55ea59f6507dd1d1b8a"
+    },
+    {
+      "fileName": "vcsim_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "50b4b5d91b5d6ee0dc6cec796a81ffdb43df780d4a36d0a07294896930133d2e"
+    },
+    {
+      "fileName": "vcsim_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e0107c69f96ae423d221e7e07936ba89a16d7a46f7451a9cc914c3e2c67ef72"
+    },
+    {
+      "fileName": "vcsim_Freebsd_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "45f2d2501156f705fec702974d7da62f0cb0f1b107ae1755dae4a443c89a1b02"
+    },
+    {
+      "fileName": "vcsim_Freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "65abadb18173fb757e14494a538e8bbd5e4bd43bc39334657afb82babaa6f0bd"
+    },
+    {
+      "fileName": "vcsim_Freebsd_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "97fd60289581d2e272f270a0d5fd537f8d7cdda8eb2e3ccf3484b0f85096c974"
+    },
+    {
+      "fileName": "vcsim_Linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "003c6f00c007a827884d886c5eb4b2b8c95f309bfaf5422b3f19e1645526ab09"
+    },
+    {
+      "fileName": "vcsim_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6d88c6f7a3b3e803a3af9775a0fbb0a05760f9ed888e700cd7f4a857a6b7a520"
+    },
+    {
+      "fileName": "vcsim_Linux_mips64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "38793018f0c2edd3bb674cd88c094bc6066cd6e9aaf707a572f36ed520d7f8fa"
+    },
+    {
+      "fileName": "vcsim_Linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6f411a4c024bc92186010d1d835abdfc2cac64dac4314912a587e3cfc265641f"
+    },
+    {
+      "fileName": "vcsim_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "73c91cb655f9c6815e323955a1b60d48668df23de1c5fc4bb6d18ac17ceae047"
+    },
+    {
+      "fileName": "vcsim_Windows_arm.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ac173c0515911385b6e8620abccd5be9dc77496925112bbebc76bb130799a5fb"
+    },
+    {
+      "fileName": "vcsim_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ace7996113d5b5eb68ee60592377742f0d6d4087a82251297c738aa19d308549"
+    },
+    {
+      "fileName": "vcsim_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "988da3bac5bda9f3e0c4031011943f8f097f6fac5548916ccad6aac3b321dd7d"
+    }
+  ]
+}

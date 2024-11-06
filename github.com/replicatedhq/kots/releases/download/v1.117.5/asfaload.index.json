@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kots_darwin_all.tar.gz","algo":"Sha256","source":"kots_1.117.5_checksums.txt","hash":"2dc71e6cb13b6fabed4824be1c139be8496b927179f261b53f6f9bdad3c5fca3"},{"fileName":"kots_linux_amd64.tar.gz","algo":"Sha256","source":"kots_1.117.5_checksums.txt","hash":"b3be3a52aef78ea341d862cc0fab8897e21fe9b3a34c69a3c79f9f79dd3aa913"},{"fileName":"kots_linux_arm64.tar.gz","algo":"Sha256","source":"kots_1.117.5_checksums.txt","hash":"e2f817c099768338cb61075e20e452d49dc89be268c83daf124742353b5db867"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kots_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "kots_1.117.5_checksums.txt",
+      "hash": "2dc71e6cb13b6fabed4824be1c139be8496b927179f261b53f6f9bdad3c5fca3"
+    },
+    {
+      "fileName": "kots_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "kots_1.117.5_checksums.txt",
+      "hash": "b3be3a52aef78ea341d862cc0fab8897e21fe9b3a34c69a3c79f9f79dd3aa913"
+    },
+    {
+      "fileName": "kots_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kots_1.117.5_checksums.txt",
+      "hash": "e2f817c099768338cb61075e20e452d49dc89be268c83daf124742353b5db867"
+    }
+  ]
+}

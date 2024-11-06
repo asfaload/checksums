@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"steadybit-extension-gcp-1.0.11-1.aarch64.rpm","algo":"Sha256","source":"checksums.txt","hash":"c6b06f3d84a354a4ece17de6f176d638e44a9f944fc5a5ff8df42af0a1528a7f"},{"fileName":"steadybit-extension-gcp-1.0.11-1.x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"c91fb776728efbef4216a4bdd33744c5279823db10448fe5126f344b933edb35"},{"fileName":"steadybit-extension-gcp_1.0.11_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"15aeb6ce8460abce16f6c47796ea9a31a22bb3643a7c8cd839d1a512c9c685f1"},{"fileName":"steadybit-extension-gcp_1.0.11_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"51959ffdeeea7c2bc319b74e478bac6eb31cf9502e9560260e95caabe1b582a8"},{"fileName":"steadybit-extension-gcp_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5ae9b188a1e04a140e1b82e042842ca5a1f1d97b20ee7aab92465f323209db46"},{"fileName":"steadybit-extension-gcp_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"cc3dce4fd1d0f2566e1e0783b770f51e6f2fc1b1cfeb5b943e281a239e104b7f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "steadybit-extension-gcp-1.0.11-1.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c6b06f3d84a354a4ece17de6f176d638e44a9f944fc5a5ff8df42af0a1528a7f"
+    },
+    {
+      "fileName": "steadybit-extension-gcp-1.0.11-1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c91fb776728efbef4216a4bdd33744c5279823db10448fe5126f344b933edb35"
+    },
+    {
+      "fileName": "steadybit-extension-gcp_1.0.11_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "15aeb6ce8460abce16f6c47796ea9a31a22bb3643a7c8cd839d1a512c9c685f1"
+    },
+    {
+      "fileName": "steadybit-extension-gcp_1.0.11_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "51959ffdeeea7c2bc319b74e478bac6eb31cf9502e9560260e95caabe1b582a8"
+    },
+    {
+      "fileName": "steadybit-extension-gcp_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5ae9b188a1e04a140e1b82e042842ca5a1f1d97b20ee7aab92465f323209db46"
+    },
+    {
+      "fileName": "steadybit-extension-gcp_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cc3dce4fd1d0f2566e1e0783b770f51e6f2fc1b1cfeb5b943e281a239e104b7f"
+    }
+  ]
+}

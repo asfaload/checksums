@@ -1,1 +1,133 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"qscan","algo":"Sha256","source":"checksums.txt","hash":"3779b451c78aa9363b4d0f13bf53406c7708eb90e9da87834a6bf18d1b789364"},{"fileName":"qscan.exe","algo":"Sha256","source":"checksums.txt","hash":"a5a44f7ee080cde31697d3cd373f0245a515c862afd811efac41e6930120f880"},{"fileName":"qscan32","algo":"Sha256","source":"checksums.txt","hash":"a201ec104be7d3770fe9f42411e0b69e3926dd42e141b470f69ad1b64f722e84"},{"fileName":"qscan32.exe","algo":"Sha256","source":"checksums.txt","hash":"19fd0e074c08ef097b0c20f8a16a50c2ea7be48582ad68e2343de8e52b99d965"},{"fileName":"qscan_arm64","algo":"Sha256","source":"checksums.txt","hash":"91117db222f9cf52b12bceb6642b84c046ed221fcaef01c63cc62960a5588de5"},{"fileName":"qscan_arm64.exe","algo":"Sha256","source":"checksums.txt","hash":"f3bdd156664e27dd628dc72ee812fb6017f7db2d721cf5832cdf5a5e024a5d02"},{"fileName":"qscan_armv6","algo":"Sha256","source":"checksums.txt","hash":"082932788c40b6d5457b504c716a20e59f878a9b1c6401ec6bd8946f5a679f91"},{"fileName":"qscan_armv6.exe","algo":"Sha256","source":"checksums.txt","hash":"e125e84c4759691fd0b3551651c8fa530e243288087a01519b55ac376ee990de"},{"fileName":"qscan_armv7","algo":"Sha256","source":"checksums.txt","hash":"0adef86b59bf5169b6d7fc23b42cf90b837ded3c99aea528e28e12bab86f1b67"},{"fileName":"qscan_armv7.exe","algo":"Sha256","source":"checksums.txt","hash":"60b81254f3a21706e89e4ffd3848c222af68c6e6b1745c7cc1d7d82ae6517106"},{"fileName":"qscan_freebsd","algo":"Sha256","source":"checksums.txt","hash":"81486cddbc40e697cf74cc6fd9f0bd43703e338f64f06a13a9528112eb7bd5ac"},{"fileName":"qscan_freebsd32","algo":"Sha256","source":"checksums.txt","hash":"4d9b0549b061a3852ac818460f538431b879a1c9f9ce55004960deaf35559a8b"},{"fileName":"qscan_freebsd_arm64","algo":"Sha256","source":"checksums.txt","hash":"e315d75d6034e8d97ed08a73f05c5fdbc6d83a356a7fbbff86e30e0920c7c0d4"},{"fileName":"qscan_freebsd_armv6","algo":"Sha256","source":"checksums.txt","hash":"59116a6e91df9290086b081516b64d54be4fecc3c67156ab92426748066a1d84"},{"fileName":"qscan_freebsd_armv7","algo":"Sha256","source":"checksums.txt","hash":"7892ab51c4cb4b2838bc2694a9152dab94e75f71d3f67463da2faa4926f6f38a"},{"fileName":"qscan_mac","algo":"Sha256","source":"checksums.txt","hash":"9efe1ce218ee3159b59e1045af1df0d70b8e4fd002b22a12ed7af12a880697f5"},{"fileName":"qscan_mac_arm64","algo":"Sha256","source":"checksums.txt","hash":"6c4a737eb519388a58f36a09d6d1987ec27a06498c2a2c5b814fcec5fde3cb05"},{"fileName":"qscan_mips","algo":"Sha256","source":"checksums.txt","hash":"af2bda01b313caa36b2c2cb949618a0c546a1d5aea2953cc9cb95d37318cd936"},{"fileName":"qscan_mips64","algo":"Sha256","source":"checksums.txt","hash":"c78d9da01940f8909d17b92f2be5cf7c5e2e8ff7d2ae1563ed839aad67077dbf"},{"fileName":"qscan_mipsle","algo":"Sha256","source":"checksums.txt","hash":"9680a28cf847a35a0b0e9ced1776f6e071b7e9a87e746684016e86c45472129d"},{"fileName":"qscan_solaris","algo":"Sha256","source":"checksums.txt","hash":"5b0bb7b4233f3f7d0b53492d8e14a8288dea37d670fa6bb4be2cd546504cc2d3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "qscan",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3779b451c78aa9363b4d0f13bf53406c7708eb90e9da87834a6bf18d1b789364"
+    },
+    {
+      "fileName": "qscan.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a5a44f7ee080cde31697d3cd373f0245a515c862afd811efac41e6930120f880"
+    },
+    {
+      "fileName": "qscan32",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a201ec104be7d3770fe9f42411e0b69e3926dd42e141b470f69ad1b64f722e84"
+    },
+    {
+      "fileName": "qscan32.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "19fd0e074c08ef097b0c20f8a16a50c2ea7be48582ad68e2343de8e52b99d965"
+    },
+    {
+      "fileName": "qscan_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "91117db222f9cf52b12bceb6642b84c046ed221fcaef01c63cc62960a5588de5"
+    },
+    {
+      "fileName": "qscan_arm64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f3bdd156664e27dd628dc72ee812fb6017f7db2d721cf5832cdf5a5e024a5d02"
+    },
+    {
+      "fileName": "qscan_armv6",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "082932788c40b6d5457b504c716a20e59f878a9b1c6401ec6bd8946f5a679f91"
+    },
+    {
+      "fileName": "qscan_armv6.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e125e84c4759691fd0b3551651c8fa530e243288087a01519b55ac376ee990de"
+    },
+    {
+      "fileName": "qscan_armv7",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0adef86b59bf5169b6d7fc23b42cf90b837ded3c99aea528e28e12bab86f1b67"
+    },
+    {
+      "fileName": "qscan_armv7.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "60b81254f3a21706e89e4ffd3848c222af68c6e6b1745c7cc1d7d82ae6517106"
+    },
+    {
+      "fileName": "qscan_freebsd",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "81486cddbc40e697cf74cc6fd9f0bd43703e338f64f06a13a9528112eb7bd5ac"
+    },
+    {
+      "fileName": "qscan_freebsd32",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4d9b0549b061a3852ac818460f538431b879a1c9f9ce55004960deaf35559a8b"
+    },
+    {
+      "fileName": "qscan_freebsd_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e315d75d6034e8d97ed08a73f05c5fdbc6d83a356a7fbbff86e30e0920c7c0d4"
+    },
+    {
+      "fileName": "qscan_freebsd_armv6",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "59116a6e91df9290086b081516b64d54be4fecc3c67156ab92426748066a1d84"
+    },
+    {
+      "fileName": "qscan_freebsd_armv7",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7892ab51c4cb4b2838bc2694a9152dab94e75f71d3f67463da2faa4926f6f38a"
+    },
+    {
+      "fileName": "qscan_mac",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9efe1ce218ee3159b59e1045af1df0d70b8e4fd002b22a12ed7af12a880697f5"
+    },
+    {
+      "fileName": "qscan_mac_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6c4a737eb519388a58f36a09d6d1987ec27a06498c2a2c5b814fcec5fde3cb05"
+    },
+    {
+      "fileName": "qscan_mips",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "af2bda01b313caa36b2c2cb949618a0c546a1d5aea2953cc9cb95d37318cd936"
+    },
+    {
+      "fileName": "qscan_mips64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c78d9da01940f8909d17b92f2be5cf7c5e2e8ff7d2ae1563ed839aad67077dbf"
+    },
+    {
+      "fileName": "qscan_mipsle",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9680a28cf847a35a0b0e9ced1776f6e071b7e9a87e746684016e86c45472129d"
+    },
+    {
+      "fileName": "qscan_solaris",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5b0bb7b4233f3f7d0b53492d8e14a8288dea37d670fa6bb4be2cd546504cc2d3"
+    }
+  ]
+}

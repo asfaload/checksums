@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"alpine.flatimage","algo":"Sha256","source":"alpine.flatimage.sha256sum","hash":"da53eefd79657c8fdf8de087f0c8b87f1ad918a65910629458326206a61583df"},{"fileName":"blueprint.flatimage","algo":"Sha256","source":"blueprint.flatimage.sha256sum","hash":"fd270efc27fc73aa7318d5b7c17d0baf713c12ff4ec0a9c71daef2e71b049705"},{"fileName":"arch.flatimage","algo":"Sha256","source":"arch.flatimage.sha256sum","hash":"a79d4830381282a52d98c03f7982e8d38ad51c3330b216e2dec7ec8d05151104"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "alpine.flatimage",
+      "algo": "Sha256",
+      "source": "alpine.flatimage.sha256sum",
+      "hash": "da53eefd79657c8fdf8de087f0c8b87f1ad918a65910629458326206a61583df"
+    },
+    {
+      "fileName": "blueprint.flatimage",
+      "algo": "Sha256",
+      "source": "blueprint.flatimage.sha256sum",
+      "hash": "fd270efc27fc73aa7318d5b7c17d0baf713c12ff4ec0a9c71daef2e71b049705"
+    },
+    {
+      "fileName": "arch.flatimage",
+      "algo": "Sha256",
+      "source": "arch.flatimage.sha256sum",
+      "hash": "a79d4830381282a52d98c03f7982e8d38ad51c3330b216e2dec7ec8d05151104"
+    }
+  ]
+}

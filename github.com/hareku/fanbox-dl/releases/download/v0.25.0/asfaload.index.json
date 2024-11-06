@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"fanbox-dl_Darwin_arm64.tar.gz","algo":"Sha256","source":"fanbox-dl_0.25.0_checksums.txt","hash":"a34a3f8cf203391dc67df1235bb2278317ab65702ae6d07df82c418fcf64aa79"},{"fileName":"fanbox-dl_Darwin_x86_64.tar.gz","algo":"Sha256","source":"fanbox-dl_0.25.0_checksums.txt","hash":"a56415339a305b0796f2a257a651692fa8d81a595730adfa9b641c76897e9775"},{"fileName":"fanbox-dl_Linux_arm64.tar.gz","algo":"Sha256","source":"fanbox-dl_0.25.0_checksums.txt","hash":"d604cdbbd7d940653c40eb70824bac0e100dcdb7efaf716eecf6834f2a2331ff"},{"fileName":"fanbox-dl_Linux_i386.tar.gz","algo":"Sha256","source":"fanbox-dl_0.25.0_checksums.txt","hash":"3b8b8f804506b77626d3f95ef59f0e7343e5cbb95b2e0f565522753791ff31e1"},{"fileName":"fanbox-dl_Linux_x86_64.tar.gz","algo":"Sha256","source":"fanbox-dl_0.25.0_checksums.txt","hash":"92e004217bffbaddcc8f89ebc1315173f5ea16a36260ab8ab512b515b448599d"},{"fileName":"fanbox-dl_Windows_arm64.zip","algo":"Sha256","source":"fanbox-dl_0.25.0_checksums.txt","hash":"09352ff0158fc51d50b206631d01d3c3102720691bc8d45dd521212183c56a4b"},{"fileName":"fanbox-dl_Windows_i386.zip","algo":"Sha256","source":"fanbox-dl_0.25.0_checksums.txt","hash":"10a0ffbd9054f2476162de2ff8398780a7abf55a35b456c7eda52009f78ca21c"},{"fileName":"fanbox-dl_Windows_x86_64.zip","algo":"Sha256","source":"fanbox-dl_0.25.0_checksums.txt","hash":"7bdba526699a9683eede2685412e5f6a6fee8238ae896d4dad87846c9574431a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "fanbox-dl_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "fanbox-dl_0.25.0_checksums.txt",
+      "hash": "a34a3f8cf203391dc67df1235bb2278317ab65702ae6d07df82c418fcf64aa79"
+    },
+    {
+      "fileName": "fanbox-dl_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "fanbox-dl_0.25.0_checksums.txt",
+      "hash": "a56415339a305b0796f2a257a651692fa8d81a595730adfa9b641c76897e9775"
+    },
+    {
+      "fileName": "fanbox-dl_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "fanbox-dl_0.25.0_checksums.txt",
+      "hash": "d604cdbbd7d940653c40eb70824bac0e100dcdb7efaf716eecf6834f2a2331ff"
+    },
+    {
+      "fileName": "fanbox-dl_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "fanbox-dl_0.25.0_checksums.txt",
+      "hash": "3b8b8f804506b77626d3f95ef59f0e7343e5cbb95b2e0f565522753791ff31e1"
+    },
+    {
+      "fileName": "fanbox-dl_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "fanbox-dl_0.25.0_checksums.txt",
+      "hash": "92e004217bffbaddcc8f89ebc1315173f5ea16a36260ab8ab512b515b448599d"
+    },
+    {
+      "fileName": "fanbox-dl_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "fanbox-dl_0.25.0_checksums.txt",
+      "hash": "09352ff0158fc51d50b206631d01d3c3102720691bc8d45dd521212183c56a4b"
+    },
+    {
+      "fileName": "fanbox-dl_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "fanbox-dl_0.25.0_checksums.txt",
+      "hash": "10a0ffbd9054f2476162de2ff8398780a7abf55a35b456c7eda52009f78ca21c"
+    },
+    {
+      "fileName": "fanbox-dl_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "fanbox-dl_0.25.0_checksums.txt",
+      "hash": "7bdba526699a9683eede2685412e5f6a6fee8238ae896d4dad87846c9574431a"
+    }
+  ]
+}

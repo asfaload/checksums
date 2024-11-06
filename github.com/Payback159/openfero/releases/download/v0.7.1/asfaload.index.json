@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"openfero_Darwin_arm64.tar.gz","algo":"Sha256","source":"openfero_0.7.1_checksums.txt","hash":"024e2d49e4e3ffe2ca256113d63236b848a3bd1dfc8b52e7b3ff1e31f16ba6eb"},{"fileName":"openfero_Darwin_x86_64.tar.gz","algo":"Sha256","source":"openfero_0.7.1_checksums.txt","hash":"fc30eea87f7185272a808b8683c0e7e3d0b9ca3d8e791aa80fe3ea236a0e8c42"},{"fileName":"openfero_Linux_arm64.tar.gz","algo":"Sha256","source":"openfero_0.7.1_checksums.txt","hash":"f170ac10d96fab0f2f5f8a240e54e5a20b97503403ee6837b0afb3d51c22a696"},{"fileName":"openfero_Linux_x86_64.tar.gz","algo":"Sha256","source":"openfero_0.7.1_checksums.txt","hash":"74f46ce2505492be91124a3b9086aadb62afe3de68dfb64a0912c0d9138c2c77"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "openfero_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "openfero_0.7.1_checksums.txt",
+      "hash": "024e2d49e4e3ffe2ca256113d63236b848a3bd1dfc8b52e7b3ff1e31f16ba6eb"
+    },
+    {
+      "fileName": "openfero_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "openfero_0.7.1_checksums.txt",
+      "hash": "fc30eea87f7185272a808b8683c0e7e3d0b9ca3d8e791aa80fe3ea236a0e8c42"
+    },
+    {
+      "fileName": "openfero_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "openfero_0.7.1_checksums.txt",
+      "hash": "f170ac10d96fab0f2f5f8a240e54e5a20b97503403ee6837b0afb3d51c22a696"
+    },
+    {
+      "fileName": "openfero_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "openfero_0.7.1_checksums.txt",
+      "hash": "74f46ce2505492be91124a3b9086aadb62afe3de68dfb64a0912c0d9138c2c77"
+    }
+  ]
+}

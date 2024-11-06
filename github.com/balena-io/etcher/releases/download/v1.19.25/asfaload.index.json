@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"balena-etcher-1.19.25-1.x86_64.rpm","algo":"Sha256","source":"SHA256SUMS.Linux.x64.txt","hash":"bfa0acc5de4e1f4d6417aadd1a421beb63ea3118960c72e5c86af52ad927e7c9"},{"fileName":"balena-etcher_1.19.25_amd64.deb","algo":"Sha256","source":"SHA256SUMS.Linux.x64.txt","hash":"00e7334b88bfdb492277f3c0db03b83f53593573aae6bbe0102a0ecd1dcc1b3e"},{"fileName":"balenaEtcher-1.19.25-x64.AppImage","algo":"Sha256","source":"SHA256SUMS.Linux.x64.txt","hash":"0e3dca25e09e11b9d2845d986a10a4451073317f0aa30126a063aaf47a4d0a99"},{"fileName":"balenaEtcher-linux-x64-1.19.25.zip","algo":"Sha256","source":"SHA256SUMS.Linux.x64.txt","hash":"e250430732c4a1994404576e2b563f5eedf8dad1e473af62433d855278390479"},{"fileName":"balenaEtcher-1.19.25-x64.dmg","algo":"Sha256","source":"SHA256SUMS.Darwin.x64.txt","hash":"c320bb72639444bfd886bdc01f17c7f0d46b0fb6c5d1e9d4e95facdbc261ec7d"},{"fileName":"balenaEtcher-darwin-x64-1.19.25.zip","algo":"Sha256","source":"SHA256SUMS.Darwin.x64.txt","hash":"45eadd5b0f2a7ef0ddbae2e5a5b1dbb50a33e59ee73b95880598943f9a2d2b66"},{"fileName":"balenaEtcher-1.19.25-arm64.dmg","algo":"Sha256","source":"SHA256SUMS.Darwin.arm64.txt","hash":"efbe29036616540d3dd727560ad3376c03b7ad4a6f5d9db090cf18a8c2a3685e"},{"fileName":"balenaEtcher-darwin-arm64-1.19.25.zip","algo":"Sha256","source":"SHA256SUMS.Darwin.arm64.txt","hash":"9406dac807fc619243647b6efea6012fb8422a5ed035a26ff9cf358f6a976c92"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "balena-etcher-1.19.25-1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.Linux.x64.txt",
+      "hash": "bfa0acc5de4e1f4d6417aadd1a421beb63ea3118960c72e5c86af52ad927e7c9"
+    },
+    {
+      "fileName": "balena-etcher_1.19.25_amd64.deb",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.Linux.x64.txt",
+      "hash": "00e7334b88bfdb492277f3c0db03b83f53593573aae6bbe0102a0ecd1dcc1b3e"
+    },
+    {
+      "fileName": "balenaEtcher-1.19.25-x64.AppImage",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.Linux.x64.txt",
+      "hash": "0e3dca25e09e11b9d2845d986a10a4451073317f0aa30126a063aaf47a4d0a99"
+    },
+    {
+      "fileName": "balenaEtcher-linux-x64-1.19.25.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.Linux.x64.txt",
+      "hash": "e250430732c4a1994404576e2b563f5eedf8dad1e473af62433d855278390479"
+    },
+    {
+      "fileName": "balenaEtcher-1.19.25-x64.dmg",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.Darwin.x64.txt",
+      "hash": "c320bb72639444bfd886bdc01f17c7f0d46b0fb6c5d1e9d4e95facdbc261ec7d"
+    },
+    {
+      "fileName": "balenaEtcher-darwin-x64-1.19.25.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.Darwin.x64.txt",
+      "hash": "45eadd5b0f2a7ef0ddbae2e5a5b1dbb50a33e59ee73b95880598943f9a2d2b66"
+    },
+    {
+      "fileName": "balenaEtcher-1.19.25-arm64.dmg",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.Darwin.arm64.txt",
+      "hash": "efbe29036616540d3dd727560ad3376c03b7ad4a6f5d9db090cf18a8c2a3685e"
+    },
+    {
+      "fileName": "balenaEtcher-darwin-arm64-1.19.25.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.Darwin.arm64.txt",
+      "hash": "9406dac807fc619243647b6efea6012fb8422a5ed035a26ff9cf358f6a976c92"
+    }
+  ]
+}

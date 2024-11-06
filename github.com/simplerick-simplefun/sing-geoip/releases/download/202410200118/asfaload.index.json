@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"geoip.db","algo":"Sha256","source":"geoip.db.sha256sum","hash":"7d9419b3d751b363caaaf5d238c7d7049d3597e58627518e35b198cc7d52c6a7"},{"fileName":"geoip-cn.db","algo":"Sha256","source":"geoip-cn.db.sha256sum","hash":"e054207888f584f570723c1a6f6c22308231f63325acd2d0b3204b21f6d37f11"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "geoip.db",
+      "algo": "Sha256",
+      "source": "geoip.db.sha256sum",
+      "hash": "7d9419b3d751b363caaaf5d238c7d7049d3597e58627518e35b198cc7d52c6a7"
+    },
+    {
+      "fileName": "geoip-cn.db",
+      "algo": "Sha256",
+      "source": "geoip-cn.db.sha256sum",
+      "hash": "e054207888f584f570723c1a6f6c22308231f63325acd2d0b3204b21f6d37f11"
+    }
+  ]
+}

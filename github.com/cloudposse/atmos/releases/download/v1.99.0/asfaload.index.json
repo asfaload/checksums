@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"atmos_1.99.0_darwin_amd64","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"07f600ffa3af0437d5690ef092e34491e80a5a077e6f5118929d88413d5e50e7"},{"fileName":"atmos_1.99.0_darwin_arm64","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"51f60ce17065d5139bebc2137fdbbcfc29f1c71fa5086db1171daf26cff87124"},{"fileName":"atmos_1.99.0_freebsd_386","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"7d31b2c783e8b4467b90e4d280e8538816ec4cd19581177b09542218b66cd74a"},{"fileName":"atmos_1.99.0_freebsd_amd64","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"3d1a9246a826e5319e9b60308bbcfda9c3281b583a5673ce0acc8ddfd62757ff"},{"fileName":"atmos_1.99.0_freebsd_arm","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"e4bec3ef2bd5e114ee53c1a046ed18584298584161e09d83a424b3b261a97d42"},{"fileName":"atmos_1.99.0_freebsd_arm64","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"94a373a7ec96a7907c36397a0072aef9f59c976d0fce88bda9f7c8716dbbda2c"},{"fileName":"atmos_1.99.0_linux_386","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"daa80ec0e7ab0cb2747a07c28b58458792b7cd660b640382630d1782ee2a7f69"},{"fileName":"atmos_1.99.0_linux_amd64","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"3a375270aed3ac45bdc2344171fdbed0ce0b6b8c73e20a2c4a835a03e29b0697"},{"fileName":"atmos_1.99.0_linux_arm","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"92327192e634af8fe324c491f12963443137e8295501e8380d816d91cf664176"},{"fileName":"atmos_1.99.0_linux_arm64","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"3553018e9adf4294c25f20fc1fefe14fd8931774d49c14888bb158f3d536e55f"},{"fileName":"atmos_1.99.0_windows_386.exe","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"ec9460a6a56eb8c8dcc8458f51aaea2ea8026433fe28afa47c56d130f891fac6"},{"fileName":"atmos_1.99.0_windows_amd64.exe","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"051a0fd4d570b44c3de87054ede22aa3f2d4d0cbeb959db760dd02689e18c19b"},{"fileName":"atmos_1.99.0_windows_arm.exe","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"995fbc94a14870a5bf74aac92423e2d27e4c720349a67d2fc1c8822faa715191"},{"fileName":"atmos_1.99.0_windows_arm64.exe","algo":"Sha256","source":"atmos_1.99.0_SHA256SUMS","hash":"cafcfcfc317fa9aecd3f140fd9e66023c98c76bb83072cd3ee62d4211d3333b1"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "atmos_1.99.0_darwin_amd64",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "07f600ffa3af0437d5690ef092e34491e80a5a077e6f5118929d88413d5e50e7"
+    },
+    {
+      "fileName": "atmos_1.99.0_darwin_arm64",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "51f60ce17065d5139bebc2137fdbbcfc29f1c71fa5086db1171daf26cff87124"
+    },
+    {
+      "fileName": "atmos_1.99.0_freebsd_386",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "7d31b2c783e8b4467b90e4d280e8538816ec4cd19581177b09542218b66cd74a"
+    },
+    {
+      "fileName": "atmos_1.99.0_freebsd_amd64",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "3d1a9246a826e5319e9b60308bbcfda9c3281b583a5673ce0acc8ddfd62757ff"
+    },
+    {
+      "fileName": "atmos_1.99.0_freebsd_arm",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "e4bec3ef2bd5e114ee53c1a046ed18584298584161e09d83a424b3b261a97d42"
+    },
+    {
+      "fileName": "atmos_1.99.0_freebsd_arm64",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "94a373a7ec96a7907c36397a0072aef9f59c976d0fce88bda9f7c8716dbbda2c"
+    },
+    {
+      "fileName": "atmos_1.99.0_linux_386",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "daa80ec0e7ab0cb2747a07c28b58458792b7cd660b640382630d1782ee2a7f69"
+    },
+    {
+      "fileName": "atmos_1.99.0_linux_amd64",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "3a375270aed3ac45bdc2344171fdbed0ce0b6b8c73e20a2c4a835a03e29b0697"
+    },
+    {
+      "fileName": "atmos_1.99.0_linux_arm",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "92327192e634af8fe324c491f12963443137e8295501e8380d816d91cf664176"
+    },
+    {
+      "fileName": "atmos_1.99.0_linux_arm64",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "3553018e9adf4294c25f20fc1fefe14fd8931774d49c14888bb158f3d536e55f"
+    },
+    {
+      "fileName": "atmos_1.99.0_windows_386.exe",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "ec9460a6a56eb8c8dcc8458f51aaea2ea8026433fe28afa47c56d130f891fac6"
+    },
+    {
+      "fileName": "atmos_1.99.0_windows_amd64.exe",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "051a0fd4d570b44c3de87054ede22aa3f2d4d0cbeb959db760dd02689e18c19b"
+    },
+    {
+      "fileName": "atmos_1.99.0_windows_arm.exe",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "995fbc94a14870a5bf74aac92423e2d27e4c720349a67d2fc1c8822faa715191"
+    },
+    {
+      "fileName": "atmos_1.99.0_windows_arm64.exe",
+      "algo": "Sha256",
+      "source": "atmos_1.99.0_SHA256SUMS",
+      "hash": "cafcfcfc317fa9aecd3f140fd9e66023c98c76bb83072cd3ee62d4211d3333b1"
+    }
+  ]
+}

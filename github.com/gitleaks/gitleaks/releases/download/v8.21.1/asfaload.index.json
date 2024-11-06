@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gitleaks_8.21.1_windows_armv6.zip","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"3a9e34364a78b09b66196f1af017a5e0465dfe39b079a6709bf909e3a82c3aa3"},{"fileName":"gitleaks_8.21.1_darwin_arm64.tar.gz","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"4e7bee2df7d61217e9af00c3507db1870a2676cb3b73fb5a3fdca3060734cc0e"},{"fileName":"gitleaks_8.21.1_windows_x32.zip","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"642d39ae7e400699c85217e77f76d902b54a345f68dbf59c043132f3bbdc556e"},{"fileName":"gitleaks_8.21.1_linux_arm64.tar.gz","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"6bdb864bf9183525513612942c94edcf47da7ff72331b4b660a313c251214437"},{"fileName":"gitleaks_8.21.1_linux_armv7.tar.gz","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"6e293b576e2a8473c4e0e94a58127cbc35cc92e9491b8d56c24c2c7ad5758e47"},{"fileName":"gitleaks_8.21.1_windows_armv7.zip","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"80df2736fc26cfcb0ea476341b130cf3cb53d5e75898ee456cad8d4fcc388905"},{"fileName":"gitleaks_8.21.1_linux_armv6.tar.gz","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"8d422e53632ac9ef84e071b3007317e1723075d4b4349d04cddb4463f32b75ed"},{"fileName":"gitleaks_8.21.1_darwin_x64.tar.gz","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"9bddca17ed427961858b35d2015d5399c9a222af646ba26cc2ea30b102e33e6d"},{"fileName":"gitleaks_8.21.1_linux_x32.tar.gz","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"a3a34b788ac4c8ff58e641b72ca37de0f77f316c5e9a239009a8180bf8554567"},{"fileName":"gitleaks_8.21.1_linux_x64.tar.gz","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"b1e20dfbd81fa5eeefc91ace3371d4db75d2250c0d426cb6acf1e51722726779"},{"fileName":"gitleaks_8.21.1_windows_x64.zip","algo":"Sha256","source":"gitleaks_8.21.1_checksums.txt","hash":"e379528885e36ed1479c3d03f1cd879e3a53f0cb6c80a1e367122a871b71151c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gitleaks_8.21.1_windows_armv6.zip",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "3a9e34364a78b09b66196f1af017a5e0465dfe39b079a6709bf909e3a82c3aa3"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "4e7bee2df7d61217e9af00c3507db1870a2676cb3b73fb5a3fdca3060734cc0e"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_windows_x32.zip",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "642d39ae7e400699c85217e77f76d902b54a345f68dbf59c043132f3bbdc556e"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "6bdb864bf9183525513612942c94edcf47da7ff72331b4b660a313c251214437"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "6e293b576e2a8473c4e0e94a58127cbc35cc92e9491b8d56c24c2c7ad5758e47"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_windows_armv7.zip",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "80df2736fc26cfcb0ea476341b130cf3cb53d5e75898ee456cad8d4fcc388905"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "8d422e53632ac9ef84e071b3007317e1723075d4b4349d04cddb4463f32b75ed"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_darwin_x64.tar.gz",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "9bddca17ed427961858b35d2015d5399c9a222af646ba26cc2ea30b102e33e6d"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_linux_x32.tar.gz",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "a3a34b788ac4c8ff58e641b72ca37de0f77f316c5e9a239009a8180bf8554567"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_linux_x64.tar.gz",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "b1e20dfbd81fa5eeefc91ace3371d4db75d2250c0d426cb6acf1e51722726779"
+    },
+    {
+      "fileName": "gitleaks_8.21.1_windows_x64.zip",
+      "algo": "Sha256",
+      "source": "gitleaks_8.21.1_checksums.txt",
+      "hash": "e379528885e36ed1479c3d03f1cd879e3a53f0cb6c80a1e367122a871b71151c"
+    }
+  ]
+}

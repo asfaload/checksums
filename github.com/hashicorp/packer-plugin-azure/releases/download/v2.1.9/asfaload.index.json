@@ -1,1 +1,115 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"packer-plugin-azure_v2.1.9_x5.0_darwin_amd64.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"1eaf7c90ee352dd38c9b21f27eba8d84c623b2bcbdbbe3387e305024ad2be9a3"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_darwin_arm64.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"7cc5955ca82e71e76b62f7b59f69443d2b5fd48726a340ed793c78ddbe742018"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_freebsd_386.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"49e44dd3748f095a73b4ec43c1440b47c7a308787ce0dbb02fb2c54ef9dbd1de"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_freebsd_amd64.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"e259397fadf6021ae5bd2bb3dd76d591456612edb170d55c21b3e9948cdc1a6d"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_freebsd_arm.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"f18c5e908e1b3bec394e27e1b9a7c86c32959baa5305fe6d2e848ac9a1822d09"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_linux_386.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"f65267a4c380a2c0aa7df1502789e736dedca4453f9e9086bb4965d5d2b82977"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_linux_amd64.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"45e0069d8fe766e8b55de3a943f142b8d566a40986f7ee1635ca8aa68c40e098"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_linux_arm.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"812c8e0c026fb0a32eaebb028e4adbd93dac52edf33b41ba222eabd51d8e61b1"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_linux_arm64.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"dda6c0f855adfba6cdd56de2299241b0d88142a9aa57d5887908a237b7a80fda"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_netbsd_386.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"fe8b8134ae734279755de87535ed876beff7bd50bd13944b1dc870d3d397cc64"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_netbsd_amd64.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"fe8492f13171e6ef04c491710d517be1c62619e0afb105af74484b9c0ea09607"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_netbsd_arm.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"99e7e69259157274c4c41d5e1b6a02976273590525cd5cf6b2874f92a6a6f077"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_openbsd_386.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"61f6e923828e57411db9cd360aa8cf155c013661aad1fb5119f6c70e00ade878"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_openbsd_amd64.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"ef88ccb432b0bb4619eb63a8b145d5f49b8f5533c72d7abbd6b1c209406ff7f4"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_openbsd_arm.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"64924772aa0e82942eb5a5646727286990ca1ef106ce3e8a56e1e1a3673223a4"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_solaris_amd64.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"7efcf0a7127f6e5302ec14b71183d3916838ffed323569dd300f2058463ff785"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_windows_386.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"a971b0414f045e9cb99abb6483e72b95b843443f13cb35251ee1ffb292c5d04f"},{"fileName":"packer-plugin-azure_v2.1.9_x5.0_windows_amd64.zip","algo":"Sha256","source":"packer-plugin-azure_v2.1.9_SHA256SUMS","hash":"da5b0f1b5b01eda771a1aa1b758273492eb5cecba5d6b64106d2b1a0a2e97cdc"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "1eaf7c90ee352dd38c9b21f27eba8d84c623b2bcbdbbe3387e305024ad2be9a3"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "7cc5955ca82e71e76b62f7b59f69443d2b5fd48726a340ed793c78ddbe742018"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "49e44dd3748f095a73b4ec43c1440b47c7a308787ce0dbb02fb2c54ef9dbd1de"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "e259397fadf6021ae5bd2bb3dd76d591456612edb170d55c21b3e9948cdc1a6d"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "f18c5e908e1b3bec394e27e1b9a7c86c32959baa5305fe6d2e848ac9a1822d09"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_linux_386.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "f65267a4c380a2c0aa7df1502789e736dedca4453f9e9086bb4965d5d2b82977"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "45e0069d8fe766e8b55de3a943f142b8d566a40986f7ee1635ca8aa68c40e098"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "812c8e0c026fb0a32eaebb028e4adbd93dac52edf33b41ba222eabd51d8e61b1"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "dda6c0f855adfba6cdd56de2299241b0d88142a9aa57d5887908a237b7a80fda"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_netbsd_386.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "fe8b8134ae734279755de87535ed876beff7bd50bd13944b1dc870d3d397cc64"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_netbsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "fe8492f13171e6ef04c491710d517be1c62619e0afb105af74484b9c0ea09607"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_netbsd_arm.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "99e7e69259157274c4c41d5e1b6a02976273590525cd5cf6b2874f92a6a6f077"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_openbsd_386.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "61f6e923828e57411db9cd360aa8cf155c013661aad1fb5119f6c70e00ade878"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_openbsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "ef88ccb432b0bb4619eb63a8b145d5f49b8f5533c72d7abbd6b1c209406ff7f4"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_openbsd_arm.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "64924772aa0e82942eb5a5646727286990ca1ef106ce3e8a56e1e1a3673223a4"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_solaris_amd64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "7efcf0a7127f6e5302ec14b71183d3916838ffed323569dd300f2058463ff785"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "a971b0414f045e9cb99abb6483e72b95b843443f13cb35251ee1ffb292c5d04f"
+    },
+    {
+      "fileName": "packer-plugin-azure_v2.1.9_x5.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "packer-plugin-azure_v2.1.9_SHA256SUMS",
+      "hash": "da5b0f1b5b01eda771a1aa1b758273492eb5cecba5d6b64106d2b1a0a2e97cdc"
+    }
+  ]
+}

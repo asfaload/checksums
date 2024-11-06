@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cvemap_0.0.7_linux_386.zip","algo":"Sha256","source":"cvemap_0.0.7_checksums.txt","hash":"1cae895168422f4c041c456e8a0106bc7ab07aca9ba6b729587fe7bb3ccbf53a"},{"fileName":"cvemap_0.0.7_linux_amd64.zip","algo":"Sha256","source":"cvemap_0.0.7_checksums.txt","hash":"4bc0839c8a5d8a467c638aed18466a180c10e1568c5cfb07a4389bada3741637"},{"fileName":"cvemap_0.0.7_linux_arm.zip","algo":"Sha256","source":"cvemap_0.0.7_checksums.txt","hash":"1ce053214f8708e402f6cd178c0964b761cad7a8f7637edc378a453c1743207a"},{"fileName":"cvemap_0.0.7_linux_arm64.zip","algo":"Sha256","source":"cvemap_0.0.7_checksums.txt","hash":"b7a82870329f07ae03e61642bc26ce058c880ad350f043be49764f0738015f8c"},{"fileName":"cvemap_0.0.7_macOS_amd64.zip","algo":"Sha256","source":"cvemap_0.0.7_checksums.txt","hash":"e3dcc4e4b95d0cf440fa499aedf955c0fe838577a1a6db78fde1aa71e3814984"},{"fileName":"cvemap_0.0.7_macOS_arm64.zip","algo":"Sha256","source":"cvemap_0.0.7_checksums.txt","hash":"8daf53baa0b9704a7b728c18d5d57754004e7ad009fa62ed6cbbfe2b9917756f"},{"fileName":"cvemap_0.0.7_windows_386.zip","algo":"Sha256","source":"cvemap_0.0.7_checksums.txt","hash":"1e9cce2d312fec4b56bf5e9cee4ec9f3cdfdc0498cb808af1fe4e9c02e504d25"},{"fileName":"cvemap_0.0.7_windows_amd64.zip","algo":"Sha256","source":"cvemap_0.0.7_checksums.txt","hash":"8247e7fbcd652c7511738ef5f70b45cd999dc268072acdd926e6faeea826f3a3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cvemap_0.0.7_linux_386.zip",
+      "algo": "Sha256",
+      "source": "cvemap_0.0.7_checksums.txt",
+      "hash": "1cae895168422f4c041c456e8a0106bc7ab07aca9ba6b729587fe7bb3ccbf53a"
+    },
+    {
+      "fileName": "cvemap_0.0.7_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "cvemap_0.0.7_checksums.txt",
+      "hash": "4bc0839c8a5d8a467c638aed18466a180c10e1568c5cfb07a4389bada3741637"
+    },
+    {
+      "fileName": "cvemap_0.0.7_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "cvemap_0.0.7_checksums.txt",
+      "hash": "1ce053214f8708e402f6cd178c0964b761cad7a8f7637edc378a453c1743207a"
+    },
+    {
+      "fileName": "cvemap_0.0.7_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "cvemap_0.0.7_checksums.txt",
+      "hash": "b7a82870329f07ae03e61642bc26ce058c880ad350f043be49764f0738015f8c"
+    },
+    {
+      "fileName": "cvemap_0.0.7_macOS_amd64.zip",
+      "algo": "Sha256",
+      "source": "cvemap_0.0.7_checksums.txt",
+      "hash": "e3dcc4e4b95d0cf440fa499aedf955c0fe838577a1a6db78fde1aa71e3814984"
+    },
+    {
+      "fileName": "cvemap_0.0.7_macOS_arm64.zip",
+      "algo": "Sha256",
+      "source": "cvemap_0.0.7_checksums.txt",
+      "hash": "8daf53baa0b9704a7b728c18d5d57754004e7ad009fa62ed6cbbfe2b9917756f"
+    },
+    {
+      "fileName": "cvemap_0.0.7_windows_386.zip",
+      "algo": "Sha256",
+      "source": "cvemap_0.0.7_checksums.txt",
+      "hash": "1e9cce2d312fec4b56bf5e9cee4ec9f3cdfdc0498cb808af1fe4e9c02e504d25"
+    },
+    {
+      "fileName": "cvemap_0.0.7_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "cvemap_0.0.7_checksums.txt",
+      "hash": "8247e7fbcd652c7511738ef5f70b45cd999dc268072acdd926e6faeea826f3a3"
+    }
+  ]
+}

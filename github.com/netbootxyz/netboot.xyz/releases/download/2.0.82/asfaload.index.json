@@ -1,1 +1,157 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"netboot.xyz-arm64-snp.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"ad5a6a368b289374dd1c3343ad6fbf7979befbaca04b6c03a253df2dff640a4e"},{"fileName":"netboot.xyz-arm64-snponly.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"e98952c44d7bd77e067e6b474a8384fe926adf7d9cddde4b1e9523169bb3d6a7"},{"fileName":"netboot.xyz-arm64.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"02de26d4b5646c591a46725811752c4bb247ef5411e69bdab2c33a8ef06fa0b0"},{"fileName":"netboot.xyz-arm64.img","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"da94e84fc8c2c37e22bb5c42955a643ebd386a36d7d79f346a10494f16b6583d"},{"fileName":"netboot.xyz-arm64.iso","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"acc3fe88d0d01873c10ae4bf47d4e1a85539f9e3981d86296409c18d946bd2a9"},{"fileName":"netboot.xyz-linux.bin","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"2c10f8d75b744acbb9d5e91e7a1a1aab10a9b1988f100619e49e1cd106d8a556"},{"fileName":"netboot.xyz-metal-arm64-snp.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"5807f7f226769e05650ed29905feaa670e06de276302dae76189b90134833cfb"},{"fileName":"netboot.xyz-metal-arm64-snponly.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"ca9fd2466a7e2a7f378111201a287f25f85a5defca25d2cf755be2573ff96d75"},{"fileName":"netboot.xyz-metal-arm64.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"ad11002615ca06472ba3ef4c9166ffe94e3d038bacbc7ef0560e553c513b3212"},{"fileName":"netboot.xyz-metal-snp.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"0762907dedc8368955e0f861cd2f904e52632c8531ac6e37797407d63360459c"},{"fileName":"netboot.xyz-metal-snponly.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"5df122978415e33e3291ec11cd8334d34e619e5dc46e5aaf3cb0224bc78be856"},{"fileName":"netboot.xyz-metal.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"5ca67094852d99d78b93467e0075c2115f3791ed5d3424c030947a5cad52c902"},{"fileName":"netboot.xyz-metal.kpxe","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"069b0dddba0c2d55238e95e3088a4856743a6e607606dd87f786deb6dbe6f56d"},{"fileName":"netboot.xyz-multiarch.img","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"48c37f072eef841036f1e2d8778b2a9103089afc3e4be577a0be98bd8a39e69b"},{"fileName":"netboot.xyz-multiarch.iso","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"7fbb853d87d5e40590b58a3cf4b197d3e1bb3ee8f5e5640be9c81ad4375fe569"},{"fileName":"netboot.xyz-snp.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"7a96b8b9fbcfdbcf0d86a23427df9059afd4b2b0b70e42da02007c8ec7a93618"},{"fileName":"netboot.xyz-snponly.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"95c9e64adf5529fe72b6ab49c1e9640065abb403d30971291947f5986242e646"},{"fileName":"netboot.xyz-undionly.kpxe","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"c067c2cdd0c9d0dd0afcd9d8e2ddefa37bcb1b570100e1bcf3d580d4c08147e3"},{"fileName":"netboot.xyz.dsk","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"c03dd32ba3c38ea46a488d820775cf1c3c4fb12108e35a531e684d96220140e7"},{"fileName":"netboot.xyz.efi","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"70ef0c0a4ae8434b3f8fcc27c302167e7c44bc284b78e670fa00f8c2b6010288"},{"fileName":"netboot.xyz.img","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"c2bf615df97eaed456778200721c9cc1afca5c79d164b404c8a641f4653b03cc"},{"fileName":"netboot.xyz.iso","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"963ff1b2945cb56906571bf0d844fc3b4393746b71c58a3bd060232d0a25f57c"},{"fileName":"netboot.xyz.kpxe","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"91fc30a413b5f29f161e5ba7a70194c92d6b4b3bde6367364e0b6566838e5a5c"},{"fileName":"netboot.xyz.lkrn","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"4f02291edb323681d7b57039077627400d13d7cb6ee91538082b86d342150ba7"},{"fileName":"netboot.xyz.pdsk","algo":"Sha256","source":"netboot.xyz-sha256-checksums.txt","hash":"703d3480d86841c61d9fc83cdc3c2bf57f3881935f4ff83a2f3ccf2715eeabe7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "netboot.xyz-arm64-snp.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "ad5a6a368b289374dd1c3343ad6fbf7979befbaca04b6c03a253df2dff640a4e"
+    },
+    {
+      "fileName": "netboot.xyz-arm64-snponly.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "e98952c44d7bd77e067e6b474a8384fe926adf7d9cddde4b1e9523169bb3d6a7"
+    },
+    {
+      "fileName": "netboot.xyz-arm64.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "02de26d4b5646c591a46725811752c4bb247ef5411e69bdab2c33a8ef06fa0b0"
+    },
+    {
+      "fileName": "netboot.xyz-arm64.img",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "da94e84fc8c2c37e22bb5c42955a643ebd386a36d7d79f346a10494f16b6583d"
+    },
+    {
+      "fileName": "netboot.xyz-arm64.iso",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "acc3fe88d0d01873c10ae4bf47d4e1a85539f9e3981d86296409c18d946bd2a9"
+    },
+    {
+      "fileName": "netboot.xyz-linux.bin",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "2c10f8d75b744acbb9d5e91e7a1a1aab10a9b1988f100619e49e1cd106d8a556"
+    },
+    {
+      "fileName": "netboot.xyz-metal-arm64-snp.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "5807f7f226769e05650ed29905feaa670e06de276302dae76189b90134833cfb"
+    },
+    {
+      "fileName": "netboot.xyz-metal-arm64-snponly.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "ca9fd2466a7e2a7f378111201a287f25f85a5defca25d2cf755be2573ff96d75"
+    },
+    {
+      "fileName": "netboot.xyz-metal-arm64.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "ad11002615ca06472ba3ef4c9166ffe94e3d038bacbc7ef0560e553c513b3212"
+    },
+    {
+      "fileName": "netboot.xyz-metal-snp.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "0762907dedc8368955e0f861cd2f904e52632c8531ac6e37797407d63360459c"
+    },
+    {
+      "fileName": "netboot.xyz-metal-snponly.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "5df122978415e33e3291ec11cd8334d34e619e5dc46e5aaf3cb0224bc78be856"
+    },
+    {
+      "fileName": "netboot.xyz-metal.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "5ca67094852d99d78b93467e0075c2115f3791ed5d3424c030947a5cad52c902"
+    },
+    {
+      "fileName": "netboot.xyz-metal.kpxe",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "069b0dddba0c2d55238e95e3088a4856743a6e607606dd87f786deb6dbe6f56d"
+    },
+    {
+      "fileName": "netboot.xyz-multiarch.img",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "48c37f072eef841036f1e2d8778b2a9103089afc3e4be577a0be98bd8a39e69b"
+    },
+    {
+      "fileName": "netboot.xyz-multiarch.iso",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "7fbb853d87d5e40590b58a3cf4b197d3e1bb3ee8f5e5640be9c81ad4375fe569"
+    },
+    {
+      "fileName": "netboot.xyz-snp.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "7a96b8b9fbcfdbcf0d86a23427df9059afd4b2b0b70e42da02007c8ec7a93618"
+    },
+    {
+      "fileName": "netboot.xyz-snponly.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "95c9e64adf5529fe72b6ab49c1e9640065abb403d30971291947f5986242e646"
+    },
+    {
+      "fileName": "netboot.xyz-undionly.kpxe",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "c067c2cdd0c9d0dd0afcd9d8e2ddefa37bcb1b570100e1bcf3d580d4c08147e3"
+    },
+    {
+      "fileName": "netboot.xyz.dsk",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "c03dd32ba3c38ea46a488d820775cf1c3c4fb12108e35a531e684d96220140e7"
+    },
+    {
+      "fileName": "netboot.xyz.efi",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "70ef0c0a4ae8434b3f8fcc27c302167e7c44bc284b78e670fa00f8c2b6010288"
+    },
+    {
+      "fileName": "netboot.xyz.img",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "c2bf615df97eaed456778200721c9cc1afca5c79d164b404c8a641f4653b03cc"
+    },
+    {
+      "fileName": "netboot.xyz.iso",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "963ff1b2945cb56906571bf0d844fc3b4393746b71c58a3bd060232d0a25f57c"
+    },
+    {
+      "fileName": "netboot.xyz.kpxe",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "91fc30a413b5f29f161e5ba7a70194c92d6b4b3bde6367364e0b6566838e5a5c"
+    },
+    {
+      "fileName": "netboot.xyz.lkrn",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "4f02291edb323681d7b57039077627400d13d7cb6ee91538082b86d342150ba7"
+    },
+    {
+      "fileName": "netboot.xyz.pdsk",
+      "algo": "Sha256",
+      "source": "netboot.xyz-sha256-checksums.txt",
+      "hash": "703d3480d86841c61d9fc83cdc3c2bf57f3881935f4ff83a2f3ccf2715eeabe7"
+    }
+  ]
+}

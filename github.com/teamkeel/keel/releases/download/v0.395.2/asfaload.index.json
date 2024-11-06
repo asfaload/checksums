@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"keel_0.395.2_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"71c6cc1cd4b2706c9768d4b2d18f2ed7c1318037866d812098d1d788c3ae1faf"},{"fileName":"keel_0.395.2_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"25be837a5d0d56ad7b82860f9aa651ed1c7ab7c9ed9d36a1031a6fd2721473c8"},{"fileName":"keel_0.395.2_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5683b4543261a79cdc77787dd7af8a0078ddaf2cf3c7ab758c75b94047352fd1"},{"fileName":"keel_0.395.2_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"26158b183015eabe0316b0571c927db5f7accdc7c50983926b479a002660e0a7"},{"fileName":"keel_0.395.2_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b19c0128775e96ff9f74e03ebdec0f98972c4131772000697e6b797defaa5a89"},{"fileName":"keel_0.395.2_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2bfa687963f682cda75e7beb1e9cc1dafbc27c8a3b42862e0177156728e8703a"},{"fileName":"keel_0.395.2_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"291e4bfe5288f82df3dd999439ca471440638967930a9c75de2b4e332783385e"},{"fileName":"keel_0.395.2_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8d1486a7fea430d5109ce7e0ddffbd5b5cfcd5a08b24818d153ac0abb592b596"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "keel_0.395.2_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "71c6cc1cd4b2706c9768d4b2d18f2ed7c1318037866d812098d1d788c3ae1faf"
+    },
+    {
+      "fileName": "keel_0.395.2_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "25be837a5d0d56ad7b82860f9aa651ed1c7ab7c9ed9d36a1031a6fd2721473c8"
+    },
+    {
+      "fileName": "keel_0.395.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5683b4543261a79cdc77787dd7af8a0078ddaf2cf3c7ab758c75b94047352fd1"
+    },
+    {
+      "fileName": "keel_0.395.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "26158b183015eabe0316b0571c927db5f7accdc7c50983926b479a002660e0a7"
+    },
+    {
+      "fileName": "keel_0.395.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b19c0128775e96ff9f74e03ebdec0f98972c4131772000697e6b797defaa5a89"
+    },
+    {
+      "fileName": "keel_0.395.2_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2bfa687963f682cda75e7beb1e9cc1dafbc27c8a3b42862e0177156728e8703a"
+    },
+    {
+      "fileName": "keel_0.395.2_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "291e4bfe5288f82df3dd999439ca471440638967930a9c75de2b4e332783385e"
+    },
+    {
+      "fileName": "keel_0.395.2_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8d1486a7fea430d5109ce7e0ddffbd5b5cfcd5a08b24818d153ac0abb592b596"
+    }
+  ]
+}

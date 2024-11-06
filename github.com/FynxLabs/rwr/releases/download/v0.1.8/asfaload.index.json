@@ -1,1 +1,127 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"rwr_0.1.8_linux_amd64.apk","algo":"Sha256","source":"checksums.txt","hash":"3c212b96bf894e0a18b29eee7dd32d7f65fd64aa568579d927b3fb782066d1df"},{"fileName":"rwr_0.1.8_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"3cabaf9b216c3aba891c5ae6bbe6916e7818686acf82f2cfcfff75ed643d9a1f"},{"fileName":"rwr_0.1.8_linux_amd64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"6c7ed4acff4f3ae9954bc8b919a85a931da0f96283f49c4bdd406278c2a51484"},{"fileName":"rwr_0.1.8_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"5f7d09086eabe4d4df855b28351cf61198af66816ac3842384850cd8f5c3b79a"},{"fileName":"rwr_0.1.8_linux_arm.apk","algo":"Sha256","source":"checksums.txt","hash":"243c6281677cbcc17e64bd4d2dd0416c6ab845335e54e9de30ea2859fcd57f94"},{"fileName":"rwr_0.1.8_linux_arm.deb","algo":"Sha256","source":"checksums.txt","hash":"997d7dcbd2499d4c95ef29628cbef5916eb740a2ef4ad32f224fc8f2d79faab1"},{"fileName":"rwr_0.1.8_linux_arm.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"91d449414d23bd4b85c15345a4cdc585641575393aabdf07ed38849bdee5ec48"},{"fileName":"rwr_0.1.8_linux_arm.rpm","algo":"Sha256","source":"checksums.txt","hash":"8babcfb1da58f708857a5432be74fe1f68cc1f9c9b44de6b8f5f1d24899b9f36"},{"fileName":"rwr_0.1.8_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"bb13f5c68f32903995c180a9922510891fb6a87a47334ed84d8a3eefe5ffeb78"},{"fileName":"rwr_0.1.8_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"aeeb512b6bd03d92d65ab11bdaa817215e3503b1eecaec250bf75f28ff6a9ab8"},{"fileName":"rwr_0.1.8_linux_arm64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"44f01a63f3dd0b35a2d5e4d29f7487c773c8b2857e123d2d4913350f69cab296"},{"fileName":"rwr_0.1.8_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"03f5bc89111771c5d28828f49625adbb01cbfe5c8d00b7f8f0279c1e2913327c"},{"fileName":"rwr_Darwin_all.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1c70e254c84a50c22fabb81795148315534a8d9b72eed7b5c5f26f34b4e520d8"},{"fileName":"rwr_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3e683f07f3c4150b4c5f754d6698e571e28470e3153b482dfc15cda3df4cce73"},{"fileName":"rwr_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3ad217ff4393ceb1c560a5b264c608bd93e8f26f21826053b1a86394390c696b"},{"fileName":"rwr_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"36d0594f8a922b959c74b1f3dbbbdafacebf57de888d190effd29731e5ac5a21"},{"fileName":"rwr_Linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fed7bb77d6c65129a6ecac846dc06465559a0672b6b48658b54a0b459a69c095"},{"fileName":"rwr_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d12fb21e889b2c9e8e7d587477de1c3a8893db8a9a84c913d0bb5518ff508870"},{"fileName":"rwr_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"64fad1a4ee0ec48e45902435c5944c4277f50e023e235f40b56f705eda352129"},{"fileName":"rwr_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"0f07c11c0f62c44078df4a3ca76bf1f395d05b621de7662870b3674ad4d4316e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "rwr_0.1.8_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3c212b96bf894e0a18b29eee7dd32d7f65fd64aa568579d927b3fb782066d1df"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3cabaf9b216c3aba891c5ae6bbe6916e7818686acf82f2cfcfff75ed643d9a1f"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_amd64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6c7ed4acff4f3ae9954bc8b919a85a931da0f96283f49c4bdd406278c2a51484"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5f7d09086eabe4d4df855b28351cf61198af66816ac3842384850cd8f5c3b79a"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_arm.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "243c6281677cbcc17e64bd4d2dd0416c6ab845335e54e9de30ea2859fcd57f94"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_arm.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "997d7dcbd2499d4c95ef29628cbef5916eb740a2ef4ad32f224fc8f2d79faab1"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_arm.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "91d449414d23bd4b85c15345a4cdc585641575393aabdf07ed38849bdee5ec48"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_arm.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8babcfb1da58f708857a5432be74fe1f68cc1f9c9b44de6b8f5f1d24899b9f36"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bb13f5c68f32903995c180a9922510891fb6a87a47334ed84d8a3eefe5ffeb78"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aeeb512b6bd03d92d65ab11bdaa817215e3503b1eecaec250bf75f28ff6a9ab8"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_arm64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "44f01a63f3dd0b35a2d5e4d29f7487c773c8b2857e123d2d4913350f69cab296"
+    },
+    {
+      "fileName": "rwr_0.1.8_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "03f5bc89111771c5d28828f49625adbb01cbfe5c8d00b7f8f0279c1e2913327c"
+    },
+    {
+      "fileName": "rwr_Darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1c70e254c84a50c22fabb81795148315534a8d9b72eed7b5c5f26f34b4e520d8"
+    },
+    {
+      "fileName": "rwr_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3e683f07f3c4150b4c5f754d6698e571e28470e3153b482dfc15cda3df4cce73"
+    },
+    {
+      "fileName": "rwr_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3ad217ff4393ceb1c560a5b264c608bd93e8f26f21826053b1a86394390c696b"
+    },
+    {
+      "fileName": "rwr_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "36d0594f8a922b959c74b1f3dbbbdafacebf57de888d190effd29731e5ac5a21"
+    },
+    {
+      "fileName": "rwr_Linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fed7bb77d6c65129a6ecac846dc06465559a0672b6b48658b54a0b459a69c095"
+    },
+    {
+      "fileName": "rwr_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d12fb21e889b2c9e8e7d587477de1c3a8893db8a9a84c913d0bb5518ff508870"
+    },
+    {
+      "fileName": "rwr_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "64fad1a4ee0ec48e45902435c5944c4277f50e023e235f40b56f705eda352129"
+    },
+    {
+      "fileName": "rwr_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0f07c11c0f62c44078df4a3ca76bf1f395d05b621de7662870b3674ad4d4316e"
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tt_2.5.1_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"65d7aaff3d18a62c3d646b8a910a3c29709aa8085e9ac658ec3be295e5b398f7"},{"fileName":"tt-2.5.1-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"92544bb59679a20daacc456d34a6fe8d0365e9b53b4b7b76798c808a069c732a"},{"fileName":"tt-2.5.1.x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"c1c073d5119a3317d0e87fb5d5b4cd7c8de1f4c6c77a8b42a27093d7b4bcfdc1"},{"fileName":"tt_2.5.1_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"0f38955d594c128b7fba47b8c803b91cfcb5448c9bac506941f87128d4971c55"},{"fileName":"tt-2.5.1-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4881dd55acf13aa7ad7d18fee1a1c6e9b939b016c03bdb83fd815b25e775347f"},{"fileName":"tt-2.5.1.aarch64.rpm","algo":"Sha256","source":"checksums.txt","hash":"c0832fa4a3373ec641c2ee19c0d6feb734c357d24eb5486b9385566c191d2c29"},{"fileName":"tt-2.5.1-darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"00298445a4e5db8681e335eaa9026bcab513005fa0db315f6c02185985e5591c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tt_2.5.1_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "65d7aaff3d18a62c3d646b8a910a3c29709aa8085e9ac658ec3be295e5b398f7"
+    },
+    {
+      "fileName": "tt-2.5.1-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "92544bb59679a20daacc456d34a6fe8d0365e9b53b4b7b76798c808a069c732a"
+    },
+    {
+      "fileName": "tt-2.5.1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c1c073d5119a3317d0e87fb5d5b4cd7c8de1f4c6c77a8b42a27093d7b4bcfdc1"
+    },
+    {
+      "fileName": "tt_2.5.1_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0f38955d594c128b7fba47b8c803b91cfcb5448c9bac506941f87128d4971c55"
+    },
+    {
+      "fileName": "tt-2.5.1-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4881dd55acf13aa7ad7d18fee1a1c6e9b939b016c03bdb83fd815b25e775347f"
+    },
+    {
+      "fileName": "tt-2.5.1.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c0832fa4a3373ec641c2ee19c0d6feb734c357d24eb5486b9385566c191d2c29"
+    },
+    {
+      "fileName": "tt-2.5.1-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "00298445a4e5db8681e335eaa9026bcab513005fa0db315f6c02185985e5591c"
+    }
+  ]
+}

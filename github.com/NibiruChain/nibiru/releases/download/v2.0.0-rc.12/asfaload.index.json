@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T22:34:47+00:00","publishedOn":"2024-11-05T22:36:23.97955+00:00","version":1,"publishedFiles":[{"fileName":"nibid_2.0.0-rc.12_darwin_all.tar.gz","algo":"Sha256","source":"nibid_2.0.0-rc.12_checksums.txt","hash":"031fd362104bc714cb0ce1421b43c0a8bab0bc3595ea43dfbf47e07b6b5d772d"},{"fileName":"nibid_2.0.0-rc.12_darwin_amd64.tar.gz","algo":"Sha256","source":"nibid_2.0.0-rc.12_checksums.txt","hash":"97631355790b3f09420480a6d08a60ae18bcd07401636b66f5e29f5ce1faf079"},{"fileName":"nibid_2.0.0-rc.12_darwin_arm64.tar.gz","algo":"Sha256","source":"nibid_2.0.0-rc.12_checksums.txt","hash":"fd793e915d769920c2ab7fc7b846644cc408ef686d4e5ab2bdaa9ecb3c8cb8db"},{"fileName":"nibid_2.0.0-rc.12_linux_amd64.tar.gz","algo":"Sha256","source":"nibid_2.0.0-rc.12_checksums.txt","hash":"bad7ed0e4c4b8de84dc2d3e7443080f805ca94c925dbe565c252ca690deba81b"},{"fileName":"nibid_2.0.0-rc.12_linux_arm64.tar.gz","algo":"Sha256","source":"nibid_2.0.0-rc.12_checksums.txt","hash":"bc78174126ead67c7eaf9b37a9558b8da34f29960cfcb7ee9c99625c783c081f"}]}
+{
+  "mirroredOn": "2024-11-05T22:36:23.97955+00:00",
+  "publishedOn": "2024-11-05T22:34:47+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nibid_2.0.0-rc.12_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "nibid_2.0.0-rc.12_checksums.txt",
+      "hash": "031fd362104bc714cb0ce1421b43c0a8bab0bc3595ea43dfbf47e07b6b5d772d"
+    },
+    {
+      "fileName": "nibid_2.0.0-rc.12_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "nibid_2.0.0-rc.12_checksums.txt",
+      "hash": "97631355790b3f09420480a6d08a60ae18bcd07401636b66f5e29f5ce1faf079"
+    },
+    {
+      "fileName": "nibid_2.0.0-rc.12_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "nibid_2.0.0-rc.12_checksums.txt",
+      "hash": "fd793e915d769920c2ab7fc7b846644cc408ef686d4e5ab2bdaa9ecb3c8cb8db"
+    },
+    {
+      "fileName": "nibid_2.0.0-rc.12_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "nibid_2.0.0-rc.12_checksums.txt",
+      "hash": "bad7ed0e4c4b8de84dc2d3e7443080f805ca94c925dbe565c252ca690deba81b"
+    },
+    {
+      "fileName": "nibid_2.0.0-rc.12_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "nibid_2.0.0-rc.12_checksums.txt",
+      "hash": "bc78174126ead67c7eaf9b37a9558b8da34f29960cfcb7ee9c99625c783c081f"
+    }
+  ]
+}

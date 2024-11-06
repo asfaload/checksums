@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"artie-transfer_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4f4221bcadc756cbd5c2126492eed71f6d5c23a2fd8a30d802658a15b78ef851"},{"fileName":"artie-transfer_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ce32aeb6a660add75b98e167196ba1fcc079557e8af8b6ee74795cbab941b8ca"},{"fileName":"artie-transfer_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5594244e6ca74f8f8337c3fd28026dea8c45301fa1994ca6a3f0db01225f2fcd"},{"fileName":"artie-transfer_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f9ca13e5eb168d047464cdf66afd5ad9e0045e52145d185d3709b90399337b38"},{"fileName":"artie-transfer_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ab2eb56550483f7767fc898a0e753921942d8477a15cf0edd22c7a2310aa5f4a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "artie-transfer_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4f4221bcadc756cbd5c2126492eed71f6d5c23a2fd8a30d802658a15b78ef851"
+    },
+    {
+      "fileName": "artie-transfer_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ce32aeb6a660add75b98e167196ba1fcc079557e8af8b6ee74795cbab941b8ca"
+    },
+    {
+      "fileName": "artie-transfer_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5594244e6ca74f8f8337c3fd28026dea8c45301fa1994ca6a3f0db01225f2fcd"
+    },
+    {
+      "fileName": "artie-transfer_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f9ca13e5eb168d047464cdf66afd5ad9e0045e52145d185d3709b90399337b38"
+    },
+    {
+      "fileName": "artie-transfer_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ab2eb56550483f7767fc898a0e753921942d8477a15cf0edd22c7a2310aa5f4a"
+    }
+  ]
+}

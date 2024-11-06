@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"speakeasy_darwin_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"c154eaf3d9cce30c739b0422125345c051b4b0e0edcbbb4bc12d65e67c046627"},{"fileName":"speakeasy_darwin_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"4fb275174e6bacb6e8a399f262611c01fa660dd37d09dcae06e91adca8f913ba"},{"fileName":"speakeasy_linux_386.zip","algo":"Sha256","source":"checksums.txt","hash":"6989b70234a97449c984008c2e961688e9460f429edf5a70fbe8a59132723ddd"},{"fileName":"speakeasy_linux_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"58369606b11d661accb36ec1436eab11e45f011e87b696dcb0462ce12f3f81a5"},{"fileName":"speakeasy_linux_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"c9398ab467064781fb76c861ca1a6af1ccc1e3089cfbee369f0e3cdc0af8da0c"},{"fileName":"speakeasy_windows_386.zip","algo":"Sha256","source":"checksums.txt","hash":"8a1518efc2c3361f2242869bc1c8b83d7cc56e9398ac48f52ae2deb7406d5f22"},{"fileName":"speakeasy_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"2eb26c62d97d209a4b3dd884101022bf821daf3a112c2e620dbc03702bd317d4"},{"fileName":"speakeasy_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"491354dc19166235bbbbd40246025688144da3aa74f8425958aa47064ffa9249"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "speakeasy_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c154eaf3d9cce30c739b0422125345c051b4b0e0edcbbb4bc12d65e67c046627"
+    },
+    {
+      "fileName": "speakeasy_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4fb275174e6bacb6e8a399f262611c01fa660dd37d09dcae06e91adca8f913ba"
+    },
+    {
+      "fileName": "speakeasy_linux_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6989b70234a97449c984008c2e961688e9460f429edf5a70fbe8a59132723ddd"
+    },
+    {
+      "fileName": "speakeasy_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "58369606b11d661accb36ec1436eab11e45f011e87b696dcb0462ce12f3f81a5"
+    },
+    {
+      "fileName": "speakeasy_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c9398ab467064781fb76c861ca1a6af1ccc1e3089cfbee369f0e3cdc0af8da0c"
+    },
+    {
+      "fileName": "speakeasy_windows_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8a1518efc2c3361f2242869bc1c8b83d7cc56e9398ac48f52ae2deb7406d5f22"
+    },
+    {
+      "fileName": "speakeasy_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2eb26c62d97d209a4b3dd884101022bf821daf3a112c2e620dbc03702bd317d4"
+    },
+    {
+      "fileName": "speakeasy_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "491354dc19166235bbbbd40246025688144da3aa74f8425958aa47064ffa9249"
+    }
+  ]
+}

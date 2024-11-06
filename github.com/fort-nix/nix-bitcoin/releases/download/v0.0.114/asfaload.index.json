@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"nix-bitcoin-0.0.114.tar.gz","algo":"Sha256","source":"SHA256SUMS.txt","hash":"931d1a9f9f7033b7cf5f702081654f74a457b2f4db18465f2ade66938fd65cb1"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nix-bitcoin-0.0.114.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.txt",
+      "hash": "931d1a9f9f7033b7cf5f702081654f74a457b2f4db18465f2ade66938fd65cb1"
+    }
+  ]
+}

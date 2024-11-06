@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"shopware-operator_Darwin_arm64.tar.gz","algo":"Sha256","source":"shopware-operator_0.0.25_checksums.txt","hash":"5013351cc2e0b2b97bdda4c258844e83127e64f2d944aa7dda1c836a44675f24"},{"fileName":"shopware-operator_Darwin_x86_64.tar.gz","algo":"Sha256","source":"shopware-operator_0.0.25_checksums.txt","hash":"7b13f44e575dd3681330562e5b4c97060ebc9199b70330810dff5a8fea66a984"},{"fileName":"shopware-operator_Linux_arm64.tar.gz","algo":"Sha256","source":"shopware-operator_0.0.25_checksums.txt","hash":"0cca4a5b139a51a134926e2f4d8bb13874917662820535f16655075c3ffe7539"},{"fileName":"shopware-operator_Linux_i386.tar.gz","algo":"Sha256","source":"shopware-operator_0.0.25_checksums.txt","hash":"107f658b513dbf69dd972e983ecdff5f604d4b9cdbccf3cc88410bab8c6fba44"},{"fileName":"shopware-operator_Linux_x86_64.tar.gz","algo":"Sha256","source":"shopware-operator_0.0.25_checksums.txt","hash":"8f6ee560e29cf64a681edfe734175e23d455ab77473ef6ab52206f9fa3f2bcd5"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "shopware-operator_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "shopware-operator_0.0.25_checksums.txt",
+      "hash": "5013351cc2e0b2b97bdda4c258844e83127e64f2d944aa7dda1c836a44675f24"
+    },
+    {
+      "fileName": "shopware-operator_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "shopware-operator_0.0.25_checksums.txt",
+      "hash": "7b13f44e575dd3681330562e5b4c97060ebc9199b70330810dff5a8fea66a984"
+    },
+    {
+      "fileName": "shopware-operator_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "shopware-operator_0.0.25_checksums.txt",
+      "hash": "0cca4a5b139a51a134926e2f4d8bb13874917662820535f16655075c3ffe7539"
+    },
+    {
+      "fileName": "shopware-operator_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "shopware-operator_0.0.25_checksums.txt",
+      "hash": "107f658b513dbf69dd972e983ecdff5f604d4b9cdbccf3cc88410bab8c6fba44"
+    },
+    {
+      "fileName": "shopware-operator_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "shopware-operator_0.0.25_checksums.txt",
+      "hash": "8f6ee560e29cf64a681edfe734175e23d455ab77473ef6ab52206f9fa3f2bcd5"
+    }
+  ]
+}

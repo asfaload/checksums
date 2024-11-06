@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-06T07:14:32+00:00","publishedOn":"2024-11-06T07:16:28.3429046+00:00","version":1,"publishedFiles":[{"fileName":"VSCodium-1.96.0.24311-insider-src.tar.gz","algo":"Sha256","source":"VSCodium-1.96.0.24311-insider-src.tar.gz.sha256","hash":"ff7655ed5358608627029b3d870a12da494577faee979888c97d0db074ba0e79"},{"fileName":"VSCodium-1.96.0.24311-insider-src.zip","algo":"Sha256","source":"VSCodium-1.96.0.24311-insider-src.zip.sha256","hash":"1b24f09190850d668beee1da08ff483dfcc6eaecea0d1e8667bd987c3d86159a"}]}
+{
+  "mirroredOn": "2024-11-06T07:16:28.3429046+00:00",
+  "publishedOn": "2024-11-06T07:14:32+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "VSCodium-1.96.0.24311-insider-src.tar.gz",
+      "algo": "Sha256",
+      "source": "VSCodium-1.96.0.24311-insider-src.tar.gz.sha256",
+      "hash": "ff7655ed5358608627029b3d870a12da494577faee979888c97d0db074ba0e79"
+    },
+    {
+      "fileName": "VSCodium-1.96.0.24311-insider-src.zip",
+      "algo": "Sha256",
+      "source": "VSCodium-1.96.0.24311-insider-src.zip.sha256",
+      "hash": "1b24f09190850d668beee1da08ff483dfcc6eaecea0d1e8667bd987c3d86159a"
+    }
+  ]
+}

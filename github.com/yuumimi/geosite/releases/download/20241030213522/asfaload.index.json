@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"geosite.dat","algo":"Sha256","source":"geosite.dat.sha256sum","hash":"cd9985392639c180b39432a57f44ae33d4b9de44f5f9f1830df94d6f7a53d2cc"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "geosite.dat",
+      "algo": "Sha256",
+      "source": "geosite.dat.sha256sum",
+      "hash": "cd9985392639c180b39432a57f44ae33d4b9de44f5f9f1830df94d6f7a53d2cc"
+    }
+  ]
+}

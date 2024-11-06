@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kube-burner-ocp-V1.4.4-windows-arm64.zip","algo":"Sha256","source":"kube-burner-ocp-checksums.txt","hash":"19b2447ca5b4042863dee156ba317c645ece343af972a3263922cb61c43d4088"},{"fileName":"kube-burner-ocp-V1.4.4-linux-s390x.tar.gz","algo":"Sha256","source":"kube-burner-ocp-checksums.txt","hash":"2f62d59f69650474aa6f7653972f9b287023aec3ca4cb95e665e43a0ce8cd237"},{"fileName":"kube-burner-ocp-V1.4.4-darwin-x86_64.tar.gz","algo":"Sha256","source":"kube-burner-ocp-checksums.txt","hash":"3a3bad701dbe53773343984819ce77dbebb9cfe90d387329e209970267badf5c"},{"fileName":"kube-burner-ocp-V1.4.4-linux-arm64.tar.gz","algo":"Sha256","source":"kube-burner-ocp-checksums.txt","hash":"598b613a53f709954149e256ac3bf32aa9a4f35fd1e28ddfbf4caec0eb6af85e"},{"fileName":"kube-burner-ocp-V1.4.4-windows-x86_64.zip","algo":"Sha256","source":"kube-burner-ocp-checksums.txt","hash":"76048d464a8c271ac0b5bb0941df26d82138cec54acb6615c149b7db13f7f5d9"},{"fileName":"kube-burner-ocp-V1.4.4-darwin-arm64.tar.gz","algo":"Sha256","source":"kube-burner-ocp-checksums.txt","hash":"d9fb8c35818cae7ff02ddc8a138b89db38245f1546f673ab3ff6733e9d64a58b"},{"fileName":"kube-burner-ocp-V1.4.4-linux-ppc64le.tar.gz","algo":"Sha256","source":"kube-burner-ocp-checksums.txt","hash":"e179bd8a08f95c5d9372eaf1385f2917d8dd864c7ff95a1fa23714014a223e93"},{"fileName":"kube-burner-ocp-V1.4.4-linux-x86_64.tar.gz","algo":"Sha256","source":"kube-burner-ocp-checksums.txt","hash":"e51c8914db712a02c51ec88d03ae3690b09a1940a97c08133e862953d6853d54"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kube-burner-ocp-V1.4.4-windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "kube-burner-ocp-checksums.txt",
+      "hash": "19b2447ca5b4042863dee156ba317c645ece343af972a3263922cb61c43d4088"
+    },
+    {
+      "fileName": "kube-burner-ocp-V1.4.4-linux-s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "kube-burner-ocp-checksums.txt",
+      "hash": "2f62d59f69650474aa6f7653972f9b287023aec3ca4cb95e665e43a0ce8cd237"
+    },
+    {
+      "fileName": "kube-burner-ocp-V1.4.4-darwin-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "kube-burner-ocp-checksums.txt",
+      "hash": "3a3bad701dbe53773343984819ce77dbebb9cfe90d387329e209970267badf5c"
+    },
+    {
+      "fileName": "kube-burner-ocp-V1.4.4-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kube-burner-ocp-checksums.txt",
+      "hash": "598b613a53f709954149e256ac3bf32aa9a4f35fd1e28ddfbf4caec0eb6af85e"
+    },
+    {
+      "fileName": "kube-burner-ocp-V1.4.4-windows-x86_64.zip",
+      "algo": "Sha256",
+      "source": "kube-burner-ocp-checksums.txt",
+      "hash": "76048d464a8c271ac0b5bb0941df26d82138cec54acb6615c149b7db13f7f5d9"
+    },
+    {
+      "fileName": "kube-burner-ocp-V1.4.4-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "kube-burner-ocp-checksums.txt",
+      "hash": "d9fb8c35818cae7ff02ddc8a138b89db38245f1546f673ab3ff6733e9d64a58b"
+    },
+    {
+      "fileName": "kube-burner-ocp-V1.4.4-linux-ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "kube-burner-ocp-checksums.txt",
+      "hash": "e179bd8a08f95c5d9372eaf1385f2917d8dd864c7ff95a1fa23714014a223e93"
+    },
+    {
+      "fileName": "kube-burner-ocp-V1.4.4-linux-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "kube-burner-ocp-checksums.txt",
+      "hash": "e51c8914db712a02c51ec88d03ae3690b09a1940a97c08133e862953d6853d54"
+    }
+  ]
+}

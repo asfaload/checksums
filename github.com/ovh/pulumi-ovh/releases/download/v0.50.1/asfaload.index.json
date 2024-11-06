@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pulumi-ovh-0.50.1.tar.gz","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"4e89601298cecb471defb7318b26e7db725a1f0c839bd010697fcd7c4328a716"},{"fileName":"pulumi-ovh-0.50.1.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"3565bf4fc66d1c71c923acc244e920723f0e115a00edbb985a0fef90900acd48"},{"fileName":"pulumi-resource-ovh-v0.50.1-darwin-amd64.tar.gz","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"66d381fe4ce47ccfbebe993639ce44f75a61e7d651d73538c7dedcd976f206d8"},{"fileName":"pulumi-resource-ovh-v0.50.1-darwin-amd64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"adabefec28f2743039f6ce7797ce9341b2ee4a71929072648db17c3468cb4acf"},{"fileName":"pulumi-resource-ovh-v0.50.1-darwin-arm64.tar.gz","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"8a32b159c6de2e49d34a8d41cf53f2572b6af8c54c7cfffcbc08c83518e03e2d"},{"fileName":"pulumi-resource-ovh-v0.50.1-darwin-arm64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"dc1a2c59f59a64105f079607f6b97a12945ce35e30d6bbe846128b2e8b8f719e"},{"fileName":"pulumi-resource-ovh-v0.50.1-linux-amd64.tar.gz","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"69df379d7bbe2aaea7b4bcb5e81034fc3ab9dcd0207399b03284b94aad448f84"},{"fileName":"pulumi-resource-ovh-v0.50.1-linux-amd64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"2c51242552a2886f247f2e1912f3d17eeda98b938a8a614100326aebb59783f8"},{"fileName":"pulumi-resource-ovh-v0.50.1-linux-arm64.tar.gz","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"248d5544232e714643a96bf35e0525520bedcd02ce691a273ed1e8fd5c25f9bb"},{"fileName":"pulumi-resource-ovh-v0.50.1-linux-arm64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"68df7ce3d66e199268f2a6bfa65dfc50a534a8f0a63815a7bf73bdc5272b0cb1"},{"fileName":"pulumi-resource-ovh-v0.50.1-windows-amd64.tar.gz","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"bde9c53f0e2666666c87853cec39ea3b5a6893275e3720ce7953621b705756ac"},{"fileName":"pulumi-resource-ovh-v0.50.1-windows-amd64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"b730d5947a388acc77eb75c67821a6286e60bd53727f48d544eb50761830dcc1"},{"fileName":"pulumi-resource-ovh-v0.50.1-windows-arm64.tar.gz","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"205ff311cd567a9e72371af7640c6acfff3d4fb18b495178481f912b84dd3138"},{"fileName":"pulumi-resource-ovh-v0.50.1-windows-arm64.tar.gz.sbom.json","algo":"Sha256","source":"pulumi-ovh_0.50.1_checksums.txt","hash":"9dc536483f510936c1f0a4154d9e2490779f42cb01b77f6617e4f9f3062f95ea"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pulumi-ovh-0.50.1.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "4e89601298cecb471defb7318b26e7db725a1f0c839bd010697fcd7c4328a716"
+    },
+    {
+      "fileName": "pulumi-ovh-0.50.1.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "3565bf4fc66d1c71c923acc244e920723f0e115a00edbb985a0fef90900acd48"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "66d381fe4ce47ccfbebe993639ce44f75a61e7d651d73538c7dedcd976f206d8"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-darwin-amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "adabefec28f2743039f6ce7797ce9341b2ee4a71929072648db17c3468cb4acf"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "8a32b159c6de2e49d34a8d41cf53f2572b6af8c54c7cfffcbc08c83518e03e2d"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-darwin-arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "dc1a2c59f59a64105f079607f6b97a12945ce35e30d6bbe846128b2e8b8f719e"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "69df379d7bbe2aaea7b4bcb5e81034fc3ab9dcd0207399b03284b94aad448f84"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-linux-amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "2c51242552a2886f247f2e1912f3d17eeda98b938a8a614100326aebb59783f8"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "248d5544232e714643a96bf35e0525520bedcd02ce691a273ed1e8fd5c25f9bb"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-linux-arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "68df7ce3d66e199268f2a6bfa65dfc50a534a8f0a63815a7bf73bdc5272b0cb1"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "bde9c53f0e2666666c87853cec39ea3b5a6893275e3720ce7953621b705756ac"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-windows-amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "b730d5947a388acc77eb75c67821a6286e60bd53727f48d544eb50761830dcc1"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-windows-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "205ff311cd567a9e72371af7640c6acfff3d4fb18b495178481f912b84dd3138"
+    },
+    {
+      "fileName": "pulumi-resource-ovh-v0.50.1-windows-arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "pulumi-ovh_0.50.1_checksums.txt",
+      "hash": "9dc536483f510936c1f0a4154d9e2490779f42cb01b77f6617e4f9f3062f95ea"
+    }
+  ]
+}

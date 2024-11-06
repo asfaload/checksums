@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"soda.dwarfs","algo":"Sha256","source":"soda.dwarfs.sha256sum","hash":"ad2e81bb0357d05d680f1fa81655b2e317d4c10a4eaf75624d737be84a475229"},{"fileName":"base.flatimage.tar.xz","algo":"Sha256","source":"base.flatimage.tar.xz.sha256sum","hash":"e5ee9877374869975e0ada75bcd7dc30a06ec802e9382e6d3923149ce1134a85"},{"fileName":"tkg.dwarfs","algo":"Sha256","source":"tkg.dwarfs.sha256sum","hash":"4430632866ff86f2d660dae43eee7423102db090f97f18d005ab6b3737ef277c"},{"fileName":"staging.dwarfs","algo":"Sha256","source":"staging.dwarfs.sha256sum","hash":"ddeaa6fb4eed74ee14ddf6636005c28cc3899f85003cad5824facef2faa0b307"},{"fileName":"vaniglia.dwarfs","algo":"Sha256","source":"vaniglia.dwarfs.sha256sum","hash":"7c7141b370456cafc523176143047250396a952e17b6971f457db5e85b0f958f"},{"fileName":"caffe.dwarfs","algo":"Sha256","source":"caffe.dwarfs.sha256sum","hash":"faaccef6a690360b13fffe9d804d2e8ff2f22cd1f111c3191c260d3c9b40a23f"},{"fileName":"base.flatimage","algo":"Sha256","source":"base.flatimage.sha256sum","hash":"677c8eb96d77ddc00b15dca0c4f16cc4891d1cd10b113212a60e329d84a29e88"},{"fileName":"ge.dwarfs","algo":"Sha256","source":"ge.dwarfs.sha256sum","hash":"e09fdf870649aae09c28f5258ce9619182411bcb1d756fddb0223f647da6d1bc"},{"fileName":"osu-tkg.dwarfs","algo":"Sha256","source":"osu-tkg.dwarfs.sha256sum","hash":"e8bd16a2f1d454edebf8756488b151cccf08018ad56ab79087adf74a40cfd782"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "soda.dwarfs",
+      "algo": "Sha256",
+      "source": "soda.dwarfs.sha256sum",
+      "hash": "ad2e81bb0357d05d680f1fa81655b2e317d4c10a4eaf75624d737be84a475229"
+    },
+    {
+      "fileName": "base.flatimage.tar.xz",
+      "algo": "Sha256",
+      "source": "base.flatimage.tar.xz.sha256sum",
+      "hash": "e5ee9877374869975e0ada75bcd7dc30a06ec802e9382e6d3923149ce1134a85"
+    },
+    {
+      "fileName": "tkg.dwarfs",
+      "algo": "Sha256",
+      "source": "tkg.dwarfs.sha256sum",
+      "hash": "4430632866ff86f2d660dae43eee7423102db090f97f18d005ab6b3737ef277c"
+    },
+    {
+      "fileName": "staging.dwarfs",
+      "algo": "Sha256",
+      "source": "staging.dwarfs.sha256sum",
+      "hash": "ddeaa6fb4eed74ee14ddf6636005c28cc3899f85003cad5824facef2faa0b307"
+    },
+    {
+      "fileName": "vaniglia.dwarfs",
+      "algo": "Sha256",
+      "source": "vaniglia.dwarfs.sha256sum",
+      "hash": "7c7141b370456cafc523176143047250396a952e17b6971f457db5e85b0f958f"
+    },
+    {
+      "fileName": "caffe.dwarfs",
+      "algo": "Sha256",
+      "source": "caffe.dwarfs.sha256sum",
+      "hash": "faaccef6a690360b13fffe9d804d2e8ff2f22cd1f111c3191c260d3c9b40a23f"
+    },
+    {
+      "fileName": "base.flatimage",
+      "algo": "Sha256",
+      "source": "base.flatimage.sha256sum",
+      "hash": "677c8eb96d77ddc00b15dca0c4f16cc4891d1cd10b113212a60e329d84a29e88"
+    },
+    {
+      "fileName": "ge.dwarfs",
+      "algo": "Sha256",
+      "source": "ge.dwarfs.sha256sum",
+      "hash": "e09fdf870649aae09c28f5258ce9619182411bcb1d756fddb0223f647da6d1bc"
+    },
+    {
+      "fileName": "osu-tkg.dwarfs",
+      "algo": "Sha256",
+      "source": "osu-tkg.dwarfs.sha256sum",
+      "hash": "e8bd16a2f1d454edebf8756488b151cccf08018ad56ab79087adf74a40cfd782"
+    }
+  ]
+}

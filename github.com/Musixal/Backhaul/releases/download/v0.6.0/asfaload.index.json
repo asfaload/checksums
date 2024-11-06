@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"backhaul_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"acfa9e7686da25bc1d64559e8caa42bbcf665dfa0c2c62fdc78bee89cdb58c44"},{"fileName":"backhaul_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4920da7936de0bdb295651a0e7d8ba950f3d9bd590a6770a4f7a701a56d26232"},{"fileName":"backhaul_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9423842658232a1f36718515a652e2f177764c06cd8e79699f4548969f82b5ac"},{"fileName":"backhaul_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3d496920d546d688a1d87cae43a0cb6f663e575c62aed9aa785a6938be8e7e76"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "backhaul_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "acfa9e7686da25bc1d64559e8caa42bbcf665dfa0c2c62fdc78bee89cdb58c44"
+    },
+    {
+      "fileName": "backhaul_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4920da7936de0bdb295651a0e7d8ba950f3d9bd590a6770a4f7a701a56d26232"
+    },
+    {
+      "fileName": "backhaul_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9423842658232a1f36718515a652e2f177764c06cd8e79699f4548969f82b5ac"
+    },
+    {
+      "fileName": "backhaul_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3d496920d546d688a1d87cae43a0cb6f663e575c62aed9aa785a6938be8e7e76"
+    }
+  ]
+}

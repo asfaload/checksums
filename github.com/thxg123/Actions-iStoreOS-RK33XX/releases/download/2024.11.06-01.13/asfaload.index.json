@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T17:13:59+00:00","publishedOn":"2024-11-05T17:15:44.6192097+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"c77cae52cc680efede0c3faaf86f68bd59b5dfef90714f3d84e9f6ea23355213"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"70521749dc65e271bb418c43ab7ad189ea76756efaea592e14fe98447c81fe4e"},{"fileName":"istoreos-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"936da4df15fe652f4e9325587634f73b84d2b65889f7a1074516f6dc83d8f400"},{"fileName":"istoreos-rockchip-armv8-friendlyarm_nanopi-r4s-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"ea513d9f03471d0269b7743a9667144c0e12946193d54e13c289c3439c62583e"},{"fileName":"istoreos-rockchip-armv8-friendlyarm_nanopi-r4se-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"a2336afa0041150999bf9743153aa29738d1272c03bc2f66dfa394cc9adc4b7e"},{"fileName":"istoreos-rockchip-armv8-rk3399_r08-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"67c26e00fb52d4219783685859ccf23ad9c09733d8422495cf76eb288f173cc9"},{"fileName":"istoreos-rockchip-armv8-rk3399_tpm312-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"dbf700898ca26f82b6e0ad763e2f1853e2925f224feca682e05bba117e3ae9aa"},{"fileName":"istoreos-rockchip-armv8.manifest","algo":"Sha256","source":"sha256sums","hash":"8555dd83f822b033e4a70178b14e4f1ea18c55e88367e19e06b268a0216f67d0"},{"fileName":"profiles.json","algo":"Sha256","source":"sha256sums","hash":"59d78520c945c752c9ab01ef6fc6d428cc142b22ca7fd00996633c119e910c76"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"e8146bb695b410d654e9ae2302269a86e927a2ac8d61f03ff76fd48c8c931294"}]}
+{
+  "mirroredOn": "2024-11-05T17:15:44.6192097+00:00",
+  "publishedOn": "2024-11-05T17:13:59+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "c77cae52cc680efede0c3faaf86f68bd59b5dfef90714f3d84e9f6ea23355213"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "70521749dc65e271bb418c43ab7ad189ea76756efaea592e14fe98447c81fe4e"
+    },
+    {
+      "fileName": "istoreos-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "936da4df15fe652f4e9325587634f73b84d2b65889f7a1074516f6dc83d8f400"
+    },
+    {
+      "fileName": "istoreos-rockchip-armv8-friendlyarm_nanopi-r4s-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "ea513d9f03471d0269b7743a9667144c0e12946193d54e13c289c3439c62583e"
+    },
+    {
+      "fileName": "istoreos-rockchip-armv8-friendlyarm_nanopi-r4se-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "a2336afa0041150999bf9743153aa29738d1272c03bc2f66dfa394cc9adc4b7e"
+    },
+    {
+      "fileName": "istoreos-rockchip-armv8-rk3399_r08-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "67c26e00fb52d4219783685859ccf23ad9c09733d8422495cf76eb288f173cc9"
+    },
+    {
+      "fileName": "istoreos-rockchip-armv8-rk3399_tpm312-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "dbf700898ca26f82b6e0ad763e2f1853e2925f224feca682e05bba117e3ae9aa"
+    },
+    {
+      "fileName": "istoreos-rockchip-armv8.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "8555dd83f822b033e4a70178b14e4f1ea18c55e88367e19e06b268a0216f67d0"
+    },
+    {
+      "fileName": "profiles.json",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "59d78520c945c752c9ab01ef6fc6d428cc142b22ca7fd00996633c119e910c76"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "e8146bb695b410d654e9ae2302269a86e927a2ac8d61f03ff76fd48c8c931294"
+    }
+  ]
+}

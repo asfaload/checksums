@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gcp-deployment-v1.0.0.tar.gz","algo":"Sha256","source":"gcp-deployment-v1.0.0.tar.gz.sha256sum","hash":"092ede03928ce66185ea41b1645648caa7e82d3017f71347719a2b9b1d52bfa2"},{"fileName":"docker-compose-v1.0.0.tar.gz","algo":"Sha256","source":"docker-compose-v1.0.0.tar.gz.sha256sum","hash":"faac89331128e6df2b23caebb8207a98629d1fe50ad96d49fb73e2d4b4a20265"},{"fileName":"openclarity-cli-v1.0.0-darwin-arm64.tar.gz","algo":"Sha256","source":"openclarity-cli-v1.0.0-darwin-arm64.tar.gz.sha256sum","hash":"41d63839f3ef477390a5a13906fac2126b7305a4c5a9e0d304736df0ec7cdb8b"},{"fileName":"aws-cloudformation-v1.0.0.tar.gz","algo":"Sha256","source":"aws-cloudformation-v1.0.0.tar.gz.sha256sum","hash":"5c4397ee331c6267128fa664a64b050571cdec0b4fe207ea75b8f682b1ce398a"},{"fileName":"openclarity-cli-v1.0.0-linux-arm64.tar.gz","algo":"Sha256","source":"openclarity-cli-v1.0.0-linux-arm64.tar.gz.sha256sum","hash":"89d8802b2d2aad31850ee5e9c662438b30a213950b6f0fdf78a9ad9538323a30"},{"fileName":"openclarity-cli-v1.0.0-darwin-amd64.tar.gz","algo":"Sha256","source":"openclarity-cli-v1.0.0-darwin-amd64.tar.gz.sha256sum","hash":"8f9109007be67347eb027cebca2e226457749063abbc59ad8c9198aa6b372f1c"},{"fileName":"openclarity-cli-v1.0.0-linux-amd64.tar.gz","algo":"Sha256","source":"openclarity-cli-v1.0.0-linux-amd64.tar.gz.sha256sum","hash":"7a2d739e89d42d812bd1762806c696aba1b67cb2386672f0342fa6cfacbd78e0"},{"fileName":"azure-bicep-v1.0.0.tar.gz","algo":"Sha256","source":"azure-bicep-v1.0.0.tar.gz.sha256sum","hash":"8db7b9b9cf0db301e4eadaa901c31cb6f56defc144ef0b08629d61366d90df2d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gcp-deployment-v1.0.0.tar.gz",
+      "algo": "Sha256",
+      "source": "gcp-deployment-v1.0.0.tar.gz.sha256sum",
+      "hash": "092ede03928ce66185ea41b1645648caa7e82d3017f71347719a2b9b1d52bfa2"
+    },
+    {
+      "fileName": "docker-compose-v1.0.0.tar.gz",
+      "algo": "Sha256",
+      "source": "docker-compose-v1.0.0.tar.gz.sha256sum",
+      "hash": "faac89331128e6df2b23caebb8207a98629d1fe50ad96d49fb73e2d4b4a20265"
+    },
+    {
+      "fileName": "openclarity-cli-v1.0.0-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "openclarity-cli-v1.0.0-darwin-arm64.tar.gz.sha256sum",
+      "hash": "41d63839f3ef477390a5a13906fac2126b7305a4c5a9e0d304736df0ec7cdb8b"
+    },
+    {
+      "fileName": "aws-cloudformation-v1.0.0.tar.gz",
+      "algo": "Sha256",
+      "source": "aws-cloudformation-v1.0.0.tar.gz.sha256sum",
+      "hash": "5c4397ee331c6267128fa664a64b050571cdec0b4fe207ea75b8f682b1ce398a"
+    },
+    {
+      "fileName": "openclarity-cli-v1.0.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "openclarity-cli-v1.0.0-linux-arm64.tar.gz.sha256sum",
+      "hash": "89d8802b2d2aad31850ee5e9c662438b30a213950b6f0fdf78a9ad9538323a30"
+    },
+    {
+      "fileName": "openclarity-cli-v1.0.0-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "openclarity-cli-v1.0.0-darwin-amd64.tar.gz.sha256sum",
+      "hash": "8f9109007be67347eb027cebca2e226457749063abbc59ad8c9198aa6b372f1c"
+    },
+    {
+      "fileName": "openclarity-cli-v1.0.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "openclarity-cli-v1.0.0-linux-amd64.tar.gz.sha256sum",
+      "hash": "7a2d739e89d42d812bd1762806c696aba1b67cb2386672f0342fa6cfacbd78e0"
+    },
+    {
+      "fileName": "azure-bicep-v1.0.0.tar.gz",
+      "algo": "Sha256",
+      "source": "azure-bicep-v1.0.0.tar.gz.sha256sum",
+      "hash": "8db7b9b9cf0db301e4eadaa901c31cb6f56defc144ef0b08629d61366d90df2d"
+    }
+  ]
+}

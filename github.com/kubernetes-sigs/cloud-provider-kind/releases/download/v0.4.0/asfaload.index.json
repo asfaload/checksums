@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cloud-provider-kind_0.4.0_darwin_amd64.tar.gz","algo":"Sha256","source":"cloud-provider-kind_0.4.0_checksums.txt","hash":"50e52df9b424046799f465395cc05eb47d070536b3ded1acc019df2c9162047f"},{"fileName":"cloud-provider-kind_0.4.0_darwin_arm64.tar.gz","algo":"Sha256","source":"cloud-provider-kind_0.4.0_checksums.txt","hash":"38a551ef5d0b5bf286fc779a878d86df84ad811d882e63a828b62cbeeb15860f"},{"fileName":"cloud-provider-kind_0.4.0_linux_amd64.tar.gz","algo":"Sha256","source":"cloud-provider-kind_0.4.0_checksums.txt","hash":"91984abe3568467e150e3b663fb30863f1a18648409255e69c6c2104584ca185"},{"fileName":"cloud-provider-kind_0.4.0_linux_arm64.tar.gz","algo":"Sha256","source":"cloud-provider-kind_0.4.0_checksums.txt","hash":"27629994e7a090e8df909b6e1ecde32286eeb55a9d16745ce1441474e69d3b39"},{"fileName":"cloud-provider-kind_0.4.0_windows_amd64.tar.gz","algo":"Sha256","source":"cloud-provider-kind_0.4.0_checksums.txt","hash":"98fb3d1fce6e6dbbfcae7b25829e71e2c152568e005db0eca2f167958a998319"},{"fileName":"cloud-provider-kind_0.4.0_windows_arm64.tar.gz","algo":"Sha256","source":"cloud-provider-kind_0.4.0_checksums.txt","hash":"e5ab5b8be7c066b926809844181d12e2a987ced7e0fa8eff7cfebcd203be2126"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cloud-provider-kind_0.4.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloud-provider-kind_0.4.0_checksums.txt",
+      "hash": "50e52df9b424046799f465395cc05eb47d070536b3ded1acc019df2c9162047f"
+    },
+    {
+      "fileName": "cloud-provider-kind_0.4.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloud-provider-kind_0.4.0_checksums.txt",
+      "hash": "38a551ef5d0b5bf286fc779a878d86df84ad811d882e63a828b62cbeeb15860f"
+    },
+    {
+      "fileName": "cloud-provider-kind_0.4.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloud-provider-kind_0.4.0_checksums.txt",
+      "hash": "91984abe3568467e150e3b663fb30863f1a18648409255e69c6c2104584ca185"
+    },
+    {
+      "fileName": "cloud-provider-kind_0.4.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloud-provider-kind_0.4.0_checksums.txt",
+      "hash": "27629994e7a090e8df909b6e1ecde32286eeb55a9d16745ce1441474e69d3b39"
+    },
+    {
+      "fileName": "cloud-provider-kind_0.4.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloud-provider-kind_0.4.0_checksums.txt",
+      "hash": "98fb3d1fce6e6dbbfcae7b25829e71e2c152568e005db0eca2f167958a998319"
+    },
+    {
+      "fileName": "cloud-provider-kind_0.4.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cloud-provider-kind_0.4.0_checksums.txt",
+      "hash": "e5ab5b8be7c066b926809844181d12e2a987ced7e0fa8eff7cfebcd203be2126"
+    }
+  ]
+}

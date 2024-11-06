@@ -1,1 +1,85 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"beszel-agent_darwin_amd64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"447ad3358571f30f44453372501a7e020f0fa25153b9949a66e8ef30cca4bbf9"},{"fileName":"beszel-agent_darwin_arm64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"400795345bfbe817436c7ab891a79f5b63ea7d608a46740423c5a7f495405704"},{"fileName":"beszel-agent_freebsd_amd64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"9703fb0e225b4cf008ccff158204b3366d17c7aed550a6e900364b09b933773c"},{"fileName":"beszel-agent_freebsd_arm64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"f8ffa842e54ebc2bdba4eb7016ce7f4b3e22c0746c654395a7bd1ea9f38f7db2"},{"fileName":"beszel-agent_linux_amd64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"408444c4f4907c4d1ebb13a1f5d4e7d839355927c4aa587651702b5ddd5ddad1"},{"fileName":"beszel-agent_linux_arm.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"7b18d2e5dba56e2066f1e74df5fe9c6986afae9656195697d98e4949f34a3086"},{"fileName":"beszel-agent_linux_arm64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"e1350891e702b50a4a1d240c1228d27497363291d26e4bc42d1820b2e71a46e0"},{"fileName":"beszel-agent_linux_mips64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"ad95e674e17f4f50aedc53a50a2147a34ba73226a8a84412bbad60379ae26d18"},{"fileName":"beszel_darwin_amd64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"2fc6c593c19122981084d3caee34e7222f4db594dc1ad804297bda5f5d91e44f"},{"fileName":"beszel_darwin_arm64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"e23c7c2d788ef04db73bcc1af7616e926b8e553d83a92708b096c1d7141afc63"},{"fileName":"beszel_linux_amd64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"3ef59582108ec598011aa945ae3e5d07fbcb9c87f33f6044817c5e25744e7824"},{"fileName":"beszel_linux_arm.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"d7e00ce344da9fbf5cd4d2a84198a3df3c1f15b3ca1e9e1855593ddcb9954b40"},{"fileName":"beszel_linux_arm64.tar.gz","algo":"Sha256","source":"beszel_0.7.0_checksums.txt","hash":"23a3352240b26cf7dca80dbc714760f0f78f779428b56361bc0187ec1cd3ff38"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "beszel-agent_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "447ad3358571f30f44453372501a7e020f0fa25153b9949a66e8ef30cca4bbf9"
+    },
+    {
+      "fileName": "beszel-agent_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "400795345bfbe817436c7ab891a79f5b63ea7d608a46740423c5a7f495405704"
+    },
+    {
+      "fileName": "beszel-agent_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "9703fb0e225b4cf008ccff158204b3366d17c7aed550a6e900364b09b933773c"
+    },
+    {
+      "fileName": "beszel-agent_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "f8ffa842e54ebc2bdba4eb7016ce7f4b3e22c0746c654395a7bd1ea9f38f7db2"
+    },
+    {
+      "fileName": "beszel-agent_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "408444c4f4907c4d1ebb13a1f5d4e7d839355927c4aa587651702b5ddd5ddad1"
+    },
+    {
+      "fileName": "beszel-agent_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "7b18d2e5dba56e2066f1e74df5fe9c6986afae9656195697d98e4949f34a3086"
+    },
+    {
+      "fileName": "beszel-agent_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "e1350891e702b50a4a1d240c1228d27497363291d26e4bc42d1820b2e71a46e0"
+    },
+    {
+      "fileName": "beszel-agent_linux_mips64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "ad95e674e17f4f50aedc53a50a2147a34ba73226a8a84412bbad60379ae26d18"
+    },
+    {
+      "fileName": "beszel_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "2fc6c593c19122981084d3caee34e7222f4db594dc1ad804297bda5f5d91e44f"
+    },
+    {
+      "fileName": "beszel_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "e23c7c2d788ef04db73bcc1af7616e926b8e553d83a92708b096c1d7141afc63"
+    },
+    {
+      "fileName": "beszel_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "3ef59582108ec598011aa945ae3e5d07fbcb9c87f33f6044817c5e25744e7824"
+    },
+    {
+      "fileName": "beszel_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "d7e00ce344da9fbf5cd4d2a84198a3df3c1f15b3ca1e9e1855593ddcb9954b40"
+    },
+    {
+      "fileName": "beszel_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "beszel_0.7.0_checksums.txt",
+      "hash": "23a3352240b26cf7dca80dbc714760f0f78f779428b56361bc0187ec1cd3ff38"
+    }
+  ]
+}

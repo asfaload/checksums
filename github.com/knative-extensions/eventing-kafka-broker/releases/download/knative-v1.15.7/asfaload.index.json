@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"eventing-kafka.yaml","algo":"Sha256","source":"checksums.txt","hash":"52eadd9eb75c782a16e1ccd5f0bbadfa6375446e99b31dbdce77314bc8a23255"},{"fileName":"eventing-kafka-controller.yaml","algo":"Sha256","source":"checksums.txt","hash":"db0ab72b49e4e6c05e1c618daef3bdccc371b98dd8d71025a2f33690f603e1be"},{"fileName":"eventing-kafka-controller-prometheus-operator.yaml","algo":"Sha256","source":"checksums.txt","hash":"eefd185cfc9612d59c1675f4c90662595cba4904cc9bfaae0617ba4063016a3c"},{"fileName":"eventing-kafka-source.yaml","algo":"Sha256","source":"checksums.txt","hash":"cfc208cdfcb9a2f839b00d46ac1114dbe35c82e716be086032b9d0b1f98892e4"},{"fileName":"eventing-kafka-source-prometheus-operator.yaml","algo":"Sha256","source":"checksums.txt","hash":"2c41c61eaf57d4b0c6c04562ee9a236c4391822ba7a5b7ada07c1f938510276f"},{"fileName":"eventing-kafka-broker.yaml","algo":"Sha256","source":"checksums.txt","hash":"31aef656f2575afb96118fc9f70b3c56582ddf92216d89d6f6b9fa618050f5d9"},{"fileName":"eventing-kafka-broker-prometheus-operator.yaml","algo":"Sha256","source":"checksums.txt","hash":"332f641777c12bdfc9bb2411dd9a56b7097181cd8656ed469fd062674aef6fb9"},{"fileName":"eventing-kafka-sink.yaml","algo":"Sha256","source":"checksums.txt","hash":"ac5651648f6ad404d6d962d5828ae837953bf33c83e8f31c7a5c5a85af706e3d"},{"fileName":"eventing-kafka-sink-prometheus-operator.yaml","algo":"Sha256","source":"checksums.txt","hash":"4dc38a0b195034899fce433df61544091da663d05bd98f13df3188b1ecd39607"},{"fileName":"eventing-kafka-channel.yaml","algo":"Sha256","source":"checksums.txt","hash":"6e3445a35274041d24fa5dc205221b622c557ee3403d9e46390f200ea3f09180"},{"fileName":"eventing-kafka-channel-prometheus-operator.yaml","algo":"Sha256","source":"checksums.txt","hash":"19e6374594c22ac2c9f533e8f6a0eded43d993e9bf7b5761cd0902bba60f35d7"},{"fileName":"eventing-kafka-post-install.yaml","algo":"Sha256","source":"checksums.txt","hash":"c6dd91795e280c0a006895453570637c59fbb115113a03838ee6ed1cf294509d"},{"fileName":"eventing-kafka-source-bundle.yaml","algo":"Sha256","source":"checksums.txt","hash":"753c11cf730a810592cd3df70c284b4cdd0391902395251b6598e310e09ed668"},{"fileName":"eventing-kafka-tls-networking.yaml","algo":"Sha256","source":"checksums.txt","hash":"aea7549e021afe03acd755a0e96d1c357b2372f01c4bf2e559e58172d5579a74"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "eventing-kafka.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "52eadd9eb75c782a16e1ccd5f0bbadfa6375446e99b31dbdce77314bc8a23255"
+    },
+    {
+      "fileName": "eventing-kafka-controller.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "db0ab72b49e4e6c05e1c618daef3bdccc371b98dd8d71025a2f33690f603e1be"
+    },
+    {
+      "fileName": "eventing-kafka-controller-prometheus-operator.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eefd185cfc9612d59c1675f4c90662595cba4904cc9bfaae0617ba4063016a3c"
+    },
+    {
+      "fileName": "eventing-kafka-source.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cfc208cdfcb9a2f839b00d46ac1114dbe35c82e716be086032b9d0b1f98892e4"
+    },
+    {
+      "fileName": "eventing-kafka-source-prometheus-operator.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2c41c61eaf57d4b0c6c04562ee9a236c4391822ba7a5b7ada07c1f938510276f"
+    },
+    {
+      "fileName": "eventing-kafka-broker.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "31aef656f2575afb96118fc9f70b3c56582ddf92216d89d6f6b9fa618050f5d9"
+    },
+    {
+      "fileName": "eventing-kafka-broker-prometheus-operator.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "332f641777c12bdfc9bb2411dd9a56b7097181cd8656ed469fd062674aef6fb9"
+    },
+    {
+      "fileName": "eventing-kafka-sink.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ac5651648f6ad404d6d962d5828ae837953bf33c83e8f31c7a5c5a85af706e3d"
+    },
+    {
+      "fileName": "eventing-kafka-sink-prometheus-operator.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4dc38a0b195034899fce433df61544091da663d05bd98f13df3188b1ecd39607"
+    },
+    {
+      "fileName": "eventing-kafka-channel.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6e3445a35274041d24fa5dc205221b622c557ee3403d9e46390f200ea3f09180"
+    },
+    {
+      "fileName": "eventing-kafka-channel-prometheus-operator.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "19e6374594c22ac2c9f533e8f6a0eded43d993e9bf7b5761cd0902bba60f35d7"
+    },
+    {
+      "fileName": "eventing-kafka-post-install.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c6dd91795e280c0a006895453570637c59fbb115113a03838ee6ed1cf294509d"
+    },
+    {
+      "fileName": "eventing-kafka-source-bundle.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "753c11cf730a810592cd3df70c284b4cdd0391902395251b6598e310e09ed668"
+    },
+    {
+      "fileName": "eventing-kafka-tls-networking.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aea7549e021afe03acd755a0e96d1c357b2372f01c4bf2e559e58172d5579a74"
+    }
+  ]
+}

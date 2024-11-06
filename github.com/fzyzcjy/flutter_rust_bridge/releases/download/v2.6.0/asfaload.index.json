@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-06T00:57:32+00:00","publishedOn":"2024-11-06T01:19:39.2857917+00:00","version":1,"publishedFiles":[{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-unknown-linux-gnu-v2.6.0.tgz","algo":"Sha256","source":"flutter_rust_bridge_codegen-x86_64-unknown-linux-gnu-v2.6.0.tgz.sha256","hash":"d43f8b57861b8555ab53bc1d2f0f3e80204960235d66980b3a728ecbdf93ea64"},{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-unknown-freebsd-v2.6.0.tgz","algo":"Sha256","source":"flutter_rust_bridge_codegen-x86_64-unknown-freebsd-v2.6.0.tgz.sha256","hash":"51d5fc048af4affc942b509940907d3152914e7886542b84e4db4d7d80554773"},{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-arm-unknown-linux-musleabihf-v2.6.0.tgz","algo":"Sha256","source":"flutter_rust_bridge_codegen-arm-unknown-linux-musleabihf-v2.6.0.tgz.sha256","hash":"d5da55a4b089bd6ce9110054f1aa92eff7723d08bb1986443a2e553308283607"},{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-i686-pc-windows-msvc-v2.6.0.zip","algo":"Sha256","source":"flutter_rust_bridge_codegen-i686-pc-windows-msvc-v2.6.0.zip.sha256","hash":"54dbc2e77fd9cfc523688d1590e89529704c7b500e897a865d0cf190d54f3318"},{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-aarch64-apple-darwin-v2.6.0.tgz","algo":"Sha256","source":"flutter_rust_bridge_codegen-aarch64-apple-darwin-v2.6.0.tgz.sha256","hash":"48ce8f9466c126076b3cda8ea1c869858da0b8417b124c50588ec4f35a4cb315"},{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-unknown-linux-musl-v2.6.0.tgz","algo":"Sha256","source":"flutter_rust_bridge_codegen-x86_64-unknown-linux-musl-v2.6.0.tgz.sha256","hash":"569a936fc8a469a644c711d86422410824ac86eefe5f2c068d7fcd086922add4"},{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-pc-windows-msvc-v2.6.0.zip","algo":"Sha256","source":"flutter_rust_bridge_codegen-x86_64-pc-windows-msvc-v2.6.0.zip.sha256","hash":"2f9240b3e34a23ce99e90640f5e3e457600b26c5b7dbccfd88ff1391b92b7148"},{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-apple-darwin-v2.6.0.tgz","algo":"Sha256","source":"flutter_rust_bridge_codegen-x86_64-apple-darwin-v2.6.0.tgz.sha256","hash":"039bfb46679c5c22b4e74e7a1eef9ad4600d26dce8f0e77ae9a952e179cffaa2"},{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-aarch64-unknown-linux-musl-v2.6.0.tgz","algo":"Sha256","source":"flutter_rust_bridge_codegen-aarch64-unknown-linux-musl-v2.6.0.tgz.sha256","hash":"bd2b20c8a927972ba707bf28f907bf3ac9f576878e9e7ea5b561d913c8c7ba17"},{"fileName":"/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-i686-unknown-linux-musl-v2.6.0.tgz","algo":"Sha256","source":"flutter_rust_bridge_codegen-i686-unknown-linux-musl-v2.6.0.tgz.sha256","hash":"44d51cbf874be28597617d63935e3e0a16fb5b7167d29f1b4864c58b20f10baf"}]}
+{
+  "mirroredOn": "2024-11-06T01:19:39.2857917+00:00",
+  "publishedOn": "2024-11-06T00:57:32+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-unknown-linux-gnu-v2.6.0.tgz",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-x86_64-unknown-linux-gnu-v2.6.0.tgz.sha256",
+      "hash": "d43f8b57861b8555ab53bc1d2f0f3e80204960235d66980b3a728ecbdf93ea64"
+    },
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-unknown-freebsd-v2.6.0.tgz",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-x86_64-unknown-freebsd-v2.6.0.tgz.sha256",
+      "hash": "51d5fc048af4affc942b509940907d3152914e7886542b84e4db4d7d80554773"
+    },
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-arm-unknown-linux-musleabihf-v2.6.0.tgz",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-arm-unknown-linux-musleabihf-v2.6.0.tgz.sha256",
+      "hash": "d5da55a4b089bd6ce9110054f1aa92eff7723d08bb1986443a2e553308283607"
+    },
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-i686-pc-windows-msvc-v2.6.0.zip",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-i686-pc-windows-msvc-v2.6.0.zip.sha256",
+      "hash": "54dbc2e77fd9cfc523688d1590e89529704c7b500e897a865d0cf190d54f3318"
+    },
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-aarch64-apple-darwin-v2.6.0.tgz",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-aarch64-apple-darwin-v2.6.0.tgz.sha256",
+      "hash": "48ce8f9466c126076b3cda8ea1c869858da0b8417b124c50588ec4f35a4cb315"
+    },
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-unknown-linux-musl-v2.6.0.tgz",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-x86_64-unknown-linux-musl-v2.6.0.tgz.sha256",
+      "hash": "569a936fc8a469a644c711d86422410824ac86eefe5f2c068d7fcd086922add4"
+    },
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-pc-windows-msvc-v2.6.0.zip",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-x86_64-pc-windows-msvc-v2.6.0.zip.sha256",
+      "hash": "2f9240b3e34a23ce99e90640f5e3e457600b26c5b7dbccfd88ff1391b92b7148"
+    },
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-x86_64-apple-darwin-v2.6.0.tgz",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-x86_64-apple-darwin-v2.6.0.tgz.sha256",
+      "hash": "039bfb46679c5c22b4e74e7a1eef9ad4600d26dce8f0e77ae9a952e179cffaa2"
+    },
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-aarch64-unknown-linux-musl-v2.6.0.tgz",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-aarch64-unknown-linux-musl-v2.6.0.tgz.sha256",
+      "hash": "bd2b20c8a927972ba707bf28f907bf3ac9f576878e9e7ea5b561d913c8c7ba17"
+    },
+    {
+      "fileName": "/data/git/github.com/fzyzcjy/flutter_rust_bridge/releases/download/v2.6.0/flutter_rust_bridge_codegen-i686-unknown-linux-musl-v2.6.0.tgz",
+      "algo": "Sha256",
+      "source": "flutter_rust_bridge_codegen-i686-unknown-linux-musl-v2.6.0.tgz.sha256",
+      "hash": "44d51cbf874be28597617d63935e3e0a16fb5b7167d29f1b4864c58b20f10baf"
+    }
+  ]
+}

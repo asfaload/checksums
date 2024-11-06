@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"forklift_0.7.3_darwin_amd64.tar.gz","algo":"Sha256","source":"forklift_0.7.3_checksums.txt","hash":"901ee4dbe7f12311b85d94eb93d44919bb558476f9a48a0222fd8e353e61f262"},{"fileName":"forklift_0.7.3_darwin_arm64.tar.gz","algo":"Sha256","source":"forklift_0.7.3_checksums.txt","hash":"a1ee490d4a8831ae4877a76273197024c2046b53af2c7c4860ff22445ae4958f"},{"fileName":"forklift_0.7.3_linux_amd64.tar.gz","algo":"Sha256","source":"forklift_0.7.3_checksums.txt","hash":"617fdac31cfe8f4fb059ffef09ecfb81ba16ae27f5436ee92629c6d5f21033d8"},{"fileName":"forklift_0.7.3_linux_arm.tar.gz","algo":"Sha256","source":"forklift_0.7.3_checksums.txt","hash":"c004f9a3812002da3f4b0fa3590f17c5bf3fdcb441155c62facb2bb292402b67"},{"fileName":"forklift_0.7.3_linux_arm64.tar.gz","algo":"Sha256","source":"forklift_0.7.3_checksums.txt","hash":"48eb8b8c3cc70e65cc4dfc2fca1b68e3909cfe081a64a80d0908d1ac7277b7f8"},{"fileName":"forklift_0.7.3_windows_amd64.zip","algo":"Sha256","source":"forklift_0.7.3_checksums.txt","hash":"47e97590ebe4b107bb330da101416689d03ec0e21e87c31d1fa47c7297b9f6fd"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "forklift_0.7.3_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "forklift_0.7.3_checksums.txt",
+      "hash": "901ee4dbe7f12311b85d94eb93d44919bb558476f9a48a0222fd8e353e61f262"
+    },
+    {
+      "fileName": "forklift_0.7.3_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "forklift_0.7.3_checksums.txt",
+      "hash": "a1ee490d4a8831ae4877a76273197024c2046b53af2c7c4860ff22445ae4958f"
+    },
+    {
+      "fileName": "forklift_0.7.3_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "forklift_0.7.3_checksums.txt",
+      "hash": "617fdac31cfe8f4fb059ffef09ecfb81ba16ae27f5436ee92629c6d5f21033d8"
+    },
+    {
+      "fileName": "forklift_0.7.3_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "forklift_0.7.3_checksums.txt",
+      "hash": "c004f9a3812002da3f4b0fa3590f17c5bf3fdcb441155c62facb2bb292402b67"
+    },
+    {
+      "fileName": "forklift_0.7.3_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "forklift_0.7.3_checksums.txt",
+      "hash": "48eb8b8c3cc70e65cc4dfc2fca1b68e3909cfe081a64a80d0908d1ac7277b7f8"
+    },
+    {
+      "fileName": "forklift_0.7.3_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "forklift_0.7.3_checksums.txt",
+      "hash": "47e97590ebe4b107bb330da101416689d03ec0e21e87c31d1fa47c7297b9f6fd"
+    }
+  ]
+}

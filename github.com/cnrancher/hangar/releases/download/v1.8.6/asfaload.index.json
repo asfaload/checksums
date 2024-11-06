@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"hangar_Darwin_arm64.tar.gz","algo":"Sha256","source":"hangar_1.8.6_checksums.txt","hash":"35d81a12cb80d1cdc2729b208cd7eb8c1e30bb46f6601afa6fb5b3d407acce7a"},{"fileName":"hangar_Darwin_x86_64.tar.gz","algo":"Sha256","source":"hangar_1.8.6_checksums.txt","hash":"bcbf030f647eff934cba9f4b6c8dce6306f2da5bd70efab17bef8bd9f73961c6"},{"fileName":"hangar_Linux_arm64.tar.gz","algo":"Sha256","source":"hangar_1.8.6_checksums.txt","hash":"fa624ea37cb188072043fe5fb9442e8bd6096ad18a4336f269af1908abe3afa2"},{"fileName":"hangar_Linux_x86_64.tar.gz","algo":"Sha256","source":"hangar_1.8.6_checksums.txt","hash":"fe9950a18f23604f5a58d125625be13e861faf328c865d534040f0844bbbd8e0"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "hangar_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "hangar_1.8.6_checksums.txt",
+      "hash": "35d81a12cb80d1cdc2729b208cd7eb8c1e30bb46f6601afa6fb5b3d407acce7a"
+    },
+    {
+      "fileName": "hangar_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "hangar_1.8.6_checksums.txt",
+      "hash": "bcbf030f647eff934cba9f4b6c8dce6306f2da5bd70efab17bef8bd9f73961c6"
+    },
+    {
+      "fileName": "hangar_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "hangar_1.8.6_checksums.txt",
+      "hash": "fa624ea37cb188072043fe5fb9442e8bd6096ad18a4336f269af1908abe3afa2"
+    },
+    {
+      "fileName": "hangar_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "hangar_1.8.6_checksums.txt",
+      "hash": "fe9950a18f23604f5a58d125625be13e861faf328c865d534040f0844bbbd8e0"
+    }
+  ]
+}

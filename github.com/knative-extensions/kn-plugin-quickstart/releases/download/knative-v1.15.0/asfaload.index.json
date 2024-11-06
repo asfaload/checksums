@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kn-quickstart-darwin-amd64","algo":"Sha256","source":"checksums.txt","hash":"ac485e9320d125c913c6cc54bf9eaef61207ec803750eaa7a048a654681441df"},{"fileName":"kn-quickstart-darwin-arm64","algo":"Sha256","source":"checksums.txt","hash":"40a5837e50bcfe578e4fee81d1955b1924280a537cdfff7991266d69f072b40d"},{"fileName":"kn-quickstart-linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"5a2ef86aa572f20a3a7fea538f13c3838514b2c9a89946bfe93bdd68a3803d0b"},{"fileName":"kn-quickstart-linux-arm64","algo":"Sha256","source":"checksums.txt","hash":"092d35a34bf170a0db32feaeb07165d7170f85d7b7cbee660dc5d27e5773e517"},{"fileName":"kn-quickstart-windows-amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"7ce5cbab335ed4a5b6f7fd3e749bbf3afc9daec4dd2b8edbcb8c0777fe8b15b7"},{"fileName":"kn-quickstart-linux-s390x","algo":"Sha256","source":"checksums.txt","hash":"8748df614801ca619acfcb5c628c542f7200e7ffc827b160dcda2f2eb30b0787"},{"fileName":"kn-quickstart-linux-ppc64le","algo":"Sha256","source":"checksums.txt","hash":"8174ce9298d893187dcc143aecc5127e53bc695cd06c02511f72cfc79fcae865"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kn-quickstart-darwin-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ac485e9320d125c913c6cc54bf9eaef61207ec803750eaa7a048a654681441df"
+    },
+    {
+      "fileName": "kn-quickstart-darwin-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "40a5837e50bcfe578e4fee81d1955b1924280a537cdfff7991266d69f072b40d"
+    },
+    {
+      "fileName": "kn-quickstart-linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5a2ef86aa572f20a3a7fea538f13c3838514b2c9a89946bfe93bdd68a3803d0b"
+    },
+    {
+      "fileName": "kn-quickstart-linux-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "092d35a34bf170a0db32feaeb07165d7170f85d7b7cbee660dc5d27e5773e517"
+    },
+    {
+      "fileName": "kn-quickstart-windows-amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7ce5cbab335ed4a5b6f7fd3e749bbf3afc9daec4dd2b8edbcb8c0777fe8b15b7"
+    },
+    {
+      "fileName": "kn-quickstart-linux-s390x",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8748df614801ca619acfcb5c628c542f7200e7ffc827b160dcda2f2eb30b0787"
+    },
+    {
+      "fileName": "kn-quickstart-linux-ppc64le",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8174ce9298d893187dcc143aecc5127e53bc695cd06c02511f72cfc79fcae865"
+    }
+  ]
+}

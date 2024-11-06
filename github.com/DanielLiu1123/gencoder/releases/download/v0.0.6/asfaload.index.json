@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gencoder_Darwin_arm64.tar.gz","algo":"Sha256","source":"gencoder_0.0.6_checksums.txt","hash":"d3f6968f37bbe9b867e446c6fe93ec20474d9aa59b8d76840d2051edbe869996"},{"fileName":"gencoder_Darwin_x86_64.tar.gz","algo":"Sha256","source":"gencoder_0.0.6_checksums.txt","hash":"a5a7d33d24de1ea8808cb8a53a23aa35633602d802d6cab3d809ff78de71ef15"},{"fileName":"gencoder_Linux_arm64.tar.gz","algo":"Sha256","source":"gencoder_0.0.6_checksums.txt","hash":"966eb413e47af4f9e3bdbecdfd470d4e4c956b09cfae518c500d76927e21e259"},{"fileName":"gencoder_Linux_x86_64.tar.gz","algo":"Sha256","source":"gencoder_0.0.6_checksums.txt","hash":"0ab0645963199ddd9827bed26bc02432fcc1eadef78eebfc3f32d33dfd65ee2b"},{"fileName":"gencoder_Windows_arm64.zip","algo":"Sha256","source":"gencoder_0.0.6_checksums.txt","hash":"00754e4445e08a20bc063604cfb897c861e9b8837f605ddd7939178b2a5ed118"},{"fileName":"gencoder_Windows_x86_64.zip","algo":"Sha256","source":"gencoder_0.0.6_checksums.txt","hash":"c1352d4ad74226b55a19ae423efb9e9a6635941279cda204b6355693b5559ad2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gencoder_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gencoder_0.0.6_checksums.txt",
+      "hash": "d3f6968f37bbe9b867e446c6fe93ec20474d9aa59b8d76840d2051edbe869996"
+    },
+    {
+      "fileName": "gencoder_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gencoder_0.0.6_checksums.txt",
+      "hash": "a5a7d33d24de1ea8808cb8a53a23aa35633602d802d6cab3d809ff78de71ef15"
+    },
+    {
+      "fileName": "gencoder_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gencoder_0.0.6_checksums.txt",
+      "hash": "966eb413e47af4f9e3bdbecdfd470d4e4c956b09cfae518c500d76927e21e259"
+    },
+    {
+      "fileName": "gencoder_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gencoder_0.0.6_checksums.txt",
+      "hash": "0ab0645963199ddd9827bed26bc02432fcc1eadef78eebfc3f32d33dfd65ee2b"
+    },
+    {
+      "fileName": "gencoder_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "gencoder_0.0.6_checksums.txt",
+      "hash": "00754e4445e08a20bc063604cfb897c861e9b8837f605ddd7939178b2a5ed118"
+    },
+    {
+      "fileName": "gencoder_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "gencoder_0.0.6_checksums.txt",
+      "hash": "c1352d4ad74226b55a19ae423efb9e9a6635941279cda204b6355693b5559ad2"
+    }
+  ]
+}

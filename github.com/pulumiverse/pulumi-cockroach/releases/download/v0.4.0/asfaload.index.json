@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-cockroach-v0.4.0-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-cockroach_0.4.0_checksums.txt","hash":"d24ea7ebd951f9f983e00986de38b14ab2fb2daa"},{"fileName":"./pulumi-resource-cockroach-v0.4.0-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-cockroach_0.4.0_checksums.txt","hash":"383a5b610515c3d3569a90f5fcb9d3e6c6133392"},{"fileName":"./pulumi-resource-cockroach-v0.4.0-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-cockroach_0.4.0_checksums.txt","hash":"8bd4664f45afe2786033c6d91721030b1026b390"},{"fileName":"./pulumi-resource-cockroach-v0.4.0-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-cockroach_0.4.0_checksums.txt","hash":"133934f04e0776b1a822389ef69166910af63274"},{"fileName":"./pulumi-resource-cockroach-v0.4.0-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-cockroach_0.4.0_checksums.txt","hash":"8db877c9de2cb1495305af8a5948bd3310a5ba7a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-cockroach-v0.4.0-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cockroach_0.4.0_checksums.txt",
+      "hash": "d24ea7ebd951f9f983e00986de38b14ab2fb2daa"
+    },
+    {
+      "fileName": "./pulumi-resource-cockroach-v0.4.0-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cockroach_0.4.0_checksums.txt",
+      "hash": "383a5b610515c3d3569a90f5fcb9d3e6c6133392"
+    },
+    {
+      "fileName": "./pulumi-resource-cockroach-v0.4.0-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cockroach_0.4.0_checksums.txt",
+      "hash": "8bd4664f45afe2786033c6d91721030b1026b390"
+    },
+    {
+      "fileName": "./pulumi-resource-cockroach-v0.4.0-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cockroach_0.4.0_checksums.txt",
+      "hash": "133934f04e0776b1a822389ef69166910af63274"
+    },
+    {
+      "fileName": "./pulumi-resource-cockroach-v0.4.0-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-cockroach_0.4.0_checksums.txt",
+      "hash": "8db877c9de2cb1495305af8a5948bd3310a5ba7a"
+    }
+  ]
+}

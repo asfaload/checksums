@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"zteOnu_0.0.6_darwin_amd64.tar.gz","algo":"Sha256","source":"zteOnu_0.0.6_checksums.txt","hash":"43aa1156b17b4cfb6843191fe9d108e1ee02d2bd2069515552283621e44bfcbc"},{"fileName":"zteOnu_0.0.6_darwin_arm64.tar.gz","algo":"Sha256","source":"zteOnu_0.0.6_checksums.txt","hash":"71ea6bb26e2ffb1e096154c4ec547b5b272e3973faffce926eef2269ca71a0c3"},{"fileName":"zteOnu_0.0.6_linux_386.tar.gz","algo":"Sha256","source":"zteOnu_0.0.6_checksums.txt","hash":"e9748deebea47b9413ab5e49d2486840d93db24f2e70460e50251efa9fd8735e"},{"fileName":"zteOnu_0.0.6_linux_amd64.tar.gz","algo":"Sha256","source":"zteOnu_0.0.6_checksums.txt","hash":"244fb3495d080a9f5fef1d457bf8469834c1fd700cf0798419ab6aac09afa891"},{"fileName":"zteOnu_0.0.6_linux_arm64.tar.gz","algo":"Sha256","source":"zteOnu_0.0.6_checksums.txt","hash":"2c9cc278ca88550c1223afa03ac4d5ef4e06e2a0c6b5c23f2f5dece816d42edf"},{"fileName":"zteOnu_0.0.6_windows_386.tar.gz","algo":"Sha256","source":"zteOnu_0.0.6_checksums.txt","hash":"920d141d1e1696eebd7ac944c819aab83908cf3806502ca204c294b1a3aaba4b"},{"fileName":"zteOnu_0.0.6_windows_amd64.tar.gz","algo":"Sha256","source":"zteOnu_0.0.6_checksums.txt","hash":"4e04ff7f7abc3e2f815193856d6046559cee5f0f25bf8c88165195eea3289a7d"},{"fileName":"zteOnu_0.0.6_windows_arm64.tar.gz","algo":"Sha256","source":"zteOnu_0.0.6_checksums.txt","hash":"16bdfa86ce4bb3b67df530e8e1d9fabe15cd85b31f8d135c1dbaf8cfe7b7f073"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "zteOnu_0.0.6_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "zteOnu_0.0.6_checksums.txt",
+      "hash": "43aa1156b17b4cfb6843191fe9d108e1ee02d2bd2069515552283621e44bfcbc"
+    },
+    {
+      "fileName": "zteOnu_0.0.6_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "zteOnu_0.0.6_checksums.txt",
+      "hash": "71ea6bb26e2ffb1e096154c4ec547b5b272e3973faffce926eef2269ca71a0c3"
+    },
+    {
+      "fileName": "zteOnu_0.0.6_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "zteOnu_0.0.6_checksums.txt",
+      "hash": "e9748deebea47b9413ab5e49d2486840d93db24f2e70460e50251efa9fd8735e"
+    },
+    {
+      "fileName": "zteOnu_0.0.6_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "zteOnu_0.0.6_checksums.txt",
+      "hash": "244fb3495d080a9f5fef1d457bf8469834c1fd700cf0798419ab6aac09afa891"
+    },
+    {
+      "fileName": "zteOnu_0.0.6_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "zteOnu_0.0.6_checksums.txt",
+      "hash": "2c9cc278ca88550c1223afa03ac4d5ef4e06e2a0c6b5c23f2f5dece816d42edf"
+    },
+    {
+      "fileName": "zteOnu_0.0.6_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "zteOnu_0.0.6_checksums.txt",
+      "hash": "920d141d1e1696eebd7ac944c819aab83908cf3806502ca204c294b1a3aaba4b"
+    },
+    {
+      "fileName": "zteOnu_0.0.6_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "zteOnu_0.0.6_checksums.txt",
+      "hash": "4e04ff7f7abc3e2f815193856d6046559cee5f0f25bf8c88165195eea3289a7d"
+    },
+    {
+      "fileName": "zteOnu_0.0.6_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "zteOnu_0.0.6_checksums.txt",
+      "hash": "16bdfa86ce4bb3b67df530e8e1d9fabe15cd85b31f8d135c1dbaf8cfe7b7f073"
+    }
+  ]
+}

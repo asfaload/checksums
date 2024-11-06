@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"xmrig-6.22.0-focal-x64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"f69df25232d4ec437bb614d2b2a57309deb5be598adc65e89ebed2300c711586"},{"fileName":"xmrig-6.22.0-freebsd-static-x64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"23090c2deb2a3518dc181f656a1885cbc15524fef7cba7b7ed3a4ba38a02e181"},{"fileName":"xmrig-6.22.0-jammy-x64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"2bc9c20980b36686f0a55da2e0d0209d3a7545a2eb545f29549d44ad4aabe8d9"},{"fileName":"xmrig-6.22.0-linux-static-x64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"cb49ae0793b257fd95892cb5eb777b9fe0d61a4015c7926cb68a3d353ed6accd"},{"fileName":"xmrig-6.22.0-macos-arm64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"01fc3b9733bdd4dd1bab53b5a963b40292a292db3857ebd91b3f6078beffd286"},{"fileName":"xmrig-6.22.0-macos-x64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"2ca9612975255c71925fbc976cb64d7b46355b9dd301b9084b4725a7f4513e43"},{"fileName":"xmrig-6.22.0-noble-x64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"0d2333e5169e5ddf527d9d1f307ccb1845c943ef0057f14e16723e8b5179c08a"},{"fileName":"xmrig-6.22.0-gcc-win64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"6a543eaa9cca4909099db2d0a277d2cb970feeba7630ce5310c92be1a4ab240c"},{"fileName":"xmrig-6.22.0-msvc-win64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"b980b17ef632506ad6747f813572058698e9da843f008c8d395c7f2afc31ebea"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "xmrig-6.22.0-focal-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "f69df25232d4ec437bb614d2b2a57309deb5be598adc65e89ebed2300c711586"
+    },
+    {
+      "fileName": "xmrig-6.22.0-freebsd-static-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "23090c2deb2a3518dc181f656a1885cbc15524fef7cba7b7ed3a4ba38a02e181"
+    },
+    {
+      "fileName": "xmrig-6.22.0-jammy-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "2bc9c20980b36686f0a55da2e0d0209d3a7545a2eb545f29549d44ad4aabe8d9"
+    },
+    {
+      "fileName": "xmrig-6.22.0-linux-static-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "cb49ae0793b257fd95892cb5eb777b9fe0d61a4015c7926cb68a3d353ed6accd"
+    },
+    {
+      "fileName": "xmrig-6.22.0-macos-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "01fc3b9733bdd4dd1bab53b5a963b40292a292db3857ebd91b3f6078beffd286"
+    },
+    {
+      "fileName": "xmrig-6.22.0-macos-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "2ca9612975255c71925fbc976cb64d7b46355b9dd301b9084b4725a7f4513e43"
+    },
+    {
+      "fileName": "xmrig-6.22.0-noble-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "0d2333e5169e5ddf527d9d1f307ccb1845c943ef0057f14e16723e8b5179c08a"
+    },
+    {
+      "fileName": "xmrig-6.22.0-gcc-win64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "6a543eaa9cca4909099db2d0a277d2cb970feeba7630ce5310c92be1a4ab240c"
+    },
+    {
+      "fileName": "xmrig-6.22.0-msvc-win64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "b980b17ef632506ad6747f813572058698e9da843f008c8d395c7f2afc31ebea"
+    }
+  ]
+}

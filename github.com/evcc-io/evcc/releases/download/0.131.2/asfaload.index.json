@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"evcc_0.131.2_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"6c20dec005bb6afa5a7eeaeb5226c5504148d51b87ce4942c0560dc07df7eee8"},{"fileName":"evcc_0.131.2_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"21f04726b180621862a772ef4c05c4bae451056aa99cf560e64a981ac1ef4928"},{"fileName":"evcc_0.131.2_armhf.deb","algo":"Sha256","source":"checksums.txt","hash":"3ae253114d8a480944fff878b47e33ab7311c72d206d9f9e873209f74f1927ae"},{"fileName":"evcc_0.131.2_linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3e20c3b6aa18423ac5d5e749954125dff00fddee2bb7c85a761de0138dd7c414"},{"fileName":"evcc_0.131.2_linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fcb102ac0e33894ccae846e51efe51893cbc95f71cb4359f70bff49ca7ad25d5"},{"fileName":"evcc_0.131.2_linux-armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f7a54ea870f500d321fb30a83c6d60ee4581302128fb638aec249b43b57636a8"},{"fileName":"evcc_0.131.2_macOS-all.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"507b501821e75f2c588d151ab1ba0f30d0cd5ee319619bd6a3e2dd8c8d44362c"},{"fileName":"evcc_0.131.2_windows-amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"29f6ec70002373c74926ef97b1ed2d37bd310f956a08aa33a6516d8be21ac98e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "evcc_0.131.2_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6c20dec005bb6afa5a7eeaeb5226c5504148d51b87ce4942c0560dc07df7eee8"
+    },
+    {
+      "fileName": "evcc_0.131.2_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "21f04726b180621862a772ef4c05c4bae451056aa99cf560e64a981ac1ef4928"
+    },
+    {
+      "fileName": "evcc_0.131.2_armhf.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3ae253114d8a480944fff878b47e33ab7311c72d206d9f9e873209f74f1927ae"
+    },
+    {
+      "fileName": "evcc_0.131.2_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3e20c3b6aa18423ac5d5e749954125dff00fddee2bb7c85a761de0138dd7c414"
+    },
+    {
+      "fileName": "evcc_0.131.2_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fcb102ac0e33894ccae846e51efe51893cbc95f71cb4359f70bff49ca7ad25d5"
+    },
+    {
+      "fileName": "evcc_0.131.2_linux-armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f7a54ea870f500d321fb30a83c6d60ee4581302128fb638aec249b43b57636a8"
+    },
+    {
+      "fileName": "evcc_0.131.2_macOS-all.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "507b501821e75f2c588d151ab1ba0f30d0cd5ee319619bd6a3e2dd8c8d44362c"
+    },
+    {
+      "fileName": "evcc_0.131.2_windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "29f6ec70002373c74926ef97b1ed2d37bd310f956a08aa33a6516d8be21ac98e"
+    }
+  ]
+}

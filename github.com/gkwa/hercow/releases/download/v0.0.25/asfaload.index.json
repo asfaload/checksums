@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"hercow_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9917d80b79340f2f2962256bc10c3ad59a4f81f55b05271c937ba6503b6dbfe1"},{"fileName":"hercow_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"98e885baee6e3aa783062d4966dbb2d031311466c65b99afb4fea88848e204cf"},{"fileName":"hercow_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"17ba84aa78f3daaed28f762308264e7f6969749613e7e8caeb6260999a6060c1"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "hercow_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9917d80b79340f2f2962256bc10c3ad59a4f81f55b05271c937ba6503b6dbfe1"
+    },
+    {
+      "fileName": "hercow_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "98e885baee6e3aa783062d4966dbb2d031311466c65b99afb4fea88848e204cf"
+    },
+    {
+      "fileName": "hercow_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "17ba84aa78f3daaed28f762308264e7f6969749613e7e8caeb6260999a6060c1"
+    }
+  ]
+}

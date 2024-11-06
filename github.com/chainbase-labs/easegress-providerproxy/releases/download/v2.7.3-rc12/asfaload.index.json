@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"easegress-providerproxy-v2.7.3-rc12-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"06f1f4cd32f08910d0e4b5d4566c116dc6756ee85909fd070c51f1c3cbe9e28a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "easegress-providerproxy-v2.7.3-rc12-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "06f1f4cd32f08910d0e4b5d4566c116dc6756ee85909fd070c51f1c3cbe9e28a"
+    }
+  ]
+}

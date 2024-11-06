@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"melange_0.14.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c0ab1933d1ef5c0f2af24df48ebc74aed3dd380721e21a5d2f43dc48be0f8f80"},{"fileName":"melange_0.14.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"94aeabe2194d24d550d2afbdb4850b27578845aa0ca8cdc1733ecba312db1038"},{"fileName":"melange_0.14.0_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1ceab62f6590b9bc249dee4b288f0dd81df767765caae4768db0720fc392d921"},{"fileName":"melange_0.14.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f539d115c9b6e891a652b0f007669e6a3e352d0c03c3c5c3ebd51d98ce5a0988"},{"fileName":"melange_0.14.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1c8491f10cab15c8cd6e2062b71d9136420240f1d4ccffc5a08ffb995f9fffaa"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "melange_0.14.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c0ab1933d1ef5c0f2af24df48ebc74aed3dd380721e21a5d2f43dc48be0f8f80"
+    },
+    {
+      "fileName": "melange_0.14.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "94aeabe2194d24d550d2afbdb4850b27578845aa0ca8cdc1733ecba312db1038"
+    },
+    {
+      "fileName": "melange_0.14.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1ceab62f6590b9bc249dee4b288f0dd81df767765caae4768db0720fc392d921"
+    },
+    {
+      "fileName": "melange_0.14.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f539d115c9b6e891a652b0f007669e6a3e352d0c03c3c5c3ebd51d98ce5a0988"
+    },
+    {
+      "fileName": "melange_0.14.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1c8491f10cab15c8cd6e2062b71d9136420240f1d4ccffc5a08ffb995f9fffaa"
+    }
+  ]
+}

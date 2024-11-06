@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"partner-charts-ci-darwin-universal","algo":"Sha256","source":"partner-charts-ci_0.5.0_checksums.txt","hash":"a7224451f8a81f03af09dc86a267d3a3daf214a395ff61c6296d93074c44aa89"},{"fileName":"partner-charts-ci-linux-amd64","algo":"Sha256","source":"partner-charts-ci_0.5.0_checksums.txt","hash":"6e10ba42eaaef8d1c4248a88a17cccc45e3f65d865d5b58949a31e3e155e4b8b"},{"fileName":"partner-charts-ci-linux-arm64","algo":"Sha256","source":"partner-charts-ci_0.5.0_checksums.txt","hash":"3559eda52b7d98c38e785e591c530d507fc54a1abb7e5e3a372ca7d91410c30c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "partner-charts-ci-darwin-universal",
+      "algo": "Sha256",
+      "source": "partner-charts-ci_0.5.0_checksums.txt",
+      "hash": "a7224451f8a81f03af09dc86a267d3a3daf214a395ff61c6296d93074c44aa89"
+    },
+    {
+      "fileName": "partner-charts-ci-linux-amd64",
+      "algo": "Sha256",
+      "source": "partner-charts-ci_0.5.0_checksums.txt",
+      "hash": "6e10ba42eaaef8d1c4248a88a17cccc45e3f65d865d5b58949a31e3e155e4b8b"
+    },
+    {
+      "fileName": "partner-charts-ci-linux-arm64",
+      "algo": "Sha256",
+      "source": "partner-charts-ci_0.5.0_checksums.txt",
+      "hash": "3559eda52b7d98c38e785e591c530d507fc54a1abb7e5e3a372ca7d91410c30c"
+    }
+  ]
+}

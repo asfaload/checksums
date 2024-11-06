@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"lagoon-ssh-portal_0.41.1_darwin_amd64.tar.gz","algo":"Sha256","source":"lagoon-ssh-portal_0.41.1_checksums.txt","hash":"98a3ab3aa47524119c28e399d20a6054de7f939d85102268e4daa4fc7f5b252a"},{"fileName":"lagoon-ssh-portal_0.41.1_darwin_arm64.tar.gz","algo":"Sha256","source":"lagoon-ssh-portal_0.41.1_checksums.txt","hash":"8807b52086b5732b7f232f141d0f63c2fff283239767e6d69759d2a935e7665f"},{"fileName":"lagoon-ssh-portal_0.41.1_linux_amd64.tar.gz","algo":"Sha256","source":"lagoon-ssh-portal_0.41.1_checksums.txt","hash":"4b9fa5062bc8e1ff0edf16e4482569485faf6573795a0a151266e26b488bb285"},{"fileName":"lagoon-ssh-portal_0.41.1_linux_arm64.tar.gz","algo":"Sha256","source":"lagoon-ssh-portal_0.41.1_checksums.txt","hash":"b370bc81512511ef636991f5361e1c5e0cf9a9e81957805ff2a7635400a1f894"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "lagoon-ssh-portal_0.41.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "lagoon-ssh-portal_0.41.1_checksums.txt",
+      "hash": "98a3ab3aa47524119c28e399d20a6054de7f939d85102268e4daa4fc7f5b252a"
+    },
+    {
+      "fileName": "lagoon-ssh-portal_0.41.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "lagoon-ssh-portal_0.41.1_checksums.txt",
+      "hash": "8807b52086b5732b7f232f141d0f63c2fff283239767e6d69759d2a935e7665f"
+    },
+    {
+      "fileName": "lagoon-ssh-portal_0.41.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "lagoon-ssh-portal_0.41.1_checksums.txt",
+      "hash": "4b9fa5062bc8e1ff0edf16e4482569485faf6573795a0a151266e26b488bb285"
+    },
+    {
+      "fileName": "lagoon-ssh-portal_0.41.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "lagoon-ssh-portal_0.41.1_checksums.txt",
+      "hash": "b370bc81512511ef636991f5361e1c5e0cf9a9e81957805ff2a7635400a1f894"
+    }
+  ]
+}

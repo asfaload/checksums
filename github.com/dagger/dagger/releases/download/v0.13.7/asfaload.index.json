@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"dagger_v0.13.7_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e1d70d8fb8b8ea6879ab6286020959187b7da7d186859e5a63a80165bd92d8c2"},{"fileName":"dagger_v0.13.7_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ab8ff93e578ca0d30eeb1d33d153753e5f571f72be8cc3ad42e91abf0e3a2207"},{"fileName":"dagger_v0.13.7_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"335b67cb1913d417ad9c200246b684a6f15c01a71cd92736454c090e6fc28086"},{"fileName":"dagger_v0.13.7_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"cca6873d76a1ac91704385f567b5502ee27048d61a18fd5d139ba560bbdb5702"},{"fileName":"dagger_v0.13.7_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"834b20c415ce4ec8e86f62d6d2097d6d45aa1277e6fa5fce42011dec137f00ed"},{"fileName":"dagger_v0.13.7_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"b66d5f98eb22d049dd3428e2260e2f1c5b76ab9e75b6cb648906fd2f06d65057"},{"fileName":"dagger_v0.13.7_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"7ed8b6c2fe4960f2b565372945bb901f3dbcd618d24f9dbd081cce925450d7a3"},{"fileName":"dagger_v0.13.7_windows_armv7.zip","algo":"Sha256","source":"checksums.txt","hash":"2ba98cff4653a19ad8d57c0490de7ca7e4c856c906fed21b6857693cd4c54a2a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "dagger_v0.13.7_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e1d70d8fb8b8ea6879ab6286020959187b7da7d186859e5a63a80165bd92d8c2"
+    },
+    {
+      "fileName": "dagger_v0.13.7_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ab8ff93e578ca0d30eeb1d33d153753e5f571f72be8cc3ad42e91abf0e3a2207"
+    },
+    {
+      "fileName": "dagger_v0.13.7_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "335b67cb1913d417ad9c200246b684a6f15c01a71cd92736454c090e6fc28086"
+    },
+    {
+      "fileName": "dagger_v0.13.7_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cca6873d76a1ac91704385f567b5502ee27048d61a18fd5d139ba560bbdb5702"
+    },
+    {
+      "fileName": "dagger_v0.13.7_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "834b20c415ce4ec8e86f62d6d2097d6d45aa1277e6fa5fce42011dec137f00ed"
+    },
+    {
+      "fileName": "dagger_v0.13.7_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b66d5f98eb22d049dd3428e2260e2f1c5b76ab9e75b6cb648906fd2f06d65057"
+    },
+    {
+      "fileName": "dagger_v0.13.7_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7ed8b6c2fe4960f2b565372945bb901f3dbcd618d24f9dbd081cce925450d7a3"
+    },
+    {
+      "fileName": "dagger_v0.13.7_windows_armv7.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2ba98cff4653a19ad8d57c0490de7ca7e4c856c906fed21b6857693cd4c54a2a"
+    }
+  ]
+}

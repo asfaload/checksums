@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sidekick_Darwin_arm64.tar.gz","algo":"Sha256","source":"sidekick_0.6.5_checksums.txt","hash":"feeb7446c17fa4fa42033f2fa137e73705336444634eca5727e7d311cf995e42"},{"fileName":"sidekick_Darwin_x86_64.tar.gz","algo":"Sha256","source":"sidekick_0.6.5_checksums.txt","hash":"b37a1d973d5705706075f82380d94766d83692e11928639a8ecfa3e26390df54"},{"fileName":"sidekick_Linux_arm64.tar.gz","algo":"Sha256","source":"sidekick_0.6.5_checksums.txt","hash":"92976a698bbe4aff36a6ddeab9512ff59de5053ddd3e438554e90d3f401b518e"},{"fileName":"sidekick_Linux_i386.tar.gz","algo":"Sha256","source":"sidekick_0.6.5_checksums.txt","hash":"d3068ac00b3167625a3204ff8e3c567b64432e94f835d02f98514d7b7a16ec25"},{"fileName":"sidekick_Linux_x86_64.tar.gz","algo":"Sha256","source":"sidekick_0.6.5_checksums.txt","hash":"c6c068ac7886c4b8fc71b5f844d2751f3a8e52dd1f06b338c8d45c2984e48b3a"},{"fileName":"sidekick_Windows_arm64.zip","algo":"Sha256","source":"sidekick_0.6.5_checksums.txt","hash":"f76fdac913144ab25f01eb67f9cc0af147629d48312165b595664da996c85921"},{"fileName":"sidekick_Windows_i386.zip","algo":"Sha256","source":"sidekick_0.6.5_checksums.txt","hash":"29fd602e822146a3455f9951ca43569fc6996ee502211126adcadae9da18d76a"},{"fileName":"sidekick_Windows_x86_64.zip","algo":"Sha256","source":"sidekick_0.6.5_checksums.txt","hash":"c6843e75d61abd8a23183fa953cbe54420c0f2a4a6aaaa0aab9a33ce38c5f292"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sidekick_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "sidekick_0.6.5_checksums.txt",
+      "hash": "feeb7446c17fa4fa42033f2fa137e73705336444634eca5727e7d311cf995e42"
+    },
+    {
+      "fileName": "sidekick_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "sidekick_0.6.5_checksums.txt",
+      "hash": "b37a1d973d5705706075f82380d94766d83692e11928639a8ecfa3e26390df54"
+    },
+    {
+      "fileName": "sidekick_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "sidekick_0.6.5_checksums.txt",
+      "hash": "92976a698bbe4aff36a6ddeab9512ff59de5053ddd3e438554e90d3f401b518e"
+    },
+    {
+      "fileName": "sidekick_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "sidekick_0.6.5_checksums.txt",
+      "hash": "d3068ac00b3167625a3204ff8e3c567b64432e94f835d02f98514d7b7a16ec25"
+    },
+    {
+      "fileName": "sidekick_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "sidekick_0.6.5_checksums.txt",
+      "hash": "c6c068ac7886c4b8fc71b5f844d2751f3a8e52dd1f06b338c8d45c2984e48b3a"
+    },
+    {
+      "fileName": "sidekick_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "sidekick_0.6.5_checksums.txt",
+      "hash": "f76fdac913144ab25f01eb67f9cc0af147629d48312165b595664da996c85921"
+    },
+    {
+      "fileName": "sidekick_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "sidekick_0.6.5_checksums.txt",
+      "hash": "29fd602e822146a3455f9951ca43569fc6996ee502211126adcadae9da18d76a"
+    },
+    {
+      "fileName": "sidekick_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "sidekick_0.6.5_checksums.txt",
+      "hash": "c6843e75d61abd8a23183fa953cbe54420c0f2a4a6aaaa0aab9a33ce38c5f292"
+    }
+  ]
+}

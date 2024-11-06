@@ -1,1 +1,295 @@
-{"mirroredOn":"2024-11-05T16:42:55+00:00","publishedOn":"2024-11-05T16:46:02.8399224+00:00","version":1,"publishedFiles":[{"fileName":"victoria-metrics-darwin-arm64-v1.102.6-enterprise.tar.gz","algo":"Sha256","source":"victoria-metrics-darwin-arm64-v1.102.6-enterprise_checksums.txt","hash":"d4ad6185fcaf252cbca204894f9163a99de494749ae72f82024915f2e27da361"},{"fileName":"victoria-metrics-prod","algo":"Sha256","source":"victoria-metrics-darwin-arm64-v1.102.6-enterprise_checksums.txt","hash":"2ee3532680656b80b002b5c4f1e1f43fdead88047b31aa585515de0579ef892b"},{"fileName":"victoria-metrics-linux-arm64-v1.102.6-enterprise.tar.gz","algo":"Sha256","source":"victoria-metrics-linux-arm64-v1.102.6-enterprise_checksums.txt","hash":"0c0aa36dd09c2d7c9e428aaa094703635af2a6bc61bb17aa4480eae1bcde49b3"},{"fileName":"victoria-metrics-prod","algo":"Sha256","source":"victoria-metrics-linux-arm64-v1.102.6-enterprise_checksums.txt","hash":"333ae0668f18e84548a2209a7013ca50e1c29693c84729d4c6b54fe26e6e43a7"},{"fileName":"victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster.tar.gz","algo":"Sha256","source":"victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"3472ed22bf717ea6c7c0f5cf08ccbc50c9ae1279ca4af4c5fdcff727807c58e0"},{"fileName":"vminsert-prod","algo":"Sha256","source":"victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"7519192b4b6a0972f37e1996e63acec0797981de481ad594d8f0bb0913d2899a"},{"fileName":"vmselect-prod","algo":"Sha256","source":"victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"52a2a0715acaf6c9b68f69fac4413124b39a9b9f8e0491e1222eb86b72e5aea1"},{"fileName":"vmstorage-prod","algo":"Sha256","source":"victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"177c47b55d9340bdf7d51945b70fae080f4e35ba9871df75dfc9abc13daa6343"},{"fileName":"vmutils-darwin-amd64-v1.102.6-enterprise.tar.gz","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"4a3d2d2968ca08b7d573a5da80ca727cf558526c583ba1db844cd4628c719e7b"},{"fileName":"vmagent-prod","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"de49304acc444525c337356b7bd60408ae4b95129a9f19f76bb0fb8ce5e47b0b"},{"fileName":"vmalert-prod","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"7520111b93061be8d87a28e3483eb072e27ca0f15e6f4967217ffa0271f25e88"},{"fileName":"vmalert-tool-prod","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"56773ac2323dc1fe172651a90ad74369567b3278b0936152f94d54c60bcceab7"},{"fileName":"vmauth-prod","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"93785336a1f34e21b67ce2f5e96b72499fa7707f6bb6a05175ece125eaf04ecd"},{"fileName":"vmbackup-prod","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"76ecd9bd2ddbc242a865be8912234d5d045b90e02fa1aee1ad1a33eaef6871ba"},{"fileName":"vmrestore-prod","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"c1bb9f5c8efdbec3fb160dede1ef7a911d329a1c6fe84dccb866d06c571fabbe"},{"fileName":"vmctl-prod","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"c9d420c43ea7cd2460e7e939b0108ccbcf6cac106957caabc279430e67445294"},{"fileName":"vmbackupmanager-prod","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"80597986e108fea471a8cbb44b440e7c2f11a4336f6dfacdf97cf9b2c92568b1"},{"fileName":"vmgateway-prod","algo":"Sha256","source":"vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"537d2168aa6fa36a839f4a5c1a916c2b9205d2d81e78fd2270a0b885c1cfcb23"},{"fileName":"victoria-metrics-openbsd-amd64-v1.102.6-enterprise.tar.gz","algo":"Sha256","source":"victoria-metrics-openbsd-amd64-v1.102.6-enterprise_checksums.txt","hash":"c5d8899bb049de66744b7da2063ccd37a63a9bbc7f62147e00d54c297a57458b"},{"fileName":"victoria-metrics-prod","algo":"Sha256","source":"victoria-metrics-openbsd-amd64-v1.102.6-enterprise_checksums.txt","hash":"ac1f870c133bb768be4a46db7749c72b021a72d63dae569be04f0330dcd9e871"},{"fileName":"victoria-metrics-linux-arm-v1.102.6-enterprise.tar.gz","algo":"Sha256","source":"victoria-metrics-linux-arm-v1.102.6-enterprise_checksums.txt","hash":"9a8debfa1253cd1229ddf9fe0e4d7a4e863031ba0528adef9d3376bad4266957"},{"fileName":"victoria-metrics-prod","algo":"Sha256","source":"victoria-metrics-linux-arm-v1.102.6-enterprise_checksums.txt","hash":"952621a9b663a17527dcea070a734a8c82fd10335b78d8091ced3a6854eb79c6"},{"fileName":"victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster.tar.gz","algo":"Sha256","source":"victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster_checksums.txt","hash":"715f4c9d146a1e3491b8d4e73cae0698fdb57c955d63c8263ae5318fd507f488"},{"fileName":"vminsert-prod","algo":"Sha256","source":"victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster_checksums.txt","hash":"3ba0e47463a14e30205e5dc5820de8a40bc63ace4aa4249a9eee51afe4ed1fb5"},{"fileName":"vmselect-prod","algo":"Sha256","source":"victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster_checksums.txt","hash":"2d089f88f7f3f8b71eb0a06c9b228d4cfb8a2fff993f0ada16ea1a4a77f9e161"},{"fileName":"vmstorage-prod","algo":"Sha256","source":"victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster_checksums.txt","hash":"06c0fdc0191cb2c10b9f862bdb8db14857ada828bfdd20f3172f8359b024279f"},{"fileName":"victoria-metrics-freebsd-amd64-v1.102.6-enterprise.tar.gz","algo":"Sha256","source":"victoria-metrics-freebsd-amd64-v1.102.6-enterprise_checksums.txt","hash":"d67271531e884ef0a450d54d9991c7eef73a0717d986365a9c4396ae896c2b47"},{"fileName":"victoria-metrics-prod","algo":"Sha256","source":"victoria-metrics-freebsd-amd64-v1.102.6-enterprise_checksums.txt","hash":"369c51bc1ce138d74354d8b0af7e4c6d1ff2dad546180d84c3739bb1bb661488"},{"fileName":"victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster.tar.gz","algo":"Sha256","source":"victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"26768eb5e2096dfd48ecbae7734c1f894268d7c1ca3ec8571e6148c57fd6d632"},{"fileName":"vminsert-prod","algo":"Sha256","source":"victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"5d1509b0f2fc67160d636090db7727f658a6cb1cc3f8ffcbe5e9551a43e77992"},{"fileName":"vmselect-prod","algo":"Sha256","source":"victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"b6662f43794e3ab5b02606461e24b0718431d63a052c44de8dd32695bd2b1c52"},{"fileName":"vmstorage-prod","algo":"Sha256","source":"victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"b5049f2594baf324320c6422e4f51722618b9a9c40e243df5ae01860eb284783"},{"fileName":"victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster.zip","algo":"Sha256","source":"victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"8ff827bd148541c294f78a262a3bb21d20b5e7499d09b7688982ada347ca85f6"},{"fileName":"vminsert-windows-amd64-prod.exe","algo":"Sha256","source":"victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"39cbc21135690008e958e360e8faa0c95a0870917b1761de90682e84201636d3"},{"fileName":"vmselect-windows-amd64-prod.exe","algo":"Sha256","source":"victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"40581c4b4ccc5dd6d566a7fbe45a4b3732e68c33d9ad6a9d9a494949f98ab368"},{"fileName":"vmstorage-windows-amd64-prod.exe","algo":"Sha256","source":"victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"fb24f43419bc7101b43392210c6805ff31504c4142b75099f4401ee3594f9ca4"},{"fileName":"victoria-metrics-windows-amd64-v1.102.6-enterprise.zip","algo":"Sha256","source":"victoria-metrics-windows-amd64-v1.102.6-enterprise_checksums.txt","hash":"c69bd7ab4de3ce32c22aff4cd1fa86c58c0b3928e776d379e380b6b4cb67f5b7"},{"fileName":"victoria-metrics-windows-amd64-prod.exe","algo":"Sha256","source":"victoria-metrics-windows-amd64-v1.102.6-enterprise_checksums.txt","hash":"6801ed5676dfd1fcf778f91f6cf6e56d8e9ecfd4d2c68571d42cbcb36416e5cc"},{"fileName":"victoria-metrics-darwin-amd64-v1.102.6-enterprise.tar.gz","algo":"Sha256","source":"victoria-metrics-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"d1d63e101f971d37ce9d146ee54f3e36b0660680c493e471034bd5e6848b793c"},{"fileName":"victoria-metrics-prod","algo":"Sha256","source":"victoria-metrics-darwin-amd64-v1.102.6-enterprise_checksums.txt","hash":"7aacdb92c6abe0d92ea7bdc91ab2de1788080ca587ea772ddbecb49446413964"},{"fileName":"victoria-metrics-linux-386-v1.102.6-enterprise.tar.gz","algo":"Sha256","source":"victoria-metrics-linux-386-v1.102.6-enterprise_checksums.txt","hash":"060fb32ee79ffc7bd2cc04e802066e553552117d71e68d68f2c4f676f9b11eab"},{"fileName":"victoria-metrics-prod","algo":"Sha256","source":"victoria-metrics-linux-386-v1.102.6-enterprise_checksums.txt","hash":"1354c5662030eddbb0da8254f674e81d39000108dd524d8bc28f496bd73830bc"},{"fileName":"victoria-metrics-linux-amd64-v1.102.6-enterprise.tar.gz","algo":"Sha256","source":"victoria-metrics-linux-amd64-v1.102.6-enterprise_checksums.txt","hash":"be427e6b853e7ef577172c0a3ca57569ce8ed0f4af99884089d1c6c9bf626f3a"},{"fileName":"victoria-metrics-prod","algo":"Sha256","source":"victoria-metrics-linux-amd64-v1.102.6-enterprise_checksums.txt","hash":"0d1a1c230a3851289d02a3abd4b392ebb2f4ad4b2d2716524dafcaa0b405fb0a"},{"fileName":"victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster.tar.gz","algo":"Sha256","source":"victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"c97935c9987a6095a067e60c547b6795986b55d9ea45922f30f3c7ec0f754872"},{"fileName":"vminsert-prod","algo":"Sha256","source":"victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"a03dc36a3b1c478507c0e78270091976d50a3907a621f3970439841885f6f999"},{"fileName":"vmselect-prod","algo":"Sha256","source":"victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"9d68c2a4db32aa32c1865b07a7c637d3ff8e0008cb6a4fae13e8cb34ef101499"},{"fileName":"vmstorage-prod","algo":"Sha256","source":"victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster_checksums.txt","hash":"4551a81cac4721d7ecce138b455a180946a635c273f7cf8a2d7e82e6312e917b"}]}
+{
+  "mirroredOn": "2024-11-05T16:46:02.8399224+00:00",
+  "publishedOn": "2024-11-05T16:42:55+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "victoria-metrics-darwin-arm64-v1.102.6-enterprise.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-darwin-arm64-v1.102.6-enterprise_checksums.txt",
+      "hash": "d4ad6185fcaf252cbca204894f9163a99de494749ae72f82024915f2e27da361"
+    },
+    {
+      "fileName": "victoria-metrics-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-darwin-arm64-v1.102.6-enterprise_checksums.txt",
+      "hash": "2ee3532680656b80b002b5c4f1e1f43fdead88047b31aa585515de0579ef892b"
+    },
+    {
+      "fileName": "victoria-metrics-linux-arm64-v1.102.6-enterprise.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-arm64-v1.102.6-enterprise_checksums.txt",
+      "hash": "0c0aa36dd09c2d7c9e428aaa094703635af2a6bc61bb17aa4480eae1bcde49b3"
+    },
+    {
+      "fileName": "victoria-metrics-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-arm64-v1.102.6-enterprise_checksums.txt",
+      "hash": "333ae0668f18e84548a2209a7013ca50e1c29693c84729d4c6b54fe26e6e43a7"
+    },
+    {
+      "fileName": "victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "3472ed22bf717ea6c7c0f5cf08ccbc50c9ae1279ca4af4c5fdcff727807c58e0"
+    },
+    {
+      "fileName": "vminsert-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "7519192b4b6a0972f37e1996e63acec0797981de481ad594d8f0bb0913d2899a"
+    },
+    {
+      "fileName": "vmselect-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "52a2a0715acaf6c9b68f69fac4413124b39a9b9f8e0491e1222eb86b72e5aea1"
+    },
+    {
+      "fileName": "vmstorage-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-openbsd-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "177c47b55d9340bdf7d51945b70fae080f4e35ba9871df75dfc9abc13daa6343"
+    },
+    {
+      "fileName": "vmutils-darwin-amd64-v1.102.6-enterprise.tar.gz",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "4a3d2d2968ca08b7d573a5da80ca727cf558526c583ba1db844cd4628c719e7b"
+    },
+    {
+      "fileName": "vmagent-prod",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "de49304acc444525c337356b7bd60408ae4b95129a9f19f76bb0fb8ce5e47b0b"
+    },
+    {
+      "fileName": "vmalert-prod",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "7520111b93061be8d87a28e3483eb072e27ca0f15e6f4967217ffa0271f25e88"
+    },
+    {
+      "fileName": "vmalert-tool-prod",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "56773ac2323dc1fe172651a90ad74369567b3278b0936152f94d54c60bcceab7"
+    },
+    {
+      "fileName": "vmauth-prod",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "93785336a1f34e21b67ce2f5e96b72499fa7707f6bb6a05175ece125eaf04ecd"
+    },
+    {
+      "fileName": "vmbackup-prod",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "76ecd9bd2ddbc242a865be8912234d5d045b90e02fa1aee1ad1a33eaef6871ba"
+    },
+    {
+      "fileName": "vmrestore-prod",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "c1bb9f5c8efdbec3fb160dede1ef7a911d329a1c6fe84dccb866d06c571fabbe"
+    },
+    {
+      "fileName": "vmctl-prod",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "c9d420c43ea7cd2460e7e939b0108ccbcf6cac106957caabc279430e67445294"
+    },
+    {
+      "fileName": "vmbackupmanager-prod",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "80597986e108fea471a8cbb44b440e7c2f11a4336f6dfacdf97cf9b2c92568b1"
+    },
+    {
+      "fileName": "vmgateway-prod",
+      "algo": "Sha256",
+      "source": "vmutils-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "537d2168aa6fa36a839f4a5c1a916c2b9205d2d81e78fd2270a0b885c1cfcb23"
+    },
+    {
+      "fileName": "victoria-metrics-openbsd-amd64-v1.102.6-enterprise.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-openbsd-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "c5d8899bb049de66744b7da2063ccd37a63a9bbc7f62147e00d54c297a57458b"
+    },
+    {
+      "fileName": "victoria-metrics-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-openbsd-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "ac1f870c133bb768be4a46db7749c72b021a72d63dae569be04f0330dcd9e871"
+    },
+    {
+      "fileName": "victoria-metrics-linux-arm-v1.102.6-enterprise.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-arm-v1.102.6-enterprise_checksums.txt",
+      "hash": "9a8debfa1253cd1229ddf9fe0e4d7a4e863031ba0528adef9d3376bad4266957"
+    },
+    {
+      "fileName": "victoria-metrics-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-arm-v1.102.6-enterprise_checksums.txt",
+      "hash": "952621a9b663a17527dcea070a734a8c82fd10335b78d8091ced3a6854eb79c6"
+    },
+    {
+      "fileName": "victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "715f4c9d146a1e3491b8d4e73cae0698fdb57c955d63c8263ae5318fd507f488"
+    },
+    {
+      "fileName": "vminsert-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "3ba0e47463a14e30205e5dc5820de8a40bc63ace4aa4249a9eee51afe4ed1fb5"
+    },
+    {
+      "fileName": "vmselect-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "2d089f88f7f3f8b71eb0a06c9b228d4cfb8a2fff993f0ada16ea1a4a77f9e161"
+    },
+    {
+      "fileName": "vmstorage-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-arm64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "06c0fdc0191cb2c10b9f862bdb8db14857ada828bfdd20f3172f8359b024279f"
+    },
+    {
+      "fileName": "victoria-metrics-freebsd-amd64-v1.102.6-enterprise.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-freebsd-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "d67271531e884ef0a450d54d9991c7eef73a0717d986365a9c4396ae896c2b47"
+    },
+    {
+      "fileName": "victoria-metrics-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-freebsd-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "369c51bc1ce138d74354d8b0af7e4c6d1ff2dad546180d84c3739bb1bb661488"
+    },
+    {
+      "fileName": "victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "26768eb5e2096dfd48ecbae7734c1f894268d7c1ca3ec8571e6148c57fd6d632"
+    },
+    {
+      "fileName": "vminsert-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "5d1509b0f2fc67160d636090db7727f658a6cb1cc3f8ffcbe5e9551a43e77992"
+    },
+    {
+      "fileName": "vmselect-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "b6662f43794e3ab5b02606461e24b0718431d63a052c44de8dd32695bd2b1c52"
+    },
+    {
+      "fileName": "vmstorage-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-freebsd-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "b5049f2594baf324320c6422e4f51722618b9a9c40e243df5ae01860eb284783"
+    },
+    {
+      "fileName": "victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster.zip",
+      "algo": "Sha256",
+      "source": "victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "8ff827bd148541c294f78a262a3bb21d20b5e7499d09b7688982ada347ca85f6"
+    },
+    {
+      "fileName": "vminsert-windows-amd64-prod.exe",
+      "algo": "Sha256",
+      "source": "victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "39cbc21135690008e958e360e8faa0c95a0870917b1761de90682e84201636d3"
+    },
+    {
+      "fileName": "vmselect-windows-amd64-prod.exe",
+      "algo": "Sha256",
+      "source": "victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "40581c4b4ccc5dd6d566a7fbe45a4b3732e68c33d9ad6a9d9a494949f98ab368"
+    },
+    {
+      "fileName": "vmstorage-windows-amd64-prod.exe",
+      "algo": "Sha256",
+      "source": "victoria-metrics-windows-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "fb24f43419bc7101b43392210c6805ff31504c4142b75099f4401ee3594f9ca4"
+    },
+    {
+      "fileName": "victoria-metrics-windows-amd64-v1.102.6-enterprise.zip",
+      "algo": "Sha256",
+      "source": "victoria-metrics-windows-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "c69bd7ab4de3ce32c22aff4cd1fa86c58c0b3928e776d379e380b6b4cb67f5b7"
+    },
+    {
+      "fileName": "victoria-metrics-windows-amd64-prod.exe",
+      "algo": "Sha256",
+      "source": "victoria-metrics-windows-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "6801ed5676dfd1fcf778f91f6cf6e56d8e9ecfd4d2c68571d42cbcb36416e5cc"
+    },
+    {
+      "fileName": "victoria-metrics-darwin-amd64-v1.102.6-enterprise.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "d1d63e101f971d37ce9d146ee54f3e36b0660680c493e471034bd5e6848b793c"
+    },
+    {
+      "fileName": "victoria-metrics-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-darwin-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "7aacdb92c6abe0d92ea7bdc91ab2de1788080ca587ea772ddbecb49446413964"
+    },
+    {
+      "fileName": "victoria-metrics-linux-386-v1.102.6-enterprise.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-386-v1.102.6-enterprise_checksums.txt",
+      "hash": "060fb32ee79ffc7bd2cc04e802066e553552117d71e68d68f2c4f676f9b11eab"
+    },
+    {
+      "fileName": "victoria-metrics-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-386-v1.102.6-enterprise_checksums.txt",
+      "hash": "1354c5662030eddbb0da8254f674e81d39000108dd524d8bc28f496bd73830bc"
+    },
+    {
+      "fileName": "victoria-metrics-linux-amd64-v1.102.6-enterprise.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "be427e6b853e7ef577172c0a3ca57569ce8ed0f4af99884089d1c6c9bf626f3a"
+    },
+    {
+      "fileName": "victoria-metrics-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-amd64-v1.102.6-enterprise_checksums.txt",
+      "hash": "0d1a1c230a3851289d02a3abd4b392ebb2f4ad4b2d2716524dafcaa0b405fb0a"
+    },
+    {
+      "fileName": "victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "c97935c9987a6095a067e60c547b6795986b55d9ea45922f30f3c7ec0f754872"
+    },
+    {
+      "fileName": "vminsert-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "a03dc36a3b1c478507c0e78270091976d50a3907a621f3970439841885f6f999"
+    },
+    {
+      "fileName": "vmselect-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "9d68c2a4db32aa32c1865b07a7c637d3ff8e0008cb6a4fae13e8cb34ef101499"
+    },
+    {
+      "fileName": "vmstorage-prod",
+      "algo": "Sha256",
+      "source": "victoria-metrics-linux-amd64-v1.102.6-enterprise-cluster_checksums.txt",
+      "hash": "4551a81cac4721d7ecce138b455a180946a635c273f7cf8a2d7e82e6312e917b"
+    }
+  ]
+}

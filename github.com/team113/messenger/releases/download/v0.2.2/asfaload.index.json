@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"messenger-macos.zip","algo":"Sha256","source":"messenger-macos.zip.sha256sum","hash":"c921a2f23bdb73b9b5cb284adbdf1e32fe3f145b60d8c576e1f335849d238922"},{"fileName":"messenger-linux.zip","algo":"Sha256","source":"messenger-linux.zip.sha256sum","hash":"04b52fa928d0441fec103b20ee34d3c1b808f360ce5e904f93f40862ad07d62b"},{"fileName":"docs.zip","algo":"Sha256","source":"docs.zip.sha256sum","hash":"6545bf9b7ae9bf156f0377ad109968ad7aeefb63b810b25425d9284536c8097b"},{"fileName":"messenger-android.aab","algo":"Sha256","source":"messenger-android.aab.sha256sum","hash":"48a1a8a319f3c1d02ae5ef6d24094a2574367df56add374b8c8decaf152e45b0"},{"fileName":"messenger-ios.ipa","algo":"Sha256","source":"messenger-ios.ipa.sha256sum","hash":"82799d176e4fa47cfe15288377cf2701e9e9937353093631673281e9bda31bf9"},{"fileName":"messenger-windows.zip","algo":"Sha256","source":"messenger-windows.zip.sha256sum","hash":"505e5cbbcf1a836ef3ade7e07660ffa1c9319cbec4cb3dd90678a30140b7f87d"},{"fileName":"messenger-web.zip","algo":"Sha256","source":"messenger-web.zip.sha256sum","hash":"6633b44db7718233a8ee353ce274bf7c5b054a66e48e02cd476937bef05e8ee9"},{"fileName":"messenger-android.apk","algo":"Sha256","source":"messenger-android.apk.sha256sum","hash":"b1e78e3197104676849a763cd6d3955cdd62f411c65641f2aa57eb796de1f94f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "messenger-macos.zip",
+      "algo": "Sha256",
+      "source": "messenger-macos.zip.sha256sum",
+      "hash": "c921a2f23bdb73b9b5cb284adbdf1e32fe3f145b60d8c576e1f335849d238922"
+    },
+    {
+      "fileName": "messenger-linux.zip",
+      "algo": "Sha256",
+      "source": "messenger-linux.zip.sha256sum",
+      "hash": "04b52fa928d0441fec103b20ee34d3c1b808f360ce5e904f93f40862ad07d62b"
+    },
+    {
+      "fileName": "docs.zip",
+      "algo": "Sha256",
+      "source": "docs.zip.sha256sum",
+      "hash": "6545bf9b7ae9bf156f0377ad109968ad7aeefb63b810b25425d9284536c8097b"
+    },
+    {
+      "fileName": "messenger-android.aab",
+      "algo": "Sha256",
+      "source": "messenger-android.aab.sha256sum",
+      "hash": "48a1a8a319f3c1d02ae5ef6d24094a2574367df56add374b8c8decaf152e45b0"
+    },
+    {
+      "fileName": "messenger-ios.ipa",
+      "algo": "Sha256",
+      "source": "messenger-ios.ipa.sha256sum",
+      "hash": "82799d176e4fa47cfe15288377cf2701e9e9937353093631673281e9bda31bf9"
+    },
+    {
+      "fileName": "messenger-windows.zip",
+      "algo": "Sha256",
+      "source": "messenger-windows.zip.sha256sum",
+      "hash": "505e5cbbcf1a836ef3ade7e07660ffa1c9319cbec4cb3dd90678a30140b7f87d"
+    },
+    {
+      "fileName": "messenger-web.zip",
+      "algo": "Sha256",
+      "source": "messenger-web.zip.sha256sum",
+      "hash": "6633b44db7718233a8ee353ce274bf7c5b054a66e48e02cd476937bef05e8ee9"
+    },
+    {
+      "fileName": "messenger-android.apk",
+      "algo": "Sha256",
+      "source": "messenger-android.apk.sha256sum",
+      "hash": "b1e78e3197104676849a763cd6d3955cdd62f411c65641f2aa57eb796de1f94f"
+    }
+  ]
+}

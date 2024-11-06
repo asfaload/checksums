@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-darwin-amd64.tar.gz","algo":"Sha256","source":"openobserve-v0.13.1-rc2-darwin-amd64.tar.gz.sha256sum","hash":"719be6fe2da2d7b9150568d5a50c604b784da05ed01ad3db0b7d2f7f00bf0cb2"},{"fileName":"/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-linux-amd64.tar.gz","algo":"Sha256","source":"openobserve-v0.13.1-rc2-linux-amd64.tar.gz.sha256sum","hash":"a77f452fd9827a3ba63384f8913202b0afd5a072ef564c97a1745946b6cc2d4b"},{"fileName":"/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-linux-amd64-musl.tar.gz","algo":"Sha256","source":"openobserve-v0.13.1-rc2-linux-amd64-musl.tar.gz.sha256sum","hash":"2dae78e1fc6cfb0496dead763a9895bea8e2e55ac334e4b2ffac67186772473d"},{"fileName":"/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-linux-arm64.tar.gz","algo":"Sha256","source":"openobserve-v0.13.1-rc2-linux-arm64.tar.gz.sha256sum","hash":"ac2b8e131fd8e5f4021d453f50789cdbbf7ec5d60ff5607000570c6b2c09944e"},{"fileName":"/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-windows-amd64.zip","algo":"Sha256","source":"openobserve-v0.13.1-rc2-windows-amd64.zip.sha256sum","hash":"511b1dc8f043578821efd3736b599c96b6e7152958053eabb386946f70215707"},{"fileName":"/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-darwin-arm64.tar.gz","algo":"Sha256","source":"openobserve-v0.13.1-rc2-darwin-arm64.tar.gz.sha256sum","hash":"e6d1c6678124618139cda5931be3e454779a5c8e05f33d6314481a107d47b788"},{"fileName":"/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-linux-amd64-simd.tar.gz","algo":"Sha256","source":"openobserve-v0.13.1-rc2-linux-amd64-simd.tar.gz.sha256sum","hash":"c9f507b2be08392cae7ac24826d2d2522aabf89f426a97140026f9d027e62969"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "openobserve-v0.13.1-rc2-darwin-amd64.tar.gz.sha256sum",
+      "hash": "719be6fe2da2d7b9150568d5a50c604b784da05ed01ad3db0b7d2f7f00bf0cb2"
+    },
+    {
+      "fileName": "/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "openobserve-v0.13.1-rc2-linux-amd64.tar.gz.sha256sum",
+      "hash": "a77f452fd9827a3ba63384f8913202b0afd5a072ef564c97a1745946b6cc2d4b"
+    },
+    {
+      "fileName": "/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-linux-amd64-musl.tar.gz",
+      "algo": "Sha256",
+      "source": "openobserve-v0.13.1-rc2-linux-amd64-musl.tar.gz.sha256sum",
+      "hash": "2dae78e1fc6cfb0496dead763a9895bea8e2e55ac334e4b2ffac67186772473d"
+    },
+    {
+      "fileName": "/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "openobserve-v0.13.1-rc2-linux-arm64.tar.gz.sha256sum",
+      "hash": "ac2b8e131fd8e5f4021d453f50789cdbbf7ec5d60ff5607000570c6b2c09944e"
+    },
+    {
+      "fileName": "/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "openobserve-v0.13.1-rc2-windows-amd64.zip.sha256sum",
+      "hash": "511b1dc8f043578821efd3736b599c96b6e7152958053eabb386946f70215707"
+    },
+    {
+      "fileName": "/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "openobserve-v0.13.1-rc2-darwin-arm64.tar.gz.sha256sum",
+      "hash": "e6d1c6678124618139cda5931be3e454779a5c8e05f33d6314481a107d47b788"
+    },
+    {
+      "fileName": "/data/git/github.com/openobserve/openobserve/releases/download/v0.13.1-rc2/openobserve-v0.13.1-rc2-linux-amd64-simd.tar.gz",
+      "algo": "Sha256",
+      "source": "openobserve-v0.13.1-rc2-linux-amd64-simd.tar.gz.sha256sum",
+      "hash": "c9f507b2be08392cae7ac24826d2d2522aabf89f426a97140026f9d027e62969"
+    }
+  ]
+}

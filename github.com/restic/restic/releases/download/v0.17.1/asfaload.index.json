@@ -1,1 +1,157 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"restic-0.17.1.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"cba3a5759690d11dae4b5620c44f56be17a5688e32c9856776db8a9a93d6d59a"},{"fileName":"restic_0.17.1_aix_ppc64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"b6e4dcb6e21f19b4c1d83ef82f170445b0ee76cddb618ef2bfe7601e9ff878bd"},{"fileName":"restic_0.17.1_darwin_amd64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"bbe5398b0a9bddb89a524821df31fc63a1ce8ff25ef41c99f7f5f090d8fcaa4b"},{"fileName":"restic_0.17.1_darwin_arm64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"566fe53499d05440d4a9539a9294b760877654c62fdfec3f8c988069615e3e9a"},{"fileName":"restic_0.17.1_freebsd_386.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"610281da14be0dee3a90e2231f5c368817f98de7adf31f4b36a8961a21e25110"},{"fileName":"restic_0.17.1_freebsd_amd64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"034f2ac0217621da3e7e84dfdafde00d0ae424a41058334a059f91263fed7b9f"},{"fileName":"restic_0.17.1_freebsd_arm.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"261f68bd71680747d31e5f5146c6e7028fb30a382551b36965b41d3dc3b0b13d"},{"fileName":"restic_0.17.1_linux_386.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"6d49649d0d8412aae024994dae63a333e026704fe3919a84fe72faa7520cd24a"},{"fileName":"restic_0.17.1_linux_amd64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"bdfaf16fe933136e3057e64e28624f2e0451dbd47e23badb2d37dbb60fdb6a70"},{"fileName":"restic_0.17.1_linux_arm.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"f0d4d53cef45cca69544482aaff7beafd00922cee737d5913644f754a67c1e85"},{"fileName":"restic_0.17.1_linux_arm64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"aa9d86ac5f261f6a8295d5503bb27761ba7fe1fc1cf26fa52e7ab249b9a04716"},{"fileName":"restic_0.17.1_linux_mips.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"49c9064ed179de125a42c94525523502e13d77cf8da19dc371d31a6cc4e343c2"},{"fileName":"restic_0.17.1_linux_mips64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"4c6a488524f36787484bc140b24b6aeedaf1524a9c12dcd7920ee14696c759db"},{"fileName":"restic_0.17.1_linux_mips64le.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"35eb758ed1c842128f2b9e68d89d8248257447a187f4d39c89df6e67f294e3dd"},{"fileName":"restic_0.17.1_linux_mipsle.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"c012043334f0a59c97551e928c2d3d4aa24978d536ee9acc7a0e1d46b39167ad"},{"fileName":"restic_0.17.1_linux_ppc64le.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"2eb08c93e4ddf85759703cb3e13bc271a76b8b984cbc252ebc5d159ba0de75b5"},{"fileName":"restic_0.17.1_linux_riscv64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"dd7c531ab5e33d340abd2cd842238bb024f854aeaae8da9eb27ce0d749d9bac4"},{"fileName":"restic_0.17.1_linux_s390x.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"31b1315ac087740b84a4db0dce458e593eddbb892fe01afcf1a4d567ec45377b"},{"fileName":"restic_0.17.1_netbsd_386.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"a9da407b10bfdeaeb7e427a8ff627a6637c07c90eea333738b14eee4d72904f9"},{"fileName":"restic_0.17.1_netbsd_amd64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"857dce9b21899bbef17d90a3883672acc477c79435daf72944a73bd5d1fd4121"},{"fileName":"restic_0.17.1_openbsd_386.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"fca12a72617855edcd75cf970472b23205bf71cbf42bdb2bb4afeef8c19c3779"},{"fileName":"restic_0.17.1_openbsd_amd64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"064310885d9feef28871830b729a387cdcbc13473006784223986b3aa3e1dc7a"},{"fileName":"restic_0.17.1_solaris_amd64.bz2","algo":"Sha256","source":"SHA256SUMS","hash":"933053080dbb170c833087ee57083e34bc976f8f1b3c9d66e58bc0abf05bf051"},{"fileName":"restic_0.17.1_windows_386.zip","algo":"Sha256","source":"SHA256SUMS","hash":"b37d69cca2fd086414c86bc0362791899c572549dccf23264abf48bd5b41b857"},{"fileName":"restic_0.17.1_windows_amd64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"8cca20660bd827552a96bd4b4ade2ebab1880cd068b43eea5fb211f11a98ac60"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "restic-0.17.1.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "cba3a5759690d11dae4b5620c44f56be17a5688e32c9856776db8a9a93d6d59a"
+    },
+    {
+      "fileName": "restic_0.17.1_aix_ppc64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "b6e4dcb6e21f19b4c1d83ef82f170445b0ee76cddb618ef2bfe7601e9ff878bd"
+    },
+    {
+      "fileName": "restic_0.17.1_darwin_amd64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "bbe5398b0a9bddb89a524821df31fc63a1ce8ff25ef41c99f7f5f090d8fcaa4b"
+    },
+    {
+      "fileName": "restic_0.17.1_darwin_arm64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "566fe53499d05440d4a9539a9294b760877654c62fdfec3f8c988069615e3e9a"
+    },
+    {
+      "fileName": "restic_0.17.1_freebsd_386.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "610281da14be0dee3a90e2231f5c368817f98de7adf31f4b36a8961a21e25110"
+    },
+    {
+      "fileName": "restic_0.17.1_freebsd_amd64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "034f2ac0217621da3e7e84dfdafde00d0ae424a41058334a059f91263fed7b9f"
+    },
+    {
+      "fileName": "restic_0.17.1_freebsd_arm.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "261f68bd71680747d31e5f5146c6e7028fb30a382551b36965b41d3dc3b0b13d"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_386.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "6d49649d0d8412aae024994dae63a333e026704fe3919a84fe72faa7520cd24a"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_amd64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "bdfaf16fe933136e3057e64e28624f2e0451dbd47e23badb2d37dbb60fdb6a70"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_arm.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "f0d4d53cef45cca69544482aaff7beafd00922cee737d5913644f754a67c1e85"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_arm64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "aa9d86ac5f261f6a8295d5503bb27761ba7fe1fc1cf26fa52e7ab249b9a04716"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_mips.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "49c9064ed179de125a42c94525523502e13d77cf8da19dc371d31a6cc4e343c2"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_mips64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "4c6a488524f36787484bc140b24b6aeedaf1524a9c12dcd7920ee14696c759db"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_mips64le.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "35eb758ed1c842128f2b9e68d89d8248257447a187f4d39c89df6e67f294e3dd"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_mipsle.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "c012043334f0a59c97551e928c2d3d4aa24978d536ee9acc7a0e1d46b39167ad"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_ppc64le.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "2eb08c93e4ddf85759703cb3e13bc271a76b8b984cbc252ebc5d159ba0de75b5"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_riscv64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "dd7c531ab5e33d340abd2cd842238bb024f854aeaae8da9eb27ce0d749d9bac4"
+    },
+    {
+      "fileName": "restic_0.17.1_linux_s390x.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "31b1315ac087740b84a4db0dce458e593eddbb892fe01afcf1a4d567ec45377b"
+    },
+    {
+      "fileName": "restic_0.17.1_netbsd_386.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "a9da407b10bfdeaeb7e427a8ff627a6637c07c90eea333738b14eee4d72904f9"
+    },
+    {
+      "fileName": "restic_0.17.1_netbsd_amd64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "857dce9b21899bbef17d90a3883672acc477c79435daf72944a73bd5d1fd4121"
+    },
+    {
+      "fileName": "restic_0.17.1_openbsd_386.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "fca12a72617855edcd75cf970472b23205bf71cbf42bdb2bb4afeef8c19c3779"
+    },
+    {
+      "fileName": "restic_0.17.1_openbsd_amd64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "064310885d9feef28871830b729a387cdcbc13473006784223986b3aa3e1dc7a"
+    },
+    {
+      "fileName": "restic_0.17.1_solaris_amd64.bz2",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "933053080dbb170c833087ee57083e34bc976f8f1b3c9d66e58bc0abf05bf051"
+    },
+    {
+      "fileName": "restic_0.17.1_windows_386.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "b37d69cca2fd086414c86bc0362791899c572549dccf23264abf48bd5b41b857"
+    },
+    {
+      "fileName": "restic_0.17.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "8cca20660bd827552a96bd4b4ade2ebab1880cd068b43eea5fb211f11a98ac60"
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"roller_Darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1febde2880b91d0298a1247c999b3839bb6b6f7f2e371b0847d6389bed6228a8"},{"fileName":"roller_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2f8165839263378d753639d618ccb739ce66c469c36f395aa0cdcaa9bdc4c9bd"},{"fileName":"roller_Linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"66711e76f75fa88e97e53dc86608009eed4331ea41df8c88acaccf2016ee1316"},{"fileName":"roller_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ba3ed6ef6a6ff51d0f9a6f9067f7a7f1adca16da44b1a7c14769640cd8b69cf5"},{"fileName":"roller_Windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"f55882fc47b9c8eaa99ee2784d0bfd554c9ff0f8686082fc9fe5edfb5235cf44"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "roller_Darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1febde2880b91d0298a1247c999b3839bb6b6f7f2e371b0847d6389bed6228a8"
+    },
+    {
+      "fileName": "roller_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2f8165839263378d753639d618ccb739ce66c469c36f395aa0cdcaa9bdc4c9bd"
+    },
+    {
+      "fileName": "roller_Linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "66711e76f75fa88e97e53dc86608009eed4331ea41df8c88acaccf2016ee1316"
+    },
+    {
+      "fileName": "roller_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ba3ed6ef6a6ff51d0f9a6f9067f7a7f1adca16da44b1a7c14769640cd8b69cf5"
+    },
+    {
+      "fileName": "roller_Windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f55882fc47b9c8eaa99ee2784d0bfd554c9ff0f8686082fc9fe5edfb5235cf44"
+    }
+  ]
+}

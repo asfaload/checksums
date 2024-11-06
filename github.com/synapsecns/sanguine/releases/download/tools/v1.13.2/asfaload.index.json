@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tools-1.13.2.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"90871eea69256ea2e3be3b09be6a418af956a4cd550008715d502cd4b3292565"},{"fileName":"tools-1.13.2_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c8d8dcaad8f25581f5f4a621b10ddef4e03cad1ef502449cdc76c0e09f87cb10"},{"fileName":"tools-1.13.2_linux_amd64.tar.gz.sbom","algo":"Sha256","source":"checksums.txt","hash":"16789b5b326037b5eb9217eb994097ef8a5f727fd39745441eef5e082530c847"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tools-1.13.2.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "90871eea69256ea2e3be3b09be6a418af956a4cd550008715d502cd4b3292565"
+    },
+    {
+      "fileName": "tools-1.13.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c8d8dcaad8f25581f5f4a621b10ddef4e03cad1ef502449cdc76c0e09f87cb10"
+    },
+    {
+      "fileName": "tools-1.13.2_linux_amd64.tar.gz.sbom",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "16789b5b326037b5eb9217eb994097ef8a5f727fd39745441eef5e082530c847"
+    }
+  ]
+}

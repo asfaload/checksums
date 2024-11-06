@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mordecai_Darwin_arm64.tar.gz","algo":"Sha256","source":"mordecai_0.0.5_checksums.txt","hash":"18cf89d9f7345334c29a503163d95f64cdb5f7551a3ebd4a4c6acde185129194"},{"fileName":"mordecai_Darwin_x86_64.tar.gz","algo":"Sha256","source":"mordecai_0.0.5_checksums.txt","hash":"ed7acafccd8bb6ee7f498847950bb2bb89cd0446af22d9e8b5853eac76fae8db"},{"fileName":"mordecai_Linux_arm64.tar.gz","algo":"Sha256","source":"mordecai_0.0.5_checksums.txt","hash":"cfa53b32143ffd01911bf058fc205a4920360bb7fd3452c24ed059213abb61a2"},{"fileName":"mordecai_Linux_i386.tar.gz","algo":"Sha256","source":"mordecai_0.0.5_checksums.txt","hash":"ca6a6f4bfad217c4934adb09af3ac63587ea304ac0e0ce02454540e501af6e20"},{"fileName":"mordecai_Linux_x86_64.tar.gz","algo":"Sha256","source":"mordecai_0.0.5_checksums.txt","hash":"f763b1939277c78f74e74ee4e9a75ae67a207c58a7a917b56ab95d3455e1783a"},{"fileName":"mordecai_Windows_arm64.zip","algo":"Sha256","source":"mordecai_0.0.5_checksums.txt","hash":"c50128d4b14eaafe06acec592905cfc031e34e9b1b770632d45701a2a50aa0ea"},{"fileName":"mordecai_Windows_i386.zip","algo":"Sha256","source":"mordecai_0.0.5_checksums.txt","hash":"e7fb45d3a3720211767f97e7db5ffe86ec21caf50c6542fa6d4947391781454c"},{"fileName":"mordecai_Windows_x86_64.zip","algo":"Sha256","source":"mordecai_0.0.5_checksums.txt","hash":"d25c60dba007df8810199526a3de0ed0796b699c8044834df4734b01d0ae9ec2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mordecai_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "mordecai_0.0.5_checksums.txt",
+      "hash": "18cf89d9f7345334c29a503163d95f64cdb5f7551a3ebd4a4c6acde185129194"
+    },
+    {
+      "fileName": "mordecai_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "mordecai_0.0.5_checksums.txt",
+      "hash": "ed7acafccd8bb6ee7f498847950bb2bb89cd0446af22d9e8b5853eac76fae8db"
+    },
+    {
+      "fileName": "mordecai_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "mordecai_0.0.5_checksums.txt",
+      "hash": "cfa53b32143ffd01911bf058fc205a4920360bb7fd3452c24ed059213abb61a2"
+    },
+    {
+      "fileName": "mordecai_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "mordecai_0.0.5_checksums.txt",
+      "hash": "ca6a6f4bfad217c4934adb09af3ac63587ea304ac0e0ce02454540e501af6e20"
+    },
+    {
+      "fileName": "mordecai_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "mordecai_0.0.5_checksums.txt",
+      "hash": "f763b1939277c78f74e74ee4e9a75ae67a207c58a7a917b56ab95d3455e1783a"
+    },
+    {
+      "fileName": "mordecai_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "mordecai_0.0.5_checksums.txt",
+      "hash": "c50128d4b14eaafe06acec592905cfc031e34e9b1b770632d45701a2a50aa0ea"
+    },
+    {
+      "fileName": "mordecai_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "mordecai_0.0.5_checksums.txt",
+      "hash": "e7fb45d3a3720211767f97e7db5ffe86ec21caf50c6542fa6d4947391781454c"
+    },
+    {
+      "fileName": "mordecai_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "mordecai_0.0.5_checksums.txt",
+      "hash": "d25c60dba007df8810199526a3de0ed0796b699c8044834df4734b01d0ae9ec2"
+    }
+  ]
+}

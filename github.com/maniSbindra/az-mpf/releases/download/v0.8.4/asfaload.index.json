@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"az-mpf_0.8.4_darwin_amd64.tar.gz","algo":"Sha256","source":"az-mpf_checksums.txt","hash":"96998313e031cfc228ce7c429ec8f914ab04227a48b565e0ce237e522996b0a4"},{"fileName":"az-mpf_0.8.4_darwin_arm64.tar.gz","algo":"Sha256","source":"az-mpf_checksums.txt","hash":"dfabd67a724c57b8d1f981c7a918734ff617d3b503bef0d4921f32a43f858df2"},{"fileName":"az-mpf_0.8.4_linux_amd64.tar.gz","algo":"Sha256","source":"az-mpf_checksums.txt","hash":"61f8c8d52ec2512f970ccff2e6cf59bcb89a844d10accf5c3a95871a0a61b6b4"},{"fileName":"az-mpf_0.8.4_linux_arm64.tar.gz","algo":"Sha256","source":"az-mpf_checksums.txt","hash":"21924c6b5754f7bdb1cfa8d79137394a82a4d051458cbb255dedbe2f69d550c5"},{"fileName":"az-mpf_0.8.4_windows_amd64.tar.gz","algo":"Sha256","source":"az-mpf_checksums.txt","hash":"486f24cef416e827559920cb66945a68c5f7594547c842571c39b3388ac0bc30"},{"fileName":"az-mpf_0.8.4_windows_arm64.tar.gz","algo":"Sha256","source":"az-mpf_checksums.txt","hash":"e114184b88e81cf9ab86f737da08f3bc1275f1bfd0fb0240053d7a88d2396d6b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "az-mpf_0.8.4_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "az-mpf_checksums.txt",
+      "hash": "96998313e031cfc228ce7c429ec8f914ab04227a48b565e0ce237e522996b0a4"
+    },
+    {
+      "fileName": "az-mpf_0.8.4_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "az-mpf_checksums.txt",
+      "hash": "dfabd67a724c57b8d1f981c7a918734ff617d3b503bef0d4921f32a43f858df2"
+    },
+    {
+      "fileName": "az-mpf_0.8.4_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "az-mpf_checksums.txt",
+      "hash": "61f8c8d52ec2512f970ccff2e6cf59bcb89a844d10accf5c3a95871a0a61b6b4"
+    },
+    {
+      "fileName": "az-mpf_0.8.4_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "az-mpf_checksums.txt",
+      "hash": "21924c6b5754f7bdb1cfa8d79137394a82a4d051458cbb255dedbe2f69d550c5"
+    },
+    {
+      "fileName": "az-mpf_0.8.4_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "az-mpf_checksums.txt",
+      "hash": "486f24cef416e827559920cb66945a68c5f7594547c842571c39b3388ac0bc30"
+    },
+    {
+      "fileName": "az-mpf_0.8.4_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "az-mpf_checksums.txt",
+      "hash": "e114184b88e81cf9ab86f737da08f3bc1275f1bfd0fb0240053d7a88d2396d6b"
+    }
+  ]
+}

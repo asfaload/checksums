@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"anchore-k8s-inventory-fips_1.7.1_linux_amd64.tar.gz","algo":"Sha256","source":"k8s-inventory_1.7.1_checksums.txt","hash":"4951209ca119ad6d4d03aa10044259c6cb7bab84c79758fa07635c0d0de601ab"},{"fileName":"anchore-k8s-inventory_1.7.1_darwin_amd64.tar.gz","algo":"Sha256","source":"k8s-inventory_1.7.1_checksums.txt","hash":"7105d6f884094d32ccc67f6cbd46a5ff2739cf66a340a8eaff56dae218cf844c"},{"fileName":"anchore-k8s-inventory_1.7.1_linux_arm64.tar.gz","algo":"Sha256","source":"k8s-inventory_1.7.1_checksums.txt","hash":"7165013cad8362605c9387309c0298e5b4a86a3a1711cfa53432c015f6975812"},{"fileName":"anchore-k8s-inventory_1.7.1_linux_amd64.tar.gz","algo":"Sha256","source":"k8s-inventory_1.7.1_checksums.txt","hash":"9d595a3a8d9520343ffd4682062184f84218c88e0af75b392a417b8ca65c4556"},{"fileName":"anchore-k8s-inventory_1.7.1_darwin_arm64.tar.gz","algo":"Sha256","source":"k8s-inventory_1.7.1_checksums.txt","hash":"b69bfd2ac687d77eff5091a3509133960a31e7a4d6ea07c46b7256fda90057f8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "anchore-k8s-inventory-fips_1.7.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "k8s-inventory_1.7.1_checksums.txt",
+      "hash": "4951209ca119ad6d4d03aa10044259c6cb7bab84c79758fa07635c0d0de601ab"
+    },
+    {
+      "fileName": "anchore-k8s-inventory_1.7.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "k8s-inventory_1.7.1_checksums.txt",
+      "hash": "7105d6f884094d32ccc67f6cbd46a5ff2739cf66a340a8eaff56dae218cf844c"
+    },
+    {
+      "fileName": "anchore-k8s-inventory_1.7.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "k8s-inventory_1.7.1_checksums.txt",
+      "hash": "7165013cad8362605c9387309c0298e5b4a86a3a1711cfa53432c015f6975812"
+    },
+    {
+      "fileName": "anchore-k8s-inventory_1.7.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "k8s-inventory_1.7.1_checksums.txt",
+      "hash": "9d595a3a8d9520343ffd4682062184f84218c88e0af75b392a417b8ca65c4556"
+    },
+    {
+      "fileName": "anchore-k8s-inventory_1.7.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "k8s-inventory_1.7.1_checksums.txt",
+      "hash": "b69bfd2ac687d77eff5091a3509133960a31e7a4d6ea07c46b7256fda90057f8"
+    }
+  ]
+}

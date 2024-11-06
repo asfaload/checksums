@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"clightning-v24.08.1-Fedora-28-amd64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"6c5d2bf5f392b33d33fa1787be139f99252d92b1dfc2e02f635dc67e40fe35da"},{"fileName":"clightning-v24.08.1-Ubuntu-20.04.tar.xz","algo":"Sha256","source":"SHA256SUMS","hash":"c38bce8bf7113144593f8b19b24f565d5bb9979a0a35e5b9344ddeb26dbb4d0f"},{"fileName":"clightning-v24.08.1-Ubuntu-22.04.tar.xz","algo":"Sha256","source":"SHA256SUMS","hash":"27131c39ea33f9a00f02ed1013e6a8f9ec07ceca358bfddb5f88350adac8c722"},{"fileName":"clightning-v24.08.1-Ubuntu-24.04.tar.xz","algo":"Sha256","source":"SHA256SUMS","hash":"1e72c74ab89f49452f944c09c2f344fac2d7e27d76b4edaf9d1f556e00e23b0b"},{"fileName":"clightning-v24.08.1.zip","algo":"Sha256","source":"SHA256SUMS","hash":"d992af84dbb319fb4ac127663241cec04f54108e44c27e471d2cb2654702c01e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "clightning-v24.08.1-Fedora-28-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "6c5d2bf5f392b33d33fa1787be139f99252d92b1dfc2e02f635dc67e40fe35da"
+    },
+    {
+      "fileName": "clightning-v24.08.1-Ubuntu-20.04.tar.xz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "c38bce8bf7113144593f8b19b24f565d5bb9979a0a35e5b9344ddeb26dbb4d0f"
+    },
+    {
+      "fileName": "clightning-v24.08.1-Ubuntu-22.04.tar.xz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "27131c39ea33f9a00f02ed1013e6a8f9ec07ceca358bfddb5f88350adac8c722"
+    },
+    {
+      "fileName": "clightning-v24.08.1-Ubuntu-24.04.tar.xz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "1e72c74ab89f49452f944c09c2f344fac2d7e27d76b4edaf9d1f556e00e23b0b"
+    },
+    {
+      "fileName": "clightning-v24.08.1.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "d992af84dbb319fb4ac127663241cec04f54108e44c27e471d2cb2654702c01e"
+    }
+  ]
+}

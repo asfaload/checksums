@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T18:08:01+00:00","publishedOn":"2024-11-05T18:10:21.8836187+00:00","version":1,"publishedFiles":[{"fileName":"pavex_cli-x86_64-apple-darwin.tar.xz","algo":"Sha256","source":"pavex_cli-x86_64-apple-darwin.tar.xz.sha256","hash":"4d1ea45ce282f81c6db27d7a0944576b0c933d56406971f78e90de51742c4eaa"},{"fileName":"pavex_cli-x86_64-unknown-linux-gnu.tar.xz","algo":"Sha256","source":"pavex_cli-x86_64-unknown-linux-gnu.tar.xz.sha256","hash":"b9abb484c43cf14b2d6a0dfaf08a1aeda7187421c941651356fd167399e752d5"},{"fileName":"pavexc_cli-x86_64-unknown-linux-gnu.tar.xz","algo":"Sha256","source":"pavexc_cli-x86_64-unknown-linux-gnu.tar.xz.sha256","hash":"dbf3711fdcc94e764464a0fdd65efdfeb94e31a7aad69ea7dcf24ac17efbc9c2"},{"fileName":"pavexc_cli-x86_64-pc-windows-msvc.zip","algo":"Sha256","source":"pavexc_cli-x86_64-pc-windows-msvc.zip.sha256","hash":"2f0a1fd8a34742ab3f32901d227f5266ffc9a2f8ab18c82c47bfd1eac8e2f90e"},{"fileName":"pavex_cli-x86_64-unknown-linux-musl.tar.xz","algo":"Sha256","source":"pavex_cli-x86_64-unknown-linux-musl.tar.xz.sha256","hash":"e76793e021ed228b4f1e303ae426a0dbbeea054a263ff17e500cc87372693c4a"},{"fileName":"pavexc_cli-x86_64-apple-darwin.tar.xz","algo":"Sha256","source":"pavexc_cli-x86_64-apple-darwin.tar.xz.sha256","hash":"b725a6bd541decbd9966aed47863001eb1c457f19de41dc4658a7973896efe0c"},{"fileName":"source.tar.gz","algo":"Sha256","source":"source.tar.gz.sha256","hash":"06c5de258c67a7718a194776d4967c06c9197682e0866871d760d710fb0a7230"},{"fileName":"pavex_cli-x86_64-pc-windows-msvc.zip","algo":"Sha256","source":"pavex_cli-x86_64-pc-windows-msvc.zip.sha256","hash":"08b325f3ae6675836dd1a3b2303dbf1d86dc8239712f2d8946f1a6555c8b3c62"},{"fileName":"pavex_cli-aarch64-apple-darwin.tar.xz","algo":"Sha256","source":"pavex_cli-aarch64-apple-darwin.tar.xz.sha256","hash":"883e04dc11145a1222b78516d478413ef685d3806ac2816b439c19459efa7723"},{"fileName":"pavexc_cli-x86_64-unknown-linux-musl.tar.xz","algo":"Sha256","source":"pavexc_cli-x86_64-unknown-linux-musl.tar.xz.sha256","hash":"9f51d1a3f8f92531ab2106752b48a1cc958df37df20af30f8011e801d5710266"},{"fileName":"pavexc_cli-aarch64-apple-darwin.tar.xz","algo":"Sha256","source":"pavexc_cli-aarch64-apple-darwin.tar.xz.sha256","hash":"2fae14d01964f3d4395a168320fb39bac1209700fa9819457d39a6c476c345ea"}]}
+{
+  "mirroredOn": "2024-11-05T18:10:21.8836187+00:00",
+  "publishedOn": "2024-11-05T18:08:01+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pavex_cli-x86_64-apple-darwin.tar.xz",
+      "algo": "Sha256",
+      "source": "pavex_cli-x86_64-apple-darwin.tar.xz.sha256",
+      "hash": "4d1ea45ce282f81c6db27d7a0944576b0c933d56406971f78e90de51742c4eaa"
+    },
+    {
+      "fileName": "pavex_cli-x86_64-unknown-linux-gnu.tar.xz",
+      "algo": "Sha256",
+      "source": "pavex_cli-x86_64-unknown-linux-gnu.tar.xz.sha256",
+      "hash": "b9abb484c43cf14b2d6a0dfaf08a1aeda7187421c941651356fd167399e752d5"
+    },
+    {
+      "fileName": "pavexc_cli-x86_64-unknown-linux-gnu.tar.xz",
+      "algo": "Sha256",
+      "source": "pavexc_cli-x86_64-unknown-linux-gnu.tar.xz.sha256",
+      "hash": "dbf3711fdcc94e764464a0fdd65efdfeb94e31a7aad69ea7dcf24ac17efbc9c2"
+    },
+    {
+      "fileName": "pavexc_cli-x86_64-pc-windows-msvc.zip",
+      "algo": "Sha256",
+      "source": "pavexc_cli-x86_64-pc-windows-msvc.zip.sha256",
+      "hash": "2f0a1fd8a34742ab3f32901d227f5266ffc9a2f8ab18c82c47bfd1eac8e2f90e"
+    },
+    {
+      "fileName": "pavex_cli-x86_64-unknown-linux-musl.tar.xz",
+      "algo": "Sha256",
+      "source": "pavex_cli-x86_64-unknown-linux-musl.tar.xz.sha256",
+      "hash": "e76793e021ed228b4f1e303ae426a0dbbeea054a263ff17e500cc87372693c4a"
+    },
+    {
+      "fileName": "pavexc_cli-x86_64-apple-darwin.tar.xz",
+      "algo": "Sha256",
+      "source": "pavexc_cli-x86_64-apple-darwin.tar.xz.sha256",
+      "hash": "b725a6bd541decbd9966aed47863001eb1c457f19de41dc4658a7973896efe0c"
+    },
+    {
+      "fileName": "source.tar.gz",
+      "algo": "Sha256",
+      "source": "source.tar.gz.sha256",
+      "hash": "06c5de258c67a7718a194776d4967c06c9197682e0866871d760d710fb0a7230"
+    },
+    {
+      "fileName": "pavex_cli-x86_64-pc-windows-msvc.zip",
+      "algo": "Sha256",
+      "source": "pavex_cli-x86_64-pc-windows-msvc.zip.sha256",
+      "hash": "08b325f3ae6675836dd1a3b2303dbf1d86dc8239712f2d8946f1a6555c8b3c62"
+    },
+    {
+      "fileName": "pavex_cli-aarch64-apple-darwin.tar.xz",
+      "algo": "Sha256",
+      "source": "pavex_cli-aarch64-apple-darwin.tar.xz.sha256",
+      "hash": "883e04dc11145a1222b78516d478413ef685d3806ac2816b439c19459efa7723"
+    },
+    {
+      "fileName": "pavexc_cli-x86_64-unknown-linux-musl.tar.xz",
+      "algo": "Sha256",
+      "source": "pavexc_cli-x86_64-unknown-linux-musl.tar.xz.sha256",
+      "hash": "9f51d1a3f8f92531ab2106752b48a1cc958df37df20af30f8011e801d5710266"
+    },
+    {
+      "fileName": "pavexc_cli-aarch64-apple-darwin.tar.xz",
+      "algo": "Sha256",
+      "source": "pavexc_cli-aarch64-apple-darwin.tar.xz.sha256",
+      "hash": "2fae14d01964f3d4395a168320fb39bac1209700fa9819457d39a6c476c345ea"
+    }
+  ]
+}

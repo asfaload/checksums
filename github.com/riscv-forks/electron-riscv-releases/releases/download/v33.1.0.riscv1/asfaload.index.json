@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-06T08:08:32+00:00","publishedOn":"2024-11-06T08:11:46.7019361+00:00","version":1,"publishedFiles":[{"fileName":"chromedriver-v33.1.0-linux-riscv64.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"192725cabd02423425446e3166b7981f3a21e2a2f0775b988366e5c00dcebbde"},{"fileName":"electron-v33.1.0-linux-riscv64-debug.tar.zst","algo":"Sha256","source":"SHASUMS256.txt","hash":"4570c62affebf080a934990b695095250885910d082df6832698d85199acab77"},{"fileName":"electron-v33.1.0-linux-riscv64-symbols.tar.zst","algo":"Sha256","source":"SHASUMS256.txt","hash":"782bf254a60a61e3233cd4933da4db84cf53e02ad12ed9828239a3d9171dafe7"},{"fileName":"electron-v33.1.0-linux-riscv64.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"fc7f40f5bb2ad3c61558e253c26ba1a4da8726cdd2ce1f3e8ba23f2fe3f58c5a"},{"fileName":"ffmpeg-v33.1.0-linux-riscv64.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"786cbd3a035c24d4b9b19cbd22d822c109b5f96e81d35cb0b73f4b4ec1ef929b"},{"fileName":"hunspell-dictionaries.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"fd4a23fc7e65ff0bf2ba171215ac0415c65e7f2acadfad540619fc5b694721e9"},{"fileName":"libcxx-headers.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"60799c39e0989eee281264ad663cd9c9ef1dfc367f68b4bf08e033d1b57b5d7e"},{"fileName":"libcxx-objects-v33.1.0-linux-riscv64.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"834fdbe2afa9ed85f1b8cfd9cf6870da2c41930e6c9c43ed59aeb3daf0656acc"},{"fileName":"libcxxabi-headers.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"61aca97bf4ca4b7ee3f0bff8bc70c8e8b341477f4e72be9cbd735c46bf18244a"},{"fileName":"mksnapshot-v33.1.0-linux-riscv64.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"3e318b7e353d117d79ce13bc243b230406dabc7d7e90b587e8858b2457747e4e"},{"fileName":"node-v33.1.0-headers.tar.gz","algo":"Sha256","source":"SHASUMS256.txt","hash":"07a04eaf1f4c412a1b114a8d3e9ebeab9523046d9ffe98cc87bc585c423ff36f"}]}
+{
+  "mirroredOn": "2024-11-06T08:11:46.7019361+00:00",
+  "publishedOn": "2024-11-06T08:08:32+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "chromedriver-v33.1.0-linux-riscv64.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "192725cabd02423425446e3166b7981f3a21e2a2f0775b988366e5c00dcebbde"
+    },
+    {
+      "fileName": "electron-v33.1.0-linux-riscv64-debug.tar.zst",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "4570c62affebf080a934990b695095250885910d082df6832698d85199acab77"
+    },
+    {
+      "fileName": "electron-v33.1.0-linux-riscv64-symbols.tar.zst",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "782bf254a60a61e3233cd4933da4db84cf53e02ad12ed9828239a3d9171dafe7"
+    },
+    {
+      "fileName": "electron-v33.1.0-linux-riscv64.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "fc7f40f5bb2ad3c61558e253c26ba1a4da8726cdd2ce1f3e8ba23f2fe3f58c5a"
+    },
+    {
+      "fileName": "ffmpeg-v33.1.0-linux-riscv64.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "786cbd3a035c24d4b9b19cbd22d822c109b5f96e81d35cb0b73f4b4ec1ef929b"
+    },
+    {
+      "fileName": "hunspell-dictionaries.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "fd4a23fc7e65ff0bf2ba171215ac0415c65e7f2acadfad540619fc5b694721e9"
+    },
+    {
+      "fileName": "libcxx-headers.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "60799c39e0989eee281264ad663cd9c9ef1dfc367f68b4bf08e033d1b57b5d7e"
+    },
+    {
+      "fileName": "libcxx-objects-v33.1.0-linux-riscv64.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "834fdbe2afa9ed85f1b8cfd9cf6870da2c41930e6c9c43ed59aeb3daf0656acc"
+    },
+    {
+      "fileName": "libcxxabi-headers.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "61aca97bf4ca4b7ee3f0bff8bc70c8e8b341477f4e72be9cbd735c46bf18244a"
+    },
+    {
+      "fileName": "mksnapshot-v33.1.0-linux-riscv64.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "3e318b7e353d117d79ce13bc243b230406dabc7d7e90b587e8858b2457747e4e"
+    },
+    {
+      "fileName": "node-v33.1.0-headers.tar.gz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "07a04eaf1f4c412a1b114a8d3e9ebeab9523046d9ffe98cc87bc585c423ff36f"
+    }
+  ]
+}

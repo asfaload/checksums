@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"linux-amd64-package-r.tar.gz","algo":"Sha256","source":"package-r_1.4.0_checksums.txt","hash":"acbdfcbe8187437ef726cd6e55db4d9bcfec6daa36a7f69725efdd6a62a1d2bd"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "linux-amd64-package-r.tar.gz",
+      "algo": "Sha256",
+      "source": "package-r_1.4.0_checksums.txt",
+      "hash": "acbdfcbe8187437ef726cd6e55db4d9bcfec6daa36a7f69725efdd6a62a1d2bd"
+    }
+  ]
+}

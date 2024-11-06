@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cli_1.0.114_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"cc74bccc9380d14851d3680b7f6d4e6a419291551c67c7c6c708b060144f63b6"},{"fileName":"cli_1.0.114_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4e3f1264ca1b022bfa9eed70ca7947171086fb34f71bb734350e4a3f502239b7"},{"fileName":"cli_1.0.114_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a4e4fe375fe706ddea3dd632e8641230cfc56f127ecc4519c590beb74b78ec92"},{"fileName":"cli_1.0.114_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"891fd494e9af27c2a27ed76cb157ad3707667c9f44f7a5a171fa4c3f0371c624"},{"fileName":"cli_1.0.114_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0468bbba3983cddb91eb3a266e800ab3dae3ee3b50bcbd91d1d0d7d1a77ad482"},{"fileName":"cli_1.0.114_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c63b6eb9e53a4da216db91b49135c27127c17275e7b52ba1a217d41d1bc3db41"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cli_1.0.114_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cc74bccc9380d14851d3680b7f6d4e6a419291551c67c7c6c708b060144f63b6"
+    },
+    {
+      "fileName": "cli_1.0.114_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e3f1264ca1b022bfa9eed70ca7947171086fb34f71bb734350e4a3f502239b7"
+    },
+    {
+      "fileName": "cli_1.0.114_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a4e4fe375fe706ddea3dd632e8641230cfc56f127ecc4519c590beb74b78ec92"
+    },
+    {
+      "fileName": "cli_1.0.114_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "891fd494e9af27c2a27ed76cb157ad3707667c9f44f7a5a171fa4c3f0371c624"
+    },
+    {
+      "fileName": "cli_1.0.114_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0468bbba3983cddb91eb3a266e800ab3dae3ee3b50bcbd91d1d0d7d1a77ad482"
+    },
+    {
+      "fileName": "cli_1.0.114_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c63b6eb9e53a4da216db91b49135c27127c17275e7b52ba1a217d41d1bc3db41"
+    }
+  ]
+}

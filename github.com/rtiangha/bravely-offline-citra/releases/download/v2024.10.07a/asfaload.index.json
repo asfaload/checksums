@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"citra-unified-source-20241007-299d369.tar.xz","algo":"Sha256","source":"citra-unified-source-20241007-299d369.tar.xz.sha256sum","hash":"c825ce8980ea32c8960dd8c7461105adef4c42b619913f17af3101f4688b3bcb"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "citra-unified-source-20241007-299d369.tar.xz",
+      "algo": "Sha256",
+      "source": "citra-unified-source-20241007-299d369.tar.xz.sha256sum",
+      "hash": "c825ce8980ea32c8960dd8c7461105adef4c42b619913f17af3101f4688b3bcb"
+    }
+  ]
+}

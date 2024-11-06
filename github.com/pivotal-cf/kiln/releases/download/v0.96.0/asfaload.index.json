@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kiln-darwin-amd64-0.96.0","algo":"Sha256","source":"checksums.txt","hash":"d9ff2afd2db7ad6bea9874e68492c4303df8c643a295aec3952d744160dc676e"},{"fileName":"kiln-darwin-amd64-0.96.0.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"109fe745719a273e46a6fcfafc3b3cb4743f6814267c756947827812e5ffbcbb"},{"fileName":"kiln-darwin-arm64-0.96.0","algo":"Sha256","source":"checksums.txt","hash":"1afd75e2802b730db354b7ea35487dd33a13f3e29888cb4e4f06e7ad65d9fa27"},{"fileName":"kiln-darwin-arm64-0.96.0.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"25f1ce6e83cc0c74ff034818ff224f27fae2916cfe121900a74a452047f96a49"},{"fileName":"kiln-linux-amd64-0.96.0","algo":"Sha256","source":"checksums.txt","hash":"2891767d427ee3eff9786b7124b6792eb6093efec32fba7e01a774b2bc618100"},{"fileName":"kiln-linux-amd64-0.96.0.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"67c36701e069368c98efab9d6dbce85aa722011555dcb7cf8f02a2345ce634c9"},{"fileName":"kiln-windows-amd64-0.96.0.exe","algo":"Sha256","source":"checksums.txt","hash":"e87664c73d4d55d84d1bcc2412f2c021524bc629e3bf494e1a13b428a87b9216"},{"fileName":"kiln-windows-amd64-0.96.0.zip","algo":"Sha256","source":"checksums.txt","hash":"859dd4ae08b80a0050d71a160ea8b0481f6239119c3a9876934379814963e359"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kiln-darwin-amd64-0.96.0",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d9ff2afd2db7ad6bea9874e68492c4303df8c643a295aec3952d744160dc676e"
+    },
+    {
+      "fileName": "kiln-darwin-amd64-0.96.0.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "109fe745719a273e46a6fcfafc3b3cb4743f6814267c756947827812e5ffbcbb"
+    },
+    {
+      "fileName": "kiln-darwin-arm64-0.96.0",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1afd75e2802b730db354b7ea35487dd33a13f3e29888cb4e4f06e7ad65d9fa27"
+    },
+    {
+      "fileName": "kiln-darwin-arm64-0.96.0.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "25f1ce6e83cc0c74ff034818ff224f27fae2916cfe121900a74a452047f96a49"
+    },
+    {
+      "fileName": "kiln-linux-amd64-0.96.0",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2891767d427ee3eff9786b7124b6792eb6093efec32fba7e01a774b2bc618100"
+    },
+    {
+      "fileName": "kiln-linux-amd64-0.96.0.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "67c36701e069368c98efab9d6dbce85aa722011555dcb7cf8f02a2345ce634c9"
+    },
+    {
+      "fileName": "kiln-windows-amd64-0.96.0.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e87664c73d4d55d84d1bcc2412f2c021524bc629e3bf494e1a13b428a87b9216"
+    },
+    {
+      "fileName": "kiln-windows-amd64-0.96.0.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "859dd4ae08b80a0050d71a160ea8b0481f6239119c3a9876934379814963e359"
+    }
+  ]
+}

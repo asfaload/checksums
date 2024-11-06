@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-nexus_2.2.3_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"cf9b9be868d169d1d3ca466de6f9a906155e5b5a6066404d492964648de5f80b"},{"fileName":"terraform-provider-nexus_2.2.3_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"59370d7d7e997ce52a2b579d65d2486bac72b58179f4236a6150fad60a61f1ce"},{"fileName":"terraform-provider-nexus_2.2.3_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"5a32d74118fd95c0f17f9b54acd4c64026ef60aa78af0dceb6f5a7d2b7abc75f"},{"fileName":"terraform-provider-nexus_2.2.3_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"ccce20524d647de2a1e7b12c9cf65472b276f3b07aeb978c46a32405ccf47de4"},{"fileName":"terraform-provider-nexus_2.2.3_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"b7c571ad52755f8abfa6091f7b3a97b3e89541f040105f5fa009d3b24aaa6d73"},{"fileName":"terraform-provider-nexus_2.2.3_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"84c168334ff97de669227de99671b8350964666c8e846a3f4c2c73e9f297ab02"},{"fileName":"terraform-provider-nexus_2.2.3_linux_386.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"3a727039c7203c32e9caf6b0a5dedb71e995f69f7aad46dca631c941ab53967f"},{"fileName":"terraform-provider-nexus_2.2.3_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"4509cee4cbf9f1851b5940059f22998a3febed8e7b693891e7396898a661180b"},{"fileName":"terraform-provider-nexus_2.2.3_linux_arm.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"c856c2adb2f1b4833347f3377fe95375a99b17f6615eadf3595a1a1f1aa14832"},{"fileName":"terraform-provider-nexus_2.2.3_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"b6183ac4b7352f3d5cec7281460c7b979691b0baaeab748917707bc875508350"},{"fileName":"terraform-provider-nexus_2.2.3_windows_386.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"9987a250224b0269deaeb00fb2d51542cc1952070d5fd448749d58bdf5dc53dc"},{"fileName":"terraform-provider-nexus_2.2.3_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"fe7c8d14d7baf7a122a6a368238c5dd3e9b7a90548d91d6b28e0a9f02e988f3e"},{"fileName":"terraform-provider-nexus_2.2.3_windows_arm.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"b9d5741402adb613a7400532e93089eec6e2f30365cda6220ad8baebd8809eec"},{"fileName":"terraform-provider-nexus_2.2.3_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-nexus_2.2.3_SHA256SUMS","hash":"4fa437b7fa507acfd56746c52696766fab6ac99664230e15f6fae00e9a057532"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "cf9b9be868d169d1d3ca466de6f9a906155e5b5a6066404d492964648de5f80b"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "59370d7d7e997ce52a2b579d65d2486bac72b58179f4236a6150fad60a61f1ce"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "5a32d74118fd95c0f17f9b54acd4c64026ef60aa78af0dceb6f5a7d2b7abc75f"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "ccce20524d647de2a1e7b12c9cf65472b276f3b07aeb978c46a32405ccf47de4"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "b7c571ad52755f8abfa6091f7b3a97b3e89541f040105f5fa009d3b24aaa6d73"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "84c168334ff97de669227de99671b8350964666c8e846a3f4c2c73e9f297ab02"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "3a727039c7203c32e9caf6b0a5dedb71e995f69f7aad46dca631c941ab53967f"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "4509cee4cbf9f1851b5940059f22998a3febed8e7b693891e7396898a661180b"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "c856c2adb2f1b4833347f3377fe95375a99b17f6615eadf3595a1a1f1aa14832"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "b6183ac4b7352f3d5cec7281460c7b979691b0baaeab748917707bc875508350"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "9987a250224b0269deaeb00fb2d51542cc1952070d5fd448749d58bdf5dc53dc"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "fe7c8d14d7baf7a122a6a368238c5dd3e9b7a90548d91d6b28e0a9f02e988f3e"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "b9d5741402adb613a7400532e93089eec6e2f30365cda6220ad8baebd8809eec"
+    },
+    {
+      "fileName": "terraform-provider-nexus_2.2.3_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-nexus_2.2.3_SHA256SUMS",
+      "hash": "4fa437b7fa507acfd56746c52696766fab6ac99664230e15f6fae00e9a057532"
+    }
+  ]
+}

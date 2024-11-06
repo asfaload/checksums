@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mesheryctl_0.7.131_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5402888958d167f71b85395c3f0411f982b5636cb3c3d641c58938686bc6cc66"},{"fileName":"mesheryctl_0.7.131_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9472bab44a0f4945e3dec675a8e968fd56ee1bf87fd6b26f5d9c9facd6a26f52"},{"fileName":"mesheryctl_0.7.131_Linux_arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b41ee63bbc294e7b88032e1f6152b9265b9bb63b85925fc5a719ef544c4fae56"},{"fileName":"mesheryctl_0.7.131_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7d28bce7a5a0bc5387536d4333b43ec0f0c753986dfc4f3e35764e6b1364144a"},{"fileName":"mesheryctl_0.7.131_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"63a503d82e0870e7ba431bfb061e561af6dee34950034010b568577c3260448a"},{"fileName":"mesheryctl_0.7.131_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"eed54a9f2ea4060fb75da950a8fdf07573f8f2ace0381dcbdebeb24f6eb32dca"},{"fileName":"mesheryctl_0.7.131_Windows_i386.zip","algo":"Sha256","source":"checksums.txt","hash":"40bd191b820936c8612e6c1270e09f4acc4ebdc4564b0822ea2421c420f10e52"},{"fileName":"mesheryctl_0.7.131_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"b63a751b9515f7582289f724f0a6818d38f5cb0757eef7d270e5cf2055b5c0a9"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mesheryctl_0.7.131_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5402888958d167f71b85395c3f0411f982b5636cb3c3d641c58938686bc6cc66"
+    },
+    {
+      "fileName": "mesheryctl_0.7.131_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9472bab44a0f4945e3dec675a8e968fd56ee1bf87fd6b26f5d9c9facd6a26f52"
+    },
+    {
+      "fileName": "mesheryctl_0.7.131_Linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b41ee63bbc294e7b88032e1f6152b9265b9bb63b85925fc5a719ef544c4fae56"
+    },
+    {
+      "fileName": "mesheryctl_0.7.131_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7d28bce7a5a0bc5387536d4333b43ec0f0c753986dfc4f3e35764e6b1364144a"
+    },
+    {
+      "fileName": "mesheryctl_0.7.131_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "63a503d82e0870e7ba431bfb061e561af6dee34950034010b568577c3260448a"
+    },
+    {
+      "fileName": "mesheryctl_0.7.131_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eed54a9f2ea4060fb75da950a8fdf07573f8f2ace0381dcbdebeb24f6eb32dca"
+    },
+    {
+      "fileName": "mesheryctl_0.7.131_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "40bd191b820936c8612e6c1270e09f4acc4ebdc4564b0822ea2421c420f10e52"
+    },
+    {
+      "fileName": "mesheryctl_0.7.131_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b63a751b9515f7582289f724f0a6818d38f5cb0757eef7d270e5cf2055b5c0a9"
+    }
+  ]
+}

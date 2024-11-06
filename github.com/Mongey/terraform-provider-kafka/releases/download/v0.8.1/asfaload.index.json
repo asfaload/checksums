@@ -1,1 +1,85 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-kafka_0.8.1_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"ac0f88551d8295b62ca7c94cb5d1bff7de9192cae8b478c1ebc22acecfb50143"},{"fileName":"terraform-provider-kafka_0.8.1_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"9eab072711d8a2456b03579a8983bfce75dc2de757300ddc594392c875c8dc1c"},{"fileName":"terraform-provider-kafka_0.8.1_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"6566cc8ded99f299918aa3d873f8929810238aada8e0a080e6e4309ecc7c4417"},{"fileName":"terraform-provider-kafka_0.8.1_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"a427f3f9a13d6e1db83c2e5ab8a8aae5adfe5531a901c0f0228082469542bc6e"},{"fileName":"terraform-provider-kafka_0.8.1_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"46de197032f859993f31d4dd2188b93f432e6a47ef10adacfce713b6234e2deb"},{"fileName":"terraform-provider-kafka_0.8.1_linux_386.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"049427cdf40326de9cc23c0dc9ad3684d1e1a8138d5135b2c0a7bf5980cbcacf"},{"fileName":"terraform-provider-kafka_0.8.1_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"0375d0e74763a23b590e2e793b53d6450ce1b89a3ea839b9f981c5ae291e2407"},{"fileName":"terraform-provider-kafka_0.8.1_linux_arm.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"51a37ce12d984bbb49dcc0243fa0c4cd99d02ee61b4ff2f68ac56ef3d88b5066"},{"fileName":"terraform-provider-kafka_0.8.1_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"a5406bfe3b4666cbd2a99c10e9c37481c42dd760165e93b101cf2288d0435dcb"},{"fileName":"terraform-provider-kafka_0.8.1_windows_386.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"402081989122de685c3791850f28e479ebd5454823a059827139c5b4a7e303b5"},{"fileName":"terraform-provider-kafka_0.8.1_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"9ba0275ab902f14b5ff276ace396620abc0cc956cd3382da25e20590b0a0ae2d"},{"fileName":"terraform-provider-kafka_0.8.1_windows_arm.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"4f2f3bad92fe235c3d685ecdc142a08b8b6b77757060dfccfe5590d1dc6ba153"},{"fileName":"terraform-provider-kafka_0.8.1_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-kafka_0.8.1_SHA256SUMS","hash":"751d59e65f90461500e2f302650e6f85ec159c468d73b0d887904fc150b73d08"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "ac0f88551d8295b62ca7c94cb5d1bff7de9192cae8b478c1ebc22acecfb50143"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "9eab072711d8a2456b03579a8983bfce75dc2de757300ddc594392c875c8dc1c"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "6566cc8ded99f299918aa3d873f8929810238aada8e0a080e6e4309ecc7c4417"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "a427f3f9a13d6e1db83c2e5ab8a8aae5adfe5531a901c0f0228082469542bc6e"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "46de197032f859993f31d4dd2188b93f432e6a47ef10adacfce713b6234e2deb"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "049427cdf40326de9cc23c0dc9ad3684d1e1a8138d5135b2c0a7bf5980cbcacf"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "0375d0e74763a23b590e2e793b53d6450ce1b89a3ea839b9f981c5ae291e2407"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "51a37ce12d984bbb49dcc0243fa0c4cd99d02ee61b4ff2f68ac56ef3d88b5066"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "a5406bfe3b4666cbd2a99c10e9c37481c42dd760165e93b101cf2288d0435dcb"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "402081989122de685c3791850f28e479ebd5454823a059827139c5b4a7e303b5"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "9ba0275ab902f14b5ff276ace396620abc0cc956cd3382da25e20590b0a0ae2d"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "4f2f3bad92fe235c3d685ecdc142a08b8b6b77757060dfccfe5590d1dc6ba153"
+    },
+    {
+      "fileName": "terraform-provider-kafka_0.8.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-kafka_0.8.1_SHA256SUMS",
+      "hash": "751d59e65f90461500e2f302650e6f85ec159c468d73b0d887904fc150b73d08"
+    }
+  ]
+}

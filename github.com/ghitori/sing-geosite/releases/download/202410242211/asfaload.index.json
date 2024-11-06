@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"geosite.db","algo":"Sha256","source":"geosite.db.sha256sum","hash":"b1a74faa01adf19a796e46a71cc66320b7035a601c8117ece3e44ea15b94c983"},{"fileName":"geosite-cn.db","algo":"Sha256","source":"geosite-cn.db.sha256sum","hash":"8c2b58a7b2ac1ae7859b4c206e37cbc49588b891ecc2ac58c1a9720df5201b5e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "geosite.db",
+      "algo": "Sha256",
+      "source": "geosite.db.sha256sum",
+      "hash": "b1a74faa01adf19a796e46a71cc66320b7035a601c8117ece3e44ea15b94c983"
+    },
+    {
+      "fileName": "geosite-cn.db",
+      "algo": "Sha256",
+      "source": "geosite-cn.db.sha256sum",
+      "hash": "8c2b58a7b2ac1ae7859b4c206e37cbc49588b891ecc2ac58c1a9720df5201b5e"
+    }
+  ]
+}

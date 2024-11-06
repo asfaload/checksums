@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"system-update-notifier_1.1.11_linux_amd64.tar.gz","algo":"Sha256","source":"system-update-notifier_1.1.11_checksums.txt","hash":"de21c4252ea65e479e6d1f18568ccfa4db95bbf33f6718af78ffc845bb273d28"},{"fileName":"system-update-notifier_1.1.11_linux_arm64.tar.gz","algo":"Sha256","source":"system-update-notifier_1.1.11_checksums.txt","hash":"ea78b77c74095f37978e525d2137a898c6d3df6fce1c7146245dea4f36f744f4"},{"fileName":"system-update-notifier_1.1.11_linux_armv7.tar.gz","algo":"Sha256","source":"system-update-notifier_1.1.11_checksums.txt","hash":"1cb9a1d1f6bdab8beb0bd9a7cda8aa3baf5b80855f5cd782ae8c9f1153e06679"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "system-update-notifier_1.1.11_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "system-update-notifier_1.1.11_checksums.txt",
+      "hash": "de21c4252ea65e479e6d1f18568ccfa4db95bbf33f6718af78ffc845bb273d28"
+    },
+    {
+      "fileName": "system-update-notifier_1.1.11_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "system-update-notifier_1.1.11_checksums.txt",
+      "hash": "ea78b77c74095f37978e525d2137a898c6d3df6fce1c7146245dea4f36f744f4"
+    },
+    {
+      "fileName": "system-update-notifier_1.1.11_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "system-update-notifier_1.1.11_checksums.txt",
+      "hash": "1cb9a1d1f6bdab8beb0bd9a7cda8aa3baf5b80855f5cd782ae8c9f1153e06679"
+    }
+  ]
+}

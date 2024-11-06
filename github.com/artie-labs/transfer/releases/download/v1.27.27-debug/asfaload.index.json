@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T20:55:10+00:00","publishedOn":"2024-11-05T20:56:59.3985862+00:00","version":1,"publishedFiles":[{"fileName":"artie-transfer_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f07ee0d8d5c432fb8c0c5ac45b9d6dfec23c3a8d42df39a5a6028276b4d9ff7f"},{"fileName":"artie-transfer_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5a07c8bd2a5ebb8621c35e9ad0b117897ec71a2d327fd6d3ddfeff322b5534fc"},{"fileName":"artie-transfer_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5e2929603ec4e97a3435476631cf8c1f4cd92bba862364a611887b185778b637"},{"fileName":"artie-transfer_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5abfabb6168107acd85ab83da8c8eee829e98bcb59d4f12e71948e14421aab43"},{"fileName":"artie-transfer_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0f73bfe86bc184e9b1ac5f378f3a07280c8006df9b559deeb86b310170ceb537"}]}
+{
+  "mirroredOn": "2024-11-05T20:56:59.3985862+00:00",
+  "publishedOn": "2024-11-05T20:55:10+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "artie-transfer_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f07ee0d8d5c432fb8c0c5ac45b9d6dfec23c3a8d42df39a5a6028276b4d9ff7f"
+    },
+    {
+      "fileName": "artie-transfer_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5a07c8bd2a5ebb8621c35e9ad0b117897ec71a2d327fd6d3ddfeff322b5534fc"
+    },
+    {
+      "fileName": "artie-transfer_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5e2929603ec4e97a3435476631cf8c1f4cd92bba862364a611887b185778b637"
+    },
+    {
+      "fileName": "artie-transfer_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5abfabb6168107acd85ab83da8c8eee829e98bcb59d4f12e71948e14421aab43"
+    },
+    {
+      "fileName": "artie-transfer_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0f73bfe86bc184e9b1ac5f378f3a07280c8006df9b559deeb86b310170ceb537"
+    }
+  ]
+}

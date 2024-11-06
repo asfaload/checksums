@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"hcloud-pricing-exporter-0.10.0-linux-386.tar.gz","algo":"Sha256","source":"hcloud-pricing-exporter-0.10.0.checksums.txt","hash":"b5d0b4b6bf4dfef3cf10792c46424c7e26a04941bc013d7fc87065648d570c6f"},{"fileName":"hcloud-pricing-exporter-0.10.0-linux-amd64.tar.gz","algo":"Sha256","source":"hcloud-pricing-exporter-0.10.0.checksums.txt","hash":"998119833abc6a33b45c654a812853e69a7072901d5efe57131904c96d9241ed"},{"fileName":"hcloud-pricing-exporter-0.10.0-linux-arm.tar.gz","algo":"Sha256","source":"hcloud-pricing-exporter-0.10.0.checksums.txt","hash":"c3f70374484865683d0678ff729116e709571a90c0e23f3f0b1e0c52e9c4540d"},{"fileName":"hcloud-pricing-exporter-0.10.0-linux-arm64.tar.gz","algo":"Sha256","source":"hcloud-pricing-exporter-0.10.0.checksums.txt","hash":"60d0f5ef21016f868ce775b80223150f7a83763f8e7532c236a2162016815298"},{"fileName":"hcloud-pricing-exporter-0.10.0-windows-386.zip","algo":"Sha256","source":"hcloud-pricing-exporter-0.10.0.checksums.txt","hash":"ab9d134dc2b4fc78986d0f59391761f320be5705766656c2befe50ce673c4175"},{"fileName":"hcloud-pricing-exporter-0.10.0-windows-amd64.zip","algo":"Sha256","source":"hcloud-pricing-exporter-0.10.0.checksums.txt","hash":"1aa8a62b171cab66fa3d84cf9c7a4bfac1a20871fa43f9048475f1603ae62d26"},{"fileName":"hcloud-pricing-exporter-0.10.0-windows-arm.zip","algo":"Sha256","source":"hcloud-pricing-exporter-0.10.0.checksums.txt","hash":"6faf1d1bb33d35a60c0aca4c413a31d0d46056df119b075629380a94f52a824a"},{"fileName":"hcloud-pricing-exporter-0.10.0-windows-arm64.zip","algo":"Sha256","source":"hcloud-pricing-exporter-0.10.0.checksums.txt","hash":"0741f283e2ab7002fd3ea19878363f097952bd5526d4ca4f52c0d36643fc876d"},{"fileName":"hcloud-pricing-exporter-0.10.0.src.tar.gz","algo":"Sha256","source":"hcloud-pricing-exporter-0.10.0.checksums.txt","hash":"8ff5689fa59a8e3145cb3646fbb527741650f73c03ab20d043efa8aa60526d8c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "hcloud-pricing-exporter-0.10.0-linux-386.tar.gz",
+      "algo": "Sha256",
+      "source": "hcloud-pricing-exporter-0.10.0.checksums.txt",
+      "hash": "b5d0b4b6bf4dfef3cf10792c46424c7e26a04941bc013d7fc87065648d570c6f"
+    },
+    {
+      "fileName": "hcloud-pricing-exporter-0.10.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "hcloud-pricing-exporter-0.10.0.checksums.txt",
+      "hash": "998119833abc6a33b45c654a812853e69a7072901d5efe57131904c96d9241ed"
+    },
+    {
+      "fileName": "hcloud-pricing-exporter-0.10.0-linux-arm.tar.gz",
+      "algo": "Sha256",
+      "source": "hcloud-pricing-exporter-0.10.0.checksums.txt",
+      "hash": "c3f70374484865683d0678ff729116e709571a90c0e23f3f0b1e0c52e9c4540d"
+    },
+    {
+      "fileName": "hcloud-pricing-exporter-0.10.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "hcloud-pricing-exporter-0.10.0.checksums.txt",
+      "hash": "60d0f5ef21016f868ce775b80223150f7a83763f8e7532c236a2162016815298"
+    },
+    {
+      "fileName": "hcloud-pricing-exporter-0.10.0-windows-386.zip",
+      "algo": "Sha256",
+      "source": "hcloud-pricing-exporter-0.10.0.checksums.txt",
+      "hash": "ab9d134dc2b4fc78986d0f59391761f320be5705766656c2befe50ce673c4175"
+    },
+    {
+      "fileName": "hcloud-pricing-exporter-0.10.0-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "hcloud-pricing-exporter-0.10.0.checksums.txt",
+      "hash": "1aa8a62b171cab66fa3d84cf9c7a4bfac1a20871fa43f9048475f1603ae62d26"
+    },
+    {
+      "fileName": "hcloud-pricing-exporter-0.10.0-windows-arm.zip",
+      "algo": "Sha256",
+      "source": "hcloud-pricing-exporter-0.10.0.checksums.txt",
+      "hash": "6faf1d1bb33d35a60c0aca4c413a31d0d46056df119b075629380a94f52a824a"
+    },
+    {
+      "fileName": "hcloud-pricing-exporter-0.10.0-windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "hcloud-pricing-exporter-0.10.0.checksums.txt",
+      "hash": "0741f283e2ab7002fd3ea19878363f097952bd5526d4ca4f52c0d36643fc876d"
+    },
+    {
+      "fileName": "hcloud-pricing-exporter-0.10.0.src.tar.gz",
+      "algo": "Sha256",
+      "source": "hcloud-pricing-exporter-0.10.0.checksums.txt",
+      "hash": "8ff5689fa59a8e3145cb3646fbb527741650f73c03ab20d043efa8aa60526d8c"
+    }
+  ]
+}

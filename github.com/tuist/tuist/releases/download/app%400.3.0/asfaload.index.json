@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"Tuist.dmg","algo":"Sha512","source":"SHASUMS512.txt","hash":"448cb1ac11b94bdfa025a8b81ed0c09897cf11795f8e6245a384ec7a687f24719716f83dd60a246f9bdfe62c213d5557be9d8e0d09f1be39cab92344f7a4a72f"},{"fileName":"Tuist.dmg","algo":"Sha256","source":"SHASUMS256.txt","hash":"4497febe03db3a6aeb8cb8299eda867b6cd78236e0dd7bde47f15a8bcdeb5065"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "Tuist.dmg",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "448cb1ac11b94bdfa025a8b81ed0c09897cf11795f8e6245a384ec7a687f24719716f83dd60a246f9bdfe62c213d5557be9d8e0d09f1be39cab92344f7a4a72f"
+    },
+    {
+      "fileName": "Tuist.dmg",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "4497febe03db3a6aeb8cb8299eda867b6cd78236e0dd7bde47f15a8bcdeb5065"
+    }
+  ]
+}

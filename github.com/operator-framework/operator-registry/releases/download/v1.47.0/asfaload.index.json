@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"darwin-amd64-opm","algo":"Sha256","source":"checksums.txt","hash":"e793a19a8315dd0442627bf4af0cf40cbd99f0f3195ba1a0a1ebd17cd41ad06d"},{"fileName":"darwin-arm64-opm","algo":"Sha256","source":"checksums.txt","hash":"af7ad3242ddeecd83744a1e98c8e64e4b55fac64aacd96cbc74af6a68f6f3ad0"},{"fileName":"linux-amd64-opm","algo":"Sha256","source":"checksums.txt","hash":"502cb3ce30c979e0a486ca306677c3251c8315e66abe0fde0c25c96eff229061"},{"fileName":"linux-arm64-opm","algo":"Sha256","source":"checksums.txt","hash":"50198a678eadbad0ce8c7bb9e8e80468bffd90fc7195571ee9b2726e4d4110df"},{"fileName":"linux-ppc64le-opm","algo":"Sha256","source":"checksums.txt","hash":"9ab27f013794a1d72e29995b24fc6ff6e93db18e4eb23a876d2270059d6eee19"},{"fileName":"linux-s390x-opm","algo":"Sha256","source":"checksums.txt","hash":"bbd474232325ae68b6d3ff9b1d41d643686e9ab17661ff73c8ccbdcc26ff1f82"},{"fileName":"windows-amd64-opm.exe","algo":"Sha256","source":"checksums.txt","hash":"3ea76f94e200fd7ef46f9ad56d59a48e60947b4382a5469c84ebb2e3d78e2156"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "darwin-amd64-opm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e793a19a8315dd0442627bf4af0cf40cbd99f0f3195ba1a0a1ebd17cd41ad06d"
+    },
+    {
+      "fileName": "darwin-arm64-opm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "af7ad3242ddeecd83744a1e98c8e64e4b55fac64aacd96cbc74af6a68f6f3ad0"
+    },
+    {
+      "fileName": "linux-amd64-opm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "502cb3ce30c979e0a486ca306677c3251c8315e66abe0fde0c25c96eff229061"
+    },
+    {
+      "fileName": "linux-arm64-opm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "50198a678eadbad0ce8c7bb9e8e80468bffd90fc7195571ee9b2726e4d4110df"
+    },
+    {
+      "fileName": "linux-ppc64le-opm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9ab27f013794a1d72e29995b24fc6ff6e93db18e4eb23a876d2270059d6eee19"
+    },
+    {
+      "fileName": "linux-s390x-opm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bbd474232325ae68b6d3ff9b1d41d643686e9ab17661ff73c8ccbdcc26ff1f82"
+    },
+    {
+      "fileName": "windows-amd64-opm.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3ea76f94e200fd7ef46f9ad56d59a48e60947b4382a5469c84ebb2e3d78e2156"
+    }
+  ]
+}

@@ -1,1 +1,85 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"runme_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"90f9e99b299bbe6d92085f6b449e88abb3c75e3d9ff78cc89aa66b33e0a63296"},{"fileName":"runme_darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c6df48819e47093fef6b0dde248f1d832f2f94ad9d15ba290cfa9a7bb9595a62"},{"fileName":"runme_js_wasm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"18b593223e759dccb2063d982df68d7b3f6ec037cbba309baca7d41245f4f418"},{"fileName":"runme_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"8120ac4a66aa303bf447cbc545d4573d91c133ff0ff33cdd87a2057528b91595"},{"fileName":"runme_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"5f3cefaae66dbb1260e77c4e48c3d6d8576eb21328c4f873382e785121150b5c"},{"fileName":"runme_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"502e1819985b51b5ad17b1f77f5d4c4441db9006fe3f349beb18de0f321d9600"},{"fileName":"runme_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ff4bdd87ade1bb0c92e93f7c0cc2ba0bcb33cb6c4f438db3ac8e7c2ea4515d72"},{"fileName":"runme_linux_x86_64.apk","algo":"Sha256","source":"checksums.txt","hash":"ac828aaecefe343a8696053f30bca09f95b076e1b9b624a74cd2bdde17da192c"},{"fileName":"runme_linux_x86_64.deb","algo":"Sha256","source":"checksums.txt","hash":"34fee6edec0cab7fc3a470b306003ed676baf47040a3fdcc68573ee1e5d6ecdb"},{"fileName":"runme_linux_x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"736e6bd53a5567d43b9711df92ced28fb9fff8f03894f8cc12618cc8e6ccb18a"},{"fileName":"runme_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1f456bbec7ed77db4662ee9f8f657277f0574aec6cef581a2f7c6630c055a8dc"},{"fileName":"runme_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"5f1b663320e129b4471384be5649ae38b8190ee49935e23c4f3d01d7177ae03e"},{"fileName":"runme_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"7557b5e15c8b910107348162c5e9ce6fa6e899d5a6544d6129dd4377c1f91bba"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "runme_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "90f9e99b299bbe6d92085f6b449e88abb3c75e3d9ff78cc89aa66b33e0a63296"
+    },
+    {
+      "fileName": "runme_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c6df48819e47093fef6b0dde248f1d832f2f94ad9d15ba290cfa9a7bb9595a62"
+    },
+    {
+      "fileName": "runme_js_wasm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "18b593223e759dccb2063d982df68d7b3f6ec037cbba309baca7d41245f4f418"
+    },
+    {
+      "fileName": "runme_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8120ac4a66aa303bf447cbc545d4573d91c133ff0ff33cdd87a2057528b91595"
+    },
+    {
+      "fileName": "runme_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5f3cefaae66dbb1260e77c4e48c3d6d8576eb21328c4f873382e785121150b5c"
+    },
+    {
+      "fileName": "runme_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "502e1819985b51b5ad17b1f77f5d4c4441db9006fe3f349beb18de0f321d9600"
+    },
+    {
+      "fileName": "runme_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ff4bdd87ade1bb0c92e93f7c0cc2ba0bcb33cb6c4f438db3ac8e7c2ea4515d72"
+    },
+    {
+      "fileName": "runme_linux_x86_64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ac828aaecefe343a8696053f30bca09f95b076e1b9b624a74cd2bdde17da192c"
+    },
+    {
+      "fileName": "runme_linux_x86_64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "34fee6edec0cab7fc3a470b306003ed676baf47040a3fdcc68573ee1e5d6ecdb"
+    },
+    {
+      "fileName": "runme_linux_x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "736e6bd53a5567d43b9711df92ced28fb9fff8f03894f8cc12618cc8e6ccb18a"
+    },
+    {
+      "fileName": "runme_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1f456bbec7ed77db4662ee9f8f657277f0574aec6cef581a2f7c6630c055a8dc"
+    },
+    {
+      "fileName": "runme_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5f1b663320e129b4471384be5649ae38b8190ee49935e23c4f3d01d7177ae03e"
+    },
+    {
+      "fileName": "runme_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7557b5e15c8b910107348162c5e9ce6fa6e899d5a6544d6129dd4377c1f91bba"
+    }
+  ]
+}

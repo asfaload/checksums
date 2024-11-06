@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-cpln_1.1.37_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"8b77b3eb312bba80764430aef7175c698dc2b6479c0d5bff7a22ed3f2261a470"},{"fileName":"terraform-provider-cpln_1.1.37_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"d9384c106aca0475993c0e2614354e0a2905bbc387b1639851952b56e600b915"},{"fileName":"terraform-provider-cpln_1.1.37_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"b640ec55d0d0f7f2b3fbafb3da048f58aeeaf4c4d2478db4c7170ef22e5e9df5"},{"fileName":"terraform-provider-cpln_1.1.37_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"ff36ad464a327b902369ce4c74bfdba5b8b16f376a367180e19903328b3cf794"},{"fileName":"terraform-provider-cpln_1.1.37_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"a7eea04638d441a881bade54be765b9e7d61b05357f79b911f3426644fb26ece"},{"fileName":"terraform-provider-cpln_1.1.37_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"42481b69789a0e675123b589ce34a4ef96454a2be367b9f2883c7761e77c450d"},{"fileName":"terraform-provider-cpln_1.1.37_linux_386.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"93d4967091549b7669074c596f0c2ad0f6093f5ac04afa112990044d9c8b45e0"},{"fileName":"terraform-provider-cpln_1.1.37_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"8d7ebb63259552eb3bf0e76d04672d46be368a6fa2d99dda1e9cc4b2c38ce673"},{"fileName":"terraform-provider-cpln_1.1.37_linux_arm.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"564338603f46e6e921358c15447fe6433c51f75f7d096b59f9e24a7c70cd3491"},{"fileName":"terraform-provider-cpln_1.1.37_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"fa24b207116f510b354389cbe65621d68f7b1e691e997693a8d29ad8a8ab3862"},{"fileName":"terraform-provider-cpln_1.1.37_manifest.json","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"f809ab383cca0a5f83072981c64208cbd7fa67e986a86ee02dd2c82333221e32"},{"fileName":"terraform-provider-cpln_1.1.37_windows_386.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"91cbc1d58dbcbdf9d392421f89abc51a49d1914e66ad3de4832422fa41db21ef"},{"fileName":"terraform-provider-cpln_1.1.37_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"5cce9bffbac0a58450ad8df9167f898f9733e98f52af93254da8e66bde767d44"},{"fileName":"terraform-provider-cpln_1.1.37_windows_arm.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"8ddb9d87c0d8499cc9dec1bca54108d68711d1ba55ec627ddeb2215931a0d3b5"},{"fileName":"terraform-provider-cpln_1.1.37_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-cpln_1.1.37_SHA256SUMS","hash":"34a2b26b293c42fed2c25ae42256a9c220fb795c43ac0e1ce21496d0ce2c8745"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "8b77b3eb312bba80764430aef7175c698dc2b6479c0d5bff7a22ed3f2261a470"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "d9384c106aca0475993c0e2614354e0a2905bbc387b1639851952b56e600b915"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "b640ec55d0d0f7f2b3fbafb3da048f58aeeaf4c4d2478db4c7170ef22e5e9df5"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "ff36ad464a327b902369ce4c74bfdba5b8b16f376a367180e19903328b3cf794"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "a7eea04638d441a881bade54be765b9e7d61b05357f79b911f3426644fb26ece"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "42481b69789a0e675123b589ce34a4ef96454a2be367b9f2883c7761e77c450d"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "93d4967091549b7669074c596f0c2ad0f6093f5ac04afa112990044d9c8b45e0"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "8d7ebb63259552eb3bf0e76d04672d46be368a6fa2d99dda1e9cc4b2c38ce673"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "564338603f46e6e921358c15447fe6433c51f75f7d096b59f9e24a7c70cd3491"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "fa24b207116f510b354389cbe65621d68f7b1e691e997693a8d29ad8a8ab3862"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_manifest.json",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "f809ab383cca0a5f83072981c64208cbd7fa67e986a86ee02dd2c82333221e32"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "91cbc1d58dbcbdf9d392421f89abc51a49d1914e66ad3de4832422fa41db21ef"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "5cce9bffbac0a58450ad8df9167f898f9733e98f52af93254da8e66bde767d44"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "8ddb9d87c0d8499cc9dec1bca54108d68711d1ba55ec627ddeb2215931a0d3b5"
+    },
+    {
+      "fileName": "terraform-provider-cpln_1.1.37_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-cpln_1.1.37_SHA256SUMS",
+      "hash": "34a2b26b293c42fed2c25ae42256a9c220fb795c43ac0e1ce21496d0ce2c8745"
+    }
+  ]
+}

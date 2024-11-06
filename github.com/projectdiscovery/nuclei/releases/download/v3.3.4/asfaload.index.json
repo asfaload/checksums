@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"nuclei_3.3.4_linux_386.zip","algo":"Sha256","source":"nuclei_3.3.4_checksums.txt","hash":"e12958a429ae233f7be0cd03a28896a756befdd1d5d9efc39b91f3fed25f3899"},{"fileName":"nuclei_3.3.4_linux_amd64.zip","algo":"Sha256","source":"nuclei_3.3.4_checksums.txt","hash":"b3c880d9516e9e73ea0b77dd53cc7b15035544403857efb01974979f7ae4125a"},{"fileName":"nuclei_3.3.4_linux_arm.zip","algo":"Sha256","source":"nuclei_3.3.4_checksums.txt","hash":"93b54fd545623d3215a01b644303b2005bfe6b10846fad0666e386fb581a90e1"},{"fileName":"nuclei_3.3.4_linux_arm64.zip","algo":"Sha256","source":"nuclei_3.3.4_checksums.txt","hash":"35dbc76d28e0c5766d8a5bf9227cd4659c999c6063bef24d546c6fe3f45cab35"},{"fileName":"nuclei_3.3.4_macOS_amd64.zip","algo":"Sha256","source":"nuclei_3.3.4_checksums.txt","hash":"6709121011d5f8edb00f6201bd1063db1924e1dcc6f42141510667411a7d3aec"},{"fileName":"nuclei_3.3.4_macOS_arm64.zip","algo":"Sha256","source":"nuclei_3.3.4_checksums.txt","hash":"257caeac425ba1be31fd4c92e34ac8dee3446ee17f981e3c3317002bc0b00af0"},{"fileName":"nuclei_3.3.4_windows_386.zip","algo":"Sha256","source":"nuclei_3.3.4_checksums.txt","hash":"7ca16a5bd33add239621efb34ccbb900d39b1e89de17edda77d7b77e5479d2c5"},{"fileName":"nuclei_3.3.4_windows_amd64.zip","algo":"Sha256","source":"nuclei_3.3.4_checksums.txt","hash":"f64611a8e05535bcae229c04e46515d32e79bb97bc00664f61482de1fffe3b39"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nuclei_3.3.4_linux_386.zip",
+      "algo": "Sha256",
+      "source": "nuclei_3.3.4_checksums.txt",
+      "hash": "e12958a429ae233f7be0cd03a28896a756befdd1d5d9efc39b91f3fed25f3899"
+    },
+    {
+      "fileName": "nuclei_3.3.4_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "nuclei_3.3.4_checksums.txt",
+      "hash": "b3c880d9516e9e73ea0b77dd53cc7b15035544403857efb01974979f7ae4125a"
+    },
+    {
+      "fileName": "nuclei_3.3.4_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "nuclei_3.3.4_checksums.txt",
+      "hash": "93b54fd545623d3215a01b644303b2005bfe6b10846fad0666e386fb581a90e1"
+    },
+    {
+      "fileName": "nuclei_3.3.4_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "nuclei_3.3.4_checksums.txt",
+      "hash": "35dbc76d28e0c5766d8a5bf9227cd4659c999c6063bef24d546c6fe3f45cab35"
+    },
+    {
+      "fileName": "nuclei_3.3.4_macOS_amd64.zip",
+      "algo": "Sha256",
+      "source": "nuclei_3.3.4_checksums.txt",
+      "hash": "6709121011d5f8edb00f6201bd1063db1924e1dcc6f42141510667411a7d3aec"
+    },
+    {
+      "fileName": "nuclei_3.3.4_macOS_arm64.zip",
+      "algo": "Sha256",
+      "source": "nuclei_3.3.4_checksums.txt",
+      "hash": "257caeac425ba1be31fd4c92e34ac8dee3446ee17f981e3c3317002bc0b00af0"
+    },
+    {
+      "fileName": "nuclei_3.3.4_windows_386.zip",
+      "algo": "Sha256",
+      "source": "nuclei_3.3.4_checksums.txt",
+      "hash": "7ca16a5bd33add239621efb34ccbb900d39b1e89de17edda77d7b77e5479d2c5"
+    },
+    {
+      "fileName": "nuclei_3.3.4_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "nuclei_3.3.4_checksums.txt",
+      "hash": "f64611a8e05535bcae229c04e46515d32e79bb97bc00664f61482de1fffe3b39"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"liatrio-otel-collector_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0b6635cc644bdd82ee35cc074282353e439e79d3e579121d65c34723f8e0920b"},{"fileName":"liatrio-otel-collector_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a0e3d070214a74a7581e92f563ab6e7d55105536fe42936f6e019c8ca43d91ac"},{"fileName":"liatrio-otel-collector_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f19e9517a6d34bc66a941e096ad7c95f15229bb494a4c1692bfb0128cb7c9924"},{"fileName":"liatrio-otel-collector_Linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"795235880e1b4288ae92b45a22aa152b61eb845d677e4f43f34410772ffd6633"},{"fileName":"liatrio-otel-collector_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d8074041ed70d3324b0a5858d5381c60893a75bb567dad51785541b6fb8c4af1"},{"fileName":"liatrio-otel-collector_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2f426974f814eee779ca7e3b664fb745b68761679577b6fa8b8dc3464febf9ca"},{"fileName":"liatrio-otel-collector_Windows_i386.zip","algo":"Sha256","source":"checksums.txt","hash":"47741afd617275d9a71b742a79193cc70de7bfaed024927c2133f07252af9fbe"},{"fileName":"liatrio-otel-collector_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"7b0f4d2a7a7a607f52ee36b5ee3b868ffe54bed418a9ac9db9ae9a035b6c6327"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "liatrio-otel-collector_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0b6635cc644bdd82ee35cc074282353e439e79d3e579121d65c34723f8e0920b"
+    },
+    {
+      "fileName": "liatrio-otel-collector_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a0e3d070214a74a7581e92f563ab6e7d55105536fe42936f6e019c8ca43d91ac"
+    },
+    {
+      "fileName": "liatrio-otel-collector_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f19e9517a6d34bc66a941e096ad7c95f15229bb494a4c1692bfb0128cb7c9924"
+    },
+    {
+      "fileName": "liatrio-otel-collector_Linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "795235880e1b4288ae92b45a22aa152b61eb845d677e4f43f34410772ffd6633"
+    },
+    {
+      "fileName": "liatrio-otel-collector_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d8074041ed70d3324b0a5858d5381c60893a75bb567dad51785541b6fb8c4af1"
+    },
+    {
+      "fileName": "liatrio-otel-collector_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2f426974f814eee779ca7e3b664fb745b68761679577b6fa8b8dc3464febf9ca"
+    },
+    {
+      "fileName": "liatrio-otel-collector_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "47741afd617275d9a71b742a79193cc70de7bfaed024927c2133f07252af9fbe"
+    },
+    {
+      "fileName": "liatrio-otel-collector_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7b0f4d2a7a7a607f52ee36b5ee3b868ffe54bed418a9ac9db9ae9a035b6c6327"
+    }
+  ]
+}

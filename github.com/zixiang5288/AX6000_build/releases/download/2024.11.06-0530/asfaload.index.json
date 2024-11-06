@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T21:30:33+00:00","publishedOn":"2024-11-05T21:32:38.217279+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"0b73170a3b6efd2429a4fb3f6a20c39bc287efabfb56ab9cf5f63b558ded105f"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"e8778e098cb396dbcb93f259b31ff690f116583cc675dcf4380a71a705b659b7"},{"fileName":"immortalwrt-mediatek-mt7981-cmcc_rax3000m-initramfs-kernel.bin","algo":"Sha256","source":"sha256sums","hash":"99e4372e22264dd85c32e481739ccf59409300f6cb8ae02b23d9e9be4ae55fb9"},{"fileName":"immortalwrt-mediatek-mt7981-cmcc_rax3000m-squashfs-factory.bin","algo":"Sha256","source":"sha256sums","hash":"18b597e4aeb5bc3c79913d0d503cd2b3e8c31dbbffcbf1166d74a6beb7ab5a0b"},{"fileName":"immortalwrt-mediatek-mt7981-cmcc_rax3000m-squashfs-sysupgrade.bin","algo":"Sha256","source":"sha256sums","hash":"efe15f9b8715f558c3b3db8e70417581c977372fea352657ccbfa9823fddaead"},{"fileName":"immortalwrt-mediatek-mt7981-cmcc_rax3000m.manifest","algo":"Sha256","source":"sha256sums","hash":"c0f3a6b79b9a76dc43f4a6bff9d2f9a2692c540b3033bc9f2d3d4bcb72de54cd"},{"fileName":"profiles.json","algo":"Sha256","source":"sha256sums","hash":"05982c19722d93338cc01a26bd53496fe41d44fb344ed597318eae21b8af61fa"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"a892309d0ec3ebd7b08708165e0813ba209a6db986f7a7af338ab243aea1ce5f"}]}
+{
+  "mirroredOn": "2024-11-05T21:32:38.217279+00:00",
+  "publishedOn": "2024-11-05T21:30:33+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "0b73170a3b6efd2429a4fb3f6a20c39bc287efabfb56ab9cf5f63b558ded105f"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "e8778e098cb396dbcb93f259b31ff690f116583cc675dcf4380a71a705b659b7"
+    },
+    {
+      "fileName": "immortalwrt-mediatek-mt7981-cmcc_rax3000m-initramfs-kernel.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "99e4372e22264dd85c32e481739ccf59409300f6cb8ae02b23d9e9be4ae55fb9"
+    },
+    {
+      "fileName": "immortalwrt-mediatek-mt7981-cmcc_rax3000m-squashfs-factory.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "18b597e4aeb5bc3c79913d0d503cd2b3e8c31dbbffcbf1166d74a6beb7ab5a0b"
+    },
+    {
+      "fileName": "immortalwrt-mediatek-mt7981-cmcc_rax3000m-squashfs-sysupgrade.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "efe15f9b8715f558c3b3db8e70417581c977372fea352657ccbfa9823fddaead"
+    },
+    {
+      "fileName": "immortalwrt-mediatek-mt7981-cmcc_rax3000m.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "c0f3a6b79b9a76dc43f4a6bff9d2f9a2692c540b3033bc9f2d3d4bcb72de54cd"
+    },
+    {
+      "fileName": "profiles.json",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "05982c19722d93338cc01a26bd53496fe41d44fb344ed597318eae21b8af61fa"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "a892309d0ec3ebd7b08708165e0813ba209a6db986f7a7af338ab243aea1ce5f"
+    }
+  ]
+}

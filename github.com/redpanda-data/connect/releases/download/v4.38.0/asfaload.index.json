@@ -1,1 +1,133 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"redpanda-connect-4.38.0-1.aarch64.rpm","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"02ae3f274c9c6aa1508e03f8076532d97b92ab557ab1138fa4ba77ca2d077bd0"},{"fileName":"redpanda-connect-4.38.0-1.x86_64.rpm","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"3e56671bb1b6de5fbc9d34f4f583918e5bb62fe2d59637cde78363065b1c52cf"},{"fileName":"redpanda-connect-cloud_4.38.0_darwin_amd64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"2f35780782a1650732b784412da3d79bb60df9b2d6c922d753906a478f6ccb30"},{"fileName":"redpanda-connect-cloud_4.38.0_darwin_arm64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"e264980cda7588d36a46f7f2590b0339b2828104c379d364d13790390ef436fe"},{"fileName":"redpanda-connect-cloud_4.38.0_linux_amd64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"2f0dc008cff05c2a6fbfe525ce233a2d7bb7c00ba95b88650502a4df8f8ae1c6"},{"fileName":"redpanda-connect-cloud_4.38.0_linux_arm64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"d2c985180a961d67666db1def5ee792249e8c7dfb93c9f5395c6af01f4c5057e"},{"fileName":"redpanda-connect-lambda-al2_4.38.0_linux_amd64.zip","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"580e86e153fcdbddfb8d5fb434b7d94a18addfde0a78e0c1b93095f48859922c"},{"fileName":"redpanda-connect-lambda-al2_4.38.0_linux_arm64.zip","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"e3fe302abca280e40b7bcd8a1bbf97bd44034e03c2ae176c5bdddf7c8e9cf763"},{"fileName":"redpanda-connect-lambda_4.38.0_linux_amd64.zip","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"9d43cf81e134a6bef4d51ebbd80e6481bd015aeae94dd49810895a0136c27cb8"},{"fileName":"redpanda-connect_4.38.0_amd64.deb","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"801ced94ce58e2d87641c1d8b097609e348ecb424bff477a2e2395dace155421"},{"fileName":"redpanda-connect_4.38.0_arm64.deb","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"5e0cffde3ce0267a165744e8e682a5d649120b9ad962f3eeee629a20f981466b"},{"fileName":"redpanda-connect_4.38.0_darwin_amd64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"91cd6f3e26ede3f538663863ab2d7d80393c9a9ef5f76521835db0349a5f2a93"},{"fileName":"redpanda-connect_4.38.0_darwin_arm64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"21cd8ddc0b372a5297ef20a99b8433684ddbbd37338b7a49d6dc067c16a463dc"},{"fileName":"redpanda-connect_4.38.0_freebsd_amd64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"fac25924504161ad139de220dabdccc40ef2caa5ff826a07ec9a840fca3a4c46"},{"fileName":"redpanda-connect_4.38.0_freebsd_arm64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"cedd77f69448e082ffb4a51333cabe833e5c241c9d71a0b20d56f0273a987186"},{"fileName":"redpanda-connect_4.38.0_linux_amd64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"7396dbd6d88940b6dd66658a8d6ac2651b2f96d77dc60f480398f3e8fa2e0be4"},{"fileName":"redpanda-connect_4.38.0_linux_arm64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"ef9a3a231e9c7f064b6a0987ff2f602d1f7d5a80733233fd67a1f347aecff6de"},{"fileName":"redpanda-connect_4.38.0_openbsd_amd64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"bf92ad449e37b49673df0e44c551fb4c4afbce26b53a306e86f677bde1836252"},{"fileName":"redpanda-connect_4.38.0_openbsd_arm64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"e4816c170f1796ebfdebfa32b94c8451461ecedef717e0dca3b363d64ffd5e37"},{"fileName":"redpanda-connect_4.38.0_windows_amd64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"00ebb090fb38d7c24d43bf78b6077d19b9fb04601b746277ba1a4f7edc53f202"},{"fileName":"redpanda-connect_4.38.0_windows_arm64.tar.gz","algo":"Sha256","source":"redpanda-connect_4.38.0_checksums.txt","hash":"dd2f54dae61879ff8ee84e9b80a693d68c6bead2a6ba41de4c4c5404526e17c8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "redpanda-connect-4.38.0-1.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "02ae3f274c9c6aa1508e03f8076532d97b92ab557ab1138fa4ba77ca2d077bd0"
+    },
+    {
+      "fileName": "redpanda-connect-4.38.0-1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "3e56671bb1b6de5fbc9d34f4f583918e5bb62fe2d59637cde78363065b1c52cf"
+    },
+    {
+      "fileName": "redpanda-connect-cloud_4.38.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "2f35780782a1650732b784412da3d79bb60df9b2d6c922d753906a478f6ccb30"
+    },
+    {
+      "fileName": "redpanda-connect-cloud_4.38.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "e264980cda7588d36a46f7f2590b0339b2828104c379d364d13790390ef436fe"
+    },
+    {
+      "fileName": "redpanda-connect-cloud_4.38.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "2f0dc008cff05c2a6fbfe525ce233a2d7bb7c00ba95b88650502a4df8f8ae1c6"
+    },
+    {
+      "fileName": "redpanda-connect-cloud_4.38.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "d2c985180a961d67666db1def5ee792249e8c7dfb93c9f5395c6af01f4c5057e"
+    },
+    {
+      "fileName": "redpanda-connect-lambda-al2_4.38.0_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "580e86e153fcdbddfb8d5fb434b7d94a18addfde0a78e0c1b93095f48859922c"
+    },
+    {
+      "fileName": "redpanda-connect-lambda-al2_4.38.0_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "e3fe302abca280e40b7bcd8a1bbf97bd44034e03c2ae176c5bdddf7c8e9cf763"
+    },
+    {
+      "fileName": "redpanda-connect-lambda_4.38.0_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "9d43cf81e134a6bef4d51ebbd80e6481bd015aeae94dd49810895a0136c27cb8"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_amd64.deb",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "801ced94ce58e2d87641c1d8b097609e348ecb424bff477a2e2395dace155421"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_arm64.deb",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "5e0cffde3ce0267a165744e8e682a5d649120b9ad962f3eeee629a20f981466b"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "91cd6f3e26ede3f538663863ab2d7d80393c9a9ef5f76521835db0349a5f2a93"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "21cd8ddc0b372a5297ef20a99b8433684ddbbd37338b7a49d6dc067c16a463dc"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "fac25924504161ad139de220dabdccc40ef2caa5ff826a07ec9a840fca3a4c46"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "cedd77f69448e082ffb4a51333cabe833e5c241c9d71a0b20d56f0273a987186"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "7396dbd6d88940b6dd66658a8d6ac2651b2f96d77dc60f480398f3e8fa2e0be4"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "ef9a3a231e9c7f064b6a0987ff2f602d1f7d5a80733233fd67a1f347aecff6de"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_openbsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "bf92ad449e37b49673df0e44c551fb4c4afbce26b53a306e86f677bde1836252"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_openbsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "e4816c170f1796ebfdebfa32b94c8451461ecedef717e0dca3b363d64ffd5e37"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "00ebb090fb38d7c24d43bf78b6077d19b9fb04601b746277ba1a4f7edc53f202"
+    },
+    {
+      "fileName": "redpanda-connect_4.38.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "redpanda-connect_4.38.0_checksums.txt",
+      "hash": "dd2f54dae61879ff8ee84e9b80a693d68c6bead2a6ba41de4c4c5404526e17c8"
+    }
+  ]
+}

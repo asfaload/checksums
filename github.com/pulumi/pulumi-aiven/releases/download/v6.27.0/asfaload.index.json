@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-aiven-v6.27.0-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-aiven_6.27.0_checksums.txt","hash":"4c79f33c9ebac78683a916ca40aa4b0fb82abb7e"},{"fileName":"./pulumi-resource-aiven-v6.27.0-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-aiven_6.27.0_checksums.txt","hash":"b7514c326d547059471bf7b92f164dd441844bd1"},{"fileName":"./pulumi-resource-aiven-v6.27.0-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-aiven_6.27.0_checksums.txt","hash":"c505e66d19da267337419ba5bee2df343a060ab2"},{"fileName":"./pulumi-resource-aiven-v6.27.0-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-aiven_6.27.0_checksums.txt","hash":"a56dda3f279a58de23468f0cb67d7921436f6a3a"},{"fileName":"./pulumi-resource-aiven-v6.27.0-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-aiven_6.27.0_checksums.txt","hash":"f08357f9b957ace9c6cb954ae574d67ba41f4cac"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-aiven-v6.27.0-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aiven_6.27.0_checksums.txt",
+      "hash": "4c79f33c9ebac78683a916ca40aa4b0fb82abb7e"
+    },
+    {
+      "fileName": "./pulumi-resource-aiven-v6.27.0-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aiven_6.27.0_checksums.txt",
+      "hash": "b7514c326d547059471bf7b92f164dd441844bd1"
+    },
+    {
+      "fileName": "./pulumi-resource-aiven-v6.27.0-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aiven_6.27.0_checksums.txt",
+      "hash": "c505e66d19da267337419ba5bee2df343a060ab2"
+    },
+    {
+      "fileName": "./pulumi-resource-aiven-v6.27.0-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aiven_6.27.0_checksums.txt",
+      "hash": "a56dda3f279a58de23468f0cb67d7921436f6a3a"
+    },
+    {
+      "fileName": "./pulumi-resource-aiven-v6.27.0-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-aiven_6.27.0_checksums.txt",
+      "hash": "f08357f9b957ace9c6cb954ae574d67ba41f4cac"
+    }
+  ]
+}

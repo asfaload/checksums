@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pyrra-0.7.7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3a8b6a78c921b6c56134f657d2e1557800c9fe6b532ac34cc55e42f19ef13e1f"},{"fileName":"pyrra_0.7.7_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5f597b56faea420308e28e0a80028623d73e0c10a6a41b9ea381b250d4ee45dc"},{"fileName":"pyrra_0.7.7_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"63168289f22436b25cddb16888ba67ce308eac74e5a29d887788564e59ff0a9e"},{"fileName":"pyrra_0.7.7_Linux_arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"79b1b201fff6c29f951341eb6719d55873081d451da8bb54ca61626b763a0a64"},{"fileName":"pyrra_0.7.7_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c85c0503dcf694c653426668d78807f59f780b577629f44094d5fa1268d5d5fd"},{"fileName":"pyrra_0.7.7_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"cd8154174f582487cb30a06362d8571c903b6c1d40a6bd9c55e6228f63baf271"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pyrra-0.7.7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3a8b6a78c921b6c56134f657d2e1557800c9fe6b532ac34cc55e42f19ef13e1f"
+    },
+    {
+      "fileName": "pyrra_0.7.7_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5f597b56faea420308e28e0a80028623d73e0c10a6a41b9ea381b250d4ee45dc"
+    },
+    {
+      "fileName": "pyrra_0.7.7_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "63168289f22436b25cddb16888ba67ce308eac74e5a29d887788564e59ff0a9e"
+    },
+    {
+      "fileName": "pyrra_0.7.7_Linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "79b1b201fff6c29f951341eb6719d55873081d451da8bb54ca61626b763a0a64"
+    },
+    {
+      "fileName": "pyrra_0.7.7_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c85c0503dcf694c653426668d78807f59f780b577629f44094d5fa1268d5d5fd"
+    },
+    {
+      "fileName": "pyrra_0.7.7_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cd8154174f582487cb30a06362d8571c903b6c1d40a6bd9c55e6228f63baf271"
+    }
+  ]
+}

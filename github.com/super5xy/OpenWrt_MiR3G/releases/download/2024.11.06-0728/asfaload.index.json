@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T23:28:13+00:00","publishedOn":"2024-11-05T23:31:03.1774866+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"ac9650cf549e5535d1223764a29f1388775253a676625897bcc3fde1971be70a"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"faeb12ea9641690281fe9e8af724904418cb739bb09120af9fc7c9e54064fb75"},{"fileName":"openwrt-mediatek-filogic-xiaomi_mi-router-ax3000t-initramfs-kernel.bin","algo":"Sha256","source":"sha256sums","hash":"8af3fd3e86ab34ba5908c148bef3d2ba2db3aea86f6726d5d42b084ab4e37096"},{"fileName":"openwrt-mediatek-filogic-xiaomi_mi-router-ax3000t-squashfs-sysupgrade.bin","algo":"Sha256","source":"sha256sums","hash":"60296b2e943fa54d1fbfee191381a03d1d68f3966170cfe12c26438428da51ba"},{"fileName":"openwrt-mediatek-filogic-xiaomi_mi-router-ax3000t.manifest","algo":"Sha256","source":"sha256sums","hash":"edf4fe54e0374b6b67b05f6650278baa17eb617df56a5d9cc6d8143e0416744a"},{"fileName":"profiles.json","algo":"Sha256","source":"sha256sums","hash":"6983286366c72384a2da3e41ff20314b2a90625ffc4813ca1c2cf32bbb3cc746"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"25f59bc0f35266dec870a67a5ffeb1404dea40c4128581855d917af093251d7e"}]}
+{
+  "mirroredOn": "2024-11-05T23:31:03.1774866+00:00",
+  "publishedOn": "2024-11-05T23:28:13+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "ac9650cf549e5535d1223764a29f1388775253a676625897bcc3fde1971be70a"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "faeb12ea9641690281fe9e8af724904418cb739bb09120af9fc7c9e54064fb75"
+    },
+    {
+      "fileName": "openwrt-mediatek-filogic-xiaomi_mi-router-ax3000t-initramfs-kernel.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "8af3fd3e86ab34ba5908c148bef3d2ba2db3aea86f6726d5d42b084ab4e37096"
+    },
+    {
+      "fileName": "openwrt-mediatek-filogic-xiaomi_mi-router-ax3000t-squashfs-sysupgrade.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "60296b2e943fa54d1fbfee191381a03d1d68f3966170cfe12c26438428da51ba"
+    },
+    {
+      "fileName": "openwrt-mediatek-filogic-xiaomi_mi-router-ax3000t.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "edf4fe54e0374b6b67b05f6650278baa17eb617df56a5d9cc6d8143e0416744a"
+    },
+    {
+      "fileName": "profiles.json",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "6983286366c72384a2da3e41ff20314b2a90625ffc4813ca1c2cf32bbb3cc746"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "25f59bc0f35266dec870a67a5ffeb1404dea40c4128581855d917af093251d7e"
+    }
+  ]
+}

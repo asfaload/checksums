@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gitmux_v0.11.2_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b9e0ecb28198bbc147b38e0c3ad1bc6fd5f8e7a5ca38c90a72c463bba360b7b5"},{"fileName":"gitmux_v0.11.2_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b8af2d611e424d45ff9f9d8fbe7e8066b87b1b5e675a476bfb08f7ae55d1c318"},{"fileName":"gitmux_v0.11.2_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"42b07c088bf4c73f9ffe00d5c2b4fe3a3f272105de2e5c7e2d95de4857deaa80"},{"fileName":"gitmux_v0.11.2_macOS_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7b918be411207a746815fad94ab37fe52f54295ec30bdef05c0b6d7409187ab7"},{"fileName":"gitmux_v0.11.2_macOS_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"828f218182806c9d487e9e0145cf62e7620849ba304ee2b1dfada42660282c8f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gitmux_v0.11.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b9e0ecb28198bbc147b38e0c3ad1bc6fd5f8e7a5ca38c90a72c463bba360b7b5"
+    },
+    {
+      "fileName": "gitmux_v0.11.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b8af2d611e424d45ff9f9d8fbe7e8066b87b1b5e675a476bfb08f7ae55d1c318"
+    },
+    {
+      "fileName": "gitmux_v0.11.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "42b07c088bf4c73f9ffe00d5c2b4fe3a3f272105de2e5c7e2d95de4857deaa80"
+    },
+    {
+      "fileName": "gitmux_v0.11.2_macOS_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7b918be411207a746815fad94ab37fe52f54295ec30bdef05c0b6d7409187ab7"
+    },
+    {
+      "fileName": "gitmux_v0.11.2_macOS_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "828f218182806c9d487e9e0145cf62e7620849ba304ee2b1dfada42660282c8f"
+    }
+  ]
+}

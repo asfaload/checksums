@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cf-terraforming_0.21.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8f28d1ee47565c8ac1a7c9e58a7926622273cb8ff327b4aa6c9ef143724d663e"},{"fileName":"cf-terraforming_0.21.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"42058ad8dcafa5ece86544617c574a912c3917cf4e39b89d694d627663b0f4f1"},{"fileName":"cf-terraforming_0.21.0_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5720fa83f6a304207938e4755738d169121c833ff0b9c5fb98d2e261fbf03615"},{"fileName":"cf-terraforming_0.21.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bbedbe65b5cd5c9f341312078fc99181e569771157e9253c252fd0c484d4c1b2"},{"fileName":"cf-terraforming_0.21.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"68d624d8b2b7d7d709153d3ea2053aec20e3f65b249927d76096f8fc8e404d4f"},{"fileName":"cf-terraforming_0.21.0_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a9a088ff0a05f6b3bd9039a99e6578ab115a7c8b15f31486c315321cbc94642a"},{"fileName":"cf-terraforming_0.21.0_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4cca69cf97e9ebe74cab0561563692ae18165678891322cdd3946a76f1bc0e61"},{"fileName":"cf-terraforming_0.21.0_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a3223dddcf7ef2fe6167039a0f828060d9a652b61d8766fb966aadb58e73b7d8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cf-terraforming_0.21.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8f28d1ee47565c8ac1a7c9e58a7926622273cb8ff327b4aa6c9ef143724d663e"
+    },
+    {
+      "fileName": "cf-terraforming_0.21.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "42058ad8dcafa5ece86544617c574a912c3917cf4e39b89d694d627663b0f4f1"
+    },
+    {
+      "fileName": "cf-terraforming_0.21.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5720fa83f6a304207938e4755738d169121c833ff0b9c5fb98d2e261fbf03615"
+    },
+    {
+      "fileName": "cf-terraforming_0.21.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bbedbe65b5cd5c9f341312078fc99181e569771157e9253c252fd0c484d4c1b2"
+    },
+    {
+      "fileName": "cf-terraforming_0.21.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "68d624d8b2b7d7d709153d3ea2053aec20e3f65b249927d76096f8fc8e404d4f"
+    },
+    {
+      "fileName": "cf-terraforming_0.21.0_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a9a088ff0a05f6b3bd9039a99e6578ab115a7c8b15f31486c315321cbc94642a"
+    },
+    {
+      "fileName": "cf-terraforming_0.21.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4cca69cf97e9ebe74cab0561563692ae18165678891322cdd3946a76f1bc0e61"
+    },
+    {
+      "fileName": "cf-terraforming_0.21.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a3223dddcf7ef2fe6167039a0f828060d9a652b61d8766fb966aadb58e73b7d8"
+    }
+  ]
+}

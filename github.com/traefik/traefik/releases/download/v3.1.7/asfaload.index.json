@@ -1,1 +1,109 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"traefik_v3.1.7_darwin_amd64.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"d75d0a99473f3112112136960b7a74c03155671553c618dd25d534e7f0e8f3f8"},{"fileName":"traefik_v3.1.7_darwin_arm64.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"2fb2940d7d97d03ebd1f8eaffb781d01b7434a59c6ee71d7ee3382ae5032f5c9"},{"fileName":"traefik_v3.1.7_freebsd_386.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"93135a777e7ffbeab6b29231c01459846fd1e4b130907cf0493f6dc5e246612d"},{"fileName":"traefik_v3.1.7_freebsd_amd64.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"54aa5f4c5276b02325036643bf743e120ea22a91ef5f8bfbb2a7e02998ae693e"},{"fileName":"traefik_v3.1.7_linux_386.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"c655b4a648df142c5103837aee088512eaa62af7a93f50c26514c14ac4b9968b"},{"fileName":"traefik_v3.1.7_linux_amd64.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"536602748e8d3b3cd630d36c0884cd55c67efc37390e0489f9ac1a57a442d464"},{"fileName":"traefik_v3.1.7_linux_arm64.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"0a1acd559df6e3101876989620716775759bc3bba43e34f237097d246dd2a855"},{"fileName":"traefik_v3.1.7_linux_armv6.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"ea21b8c30e1f900fd06b738d0266134cff2750dfe107adfae45bf96814e2617d"},{"fileName":"traefik_v3.1.7_linux_armv7.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"24d51c271ee7f6ce937709cbfa9e62e66f045393ee4ca28548d2a20cb0042cb4"},{"fileName":"traefik_v3.1.7_linux_ppc64le.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"4c24ff804676d0e97501059af8b05c9ce86607f707e60b0e6ff831dc4a5deaad"},{"fileName":"traefik_v3.1.7_linux_riscv64.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"1186470272e50c10aff65d4061997db80f2bbcacc6eac4075c8a0b06c52f1006"},{"fileName":"traefik_v3.1.7_linux_s390x.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"f341eda9f70da0edc1b6e16b1aaa1ae7b39a89341fc27f415f5ca722281f406a"},{"fileName":"traefik_v3.1.7_openbsd_386.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"d6f63f34cd0d71b93e6c7464f4b0cb59698aa205caa2e6977b56e1273a5b4700"},{"fileName":"traefik_v3.1.7_openbsd_amd64.tar.gz","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"80df51f8b544a6abfb2bd5dfc36972f35db8f8ce66af989b13eb82b5d51036be"},{"fileName":"traefik_v3.1.7_windows_386.zip","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"c3ed43b26d8852963c52536c4bb1c5bcf2da573e6273f5403969592187a51a2d"},{"fileName":"traefik_v3.1.7_windows_amd64.zip","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"07c8a4eb620647b88b92c5380bf7ccace8db5bf3cf7e380e2aa49cbe488610a7"},{"fileName":"traefik_v3.1.7_windows_arm64.zip","algo":"Sha256","source":"traefik_v3.1.7_checksums.txt","hash":"48f623c814bad65639b6b67408868ba4123de4626596fe96c198a89695c1c035"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "traefik_v3.1.7_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "d75d0a99473f3112112136960b7a74c03155671553c618dd25d534e7f0e8f3f8"
+    },
+    {
+      "fileName": "traefik_v3.1.7_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "2fb2940d7d97d03ebd1f8eaffb781d01b7434a59c6ee71d7ee3382ae5032f5c9"
+    },
+    {
+      "fileName": "traefik_v3.1.7_freebsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "93135a777e7ffbeab6b29231c01459846fd1e4b130907cf0493f6dc5e246612d"
+    },
+    {
+      "fileName": "traefik_v3.1.7_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "54aa5f4c5276b02325036643bf743e120ea22a91ef5f8bfbb2a7e02998ae693e"
+    },
+    {
+      "fileName": "traefik_v3.1.7_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "c655b4a648df142c5103837aee088512eaa62af7a93f50c26514c14ac4b9968b"
+    },
+    {
+      "fileName": "traefik_v3.1.7_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "536602748e8d3b3cd630d36c0884cd55c67efc37390e0489f9ac1a57a442d464"
+    },
+    {
+      "fileName": "traefik_v3.1.7_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "0a1acd559df6e3101876989620716775759bc3bba43e34f237097d246dd2a855"
+    },
+    {
+      "fileName": "traefik_v3.1.7_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "ea21b8c30e1f900fd06b738d0266134cff2750dfe107adfae45bf96814e2617d"
+    },
+    {
+      "fileName": "traefik_v3.1.7_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "24d51c271ee7f6ce937709cbfa9e62e66f045393ee4ca28548d2a20cb0042cb4"
+    },
+    {
+      "fileName": "traefik_v3.1.7_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "4c24ff804676d0e97501059af8b05c9ce86607f707e60b0e6ff831dc4a5deaad"
+    },
+    {
+      "fileName": "traefik_v3.1.7_linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "1186470272e50c10aff65d4061997db80f2bbcacc6eac4075c8a0b06c52f1006"
+    },
+    {
+      "fileName": "traefik_v3.1.7_linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "f341eda9f70da0edc1b6e16b1aaa1ae7b39a89341fc27f415f5ca722281f406a"
+    },
+    {
+      "fileName": "traefik_v3.1.7_openbsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "d6f63f34cd0d71b93e6c7464f4b0cb59698aa205caa2e6977b56e1273a5b4700"
+    },
+    {
+      "fileName": "traefik_v3.1.7_openbsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "80df51f8b544a6abfb2bd5dfc36972f35db8f8ce66af989b13eb82b5d51036be"
+    },
+    {
+      "fileName": "traefik_v3.1.7_windows_386.zip",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "c3ed43b26d8852963c52536c4bb1c5bcf2da573e6273f5403969592187a51a2d"
+    },
+    {
+      "fileName": "traefik_v3.1.7_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "07c8a4eb620647b88b92c5380bf7ccace8db5bf3cf7e380e2aa49cbe488610a7"
+    },
+    {
+      "fileName": "traefik_v3.1.7_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "traefik_v3.1.7_checksums.txt",
+      "hash": "48f623c814bad65639b6b67408868ba4123de4626596fe96c198a89695c1c035"
+    }
+  ]
+}

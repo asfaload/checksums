@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"flyctl_0.3.29_Linux_arm64.tar.gz","algo":"Sha256","source":"flyctl_0.3.29_checksums.txt","hash":"6b9ec044cd378a2ea68afca612de965ef4a18b76294dee05068f772dc6dbd9b0"},{"fileName":"flyctl_0.3.29_Linux_x86_64.tar.gz","algo":"Sha256","source":"flyctl_0.3.29_checksums.txt","hash":"399cb88730bfe20977ec957c88d143d62a061189e6b01b80696f1483f0b8669b"},{"fileName":"flyctl_0.3.29_Windows_arm64.zip","algo":"Sha256","source":"flyctl_0.3.29_checksums.txt","hash":"0f3756fba84b6f502e855a14d07fa4c96adb958aaccd4c9aec9cda22c2775317"},{"fileName":"flyctl_0.3.29_Windows_x86_64.zip","algo":"Sha256","source":"flyctl_0.3.29_checksums.txt","hash":"7d09328594d36764dd37a5b37318be6ece7b5306fca1d4707d6290baeb478309"},{"fileName":"flyctl_0.3.29_macOS_arm64.tar.gz","algo":"Sha256","source":"flyctl_0.3.29_checksums.txt","hash":"d2c5648dd69239162bd5d214311540af00b3b23dfcce6f2bb12b8aa5326bbfda"},{"fileName":"flyctl_0.3.29_macOS_x86_64.tar.gz","algo":"Sha256","source":"flyctl_0.3.29_checksums.txt","hash":"f13ccd044653dc6f8415997ec9ce9028054526c1c74be52da4d1eca5bd708761"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "flyctl_0.3.29_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "flyctl_0.3.29_checksums.txt",
+      "hash": "6b9ec044cd378a2ea68afca612de965ef4a18b76294dee05068f772dc6dbd9b0"
+    },
+    {
+      "fileName": "flyctl_0.3.29_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "flyctl_0.3.29_checksums.txt",
+      "hash": "399cb88730bfe20977ec957c88d143d62a061189e6b01b80696f1483f0b8669b"
+    },
+    {
+      "fileName": "flyctl_0.3.29_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "flyctl_0.3.29_checksums.txt",
+      "hash": "0f3756fba84b6f502e855a14d07fa4c96adb958aaccd4c9aec9cda22c2775317"
+    },
+    {
+      "fileName": "flyctl_0.3.29_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "flyctl_0.3.29_checksums.txt",
+      "hash": "7d09328594d36764dd37a5b37318be6ece7b5306fca1d4707d6290baeb478309"
+    },
+    {
+      "fileName": "flyctl_0.3.29_macOS_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "flyctl_0.3.29_checksums.txt",
+      "hash": "d2c5648dd69239162bd5d214311540af00b3b23dfcce6f2bb12b8aa5326bbfda"
+    },
+    {
+      "fileName": "flyctl_0.3.29_macOS_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "flyctl_0.3.29_checksums.txt",
+      "hash": "f13ccd044653dc6f8415997ec9ce9028054526c1c74be52da4d1eca5bd708761"
+    }
+  ]
+}

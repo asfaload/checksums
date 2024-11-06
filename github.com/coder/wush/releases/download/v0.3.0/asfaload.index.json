@@ -1,1 +1,157 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"wush_0.3.0_darwin_amd64.zip","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"01474f69276b0bce9cf0abb91cc9e66076cdf2439b950eb3b94785816e9450c8"},{"fileName":"wush_0.3.0_darwin_arm64.zip","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"2cda604b7d413a915e6ef91be0d00358d33fefbc1d78dd8edf2200e9a850ea84"},{"fileName":"wush_0.3.0_freebsd_386.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"7d92e55c949b0401718d92dff831d61a91179616a88f370e81af88d7ac68bdf6"},{"fileName":"wush_0.3.0_freebsd_amd64.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"c2ec74bdb9391196d37f8d9e2e6f48df2092bab5938c9e38abeaa48dd18aa098"},{"fileName":"wush_0.3.0_freebsd_arm64.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"5e29abcf78ceeb2843ad7d06e03b9a27fd9fd1db2bfa9caad22c404a93fde5d0"},{"fileName":"wush_0.3.0_freebsd_armv7.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"3f774d24da7e34ba9b80330fc3b46c0f2cf6b3eea1051799c5a6c10b1da96b6c"},{"fileName":"wush_0.3.0_linux_386.apk","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"01306e457af1486b1a9d39692cd0b9be641cea416962d25e02928f3012e96723"},{"fileName":"wush_0.3.0_linux_386.deb","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"27610625a0c90d6388e73696547872009ad8c409defdf6d700bc1ef8ad98e6e9"},{"fileName":"wush_0.3.0_linux_386.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"a5ebdeae11b648f456d6c823871332a8fc05a7653e25344be1618416e5175dd0"},{"fileName":"wush_0.3.0_linux_amd64.apk","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"330c9a4ea7e1a5a29d3b1cc754dc454c223052d7706a1b2c138e246e9285d961"},{"fileName":"wush_0.3.0_linux_amd64.deb","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"c42318243a79969d9ea01319441a3286a3469091fc381bec3905b38077b360c2"},{"fileName":"wush_0.3.0_linux_amd64.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"086311eed132dea7bd5ab8889b30bdb62e10476b1f77d3f75e73e1f32924bcc0"},{"fileName":"wush_0.3.0_linux_arm64.apk","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"bb2cf303a10341a1f7e35e546efc4e196813c91a150953ea7aa55ccc84dc667d"},{"fileName":"wush_0.3.0_linux_arm64.deb","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"e5959f78811eb3d471bffd04978a05b669360f19b0bc1c4e67960004687bd823"},{"fileName":"wush_0.3.0_linux_arm64.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"f9246f10d31468f527e3508d279787d48dfb69265e183ce0e625ab92791ebfff"},{"fileName":"wush_0.3.0_linux_armv7.apk","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"2ae142b3ec4132218060bc05f8d4ecb5ca5a3aa894504d86cb0f2eb197cd4796"},{"fileName":"wush_0.3.0_linux_armv7.deb","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"60662cb7995a748ef136e427a20afb81720d3946af23ce52a16170fcc3db1906"},{"fileName":"wush_0.3.0_linux_armv7.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"a3f06cbd92d4d27706fe4e34f193f88b3b6db359a03a662ae30c0e326d843ab1"},{"fileName":"wush_0.3.0_openbsd_386.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"1473c8e7965a3678fbea10873d4a40e2a7ba942822b87afd782f261f68616e67"},{"fileName":"wush_0.3.0_openbsd_amd64.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"bad05da337c8c51d9bf785354d5df198a0e945007225b4c4b976e77f6cd1daf7"},{"fileName":"wush_0.3.0_openbsd_arm64.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"805c80250e286f4414f72efd286da9f9cbeeae86bab4a8810d57c636634a3b9f"},{"fileName":"wush_0.3.0_openbsd_armv7.tar.gz","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"cb71b44fd5ba58a0cd0435082a98931bb9d3ad0cf3c44dec259e4adf51d64e82"},{"fileName":"wush_0.3.0_windows_386.zip","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"155e130abecc4566bf90076ede48e2171cdf487b47476bea0a2976203b002afc"},{"fileName":"wush_0.3.0_windows_amd64.zip","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"4dfba09e32dcc6a5820655f02d53d84e57ffa302c6fcf1e794077ac11b4a6e3e"},{"fileName":"wush_0.3.0_windows_arm64.zip","algo":"Sha256","source":"wush_0.3.0_SHA256SUMS","hash":"42ac504f5d8bce9ca2f29b87d5f96fbfa14eace55dadf0ec49b8d33de1912fae"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "wush_0.3.0_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "01474f69276b0bce9cf0abb91cc9e66076cdf2439b950eb3b94785816e9450c8"
+    },
+    {
+      "fileName": "wush_0.3.0_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "2cda604b7d413a915e6ef91be0d00358d33fefbc1d78dd8edf2200e9a850ea84"
+    },
+    {
+      "fileName": "wush_0.3.0_freebsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "7d92e55c949b0401718d92dff831d61a91179616a88f370e81af88d7ac68bdf6"
+    },
+    {
+      "fileName": "wush_0.3.0_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "c2ec74bdb9391196d37f8d9e2e6f48df2092bab5938c9e38abeaa48dd18aa098"
+    },
+    {
+      "fileName": "wush_0.3.0_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "5e29abcf78ceeb2843ad7d06e03b9a27fd9fd1db2bfa9caad22c404a93fde5d0"
+    },
+    {
+      "fileName": "wush_0.3.0_freebsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "3f774d24da7e34ba9b80330fc3b46c0f2cf6b3eea1051799c5a6c10b1da96b6c"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_386.apk",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "01306e457af1486b1a9d39692cd0b9be641cea416962d25e02928f3012e96723"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_386.deb",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "27610625a0c90d6388e73696547872009ad8c409defdf6d700bc1ef8ad98e6e9"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "a5ebdeae11b648f456d6c823871332a8fc05a7653e25344be1618416e5175dd0"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "330c9a4ea7e1a5a29d3b1cc754dc454c223052d7706a1b2c138e246e9285d961"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "c42318243a79969d9ea01319441a3286a3469091fc381bec3905b38077b360c2"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "086311eed132dea7bd5ab8889b30bdb62e10476b1f77d3f75e73e1f32924bcc0"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "bb2cf303a10341a1f7e35e546efc4e196813c91a150953ea7aa55ccc84dc667d"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "e5959f78811eb3d471bffd04978a05b669360f19b0bc1c4e67960004687bd823"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "f9246f10d31468f527e3508d279787d48dfb69265e183ce0e625ab92791ebfff"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_armv7.apk",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "2ae142b3ec4132218060bc05f8d4ecb5ca5a3aa894504d86cb0f2eb197cd4796"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "60662cb7995a748ef136e427a20afb81720d3946af23ce52a16170fcc3db1906"
+    },
+    {
+      "fileName": "wush_0.3.0_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "a3f06cbd92d4d27706fe4e34f193f88b3b6db359a03a662ae30c0e326d843ab1"
+    },
+    {
+      "fileName": "wush_0.3.0_openbsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "1473c8e7965a3678fbea10873d4a40e2a7ba942822b87afd782f261f68616e67"
+    },
+    {
+      "fileName": "wush_0.3.0_openbsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "bad05da337c8c51d9bf785354d5df198a0e945007225b4c4b976e77f6cd1daf7"
+    },
+    {
+      "fileName": "wush_0.3.0_openbsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "805c80250e286f4414f72efd286da9f9cbeeae86bab4a8810d57c636634a3b9f"
+    },
+    {
+      "fileName": "wush_0.3.0_openbsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "cb71b44fd5ba58a0cd0435082a98931bb9d3ad0cf3c44dec259e4adf51d64e82"
+    },
+    {
+      "fileName": "wush_0.3.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "155e130abecc4566bf90076ede48e2171cdf487b47476bea0a2976203b002afc"
+    },
+    {
+      "fileName": "wush_0.3.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "4dfba09e32dcc6a5820655f02d53d84e57ffa302c6fcf1e794077ac11b4a6e3e"
+    },
+    {
+      "fileName": "wush_0.3.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "wush_0.3.0_SHA256SUMS",
+      "hash": "42ac504f5d8bce9ca2f29b87d5f96fbfa14eace55dadf0ec49b8d33de1912fae"
+    }
+  ]
+}

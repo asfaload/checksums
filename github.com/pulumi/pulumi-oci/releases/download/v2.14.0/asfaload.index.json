@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-oci-v2.14.0-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-oci_2.14.0_checksums.txt","hash":"6d231d7e284cfe00c5c242e7e53ddc1366225fa8"},{"fileName":"./pulumi-resource-oci-v2.14.0-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-oci_2.14.0_checksums.txt","hash":"713f54cf9f856bd8f8ac7eb04507bb2c41fc4e28"},{"fileName":"./pulumi-resource-oci-v2.14.0-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-oci_2.14.0_checksums.txt","hash":"55ce657ce6dfc0d3397fed7f144bcb7669aff951"},{"fileName":"./pulumi-resource-oci-v2.14.0-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-oci_2.14.0_checksums.txt","hash":"53f10914ee4a626bef6a3daa065afc71c56f95d4"},{"fileName":"./pulumi-resource-oci-v2.14.0-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-oci_2.14.0_checksums.txt","hash":"2fd6c1b13ddc7e6fd5c759c8f5ce109b8d106873"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-oci-v2.14.0-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-oci_2.14.0_checksums.txt",
+      "hash": "6d231d7e284cfe00c5c242e7e53ddc1366225fa8"
+    },
+    {
+      "fileName": "./pulumi-resource-oci-v2.14.0-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-oci_2.14.0_checksums.txt",
+      "hash": "713f54cf9f856bd8f8ac7eb04507bb2c41fc4e28"
+    },
+    {
+      "fileName": "./pulumi-resource-oci-v2.14.0-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-oci_2.14.0_checksums.txt",
+      "hash": "55ce657ce6dfc0d3397fed7f144bcb7669aff951"
+    },
+    {
+      "fileName": "./pulumi-resource-oci-v2.14.0-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-oci_2.14.0_checksums.txt",
+      "hash": "53f10914ee4a626bef6a3daa065afc71c56f95d4"
+    },
+    {
+      "fileName": "./pulumi-resource-oci-v2.14.0-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-oci_2.14.0_checksums.txt",
+      "hash": "2fd6c1b13ddc7e6fd5c759c8f5ce109b8d106873"
+    }
+  ]
+}

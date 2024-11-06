@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sponge_1.10.1_darwin_amd64.zip","algo":"Sha256","source":"sponge_1.10.1_checksums.txt","hash":"b2dc8e083405e0b338915351ab6a13abc609dc075b057719a666d5935d022473"},{"fileName":"sponge_1.10.1_linux_amd64.zip","algo":"Sha256","source":"sponge_1.10.1_checksums.txt","hash":"5f0e0ab448a224c8930b872cc9d2978e023acd0428a81d3b5b66ae15b03c6bf7"},{"fileName":"sponge_1.10.1_windows_amd64.zip","algo":"Sha256","source":"sponge_1.10.1_checksums.txt","hash":"2467b995c9138f2b75153a2f92fcd515ebc5e54e6156e4a74f687b81df5c53ae"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sponge_1.10.1_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "sponge_1.10.1_checksums.txt",
+      "hash": "b2dc8e083405e0b338915351ab6a13abc609dc075b057719a666d5935d022473"
+    },
+    {
+      "fileName": "sponge_1.10.1_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "sponge_1.10.1_checksums.txt",
+      "hash": "5f0e0ab448a224c8930b872cc9d2978e023acd0428a81d3b5b66ae15b03c6bf7"
+    },
+    {
+      "fileName": "sponge_1.10.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "sponge_1.10.1_checksums.txt",
+      "hash": "2467b995c9138f2b75153a2f92fcd515ebc5e54e6156e4a74f687b81df5c53ae"
+    }
+  ]
+}

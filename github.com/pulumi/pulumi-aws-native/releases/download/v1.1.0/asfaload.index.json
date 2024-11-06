@@ -1,1 +1,79 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pulumi-resource-aws-native-v1.1.0-darwin-amd64.tar.gz","algo":"Sha256","source":"pulumi-aws-native_1.1.0_checksums.txt","hash":"f529ce86f3e0c643189058387763a46a09739bd081e6aec2300153becc47c926"},{"fileName":"pulumi-resource-aws-native-v1.1.0-darwin-arm64.tar.gz","algo":"Sha256","source":"pulumi-aws-native_1.1.0_checksums.txt","hash":"0c4fb186f192240ccb6f01d72ae7637b8234eb4df0fd0708877846e264d6ee53"},{"fileName":"pulumi-resource-aws-native-v1.1.0-linux-amd64.tar.gz","algo":"Sha256","source":"pulumi-aws-native_1.1.0_checksums.txt","hash":"a4a5151503af91a3a5e69d067e496588f3ece5247c0407933bf42916d3b04e1d"},{"fileName":"pulumi-resource-aws-native-v1.1.0-linux-arm64.tar.gz","algo":"Sha256","source":"pulumi-aws-native_1.1.0_checksums.txt","hash":"023f0b8ec4bb224d7d624efd712d5fd30b6fbddd9cc523b55759881a9b733250"},{"fileName":"pulumi-resource-aws-native-v1.1.0-windows-amd64.tar.gz","algo":"Sha256","source":"pulumi-aws-native_1.1.0_checksums.txt","hash":"1b848bff067150b801a678c2e6b815b0b5b2bcc7c81c020372cfa2f6fc89b8d6"},{"fileName":"pulumi-resource-aws-native-v1.1.0-windows-arm64.tar.gz","algo":"Sha256","source":"pulumi-aws-native_1.1.0_checksums.txt","hash":"46c034622c7a71639bd3897f1362768c7795be74333da3141cf0e3c66633c5ad"},{"fileName":"cf2pulumi-v1.1.0-darwin-arm64.tar.gz","algo":"Sha256","source":"cf2pulumi_1.1.0_checksums.txt","hash":"9edb7aa798d9fad8d55f1923668bfcb508185f874489f699dc09cc28ad29e0a1"},{"fileName":"cf2pulumi-v1.1.0-darwin-x64.tar.gz","algo":"Sha256","source":"cf2pulumi_1.1.0_checksums.txt","hash":"7d3be20694ae2ff1276e97fb9d13727b94ff1353dca00a74930671d7269e8dbf"},{"fileName":"cf2pulumi-v1.1.0-linux-arm64.tar.gz","algo":"Sha256","source":"cf2pulumi_1.1.0_checksums.txt","hash":"9bd0541083ea459531f97c77628a6b231b0ddbf7f5664c91572f22a463abd367"},{"fileName":"cf2pulumi-v1.1.0-linux-x64.tar.gz","algo":"Sha256","source":"cf2pulumi_1.1.0_checksums.txt","hash":"2fc477a89916acc9a27eb61fcf8788ff5b2d00bb730adeb33913c5d01af66f70"},{"fileName":"cf2pulumi-v1.1.0-windows-arm64.zip","algo":"Sha256","source":"cf2pulumi_1.1.0_checksums.txt","hash":"d4058495a998a341071e546913e36571a7fa21c04188689ac12e9a56592e12f2"},{"fileName":"cf2pulumi-v1.1.0-windows-x64.zip","algo":"Sha256","source":"cf2pulumi_1.1.0_checksums.txt","hash":"ed2dd2b171789fe1af116f84b256009ff5b7aa5efd845028d75247e018dec073"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pulumi-resource-aws-native-v1.1.0-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-aws-native_1.1.0_checksums.txt",
+      "hash": "f529ce86f3e0c643189058387763a46a09739bd081e6aec2300153becc47c926"
+    },
+    {
+      "fileName": "pulumi-resource-aws-native-v1.1.0-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-aws-native_1.1.0_checksums.txt",
+      "hash": "0c4fb186f192240ccb6f01d72ae7637b8234eb4df0fd0708877846e264d6ee53"
+    },
+    {
+      "fileName": "pulumi-resource-aws-native-v1.1.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-aws-native_1.1.0_checksums.txt",
+      "hash": "a4a5151503af91a3a5e69d067e496588f3ece5247c0407933bf42916d3b04e1d"
+    },
+    {
+      "fileName": "pulumi-resource-aws-native-v1.1.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-aws-native_1.1.0_checksums.txt",
+      "hash": "023f0b8ec4bb224d7d624efd712d5fd30b6fbddd9cc523b55759881a9b733250"
+    },
+    {
+      "fileName": "pulumi-resource-aws-native-v1.1.0-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-aws-native_1.1.0_checksums.txt",
+      "hash": "1b848bff067150b801a678c2e6b815b0b5b2bcc7c81c020372cfa2f6fc89b8d6"
+    },
+    {
+      "fileName": "pulumi-resource-aws-native-v1.1.0-windows-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-aws-native_1.1.0_checksums.txt",
+      "hash": "46c034622c7a71639bd3897f1362768c7795be74333da3141cf0e3c66633c5ad"
+    },
+    {
+      "fileName": "cf2pulumi-v1.1.0-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cf2pulumi_1.1.0_checksums.txt",
+      "hash": "9edb7aa798d9fad8d55f1923668bfcb508185f874489f699dc09cc28ad29e0a1"
+    },
+    {
+      "fileName": "cf2pulumi-v1.1.0-darwin-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "cf2pulumi_1.1.0_checksums.txt",
+      "hash": "7d3be20694ae2ff1276e97fb9d13727b94ff1353dca00a74930671d7269e8dbf"
+    },
+    {
+      "fileName": "cf2pulumi-v1.1.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cf2pulumi_1.1.0_checksums.txt",
+      "hash": "9bd0541083ea459531f97c77628a6b231b0ddbf7f5664c91572f22a463abd367"
+    },
+    {
+      "fileName": "cf2pulumi-v1.1.0-linux-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "cf2pulumi_1.1.0_checksums.txt",
+      "hash": "2fc477a89916acc9a27eb61fcf8788ff5b2d00bb730adeb33913c5d01af66f70"
+    },
+    {
+      "fileName": "cf2pulumi-v1.1.0-windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "cf2pulumi_1.1.0_checksums.txt",
+      "hash": "d4058495a998a341071e546913e36571a7fa21c04188689ac12e9a56592e12f2"
+    },
+    {
+      "fileName": "cf2pulumi-v1.1.0-windows-x64.zip",
+      "algo": "Sha256",
+      "source": "cf2pulumi_1.1.0_checksums.txt",
+      "hash": "ed2dd2b171789fe1af116f84b256009ff5b7aa5efd845028d75247e018dec073"
+    }
+  ]
+}

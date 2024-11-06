@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"aqua-proxy_darwin_amd64.tar.gz","algo":"Sha256","source":"aqua-proxy_1.2.8_checksums.txt","hash":"6ac3bbed7575c852b86155b7ef6d5b22be11dc12fccb55eb83c5f4ce6fae4d5f"},{"fileName":"aqua-proxy_darwin_arm64.tar.gz","algo":"Sha256","source":"aqua-proxy_1.2.8_checksums.txt","hash":"260699cd2d9fc79d1533eb2d60b046e22e4fd4ff9e2070420f0d23ab07576b45"},{"fileName":"aqua-proxy_linux_amd64.tar.gz","algo":"Sha256","source":"aqua-proxy_1.2.8_checksums.txt","hash":"a146ae73ad278f18b6acd75a013c0a5e081c9b125286be4b55bb2b13d4137aa7"},{"fileName":"aqua-proxy_linux_arm64.tar.gz","algo":"Sha256","source":"aqua-proxy_1.2.8_checksums.txt","hash":"7a7372046caae1a8cb7ad2e134ab632f2b2f924b3adc10545464e61fbb7cf5b0"},{"fileName":"aqua-proxy_windows_amd64.tar.gz","algo":"Sha256","source":"aqua-proxy_1.2.8_checksums.txt","hash":"2be51ca0e9841c3d0968448b752271ed0d928fe938dcbf15fb4c6e17610bf5d2"},{"fileName":"aqua-proxy_windows_arm64.tar.gz","algo":"Sha256","source":"aqua-proxy_1.2.8_checksums.txt","hash":"35f0580a5b214a58bda3d5562fa7ba45d69a5dc4443a1e6f0f8bf821abf87925"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "aqua-proxy_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "aqua-proxy_1.2.8_checksums.txt",
+      "hash": "6ac3bbed7575c852b86155b7ef6d5b22be11dc12fccb55eb83c5f4ce6fae4d5f"
+    },
+    {
+      "fileName": "aqua-proxy_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aqua-proxy_1.2.8_checksums.txt",
+      "hash": "260699cd2d9fc79d1533eb2d60b046e22e4fd4ff9e2070420f0d23ab07576b45"
+    },
+    {
+      "fileName": "aqua-proxy_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "aqua-proxy_1.2.8_checksums.txt",
+      "hash": "a146ae73ad278f18b6acd75a013c0a5e081c9b125286be4b55bb2b13d4137aa7"
+    },
+    {
+      "fileName": "aqua-proxy_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aqua-proxy_1.2.8_checksums.txt",
+      "hash": "7a7372046caae1a8cb7ad2e134ab632f2b2f924b3adc10545464e61fbb7cf5b0"
+    },
+    {
+      "fileName": "aqua-proxy_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "aqua-proxy_1.2.8_checksums.txt",
+      "hash": "2be51ca0e9841c3d0968448b752271ed0d928fe938dcbf15fb4c6e17610bf5d2"
+    },
+    {
+      "fileName": "aqua-proxy_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aqua-proxy_1.2.8_checksums.txt",
+      "hash": "35f0580a5b214a58bda3d5562fa7ba45d69a5dc4443a1e6f0f8bf821abf87925"
+    }
+  ]
+}

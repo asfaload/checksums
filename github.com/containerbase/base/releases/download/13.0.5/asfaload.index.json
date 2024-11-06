@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:35:29+00:00","publishedOn":"2024-11-05T16:12:28.1603329+00:00","version":1,"publishedFiles":[{"fileName":"containerbase-cli-amd64","algo":"Sha512","source":"containerbase-cli-amd64.sha512","hash":"4985041a0b6640f3d36de4e1f0b03687da743f4c8256ab0cd93ddeefaa4eea2d2374ba749d344d276a37d4ab814dd40515e3f3131f4f70631e0097892060a314"},{"fileName":"containerbase.tar.xz","algo":"Sha512","source":"containerbase.tar.xz.sha512","hash":"e0414c4b341bf1045f80e9d462b191cfb38783b40c59654466dd14046dd5b38b33caf5c0907b42fc2cbedefabe444837e3262a4d34af98de32ba024e41cff6e9"},{"fileName":"containerbase-cli-arm64","algo":"Sha512","source":"containerbase-cli-arm64.sha512","hash":"944ac178c51872439dbe2e29f15612f0d36bcbddbdd99758b46580c4e093e1a5a023979d11305a9f13fb473bec2af7d1487f5ea67d4951a6df6bf715e2afa68f"}]}
+{
+  "mirroredOn": "2024-11-05T16:12:28.1603329+00:00",
+  "publishedOn": "2024-11-05T15:35:29+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "containerbase-cli-amd64",
+      "algo": "Sha512",
+      "source": "containerbase-cli-amd64.sha512",
+      "hash": "4985041a0b6640f3d36de4e1f0b03687da743f4c8256ab0cd93ddeefaa4eea2d2374ba749d344d276a37d4ab814dd40515e3f3131f4f70631e0097892060a314"
+    },
+    {
+      "fileName": "containerbase.tar.xz",
+      "algo": "Sha512",
+      "source": "containerbase.tar.xz.sha512",
+      "hash": "e0414c4b341bf1045f80e9d462b191cfb38783b40c59654466dd14046dd5b38b33caf5c0907b42fc2cbedefabe444837e3262a4d34af98de32ba024e41cff6e9"
+    },
+    {
+      "fileName": "containerbase-cli-arm64",
+      "algo": "Sha512",
+      "source": "containerbase-cli-arm64.sha512",
+      "hash": "944ac178c51872439dbe2e29f15612f0d36bcbddbdd99758b46580c4e093e1a5a023979d11305a9f13fb473bec2af7d1487f5ea67d4951a6df6bf715e2afa68f"
+    }
+  ]
+}

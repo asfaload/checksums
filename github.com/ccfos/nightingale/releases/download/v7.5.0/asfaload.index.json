@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"n9e-v7.5.0-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"297295b2a1948816fec1968e341ae60fc37e21850b510fbae60e51edf249af26"},{"fileName":"n9e-v7.5.0-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6d494c77b0d4dac29436cedf4ffb3a936caeaeeffc9d1a9384c73585df594fde"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "n9e-v7.5.0-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "297295b2a1948816fec1968e341ae60fc37e21850b510fbae60e51edf249af26"
+    },
+    {
+      "fileName": "n9e-v7.5.0-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6d494c77b0d4dac29436cedf4ffb3a936caeaeeffc9d1a9384c73585df594fde"
+    }
+  ]
+}

@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"dwh-migration-tools-v1.0.64.zip","algo":"Sha256","source":"SHA256SUMS.txt","hash":"5657b2bb83b706313cf241d4aba8ed173181af0ceca02c32d0e5b448946eec7c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "dwh-migration-tools-v1.0.64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS.txt",
+      "hash": "5657b2bb83b706313cf241d4aba8ed173181af0ceca02c32d0e5b448946eec7c"
+    }
+  ]
+}

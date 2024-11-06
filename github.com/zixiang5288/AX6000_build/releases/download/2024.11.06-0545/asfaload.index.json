@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T21:45:25+00:00","publishedOn":"2024-11-05T21:47:05.3329706+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"9b23e6bd4f58e0476868b6dd2d8ec53219b4b5cc71a0411321cbadc0a09517a9"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"e8778e098cb396dbcb93f259b31ff690f116583cc675dcf4380a71a705b659b7"},{"fileName":"immortalwrt-mediatek-mt7986-xiaomi_redmi-router-ax6000-initramfs-kernel.bin","algo":"Sha256","source":"sha256sums","hash":"e82b20faed68d7190b7d7916373b672fa15705d655fb157ce18ccaa7232d928b"},{"fileName":"immortalwrt-mediatek-mt7986-xiaomi_redmi-router-ax6000-squashfs-factory.bin","algo":"Sha256","source":"sha256sums","hash":"469e81c9bd7dee7bbaefa4a15278a967c612b0cc4387beaa43e62a062b71cd41"},{"fileName":"immortalwrt-mediatek-mt7986-xiaomi_redmi-router-ax6000-squashfs-sysupgrade.bin","algo":"Sha256","source":"sha256sums","hash":"721d716be15639acf61f87f186b8298dd766f5c3a53221358da0785fd4d84ac0"},{"fileName":"immortalwrt-mediatek-mt7986-xiaomi_redmi-router-ax6000.manifest","algo":"Sha256","source":"sha256sums","hash":"ad8e26c53f91badb9724f8625adb66a541d8d9b2fb768d88aa58da8275129335"},{"fileName":"profiles.json","algo":"Sha256","source":"sha256sums","hash":"21e882c3d0fbf83687944ef8602d77073976a0f8879c215b4b52a3a60f27ae35"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"a892309d0ec3ebd7b08708165e0813ba209a6db986f7a7af338ab243aea1ce5f"}]}
+{
+  "mirroredOn": "2024-11-05T21:47:05.3329706+00:00",
+  "publishedOn": "2024-11-05T21:45:25+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "9b23e6bd4f58e0476868b6dd2d8ec53219b4b5cc71a0411321cbadc0a09517a9"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "e8778e098cb396dbcb93f259b31ff690f116583cc675dcf4380a71a705b659b7"
+    },
+    {
+      "fileName": "immortalwrt-mediatek-mt7986-xiaomi_redmi-router-ax6000-initramfs-kernel.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "e82b20faed68d7190b7d7916373b672fa15705d655fb157ce18ccaa7232d928b"
+    },
+    {
+      "fileName": "immortalwrt-mediatek-mt7986-xiaomi_redmi-router-ax6000-squashfs-factory.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "469e81c9bd7dee7bbaefa4a15278a967c612b0cc4387beaa43e62a062b71cd41"
+    },
+    {
+      "fileName": "immortalwrt-mediatek-mt7986-xiaomi_redmi-router-ax6000-squashfs-sysupgrade.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "721d716be15639acf61f87f186b8298dd766f5c3a53221358da0785fd4d84ac0"
+    },
+    {
+      "fileName": "immortalwrt-mediatek-mt7986-xiaomi_redmi-router-ax6000.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "ad8e26c53f91badb9724f8625adb66a541d8d9b2fb768d88aa58da8275129335"
+    },
+    {
+      "fileName": "profiles.json",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "21e882c3d0fbf83687944ef8602d77073976a0f8879c215b4b52a3a60f27ae35"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "a892309d0ec3ebd7b08708165e0813ba209a6db986f7a7af338ab243aea1ce5f"
+    }
+  ]
+}

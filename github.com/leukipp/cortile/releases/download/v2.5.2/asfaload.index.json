@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cortile_2.5.2_freebsd_386.tar.gz","algo":"Sha256","source":"cortile_2.5.2_checksums.txt","hash":"0f1fa60530989ada13f9703cb3d6b0d1609d183667d12dd658576b065ab90ad3"},{"fileName":"cortile_2.5.2_freebsd_amd64.tar.gz","algo":"Sha256","source":"cortile_2.5.2_checksums.txt","hash":"7066d739c89157c912dbc04af815d3a25902cc59359cf6e500af085cfc55b9d3"},{"fileName":"cortile_2.5.2_freebsd_arm.tar.gz","algo":"Sha256","source":"cortile_2.5.2_checksums.txt","hash":"c800d6fc2387175d529b18ae82b7c0fb5796a57174dc55ba7aba4762ce51987d"},{"fileName":"cortile_2.5.2_freebsd_arm64.tar.gz","algo":"Sha256","source":"cortile_2.5.2_checksums.txt","hash":"c95827b4d60e6ee6d1227ad5ec9177c3a6adcd9f835bc6244ead7b95e6752dd3"},{"fileName":"cortile_2.5.2_linux_386.tar.gz","algo":"Sha256","source":"cortile_2.5.2_checksums.txt","hash":"891e1230bd04e354a7d93d31445f3c8321e3209b7931fbfc00a21e03ca63e603"},{"fileName":"cortile_2.5.2_linux_amd64.tar.gz","algo":"Sha256","source":"cortile_2.5.2_checksums.txt","hash":"dcc104bb2dbdf5596b6de5e578b8988347200759ca5c1134f9d0bec3b19ef3dd"},{"fileName":"cortile_2.5.2_linux_arm.tar.gz","algo":"Sha256","source":"cortile_2.5.2_checksums.txt","hash":"444c60a7adbd2cbde89b73a9bb5d521c017c999cffa0413a93fb48881d96b3e8"},{"fileName":"cortile_2.5.2_linux_arm64.tar.gz","algo":"Sha256","source":"cortile_2.5.2_checksums.txt","hash":"acebab88ef9e2301a25ce754838b3e8a5f6d800312436e871f2fad73b6f6fc9a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cortile_2.5.2_freebsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "cortile_2.5.2_checksums.txt",
+      "hash": "0f1fa60530989ada13f9703cb3d6b0d1609d183667d12dd658576b065ab90ad3"
+    },
+    {
+      "fileName": "cortile_2.5.2_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cortile_2.5.2_checksums.txt",
+      "hash": "7066d739c89157c912dbc04af815d3a25902cc59359cf6e500af085cfc55b9d3"
+    },
+    {
+      "fileName": "cortile_2.5.2_freebsd_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "cortile_2.5.2_checksums.txt",
+      "hash": "c800d6fc2387175d529b18ae82b7c0fb5796a57174dc55ba7aba4762ce51987d"
+    },
+    {
+      "fileName": "cortile_2.5.2_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cortile_2.5.2_checksums.txt",
+      "hash": "c95827b4d60e6ee6d1227ad5ec9177c3a6adcd9f835bc6244ead7b95e6752dd3"
+    },
+    {
+      "fileName": "cortile_2.5.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "cortile_2.5.2_checksums.txt",
+      "hash": "891e1230bd04e354a7d93d31445f3c8321e3209b7931fbfc00a21e03ca63e603"
+    },
+    {
+      "fileName": "cortile_2.5.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cortile_2.5.2_checksums.txt",
+      "hash": "dcc104bb2dbdf5596b6de5e578b8988347200759ca5c1134f9d0bec3b19ef3dd"
+    },
+    {
+      "fileName": "cortile_2.5.2_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "cortile_2.5.2_checksums.txt",
+      "hash": "444c60a7adbd2cbde89b73a9bb5d521c017c999cffa0413a93fb48881d96b3e8"
+    },
+    {
+      "fileName": "cortile_2.5.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cortile_2.5.2_checksums.txt",
+      "hash": "acebab88ef9e2301a25ce754838b3e8a5f6d800312436e871f2fad73b6f6fc9a"
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"navecd_controller_linux_x86_64.tar.gz","algo":"Sha256","source":"navecd_0.26.2_checksums.txt","hash":"fa9dfd332342829b3909749e44d36858eb20213263c6ef4cde0cb0da3efa0927"},{"fileName":"navecd_darwin_arm64.tar.gz","algo":"Sha256","source":"navecd_0.26.2_checksums.txt","hash":"9f76cdb731b19f4065d0150cc577b38ac2992fdf6163315bb6349c3191674d27"},{"fileName":"navecd_darwin_x86_64.tar.gz","algo":"Sha256","source":"navecd_0.26.2_checksums.txt","hash":"68282cf59861931c77abe7dffb771c516a7d878d41c5f09dc4a4e79fa012afa2"},{"fileName":"navecd_linux_arm64.tar.gz","algo":"Sha256","source":"navecd_0.26.2_checksums.txt","hash":"699a9d3cd105f4723aa73df9f229946135e9dad5eaa64ad3d73d3629d8fdc95d"},{"fileName":"navecd_linux_x86_64.tar.gz","algo":"Sha256","source":"navecd_0.26.2_checksums.txt","hash":"c7d594afa78b6f8b68860b25ac8737976fe33611c67c386996008ecfd10f376e"},{"fileName":"navecd_windows_arm64.zip","algo":"Sha256","source":"navecd_0.26.2_checksums.txt","hash":"099c390b68812b283f3d6cec2d57a924b5d420acff163aadf5da201a4bd66b24"},{"fileName":"navecd_windows_x86_64.zip","algo":"Sha256","source":"navecd_0.26.2_checksums.txt","hash":"f31d2dda07494ac8e359eff3f73b993829432433ae5b1802cbf9c89c0ef77aa7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "navecd_controller_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "navecd_0.26.2_checksums.txt",
+      "hash": "fa9dfd332342829b3909749e44d36858eb20213263c6ef4cde0cb0da3efa0927"
+    },
+    {
+      "fileName": "navecd_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "navecd_0.26.2_checksums.txt",
+      "hash": "9f76cdb731b19f4065d0150cc577b38ac2992fdf6163315bb6349c3191674d27"
+    },
+    {
+      "fileName": "navecd_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "navecd_0.26.2_checksums.txt",
+      "hash": "68282cf59861931c77abe7dffb771c516a7d878d41c5f09dc4a4e79fa012afa2"
+    },
+    {
+      "fileName": "navecd_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "navecd_0.26.2_checksums.txt",
+      "hash": "699a9d3cd105f4723aa73df9f229946135e9dad5eaa64ad3d73d3629d8fdc95d"
+    },
+    {
+      "fileName": "navecd_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "navecd_0.26.2_checksums.txt",
+      "hash": "c7d594afa78b6f8b68860b25ac8737976fe33611c67c386996008ecfd10f376e"
+    },
+    {
+      "fileName": "navecd_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "navecd_0.26.2_checksums.txt",
+      "hash": "099c390b68812b283f3d6cec2d57a924b5d420acff163aadf5da201a4bd66b24"
+    },
+    {
+      "fileName": "navecd_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "navecd_0.26.2_checksums.txt",
+      "hash": "f31d2dda07494ac8e359eff3f73b993829432433ae5b1802cbf9c89c0ef77aa7"
+    }
+  ]
+}

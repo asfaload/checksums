@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"score-k8s_0.1.13_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a8afd979841b2b3c27686e9d7da11b2d78c3861390f0dbc0a20502a88886c070"},{"fileName":"score-k8s_0.1.13_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6987a85d63b13cda051489614248e0c9ae9ac81509d9a5adb7071038fc12fc95"},{"fileName":"score-k8s_0.1.13_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5857348f69aa3237578699b959f6bb3b751e86876297e345433f096dff912814"},{"fileName":"score-k8s_0.1.13_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"078047ed7b0f63b889156c82c4fb27583311c8eabc90786cc919277a9fd66380"},{"fileName":"score-k8s_0.1.13_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"66492871ce9b4e1f38ee3ddafaa64255c4759e24dfd4698c8a9bec600dd3426a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "score-k8s_0.1.13_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a8afd979841b2b3c27686e9d7da11b2d78c3861390f0dbc0a20502a88886c070"
+    },
+    {
+      "fileName": "score-k8s_0.1.13_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6987a85d63b13cda051489614248e0c9ae9ac81509d9a5adb7071038fc12fc95"
+    },
+    {
+      "fileName": "score-k8s_0.1.13_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5857348f69aa3237578699b959f6bb3b751e86876297e345433f096dff912814"
+    },
+    {
+      "fileName": "score-k8s_0.1.13_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "078047ed7b0f63b889156c82c4fb27583311c8eabc90786cc919277a9fd66380"
+    },
+    {
+      "fileName": "score-k8s_0.1.13_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "66492871ce9b4e1f38ee3ddafaa64255c4759e24dfd4698c8a9bec600dd3426a"
+    }
+  ]
+}

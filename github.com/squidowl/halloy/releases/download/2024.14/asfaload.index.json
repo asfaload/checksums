@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"halloy-2024.14-x86_64-linux.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f5c80e2ee5df3b18052d9db4482a71346a1af29cbe37e451c9a92276f2e4cc87"},{"fileName":"halloy.dmg","algo":"Sha256","source":"checksums.txt","hash":"09a549b0f909c7c482aeb2478e377a39d73f488dddfda3cc44cf59b6f98aedb2"},{"fileName":"halloy-installer.msi","algo":"Sha256","source":"checksums.txt","hash":"d88f204a6e80e65c1e79edd7453673ce386716dcfb20296f618678b59a9c6347"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "halloy-2024.14-x86_64-linux.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f5c80e2ee5df3b18052d9db4482a71346a1af29cbe37e451c9a92276f2e4cc87"
+    },
+    {
+      "fileName": "halloy.dmg",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "09a549b0f909c7c482aeb2478e377a39d73f488dddfda3cc44cf59b6f98aedb2"
+    },
+    {
+      "fileName": "halloy-installer.msi",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d88f204a6e80e65c1e79edd7453673ce386716dcfb20296f618678b59a9c6347"
+    }
+  ]
+}

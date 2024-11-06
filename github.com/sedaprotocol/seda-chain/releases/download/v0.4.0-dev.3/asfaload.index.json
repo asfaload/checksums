@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"build/sedad-amd64","algo":"Sha256","source":"checksum.txt","hash":"b25d10f109b6a740a4fd36a0079ddbd8954d0f47bb2dc8c6be39d94d7bdbd179"},{"fileName":"build/sedad-arm64","algo":"Sha256","source":"checksum.txt","hash":"97bfcae985f0bcaf1c39bfe96a76d42926735237e34ba27b94c1c839effef810"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "build/sedad-amd64",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "b25d10f109b6a740a4fd36a0079ddbd8954d0f47bb2dc8c6be39d94d7bdbd179"
+    },
+    {
+      "fileName": "build/sedad-arm64",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "97bfcae985f0bcaf1c39bfe96a76d42926735237e34ba27b94c1c839effef810"
+    }
+  ]
+}

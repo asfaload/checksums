@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"Iconic-Release.tar.xz","algo":"Sha256","source":"Iconic-Release.tar.xz.sha256sum","hash":"c8fa0e94a268c5b5e0101f010ae1133c390811455cc7885d42e2cbaa436b1520"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "Iconic-Release.tar.xz",
+      "algo": "Sha256",
+      "source": "Iconic-Release.tar.xz.sha256sum",
+      "hash": "c8fa0e94a268c5b5e0101f010ae1133c390811455cc7885d42e2cbaa436b1520"
+    }
+  ]
+}

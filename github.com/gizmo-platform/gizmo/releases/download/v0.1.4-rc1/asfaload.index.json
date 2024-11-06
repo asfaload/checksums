@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gizmo_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5f40cdf21ea45d776606c0a53e7803f6a6cf6f4a00c01f41dd1c461448370284"},{"fileName":"gizmo_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4c856515298f689aa45e78af20f07a36470dc789ec34c3053ac47c451e4f8272"},{"fileName":"gizmo_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9baccbe1288f0625f3cc4dd670e5c0130491c1eca7f3899985c1275636c06a66"},{"fileName":"gizmo_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"f947e005ed522d0b0ad42cf89457bfb76fa6d29c2abd9a36f46f8c5c00bbfdb9"},{"fileName":"gizmo_Windows_i386.zip","algo":"Sha256","source":"checksums.txt","hash":"7613143f12beaf083952b3a8d7974a07321cc8a2ae1a71fc88bd369572b1f003"},{"fileName":"gizmo_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"7878e3d1b044ab3a0009042cfd45cc14f7e1ec7489a86f8e569398246db3cfe1"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gizmo_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5f40cdf21ea45d776606c0a53e7803f6a6cf6f4a00c01f41dd1c461448370284"
+    },
+    {
+      "fileName": "gizmo_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4c856515298f689aa45e78af20f07a36470dc789ec34c3053ac47c451e4f8272"
+    },
+    {
+      "fileName": "gizmo_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9baccbe1288f0625f3cc4dd670e5c0130491c1eca7f3899985c1275636c06a66"
+    },
+    {
+      "fileName": "gizmo_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f947e005ed522d0b0ad42cf89457bfb76fa6d29c2abd9a36f46f8c5c00bbfdb9"
+    },
+    {
+      "fileName": "gizmo_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7613143f12beaf083952b3a8d7974a07321cc8a2ae1a71fc88bd369572b1f003"
+    },
+    {
+      "fileName": "gizmo_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7878e3d1b044ab3a0009042cfd45cc14f7e1ec7489a86f8e569398246db3cfe1"
+    }
+  ]
+}

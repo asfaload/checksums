@@ -1,1 +1,157 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"carapace-bin_1.0.7_android_386.termux.deb","algo":"Sha256","source":"checksums.txt","hash":"aa6eb90bb0ccc3395e44757ee0e87675a52a6411c6d771d091eafed745e1204e"},{"fileName":"carapace-bin_1.0.7_android_amd64.termux.deb","algo":"Sha256","source":"checksums.txt","hash":"9ee947cd53caad30af7d812c6cf6fd8a23cb42cc4a202ff8eda13ef355ed80ba"},{"fileName":"carapace-bin_1.0.7_android_arm64.termux.deb","algo":"Sha256","source":"checksums.txt","hash":"781322f3c48a3546d9ed05d1f4f4abd615d5c6ced9916f50a03079229d79c8ce"},{"fileName":"carapace-bin_1.0.7_android_armv6.termux.deb","algo":"Sha256","source":"checksums.txt","hash":"aa0b63860892b2645b557bea87abfd39780da28ce70be7a1ce052d499f87d59a"},{"fileName":"carapace-bin_1.0.7_linux_386.apk","algo":"Sha256","source":"checksums.txt","hash":"98eded30efb323bf1bb7bcfebf4cc6706b752ac868fdad24696fa92e5033cc64"},{"fileName":"carapace-bin_1.0.7_linux_386.deb","algo":"Sha256","source":"checksums.txt","hash":"5328b3cfc8da1d6cd10af0778fdd0116cca4025dbb7f12ff911b547b21adb202"},{"fileName":"carapace-bin_1.0.7_linux_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"f06e52d272f1c5343741fd3cd95677a707200cc0de1bfde30bb4acf5a7b3b814"},{"fileName":"carapace-bin_1.0.7_linux_amd64.apk","algo":"Sha256","source":"checksums.txt","hash":"9dad880ea06cf82a3ca3b8b4d1d225e63db29cd4513e820d06b888076f0361c0"},{"fileName":"carapace-bin_1.0.7_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"9eb727cde5be961998a027f3ecc07db1fa9d56906a7daeb7ac0a6bb0c51b3257"},{"fileName":"carapace-bin_1.0.7_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"022df76450f93d13193f55af7e7a8b23c11f269a60883da036706dc567f9a5a9"},{"fileName":"carapace-bin_1.0.7_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"dff3072d6202e1f7ceee44452a67a0688612ca3d6c9eb2c717afb06dc5fa4f2f"},{"fileName":"carapace-bin_1.0.7_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"568203f99ca50956db4305bc6bc939448f756c6926ff8b7fb19e62cec395dfe3"},{"fileName":"carapace-bin_1.0.7_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"227ffc7c9a5dadeae4b551e2442959289c86648cb73d3a5df13ce5e11272a111"},{"fileName":"carapace-bin_android_386.termux.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1b600c1c9f0d4a21d5c4fc143a83b213f9587c824115c941d5aec59e4e919660"},{"fileName":"carapace-bin_android_amd64.termux.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"894fdaced7d4580e1ffd84a45a51d1d77f6a01dce406f303258357a0d3492645"},{"fileName":"carapace-bin_android_arm64.termux.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"203ee547c2fadc4b258d22f06e98ae22abcdbe1040f21a2e63a08404b27e686a"},{"fileName":"carapace-bin_android_armv6.termux.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c49a14ab6e6845117e4813e783f13508e2df325a49e1886a9cec206a2c29da21"},{"fileName":"carapace-bin_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0d45a8a87e09af34d9ad52bb3b9de0e947efa7f6f18ba1c5754f076e3c19b6d9"},{"fileName":"carapace-bin_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bf401dcfd9efcefe22dfd712379e93938c989b807d2cc555077379720c97a752"},{"fileName":"carapace-bin_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"cc22d1b2dc118f1c01bd7b9a48500e773adf492903aa152e74de853641382bb9"},{"fileName":"carapace-bin_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9818b078e8524ee99d869b3323ec50b88f3549fdbaadc3e83913aa366d18d40f"},{"fileName":"carapace-bin_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"434df392364d1103198d61363c28612df8bf5f60571d28b0db9a97100402e3c3"},{"fileName":"carapace-bin_windows_386.zip","algo":"Sha256","source":"checksums.txt","hash":"b3b0eed7758fa794e308221b794416009b0c10f16a552c6f048425b80818fc44"},{"fileName":"carapace-bin_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"d626f3a4e1fc8b0136c5685bbf2b284820aa027dcd3a184bacb5bcc62a19c541"},{"fileName":"carapace-bin_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"c093f17b893cc108a63b92d9592629ddaee27c12599e1fa11eecc1588768c039"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "carapace-bin_1.0.7_android_386.termux.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aa6eb90bb0ccc3395e44757ee0e87675a52a6411c6d771d091eafed745e1204e"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_android_amd64.termux.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9ee947cd53caad30af7d812c6cf6fd8a23cb42cc4a202ff8eda13ef355ed80ba"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_android_arm64.termux.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "781322f3c48a3546d9ed05d1f4f4abd615d5c6ced9916f50a03079229d79c8ce"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_android_armv6.termux.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aa0b63860892b2645b557bea87abfd39780da28ce70be7a1ce052d499f87d59a"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_linux_386.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "98eded30efb323bf1bb7bcfebf4cc6706b752ac868fdad24696fa92e5033cc64"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_linux_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5328b3cfc8da1d6cd10af0778fdd0116cca4025dbb7f12ff911b547b21adb202"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f06e52d272f1c5343741fd3cd95677a707200cc0de1bfde30bb4acf5a7b3b814"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9dad880ea06cf82a3ca3b8b4d1d225e63db29cd4513e820d06b888076f0361c0"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9eb727cde5be961998a027f3ecc07db1fa9d56906a7daeb7ac0a6bb0c51b3257"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "022df76450f93d13193f55af7e7a8b23c11f269a60883da036706dc567f9a5a9"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dff3072d6202e1f7ceee44452a67a0688612ca3d6c9eb2c717afb06dc5fa4f2f"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "568203f99ca50956db4305bc6bc939448f756c6926ff8b7fb19e62cec395dfe3"
+    },
+    {
+      "fileName": "carapace-bin_1.0.7_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "227ffc7c9a5dadeae4b551e2442959289c86648cb73d3a5df13ce5e11272a111"
+    },
+    {
+      "fileName": "carapace-bin_android_386.termux.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1b600c1c9f0d4a21d5c4fc143a83b213f9587c824115c941d5aec59e4e919660"
+    },
+    {
+      "fileName": "carapace-bin_android_amd64.termux.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "894fdaced7d4580e1ffd84a45a51d1d77f6a01dce406f303258357a0d3492645"
+    },
+    {
+      "fileName": "carapace-bin_android_arm64.termux.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "203ee547c2fadc4b258d22f06e98ae22abcdbe1040f21a2e63a08404b27e686a"
+    },
+    {
+      "fileName": "carapace-bin_android_armv6.termux.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c49a14ab6e6845117e4813e783f13508e2df325a49e1886a9cec206a2c29da21"
+    },
+    {
+      "fileName": "carapace-bin_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0d45a8a87e09af34d9ad52bb3b9de0e947efa7f6f18ba1c5754f076e3c19b6d9"
+    },
+    {
+      "fileName": "carapace-bin_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bf401dcfd9efcefe22dfd712379e93938c989b807d2cc555077379720c97a752"
+    },
+    {
+      "fileName": "carapace-bin_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cc22d1b2dc118f1c01bd7b9a48500e773adf492903aa152e74de853641382bb9"
+    },
+    {
+      "fileName": "carapace-bin_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9818b078e8524ee99d869b3323ec50b88f3549fdbaadc3e83913aa366d18d40f"
+    },
+    {
+      "fileName": "carapace-bin_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "434df392364d1103198d61363c28612df8bf5f60571d28b0db9a97100402e3c3"
+    },
+    {
+      "fileName": "carapace-bin_windows_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b3b0eed7758fa794e308221b794416009b0c10f16a552c6f048425b80818fc44"
+    },
+    {
+      "fileName": "carapace-bin_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d626f3a4e1fc8b0136c5685bbf2b284820aa027dcd3a184bacb5bcc62a19c541"
+    },
+    {
+      "fileName": "carapace-bin_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c093f17b893cc108a63b92d9592629ddaee27c12599e1fa11eecc1588768c039"
+    }
+  ]
+}

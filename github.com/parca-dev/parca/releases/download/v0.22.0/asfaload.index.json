@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"parca-0.22.0.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0b46262ead548552b8b18add87fce268a1fc7c2fb8e3db9360a71c75eb440d35"},{"fileName":"parca_0.22.0_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3800a91638eac21ed5447d4051e455bc55086bd80cb4fe9b8ea329388316f390"},{"fileName":"parca_0.22.0_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d936aab90eb1b743ce4ba670d07bf484201a33590bd366d0aabd3458a73aec03"},{"fileName":"parca_0.22.0_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1a7cb4e27e7e446ce455eb286cd125ef4ae0f167c9f73f257d4f2c2acbe06786"},{"fileName":"parca_0.22.0_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4a6722b8493c2e2746ad8ff168e1cff08bf87912c2ed85e2ad4d74eb03608b6b"},{"fileName":"parca_0.22.0_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"00e97e0b0b43f20db3053afa2e832d6448824f6ba698dfe779ba27b8b4637f2c"},{"fileName":"parca_0.22.0_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"9535fbc1683c907b44c383dc90f7ba4df721b506987a869e243d7ccfc372a1db"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "parca-0.22.0.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0b46262ead548552b8b18add87fce268a1fc7c2fb8e3db9360a71c75eb440d35"
+    },
+    {
+      "fileName": "parca_0.22.0_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3800a91638eac21ed5447d4051e455bc55086bd80cb4fe9b8ea329388316f390"
+    },
+    {
+      "fileName": "parca_0.22.0_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d936aab90eb1b743ce4ba670d07bf484201a33590bd366d0aabd3458a73aec03"
+    },
+    {
+      "fileName": "parca_0.22.0_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1a7cb4e27e7e446ce455eb286cd125ef4ae0f167c9f73f257d4f2c2acbe06786"
+    },
+    {
+      "fileName": "parca_0.22.0_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4a6722b8493c2e2746ad8ff168e1cff08bf87912c2ed85e2ad4d74eb03608b6b"
+    },
+    {
+      "fileName": "parca_0.22.0_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "00e97e0b0b43f20db3053afa2e832d6448824f6ba698dfe779ba27b8b4637f2c"
+    },
+    {
+      "fileName": "parca_0.22.0_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9535fbc1683c907b44c383dc90f7ba4df721b506987a869e243d7ccfc372a1db"
+    }
+  ]
+}

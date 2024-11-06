@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"go-blueprint_0.8.2_Darwin_all.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b2869d16242928f4207bf32d89fc0cefc4abc5a752fd0be185d24d3caae0c660"},{"fileName":"go-blueprint_0.8.2_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7028544a461a737a6d73212223e8e3360bfc033da36b913955e23cdd5274ae33"},{"fileName":"go-blueprint_0.8.2_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3e3dfee1bea9d81f08fe6489e89f89be8f3ab25820b8d2c7fcb6532bbba1a83d"},{"fileName":"go-blueprint_0.8.2_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"a03fd9f46213ada9635b29ca28bbcf968b5fda5547868f0a50a3e01ead6145e4"},{"fileName":"go-blueprint_0.8.2_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"b06625e342b713a3b980c0deed7c71cbedee02a4ae14c9f694bdaea66f8f8a43"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "go-blueprint_0.8.2_Darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b2869d16242928f4207bf32d89fc0cefc4abc5a752fd0be185d24d3caae0c660"
+    },
+    {
+      "fileName": "go-blueprint_0.8.2_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7028544a461a737a6d73212223e8e3360bfc033da36b913955e23cdd5274ae33"
+    },
+    {
+      "fileName": "go-blueprint_0.8.2_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3e3dfee1bea9d81f08fe6489e89f89be8f3ab25820b8d2c7fcb6532bbba1a83d"
+    },
+    {
+      "fileName": "go-blueprint_0.8.2_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a03fd9f46213ada9635b29ca28bbcf968b5fda5547868f0a50a3e01ead6145e4"
+    },
+    {
+      "fileName": "go-blueprint_0.8.2_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b06625e342b713a3b980c0deed7c71cbedee02a4ae14c9f694bdaea66f8f8a43"
+    }
+  ]
+}

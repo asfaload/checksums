@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"wholeoverride_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"229714e6dc3fbe8ad6065cac33d1dc48fb7580503dd170bb1f05122833e4fc6a"},{"fileName":"wholeoverride_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e415e0442abcc6c13a4f726b87363a20d2df4cd74b80a9e52ba3178d02857959"},{"fileName":"wholeoverride_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"7da22915168c64f9feff9ddd3074c8e37509d789881df5501e7650ebde6f6513"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "wholeoverride_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "229714e6dc3fbe8ad6065cac33d1dc48fb7580503dd170bb1f05122833e4fc6a"
+    },
+    {
+      "fileName": "wholeoverride_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e415e0442abcc6c13a4f726b87363a20d2df4cd74b80a9e52ba3178d02857959"
+    },
+    {
+      "fileName": "wholeoverride_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7da22915168c64f9feff9ddd3074c8e37509d789881df5501e7650ebde6f6513"
+    }
+  ]
+}

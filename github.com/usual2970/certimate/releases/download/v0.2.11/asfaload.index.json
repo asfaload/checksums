@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"certimate_0.2.11_darwin_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"2bbcef7ac4b3338c1b0c500745914acf116fef7b1c608f336729860821966c2d"},{"fileName":"certimate_0.2.11_darwin_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"7bed4a232ff862c163f63c957445d34bc0b82415044f79ab30747fdad79bc9a7"},{"fileName":"certimate_0.2.11_linux_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"d00918b03f0d88b858a6167263ef408ba02f47f0eb944a0381b541dd40ba4db8"},{"fileName":"certimate_0.2.11_linux_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"e1df039eb0058ad35e55de9c358eb1fbdf90c1e9cc1686212404379b1145d75b"},{"fileName":"certimate_0.2.11_linux_armv7.zip","algo":"Sha256","source":"checksums.txt","hash":"0975a66f7485c936e81dda13fdbeb43faebafa1deeb86d9278977918b0da46c1"},{"fileName":"certimate_0.2.11_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"3bd83066026d206e7692722c57fe1e9dc408ef07d0c882c0dd3093dd61002f68"},{"fileName":"certimate_0.2.11_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"dcc39aa3e5df985286d7975bbad6eb43aa79647ed6e3162061ab97de4e44b2e6"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "certimate_0.2.11_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2bbcef7ac4b3338c1b0c500745914acf116fef7b1c608f336729860821966c2d"
+    },
+    {
+      "fileName": "certimate_0.2.11_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7bed4a232ff862c163f63c957445d34bc0b82415044f79ab30747fdad79bc9a7"
+    },
+    {
+      "fileName": "certimate_0.2.11_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d00918b03f0d88b858a6167263ef408ba02f47f0eb944a0381b541dd40ba4db8"
+    },
+    {
+      "fileName": "certimate_0.2.11_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e1df039eb0058ad35e55de9c358eb1fbdf90c1e9cc1686212404379b1145d75b"
+    },
+    {
+      "fileName": "certimate_0.2.11_linux_armv7.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0975a66f7485c936e81dda13fdbeb43faebafa1deeb86d9278977918b0da46c1"
+    },
+    {
+      "fileName": "certimate_0.2.11_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3bd83066026d206e7692722c57fe1e9dc408ef07d0c882c0dd3093dd61002f68"
+    },
+    {
+      "fileName": "certimate_0.2.11_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dcc39aa3e5df985286d7975bbad6eb43aa79647ed6e3162061ab97de4e44b2e6"
+    }
+  ]
+}

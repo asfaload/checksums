@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"traQ_3.20.1_darwin_amd64.tar.gz","algo":"Sha256","source":"traQ_3.20.1_checksums.txt","hash":"04ef7a01de827dd9eb5293e38b58a887a884ac610318675aa9b87de2b0a8cde0"},{"fileName":"traQ_3.20.1_darwin_arm64.tar.gz","algo":"Sha256","source":"traQ_3.20.1_checksums.txt","hash":"320324c10208f1864df8de4532cc6df081434afb22367410dc7d1711c052441e"},{"fileName":"traQ_3.20.1_linux_amd64.tar.gz","algo":"Sha256","source":"traQ_3.20.1_checksums.txt","hash":"fe586247f71b02b910a7059eb25b612c19664e320db2218069a7e854e6410675"},{"fileName":"traQ_3.20.1_linux_arm64.tar.gz","algo":"Sha256","source":"traQ_3.20.1_checksums.txt","hash":"48cea766f70894a717abce83fdd6e5b0087487b7d1df64cfa0df278bff64d6f0"},{"fileName":"traQ_3.20.1_windows_amd64.tar.gz","algo":"Sha256","source":"traQ_3.20.1_checksums.txt","hash":"14a48cd3360cc17f1a0070421a070080ac634e442621d18d10439f53e15b62f0"},{"fileName":"traQ_3.20.1_windows_arm64.tar.gz","algo":"Sha256","source":"traQ_3.20.1_checksums.txt","hash":"ccffc43716662ff8c87d504ce483826e77c09a8fba6cf0dfa4236b7f2ec793f6"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "traQ_3.20.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "traQ_3.20.1_checksums.txt",
+      "hash": "04ef7a01de827dd9eb5293e38b58a887a884ac610318675aa9b87de2b0a8cde0"
+    },
+    {
+      "fileName": "traQ_3.20.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "traQ_3.20.1_checksums.txt",
+      "hash": "320324c10208f1864df8de4532cc6df081434afb22367410dc7d1711c052441e"
+    },
+    {
+      "fileName": "traQ_3.20.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "traQ_3.20.1_checksums.txt",
+      "hash": "fe586247f71b02b910a7059eb25b612c19664e320db2218069a7e854e6410675"
+    },
+    {
+      "fileName": "traQ_3.20.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "traQ_3.20.1_checksums.txt",
+      "hash": "48cea766f70894a717abce83fdd6e5b0087487b7d1df64cfa0df278bff64d6f0"
+    },
+    {
+      "fileName": "traQ_3.20.1_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "traQ_3.20.1_checksums.txt",
+      "hash": "14a48cd3360cc17f1a0070421a070080ac634e442621d18d10439f53e15b62f0"
+    },
+    {
+      "fileName": "traQ_3.20.1_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "traQ_3.20.1_checksums.txt",
+      "hash": "ccffc43716662ff8c87d504ce483826e77c09a8fba6cf0dfa4236b7f2ec793f6"
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cty_darwin_amd64.tar.gz","algo":"Sha256","source":"cty_checksums.txt","hash":"720db209379e7fe9e35a453c59f1d471646f272ba1a497a329a55e4e92e10c5c"},{"fileName":"cty_linux_amd64.tar.gz","algo":"Sha256","source":"cty_checksums.txt","hash":"92c1d65a67b81b5640bdbb05781c2ab52231b927a946f72d18f92bc47ec5e1b6"},{"fileName":"cty_windows_amd64.tar.gz","algo":"Sha256","source":"cty_checksums.txt","hash":"9fc0d78a66a9ed74815d9a6fbdd137ec0541b77e89d0b56c1081bca95bf114d4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cty_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cty_checksums.txt",
+      "hash": "720db209379e7fe9e35a453c59f1d471646f272ba1a497a329a55e4e92e10c5c"
+    },
+    {
+      "fileName": "cty_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cty_checksums.txt",
+      "hash": "92c1d65a67b81b5640bdbb05781c2ab52231b927a946f72d18f92bc47ec5e1b6"
+    },
+    {
+      "fileName": "cty_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cty_checksums.txt",
+      "hash": "9fc0d78a66a9ed74815d9a6fbdd137ec0541b77e89d0b56c1081bca95bf114d4"
+    }
+  ]
+}

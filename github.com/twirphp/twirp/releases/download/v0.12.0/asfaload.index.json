@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"protoc-gen-twirp_php_0.12.0_darwin_amd64.tar.gz","algo":"Sha256","source":"protoc-gen-twirp_php_checksums.txt","hash":"bf3c67b2516030b2cf46b9cf08f3a3216d5a9c357a8a622188d4395f41ef760f"},{"fileName":"protoc-gen-twirp_php_0.12.0_darwin_arm64.tar.gz","algo":"Sha256","source":"protoc-gen-twirp_php_checksums.txt","hash":"488e65da2fe4bec243e7a839efe453fd086e7c3e2ecdd6e086f1fd4e39f6802a"},{"fileName":"protoc-gen-twirp_php_0.12.0_linux_amd64.tar.gz","algo":"Sha256","source":"protoc-gen-twirp_php_checksums.txt","hash":"571d8bfd16590e33130687bbc7d00da2767de4686fb35a4eebd9009b4f0f0aab"},{"fileName":"protoc-gen-twirp_php_0.12.0_linux_arm64.tar.gz","algo":"Sha256","source":"protoc-gen-twirp_php_checksums.txt","hash":"7ae27a2f9ee2a23b683aed71f5de956d2da92a8bbe55c078aa748b8bade70cec"},{"fileName":"protoc-gen-twirp_php_0.12.0_windows_amd64.zip","algo":"Sha256","source":"protoc-gen-twirp_php_checksums.txt","hash":"5c06100fd932bf6c1d59681bddc22aef11b5d8a9d366b9fc3a3691c999b8adc8"},{"fileName":"protoc-gen-twirp_php_0.12.0_windows_arm64.zip","algo":"Sha256","source":"protoc-gen-twirp_php_checksums.txt","hash":"7c9ea61e30b07554db6b2e8eac99932cf0ccd9990617c46ee2f7a637460ae681"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "protoc-gen-twirp_php_0.12.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "protoc-gen-twirp_php_checksums.txt",
+      "hash": "bf3c67b2516030b2cf46b9cf08f3a3216d5a9c357a8a622188d4395f41ef760f"
+    },
+    {
+      "fileName": "protoc-gen-twirp_php_0.12.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "protoc-gen-twirp_php_checksums.txt",
+      "hash": "488e65da2fe4bec243e7a839efe453fd086e7c3e2ecdd6e086f1fd4e39f6802a"
+    },
+    {
+      "fileName": "protoc-gen-twirp_php_0.12.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "protoc-gen-twirp_php_checksums.txt",
+      "hash": "571d8bfd16590e33130687bbc7d00da2767de4686fb35a4eebd9009b4f0f0aab"
+    },
+    {
+      "fileName": "protoc-gen-twirp_php_0.12.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "protoc-gen-twirp_php_checksums.txt",
+      "hash": "7ae27a2f9ee2a23b683aed71f5de956d2da92a8bbe55c078aa748b8bade70cec"
+    },
+    {
+      "fileName": "protoc-gen-twirp_php_0.12.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "protoc-gen-twirp_php_checksums.txt",
+      "hash": "5c06100fd932bf6c1d59681bddc22aef11b5d8a9d366b9fc3a3691c999b8adc8"
+    },
+    {
+      "fileName": "protoc-gen-twirp_php_0.12.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "protoc-gen-twirp_php_checksums.txt",
+      "hash": "7c9ea61e30b07554db6b2e8eac99932cf0ccd9990617c46ee2f7a637460ae681"
+    }
+  ]
+}

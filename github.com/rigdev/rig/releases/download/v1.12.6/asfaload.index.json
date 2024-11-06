@@ -1,1 +1,127 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"rig_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"02711424ac4044fa1b156da9aedb9d8c531111e547405ff92cb351faddb12c05"},{"fileName":"rig-ops_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1105eabe05f9d1a15b778344abe79e165854c0166de741071888b7606159ebed"},{"fileName":"rig-ops_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"189eb33c028812f29574209c45db2c9c2ba4d7b81a1fae17a84c418bb813880e"},{"fileName":"rig_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"23b689d4bca342ad3b9c2d3fb48de2305099bf6b934d73282048c2a40ef7d891"},{"fileName":"rig-ops_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2842a5c3189ba6073fff9723f27b7d6d18e636c87dc7333cd1bcf081b41fe82f"},{"fileName":"rig-operator_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"35aff065f50d8de480f2e5501f55812920022076569df80116b59e2c5265d4a5"},{"fileName":"rig-operator_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"37a9af99b6bd698c2dc13531909b82b5858d01b03bc38f3a75d7b13e0b58e537"},{"fileName":"rig_darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"52ab0330ad2aee58fa32a8c37c252ad25b54b26cd19c311174bb99812842cfe6"},{"fileName":"rig_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"5a2fe13335092f12db9a2212c055e9867c75f26d71741eafc7cc3e1ac1e38800"},{"fileName":"rig-proxy_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"5b85d1b065ead96769eff40b6780462d69e0244fe4111f5312d09d46e0568b6f"},{"fileName":"rig-proxy_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6c0765398210f1f0a2b32b393bffd4ce46d9e2ec5c666c65179667f7f1e87a40"},{"fileName":"rig-proxy_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7cc03eb8853f61ae2072e3c957a44cd86e64eebd99bffc978f39744a50548183"},{"fileName":"rig_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8d61708429e9338cf3e8286e42803b9ab02e738b2fc70154792f2a53319d95b3"},{"fileName":"rig-ops_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"91d31bf71d54a32c8ae0b4a43c2067c65abf5f09cb3200a293deb70dd24b69b1"},{"fileName":"rig_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"96b9c5d9d632e8075420c9e5cf429b73a3dfa881bb906180e619131d8fd1f91e"},{"fileName":"rig-proxy_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a140d3ef9d15b246a1987dfcfe9b91fef4829feeddf9c4792ad8460d8ca32485"},{"fileName":"rig-proxy_darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ad3e3b92bbc914971a3e0c24f1fd0a89a94a8622821734b72c81158abd98380b"},{"fileName":"rig-ops_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ad4e7e0cceee7a47a004deeab74de3a01fb48cd63d94a29017fd7960973f7792"},{"fileName":"rig-ops_darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d2bd4e04ae7750c708b7cb84b62c5383debafddb8519f9b0ad178e61ff02e18b"},{"fileName":"rig-proxy_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"dbfe0fc30d1fccede2b8ddeaa96fcb1d10aa9a7f5761692565dbad460628c75e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "rig_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "02711424ac4044fa1b156da9aedb9d8c531111e547405ff92cb351faddb12c05"
+    },
+    {
+      "fileName": "rig-ops_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1105eabe05f9d1a15b778344abe79e165854c0166de741071888b7606159ebed"
+    },
+    {
+      "fileName": "rig-ops_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "189eb33c028812f29574209c45db2c9c2ba4d7b81a1fae17a84c418bb813880e"
+    },
+    {
+      "fileName": "rig_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "23b689d4bca342ad3b9c2d3fb48de2305099bf6b934d73282048c2a40ef7d891"
+    },
+    {
+      "fileName": "rig-ops_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2842a5c3189ba6073fff9723f27b7d6d18e636c87dc7333cd1bcf081b41fe82f"
+    },
+    {
+      "fileName": "rig-operator_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "35aff065f50d8de480f2e5501f55812920022076569df80116b59e2c5265d4a5"
+    },
+    {
+      "fileName": "rig-operator_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "37a9af99b6bd698c2dc13531909b82b5858d01b03bc38f3a75d7b13e0b58e537"
+    },
+    {
+      "fileName": "rig_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "52ab0330ad2aee58fa32a8c37c252ad25b54b26cd19c311174bb99812842cfe6"
+    },
+    {
+      "fileName": "rig_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5a2fe13335092f12db9a2212c055e9867c75f26d71741eafc7cc3e1ac1e38800"
+    },
+    {
+      "fileName": "rig-proxy_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5b85d1b065ead96769eff40b6780462d69e0244fe4111f5312d09d46e0568b6f"
+    },
+    {
+      "fileName": "rig-proxy_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6c0765398210f1f0a2b32b393bffd4ce46d9e2ec5c666c65179667f7f1e87a40"
+    },
+    {
+      "fileName": "rig-proxy_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7cc03eb8853f61ae2072e3c957a44cd86e64eebd99bffc978f39744a50548183"
+    },
+    {
+      "fileName": "rig_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8d61708429e9338cf3e8286e42803b9ab02e738b2fc70154792f2a53319d95b3"
+    },
+    {
+      "fileName": "rig-ops_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "91d31bf71d54a32c8ae0b4a43c2067c65abf5f09cb3200a293deb70dd24b69b1"
+    },
+    {
+      "fileName": "rig_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "96b9c5d9d632e8075420c9e5cf429b73a3dfa881bb906180e619131d8fd1f91e"
+    },
+    {
+      "fileName": "rig-proxy_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a140d3ef9d15b246a1987dfcfe9b91fef4829feeddf9c4792ad8460d8ca32485"
+    },
+    {
+      "fileName": "rig-proxy_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ad3e3b92bbc914971a3e0c24f1fd0a89a94a8622821734b72c81158abd98380b"
+    },
+    {
+      "fileName": "rig-ops_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ad4e7e0cceee7a47a004deeab74de3a01fb48cd63d94a29017fd7960973f7792"
+    },
+    {
+      "fileName": "rig-ops_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d2bd4e04ae7750c708b7cb84b62c5383debafddb8519f9b0ad178e61ff02e18b"
+    },
+    {
+      "fileName": "rig-proxy_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dbfe0fc30d1fccede2b8ddeaa96fcb1d10aa9a7f5761692565dbad460628c75e"
+    }
+  ]
+}

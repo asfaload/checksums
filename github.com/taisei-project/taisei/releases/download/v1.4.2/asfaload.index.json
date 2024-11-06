@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"Taisei-1.4.2-emscripten-wasm32.tar.xz","algo":"Sha256","source":"Taisei-1.4.2-emscripten-wasm32.tar.xz.sha256sum","hash":"c2ebb1c2b11ce0d0fd57583705ccaf636cd19f1147bf4afc685a944066d09b4c"},{"fileName":"Taisei-1.4.2-setup-x86_64.exe","algo":"Sha256","source":"Taisei-1.4.2-setup-x86_64.exe.sha256sum","hash":"4a420649fac7050c00352cc6ffb334fefe1b4a46857554aa30a91af63165dea6"},{"fileName":"Taisei-1.4.2-universal.dmg","algo":"Sha256","source":"Taisei-1.4.2-universal.dmg.sha256sum","hash":"8cc05f7191898579285f89c8eb99a211a9a13b2b5148070623224719a8307d92"},{"fileName":"taisei-1.4.2.tar.xz","algo":"Sha256","source":"taisei-1.4.2.tar.xz.sha256sum","hash":"5d869aae64f8f3390c47b74441fd041c7777e594e4a60536bb7b52564ea84fa7"},{"fileName":"Taisei-1.4.2-switch-aarch64.zip","algo":"Sha256","source":"Taisei-1.4.2-switch-aarch64.zip.sha256sum","hash":"a1727971adbde15a7569a94e002f8a399d028a0367f0d252b02fd753b20f4460"},{"fileName":"Taisei-1.4.2-windows-x86_64.zip","algo":"Sha256","source":"Taisei-1.4.2-windows-x86_64.zip.sha256sum","hash":"ce78461fc535095c4e3e0a9be89b659fe0bd18a28c6e023e3c0c63a65aea2586"},{"fileName":"Taisei-1.4.2-setup-x86.exe","algo":"Sha256","source":"Taisei-1.4.2-setup-x86.exe.sha256sum","hash":"d2a6b0926aa14af25164613f705f2843db73090dc99d8f097b8de9bcdde98548"},{"fileName":"Taisei-1.4.2-linux-x86_64.tar.xz","algo":"Sha256","source":"Taisei-1.4.2-linux-x86_64.tar.xz.sha256sum","hash":"de27318adced92cd92825100462674e59fb523e7ae642703c16fbeb34297974b"},{"fileName":"Taisei-1.4.2-windows-x86.zip","algo":"Sha256","source":"Taisei-1.4.2-windows-x86.zip.sha256sum","hash":"898f8597f79cd3bb293a8d4e6a5af7c0e9fea1b47db84b6471204582214d45bc"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "Taisei-1.4.2-emscripten-wasm32.tar.xz",
+      "algo": "Sha256",
+      "source": "Taisei-1.4.2-emscripten-wasm32.tar.xz.sha256sum",
+      "hash": "c2ebb1c2b11ce0d0fd57583705ccaf636cd19f1147bf4afc685a944066d09b4c"
+    },
+    {
+      "fileName": "Taisei-1.4.2-setup-x86_64.exe",
+      "algo": "Sha256",
+      "source": "Taisei-1.4.2-setup-x86_64.exe.sha256sum",
+      "hash": "4a420649fac7050c00352cc6ffb334fefe1b4a46857554aa30a91af63165dea6"
+    },
+    {
+      "fileName": "Taisei-1.4.2-universal.dmg",
+      "algo": "Sha256",
+      "source": "Taisei-1.4.2-universal.dmg.sha256sum",
+      "hash": "8cc05f7191898579285f89c8eb99a211a9a13b2b5148070623224719a8307d92"
+    },
+    {
+      "fileName": "taisei-1.4.2.tar.xz",
+      "algo": "Sha256",
+      "source": "taisei-1.4.2.tar.xz.sha256sum",
+      "hash": "5d869aae64f8f3390c47b74441fd041c7777e594e4a60536bb7b52564ea84fa7"
+    },
+    {
+      "fileName": "Taisei-1.4.2-switch-aarch64.zip",
+      "algo": "Sha256",
+      "source": "Taisei-1.4.2-switch-aarch64.zip.sha256sum",
+      "hash": "a1727971adbde15a7569a94e002f8a399d028a0367f0d252b02fd753b20f4460"
+    },
+    {
+      "fileName": "Taisei-1.4.2-windows-x86_64.zip",
+      "algo": "Sha256",
+      "source": "Taisei-1.4.2-windows-x86_64.zip.sha256sum",
+      "hash": "ce78461fc535095c4e3e0a9be89b659fe0bd18a28c6e023e3c0c63a65aea2586"
+    },
+    {
+      "fileName": "Taisei-1.4.2-setup-x86.exe",
+      "algo": "Sha256",
+      "source": "Taisei-1.4.2-setup-x86.exe.sha256sum",
+      "hash": "d2a6b0926aa14af25164613f705f2843db73090dc99d8f097b8de9bcdde98548"
+    },
+    {
+      "fileName": "Taisei-1.4.2-linux-x86_64.tar.xz",
+      "algo": "Sha256",
+      "source": "Taisei-1.4.2-linux-x86_64.tar.xz.sha256sum",
+      "hash": "de27318adced92cd92825100462674e59fb523e7ae642703c16fbeb34297974b"
+    },
+    {
+      "fileName": "Taisei-1.4.2-windows-x86.zip",
+      "algo": "Sha256",
+      "source": "Taisei-1.4.2-windows-x86.zip.sha256sum",
+      "hash": "898f8597f79cd3bb293a8d4e6a5af7c0e9fea1b47db84b6471204582214d45bc"
+    }
+  ]
+}

@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"OneKey-Wallet-5.2.3-android.apk","algo":"Sha256","source":"SHA256SUMS","hash":"d8b5d7ea0ba27efcae119c147df96192adaa9964a77610e74b073e7ce858b19e"},{"fileName":"OneKey-Wallet-5.2.3-linux-arm64.AppImage","algo":"Sha256","source":"SHA256SUMS","hash":"ad095a7afd6853835546b821be8f78c3cc9f503b13bf4bb51b3112907754cc26"},{"fileName":"OneKey-Wallet-5.2.3-linux-x86_64.AppImage","algo":"Sha256","source":"SHA256SUMS","hash":"496d39c34c7bbd22c73c5982de22254cd0f17476046c35b386973574a370b0b7"},{"fileName":"OneKey-Wallet-5.2.3-mac-arm64.dmg","algo":"Sha256","source":"SHA256SUMS","hash":"8b9afe1a6ff7585cedb0c858c01ceae80eff78e22d1042355b9020010483e6b2"},{"fileName":"OneKey-Wallet-5.2.3-mac-arm64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"ee16730dd50a653680bb347114cf511207120b099564d72325c34e3998083562"},{"fileName":"OneKey-Wallet-5.2.3-mac-x64.dmg","algo":"Sha256","source":"SHA256SUMS","hash":"ea1fdd8f720f30a014c336a901981df9cf177ff6e93405fd30a7b923db098dac"},{"fileName":"OneKey-Wallet-5.2.3-mac-x64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"a7acca673e8cd04cd2933488c62190eb27027db2027cb48394e78f3f506708c1"},{"fileName":"OneKey-Wallet-5.2.3-win-arm64.exe","algo":"Sha256","source":"SHA256SUMS","hash":"1a086e8a07170ee5ede7a8803a7d6ede36b9a0d656bef419a4b3c1aa37dd5dc6"},{"fileName":"OneKey-Wallet-5.2.3-win-store.exe","algo":"Sha256","source":"SHA256SUMS","hash":"6024eaa20d0f051b52ebe760bb06cc200d6aac9425c4d990bd28d241404f1d31"},{"fileName":"OneKey-Wallet-5.2.3-win-x64.exe","algo":"Sha256","source":"SHA256SUMS","hash":"1c7cbd876069f5833df48c71cfc42d9d84afb0ef38c6bf948846dcf5ef3a8f04"},{"fileName":"OneKey-Wallet-5.2.3-win.exe","algo":"Sha256","source":"SHA256SUMS","hash":"f9d4a8550401de0ab99103ee317da02c1a83b6ce59d008ef540f16a0ddc908cc"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "OneKey-Wallet-5.2.3-android.apk",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "d8b5d7ea0ba27efcae119c147df96192adaa9964a77610e74b073e7ce858b19e"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-linux-arm64.AppImage",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ad095a7afd6853835546b821be8f78c3cc9f503b13bf4bb51b3112907754cc26"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-linux-x86_64.AppImage",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "496d39c34c7bbd22c73c5982de22254cd0f17476046c35b386973574a370b0b7"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-mac-arm64.dmg",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "8b9afe1a6ff7585cedb0c858c01ceae80eff78e22d1042355b9020010483e6b2"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-mac-arm64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ee16730dd50a653680bb347114cf511207120b099564d72325c34e3998083562"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-mac-x64.dmg",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "ea1fdd8f720f30a014c336a901981df9cf177ff6e93405fd30a7b923db098dac"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-mac-x64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "a7acca673e8cd04cd2933488c62190eb27027db2027cb48394e78f3f506708c1"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-win-arm64.exe",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "1a086e8a07170ee5ede7a8803a7d6ede36b9a0d656bef419a4b3c1aa37dd5dc6"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-win-store.exe",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "6024eaa20d0f051b52ebe760bb06cc200d6aac9425c4d990bd28d241404f1d31"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-win-x64.exe",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "1c7cbd876069f5833df48c71cfc42d9d84afb0ef38c6bf948846dcf5ef3a8f04"
+    },
+    {
+      "fileName": "OneKey-Wallet-5.2.3-win.exe",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "f9d4a8550401de0ab99103ee317da02c1a83b6ce59d008ef540f16a0ddc908cc"
+    }
+  ]
+}

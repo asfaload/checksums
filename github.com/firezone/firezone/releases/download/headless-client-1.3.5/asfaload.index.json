@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"firezone-client-headless-linux_1.3.5_aarch64","algo":"Sha256","source":"firezone-client-headless-linux_1.3.5_aarch64.sha256sum.txt","hash":"a82c6b3102c799983c31aa44451e250a1dd96dcbd17fcf17e51a62048c206565"},{"fileName":"firezone-client-headless-linux_1.3.5_armv7","algo":"Sha256","source":"firezone-client-headless-linux_1.3.5_armv7.sha256sum.txt","hash":"5785239d90d3dc7c483ac34d51441f46483ef9ec05e3103212dc10e291c93efc"},{"fileName":"firezone-client-headless-linux_1.3.5_x86_64","algo":"Sha256","source":"firezone-client-headless-linux_1.3.5_x86_64.sha256sum.txt","hash":"39fd9435a74000de8566ffe1fdbe1070d95a3a65b1505912fba6fb7f1a5aab12"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "firezone-client-headless-linux_1.3.5_aarch64",
+      "algo": "Sha256",
+      "source": "firezone-client-headless-linux_1.3.5_aarch64.sha256sum.txt",
+      "hash": "a82c6b3102c799983c31aa44451e250a1dd96dcbd17fcf17e51a62048c206565"
+    },
+    {
+      "fileName": "firezone-client-headless-linux_1.3.5_armv7",
+      "algo": "Sha256",
+      "source": "firezone-client-headless-linux_1.3.5_armv7.sha256sum.txt",
+      "hash": "5785239d90d3dc7c483ac34d51441f46483ef9ec05e3103212dc10e291c93efc"
+    },
+    {
+      "fileName": "firezone-client-headless-linux_1.3.5_x86_64",
+      "algo": "Sha256",
+      "source": "firezone-client-headless-linux_1.3.5_x86_64.sha256sum.txt",
+      "hash": "39fd9435a74000de8566ffe1fdbe1070d95a3a65b1505912fba6fb7f1a5aab12"
+    }
+  ]
+}

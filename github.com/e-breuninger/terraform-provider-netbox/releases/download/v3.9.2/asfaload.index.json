@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-netbox_3.9.2_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-netbox_3.9.2_SHA256SUMS","hash":"6f842f5be8c2a7b0cd723643741fe9c1463e5508b3593174008bfce997a1a639"},{"fileName":"terraform-provider-netbox_3.9.2_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-netbox_3.9.2_SHA256SUMS","hash":"ca6070168c836a017b5fdcc1c24d575a67485df422992108c785188904d21e3f"},{"fileName":"terraform-provider-netbox_3.9.2_linux_386.zip","algo":"Sha256","source":"terraform-provider-netbox_3.9.2_SHA256SUMS","hash":"416fcd2132c842822191527e632ea48a579e465b3a06a30bb91abc4e187bb0f0"},{"fileName":"terraform-provider-netbox_3.9.2_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-netbox_3.9.2_SHA256SUMS","hash":"08742d0592db079be0bb18b521926954985491ad51398ad78e72fb8950e51f06"},{"fileName":"terraform-provider-netbox_3.9.2_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-netbox_3.9.2_SHA256SUMS","hash":"0fb2f30cdad071c4ef510243ebfc4387d65bb8f13a928fd87d24f33d14fb9f25"},{"fileName":"terraform-provider-netbox_3.9.2_windows_386.zip","algo":"Sha256","source":"terraform-provider-netbox_3.9.2_SHA256SUMS","hash":"a95d6317c54855fb6cf9ddb2fbdc58119c7eb4aea46160918a7243b9564564a5"},{"fileName":"terraform-provider-netbox_3.9.2_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-netbox_3.9.2_SHA256SUMS","hash":"d46ec515da0bc2101280c794c62d4c9856025ddeda731bc1a4184f3cfdd788d0"},{"fileName":"terraform-provider-netbox_3.9.2_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-netbox_3.9.2_SHA256SUMS","hash":"aad55bc16e10aad8445b40c6314017df7b4b53d93480a648e4ac579beabb6095"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-netbox_3.9.2_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-netbox_3.9.2_SHA256SUMS",
+      "hash": "6f842f5be8c2a7b0cd723643741fe9c1463e5508b3593174008bfce997a1a639"
+    },
+    {
+      "fileName": "terraform-provider-netbox_3.9.2_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-netbox_3.9.2_SHA256SUMS",
+      "hash": "ca6070168c836a017b5fdcc1c24d575a67485df422992108c785188904d21e3f"
+    },
+    {
+      "fileName": "terraform-provider-netbox_3.9.2_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-netbox_3.9.2_SHA256SUMS",
+      "hash": "416fcd2132c842822191527e632ea48a579e465b3a06a30bb91abc4e187bb0f0"
+    },
+    {
+      "fileName": "terraform-provider-netbox_3.9.2_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-netbox_3.9.2_SHA256SUMS",
+      "hash": "08742d0592db079be0bb18b521926954985491ad51398ad78e72fb8950e51f06"
+    },
+    {
+      "fileName": "terraform-provider-netbox_3.9.2_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-netbox_3.9.2_SHA256SUMS",
+      "hash": "0fb2f30cdad071c4ef510243ebfc4387d65bb8f13a928fd87d24f33d14fb9f25"
+    },
+    {
+      "fileName": "terraform-provider-netbox_3.9.2_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-netbox_3.9.2_SHA256SUMS",
+      "hash": "a95d6317c54855fb6cf9ddb2fbdc58119c7eb4aea46160918a7243b9564564a5"
+    },
+    {
+      "fileName": "terraform-provider-netbox_3.9.2_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-netbox_3.9.2_SHA256SUMS",
+      "hash": "d46ec515da0bc2101280c794c62d4c9856025ddeda731bc1a4184f3cfdd788d0"
+    },
+    {
+      "fileName": "terraform-provider-netbox_3.9.2_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-netbox_3.9.2_SHA256SUMS",
+      "hash": "aad55bc16e10aad8445b40c6314017df7b4b53d93480a648e4ac579beabb6095"
+    }
+  ]
+}

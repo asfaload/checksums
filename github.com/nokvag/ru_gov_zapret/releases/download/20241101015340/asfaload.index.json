@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./publish/zapret.dat","algo":"Sha256","source":"zapret.dat.sha256sum","hash":"d6b3b20c2fbfbb4b2bbc4a790febc1cf1848d2607611d4c837a0a8d5bf10e790"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./publish/zapret.dat",
+      "algo": "Sha256",
+      "source": "zapret.dat.sha256sum",
+      "hash": "d6b3b20c2fbfbb4b2bbc4a790febc1cf1848d2607611d4c837a0a8d5bf10e790"
+    }
+  ]
+}

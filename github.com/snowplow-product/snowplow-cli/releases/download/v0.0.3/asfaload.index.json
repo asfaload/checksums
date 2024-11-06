@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"snowplow-cli_darwin_arm64","algo":"Sha256","source":"snowplow-cli_0.0.3_checksums.txt","hash":"b6c099b6bbe1b07a1955c13fe9e73b2c61d245049a62a7a24759ffae2cc71951"},{"fileName":"snowplow-cli_darwin_x86_64","algo":"Sha256","source":"snowplow-cli_0.0.3_checksums.txt","hash":"897ec27ffaa5675c02c72142676922db8179c946925fca64c2f706e693ded8e5"},{"fileName":"snowplow-cli_linux_arm64","algo":"Sha256","source":"snowplow-cli_0.0.3_checksums.txt","hash":"9c05fbcd638bd28e2cf5e74b1d5a7b5852368f25490b7e28f28c6b6575afa6aa"},{"fileName":"snowplow-cli_linux_i386","algo":"Sha256","source":"snowplow-cli_0.0.3_checksums.txt","hash":"00bb6091d66042048576bdd1a03fb6e72d5573659e80d2dd79c186e798a99362"},{"fileName":"snowplow-cli_linux_x86_64","algo":"Sha256","source":"snowplow-cli_0.0.3_checksums.txt","hash":"1228ff9784402396f147b5d0557bd78f5e20d8a315bb6e4d4627f1342372d759"},{"fileName":"snowplow-cli_windows_arm64.exe","algo":"Sha256","source":"snowplow-cli_0.0.3_checksums.txt","hash":"074dc8d806bff8db5586a3590883fde5ec2e0785509c95ba2d79bf65bd937b22"},{"fileName":"snowplow-cli_windows_i386.exe","algo":"Sha256","source":"snowplow-cli_0.0.3_checksums.txt","hash":"b8e8777dcaf760788f79d292c468ef563ca2ae37435aa6e2bfb0cf2c3b88dd87"},{"fileName":"snowplow-cli_windows_x86_64.exe","algo":"Sha256","source":"snowplow-cli_0.0.3_checksums.txt","hash":"5c55066274cdeafcf40257c4c024dda5912f2b0bd838dcc5ac1c4b0d457c43b2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "snowplow-cli_darwin_arm64",
+      "algo": "Sha256",
+      "source": "snowplow-cli_0.0.3_checksums.txt",
+      "hash": "b6c099b6bbe1b07a1955c13fe9e73b2c61d245049a62a7a24759ffae2cc71951"
+    },
+    {
+      "fileName": "snowplow-cli_darwin_x86_64",
+      "algo": "Sha256",
+      "source": "snowplow-cli_0.0.3_checksums.txt",
+      "hash": "897ec27ffaa5675c02c72142676922db8179c946925fca64c2f706e693ded8e5"
+    },
+    {
+      "fileName": "snowplow-cli_linux_arm64",
+      "algo": "Sha256",
+      "source": "snowplow-cli_0.0.3_checksums.txt",
+      "hash": "9c05fbcd638bd28e2cf5e74b1d5a7b5852368f25490b7e28f28c6b6575afa6aa"
+    },
+    {
+      "fileName": "snowplow-cli_linux_i386",
+      "algo": "Sha256",
+      "source": "snowplow-cli_0.0.3_checksums.txt",
+      "hash": "00bb6091d66042048576bdd1a03fb6e72d5573659e80d2dd79c186e798a99362"
+    },
+    {
+      "fileName": "snowplow-cli_linux_x86_64",
+      "algo": "Sha256",
+      "source": "snowplow-cli_0.0.3_checksums.txt",
+      "hash": "1228ff9784402396f147b5d0557bd78f5e20d8a315bb6e4d4627f1342372d759"
+    },
+    {
+      "fileName": "snowplow-cli_windows_arm64.exe",
+      "algo": "Sha256",
+      "source": "snowplow-cli_0.0.3_checksums.txt",
+      "hash": "074dc8d806bff8db5586a3590883fde5ec2e0785509c95ba2d79bf65bd937b22"
+    },
+    {
+      "fileName": "snowplow-cli_windows_i386.exe",
+      "algo": "Sha256",
+      "source": "snowplow-cli_0.0.3_checksums.txt",
+      "hash": "b8e8777dcaf760788f79d292c468ef563ca2ae37435aa6e2bfb0cf2c3b88dd87"
+    },
+    {
+      "fileName": "snowplow-cli_windows_x86_64.exe",
+      "algo": "Sha256",
+      "source": "snowplow-cli_0.0.3_checksums.txt",
+      "hash": "5c55066274cdeafcf40257c4c024dda5912f2b0bd838dcc5ac1c4b0d457c43b2"
+    }
+  ]
+}

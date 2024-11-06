@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T20:46:12+00:00","publishedOn":"2024-11-05T20:47:50.9996116+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"a4d756c0332c294e1476fa383626cd6a8eb81caaebe9d4fa076228b8f65d74f7"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"c3e9a7276577d26f539cc8b753b6f9443ec8f5f86c66fdbadd8854f65d80c5d0"},{"fileName":"openwrt-imagebuilder-x86-64.Linux-x86_64.tar.xz","algo":"Sha256","source":"sha256sums","hash":"df8facc6d04eb536ccd2ed01e5ff208ff33d8b5e4ea8e57a3ca4dc73bdac82cd"},{"fileName":"openwrt-x86-64-generic-ext4-combined-efi.img.gz","algo":"Sha256","source":"sha256sums","hash":"3e4712316534264544f946cff04b3e8bf4a0682c56e04c2bba2cd35b4f1f7e01"},{"fileName":"openwrt-x86-64-generic-ext4-combined-efi.qcow2.gz","algo":"Sha256","source":"sha256sums","hash":"f09f88a5fd073b96d0410d512e736bb1877d3999c1090af79312491b59751cba"},{"fileName":"openwrt-x86-64-generic-ext4-rootfs.img.gz","algo":"Sha256","source":"sha256sums","hash":"720f2de5a581c9acbe9b39144805f08b2bfaddef674868d9871fcc1049caeae2"},{"fileName":"openwrt-x86-64-generic-image-efi.iso","algo":"Sha256","source":"sha256sums","hash":"c451f9aaeb2aa64aae7becc87276a01fe7d31b915bd80a087e8e3be78cd02250"},{"fileName":"openwrt-x86-64-generic-kernel.bin","algo":"Sha256","source":"sha256sums","hash":"c7afc976e96b3b88d8e814b2005ee8f04e60cb2850dd8ea7784478c57c753b27"},{"fileName":"openwrt-x86-64-generic-rootfs.tar.gz","algo":"Sha256","source":"sha256sums","hash":"4ccacb73fbeb81cda0efe1142ee02699e9be7f848647d0cbaf6bf8acc5fc94ee"},{"fileName":"openwrt-x86-64-generic-squashfs-combined-efi.img.gz","algo":"Sha256","source":"sha256sums","hash":"c966b2564a644a9b8ce6b6c6428512e291894502f8bd326a00a7d799134f03ae"},{"fileName":"openwrt-x86-64-generic-squashfs-combined-efi.qcow2","algo":"Sha256","source":"sha256sums","hash":"cf0c2219729a261bd1358b651117464772835c4ad772f6cee50c87b848adcae7"},{"fileName":"openwrt-x86-64-generic-squashfs-rootfs.img.gz","algo":"Sha256","source":"sha256sums","hash":"7c752992c9993ceba92ffe04971a0af767e67281d258a0c80223cbef5150cf3d"},{"fileName":"openwrt-x86-64-generic.manifest","algo":"Sha256","source":"sha256sums","hash":"33ff80d0b49b087cb5f33c10fbb974dc27b72d6ce62ebc1d9f005cb9d4c8e1bd"},{"fileName":"profiles.json","algo":"Sha256","source":"sha256sums","hash":"e195f5b678eaca169335078534273c90cb5e730d1d7d7cd04a7d7cecc7781400"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"25f59bc0f35266dec870a67a5ffeb1404dea40c4128581855d917af093251d7e"}]}
+{
+  "mirroredOn": "2024-11-05T20:47:50.9996116+00:00",
+  "publishedOn": "2024-11-05T20:46:12+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "a4d756c0332c294e1476fa383626cd6a8eb81caaebe9d4fa076228b8f65d74f7"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "c3e9a7276577d26f539cc8b753b6f9443ec8f5f86c66fdbadd8854f65d80c5d0"
+    },
+    {
+      "fileName": "openwrt-imagebuilder-x86-64.Linux-x86_64.tar.xz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "df8facc6d04eb536ccd2ed01e5ff208ff33d8b5e4ea8e57a3ca4dc73bdac82cd"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic-ext4-combined-efi.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "3e4712316534264544f946cff04b3e8bf4a0682c56e04c2bba2cd35b4f1f7e01"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic-ext4-combined-efi.qcow2.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "f09f88a5fd073b96d0410d512e736bb1877d3999c1090af79312491b59751cba"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic-ext4-rootfs.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "720f2de5a581c9acbe9b39144805f08b2bfaddef674868d9871fcc1049caeae2"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic-image-efi.iso",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "c451f9aaeb2aa64aae7becc87276a01fe7d31b915bd80a087e8e3be78cd02250"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic-kernel.bin",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "c7afc976e96b3b88d8e814b2005ee8f04e60cb2850dd8ea7784478c57c753b27"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic-rootfs.tar.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "4ccacb73fbeb81cda0efe1142ee02699e9be7f848647d0cbaf6bf8acc5fc94ee"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic-squashfs-combined-efi.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "c966b2564a644a9b8ce6b6c6428512e291894502f8bd326a00a7d799134f03ae"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic-squashfs-combined-efi.qcow2",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "cf0c2219729a261bd1358b651117464772835c4ad772f6cee50c87b848adcae7"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic-squashfs-rootfs.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "7c752992c9993ceba92ffe04971a0af767e67281d258a0c80223cbef5150cf3d"
+    },
+    {
+      "fileName": "openwrt-x86-64-generic.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "33ff80d0b49b087cb5f33c10fbb974dc27b72d6ce62ebc1d9f005cb9d4c8e1bd"
+    },
+    {
+      "fileName": "profiles.json",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "e195f5b678eaca169335078534273c90cb5e730d1d7d7cd04a7d7cecc7781400"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "25f59bc0f35266dec870a67a5ffeb1404dea40c4128581855d917af093251d7e"
+    }
+  ]
+}

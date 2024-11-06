@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"flux-build_3.0.6_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3aff67d8cf31d39492c0f23225bd5ae7ba992da580d89013a4e341d372516e66"},{"fileName":"flux-build_3.0.6_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"862961e1d0ea13e23818a2af87cc972143377c80e07cf9eae73078637418016b"},{"fileName":"flux-build_3.0.6_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0e5bcbb3667a458d4dff147b752be711c2b3313362bd5b5c77c5d3f0dffe629c"},{"fileName":"flux-build_3.0.6_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1dbe35f52a6a37245f9d3af248837818d3f70ce8239dff46a1c2cc5f3ac2c335"},{"fileName":"flux-build_3.0.6_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"56d58de32cd224b62fb6cfcfad4d6c0bc8b5f0366dd6703dba72529b54e6aa8c"},{"fileName":"flux-build_3.0.6_sbom.spdx.json","algo":"Sha256","source":"checksums.txt","hash":"4c0a2d3ffa6314de2f17a0051acad07770f24fbe2bae19df1f19790bd9d22734"},{"fileName":"flux-build_3.0.6_source_code.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3e0e476a1ce29b98f4b5a4fe3856cbe2eab8dc79083971f26de371aec89bf091"},{"fileName":"flux-build_3.0.6_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a041117f1022551b6f95e3b911c058f79814e949fd33663e2bd990c8b35015f9"},{"fileName":"flux-build_3.0.6_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"70394c4281f58560a72f4d61a80b12440dc7a626c463a3d0d4b5a5610d479f6e"},{"fileName":"flux-build_3.0.6_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ff9b3a4f3674696ad8a9ea05dd251301082d0fb811abf251f6ac096adb20b302"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "flux-build_3.0.6_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3aff67d8cf31d39492c0f23225bd5ae7ba992da580d89013a4e341d372516e66"
+    },
+    {
+      "fileName": "flux-build_3.0.6_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "862961e1d0ea13e23818a2af87cc972143377c80e07cf9eae73078637418016b"
+    },
+    {
+      "fileName": "flux-build_3.0.6_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0e5bcbb3667a458d4dff147b752be711c2b3313362bd5b5c77c5d3f0dffe629c"
+    },
+    {
+      "fileName": "flux-build_3.0.6_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1dbe35f52a6a37245f9d3af248837818d3f70ce8239dff46a1c2cc5f3ac2c335"
+    },
+    {
+      "fileName": "flux-build_3.0.6_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "56d58de32cd224b62fb6cfcfad4d6c0bc8b5f0366dd6703dba72529b54e6aa8c"
+    },
+    {
+      "fileName": "flux-build_3.0.6_sbom.spdx.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4c0a2d3ffa6314de2f17a0051acad07770f24fbe2bae19df1f19790bd9d22734"
+    },
+    {
+      "fileName": "flux-build_3.0.6_source_code.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3e0e476a1ce29b98f4b5a4fe3856cbe2eab8dc79083971f26de371aec89bf091"
+    },
+    {
+      "fileName": "flux-build_3.0.6_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a041117f1022551b6f95e3b911c058f79814e949fd33663e2bd990c8b35015f9"
+    },
+    {
+      "fileName": "flux-build_3.0.6_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "70394c4281f58560a72f4d61a80b12440dc7a626c463a3d0d4b5a5610d479f6e"
+    },
+    {
+      "fileName": "flux-build_3.0.6_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ff9b3a4f3674696ad8a9ea05dd251301082d0fb811abf251f6ac096adb20b302"
+    }
+  ]
+}

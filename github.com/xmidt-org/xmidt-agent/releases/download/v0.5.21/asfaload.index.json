@@ -1,1 +1,259 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"xmidt-agent-0.5.21-linux-386.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"9ddfbc1f813931aea8b178cb7cace2ecc200d6a7f4c73432805d3f4ad55df21572f18efe122979d30781f061faf51dd29473fc7e95a00af97d2e1a006d040979"},{"fileName":"xmidt-agent-0.5.21-linux-386.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"c8c660a4b358bf709a3db85dad6bc12daac445b632fec0e0240570b439c91db225d252865f857313eacd450f7179a2cf3c39137f6822694ae3b6e37980dc4579"},{"fileName":"xmidt-agent-0.5.21-linux-amd64.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"27118f937c609b121f5b956bb6a11b61fcff8a8843ff9892d092f9ecd1ce4fa244bf04abe514c2e612784f5a11311fb501810a92dd734c3717fe19c886ca97be"},{"fileName":"xmidt-agent-0.5.21-linux-amd64.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"833f5d97e27619f98b35a8eca13b0b27c39315e17c9df905b914e393a72839c3e9ec45ff3424b55ad99dbc9f3099ff9939be185db88bf9b5022bab01273c2490"},{"fileName":"xmidt-agent-0.5.21-linux-arm64.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"11a37b65283f30318efa7c62b4b5546b16ca3d541830668c4f499d57b847625805ffaf77329615bd0018e4a1010229b7c380a4bae3141976629fe19e92547349"},{"fileName":"xmidt-agent-0.5.21-linux-arm64.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"71974a7d9271898c198e64126482b793e74b302285669e1e7094146bd7cb505f04358966e9c1a64cd9aec758bdd16c53d9e093f0f535b103115cda8a2594c72f"},{"fileName":"xmidt-agent-0.5.21-linux-armv5.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"a3a749c71b45b212f70132236615ce62da2df0e34779083120baa1d1fb4782c2e49462fe89f14efc157825b7e6345ababa83c43e9b262f888d7f83e86c180245"},{"fileName":"xmidt-agent-0.5.21-linux-armv5.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"079c0ae54bed6ebea17864599c1922ae8d2a26e7efd0aea50be2f685d47a2da8c53ee97dff44a19a0c2750fb0301f95248b2c2a5187e506ccb9f0535c32f31dd"},{"fileName":"xmidt-agent-0.5.21-linux-armv6.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"f2c80d8400c92ae1e02e48987d3af9afe56fedf73efee14f902a0f8112e5356a121d4b63f58ee8335ff5c7593c9c1c25868820b7f4d24a1ad921d59781b7ff79"},{"fileName":"xmidt-agent-0.5.21-linux-armv6.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"10906b6d3ce285cd46022f892d1adb865676ffe8daa758f90447f647f4e5c7d1ed637c05518030b9c7258be05161d526ecefb0b13fbecc0f47940a526ccf1e05"},{"fileName":"xmidt-agent-0.5.21-linux-armv7.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"92bc383d2b89072883278cb80564583e29a4348d2d8840a10015052634d85cc5021ed6ee13dfbfde17bcc6cd5ccca26f1afdc59c5642dd0a559580635abd8a7a"},{"fileName":"xmidt-agent-0.5.21-linux-armv7.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"6469a2fea26bddb803a9cdb3d0b646d5dffd6a24f9461beeb72a54a8d088eba47d40904b30e704a5479bd744e4abeb4d2e4ccfdf14d4779676ef23ba6c106633"},{"fileName":"xmidt-agent-0.5.21-linux-mips.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"6c8be60408fb049827e97e20fba0bf49f0cad03b5f7d3714a22530d356c493cb679f859a70f4baaddfa4119932ce63513f01ee7ad4fdd48192d225b300d6da10"},{"fileName":"xmidt-agent-0.5.21-linux-mips.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"01bcdfd40a250e18525caa43e1b04e6592a45030e6f28b6cb20ae858f5035bb8f03d0e97c246de36a8395e52b9f0e71e1362a17c692edfc38b5c247f5dc1dc30"},{"fileName":"xmidt-agent-0.5.21-linux-mips64.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"cb423f0a12ee68063a815211c608f24e9cefef6985886abe678e98c773d18994abe1b42e4336af330613565c2d02585d54736521f0434eb7fe4d993ad70b2b6d"},{"fileName":"xmidt-agent-0.5.21-linux-mips64.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"649ddc7c2a5a86b8a655e688d467fb9e973e03567a07a9804c087121808d7b30b79649b694dbc8724b2112fbb884396b8d0267defb3c5a7502d26447bf09a3a0"},{"fileName":"xmidt-agent-0.5.21-linux-mips64le.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"d4bc825b756f59c3ee56ecea0a6fcba3cee99ac5a7450bbe4274abcb12df35cf22c66a055739d2295b7d3b2f13773626caa7454eb0a6fb482e3a1116e659ac68"},{"fileName":"xmidt-agent-0.5.21-linux-mips64le.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"d62a7b94eba2b15a753e8fa7e75fad46de228eef1f9de3929935356be6808effd6c37be274d2d0b617db6ed624b1936c76840599143142f9edd24abf7b7c040b"},{"fileName":"xmidt-agent-0.5.21-linux-mipsle.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"028058423f3c14cd079877b639ea49837370e220e9e0df1408ac8adf86f0096fc6cf0b1fac492c7a6ce47d485d8ea14b0528f8af0a8c8e9439b7fb267bff390c"},{"fileName":"xmidt-agent-0.5.21-linux-mipsle.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"c7511f1a5b36a605af3386560f4a941dc33f468294ad9508aa8eb5b1b567866a86fbf64382c99e7ee393a49e2289d2fc7adbfb87582aada4c35eb27a09f815b1"},{"fileName":"xmidt-agent_0.5.21_openwrt_386.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"c05975d92216d6a9c7410e68bfb4729baafb072e4f450ffb9e0abaf9f395065cb6e887849fad2cd4ebcdc196707c5a2d686ea111a4fa0312530f770ad8e69299"},{"fileName":"xmidt-agent_0.5.21_openwrt_amd64.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"f39114bbbac876211ba09dda4bb14bae0f3c954ff1c6212d12b13c251a4e1b9f8c01e84a3cf5abfd1dc15687e2b8312b7ff38ec0e32f82f11121822667140885"},{"fileName":"xmidt-agent_0.5.21_openwrt_arm64.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"20c026bae548e7fcf49596c9b823ee07054077eb24b6d31e41fb0b25a70c8936d2bd402471771164af4256e77f7363729b59473dc710d714acd1189250a37222"},{"fileName":"xmidt-agent_0.5.21_openwrt_armv5.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"9ee7172808acb3288f63b7bfe09ef3470f454d6237fa8d4b1bf64e6f62a4c4d8b0d087f97bda27ad0e724a76fcfdfa2e6d4f5aeb5e6cc9301d02b152774396af"},{"fileName":"xmidt-agent_0.5.21_openwrt_armv6.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"2e7c0e84dc7039ebc835863cceb36c1a8c1c0ac6c5ccb96ddef7ce8e532137c1565c7f55016e7dc98b9b2e1239adb05eadde7f447130b81900a9005b8814ed42"},{"fileName":"xmidt-agent_0.5.21_openwrt_armv7.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"c4250ca9b321b0438427eb3c3944260b96d9817ead94bdbd8fedca4b8eb5f74fd147eb7aedb593f160880614aaa80b904a61c469a15f2902f306768f566756a3"},{"fileName":"xmidt-agent_0.5.21_openwrt_mips64_hardfloat.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"bfc93db4a89f9e873590f7c469c87d43d3814b65217fb35941f2e59d82454c206d40a2f78441173ce321c19b1e7d03df6417186b021e4b52c21170bb56de772d"},{"fileName":"xmidt-agent_0.5.21_openwrt_mips64le_hardfloat.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"4e9aa3324c82761cf99abf2d94c8e679fb8b18795f29c3dc08363c3a4cdb0428d8ff67fe6c3f9a60d8b22c68e4c5f046e68114ddd15a209b250c735b51162a79"},{"fileName":"xmidt-agent_0.5.21_openwrt_mips_hardfloat.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"606da9699c9f81fd10bbb9989fa01faeb9ef748c74b3ed1fdbb2458c5f8ed6a338bd54aae7ce594aad7e83512c3cb3550ff24631f943fcc96b062bb5df75f96e"},{"fileName":"xmidt-agent_0.5.21_openwrt_mipsle_hardfloat.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"c742d8e3d2997a27570a96022310e826340485b7ada351fc00a863b5a90b29ee29c6dca3375cbf964433eb750674e4a6edffb8c36bf97930718a0be734722f01"},{"fileName":"xmidt-agent_0.5.21_rdk_386.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"ddfd9d875c2096847179035e359d1041e3b211fa891491b58c037f966236a9a7f4341e66691198f0e07dc98be5842ee55970cff11f9f5126129a360227564068"},{"fileName":"xmidt-agent_0.5.21_rdk_amd64.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"d81a410d67d6768784985e88b1f846d52b1610cf11342f100783f43fbc2baa0063a8ce42db40192ece2ac3413265d3d9eccedf7f7ce9f4ded8d0c0275b4b30c1"},{"fileName":"xmidt-agent_0.5.21_rdk_arm64.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"4c1a2be8d56c342f5e3bdf1305f687de7d6bf684bb76f632ebb9ba984d8d70633a572c359b27e55372360e4b482772308dcf2cd1dd208d8a853e2d489c307b7a"},{"fileName":"xmidt-agent_0.5.21_rdk_armv5.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"ba9805fe780c6e18e01fccbc2d00fd70064c240dc2a3a952258308851597413b61a9ec16f7ec279ee7da11f5b75657c9508e26e860bb9cfbfb2f4e2d284e0520"},{"fileName":"xmidt-agent_0.5.21_rdk_armv6.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"8ee0ce813ea8609a1839623b62b2e529183be16a1bbe9c8c5291ba06ce11cedbf142e9e6fe4e36692d9bd5de45ac98dff0bcd395a35b13079446dce77a06b4aa"},{"fileName":"xmidt-agent_0.5.21_rdk_armv7.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"a0947f3991aba79778efee9cfb731eb80457bb407c670061ce3053efe0cdf6119fdc4a4b2fa0f23fee3d0a114fdcabede860d32033e0c59bff7b0537bcd37e9a"},{"fileName":"xmidt-agent_0.5.21_rdk_mips64_hardfloat.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"c5ce82727f8e78a2b1b7a86e62a8aea784b24c6d5e0f1128d052825bf602d5fd52e2721bb3eb6c8d6d4520aecf4f7a2270c77c70e6ad0801be3e5eaea2177b17"},{"fileName":"xmidt-agent_0.5.21_rdk_mips64le_hardfloat.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"85ac4adea15d78d52a4d36dcfad42825e9d234a820d5a523374bc67305af7d6e9de4974ae8ca373e49f0a0167171ba1b1cdf17d72c49d7d1cc8402d07e91f54a"},{"fileName":"xmidt-agent_0.5.21_rdk_mips_hardfloat.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"8f452066048943c352efeed2eb0cca307ceaf575ff9dcb2730b503aaa6529950bcdc47a094a5eb32f0d4edc4068fe197589aabcf4939289001ef5c66fa52b732"},{"fileName":"xmidt-agent_0.5.21_rdk_mipsle_hardfloat.ipk","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"518f36ee89788b8f0192a2ddf90f0c86e089f8c3a30eba4500506ae124c1759b929affa553371944c9ca8bcc9d7085ef01d9382eecf125f1a9a17cd59720307d"},{"fileName":"xmidt-agent_0.5.21_src.tar.gz","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"4d32863e6d43e27b15a5eae9d5d53a4a168a84b82eafd1c53582d3e828e08d20b1fde3e76eac0e296989ac8319b30d5abb2814e067e09b36ebfb412419121c47"},{"fileName":"xmidt-agent_0.5.21_src.tar.gz.sbom.json","algo":"Sha512","source":"xmidt-agent-0.5.21-checksums.txt","hash":"80378cf82633798739ccfbf29ca4d089ab78cae075eba2b5c476f0cf5fa9bb3f9bb5fa477faca2a52b62c17100e9379f06ae509f8811f1d0d4051d5e37e28b75"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-386.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "9ddfbc1f813931aea8b178cb7cace2ecc200d6a7f4c73432805d3f4ad55df21572f18efe122979d30781f061faf51dd29473fc7e95a00af97d2e1a006d040979"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-386.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "c8c660a4b358bf709a3db85dad6bc12daac445b632fec0e0240570b439c91db225d252865f857313eacd450f7179a2cf3c39137f6822694ae3b6e37980dc4579"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-amd64.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "27118f937c609b121f5b956bb6a11b61fcff8a8843ff9892d092f9ecd1ce4fa244bf04abe514c2e612784f5a11311fb501810a92dd734c3717fe19c886ca97be"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-amd64.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "833f5d97e27619f98b35a8eca13b0b27c39315e17c9df905b914e393a72839c3e9ec45ff3424b55ad99dbc9f3099ff9939be185db88bf9b5022bab01273c2490"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-arm64.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "11a37b65283f30318efa7c62b4b5546b16ca3d541830668c4f499d57b847625805ffaf77329615bd0018e4a1010229b7c380a4bae3141976629fe19e92547349"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-arm64.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "71974a7d9271898c198e64126482b793e74b302285669e1e7094146bd7cb505f04358966e9c1a64cd9aec758bdd16c53d9e093f0f535b103115cda8a2594c72f"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-armv5.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "a3a749c71b45b212f70132236615ce62da2df0e34779083120baa1d1fb4782c2e49462fe89f14efc157825b7e6345ababa83c43e9b262f888d7f83e86c180245"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-armv5.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "079c0ae54bed6ebea17864599c1922ae8d2a26e7efd0aea50be2f685d47a2da8c53ee97dff44a19a0c2750fb0301f95248b2c2a5187e506ccb9f0535c32f31dd"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-armv6.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "f2c80d8400c92ae1e02e48987d3af9afe56fedf73efee14f902a0f8112e5356a121d4b63f58ee8335ff5c7593c9c1c25868820b7f4d24a1ad921d59781b7ff79"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-armv6.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "10906b6d3ce285cd46022f892d1adb865676ffe8daa758f90447f647f4e5c7d1ed637c05518030b9c7258be05161d526ecefb0b13fbecc0f47940a526ccf1e05"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-armv7.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "92bc383d2b89072883278cb80564583e29a4348d2d8840a10015052634d85cc5021ed6ee13dfbfde17bcc6cd5ccca26f1afdc59c5642dd0a559580635abd8a7a"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-armv7.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "6469a2fea26bddb803a9cdb3d0b646d5dffd6a24f9461beeb72a54a8d088eba47d40904b30e704a5479bd744e4abeb4d2e4ccfdf14d4779676ef23ba6c106633"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-mips.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "6c8be60408fb049827e97e20fba0bf49f0cad03b5f7d3714a22530d356c493cb679f859a70f4baaddfa4119932ce63513f01ee7ad4fdd48192d225b300d6da10"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-mips.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "01bcdfd40a250e18525caa43e1b04e6592a45030e6f28b6cb20ae858f5035bb8f03d0e97c246de36a8395e52b9f0e71e1362a17c692edfc38b5c247f5dc1dc30"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-mips64.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "cb423f0a12ee68063a815211c608f24e9cefef6985886abe678e98c773d18994abe1b42e4336af330613565c2d02585d54736521f0434eb7fe4d993ad70b2b6d"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-mips64.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "649ddc7c2a5a86b8a655e688d467fb9e973e03567a07a9804c087121808d7b30b79649b694dbc8724b2112fbb884396b8d0267defb3c5a7502d26447bf09a3a0"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-mips64le.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "d4bc825b756f59c3ee56ecea0a6fcba3cee99ac5a7450bbe4274abcb12df35cf22c66a055739d2295b7d3b2f13773626caa7454eb0a6fb482e3a1116e659ac68"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-mips64le.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "d62a7b94eba2b15a753e8fa7e75fad46de228eef1f9de3929935356be6808effd6c37be274d2d0b617db6ed624b1936c76840599143142f9edd24abf7b7c040b"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-mipsle.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "028058423f3c14cd079877b639ea49837370e220e9e0df1408ac8adf86f0096fc6cf0b1fac492c7a6ce47d485d8ea14b0528f8af0a8c8e9439b7fb267bff390c"
+    },
+    {
+      "fileName": "xmidt-agent-0.5.21-linux-mipsle.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "c7511f1a5b36a605af3386560f4a941dc33f468294ad9508aa8eb5b1b567866a86fbf64382c99e7ee393a49e2289d2fc7adbfb87582aada4c35eb27a09f815b1"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_386.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "c05975d92216d6a9c7410e68bfb4729baafb072e4f450ffb9e0abaf9f395065cb6e887849fad2cd4ebcdc196707c5a2d686ea111a4fa0312530f770ad8e69299"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_amd64.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "f39114bbbac876211ba09dda4bb14bae0f3c954ff1c6212d12b13c251a4e1b9f8c01e84a3cf5abfd1dc15687e2b8312b7ff38ec0e32f82f11121822667140885"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_arm64.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "20c026bae548e7fcf49596c9b823ee07054077eb24b6d31e41fb0b25a70c8936d2bd402471771164af4256e77f7363729b59473dc710d714acd1189250a37222"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_armv5.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "9ee7172808acb3288f63b7bfe09ef3470f454d6237fa8d4b1bf64e6f62a4c4d8b0d087f97bda27ad0e724a76fcfdfa2e6d4f5aeb5e6cc9301d02b152774396af"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_armv6.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "2e7c0e84dc7039ebc835863cceb36c1a8c1c0ac6c5ccb96ddef7ce8e532137c1565c7f55016e7dc98b9b2e1239adb05eadde7f447130b81900a9005b8814ed42"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_armv7.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "c4250ca9b321b0438427eb3c3944260b96d9817ead94bdbd8fedca4b8eb5f74fd147eb7aedb593f160880614aaa80b904a61c469a15f2902f306768f566756a3"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_mips64_hardfloat.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "bfc93db4a89f9e873590f7c469c87d43d3814b65217fb35941f2e59d82454c206d40a2f78441173ce321c19b1e7d03df6417186b021e4b52c21170bb56de772d"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_mips64le_hardfloat.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "4e9aa3324c82761cf99abf2d94c8e679fb8b18795f29c3dc08363c3a4cdb0428d8ff67fe6c3f9a60d8b22c68e4c5f046e68114ddd15a209b250c735b51162a79"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_mips_hardfloat.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "606da9699c9f81fd10bbb9989fa01faeb9ef748c74b3ed1fdbb2458c5f8ed6a338bd54aae7ce594aad7e83512c3cb3550ff24631f943fcc96b062bb5df75f96e"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_openwrt_mipsle_hardfloat.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "c742d8e3d2997a27570a96022310e826340485b7ada351fc00a863b5a90b29ee29c6dca3375cbf964433eb750674e4a6edffb8c36bf97930718a0be734722f01"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_386.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "ddfd9d875c2096847179035e359d1041e3b211fa891491b58c037f966236a9a7f4341e66691198f0e07dc98be5842ee55970cff11f9f5126129a360227564068"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_amd64.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "d81a410d67d6768784985e88b1f846d52b1610cf11342f100783f43fbc2baa0063a8ce42db40192ece2ac3413265d3d9eccedf7f7ce9f4ded8d0c0275b4b30c1"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_arm64.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "4c1a2be8d56c342f5e3bdf1305f687de7d6bf684bb76f632ebb9ba984d8d70633a572c359b27e55372360e4b482772308dcf2cd1dd208d8a853e2d489c307b7a"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_armv5.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "ba9805fe780c6e18e01fccbc2d00fd70064c240dc2a3a952258308851597413b61a9ec16f7ec279ee7da11f5b75657c9508e26e860bb9cfbfb2f4e2d284e0520"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_armv6.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "8ee0ce813ea8609a1839623b62b2e529183be16a1bbe9c8c5291ba06ce11cedbf142e9e6fe4e36692d9bd5de45ac98dff0bcd395a35b13079446dce77a06b4aa"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_armv7.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "a0947f3991aba79778efee9cfb731eb80457bb407c670061ce3053efe0cdf6119fdc4a4b2fa0f23fee3d0a114fdcabede860d32033e0c59bff7b0537bcd37e9a"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_mips64_hardfloat.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "c5ce82727f8e78a2b1b7a86e62a8aea784b24c6d5e0f1128d052825bf602d5fd52e2721bb3eb6c8d6d4520aecf4f7a2270c77c70e6ad0801be3e5eaea2177b17"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_mips64le_hardfloat.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "85ac4adea15d78d52a4d36dcfad42825e9d234a820d5a523374bc67305af7d6e9de4974ae8ca373e49f0a0167171ba1b1cdf17d72c49d7d1cc8402d07e91f54a"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_mips_hardfloat.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "8f452066048943c352efeed2eb0cca307ceaf575ff9dcb2730b503aaa6529950bcdc47a094a5eb32f0d4edc4068fe197589aabcf4939289001ef5c66fa52b732"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_rdk_mipsle_hardfloat.ipk",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "518f36ee89788b8f0192a2ddf90f0c86e089f8c3a30eba4500506ae124c1759b929affa553371944c9ca8bcc9d7085ef01d9382eecf125f1a9a17cd59720307d"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_src.tar.gz",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "4d32863e6d43e27b15a5eae9d5d53a4a168a84b82eafd1c53582d3e828e08d20b1fde3e76eac0e296989ac8319b30d5abb2814e067e09b36ebfb412419121c47"
+    },
+    {
+      "fileName": "xmidt-agent_0.5.21_src.tar.gz.sbom.json",
+      "algo": "Sha512",
+      "source": "xmidt-agent-0.5.21-checksums.txt",
+      "hash": "80378cf82633798739ccfbf29ca4d089ab78cae075eba2b5c476f0cf5fa9bb3f9bb5fa477faca2a52b62c17100e9379f06ae509f8811f1d0d4051d5e37e28b75"
+    }
+  ]
+}

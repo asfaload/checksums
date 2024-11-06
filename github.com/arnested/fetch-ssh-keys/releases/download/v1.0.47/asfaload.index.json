@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"fetch-ssh-keys_Linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"5e24435de3798ef1d6ef6750593a7e0061242cc30bfa342c88e936146f660bd5"},{"fileName":"fetch-ssh-keys_Linux_i386","algo":"Sha256","source":"checksums.txt","hash":"b4dce0523d6554b75a85ef741c54734f821a1a7a500131d0bae809aa4dbf170d"},{"fileName":"fetch-ssh-keys_Linux_x86_64","algo":"Sha256","source":"checksums.txt","hash":"f8bc66c9c630d8b234ce6e83d471941331951dc00cc5d774f30dbfa24dbf259a"},{"fileName":"fetch-ssh-keys_darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"ae28e98119820d106d5f37151ac0399c8de6b1ac9fe0a94caee8a0dd0cec8171"},{"fileName":"fetch-ssh-keys_darwin_x86_64","algo":"Sha256","source":"checksums.txt","hash":"bba60a70a3cc4221af1f9b404a3caed1769369469ad9af3dae00183c69f16e6a"},{"fileName":"fetch-ssh-keys_windows_arm64.exe","algo":"Sha256","source":"checksums.txt","hash":"af2177f4986e356bcc27fb5b2b94bdacedfd2c926b6bbcd00655aec60ff1b368"},{"fileName":"fetch-ssh-keys_windows_i386.exe","algo":"Sha256","source":"checksums.txt","hash":"9061339377812c908f3daa0fe093e1266cccee964bb4a63a76859aa756cd9dc8"},{"fileName":"fetch-ssh-keys_windows_x86_64.exe","algo":"Sha256","source":"checksums.txt","hash":"ca68666ecb333f5fadece77cde3c837fec7e0fe7814bcfc69985180327b4dfe7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "fetch-ssh-keys_Linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5e24435de3798ef1d6ef6750593a7e0061242cc30bfa342c88e936146f660bd5"
+    },
+    {
+      "fileName": "fetch-ssh-keys_Linux_i386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b4dce0523d6554b75a85ef741c54734f821a1a7a500131d0bae809aa4dbf170d"
+    },
+    {
+      "fileName": "fetch-ssh-keys_Linux_x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f8bc66c9c630d8b234ce6e83d471941331951dc00cc5d774f30dbfa24dbf259a"
+    },
+    {
+      "fileName": "fetch-ssh-keys_darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ae28e98119820d106d5f37151ac0399c8de6b1ac9fe0a94caee8a0dd0cec8171"
+    },
+    {
+      "fileName": "fetch-ssh-keys_darwin_x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bba60a70a3cc4221af1f9b404a3caed1769369469ad9af3dae00183c69f16e6a"
+    },
+    {
+      "fileName": "fetch-ssh-keys_windows_arm64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "af2177f4986e356bcc27fb5b2b94bdacedfd2c926b6bbcd00655aec60ff1b368"
+    },
+    {
+      "fileName": "fetch-ssh-keys_windows_i386.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9061339377812c908f3daa0fe093e1266cccee964bb4a63a76859aa756cd9dc8"
+    },
+    {
+      "fileName": "fetch-ssh-keys_windows_x86_64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ca68666ecb333f5fadece77cde3c837fec7e0fe7814bcfc69985180327b4dfe7"
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410310317/lede-202410310317-tl-wr941n-v7.bin","algo":"Sha256","source":"lede-202410310317-tl-wr941n-v7.bin.sha256sum","hash":"9c3c2619b4291744696a4dc8ac3bdfe4f99061be9f1482227f6cf1ee5b63dc85"},{"fileName":"/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410310317/lede-202410310317-tl-wr941nd-v6-cn.bin","algo":"Sha256","source":"lede-202410310317-tl-wr941nd-v6-cn.bin.sha256sum","hash":"76f8ffa9f99e8ab9a4d64cfec30fdef2a8c0ddbdfb77ab2f210ae80f7d4e16d2"},{"fileName":"/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410310317/lede-202410310317-tl-wr841-v9.bin","algo":"Sha256","source":"lede-202410310317-tl-wr841-v9.bin.sha256sum","hash":"c10ffa4567a62cc35d59ae94014638ffc9c43fb5e07d1bf4a8b5cfcdc8d128ba"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410310317/lede-202410310317-tl-wr941n-v7.bin",
+      "algo": "Sha256",
+      "source": "lede-202410310317-tl-wr941n-v7.bin.sha256sum",
+      "hash": "9c3c2619b4291744696a4dc8ac3bdfe4f99061be9f1482227f6cf1ee5b63dc85"
+    },
+    {
+      "fileName": "/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410310317/lede-202410310317-tl-wr941nd-v6-cn.bin",
+      "algo": "Sha256",
+      "source": "lede-202410310317-tl-wr941nd-v6-cn.bin.sha256sum",
+      "hash": "76f8ffa9f99e8ab9a4d64cfec30fdef2a8c0ddbdfb77ab2f210ae80f7d4e16d2"
+    },
+    {
+      "fileName": "/data/git/github.com/HiGarfield/lede-17.01.4-Mod/releases/download/202410310317/lede-202410310317-tl-wr841-v9.bin",
+      "algo": "Sha256",
+      "source": "lede-202410310317-tl-wr841-v9.bin.sha256sum",
+      "hash": "c10ffa4567a62cc35d59ae94014638ffc9c43fb5e07d1bf4a8b5cfcdc8d128ba"
+    }
+  ]
+}

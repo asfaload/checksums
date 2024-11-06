@@ -1,1 +1,187 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"vlogscli-linux-386-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"vlogscli-linux-386-v0.40.0-victorialogs_checksums.txt","hash":"f39d5c0f9bd803ad0fd12021951314259c35181cf252b48a426053634cb10cc0"},{"fileName":"vlogscli-prod","algo":"Sha256","source":"vlogscli-linux-386-v0.40.0-victorialogs_checksums.txt","hash":"2b4be1b7953b3b65612f80802278c9f2d3f75940bf2730c5203c1d27f375b102"},{"fileName":"victoria-logs-darwin-amd64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"victoria-logs-darwin-amd64-v0.40.0-victorialogs_checksums.txt","hash":"3a43a083faf4ef7cbc451cfb90f960557521ebc55d9924445cfe6f96d482be6f"},{"fileName":"victoria-logs-prod","algo":"Sha256","source":"victoria-logs-darwin-amd64-v0.40.0-victorialogs_checksums.txt","hash":"5cf2bd637f8f3dc45719861f0fb0fea4c1fd400e3e9c371b3d9ca6bec518251c"},{"fileName":"victoria-logs-linux-arm-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"victoria-logs-linux-arm-v0.40.0-victorialogs_checksums.txt","hash":"c153df8a5ed7334ad2acaadfe0d518d1c1e496f41d97a8e9bee8ebd6d5cb700a"},{"fileName":"victoria-logs-prod","algo":"Sha256","source":"victoria-logs-linux-arm-v0.40.0-victorialogs_checksums.txt","hash":"2edab042a3b12e68ee3a705644aad324c0ddad6812b5cd0811f97dbb213ab68f"},{"fileName":"vlogscli-darwin-arm64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"vlogscli-darwin-arm64-v0.40.0-victorialogs_checksums.txt","hash":"1411ec777aa70102a46e52ffab0ae3f1e87a84b6f13724cea0544e4d9f879eca"},{"fileName":"vlogscli-prod","algo":"Sha256","source":"vlogscli-darwin-arm64-v0.40.0-victorialogs_checksums.txt","hash":"3880305a5c45b74177e38bf5e5a85c0152f542d109b6fdc3ddf3544130bb7031"},{"fileName":"victoria-logs-darwin-arm64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"victoria-logs-darwin-arm64-v0.40.0-victorialogs_checksums.txt","hash":"2a14bed324e091edd680b03ff100b6f714d360db5584f6cb73c635ea449b3dff"},{"fileName":"victoria-logs-prod","algo":"Sha256","source":"victoria-logs-darwin-arm64-v0.40.0-victorialogs_checksums.txt","hash":"5a8887ec11354e9de754f2ca8c2ec26254fb999f9d3026dda98f8b353dd66e94"},{"fileName":"victoria-logs-linux-386-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"victoria-logs-linux-386-v0.40.0-victorialogs_checksums.txt","hash":"ca96e6d923f2c72c28211a83bbb7ba03fa09ff23b61467e19b789317a18e3aec"},{"fileName":"victoria-logs-prod","algo":"Sha256","source":"victoria-logs-linux-386-v0.40.0-victorialogs_checksums.txt","hash":"ee2cc301a6159524a4150b94bf7b2c904ce2e85b52a48a63b326e12a41e9f7e4"},{"fileName":"victoria-logs-openbsd-amd64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"victoria-logs-openbsd-amd64-v0.40.0-victorialogs_checksums.txt","hash":"301be1e7d5c7214a3312b98aade0ae06561ac8c3f814d2e0b9c3579056e90167"},{"fileName":"victoria-logs-prod","algo":"Sha256","source":"victoria-logs-openbsd-amd64-v0.40.0-victorialogs_checksums.txt","hash":"bc3bd02b0c55563be4f3a350e46945479d19625079a4069adf173463d3955e6b"},{"fileName":"vlogscli-darwin-amd64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"vlogscli-darwin-amd64-v0.40.0-victorialogs_checksums.txt","hash":"5c44933bad6a9beec519c2216d1dbfae53acb2a621963360b9810e8357dff42e"},{"fileName":"vlogscli-prod","algo":"Sha256","source":"vlogscli-darwin-amd64-v0.40.0-victorialogs_checksums.txt","hash":"606ba4c9d01daef3bf678434a262617d023ee5e6cd149b60ae73f315ac4f62ab"},{"fileName":"vlogscli-linux-amd64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"vlogscli-linux-amd64-v0.40.0-victorialogs_checksums.txt","hash":"32353db4ef2afb494412d9f22ca004f31c8912cd8b14131887392f9f985fb904"},{"fileName":"vlogscli-prod","algo":"Sha256","source":"vlogscli-linux-amd64-v0.40.0-victorialogs_checksums.txt","hash":"6ac166dd253fa97c9fd79c99a4981f7ce8781b725b7dbdc3f13645b4b514ed4e"},{"fileName":"victoria-logs-windows-amd64-v0.40.0-victorialogs.zip","algo":"Sha256","source":"victoria-logs-windows-amd64-v0.40.0-victorialogs_checksums.txt","hash":"18f4611d8f2309e0d8c4521cee67da611a532484d1a4582505262cc3ccdc281c"},{"fileName":"victoria-logs-windows-amd64-prod.exe","algo":"Sha256","source":"victoria-logs-windows-amd64-v0.40.0-victorialogs_checksums.txt","hash":"3a318502e599809b1dbe1a02a654eedc335bb16e6530c9eb2b45c4f5b111e6ea"},{"fileName":"victoria-logs-linux-arm64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"victoria-logs-linux-arm64-v0.40.0-victorialogs_checksums.txt","hash":"8698c336737e787023bba69be79d47fab2041b3e97f93bda2c0f9592f14c0c46"},{"fileName":"victoria-logs-prod","algo":"Sha256","source":"victoria-logs-linux-arm64-v0.40.0-victorialogs_checksums.txt","hash":"ccfa99bfb1cf6d93bb8375a9bf326b3b9cd70452125e9eddbbbe12d141c204c3"},{"fileName":"victoria-logs-freebsd-amd64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"victoria-logs-freebsd-amd64-v0.40.0-victorialogs_checksums.txt","hash":"68f4dcc3e8bc9f0e5817353b0790617aeef7674565cc632eda2234e893e288cb"},{"fileName":"victoria-logs-prod","algo":"Sha256","source":"victoria-logs-freebsd-amd64-v0.40.0-victorialogs_checksums.txt","hash":"c0650e7157b7e4b1cb408fa39cc5d44cf2e4ab8f6f8d0fb7c3a8c59a2bb51e07"},{"fileName":"victoria-logs-linux-amd64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"victoria-logs-linux-amd64-v0.40.0-victorialogs_checksums.txt","hash":"2cc4f24cd8fe308e6da442921816c682f5b8ea16e34d0bc4a58f354136fd5333"},{"fileName":"victoria-logs-prod","algo":"Sha256","source":"victoria-logs-linux-amd64-v0.40.0-victorialogs_checksums.txt","hash":"da5bfbe0a20af8a55e020aecb34e91f3549ef00a3a353507dadffa864a6b46c9"},{"fileName":"vlogscli-freebsd-amd64-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"vlogscli-freebsd-amd64-v0.40.0-victorialogs_checksums.txt","hash":"89f90700d6ab483f7f728506c808a97210803725ae0828d906a1059ac3d94cb0"},{"fileName":"vlogscli-prod","algo":"Sha256","source":"vlogscli-freebsd-amd64-v0.40.0-victorialogs_checksums.txt","hash":"cb1b122876efae171e06368e096d0000331c9ce1c9814300537013c1b1e5881f"},{"fileName":"vlogscli-linux-arm-v0.40.0-victorialogs.tar.gz","algo":"Sha256","source":"vlogscli-linux-arm-v0.40.0-victorialogs_checksums.txt","hash":"4803eb2d13a74d2a2699614e879a620c3dea4c531e140d7150d84d213d3853f2"},{"fileName":"vlogscli-prod","algo":"Sha256","source":"vlogscli-linux-arm-v0.40.0-victorialogs_checksums.txt","hash":"f74a598f9b1c7500029007fd171e6f28beaac45d5eab81ba18c7223f04bdcbed"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "vlogscli-linux-386-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "vlogscli-linux-386-v0.40.0-victorialogs_checksums.txt",
+      "hash": "f39d5c0f9bd803ad0fd12021951314259c35181cf252b48a426053634cb10cc0"
+    },
+    {
+      "fileName": "vlogscli-prod",
+      "algo": "Sha256",
+      "source": "vlogscli-linux-386-v0.40.0-victorialogs_checksums.txt",
+      "hash": "2b4be1b7953b3b65612f80802278c9f2d3f75940bf2730c5203c1d27f375b102"
+    },
+    {
+      "fileName": "victoria-logs-darwin-amd64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-logs-darwin-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "3a43a083faf4ef7cbc451cfb90f960557521ebc55d9924445cfe6f96d482be6f"
+    },
+    {
+      "fileName": "victoria-logs-prod",
+      "algo": "Sha256",
+      "source": "victoria-logs-darwin-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "5cf2bd637f8f3dc45719861f0fb0fea4c1fd400e3e9c371b3d9ca6bec518251c"
+    },
+    {
+      "fileName": "victoria-logs-linux-arm-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-logs-linux-arm-v0.40.0-victorialogs_checksums.txt",
+      "hash": "c153df8a5ed7334ad2acaadfe0d518d1c1e496f41d97a8e9bee8ebd6d5cb700a"
+    },
+    {
+      "fileName": "victoria-logs-prod",
+      "algo": "Sha256",
+      "source": "victoria-logs-linux-arm-v0.40.0-victorialogs_checksums.txt",
+      "hash": "2edab042a3b12e68ee3a705644aad324c0ddad6812b5cd0811f97dbb213ab68f"
+    },
+    {
+      "fileName": "vlogscli-darwin-arm64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "vlogscli-darwin-arm64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "1411ec777aa70102a46e52ffab0ae3f1e87a84b6f13724cea0544e4d9f879eca"
+    },
+    {
+      "fileName": "vlogscli-prod",
+      "algo": "Sha256",
+      "source": "vlogscli-darwin-arm64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "3880305a5c45b74177e38bf5e5a85c0152f542d109b6fdc3ddf3544130bb7031"
+    },
+    {
+      "fileName": "victoria-logs-darwin-arm64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-logs-darwin-arm64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "2a14bed324e091edd680b03ff100b6f714d360db5584f6cb73c635ea449b3dff"
+    },
+    {
+      "fileName": "victoria-logs-prod",
+      "algo": "Sha256",
+      "source": "victoria-logs-darwin-arm64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "5a8887ec11354e9de754f2ca8c2ec26254fb999f9d3026dda98f8b353dd66e94"
+    },
+    {
+      "fileName": "victoria-logs-linux-386-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-logs-linux-386-v0.40.0-victorialogs_checksums.txt",
+      "hash": "ca96e6d923f2c72c28211a83bbb7ba03fa09ff23b61467e19b789317a18e3aec"
+    },
+    {
+      "fileName": "victoria-logs-prod",
+      "algo": "Sha256",
+      "source": "victoria-logs-linux-386-v0.40.0-victorialogs_checksums.txt",
+      "hash": "ee2cc301a6159524a4150b94bf7b2c904ce2e85b52a48a63b326e12a41e9f7e4"
+    },
+    {
+      "fileName": "victoria-logs-openbsd-amd64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-logs-openbsd-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "301be1e7d5c7214a3312b98aade0ae06561ac8c3f814d2e0b9c3579056e90167"
+    },
+    {
+      "fileName": "victoria-logs-prod",
+      "algo": "Sha256",
+      "source": "victoria-logs-openbsd-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "bc3bd02b0c55563be4f3a350e46945479d19625079a4069adf173463d3955e6b"
+    },
+    {
+      "fileName": "vlogscli-darwin-amd64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "vlogscli-darwin-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "5c44933bad6a9beec519c2216d1dbfae53acb2a621963360b9810e8357dff42e"
+    },
+    {
+      "fileName": "vlogscli-prod",
+      "algo": "Sha256",
+      "source": "vlogscli-darwin-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "606ba4c9d01daef3bf678434a262617d023ee5e6cd149b60ae73f315ac4f62ab"
+    },
+    {
+      "fileName": "vlogscli-linux-amd64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "vlogscli-linux-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "32353db4ef2afb494412d9f22ca004f31c8912cd8b14131887392f9f985fb904"
+    },
+    {
+      "fileName": "vlogscli-prod",
+      "algo": "Sha256",
+      "source": "vlogscli-linux-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "6ac166dd253fa97c9fd79c99a4981f7ce8781b725b7dbdc3f13645b4b514ed4e"
+    },
+    {
+      "fileName": "victoria-logs-windows-amd64-v0.40.0-victorialogs.zip",
+      "algo": "Sha256",
+      "source": "victoria-logs-windows-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "18f4611d8f2309e0d8c4521cee67da611a532484d1a4582505262cc3ccdc281c"
+    },
+    {
+      "fileName": "victoria-logs-windows-amd64-prod.exe",
+      "algo": "Sha256",
+      "source": "victoria-logs-windows-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "3a318502e599809b1dbe1a02a654eedc335bb16e6530c9eb2b45c4f5b111e6ea"
+    },
+    {
+      "fileName": "victoria-logs-linux-arm64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-logs-linux-arm64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "8698c336737e787023bba69be79d47fab2041b3e97f93bda2c0f9592f14c0c46"
+    },
+    {
+      "fileName": "victoria-logs-prod",
+      "algo": "Sha256",
+      "source": "victoria-logs-linux-arm64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "ccfa99bfb1cf6d93bb8375a9bf326b3b9cd70452125e9eddbbbe12d141c204c3"
+    },
+    {
+      "fileName": "victoria-logs-freebsd-amd64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-logs-freebsd-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "68f4dcc3e8bc9f0e5817353b0790617aeef7674565cc632eda2234e893e288cb"
+    },
+    {
+      "fileName": "victoria-logs-prod",
+      "algo": "Sha256",
+      "source": "victoria-logs-freebsd-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "c0650e7157b7e4b1cb408fa39cc5d44cf2e4ab8f6f8d0fb7c3a8c59a2bb51e07"
+    },
+    {
+      "fileName": "victoria-logs-linux-amd64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "victoria-logs-linux-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "2cc4f24cd8fe308e6da442921816c682f5b8ea16e34d0bc4a58f354136fd5333"
+    },
+    {
+      "fileName": "victoria-logs-prod",
+      "algo": "Sha256",
+      "source": "victoria-logs-linux-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "da5bfbe0a20af8a55e020aecb34e91f3549ef00a3a353507dadffa864a6b46c9"
+    },
+    {
+      "fileName": "vlogscli-freebsd-amd64-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "vlogscli-freebsd-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "89f90700d6ab483f7f728506c808a97210803725ae0828d906a1059ac3d94cb0"
+    },
+    {
+      "fileName": "vlogscli-prod",
+      "algo": "Sha256",
+      "source": "vlogscli-freebsd-amd64-v0.40.0-victorialogs_checksums.txt",
+      "hash": "cb1b122876efae171e06368e096d0000331c9ce1c9814300537013c1b1e5881f"
+    },
+    {
+      "fileName": "vlogscli-linux-arm-v0.40.0-victorialogs.tar.gz",
+      "algo": "Sha256",
+      "source": "vlogscli-linux-arm-v0.40.0-victorialogs_checksums.txt",
+      "hash": "4803eb2d13a74d2a2699614e879a620c3dea4c531e140d7150d84d213d3853f2"
+    },
+    {
+      "fileName": "vlogscli-prod",
+      "algo": "Sha256",
+      "source": "vlogscli-linux-arm-v0.40.0-victorialogs_checksums.txt",
+      "hash": "f74a598f9b1c7500029007fd171e6f28beaac45d5eab81ba18c7223f04bdcbed"
+    }
+  ]
+}

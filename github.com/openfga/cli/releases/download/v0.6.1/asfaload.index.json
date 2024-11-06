@@ -1,1 +1,217 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"CHANGELOG.md","algo":"Sha256","source":"checksums.txt","hash":"6e5072c44090d992380aabc6251b149fb231bebc845c4031367c5af538eb1579"},{"fileName":"LICENSE","algo":"Sha256","source":"checksums.txt","hash":"cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"},{"fileName":"README.md","algo":"Sha256","source":"checksums.txt","hash":"711b1e1c1be8a3aa7c609d3f7f639dc0cd82a3a6e82ee03930ac061afbf01dae"},{"fileName":"fga.1.gz","algo":"Sha256","source":"checksums.txt","hash":"f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"},{"fileName":"fga.bash","algo":"Sha256","source":"checksums.txt","hash":"9600f851ab2136ff8f33809e2ed53250b04766915fc1352e87d8ed7f15a9eb5d"},{"fileName":"fga.fish","algo":"Sha256","source":"checksums.txt","hash":"726a0bd0d40cc12ad869a43612f12caa40245da6cdf0be2091c5c56123a957a8"},{"fileName":"fga.zsh","algo":"Sha256","source":"checksums.txt","hash":"5cae62af0406813ad93c43b18c2f8d0b980b383069bab81a3b9f4e4016a4f73e"},{"fileName":"fga_0.6.1_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ee74bf6eee75ce0d7660c43857cbaf686eebf158a207d316c30b760d4f7f50f0"},{"fileName":"fga_0.6.1_darwin_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"94bf990ea9511d9c0a18a9ed3dda9d361e007952832e4431c7da268f619139af"},{"fileName":"fga_0.6.1_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2ce01a88561e1dacd94a7171cf1462d66bb47aed9b120aae3d026a9fa2e6608f"},{"fileName":"fga_0.6.1_darwin_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"6b9331fae11d43bc606e4f17de26b9453fd9741b8f8ea93bfab7911adea68f23"},{"fileName":"fga_0.6.1_linux_386.apk","algo":"Sha256","source":"checksums.txt","hash":"7f2232113b6b66284a36822b467b30c718a59c92e5a5f12ba446188171fdbf8a"},{"fileName":"fga_0.6.1_linux_386.deb","algo":"Sha256","source":"checksums.txt","hash":"6e5eb70690831a2629d738502fe7bbf4da38c893f2a4c07dea5cc5c015bc2097"},{"fileName":"fga_0.6.1_linux_386.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"01486a70f4660b8747eccaff41dc4de7055d8ee813fe1b86427a09e30b290654"},{"fileName":"fga_0.6.1_linux_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"bc6ece796c37bc955ed25b41f21afa0f04b63673dc739dfe4d866b0887d88bfa"},{"fileName":"fga_0.6.1_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d5b5c71fb26ff672eaf66432ee34d3e49a65bec5ab18637d649e616799e314aa"},{"fileName":"fga_0.6.1_linux_386.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"eed02ec98ec9cf1c25576be7bb45a5e5eaf0efe18f8c09f6354fa333179b16c1"},{"fileName":"fga_0.6.1_linux_amd64.apk","algo":"Sha256","source":"checksums.txt","hash":"5385e171c415195e323d06155d1153eb8a7c945d3f18d7f2f72bd2f8139f3ba3"},{"fileName":"fga_0.6.1_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"cff31cd7acbed109a1e59970f24dd99286ae0e2ea787870fa9e866925c9c00cc"},{"fileName":"fga_0.6.1_linux_amd64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"b996600d494fbc78991baa71bafc6d2186a44ec90857091d0328426130609fe7"},{"fileName":"fga_0.6.1_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"e4bddd90c9e08fa6561a7ff9eeeb8ee51a49556bebbff0da1d6da55cc7149a8e"},{"fileName":"fga_0.6.1_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1f02d78c00fd1362982d8d7880473f59f72daf08ccffb604e3d19bd4d69ceaa8"},{"fileName":"fga_0.6.1_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"d695cbdf738bb0f6d17fa53308608e954d030dc15ed17b49dc0f97215ea21c02"},{"fileName":"fga_0.6.1_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"b5f8f11326b901a4a2573c5a2ffe04ad20e783b77e8b6d36abed59c589878d81"},{"fileName":"fga_0.6.1_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"5d50d91f9c78f59ad516f897c18eea9684d4186603df02eb6644ccb958d5b9d2"},{"fileName":"fga_0.6.1_linux_arm64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"0e57d69f06bc29be7828b642df5ebb9ab017993c5b11505a57efcde3c6f79308"},{"fileName":"fga_0.6.1_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"e22131e955670c8e5730036c9c0caa9d3970e8e5b066f801cf3d8ea473f1adae"},{"fileName":"fga_0.6.1_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"46cc77cf8cb84bbfd109015f66191a71391edef742b39ca728a2fefec0275ed9"},{"fileName":"fga_0.6.1_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"e4aa6f28ff0add7eb99ae9d6445c746f4ce3ec80cfc2f5fa8df2557b1fd12bb7"},{"fileName":"fga_0.6.1_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b851444697f6a33434c44fb65cab29425e9c0e643a3f83adabceae3062dbc41b"},{"fileName":"fga_0.6.1_windows_386.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"f70fe190674f185ac30bc2742449fa9e28ff8593f2ad325fa21046f6abfcf679"},{"fileName":"fga_0.6.1_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1032a6d6279dcfafe3e47aba4b1089c83e5b031bfb5beb3f86a886c08a512cea"},{"fileName":"fga_0.6.1_windows_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"3d74f0786c1e51de0aa8c018e85d11da1e341eef5e526ba2803ee96faed4ec2f"},{"fileName":"fga_0.6.1_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8c3027091ac99d37960ea432407314e09d8543ebe2beba689a5de1aea43db620"},{"fileName":"fga_0.6.1_windows_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"d8b5907ca5b6ecd2a5c2e50a156335bd31c382966194c5cd6f843d76969b8316"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "CHANGELOG.md",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6e5072c44090d992380aabc6251b149fb231bebc845c4031367c5af538eb1579"
+    },
+    {
+      "fileName": "LICENSE",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "fileName": "README.md",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "711b1e1c1be8a3aa7c609d3f7f639dc0cd82a3a6e82ee03930ac061afbf01dae"
+    },
+    {
+      "fileName": "fga.1.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+    },
+    {
+      "fileName": "fga.bash",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9600f851ab2136ff8f33809e2ed53250b04766915fc1352e87d8ed7f15a9eb5d"
+    },
+    {
+      "fileName": "fga.fish",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "726a0bd0d40cc12ad869a43612f12caa40245da6cdf0be2091c5c56123a957a8"
+    },
+    {
+      "fileName": "fga.zsh",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5cae62af0406813ad93c43b18c2f8d0b980b383069bab81a3b9f4e4016a4f73e"
+    },
+    {
+      "fileName": "fga_0.6.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ee74bf6eee75ce0d7660c43857cbaf686eebf158a207d316c30b760d4f7f50f0"
+    },
+    {
+      "fileName": "fga_0.6.1_darwin_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "94bf990ea9511d9c0a18a9ed3dda9d361e007952832e4431c7da268f619139af"
+    },
+    {
+      "fileName": "fga_0.6.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2ce01a88561e1dacd94a7171cf1462d66bb47aed9b120aae3d026a9fa2e6608f"
+    },
+    {
+      "fileName": "fga_0.6.1_darwin_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6b9331fae11d43bc606e4f17de26b9453fd9741b8f8ea93bfab7911adea68f23"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_386.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7f2232113b6b66284a36822b467b30c718a59c92e5a5f12ba446188171fdbf8a"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6e5eb70690831a2629d738502fe7bbf4da38c893f2a4c07dea5cc5c015bc2097"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_386.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "01486a70f4660b8747eccaff41dc4de7055d8ee813fe1b86427a09e30b290654"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bc6ece796c37bc955ed25b41f21afa0f04b63673dc739dfe4d866b0887d88bfa"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d5b5c71fb26ff672eaf66432ee34d3e49a65bec5ab18637d649e616799e314aa"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_386.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eed02ec98ec9cf1c25576be7bb45a5e5eaf0efe18f8c09f6354fa333179b16c1"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5385e171c415195e323d06155d1153eb8a7c945d3f18d7f2f72bd2f8139f3ba3"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cff31cd7acbed109a1e59970f24dd99286ae0e2ea787870fa9e866925c9c00cc"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_amd64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b996600d494fbc78991baa71bafc6d2186a44ec90857091d0328426130609fe7"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e4bddd90c9e08fa6561a7ff9eeeb8ee51a49556bebbff0da1d6da55cc7149a8e"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1f02d78c00fd1362982d8d7880473f59f72daf08ccffb604e3d19bd4d69ceaa8"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d695cbdf738bb0f6d17fa53308608e954d030dc15ed17b49dc0f97215ea21c02"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b5f8f11326b901a4a2573c5a2ffe04ad20e783b77e8b6d36abed59c589878d81"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5d50d91f9c78f59ad516f897c18eea9684d4186603df02eb6644ccb958d5b9d2"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_arm64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0e57d69f06bc29be7828b642df5ebb9ab017993c5b11505a57efcde3c6f79308"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e22131e955670c8e5730036c9c0caa9d3970e8e5b066f801cf3d8ea473f1adae"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "46cc77cf8cb84bbfd109015f66191a71391edef742b39ca728a2fefec0275ed9"
+    },
+    {
+      "fileName": "fga_0.6.1_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e4aa6f28ff0add7eb99ae9d6445c746f4ce3ec80cfc2f5fa8df2557b1fd12bb7"
+    },
+    {
+      "fileName": "fga_0.6.1_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b851444697f6a33434c44fb65cab29425e9c0e643a3f83adabceae3062dbc41b"
+    },
+    {
+      "fileName": "fga_0.6.1_windows_386.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f70fe190674f185ac30bc2742449fa9e28ff8593f2ad325fa21046f6abfcf679"
+    },
+    {
+      "fileName": "fga_0.6.1_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1032a6d6279dcfafe3e47aba4b1089c83e5b031bfb5beb3f86a886c08a512cea"
+    },
+    {
+      "fileName": "fga_0.6.1_windows_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3d74f0786c1e51de0aa8c018e85d11da1e341eef5e526ba2803ee96faed4ec2f"
+    },
+    {
+      "fileName": "fga_0.6.1_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8c3027091ac99d37960ea432407314e09d8543ebe2beba689a5de1aea43db620"
+    },
+    {
+      "fileName": "fga_0.6.1_windows_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d8b5907ca5b6ecd2a5c2e50a156335bd31c382966194c5cd6f843d76969b8316"
+    }
+  ]
+}

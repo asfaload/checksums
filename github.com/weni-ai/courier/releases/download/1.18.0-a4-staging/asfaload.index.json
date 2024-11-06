@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"courier_1.18.0-a4-staging_windows_amd64.tar.gz","algo":"Sha256","source":"courier_1.18.0-a4-staging_checksums.txt","hash":"0312d6178425d13936811cf5bb223550bc1e47346f18aac4a1fdb2375dd6190f"},{"fileName":"courier_1.18.0-a4-staging_darwin_amd64.tar.gz","algo":"Sha256","source":"courier_1.18.0-a4-staging_checksums.txt","hash":"73ff08a4752be3b41ede789bcc749c0b7294cde481fe2cce6d41c79012327ab3"},{"fileName":"courier_1.18.0-a4-staging_linux_amd64.tar.gz","algo":"Sha256","source":"courier_1.18.0-a4-staging_checksums.txt","hash":"bd449f3ac1b053fdb689ed36a2c984f28c3c46c9a7f3432dfa586d075d2d970f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "courier_1.18.0-a4-staging_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "courier_1.18.0-a4-staging_checksums.txt",
+      "hash": "0312d6178425d13936811cf5bb223550bc1e47346f18aac4a1fdb2375dd6190f"
+    },
+    {
+      "fileName": "courier_1.18.0-a4-staging_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "courier_1.18.0-a4-staging_checksums.txt",
+      "hash": "73ff08a4752be3b41ede789bcc749c0b7294cde481fe2cce6d41c79012327ab3"
+    },
+    {
+      "fileName": "courier_1.18.0-a4-staging_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "courier_1.18.0-a4-staging_checksums.txt",
+      "hash": "bd449f3ac1b053fdb689ed36a2c984f28c3c46c9a7f3432dfa586d075d2d970f"
+    }
+  ]
+}

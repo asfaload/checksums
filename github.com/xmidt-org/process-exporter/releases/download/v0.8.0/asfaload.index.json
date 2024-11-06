@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"process-exporter-0.8.0-linux-arm64.tar.gz","algo":"Sha512","source":"process-exporter-0.8.0-checksums.txt","hash":"073aca8ce738c8346e056ecff8788be7de2c46b4ed03788f60c0f9ce9d67300109863929f9d7b7b4dfeab1d753dc05be683e86f327038e16ab78775b5568778a"},{"fileName":"process-exporter-0.8.0-linux-amd64.tar.gz","algo":"Sha512","source":"process-exporter-0.8.0-checksums.txt","hash":"566dd998375d7441c3f8b0e7dd161137ca3dfd899d7c86172c869948450a97b1801581de49200dff50af0686cec07cd9442e3ee2443289ec251d19c0870e65b6"},{"fileName":"process-exporter-0.8.0.x86_64.rpm","algo":"Sha512","source":"process-exporter-0.8.0-checksums.txt","hash":"73d74cbff28b28e3074a307a0908933707933c44bf6f439c732a8eac909e61ce33ac5d3d955fda8d89d5e1b08a5bfcd0cf32f7c668ae6fb91164e7fd082307ca"},{"fileName":"process-exporter-0.8.0.aarch64.rpm","algo":"Sha512","source":"process-exporter-0.8.0-checksums.txt","hash":"a2aeb378c2aea70dd080af06cb3859157e868174dd361cf948081b474f0e9caf813510c6042c5b01f75f248a3c333d6dc409eb7dedc13c983a601cacb20fe48d"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "process-exporter-0.8.0-linux-arm64.tar.gz",
+      "algo": "Sha512",
+      "source": "process-exporter-0.8.0-checksums.txt",
+      "hash": "073aca8ce738c8346e056ecff8788be7de2c46b4ed03788f60c0f9ce9d67300109863929f9d7b7b4dfeab1d753dc05be683e86f327038e16ab78775b5568778a"
+    },
+    {
+      "fileName": "process-exporter-0.8.0-linux-amd64.tar.gz",
+      "algo": "Sha512",
+      "source": "process-exporter-0.8.0-checksums.txt",
+      "hash": "566dd998375d7441c3f8b0e7dd161137ca3dfd899d7c86172c869948450a97b1801581de49200dff50af0686cec07cd9442e3ee2443289ec251d19c0870e65b6"
+    },
+    {
+      "fileName": "process-exporter-0.8.0.x86_64.rpm",
+      "algo": "Sha512",
+      "source": "process-exporter-0.8.0-checksums.txt",
+      "hash": "73d74cbff28b28e3074a307a0908933707933c44bf6f439c732a8eac909e61ce33ac5d3d955fda8d89d5e1b08a5bfcd0cf32f7c668ae6fb91164e7fd082307ca"
+    },
+    {
+      "fileName": "process-exporter-0.8.0.aarch64.rpm",
+      "algo": "Sha512",
+      "source": "process-exporter-0.8.0-checksums.txt",
+      "hash": "a2aeb378c2aea70dd080af06cb3859157e868174dd361cf948081b474f0e9caf813510c6042c5b01f75f248a3c333d6dc409eb7dedc13c983a601cacb20fe48d"
+    }
+  ]
+}

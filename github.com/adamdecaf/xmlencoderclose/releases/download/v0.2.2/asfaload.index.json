@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"xmlencoderclose_0.2.2_darwin_amd64.tar.gz","algo":"Sha256","source":"xmlencoderclose_0.2.2_checksums.txt","hash":"458251462795db6dd055a5279c4cfe90ea002289b9d2bab097dbadcd3be2a3f9"},{"fileName":"xmlencoderclose_0.2.2_darwin_arm64.tar.gz","algo":"Sha256","source":"xmlencoderclose_0.2.2_checksums.txt","hash":"8a64a469913325e09af0d0b88e29d8d0d113c5c853bc84ada0c937fc2835fcfe"},{"fileName":"xmlencoderclose_0.2.2_linux_386.tar.gz","algo":"Sha256","source":"xmlencoderclose_0.2.2_checksums.txt","hash":"da63ec4b8eee9743f3cbbfeb76f66906333399ea7f2e947d9daff754c974d500"},{"fileName":"xmlencoderclose_0.2.2_linux_amd64.tar.gz","algo":"Sha256","source":"xmlencoderclose_0.2.2_checksums.txt","hash":"c7be99f64ae13094ea42f7e24ead55f2515916dd9ec99e8731c1bb4abef7a388"},{"fileName":"xmlencoderclose_0.2.2_linux_arm64.tar.gz","algo":"Sha256","source":"xmlencoderclose_0.2.2_checksums.txt","hash":"43954771359735f420be8de067e59971b9b19459c77cc6ec3431cfeafea3a903"},{"fileName":"xmlencoderclose_0.2.2_windows_386.tar.gz","algo":"Sha256","source":"xmlencoderclose_0.2.2_checksums.txt","hash":"a5d0c01b6d5a9b9e5b03f8595d03da21b4b90484f3a66c53b4f37222d80c034d"},{"fileName":"xmlencoderclose_0.2.2_windows_amd64.tar.gz","algo":"Sha256","source":"xmlencoderclose_0.2.2_checksums.txt","hash":"fc6968511025e8dbd9d3cd46159e911abea87c7f9d1a8aee29086c49724d306a"},{"fileName":"xmlencoderclose_0.2.2_windows_arm64.tar.gz","algo":"Sha256","source":"xmlencoderclose_0.2.2_checksums.txt","hash":"9375357b8336e0b687fb80588a111c70958cf9b96af11041dbb1f637edc5c5de"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "xmlencoderclose_0.2.2_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "xmlencoderclose_0.2.2_checksums.txt",
+      "hash": "458251462795db6dd055a5279c4cfe90ea002289b9d2bab097dbadcd3be2a3f9"
+    },
+    {
+      "fileName": "xmlencoderclose_0.2.2_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "xmlencoderclose_0.2.2_checksums.txt",
+      "hash": "8a64a469913325e09af0d0b88e29d8d0d113c5c853bc84ada0c937fc2835fcfe"
+    },
+    {
+      "fileName": "xmlencoderclose_0.2.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "xmlencoderclose_0.2.2_checksums.txt",
+      "hash": "da63ec4b8eee9743f3cbbfeb76f66906333399ea7f2e947d9daff754c974d500"
+    },
+    {
+      "fileName": "xmlencoderclose_0.2.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "xmlencoderclose_0.2.2_checksums.txt",
+      "hash": "c7be99f64ae13094ea42f7e24ead55f2515916dd9ec99e8731c1bb4abef7a388"
+    },
+    {
+      "fileName": "xmlencoderclose_0.2.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "xmlencoderclose_0.2.2_checksums.txt",
+      "hash": "43954771359735f420be8de067e59971b9b19459c77cc6ec3431cfeafea3a903"
+    },
+    {
+      "fileName": "xmlencoderclose_0.2.2_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "xmlencoderclose_0.2.2_checksums.txt",
+      "hash": "a5d0c01b6d5a9b9e5b03f8595d03da21b4b90484f3a66c53b4f37222d80c034d"
+    },
+    {
+      "fileName": "xmlencoderclose_0.2.2_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "xmlencoderclose_0.2.2_checksums.txt",
+      "hash": "fc6968511025e8dbd9d3cd46159e911abea87c7f9d1a8aee29086c49724d306a"
+    },
+    {
+      "fileName": "xmlencoderclose_0.2.2_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "xmlencoderclose_0.2.2_checksums.txt",
+      "hash": "9375357b8336e0b687fb80588a111c70958cf9b96af11041dbb1f637edc5c5de"
+    }
+  ]
+}

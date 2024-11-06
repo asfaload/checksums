@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sj_Darwin_arm64.tar.gz","algo":"Sha256","source":"sj_1.9.2_checksums.txt","hash":"cfa374a4f7b4be2b93921bedd70dbf4f609b9d73a8f607c4b0d059175cef29d2"},{"fileName":"sj_Darwin_x86_64.tar.gz","algo":"Sha256","source":"sj_1.9.2_checksums.txt","hash":"a241a3b59ad62275b0317789c3aea7ebc709bc85f1ee905e3954c7c1115e5a85"},{"fileName":"sj_Linux_arm64.tar.gz","algo":"Sha256","source":"sj_1.9.2_checksums.txt","hash":"898638d79dd12b8e918ed399ec3fb60ae273cf705182b3a64cbdbc5e275bc308"},{"fileName":"sj_Linux_i386.tar.gz","algo":"Sha256","source":"sj_1.9.2_checksums.txt","hash":"f9f526b962e238afcf27480489b7421abcfded953eecf0c3097b5ef1212f4021"},{"fileName":"sj_Linux_x86_64.tar.gz","algo":"Sha256","source":"sj_1.9.2_checksums.txt","hash":"7a4e4af6722edab88c8b2f1ce9b03fa9890bff414cdceaa615c08f56e990196c"},{"fileName":"sj_Windows_arm64.zip","algo":"Sha256","source":"sj_1.9.2_checksums.txt","hash":"6895cae134d2d88b0e02d8e3f90ee1ef5d3cf1dfc47450d694934d60a66170f4"},{"fileName":"sj_Windows_i386.zip","algo":"Sha256","source":"sj_1.9.2_checksums.txt","hash":"a20838195b4407cd02eba02222f53a8ff9c5f1d54edff09288e5bb9f17e03604"},{"fileName":"sj_Windows_x86_64.zip","algo":"Sha256","source":"sj_1.9.2_checksums.txt","hash":"889dff9e508f67316a06c6c913dfc7220e696fff921b4d3a9619db6584208c3f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sj_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "sj_1.9.2_checksums.txt",
+      "hash": "cfa374a4f7b4be2b93921bedd70dbf4f609b9d73a8f607c4b0d059175cef29d2"
+    },
+    {
+      "fileName": "sj_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "sj_1.9.2_checksums.txt",
+      "hash": "a241a3b59ad62275b0317789c3aea7ebc709bc85f1ee905e3954c7c1115e5a85"
+    },
+    {
+      "fileName": "sj_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "sj_1.9.2_checksums.txt",
+      "hash": "898638d79dd12b8e918ed399ec3fb60ae273cf705182b3a64cbdbc5e275bc308"
+    },
+    {
+      "fileName": "sj_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "sj_1.9.2_checksums.txt",
+      "hash": "f9f526b962e238afcf27480489b7421abcfded953eecf0c3097b5ef1212f4021"
+    },
+    {
+      "fileName": "sj_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "sj_1.9.2_checksums.txt",
+      "hash": "7a4e4af6722edab88c8b2f1ce9b03fa9890bff414cdceaa615c08f56e990196c"
+    },
+    {
+      "fileName": "sj_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "sj_1.9.2_checksums.txt",
+      "hash": "6895cae134d2d88b0e02d8e3f90ee1ef5d3cf1dfc47450d694934d60a66170f4"
+    },
+    {
+      "fileName": "sj_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "sj_1.9.2_checksums.txt",
+      "hash": "a20838195b4407cd02eba02222f53a8ff9c5f1d54edff09288e5bb9f17e03604"
+    },
+    {
+      "fileName": "sj_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "sj_1.9.2_checksums.txt",
+      "hash": "889dff9e508f67316a06c6c913dfc7220e696fff921b4d3a9619db6584208c3f"
+    }
+  ]
+}

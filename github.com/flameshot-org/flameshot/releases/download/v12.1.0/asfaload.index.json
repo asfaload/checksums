@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1-lp15.2.x86_64.rpm","algo":"Sha256","source":"flameshot-12.1.0-1-lp15.2.x86_64.rpm.sha256sum","hash":"b25a7d7970fe8831e10859bb183d2479b4f89fb3a01810f80dfcc698d900435c"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.ubuntu-20.04.amd64.deb","algo":"Sha256","source":"flameshot-12.1.0-1.ubuntu-20.04.amd64.deb.sha256sum","hash":"4ea996279dddf2de2bdeb39d1237893c6c6da8cf0b5fcba9ab6038ba7e62c667"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-11.amd64.deb","algo":"Sha256","source":"flameshot-12.1.0-1.debian-11.amd64.deb.sha256sum","hash":"8fadc826b9fe3077fe55830cade2321438f4fc16ee03e65e0ad0b18eeb878def"},{"fileName":"Flameshot-12.1.0.x86_64.AppImage","algo":"Sha256","source":"Flameshot-12.1.0.x86_64.AppImage.sha256sum","hash":"c30634c84161f09e8dde74c76367b1ce848414bb1cc269c2a2715f6803220738"},{"fileName":"flameshot-12.1.0-win64.zip","algo":"Sha256","source":"flameshot-12.1.0-win64.zip.sha256sum","hash":"09d5fabedbc8e4ed9233030c10f6e3a46d051c0efa2c88c081b3ebcdf1ae7596"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-11.arm64.deb","algo":"Sha256","source":"flameshot-12.1.0-1.debian-11.arm64.deb.sha256sum","hash":"437c66abe0bdca413c97b6ad3bfd690b2a8ca3e20e60a9f99795d5f432aecef5"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.fc35.x86_64.rpm","algo":"Sha256","source":"flameshot-12.1.0-1.fc35.x86_64.rpm.sha256sum","hash":"10e82e96ad6916de8b63983f6c0dabcf062a9ca827cde4c1e86eaccf072c3018"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.amd64.snap","algo":"Sha256","source":"flameshot-12.1.0-1.amd64.snap.sha256sum","hash":"06a2ae2ab06a00656af6ad9273b3ce1045fbf5cae562a3414cf306184431514c"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.ubuntu-22.04.amd64.deb","algo":"Sha256","source":"flameshot-12.1.0-1.ubuntu-22.04.amd64.deb.sha256sum","hash":"e0fb4db3321c1aff465c93a171b81fc750c38e48172ac1b3d28160d722815492"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-10.amd64.deb","algo":"Sha256","source":"flameshot-12.1.0-1.debian-10.amd64.deb.sha256sum","hash":"33132ac63c64eb2a37de39d3d5bf4fd09266166c912d1cc0b26ea8eb0e9f27de"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.fc36.x86_64.rpm","algo":"Sha256","source":"flameshot-12.1.0-1.fc36.x86_64.rpm.sha256sum","hash":"f8b4dfc244a8d6d8a9fb88b719ec8c4f3417160652ee094370cdf557ad3f9eb3"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-10.armhf.deb","algo":"Sha256","source":"flameshot-12.1.0-1.debian-10.armhf.deb.sha256sum","hash":"310664904ce03a6562b1a4d6e3106e94d4c528e7f4c90e24541d677e7b3b4fb4"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-10.arm64.deb","algo":"Sha256","source":"flameshot-12.1.0-1.debian-10.arm64.deb.sha256sum","hash":"840a1615e30e9225b0484ed63e317a46243acb60f20f0ef6dc723f899b0f9048"},{"fileName":"Flameshot-12.1.0-win64.msi","algo":"Sha256","source":"Flameshot-12.1.0-win64.msi.sha256sum","hash":"e4559e32213ffa2e60533a02c5845aebfe110d5c8d8592739c6a6d202928fabf"},{"fileName":"/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-11.armhf.deb","algo":"Sha256","source":"flameshot-12.1.0-1.debian-11.armhf.deb.sha256sum","hash":"256859aae176e438e6ed66de49962db5c580b9ff0db25e7796cf932bcd522a85"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1-lp15.2.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1-lp15.2.x86_64.rpm.sha256sum",
+      "hash": "b25a7d7970fe8831e10859bb183d2479b4f89fb3a01810f80dfcc698d900435c"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.ubuntu-20.04.amd64.deb",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.ubuntu-20.04.amd64.deb.sha256sum",
+      "hash": "4ea996279dddf2de2bdeb39d1237893c6c6da8cf0b5fcba9ab6038ba7e62c667"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-11.amd64.deb",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.debian-11.amd64.deb.sha256sum",
+      "hash": "8fadc826b9fe3077fe55830cade2321438f4fc16ee03e65e0ad0b18eeb878def"
+    },
+    {
+      "fileName": "Flameshot-12.1.0.x86_64.AppImage",
+      "algo": "Sha256",
+      "source": "Flameshot-12.1.0.x86_64.AppImage.sha256sum",
+      "hash": "c30634c84161f09e8dde74c76367b1ce848414bb1cc269c2a2715f6803220738"
+    },
+    {
+      "fileName": "flameshot-12.1.0-win64.zip",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-win64.zip.sha256sum",
+      "hash": "09d5fabedbc8e4ed9233030c10f6e3a46d051c0efa2c88c081b3ebcdf1ae7596"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-11.arm64.deb",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.debian-11.arm64.deb.sha256sum",
+      "hash": "437c66abe0bdca413c97b6ad3bfd690b2a8ca3e20e60a9f99795d5f432aecef5"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.fc35.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.fc35.x86_64.rpm.sha256sum",
+      "hash": "10e82e96ad6916de8b63983f6c0dabcf062a9ca827cde4c1e86eaccf072c3018"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.amd64.snap",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.amd64.snap.sha256sum",
+      "hash": "06a2ae2ab06a00656af6ad9273b3ce1045fbf5cae562a3414cf306184431514c"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.ubuntu-22.04.amd64.deb",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.ubuntu-22.04.amd64.deb.sha256sum",
+      "hash": "e0fb4db3321c1aff465c93a171b81fc750c38e48172ac1b3d28160d722815492"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-10.amd64.deb",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.debian-10.amd64.deb.sha256sum",
+      "hash": "33132ac63c64eb2a37de39d3d5bf4fd09266166c912d1cc0b26ea8eb0e9f27de"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.fc36.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.fc36.x86_64.rpm.sha256sum",
+      "hash": "f8b4dfc244a8d6d8a9fb88b719ec8c4f3417160652ee094370cdf557ad3f9eb3"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-10.armhf.deb",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.debian-10.armhf.deb.sha256sum",
+      "hash": "310664904ce03a6562b1a4d6e3106e94d4c528e7f4c90e24541d677e7b3b4fb4"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-10.arm64.deb",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.debian-10.arm64.deb.sha256sum",
+      "hash": "840a1615e30e9225b0484ed63e317a46243acb60f20f0ef6dc723f899b0f9048"
+    },
+    {
+      "fileName": "Flameshot-12.1.0-win64.msi",
+      "algo": "Sha256",
+      "source": "Flameshot-12.1.0-win64.msi.sha256sum",
+      "hash": "e4559e32213ffa2e60533a02c5845aebfe110d5c8d8592739c6a6d202928fabf"
+    },
+    {
+      "fileName": "/home/runner/work/flameshot/flameshot/build/flameshot-12.1.0-1.debian-11.armhf.deb",
+      "algo": "Sha256",
+      "source": "flameshot-12.1.0-1.debian-11.armhf.deb.sha256sum",
+      "hash": "256859aae176e438e6ed66de49962db5c580b9ff0db25e7796cf932bcd522a85"
+    }
+  ]
+}

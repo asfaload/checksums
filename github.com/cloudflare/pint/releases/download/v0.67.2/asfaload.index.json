@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pint-0.67.2-darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"33ca2febd20cc6f7b5f1e350cf57dc6b3c8cbd1d7d8b05cf88ea6bb21d4546c8"},{"fileName":"pint-0.67.2-darwin-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"12deac1674ddd50e8072c40ef44eaf646264343f38fa07d52eb9dd11217466c2"},{"fileName":"pint-0.67.2-linux-386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5e0c447150041d65999dbb6492aad4728a31f3abd85e0a6f004a7530925427d7"},{"fileName":"pint-0.67.2-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"048e91646b11aab5d69c09bdb429198138975c1eae26d458db236b175dcd1704"},{"fileName":"pint-0.67.2-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"839b3054852b648004caa5c83fd57256d6e305f4c41de763daa00d70cb863f94"},{"fileName":"pint-0.67.2-windows-386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ab3555bb19371812770df37369a0406b752a88f81e0df71c6b56ed0017063224"},{"fileName":"pint-0.67.2-windows-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7212c0de579fff4e1699a499c157e66116aff0db411efd6139c487ddf519f91f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pint-0.67.2-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "33ca2febd20cc6f7b5f1e350cf57dc6b3c8cbd1d7d8b05cf88ea6bb21d4546c8"
+    },
+    {
+      "fileName": "pint-0.67.2-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "12deac1674ddd50e8072c40ef44eaf646264343f38fa07d52eb9dd11217466c2"
+    },
+    {
+      "fileName": "pint-0.67.2-linux-386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5e0c447150041d65999dbb6492aad4728a31f3abd85e0a6f004a7530925427d7"
+    },
+    {
+      "fileName": "pint-0.67.2-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "048e91646b11aab5d69c09bdb429198138975c1eae26d458db236b175dcd1704"
+    },
+    {
+      "fileName": "pint-0.67.2-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "839b3054852b648004caa5c83fd57256d6e305f4c41de763daa00d70cb863f94"
+    },
+    {
+      "fileName": "pint-0.67.2-windows-386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ab3555bb19371812770df37369a0406b752a88f81e0df71c6b56ed0017063224"
+    },
+    {
+      "fileName": "pint-0.67.2-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7212c0de579fff4e1699a499c157e66116aff0db411efd6139c487ddf519f91f"
+    }
+  ]
+}

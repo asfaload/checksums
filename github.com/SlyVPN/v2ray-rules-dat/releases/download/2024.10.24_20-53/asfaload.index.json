@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"geoip.dat","algo":"Sha256","source":"geoip.dat.sha256sum","hash":"349b0189bb2c79a24eb1df48da85255152b8c21af74485aa4582b7e34ea59ea8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "geoip.dat",
+      "algo": "Sha256",
+      "source": "geoip.dat.sha256sum",
+      "hash": "349b0189bb2c79a24eb1df48da85255152b8c21af74485aa4582b7e34ea59ea8"
+    }
+  ]
+}

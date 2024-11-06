@@ -1,1 +1,139 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gateway_linux-amd64.tar.gz","algo":"Sha256","source":"gateway_checksums.txt","hash":"62f530ba28b8e70c955d32849ec21d86b33f966ee339d74df1095586bdb7f9b8"},{"fileName":"gateway_linux-arm64.tar.gz","algo":"Sha256","source":"gateway_checksums.txt","hash":"4fe2e28d2c271458ce2437f88f7cc9d2f62ad50d791499ceb4380f2b7cdc3478"},{"fileName":"operator_linux-amd64.tar.gz","algo":"Sha256","source":"operator_checksums.txt","hash":"565fa18b26acb2567181dcb54c5c20c0d370cc6882247dabe402b65e3318654b"},{"fileName":"operator_linux-arm64.tar.gz","algo":"Sha256","source":"operator_checksums.txt","hash":"244c9c7c51efef875a34b563da592a57e053ec1f9e8962378ac617179bc3e266"},{"fileName":"ledger_2.0.20_linux_amd64.deb","algo":"Sha256","source":"ledger_checksums.txt","hash":"42da59848f4dc9b64b26402ee983bdd52ecdad401b844d0663057ac752d62edd"},{"fileName":"ledger_2.0.20_linux_amd64.rpm","algo":"Sha256","source":"ledger_checksums.txt","hash":"5746b45846d396af0b1573c49b6fb21454387d7651c5456a182b64006c17fe3d"},{"fileName":"ledger_2.0.20_linux_arm64.deb","algo":"Sha256","source":"ledger_checksums.txt","hash":"1579c4a30e310baab478d414b12a9c01336b191eac21add62bee63e184dd4e5d"},{"fileName":"ledger_2.0.20_linux_arm64.rpm","algo":"Sha256","source":"ledger_checksums.txt","hash":"f15ba4a49ac5cdb9053738b5da15d320b7f1ae409d44cb19b9a53b4072881117"},{"fileName":"auth_linux-amd64.tar.gz","algo":"Sha256","source":"auth_checksums.txt","hash":"57d40edee53f71f106855f88a8e63f46cd56bae7057a616f5d2868f0636d3123"},{"fileName":"auth_linux-arm64.tar.gz","algo":"Sha256","source":"auth_checksums.txt","hash":"73e3701e39133be57cc79b59e80c8a680313881e45706c23e351ae34b9641d6b"},{"fileName":"orchestration_linux-amd64.tar.gz","algo":"Sha256","source":"orchestration_checksums.txt","hash":"e9a0a2c6e23650c5a497ebaddf0a77fd5f240637c0b00a6ba13075f179aa6885"},{"fileName":"orchestration_linux-arm64.tar.gz","algo":"Sha256","source":"orchestration_checksums.txt","hash":"85a900e44c8c793ce75d461bb0fd9258858d64965c7ffeb502ba2c507841da25"},{"fileName":"fctl_darwin-amd64.tar.gz","algo":"Sha256","source":"fctl_checksums.txt","hash":"b01befc80fc4f22f161ddbdeb2519a22190ad338a4341d690e0f70d624c8b9f8"},{"fileName":"fctl_darwin-arm64.tar.gz","algo":"Sha256","source":"fctl_checksums.txt","hash":"7b1fdde9bab8f1a57fb5f0eaf079aa9d2dc5141b1caacc8830f07a24bb00611b"},{"fileName":"fctl_linux-amd64.tar.gz","algo":"Sha256","source":"fctl_checksums.txt","hash":"09056a3de7ce4a6a224ca2af4c3d11327e172ac7f4592af551377882d0d82e77"},{"fileName":"fctl_linux-arm64.tar.gz","algo":"Sha256","source":"fctl_checksums.txt","hash":"73b4443bb39a43b84fbd783bed6c49e4a9f1fae57933f0a0e08a0ee4a784990a"},{"fileName":"fctl_windows-amd64.zip","algo":"Sha256","source":"fctl_checksums.txt","hash":"fa759a0827f874c9499e00277513b15122e4790705e5839defba58feea1521ff"},{"fileName":"fctl_windows-arm64.zip","algo":"Sha256","source":"fctl_checksums.txt","hash":"205b4acc0d35d38f5349750f3149f9b62dd7ae4aefad27926c3694a64364147d"},{"fileName":"operator-utils_linux-amd64.tar.gz","algo":"Sha256","source":"operator-utils_checksums.txt","hash":"3c0343fab48d7db2d71609ad965048297a70f31533b529dff621bc6747d01765"},{"fileName":"operator-utils_linux-arm64.tar.gz","algo":"Sha256","source":"operator-utils_checksums.txt","hash":"7d05de044546065f690974303041ea117c4099ee80401e7b482fcb9c7d39fd32"},{"fileName":"agent_linux-amd64.tar.gz","algo":"Sha256","source":"agent_checksums.txt","hash":"8b24eebc0dc2b3d00e6347f4c115ed177b3a094226380d9074015f094c70cc34"},{"fileName":"agent_linux-arm64.tar.gz","algo":"Sha256","source":"agent_checksums.txt","hash":"ead937ac93ff83abb4e7b6b04456717adb9211d855ab345ecbadf2d93bb88e3a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gateway_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "gateway_checksums.txt",
+      "hash": "62f530ba28b8e70c955d32849ec21d86b33f966ee339d74df1095586bdb7f9b8"
+    },
+    {
+      "fileName": "gateway_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gateway_checksums.txt",
+      "hash": "4fe2e28d2c271458ce2437f88f7cc9d2f62ad50d791499ceb4380f2b7cdc3478"
+    },
+    {
+      "fileName": "operator_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "operator_checksums.txt",
+      "hash": "565fa18b26acb2567181dcb54c5c20c0d370cc6882247dabe402b65e3318654b"
+    },
+    {
+      "fileName": "operator_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "operator_checksums.txt",
+      "hash": "244c9c7c51efef875a34b563da592a57e053ec1f9e8962378ac617179bc3e266"
+    },
+    {
+      "fileName": "ledger_2.0.20_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "ledger_checksums.txt",
+      "hash": "42da59848f4dc9b64b26402ee983bdd52ecdad401b844d0663057ac752d62edd"
+    },
+    {
+      "fileName": "ledger_2.0.20_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "ledger_checksums.txt",
+      "hash": "5746b45846d396af0b1573c49b6fb21454387d7651c5456a182b64006c17fe3d"
+    },
+    {
+      "fileName": "ledger_2.0.20_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "ledger_checksums.txt",
+      "hash": "1579c4a30e310baab478d414b12a9c01336b191eac21add62bee63e184dd4e5d"
+    },
+    {
+      "fileName": "ledger_2.0.20_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "ledger_checksums.txt",
+      "hash": "f15ba4a49ac5cdb9053738b5da15d320b7f1ae409d44cb19b9a53b4072881117"
+    },
+    {
+      "fileName": "auth_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "auth_checksums.txt",
+      "hash": "57d40edee53f71f106855f88a8e63f46cd56bae7057a616f5d2868f0636d3123"
+    },
+    {
+      "fileName": "auth_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "auth_checksums.txt",
+      "hash": "73e3701e39133be57cc79b59e80c8a680313881e45706c23e351ae34b9641d6b"
+    },
+    {
+      "fileName": "orchestration_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "orchestration_checksums.txt",
+      "hash": "e9a0a2c6e23650c5a497ebaddf0a77fd5f240637c0b00a6ba13075f179aa6885"
+    },
+    {
+      "fileName": "orchestration_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "orchestration_checksums.txt",
+      "hash": "85a900e44c8c793ce75d461bb0fd9258858d64965c7ffeb502ba2c507841da25"
+    },
+    {
+      "fileName": "fctl_darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "fctl_checksums.txt",
+      "hash": "b01befc80fc4f22f161ddbdeb2519a22190ad338a4341d690e0f70d624c8b9f8"
+    },
+    {
+      "fileName": "fctl_darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "fctl_checksums.txt",
+      "hash": "7b1fdde9bab8f1a57fb5f0eaf079aa9d2dc5141b1caacc8830f07a24bb00611b"
+    },
+    {
+      "fileName": "fctl_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "fctl_checksums.txt",
+      "hash": "09056a3de7ce4a6a224ca2af4c3d11327e172ac7f4592af551377882d0d82e77"
+    },
+    {
+      "fileName": "fctl_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "fctl_checksums.txt",
+      "hash": "73b4443bb39a43b84fbd783bed6c49e4a9f1fae57933f0a0e08a0ee4a784990a"
+    },
+    {
+      "fileName": "fctl_windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "fctl_checksums.txt",
+      "hash": "fa759a0827f874c9499e00277513b15122e4790705e5839defba58feea1521ff"
+    },
+    {
+      "fileName": "fctl_windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "fctl_checksums.txt",
+      "hash": "205b4acc0d35d38f5349750f3149f9b62dd7ae4aefad27926c3694a64364147d"
+    },
+    {
+      "fileName": "operator-utils_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "operator-utils_checksums.txt",
+      "hash": "3c0343fab48d7db2d71609ad965048297a70f31533b529dff621bc6747d01765"
+    },
+    {
+      "fileName": "operator-utils_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "operator-utils_checksums.txt",
+      "hash": "7d05de044546065f690974303041ea117c4099ee80401e7b482fcb9c7d39fd32"
+    },
+    {
+      "fileName": "agent_linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "agent_checksums.txt",
+      "hash": "8b24eebc0dc2b3d00e6347f4c115ed177b3a094226380d9074015f094c70cc34"
+    },
+    {
+      "fileName": "agent_linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "agent_checksums.txt",
+      "hash": "ead937ac93ff83abb4e7b6b04456717adb9211d855ab345ecbadf2d93bb88e3a"
+    }
+  ]
+}

@@ -1,1 +1,127 @@
-{"mirroredOn":"2024-11-05T17:24:59+00:00","publishedOn":"2024-11-05T17:27:50.7380917+00:00","version":1,"publishedFiles":[{"fileName":"coder_2.17.0_darwin_amd64.zip","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"a5e3af63079d4d17090c1cc3ed9a638a2b6963d240c370b8997f79ee08e8716e"},{"fileName":"coder_2.17.0_darwin_arm64.zip","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"f1c6c83db3d62d0e8779d4c096976e708ea605d7ed90887767a6f82dbfc14ccb"},{"fileName":"coder_2.17.0_linux_amd64.apk","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"aa94ec0e4ff90e05c03d31dfc25dc970c1ef531af11c3e0f2a602350e3c59ddd"},{"fileName":"coder_2.17.0_linux_amd64.deb","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"1aefd5ff6e426757836044bd355b6f7f11b384ea65bcda4e0d6c69f60fed1b79"},{"fileName":"coder_2.17.0_linux_amd64.rpm","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"824e7c35a1e7f9f0ed7af25f81524333b1c2ea91e69b261ee8342573c3331f47"},{"fileName":"coder_2.17.0_linux_amd64.tar.gz","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"e3cfe8c661b42237204b3ec3f3e41bf854db96ea3fb6ddf70c4ca1afb685feee"},{"fileName":"coder_2.17.0_linux_arm64.apk","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"3f2d7bc95efe6c8d7b839feea772aca38296351305ed3a0180cb61295593ac2d"},{"fileName":"coder_2.17.0_linux_arm64.deb","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"2943b5eb76606de8f5a9133fdb5e17d28f6a3b11cc4ca9fbf01e616f078385e0"},{"fileName":"coder_2.17.0_linux_arm64.rpm","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"d452911f93879346bc62a50578d2315524b552c505a2c2b2340aaceef8d86d55"},{"fileName":"coder_2.17.0_linux_arm64.tar.gz","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"b2e2e36ec3d7ecf1c2090c457da0555489c3ff3330d92f893a5f7b955c8781d8"},{"fileName":"coder_2.17.0_linux_armv7.apk","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"e566e0e5f41b4fbf8cda57b10aee0c3a4faf60f96676cc9b47ee54c80fbb9fe6"},{"fileName":"coder_2.17.0_linux_armv7.deb","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"dcad5e1060f31f3abf96382702a2b4be9ecb7befe8d4befd832e07657df46b78"},{"fileName":"coder_2.17.0_linux_armv7.rpm","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"e9376f70418dace82958e96eb4851da24b0da26c51d2fb6ae7b78b46c0446d87"},{"fileName":"coder_2.17.0_linux_armv7.tar.gz","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"826c6cf7b2dc23eeb503e9aa6db5a21e34c40504ef0f710504a5417e16da76b1"},{"fileName":"coder_2.17.0_windows_amd64.zip","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"d4daec2b04a191f20640ff08004c61a78c9e74c4531d917979e412d81f140c1e"},{"fileName":"coder_2.17.0_windows_amd64_installer.exe","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"178385c73d445e1b501f9cd3e34221fde412e7b93686dbd8d0b180e34b448c53"},{"fileName":"coder_2.17.0_windows_arm64.zip","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"9a6bbac439cda1533bc3c4e578e13fde9d8d2b9b0db7161d92547ebc1c6442ac"},{"fileName":"coder_docs_2.17.0.tgz","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"452f4a6f63a3f7bf0d319fcc2026c32722f51ba0aef0d24b5a647520f9b06176"},{"fileName":"coder_helm_2.17.0.tgz","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"0e621f27e02bdd7e6fd2fe1b022af074f20ed0917b382f8bb6b965dad5a9b42d"},{"fileName":"provisioner_helm_2.17.0.tgz","algo":"Sha256","source":"coder_2.17.0_checksums.txt","hash":"61624ce610e4e30a7c7415e494ab73c3bee41dc34586ea7a106a22c79f47b323"}]}
+{
+  "mirroredOn": "2024-11-05T17:27:50.7380917+00:00",
+  "publishedOn": "2024-11-05T17:24:59+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "coder_2.17.0_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "a5e3af63079d4d17090c1cc3ed9a638a2b6963d240c370b8997f79ee08e8716e"
+    },
+    {
+      "fileName": "coder_2.17.0_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "f1c6c83db3d62d0e8779d4c096976e708ea605d7ed90887767a6f82dbfc14ccb"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "aa94ec0e4ff90e05c03d31dfc25dc970c1ef531af11c3e0f2a602350e3c59ddd"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "1aefd5ff6e426757836044bd355b6f7f11b384ea65bcda4e0d6c69f60fed1b79"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "824e7c35a1e7f9f0ed7af25f81524333b1c2ea91e69b261ee8342573c3331f47"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "e3cfe8c661b42237204b3ec3f3e41bf854db96ea3fb6ddf70c4ca1afb685feee"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "3f2d7bc95efe6c8d7b839feea772aca38296351305ed3a0180cb61295593ac2d"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "2943b5eb76606de8f5a9133fdb5e17d28f6a3b11cc4ca9fbf01e616f078385e0"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "d452911f93879346bc62a50578d2315524b552c505a2c2b2340aaceef8d86d55"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "b2e2e36ec3d7ecf1c2090c457da0555489c3ff3330d92f893a5f7b955c8781d8"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_armv7.apk",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "e566e0e5f41b4fbf8cda57b10aee0c3a4faf60f96676cc9b47ee54c80fbb9fe6"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "dcad5e1060f31f3abf96382702a2b4be9ecb7befe8d4befd832e07657df46b78"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "e9376f70418dace82958e96eb4851da24b0da26c51d2fb6ae7b78b46c0446d87"
+    },
+    {
+      "fileName": "coder_2.17.0_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "826c6cf7b2dc23eeb503e9aa6db5a21e34c40504ef0f710504a5417e16da76b1"
+    },
+    {
+      "fileName": "coder_2.17.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "d4daec2b04a191f20640ff08004c61a78c9e74c4531d917979e412d81f140c1e"
+    },
+    {
+      "fileName": "coder_2.17.0_windows_amd64_installer.exe",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "178385c73d445e1b501f9cd3e34221fde412e7b93686dbd8d0b180e34b448c53"
+    },
+    {
+      "fileName": "coder_2.17.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "9a6bbac439cda1533bc3c4e578e13fde9d8d2b9b0db7161d92547ebc1c6442ac"
+    },
+    {
+      "fileName": "coder_docs_2.17.0.tgz",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "452f4a6f63a3f7bf0d319fcc2026c32722f51ba0aef0d24b5a647520f9b06176"
+    },
+    {
+      "fileName": "coder_helm_2.17.0.tgz",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "0e621f27e02bdd7e6fd2fe1b022af074f20ed0917b382f8bb6b965dad5a9b42d"
+    },
+    {
+      "fileName": "provisioner_helm_2.17.0.tgz",
+      "algo": "Sha256",
+      "source": "coder_2.17.0_checksums.txt",
+      "hash": "61624ce610e4e30a7c7415e494ab73c3bee41dc34586ea7a106a22c79f47b323"
+    }
+  ]
+}

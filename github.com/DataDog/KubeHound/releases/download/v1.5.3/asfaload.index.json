@@ -1,1 +1,49 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubehound-Darwin-arm64","algo":"Sha256","source":"checksums.txt","hash":"1d0adf65b21df96a61cccf1f25e3443e514d6daec0657a71eb5b2175c5e0d5cc"},{"fileName":"kubehound-Darwin-x86_64","algo":"Sha256","source":"checksums.txt","hash":"b884ba276d0d9e19b2903872e177292eb3636b1df0b5e68a4c86668e6778baf3"},{"fileName":"kubehound-Linux-aarch64","algo":"Sha256","source":"checksums.txt","hash":"6e901f43a3a91650a8356d9c34654137b959f30f0aefea920b0cd6a546c3e910"},{"fileName":"kubehound-Linux-armv7","algo":"Sha256","source":"checksums.txt","hash":"e44084447ef5241e40bf8aec667afac66bad2c35cd0428c01a07812f401b0513"},{"fileName":"kubehound-Linux-x86_64","algo":"Sha256","source":"checksums.txt","hash":"85e1ad424494a7fba1517cf1a0b937da8ef74331b0db75a389b932b56730e278"},{"fileName":"kubehound-windows-aarch64.exe","algo":"Sha256","source":"checksums.txt","hash":"6e4615dfc37e6c6beefc636efe93b0cf54f5dd54a148b86faa76dd80e881ac4d"},{"fileName":"kubehound-windows-x86_64.exe","algo":"Sha256","source":"checksums.txt","hash":"8e275c0ab1a9b898da1c6477127a965283fe22562b3d3a2d861dde46856eac99"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubehound-Darwin-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1d0adf65b21df96a61cccf1f25e3443e514d6daec0657a71eb5b2175c5e0d5cc"
+    },
+    {
+      "fileName": "kubehound-Darwin-x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b884ba276d0d9e19b2903872e177292eb3636b1df0b5e68a4c86668e6778baf3"
+    },
+    {
+      "fileName": "kubehound-Linux-aarch64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6e901f43a3a91650a8356d9c34654137b959f30f0aefea920b0cd6a546c3e910"
+    },
+    {
+      "fileName": "kubehound-Linux-armv7",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e44084447ef5241e40bf8aec667afac66bad2c35cd0428c01a07812f401b0513"
+    },
+    {
+      "fileName": "kubehound-Linux-x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "85e1ad424494a7fba1517cf1a0b937da8ef74331b0db75a389b932b56730e278"
+    },
+    {
+      "fileName": "kubehound-windows-aarch64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6e4615dfc37e6c6beefc636efe93b0cf54f5dd54a148b86faa76dd80e881ac4d"
+    },
+    {
+      "fileName": "kubehound-windows-x86_64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8e275c0ab1a9b898da1c6477127a965283fe22562b3d3a2d861dde46856eac99"
+    }
+  ]
+}

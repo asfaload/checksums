@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"configurator_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a5dc83fddd2d78a59ffca571def1a727a1d29491fa4ef24088dcc64cf3787de6"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "configurator_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a5dc83fddd2d78a59ffca571def1a727a1d29491fa4ef24088dcc64cf3787de6"
+    }
+  ]
+}

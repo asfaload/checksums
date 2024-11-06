@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"bgp-dns_Linux_x86_64.tar.gz","algo":"Sha256","source":"bgp-dns_2.0.5_checksums.txt","hash":"bf313f5ded8327595154e57d345b9cc0c2a5a86ca3c1cbbb2ee82c3a23c30c1f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "bgp-dns_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "bgp-dns_2.0.5_checksums.txt",
+      "hash": "bf313f5ded8327595154e57d345b9cc0c2a5a86ca3c1cbbb2ee82c3a23c30c1f"
+    }
+  ]
+}

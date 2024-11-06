@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"idpbuilder-darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d20f979ea7ff90b76059bbd4f74d02ec701c05f65d3a78dc1a8eb4be6a3bfecc"},{"fileName":"idpbuilder-darwin-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0afb59223064c94194cd72163b481cdac8d779d0a8dee3fc8b951f4322e4ca8b"},{"fileName":"idpbuilder-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e00a0b3833196541e807e0853cfaa5fcc85aafae406ce92b55408522ba0815c9"},{"fileName":"idpbuilder-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f0f896bd9d7c2464eef7e2f964d4bddf1c7bf68b557719cec09e54f51415aac0"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "idpbuilder-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d20f979ea7ff90b76059bbd4f74d02ec701c05f65d3a78dc1a8eb4be6a3bfecc"
+    },
+    {
+      "fileName": "idpbuilder-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0afb59223064c94194cd72163b481cdac8d779d0a8dee3fc8b951f4322e4ca8b"
+    },
+    {
+      "fileName": "idpbuilder-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e00a0b3833196541e807e0853cfaa5fcc85aafae406ce92b55408522ba0815c9"
+    },
+    {
+      "fileName": "idpbuilder-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f0f896bd9d7c2464eef7e2f964d4bddf1c7bf68b557719cec09e54f51415aac0"
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"atserver_sbom.cyclonedx.json","algo":"Sha256","source":"checksums.txt","hash":"6b5f2025c5064794ae7dbd4aec31289f2875bbc137ed992957db11fd31ec9d6f"},{"fileName":"atserver_sbom.spdx.json","algo":"Sha256","source":"checksums.txt","hash":"f6d83baf842bbf77d0b6d07fe4c75489916cea09caa8fff7eb64ca5b4006c69f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "atserver_sbom.cyclonedx.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6b5f2025c5064794ae7dbd4aec31289f2875bbc137ed992957db11fd31ec9d6f"
+    },
+    {
+      "fileName": "atserver_sbom.spdx.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f6d83baf842bbf77d0b6d07fe4c75489916cea09caa8fff7eb64ca5b4006c69f"
+    }
+  ]
+}

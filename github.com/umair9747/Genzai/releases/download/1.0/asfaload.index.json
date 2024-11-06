@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"genzai_darwin_amd64","algo":"Sha256","source":"checksums.txt","hash":"8c1fce8610f495f3884c6a91efde086ca2fa21e6831f068fb5e358c03485ac93"},{"fileName":"genzai_darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"88b25d132b201a69d99baedb3f2953b85c80d22bda21979f50d64ef726ff8802"},{"fileName":"genzai_linux_386","algo":"Sha256","source":"checksums.txt","hash":"dd78c06813eac8e365bc49a2734c2280006bbe8e7fdce1d1aa48d8bdcce06e8d"},{"fileName":"genzai_linux_amd64","algo":"Sha256","source":"checksums.txt","hash":"71e6639acdce22b69bc6b31d7a6bea4b779a80f79168a185342bff8e42c3e29a"},{"fileName":"genzai_linux_arm","algo":"Sha256","source":"checksums.txt","hash":"46611c73a6d9fbbc4583c5453b92bd453cdec2f94811724aacab1b646e8291d0"},{"fileName":"genzai_linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"74b632518d34bf429a46c6841e5cc0b849155c503878a6f6bf130fef972659f3"},{"fileName":"genzai_windows_386","algo":"Sha256","source":"checksums.txt","hash":"9406f513f535552ca2f55427cae0d599197573e9d4410a2e6d85ee1ce485b9d5"},{"fileName":"genzai_windows_amd64","algo":"Sha256","source":"checksums.txt","hash":"8a23f934399a868537c8fee3d15a9c2c1d68883cfcb6d23dd9ae5eb0aa2d1576"},{"fileName":"genzai_windows_arm","algo":"Sha256","source":"checksums.txt","hash":"02aa5a4066824857b7ca27359ca1744b5f97424cee3c4b6b1faa6d9f5f5cbc67"},{"fileName":"genzai_windows_arm64","algo":"Sha256","source":"checksums.txt","hash":"500cbd22e968eeacb00319990f43587343bd8001f36c1bcf446a1ddd42926915"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "genzai_darwin_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8c1fce8610f495f3884c6a91efde086ca2fa21e6831f068fb5e358c03485ac93"
+    },
+    {
+      "fileName": "genzai_darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "88b25d132b201a69d99baedb3f2953b85c80d22bda21979f50d64ef726ff8802"
+    },
+    {
+      "fileName": "genzai_linux_386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dd78c06813eac8e365bc49a2734c2280006bbe8e7fdce1d1aa48d8bdcce06e8d"
+    },
+    {
+      "fileName": "genzai_linux_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "71e6639acdce22b69bc6b31d7a6bea4b779a80f79168a185342bff8e42c3e29a"
+    },
+    {
+      "fileName": "genzai_linux_arm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "46611c73a6d9fbbc4583c5453b92bd453cdec2f94811724aacab1b646e8291d0"
+    },
+    {
+      "fileName": "genzai_linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "74b632518d34bf429a46c6841e5cc0b849155c503878a6f6bf130fef972659f3"
+    },
+    {
+      "fileName": "genzai_windows_386",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9406f513f535552ca2f55427cae0d599197573e9d4410a2e6d85ee1ce485b9d5"
+    },
+    {
+      "fileName": "genzai_windows_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8a23f934399a868537c8fee3d15a9c2c1d68883cfcb6d23dd9ae5eb0aa2d1576"
+    },
+    {
+      "fileName": "genzai_windows_arm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "02aa5a4066824857b7ca27359ca1744b5f97424cee3c4b6b1faa6d9f5f5cbc67"
+    },
+    {
+      "fileName": "genzai_windows_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "500cbd22e968eeacb00319990f43587343bd8001f36c1bcf446a1ddd42926915"
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./crown-0.51.0-linux-x64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"fd399f07bf64b66f953acf4b53618574607c53a91745b7d02b32fe3ba5ea13da"},{"fileName":"./crown-0.51.0-windows-x64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"f069562ad1869358ba7c591990fef0062fc99ac0f9eb96e595e88d012c0f6b6f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./crown-0.51.0-linux-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "fd399f07bf64b66f953acf4b53618574607c53a91745b7d02b32fe3ba5ea13da"
+    },
+    {
+      "fileName": "./crown-0.51.0-windows-x64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "f069562ad1869358ba7c591990fef0062fc99ac0f9eb96e595e88d012c0f6b6f"
+    }
+  ]
+}

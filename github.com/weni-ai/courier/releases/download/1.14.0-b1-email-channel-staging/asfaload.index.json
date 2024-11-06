@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"courier_1.14.0-b1-email-channel-staging_linux_amd64.tar.gz","algo":"Sha256","source":"courier_1.14.0-b1-email-channel-staging_checksums.txt","hash":"7a2f9201b828334c29afcc945a05ef5ee4205fa7b34ec2b8a28f2447788ccbe4"},{"fileName":"courier_1.14.0-b1-email-channel-staging_windows_amd64.tar.gz","algo":"Sha256","source":"courier_1.14.0-b1-email-channel-staging_checksums.txt","hash":"8981a74fd246e7bd8516c19fee871d9e894f2f61b2cc78ec51a4771cb7a61f72"},{"fileName":"courier_1.14.0-b1-email-channel-staging_darwin_amd64.tar.gz","algo":"Sha256","source":"courier_1.14.0-b1-email-channel-staging_checksums.txt","hash":"bb422cb6f9be01a6d00f85eaa55ddb251ec7b0534a66980c910e2518beacd066"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "courier_1.14.0-b1-email-channel-staging_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "courier_1.14.0-b1-email-channel-staging_checksums.txt",
+      "hash": "7a2f9201b828334c29afcc945a05ef5ee4205fa7b34ec2b8a28f2447788ccbe4"
+    },
+    {
+      "fileName": "courier_1.14.0-b1-email-channel-staging_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "courier_1.14.0-b1-email-channel-staging_checksums.txt",
+      "hash": "8981a74fd246e7bd8516c19fee871d9e894f2f61b2cc78ec51a4771cb7a61f72"
+    },
+    {
+      "fileName": "courier_1.14.0-b1-email-channel-staging_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "courier_1.14.0-b1-email-channel-staging_checksums.txt",
+      "hash": "bb422cb6f9be01a6d00f85eaa55ddb251ec7b0534a66980c910e2518beacd066"
+    }
+  ]
+}

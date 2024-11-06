@@ -1,1 +1,97 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"git-town_freebsd_arm_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"39f902aa6458ef98f0ce7e0448ec2efef9a276e55a53e972498d4509cb2667ef"},{"fileName":"git-town_freebsd_intel_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3f3ed6ca0ffb0a4e44c43ac208a4e741ba39c04cbada03592eb16d289b94022c"},{"fileName":"git-town_linux_arm_64.deb","algo":"Sha256","source":"checksums.txt","hash":"74527a04a86a1f1dc735970615b3ea2202f81f014087219fce22c9aeb6bea63f"},{"fileName":"git-town_linux_arm_64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"b3c56a7380dd4d4ce154ef23422f3667af836ffdd28e2d19baa98eea24e74f85"},{"fileName":"git-town_linux_arm_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"00a013d5ac54dbb1578eae018c60c28981b99d8b612ac5a3f663d11d864401fd"},{"fileName":"git-town_linux_arm_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"58b1d23e4ee4d85cfaa9dae3290143c5459fbad9116cde076699cc3cc66e0190"},{"fileName":"git-town_linux_intel_64.deb","algo":"Sha256","source":"checksums.txt","hash":"7e8885ddadef3cff3f8f7a63973ac560ac1f1a894dd534ed2218684e13cf1a35"},{"fileName":"git-town_linux_intel_64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"795f1b52b728dbd8f3fb0495249b36af49fdd01bb5a753614ff5cde18d2bd2a5"},{"fileName":"git-town_linux_intel_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"a4c63e245f432c79b8fd69fd42bf9870f1e0d2ba6e5bb51168e479c87b3258b5"},{"fileName":"git-town_linux_intel_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"98b37f8ed63ca179f53d47bc54fec8f634251d3993ef1069cf73ba31fb5d42fe"},{"fileName":"git-town_macos_arm_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"98370a0f3f1fa85e658a26dc75cf51f1542b13ddfcc2ba448815a4f18a1efc13"},{"fileName":"git-town_macos_intel_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4e5d6ca6fe0a3b5d2ee1f5afbade2dec69b1e8c5565407623f90e6be78bc4e6f"},{"fileName":"git-town_netbsd_intel_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"105adfcc178cec69ec474dd9353a841a57ff686223e15c983f230e020db3b5d2"},{"fileName":"git-town_windows_arm_64.zip","algo":"Sha256","source":"checksums.txt","hash":"5eba897c65f982ea9f7e7a0663887cf028e5b3cd5f078bdcd0e5b6fd5dc50fe2"},{"fileName":"git-town_windows_intel_64.zip","algo":"Sha256","source":"checksums.txt","hash":"7db6c75d98f70f6db444564ed0b64caa12e50feb4925406207f05348edd93776"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "git-town_freebsd_arm_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "39f902aa6458ef98f0ce7e0448ec2efef9a276e55a53e972498d4509cb2667ef"
+    },
+    {
+      "fileName": "git-town_freebsd_intel_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3f3ed6ca0ffb0a4e44c43ac208a4e741ba39c04cbada03592eb16d289b94022c"
+    },
+    {
+      "fileName": "git-town_linux_arm_64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "74527a04a86a1f1dc735970615b3ea2202f81f014087219fce22c9aeb6bea63f"
+    },
+    {
+      "fileName": "git-town_linux_arm_64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b3c56a7380dd4d4ce154ef23422f3667af836ffdd28e2d19baa98eea24e74f85"
+    },
+    {
+      "fileName": "git-town_linux_arm_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "00a013d5ac54dbb1578eae018c60c28981b99d8b612ac5a3f663d11d864401fd"
+    },
+    {
+      "fileName": "git-town_linux_arm_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "58b1d23e4ee4d85cfaa9dae3290143c5459fbad9116cde076699cc3cc66e0190"
+    },
+    {
+      "fileName": "git-town_linux_intel_64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7e8885ddadef3cff3f8f7a63973ac560ac1f1a894dd534ed2218684e13cf1a35"
+    },
+    {
+      "fileName": "git-town_linux_intel_64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "795f1b52b728dbd8f3fb0495249b36af49fdd01bb5a753614ff5cde18d2bd2a5"
+    },
+    {
+      "fileName": "git-town_linux_intel_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a4c63e245f432c79b8fd69fd42bf9870f1e0d2ba6e5bb51168e479c87b3258b5"
+    },
+    {
+      "fileName": "git-town_linux_intel_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "98b37f8ed63ca179f53d47bc54fec8f634251d3993ef1069cf73ba31fb5d42fe"
+    },
+    {
+      "fileName": "git-town_macos_arm_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "98370a0f3f1fa85e658a26dc75cf51f1542b13ddfcc2ba448815a4f18a1efc13"
+    },
+    {
+      "fileName": "git-town_macos_intel_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4e5d6ca6fe0a3b5d2ee1f5afbade2dec69b1e8c5565407623f90e6be78bc4e6f"
+    },
+    {
+      "fileName": "git-town_netbsd_intel_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "105adfcc178cec69ec474dd9353a841a57ff686223e15c983f230e020db3b5d2"
+    },
+    {
+      "fileName": "git-town_windows_arm_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5eba897c65f982ea9f7e7a0663887cf028e5b3cd5f078bdcd0e5b6fd5dc50fe2"
+    },
+    {
+      "fileName": "git-town_windows_intel_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7db6c75d98f70f6db444564ed0b64caa12e50feb4925406207f05348edd93776"
+    }
+  ]
+}

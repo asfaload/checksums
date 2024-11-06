@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"rsx_Darwin_arm64.tar.gz","algo":"Sha256","source":"rsx_0.6.0_checksums.txt","hash":"0453add71a5f32909ca149e662448d5179eba0c94f0a8e709c5a7b872dc42b61"},{"fileName":"rsx_Darwin_x86_64.tar.gz","algo":"Sha256","source":"rsx_0.6.0_checksums.txt","hash":"0f9c84f4d1bb28e9c57564bfc9f6be4cae86e51a15c0515cebef57e41ee10029"},{"fileName":"rsx_Linux_arm64.tar.gz","algo":"Sha256","source":"rsx_0.6.0_checksums.txt","hash":"f63cef48fd80c1b36a61dee4bb82aff71c0f931423f39c42308b33d9ca7fa459"},{"fileName":"rsx_Linux_i386.tar.gz","algo":"Sha256","source":"rsx_0.6.0_checksums.txt","hash":"bacd6995d7d33eb116b8c34c34423410ce8b5b41923594e295e4eacace6e6185"},{"fileName":"rsx_Linux_x86_64.tar.gz","algo":"Sha256","source":"rsx_0.6.0_checksums.txt","hash":"b7131f6725c7d193988f1151168e79b25bc3911b509b1c228c1223c6ae99decb"},{"fileName":"rsx_Windows_arm64.zip","algo":"Sha256","source":"rsx_0.6.0_checksums.txt","hash":"2ed0c9df53f3090816291526ac2b302856174ca85c466f78c823be0f02789ef7"},{"fileName":"rsx_Windows_i386.zip","algo":"Sha256","source":"rsx_0.6.0_checksums.txt","hash":"44bc22f2f3f62c48b20d6cad2c8ade00c4eae16a6b3edd078531d05bf4f1208a"},{"fileName":"rsx_Windows_x86_64.zip","algo":"Sha256","source":"rsx_0.6.0_checksums.txt","hash":"2fe6d510a426686558a0004d20453816599223c33ad78991fb081101b536bfe2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "rsx_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "rsx_0.6.0_checksums.txt",
+      "hash": "0453add71a5f32909ca149e662448d5179eba0c94f0a8e709c5a7b872dc42b61"
+    },
+    {
+      "fileName": "rsx_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "rsx_0.6.0_checksums.txt",
+      "hash": "0f9c84f4d1bb28e9c57564bfc9f6be4cae86e51a15c0515cebef57e41ee10029"
+    },
+    {
+      "fileName": "rsx_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "rsx_0.6.0_checksums.txt",
+      "hash": "f63cef48fd80c1b36a61dee4bb82aff71c0f931423f39c42308b33d9ca7fa459"
+    },
+    {
+      "fileName": "rsx_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "rsx_0.6.0_checksums.txt",
+      "hash": "bacd6995d7d33eb116b8c34c34423410ce8b5b41923594e295e4eacace6e6185"
+    },
+    {
+      "fileName": "rsx_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "rsx_0.6.0_checksums.txt",
+      "hash": "b7131f6725c7d193988f1151168e79b25bc3911b509b1c228c1223c6ae99decb"
+    },
+    {
+      "fileName": "rsx_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "rsx_0.6.0_checksums.txt",
+      "hash": "2ed0c9df53f3090816291526ac2b302856174ca85c466f78c823be0f02789ef7"
+    },
+    {
+      "fileName": "rsx_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "rsx_0.6.0_checksums.txt",
+      "hash": "44bc22f2f3f62c48b20d6cad2c8ade00c4eae16a6b3edd078531d05bf4f1208a"
+    },
+    {
+      "fileName": "rsx_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "rsx_0.6.0_checksums.txt",
+      "hash": "2fe6d510a426686558a0004d20453816599223c33ad78991fb081101b536bfe2"
+    }
+  ]
+}

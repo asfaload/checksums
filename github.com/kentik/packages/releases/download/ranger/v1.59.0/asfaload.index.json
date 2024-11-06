@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ranger_v1.59.0_darwin_amd64.tgz","algo":"Sha256","source":"checksums.txt","hash":"af54a032f287e24a7a82fe5d4a846aa423c08f846aacf22ab8e250fecd635891"},{"fileName":"ranger_v1.59.0_darwin_arm64.tgz","algo":"Sha256","source":"checksums.txt","hash":"fa101c08b7c080e13751c577acda93a0bf6ec583f27ebda95909379d6626cbba"},{"fileName":"ranger_v1.59.0_linux_amd64.tgz","algo":"Sha256","source":"checksums.txt","hash":"1a82cc75315444eb7d94e82b0efe20755eb012dc651b11a236e342e0cab9c385"},{"fileName":"ranger_v1.59.0_linux_arm64.tgz","algo":"Sha256","source":"checksums.txt","hash":"8b4c40454071b51f49f5e9dd6e2cf3d4f98c57d6636b6e01def43d5c949ed03b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ranger_v1.59.0_darwin_amd64.tgz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "af54a032f287e24a7a82fe5d4a846aa423c08f846aacf22ab8e250fecd635891"
+    },
+    {
+      "fileName": "ranger_v1.59.0_darwin_arm64.tgz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fa101c08b7c080e13751c577acda93a0bf6ec583f27ebda95909379d6626cbba"
+    },
+    {
+      "fileName": "ranger_v1.59.0_linux_amd64.tgz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1a82cc75315444eb7d94e82b0efe20755eb012dc651b11a236e342e0cab9c385"
+    },
+    {
+      "fileName": "ranger_v1.59.0_linux_arm64.tgz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8b4c40454071b51f49f5e9dd6e2cf3d4f98c57d6636b6e01def43d5c949ed03b"
+    }
+  ]
+}

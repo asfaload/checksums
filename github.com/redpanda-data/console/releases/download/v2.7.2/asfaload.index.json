@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"redpanda-console-2.7.2-1.aarch64.rpm","algo":"Sha256","source":"checksums.txt","hash":"70beb3f720f25440ce1a9dab8ff8520510d554a81a182ab8c582598dc7206916"},{"fileName":"redpanda-console-2.7.2-1.x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"1356eef7d283910d63b105c11827137113e4bea8a8b3afacdb212b17c459fc81"},{"fileName":"redpanda-console_2.7.2_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"8c84ef86e2c87227df0c30f8d50f86023d8c3dc267664b2aea2790858beb118a"},{"fileName":"redpanda-console_2.7.2_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"87ac1c96f5fb6b3adaa22159cccbe0c5c593bf1e65dace9025a75fa8aa124d6e"},{"fileName":"redpanda_console_2.7.2_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"54fb9b91f15f0aa8db20de26b971045a0261a77b2eed63e79735d748ebb229aa"},{"fileName":"redpanda_console_2.7.2_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5b2270467bdb98f36772136e40844b9485c9f7e4f0e445b1f00de9920666048d"},{"fileName":"redpanda_console_2.7.2_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fbb1fb1cc13a83ec227c27c04dc8e61697e486d135d55c4c8f4d6b4f58653af7"},{"fileName":"redpanda_console_2.7.2_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bebe7318a49dace22534f97f83771b3ca3556eb8bfcb635825329c804d82bd2e"},{"fileName":"redpanda_console_2.7.2_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"d610228860a3adff063dbe9ea5a0e6273e59543d048784732466e042fc798866"},{"fileName":"redpanda_console_2.7.2_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"6663b0179cc8cc223d2622fd42755b7f1a7ad2c69c56bdd18fa4900713339697"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "redpanda-console-2.7.2-1.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "70beb3f720f25440ce1a9dab8ff8520510d554a81a182ab8c582598dc7206916"
+    },
+    {
+      "fileName": "redpanda-console-2.7.2-1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1356eef7d283910d63b105c11827137113e4bea8a8b3afacdb212b17c459fc81"
+    },
+    {
+      "fileName": "redpanda-console_2.7.2_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8c84ef86e2c87227df0c30f8d50f86023d8c3dc267664b2aea2790858beb118a"
+    },
+    {
+      "fileName": "redpanda-console_2.7.2_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "87ac1c96f5fb6b3adaa22159cccbe0c5c593bf1e65dace9025a75fa8aa124d6e"
+    },
+    {
+      "fileName": "redpanda_console_2.7.2_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "54fb9b91f15f0aa8db20de26b971045a0261a77b2eed63e79735d748ebb229aa"
+    },
+    {
+      "fileName": "redpanda_console_2.7.2_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5b2270467bdb98f36772136e40844b9485c9f7e4f0e445b1f00de9920666048d"
+    },
+    {
+      "fileName": "redpanda_console_2.7.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fbb1fb1cc13a83ec227c27c04dc8e61697e486d135d55c4c8f4d6b4f58653af7"
+    },
+    {
+      "fileName": "redpanda_console_2.7.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bebe7318a49dace22534f97f83771b3ca3556eb8bfcb635825329c804d82bd2e"
+    },
+    {
+      "fileName": "redpanda_console_2.7.2_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d610228860a3adff063dbe9ea5a0e6273e59543d048784732466e042fc798866"
+    },
+    {
+      "fileName": "redpanda_console_2.7.2_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6663b0179cc8cc223d2622fd42755b7f1a7ad2c69c56bdd18fa4900713339697"
+    }
+  ]
+}

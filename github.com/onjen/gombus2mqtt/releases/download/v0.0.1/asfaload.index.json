@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gombus2mqtt_0.0.1_linux_amd64.deb","algo":"Sha256","source":"gombus2mqtt_0.0.1_checksums.txt","hash":"01e4e861e14642034db6e09c66127dfcb337ec1e3558619421b798806ceb4fe6"},{"fileName":"gombus2mqtt_0.0.1_linux_arm64.deb","algo":"Sha256","source":"gombus2mqtt_0.0.1_checksums.txt","hash":"e77ffc9c4938ed16362640843e2e390ab586f0f83dec671c7b4535c7243cbbb7"},{"fileName":"gombus2mqtt_Linux_arm64.tar.gz","algo":"Sha256","source":"gombus2mqtt_0.0.1_checksums.txt","hash":"089caa6bb8abdc3059f628ad330c7b85c14a2a539111ae3e0e97d34059738a4f"},{"fileName":"gombus2mqtt_Linux_x86_64.tar.gz","algo":"Sha256","source":"gombus2mqtt_0.0.1_checksums.txt","hash":"69e48ed212b574b5885f10c0515428befb8a943e3fdd548702ff416f03b3cbab"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gombus2mqtt_0.0.1_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "gombus2mqtt_0.0.1_checksums.txt",
+      "hash": "01e4e861e14642034db6e09c66127dfcb337ec1e3558619421b798806ceb4fe6"
+    },
+    {
+      "fileName": "gombus2mqtt_0.0.1_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "gombus2mqtt_0.0.1_checksums.txt",
+      "hash": "e77ffc9c4938ed16362640843e2e390ab586f0f83dec671c7b4535c7243cbbb7"
+    },
+    {
+      "fileName": "gombus2mqtt_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "gombus2mqtt_0.0.1_checksums.txt",
+      "hash": "089caa6bb8abdc3059f628ad330c7b85c14a2a539111ae3e0e97d34059738a4f"
+    },
+    {
+      "fileName": "gombus2mqtt_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "gombus2mqtt_0.0.1_checksums.txt",
+      "hash": "69e48ed212b574b5885f10c0515428befb8a943e3fdd548702ff416f03b3cbab"
+    }
+  ]
+}

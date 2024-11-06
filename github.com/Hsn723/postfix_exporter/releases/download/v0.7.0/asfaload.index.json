@@ -1,1 +1,163 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"postfix_exporter-0.7.0.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c9255026bcbfb06a3e6992a5a0ac692233e0328498e749fe6e7c785b57b9ef5a"},{"fileName":"postfix_exporter-0.7.0.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"ebf93124c26f148438f2aa02f0faabfcfa7c34ce956fba8b8a075a9c69c9857b"},{"fileName":"postfix_exporter_0.7.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e8354f48c4e0ac318808f84013cf4b1e8fe91cab6c1ba80cad57dc2c3dbfbec6"},{"fileName":"postfix_exporter_0.7.0_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"53a066d5aae4c4d9d219b9559e99a4a4f5f1d5f20d24e77fb9cee89b29aa04d4"},{"fileName":"postfix_exporter_0.7.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1bc43f54af66b0eb5faad285ef683d4b126d144af8a2b093a3b5adb4cf4454af"},{"fileName":"postfix_exporter_0.7.0_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"42f6ea32298a089ad9f0e7a5afd8954e2faa18647c475d2995ce30a698e116d7"},{"fileName":"postfix_exporter_aio_0.7.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a042f4cff29094cca392c63383000bfc34e14d1105b2cca94e42848380c5d7c8"},{"fileName":"postfix_exporter_aio_0.7.0_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"d129af2a261ed5731775876f2dc38514a413366259496ce5b2191c89208be08c"},{"fileName":"postfix_exporter_aio_0.7.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bec28e6c8a427d11f3e11176ba5c859f128160c42d05d2f9a4b4feda2dbbaa64"},{"fileName":"postfix_exporter_aio_0.7.0_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"6287bfedfb0701b431e9938c40af05784dda2bc6e76525c36a40539e12c904fe"},{"fileName":"postfix_exporter_docker_0.7.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9cd91869cc202ab3253ba6dc804658fdb981ac74877e613a21f4eee784330af5"},{"fileName":"postfix_exporter_docker_0.7.0_darwin_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"26cb4abeef493c5a631f79830fd5001f65208f44a4ac054863276975167b53a3"},{"fileName":"postfix_exporter_docker_0.7.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b5eb1c39268ae5e691eadaad8c6a2c22978a5f78180378cbf6a10729da5c0dfc"},{"fileName":"postfix_exporter_docker_0.7.0_darwin_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"bf9ac2ed0be607fa7b763e601a56b914e0ce7d8fd0e2e82fca642cca8497f679"},{"fileName":"postfix_exporter_docker_0.7.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"651244503301014632147b7e2f331caec7857dcc3b0045452326173e0c6f35e2"},{"fileName":"postfix_exporter_docker_0.7.0_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"60ab8c7134effc9ddf0d3cc345b3ebe37f8057d2b434aacf8f0dd0b2251379a3"},{"fileName":"postfix_exporter_docker_0.7.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"affc59f85f1c1d3502d3a4a903a672f96b7df6eec5a8216e96dc0404e6c9459d"},{"fileName":"postfix_exporter_docker_0.7.0_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"a1f2887f5663f052211f765aa78ac77a82dc1c5b62f45f722f24aaa40e7c8dd3"},{"fileName":"postfix_exporter_docker_0.7.0_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8def9fb4610df639d1f004891aabb42f792b0db1b9cb737732a176fa33c9e2a9"},{"fileName":"postfix_exporter_docker_0.7.0_windows_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"c44835cabb2e1608ebc009d128f7f93f799a7bb0cae0563f28f732b0ef3acd7a"},{"fileName":"postfix_exporter_docker_0.7.0_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5536ed63a840ad28f52488e134e36609ca76d211ceb22d867f1bf1777ffd668c"},{"fileName":"postfix_exporter_docker_0.7.0_windows_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"e3b0843992184ee202138e2580ce175c8717d15667dc05d7598bbc1f8b3ecfab"},{"fileName":"postfix_exporter_systemd_0.7.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"426434b461b61d1bcdd98f9359c649ff74339bf94daf8d22694ee4631e9308b0"},{"fileName":"postfix_exporter_systemd_0.7.0_linux_amd64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"8deebc8fbb306a95c1c06cbbe53818d033245d136a7c9895f61c5c4043293a92"},{"fileName":"postfix_exporter_systemd_0.7.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"be4cf9ebf6eed3c0fb94b102222aff807769d60bdcb351917a1181e0ae7f6da4"},{"fileName":"postfix_exporter_systemd_0.7.0_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"checksums.txt","hash":"6721bc1b39070ea81422e7761e904bfda7f599f95af5b6397f6c008878de342c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "postfix_exporter-0.7.0.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c9255026bcbfb06a3e6992a5a0ac692233e0328498e749fe6e7c785b57b9ef5a"
+    },
+    {
+      "fileName": "postfix_exporter-0.7.0.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ebf93124c26f148438f2aa02f0faabfcfa7c34ce956fba8b8a075a9c69c9857b"
+    },
+    {
+      "fileName": "postfix_exporter_0.7.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e8354f48c4e0ac318808f84013cf4b1e8fe91cab6c1ba80cad57dc2c3dbfbec6"
+    },
+    {
+      "fileName": "postfix_exporter_0.7.0_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "53a066d5aae4c4d9d219b9559e99a4a4f5f1d5f20d24e77fb9cee89b29aa04d4"
+    },
+    {
+      "fileName": "postfix_exporter_0.7.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1bc43f54af66b0eb5faad285ef683d4b126d144af8a2b093a3b5adb4cf4454af"
+    },
+    {
+      "fileName": "postfix_exporter_0.7.0_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "42f6ea32298a089ad9f0e7a5afd8954e2faa18647c475d2995ce30a698e116d7"
+    },
+    {
+      "fileName": "postfix_exporter_aio_0.7.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a042f4cff29094cca392c63383000bfc34e14d1105b2cca94e42848380c5d7c8"
+    },
+    {
+      "fileName": "postfix_exporter_aio_0.7.0_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d129af2a261ed5731775876f2dc38514a413366259496ce5b2191c89208be08c"
+    },
+    {
+      "fileName": "postfix_exporter_aio_0.7.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bec28e6c8a427d11f3e11176ba5c859f128160c42d05d2f9a4b4feda2dbbaa64"
+    },
+    {
+      "fileName": "postfix_exporter_aio_0.7.0_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6287bfedfb0701b431e9938c40af05784dda2bc6e76525c36a40539e12c904fe"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9cd91869cc202ab3253ba6dc804658fdb981ac74877e613a21f4eee784330af5"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_darwin_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "26cb4abeef493c5a631f79830fd5001f65208f44a4ac054863276975167b53a3"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b5eb1c39268ae5e691eadaad8c6a2c22978a5f78180378cbf6a10729da5c0dfc"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_darwin_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bf9ac2ed0be607fa7b763e601a56b914e0ce7d8fd0e2e82fca642cca8497f679"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "651244503301014632147b7e2f331caec7857dcc3b0045452326173e0c6f35e2"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "60ab8c7134effc9ddf0d3cc345b3ebe37f8057d2b434aacf8f0dd0b2251379a3"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "affc59f85f1c1d3502d3a4a903a672f96b7df6eec5a8216e96dc0404e6c9459d"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a1f2887f5663f052211f765aa78ac77a82dc1c5b62f45f722f24aaa40e7c8dd3"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8def9fb4610df639d1f004891aabb42f792b0db1b9cb737732a176fa33c9e2a9"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_windows_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c44835cabb2e1608ebc009d128f7f93f799a7bb0cae0563f28f732b0ef3acd7a"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5536ed63a840ad28f52488e134e36609ca76d211ceb22d867f1bf1777ffd668c"
+    },
+    {
+      "fileName": "postfix_exporter_docker_0.7.0_windows_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e3b0843992184ee202138e2580ce175c8717d15667dc05d7598bbc1f8b3ecfab"
+    },
+    {
+      "fileName": "postfix_exporter_systemd_0.7.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "426434b461b61d1bcdd98f9359c649ff74339bf94daf8d22694ee4631e9308b0"
+    },
+    {
+      "fileName": "postfix_exporter_systemd_0.7.0_linux_amd64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8deebc8fbb306a95c1c06cbbe53818d033245d136a7c9895f61c5c4043293a92"
+    },
+    {
+      "fileName": "postfix_exporter_systemd_0.7.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "be4cf9ebf6eed3c0fb94b102222aff807769d60bdcb351917a1181e0ae7f6da4"
+    },
+    {
+      "fileName": "postfix_exporter_systemd_0.7.0_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6721bc1b39070ea81422e7761e904bfda7f599f95af5b6397f6c008878de342c"
+    }
+  ]
+}

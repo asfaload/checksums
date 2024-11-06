@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"versitygw_1.0.7_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"dd4dee342531eec4304ebe7b739267513133b539b916f6617e0343a4f904937f"},{"fileName":"versitygw_1.0.7_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"0a7fccc95eda76d00274b1607ea79cc579fb77cc97bfd88e2ecdd0584743c0d1"},{"fileName":"versitygw_1.0.7_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"6437e0937da4c28f1a35d0c88c916e2d689e8b2cddb534c646b131cb38ab630c"},{"fileName":"versitygw_1.0.7_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"5500d6aaeea0ef2be1015df72e17dec45b1cc856b2ab5f062a2e9980a605960f"},{"fileName":"versitygw_v1.0.7_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e4d4999a65d48bffa5d1899bd3b5025e441e23d2f6fb4c96de10c84d060f471a"},{"fileName":"versitygw_v1.0.7_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2de1bc7048a6d837b50fdc7155ef6649445f812069639b8753dee8d3a83b24c6"},{"fileName":"versitygw_v1.0.7_Freebsd_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fcc333a9ec160e54e222a61420d9d2afd5cccd4a9ca6a4f7efa41774cb385a73"},{"fileName":"versitygw_v1.0.7_Freebsd_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"630be986ca151d31ac4c163e6b51c6365d2a87085d9f9ec9ca74e166ff9fac47"},{"fileName":"versitygw_v1.0.7_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bc6f715e59f9235548596de03aeaf75e1bf3cede73df0b80fa115974abc988ab"},{"fileName":"versitygw_v1.0.7_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2c2118ee17ff577cb75506e20cb17140f494e45a205eb5abccaf050d0dc22875"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "versitygw_1.0.7_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dd4dee342531eec4304ebe7b739267513133b539b916f6617e0343a4f904937f"
+    },
+    {
+      "fileName": "versitygw_1.0.7_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0a7fccc95eda76d00274b1607ea79cc579fb77cc97bfd88e2ecdd0584743c0d1"
+    },
+    {
+      "fileName": "versitygw_1.0.7_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6437e0937da4c28f1a35d0c88c916e2d689e8b2cddb534c646b131cb38ab630c"
+    },
+    {
+      "fileName": "versitygw_1.0.7_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5500d6aaeea0ef2be1015df72e17dec45b1cc856b2ab5f062a2e9980a605960f"
+    },
+    {
+      "fileName": "versitygw_v1.0.7_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e4d4999a65d48bffa5d1899bd3b5025e441e23d2f6fb4c96de10c84d060f471a"
+    },
+    {
+      "fileName": "versitygw_v1.0.7_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2de1bc7048a6d837b50fdc7155ef6649445f812069639b8753dee8d3a83b24c6"
+    },
+    {
+      "fileName": "versitygw_v1.0.7_Freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fcc333a9ec160e54e222a61420d9d2afd5cccd4a9ca6a4f7efa41774cb385a73"
+    },
+    {
+      "fileName": "versitygw_v1.0.7_Freebsd_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "630be986ca151d31ac4c163e6b51c6365d2a87085d9f9ec9ca74e166ff9fac47"
+    },
+    {
+      "fileName": "versitygw_v1.0.7_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bc6f715e59f9235548596de03aeaf75e1bf3cede73df0b80fa115974abc988ab"
+    },
+    {
+      "fileName": "versitygw_v1.0.7_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2c2118ee17ff577cb75506e20cb17140f494e45a205eb5abccaf050d0dc22875"
+    }
+  ]
+}

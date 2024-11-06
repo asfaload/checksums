@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"batteries-included_Darwin_arm64.tar.gz","algo":"Sha256","source":"batteries-included_0.24.0_checksums.txt","hash":"e09c2ff477acc66d832bd767891a2c8dafc2c2721df3fe6e81a35a9fef50bc3b"},{"fileName":"batteries-included_Darwin_x86_64.tar.gz","algo":"Sha256","source":"batteries-included_0.24.0_checksums.txt","hash":"f9ce35e51bd5d8dc6672bfc40660e2701b325b2c7ff716dcb985b29bc9082004"},{"fileName":"batteries-included_Linux_arm64.tar.gz","algo":"Sha256","source":"batteries-included_0.24.0_checksums.txt","hash":"7ddd1ac1ca24e0f9cd51ff6965a54083d5f3705548c3ec738abfa0921333a402"},{"fileName":"batteries-included_Linux_x86_64.tar.gz","algo":"Sha256","source":"batteries-included_0.24.0_checksums.txt","hash":"c74f235a1ea095884e029cd18934f8443b55b8ce527444aaf9c0bda8983deeb7"},{"fileName":"batteries-included_Windows_arm64.zip","algo":"Sha256","source":"batteries-included_0.24.0_checksums.txt","hash":"14fbff611f5d00196f19a914f0765096d75a1b7c04957454439c3ea3b86b4706"},{"fileName":"batteries-included_Windows_x86_64.zip","algo":"Sha256","source":"batteries-included_0.24.0_checksums.txt","hash":"0541dc4b9ac88fd22ac15e0809cb58ecd83bbb2b70b8a826f3c5662c0e2c33fa"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "batteries-included_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "batteries-included_0.24.0_checksums.txt",
+      "hash": "e09c2ff477acc66d832bd767891a2c8dafc2c2721df3fe6e81a35a9fef50bc3b"
+    },
+    {
+      "fileName": "batteries-included_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "batteries-included_0.24.0_checksums.txt",
+      "hash": "f9ce35e51bd5d8dc6672bfc40660e2701b325b2c7ff716dcb985b29bc9082004"
+    },
+    {
+      "fileName": "batteries-included_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "batteries-included_0.24.0_checksums.txt",
+      "hash": "7ddd1ac1ca24e0f9cd51ff6965a54083d5f3705548c3ec738abfa0921333a402"
+    },
+    {
+      "fileName": "batteries-included_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "batteries-included_0.24.0_checksums.txt",
+      "hash": "c74f235a1ea095884e029cd18934f8443b55b8ce527444aaf9c0bda8983deeb7"
+    },
+    {
+      "fileName": "batteries-included_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "batteries-included_0.24.0_checksums.txt",
+      "hash": "14fbff611f5d00196f19a914f0765096d75a1b7c04957454439c3ea3b86b4706"
+    },
+    {
+      "fileName": "batteries-included_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "batteries-included_0.24.0_checksums.txt",
+      "hash": "0541dc4b9ac88fd22ac15e0809cb58ecd83bbb2b70b8a826f3c5662c0e2c33fa"
+    }
+  ]
+}

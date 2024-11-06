@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T17:28:52+00:00","publishedOn":"2024-11-05T17:32:22.3388229+00:00","version":1,"publishedFiles":[{"fileName":"/data/git/github.com/ishgroup/oncourse/releases/download/v123.46.4/onCourseServer-123.46.4.zip","algo":"Sha256","source":"onCourseServer-123.46.4.zip.sha256","hash":"0e8f2261fa3836b977631700e22d3bbc646f955cf2ec42b174c49eed942c4469"}]}
+{
+  "mirroredOn": "2024-11-05T17:32:22.3388229+00:00",
+  "publishedOn": "2024-11-05T17:28:52+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "/data/git/github.com/ishgroup/oncourse/releases/download/v123.46.4/onCourseServer-123.46.4.zip",
+      "algo": "Sha256",
+      "source": "onCourseServer-123.46.4.zip.sha256",
+      "hash": "0e8f2261fa3836b977631700e22d3bbc646f955cf2ec42b174c49eed942c4469"
+    }
+  ]
+}

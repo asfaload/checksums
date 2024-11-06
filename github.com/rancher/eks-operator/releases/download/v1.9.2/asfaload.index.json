@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"eks-operator_1.9.2_linux_amd64.tar.gz","algo":"Sha256","source":"eks-operator_1.9.2_checksums.txt","hash":"dc3772dfb390fa75231b636d1c6e8638f4c33b590713e8b475e431133fd455fc"},{"fileName":"eks-operator_1.9.2_linux_arm64.tar.gz","algo":"Sha256","source":"eks-operator_1.9.2_checksums.txt","hash":"a649e715fd128312d39d5dd0a918944c7d2da440db64e7718c0529bc5b93e7d2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "eks-operator_1.9.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "eks-operator_1.9.2_checksums.txt",
+      "hash": "dc3772dfb390fa75231b636d1c6e8638f4c33b590713e8b475e431133fd455fc"
+    },
+    {
+      "fileName": "eks-operator_1.9.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "eks-operator_1.9.2_checksums.txt",
+      "hash": "a649e715fd128312d39d5dd0a918944c7d2da440db64e7718c0529bc5b93e7d2"
+    }
+  ]
+}

@@ -1,1 +1,325 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./SHASUMS256.txt","algo":"Sha512","source":"SHASUMS512.txt","hash":"161e8d6e16b04a5cc91100b07ce5e0ca5eed77ce4cb4683907b615b69ec7e7c66d19d6e84bd0154082c18b27992db782d0ce3c5cae32df416986df0b52080a3c"},{"fileName":"./mise-v2024.10.7-linux-arm64","algo":"Sha512","source":"SHASUMS512.txt","hash":"02ca2d9088e21f82ad3476d9dcd895a9dcedd12ee59e7110cdc25fecf573c00e4624b3a40417cea7a9422030ea623f1401e413ee7696d04c71c713d14783b45e"},{"fileName":"./mise-v2024.10.7-linux-arm64-musl","algo":"Sha512","source":"SHASUMS512.txt","hash":"dd75a8b73b2517890defc87b09e648280eae8f28485762810cfbeb5aacfec964365e5cda61e9d4c00ccaeb5a98afdd0ddb70b4931f251bc0f0bef002982764ce"},{"fileName":"./mise-v2024.10.7-linux-arm64-musl.tar.gz","algo":"Sha512","source":"SHASUMS512.txt","hash":"4fb6c4968fd92b3205c18387ea10a35f718a64ecf5616a26338130f5d12a13fe501f4b706eea461d4cd15283cb36a052fbc0803cd805ddb07f43bed30e00152a"},{"fileName":"./mise-v2024.10.7-linux-arm64-musl.tar.xz","algo":"Sha512","source":"SHASUMS512.txt","hash":"37311a96fa777725c5bac85f82bc665d77d25b3e738171d9c29ec0e5e67db9cbc64e80236950037d799c8f9fd55cc4c00e373e0282072549245dbdd2b6032954"},{"fileName":"./mise-v2024.10.7-linux-arm64.tar.gz","algo":"Sha512","source":"SHASUMS512.txt","hash":"1f24493c9e173a40989f1434be2006d75bc344170ecb53d9a26d8206ddaf10ca0519d65a146bcf0a03a89938798a5fafad6e96a0890f30933990b35b17645c00"},{"fileName":"./mise-v2024.10.7-linux-arm64.tar.xz","algo":"Sha512","source":"SHASUMS512.txt","hash":"9a195eaab41f3d08170769dbc4727a1b237d2209275452068fb6bd739ea74813830943e0077bf0517da7be815f56b3ae3e022998619052c7bee3326910c26cf2"},{"fileName":"./mise-v2024.10.7-linux-armv7","algo":"Sha512","source":"SHASUMS512.txt","hash":"7210c519ebf643a214646d9e2a88156ff9e8c4aeafc4c57df0f2e25154b718c0bf9fcd7d4bd2844e1a429250c67a25c492b6e1d1780c9d4f215add90b59c897a"},{"fileName":"./mise-v2024.10.7-linux-armv7-musl","algo":"Sha512","source":"SHASUMS512.txt","hash":"3cd843f00c24936b0e1a6d02e15afd6243fea070c973fc2e14e187f2c237e779c566e51e13e246c806c64e06f60b45ae64d0e9d6bed18b940069f47725827d5f"},{"fileName":"./mise-v2024.10.7-linux-armv7-musl.tar.gz","algo":"Sha512","source":"SHASUMS512.txt","hash":"6a0d4af7b6d62f17e3ca8a888e5c937c140972c2caada37809b4654b0d8be139efa359b9287612768885b6804d415259e754ac7db5bc9a470bcb290af4a2da58"},{"fileName":"./mise-v2024.10.7-linux-armv7-musl.tar.xz","algo":"Sha512","source":"SHASUMS512.txt","hash":"7785d0cc68571aa5821862d08dba6d9e06b45d7cdfdb2ffa63c42b82cb89c0fa4e5d9531cb8e652355c5da4a071ad1e55138e36b62664eea317f050b88bf77aa"},{"fileName":"./mise-v2024.10.7-linux-armv7.tar.gz","algo":"Sha512","source":"SHASUMS512.txt","hash":"63c1c1d092fcc26c5ed69c0d9a9dd53b65c34688221f3807d6651178add916fa33e9c1318ac4435f4811538fcfa033fc0a7ffab465c555b72188991010ee98b8"},{"fileName":"./mise-v2024.10.7-linux-armv7.tar.xz","algo":"Sha512","source":"SHASUMS512.txt","hash":"fd240abe9127d1bdc1b1347c1a8dce4533f894a726cf7af0df4ac4efb2ef770974255e418574f904d96e0c76f01bfff9557eab916797109b39f699b56abe3ce1"},{"fileName":"./mise-v2024.10.7-linux-x64","algo":"Sha512","source":"SHASUMS512.txt","hash":"e132c3567713352a749ddef1c9741fb9f76b2a18630a70b33eea0ae9488cb8cc08fafcf4a44d91b2021019962d0af472d484eede2446e2762008bffc1e5fd1fa"},{"fileName":"./mise-v2024.10.7-linux-x64-musl","algo":"Sha512","source":"SHASUMS512.txt","hash":"6a94bc3d06dda4ea35dc92dd5a1793a41fd5f4a6834de9942da3b6bc213b58e9f699d72cfb0c50ea53e4a18a736cb5f33654ab8e1b33f64ad3b4d0a6a21dc3b2"},{"fileName":"./mise-v2024.10.7-linux-x64-musl.tar.gz","algo":"Sha512","source":"SHASUMS512.txt","hash":"eea9f46264ed7330d5c17e1b163103bf1703c56e90740fc3ad44e4237e13e03ec921527ac359ce8d7cc63ebdc6b5f3f7eb2646a73368cedec4493bd22c956210"},{"fileName":"./mise-v2024.10.7-linux-x64-musl.tar.xz","algo":"Sha512","source":"SHASUMS512.txt","hash":"9e6d17d155de0acbf97a38c8871e0cddd41d628541d1752c3adbedb955f12573979d80368eb8cd0de0edd00db271abc0d0722ebbc8679d5760bf07878b9d6a8c"},{"fileName":"./mise-v2024.10.7-linux-x64.tar.gz","algo":"Sha512","source":"SHASUMS512.txt","hash":"188e5a89edbb76cd04da09530d7c3094e17007fe54df7d1c4eb610f8bcdbd61f84ec5f8822b079361757b06e9657da583c360251a445f7f35bf71c64be9ba2bd"},{"fileName":"./mise-v2024.10.7-linux-x64.tar.xz","algo":"Sha512","source":"SHASUMS512.txt","hash":"f876c981455ce202c498a4ac69ebe61f512e82cf471d43c49b652b31acc42c14e7d363dab6c239fc53249947d6c041132c7642fa895254247fb172586f202a3e"},{"fileName":"./mise-v2024.10.7-macos-arm64","algo":"Sha512","source":"SHASUMS512.txt","hash":"b99c75e87e54166d705542dfd683c3927579bc1b3260f39f28320593226d1437243156d4974ed5385e86a40c7637579d36f13f6bc4ca889d61ace7d5456abf53"},{"fileName":"./mise-v2024.10.7-macos-arm64.tar.gz","algo":"Sha512","source":"SHASUMS512.txt","hash":"5df0c602d116d5ff9db6dfd768f5d5a4d5bca07aa8d1d089877cc187ea9d8d0e58283c992730cbb502cb75579dc78b4dedd31188d6f7cb9719ac215c6048910f"},{"fileName":"./mise-v2024.10.7-macos-arm64.tar.xz","algo":"Sha512","source":"SHASUMS512.txt","hash":"7db768579bfff961aee71b093dfceb781cab31075bb2464718673cc273127453e662938818445c525a65dd2ad4a64e6310419a45b1f618026ef8efc1dfaf0cbc"},{"fileName":"./mise-v2024.10.7-macos-x64","algo":"Sha512","source":"SHASUMS512.txt","hash":"506084e61248645e631df3bb75a387243da0e040fb1d8c2f2e1649a985fab459333962b70daeaaea2f51be039dce12270860eba5955d7e4c392ff39ed4825c31"},{"fileName":"./mise-v2024.10.7-macos-x64.tar.gz","algo":"Sha512","source":"SHASUMS512.txt","hash":"0e15d62f9bd2d2ab36e7157e59700166414d083f2e302536a41d4698a91135d4a57d2143ff66b8c6d82243d43f9fcd348052932ba5f1fecb6220532b0e44c823"},{"fileName":"./mise-v2024.10.7-macos-x64.tar.xz","algo":"Sha512","source":"SHASUMS512.txt","hash":"640e727eded57445ed9f98af0e786d716a0770c736c9616e1f229180b99b0c3a0a107ef8ff941f76ffe24354f695abbd30fbd84ffc5713585f862cad2cb6f5e0"},{"fileName":"./mise-v2024.10.7-windows-arm64.zip","algo":"Sha512","source":"SHASUMS512.txt","hash":"efd2151be333e998e6c0d72f49d2f17fb7b7c9d19df98277fa7befe316daff96ba6a525bdb3f65d85805301a144476484ccfea981c9280efbf1a58cd2b931477"},{"fileName":"./mise-v2024.10.7-windows-x64.zip","algo":"Sha512","source":"SHASUMS512.txt","hash":"eaa055f7c58f026e1b6cda4c0b07cd7e7e14b5f0400180893ee996c764c2806444d70dacb5ddd344879622c5b2492a4d706a097239b45a9916218ccae39e095f"},{"fileName":"./mise-v2024.10.7-linux-arm64","algo":"Sha256","source":"SHASUMS256.txt","hash":"3737ced6ea9683ca6cf81db80745c98c2d44ef054e7c231b2bd43d39c009e5d6"},{"fileName":"./mise-v2024.10.7-linux-arm64-musl","algo":"Sha256","source":"SHASUMS256.txt","hash":"c347968935338be13ef0907101052d24817e455a25c1cd3c9caad80c9cca52a1"},{"fileName":"./mise-v2024.10.7-linux-arm64-musl.tar.gz","algo":"Sha256","source":"SHASUMS256.txt","hash":"13ff1b8bbea0c6a40a570078696fd91cf63109b0e4cf19a85ed7e2b5fb55da50"},{"fileName":"./mise-v2024.10.7-linux-arm64-musl.tar.xz","algo":"Sha256","source":"SHASUMS256.txt","hash":"87b960523a64accfd00f004015b56bac81fa4877fb948a54c4ea72de03e73698"},{"fileName":"./mise-v2024.10.7-linux-arm64.tar.gz","algo":"Sha256","source":"SHASUMS256.txt","hash":"cdc4d540b564b46f901c1ace11f0aab20b05c55faf9cedaf8ba5c117d11b856c"},{"fileName":"./mise-v2024.10.7-linux-arm64.tar.xz","algo":"Sha256","source":"SHASUMS256.txt","hash":"8c68e5b822bc3ded12f932a2101692eea6df3c86a9443268bec60ed77e7d9ffc"},{"fileName":"./mise-v2024.10.7-linux-armv7","algo":"Sha256","source":"SHASUMS256.txt","hash":"168a20e91e67938879cd34890e886a1f6bef67edebe9016ad0cfd0056e2f2e64"},{"fileName":"./mise-v2024.10.7-linux-armv7-musl","algo":"Sha256","source":"SHASUMS256.txt","hash":"aaaaacabc6c30abb4968b6c0430e3502feaa283278bb81933b2c8b880a1ea4cf"},{"fileName":"./mise-v2024.10.7-linux-armv7-musl.tar.gz","algo":"Sha256","source":"SHASUMS256.txt","hash":"7e7b97a500947cc95ab5ae025f0713ee768df4c3495d82495c6268ad3a5eac7c"},{"fileName":"./mise-v2024.10.7-linux-armv7-musl.tar.xz","algo":"Sha256","source":"SHASUMS256.txt","hash":"1a1468c5f0621a1ef0fb780353517604e29d8ca5c114a5fb36c3c008c668c09a"},{"fileName":"./mise-v2024.10.7-linux-armv7.tar.gz","algo":"Sha256","source":"SHASUMS256.txt","hash":"a47fd09cccec9045c3c07a10c9b7d5c4ac9deeb173c4936f41fdd0c3d76840fa"},{"fileName":"./mise-v2024.10.7-linux-armv7.tar.xz","algo":"Sha256","source":"SHASUMS256.txt","hash":"af9d6d8a7dec01bb1bca72869a9ac7da591a2c9bf9df3cd95ed2d6628b47b19f"},{"fileName":"./mise-v2024.10.7-linux-x64","algo":"Sha256","source":"SHASUMS256.txt","hash":"5e408268a3405b2f737499fe49be69b6e737e373d096a9f476f0cd4388514fb8"},{"fileName":"./mise-v2024.10.7-linux-x64-musl","algo":"Sha256","source":"SHASUMS256.txt","hash":"347b50ff67e67c6f42fd6fe9ba64ae2a75ddee7d7c69351e4892a5dc8f7738a4"},{"fileName":"./mise-v2024.10.7-linux-x64-musl.tar.gz","algo":"Sha256","source":"SHASUMS256.txt","hash":"3d520b9b9815a48151f3650c71c8040e08452b0d52392f147388296263db4461"},{"fileName":"./mise-v2024.10.7-linux-x64-musl.tar.xz","algo":"Sha256","source":"SHASUMS256.txt","hash":"8bb61c532e2311b49f3790ab3bcace12e70b1b3cda09b3491e6a30c75c2fe1c1"},{"fileName":"./mise-v2024.10.7-linux-x64.tar.gz","algo":"Sha256","source":"SHASUMS256.txt","hash":"ce8c083abb36cf1f0cd85350e37e40e260ddd6c5db61255d7dab284d8cf75698"},{"fileName":"./mise-v2024.10.7-linux-x64.tar.xz","algo":"Sha256","source":"SHASUMS256.txt","hash":"a14acb879ffd47e5e659e0b6be3f65a135ffee872d290bc45469db84a98adbb0"},{"fileName":"./mise-v2024.10.7-macos-arm64","algo":"Sha256","source":"SHASUMS256.txt","hash":"4e8c53d6e1ba4ced95c2f40d242ebc39ea22bfbda0e98c9c7fe65149285efdda"},{"fileName":"./mise-v2024.10.7-macos-arm64.tar.gz","algo":"Sha256","source":"SHASUMS256.txt","hash":"e45de3aab649a6c637fee7d3170956b14ad000a853aa4e17bfb41f936104bd28"},{"fileName":"./mise-v2024.10.7-macos-arm64.tar.xz","algo":"Sha256","source":"SHASUMS256.txt","hash":"bb8ba5b6556519809293b301b1fd2dadca1af1584d2ba65f882d1164e3d15b7f"},{"fileName":"./mise-v2024.10.7-macos-x64","algo":"Sha256","source":"SHASUMS256.txt","hash":"7b962a02c50df916c84d18860f6d79bfb45b53993a2dc39ccbe25082df90aa1e"},{"fileName":"./mise-v2024.10.7-macos-x64.tar.gz","algo":"Sha256","source":"SHASUMS256.txt","hash":"faad7f45defceb0c8b0280b04b14c806f1a89bef37de57beac60f4931820f9ac"},{"fileName":"./mise-v2024.10.7-macos-x64.tar.xz","algo":"Sha256","source":"SHASUMS256.txt","hash":"7a321c225e7e5bde86df67b3bf2231b94532c25fb9498778626da30240d99d51"},{"fileName":"./mise-v2024.10.7-windows-arm64.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"393b5581af83a26dfbb53f2efdc9b088c353e6d5c3699a5b0c21c639135e9a4a"},{"fileName":"./mise-v2024.10.7-windows-x64.zip","algo":"Sha256","source":"SHASUMS256.txt","hash":"825c4f3a0031aa00286b434975f49475a6b9f660e88c185d761c5fdb3ddf8029"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./SHASUMS256.txt",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "161e8d6e16b04a5cc91100b07ce5e0ca5eed77ce4cb4683907b615b69ec7e7c66d19d6e84bd0154082c18b27992db782d0ce3c5cae32df416986df0b52080a3c"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "02ca2d9088e21f82ad3476d9dcd895a9dcedd12ee59e7110cdc25fecf573c00e4624b3a40417cea7a9422030ea623f1401e413ee7696d04c71c713d14783b45e"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64-musl",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "dd75a8b73b2517890defc87b09e648280eae8f28485762810cfbeb5aacfec964365e5cda61e9d4c00ccaeb5a98afdd0ddb70b4931f251bc0f0bef002982764ce"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64-musl.tar.gz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "4fb6c4968fd92b3205c18387ea10a35f718a64ecf5616a26338130f5d12a13fe501f4b706eea461d4cd15283cb36a052fbc0803cd805ddb07f43bed30e00152a"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64-musl.tar.xz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "37311a96fa777725c5bac85f82bc665d77d25b3e738171d9c29ec0e5e67db9cbc64e80236950037d799c8f9fd55cc4c00e373e0282072549245dbdd2b6032954"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64.tar.gz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "1f24493c9e173a40989f1434be2006d75bc344170ecb53d9a26d8206ddaf10ca0519d65a146bcf0a03a89938798a5fafad6e96a0890f30933990b35b17645c00"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64.tar.xz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "9a195eaab41f3d08170769dbc4727a1b237d2209275452068fb6bd739ea74813830943e0077bf0517da7be815f56b3ae3e022998619052c7bee3326910c26cf2"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "7210c519ebf643a214646d9e2a88156ff9e8c4aeafc4c57df0f2e25154b718c0bf9fcd7d4bd2844e1a429250c67a25c492b6e1d1780c9d4f215add90b59c897a"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7-musl",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "3cd843f00c24936b0e1a6d02e15afd6243fea070c973fc2e14e187f2c237e779c566e51e13e246c806c64e06f60b45ae64d0e9d6bed18b940069f47725827d5f"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7-musl.tar.gz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "6a0d4af7b6d62f17e3ca8a888e5c937c140972c2caada37809b4654b0d8be139efa359b9287612768885b6804d415259e754ac7db5bc9a470bcb290af4a2da58"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7-musl.tar.xz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "7785d0cc68571aa5821862d08dba6d9e06b45d7cdfdb2ffa63c42b82cb89c0fa4e5d9531cb8e652355c5da4a071ad1e55138e36b62664eea317f050b88bf77aa"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7.tar.gz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "63c1c1d092fcc26c5ed69c0d9a9dd53b65c34688221f3807d6651178add916fa33e9c1318ac4435f4811538fcfa033fc0a7ffab465c555b72188991010ee98b8"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7.tar.xz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "fd240abe9127d1bdc1b1347c1a8dce4533f894a726cf7af0df4ac4efb2ef770974255e418574f904d96e0c76f01bfff9557eab916797109b39f699b56abe3ce1"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "e132c3567713352a749ddef1c9741fb9f76b2a18630a70b33eea0ae9488cb8cc08fafcf4a44d91b2021019962d0af472d484eede2446e2762008bffc1e5fd1fa"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64-musl",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "6a94bc3d06dda4ea35dc92dd5a1793a41fd5f4a6834de9942da3b6bc213b58e9f699d72cfb0c50ea53e4a18a736cb5f33654ab8e1b33f64ad3b4d0a6a21dc3b2"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64-musl.tar.gz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "eea9f46264ed7330d5c17e1b163103bf1703c56e90740fc3ad44e4237e13e03ec921527ac359ce8d7cc63ebdc6b5f3f7eb2646a73368cedec4493bd22c956210"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64-musl.tar.xz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "9e6d17d155de0acbf97a38c8871e0cddd41d628541d1752c3adbedb955f12573979d80368eb8cd0de0edd00db271abc0d0722ebbc8679d5760bf07878b9d6a8c"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64.tar.gz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "188e5a89edbb76cd04da09530d7c3094e17007fe54df7d1c4eb610f8bcdbd61f84ec5f8822b079361757b06e9657da583c360251a445f7f35bf71c64be9ba2bd"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64.tar.xz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "f876c981455ce202c498a4ac69ebe61f512e82cf471d43c49b652b31acc42c14e7d363dab6c239fc53249947d6c041132c7642fa895254247fb172586f202a3e"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-arm64",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "b99c75e87e54166d705542dfd683c3927579bc1b3260f39f28320593226d1437243156d4974ed5385e86a40c7637579d36f13f6bc4ca889d61ace7d5456abf53"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-arm64.tar.gz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "5df0c602d116d5ff9db6dfd768f5d5a4d5bca07aa8d1d089877cc187ea9d8d0e58283c992730cbb502cb75579dc78b4dedd31188d6f7cb9719ac215c6048910f"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-arm64.tar.xz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "7db768579bfff961aee71b093dfceb781cab31075bb2464718673cc273127453e662938818445c525a65dd2ad4a64e6310419a45b1f618026ef8efc1dfaf0cbc"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-x64",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "506084e61248645e631df3bb75a387243da0e040fb1d8c2f2e1649a985fab459333962b70daeaaea2f51be039dce12270860eba5955d7e4c392ff39ed4825c31"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-x64.tar.gz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "0e15d62f9bd2d2ab36e7157e59700166414d083f2e302536a41d4698a91135d4a57d2143ff66b8c6d82243d43f9fcd348052932ba5f1fecb6220532b0e44c823"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-x64.tar.xz",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "640e727eded57445ed9f98af0e786d716a0770c736c9616e1f229180b99b0c3a0a107ef8ff941f76ffe24354f695abbd30fbd84ffc5713585f862cad2cb6f5e0"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-windows-arm64.zip",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "efd2151be333e998e6c0d72f49d2f17fb7b7c9d19df98277fa7befe316daff96ba6a525bdb3f65d85805301a144476484ccfea981c9280efbf1a58cd2b931477"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-windows-x64.zip",
+      "algo": "Sha512",
+      "source": "SHASUMS512.txt",
+      "hash": "eaa055f7c58f026e1b6cda4c0b07cd7e7e14b5f0400180893ee996c764c2806444d70dacb5ddd344879622c5b2492a4d706a097239b45a9916218ccae39e095f"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "3737ced6ea9683ca6cf81db80745c98c2d44ef054e7c231b2bd43d39c009e5d6"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64-musl",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "c347968935338be13ef0907101052d24817e455a25c1cd3c9caad80c9cca52a1"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64-musl.tar.gz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "13ff1b8bbea0c6a40a570078696fd91cf63109b0e4cf19a85ed7e2b5fb55da50"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64-musl.tar.xz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "87b960523a64accfd00f004015b56bac81fa4877fb948a54c4ea72de03e73698"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "cdc4d540b564b46f901c1ace11f0aab20b05c55faf9cedaf8ba5c117d11b856c"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-arm64.tar.xz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "8c68e5b822bc3ded12f932a2101692eea6df3c86a9443268bec60ed77e7d9ffc"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "168a20e91e67938879cd34890e886a1f6bef67edebe9016ad0cfd0056e2f2e64"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7-musl",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "aaaaacabc6c30abb4968b6c0430e3502feaa283278bb81933b2c8b880a1ea4cf"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7-musl.tar.gz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "7e7b97a500947cc95ab5ae025f0713ee768df4c3495d82495c6268ad3a5eac7c"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7-musl.tar.xz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "1a1468c5f0621a1ef0fb780353517604e29d8ca5c114a5fb36c3c008c668c09a"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "a47fd09cccec9045c3c07a10c9b7d5c4ac9deeb173c4936f41fdd0c3d76840fa"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-armv7.tar.xz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "af9d6d8a7dec01bb1bca72869a9ac7da591a2c9bf9df3cd95ed2d6628b47b19f"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "5e408268a3405b2f737499fe49be69b6e737e373d096a9f476f0cd4388514fb8"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64-musl",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "347b50ff67e67c6f42fd6fe9ba64ae2a75ddee7d7c69351e4892a5dc8f7738a4"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64-musl.tar.gz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "3d520b9b9815a48151f3650c71c8040e08452b0d52392f147388296263db4461"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64-musl.tar.xz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "8bb61c532e2311b49f3790ab3bcace12e70b1b3cda09b3491e6a30c75c2fe1c1"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "ce8c083abb36cf1f0cd85350e37e40e260ddd6c5db61255d7dab284d8cf75698"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-linux-x64.tar.xz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "a14acb879ffd47e5e659e0b6be3f65a135ffee872d290bc45469db84a98adbb0"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-arm64",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "4e8c53d6e1ba4ced95c2f40d242ebc39ea22bfbda0e98c9c7fe65149285efdda"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "e45de3aab649a6c637fee7d3170956b14ad000a853aa4e17bfb41f936104bd28"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-arm64.tar.xz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "bb8ba5b6556519809293b301b1fd2dadca1af1584d2ba65f882d1164e3d15b7f"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-x64",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "7b962a02c50df916c84d18860f6d79bfb45b53993a2dc39ccbe25082df90aa1e"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "faad7f45defceb0c8b0280b04b14c806f1a89bef37de57beac60f4931820f9ac"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-macos-x64.tar.xz",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "7a321c225e7e5bde86df67b3bf2231b94532c25fb9498778626da30240d99d51"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "393b5581af83a26dfbb53f2efdc9b088c353e6d5c3699a5b0c21c639135e9a4a"
+    },
+    {
+      "fileName": "./mise-v2024.10.7-windows-x64.zip",
+      "algo": "Sha256",
+      "source": "SHASUMS256.txt",
+      "hash": "825c4f3a0031aa00286b434975f49475a6b9f660e88c185d761c5fdb3ddf8029"
+    }
+  ]
+}

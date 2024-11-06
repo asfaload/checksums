@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"frigate-notify_0.3.5_darwin_amd64.tar.gz","algo":"Sha256","source":"frigate-notify_0.3.5_checksums.txt","hash":"b9dfbfee02e66f1c0f66bfc8f022fce2bd156e8980f4e08f954d0f94a13a1a88"},{"fileName":"frigate-notify_0.3.5_darwin_arm64.tar.gz","algo":"Sha256","source":"frigate-notify_0.3.5_checksums.txt","hash":"251dda53c1896da1f8c6fc80cc84e16f9b56f192f20edb36581be2253dba2fbc"},{"fileName":"frigate-notify_0.3.5_linux_386.tar.gz","algo":"Sha256","source":"frigate-notify_0.3.5_checksums.txt","hash":"8bdc35d17c66cddd27fb9585356f307e51dd32a1cdbf2584641db89829790c36"},{"fileName":"frigate-notify_0.3.5_linux_amd64.tar.gz","algo":"Sha256","source":"frigate-notify_0.3.5_checksums.txt","hash":"988bcfd43fee8c81722085785b6f1587a751bdfcb4a3cf0592e9df54dd81f75f"},{"fileName":"frigate-notify_0.3.5_linux_arm64.tar.gz","algo":"Sha256","source":"frigate-notify_0.3.5_checksums.txt","hash":"f2667cd5644559ca0870ad029fe886bb076a636b5cc7ef7bb39b4113791e3fe2"},{"fileName":"frigate-notify_0.3.5_windows_386.tar.gz","algo":"Sha256","source":"frigate-notify_0.3.5_checksums.txt","hash":"a3fbd2ed549618f4971546c68b52d3be2760b17cd6925162680af4e3ca10d176"},{"fileName":"frigate-notify_0.3.5_windows_amd64.tar.gz","algo":"Sha256","source":"frigate-notify_0.3.5_checksums.txt","hash":"a9423f4eeb34f4732b60639357a36b3075603bf7b62a608e998307eca73ffdac"},{"fileName":"frigate-notify_0.3.5_windows_arm64.tar.gz","algo":"Sha256","source":"frigate-notify_0.3.5_checksums.txt","hash":"29231790e14b4d68d8d8288570c8869f0beb587a788a6791976daca0d99d79b7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "frigate-notify_0.3.5_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "frigate-notify_0.3.5_checksums.txt",
+      "hash": "b9dfbfee02e66f1c0f66bfc8f022fce2bd156e8980f4e08f954d0f94a13a1a88"
+    },
+    {
+      "fileName": "frigate-notify_0.3.5_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "frigate-notify_0.3.5_checksums.txt",
+      "hash": "251dda53c1896da1f8c6fc80cc84e16f9b56f192f20edb36581be2253dba2fbc"
+    },
+    {
+      "fileName": "frigate-notify_0.3.5_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "frigate-notify_0.3.5_checksums.txt",
+      "hash": "8bdc35d17c66cddd27fb9585356f307e51dd32a1cdbf2584641db89829790c36"
+    },
+    {
+      "fileName": "frigate-notify_0.3.5_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "frigate-notify_0.3.5_checksums.txt",
+      "hash": "988bcfd43fee8c81722085785b6f1587a751bdfcb4a3cf0592e9df54dd81f75f"
+    },
+    {
+      "fileName": "frigate-notify_0.3.5_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "frigate-notify_0.3.5_checksums.txt",
+      "hash": "f2667cd5644559ca0870ad029fe886bb076a636b5cc7ef7bb39b4113791e3fe2"
+    },
+    {
+      "fileName": "frigate-notify_0.3.5_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "frigate-notify_0.3.5_checksums.txt",
+      "hash": "a3fbd2ed549618f4971546c68b52d3be2760b17cd6925162680af4e3ca10d176"
+    },
+    {
+      "fileName": "frigate-notify_0.3.5_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "frigate-notify_0.3.5_checksums.txt",
+      "hash": "a9423f4eeb34f4732b60639357a36b3075603bf7b62a608e998307eca73ffdac"
+    },
+    {
+      "fileName": "frigate-notify_0.3.5_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "frigate-notify_0.3.5_checksums.txt",
+      "hash": "29231790e14b4d68d8d8288570c8869f0beb587a788a6791976daca0d99d79b7"
+    }
+  ]
+}

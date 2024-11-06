@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"tsdproxy_0.0.3_darwin_all.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1efe109bf1ab9f784bc2ed64a695636ceae2937688b48873eda67b7a767345c9"},{"fileName":"tsdproxy_0.0.3_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"25568d65615c7869c0327880eb09280223810e2540eb6c4154004e3a97d86688"},{"fileName":"tsdproxy_0.0.3_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3c8cd7f0cd95d5ebd1b240b25f76b17d6a96ac5405eca7893d39d0687918c415"},{"fileName":"tsdproxy_0.0.3_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"239f23757175ee5de671ba3a5eddeb02e83ec4c60de62ee7fd5c32c8566566e7"},{"fileName":"tsdproxy_0.0.3_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"428e5d0e2b44fa46fbcd63721bf14d68a71c503366c009226cafc04cb4357504"},{"fileName":"tsdproxy_0.0.3_linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"43c8fb663c338b74b1b5d9c113a4e8d8c5262a5fd3e6fc6ca43d839641bf362d"},{"fileName":"tsdproxy_0.0.3_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b50711303a62bb6eeecd5ef246acc9455a1a0456eb70b0c5d85829304759c13a"},{"fileName":"tsdproxy_0.0.3_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6ea424cacc154f7a78e59d56946f60183fa8c113315900a91e5a8111b319a024"},{"fileName":"tsdproxy_0.0.3_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b5cc3d5d9a6af6f67056997020d7554afb31fe7589433f9f30347495341826d7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "tsdproxy_0.0.3_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1efe109bf1ab9f784bc2ed64a695636ceae2937688b48873eda67b7a767345c9"
+    },
+    {
+      "fileName": "tsdproxy_0.0.3_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "25568d65615c7869c0327880eb09280223810e2540eb6c4154004e3a97d86688"
+    },
+    {
+      "fileName": "tsdproxy_0.0.3_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3c8cd7f0cd95d5ebd1b240b25f76b17d6a96ac5405eca7893d39d0687918c415"
+    },
+    {
+      "fileName": "tsdproxy_0.0.3_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "239f23757175ee5de671ba3a5eddeb02e83ec4c60de62ee7fd5c32c8566566e7"
+    },
+    {
+      "fileName": "tsdproxy_0.0.3_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "428e5d0e2b44fa46fbcd63721bf14d68a71c503366c009226cafc04cb4357504"
+    },
+    {
+      "fileName": "tsdproxy_0.0.3_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "43c8fb663c338b74b1b5d9c113a4e8d8c5262a5fd3e6fc6ca43d839641bf362d"
+    },
+    {
+      "fileName": "tsdproxy_0.0.3_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b50711303a62bb6eeecd5ef246acc9455a1a0456eb70b0c5d85829304759c13a"
+    },
+    {
+      "fileName": "tsdproxy_0.0.3_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6ea424cacc154f7a78e59d56946f60183fa8c113315900a91e5a8111b319a024"
+    },
+    {
+      "fileName": "tsdproxy_0.0.3_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b5cc3d5d9a6af6f67056997020d7554afb31fe7589433f9f30347495341826d7"
+    }
+  ]
+}

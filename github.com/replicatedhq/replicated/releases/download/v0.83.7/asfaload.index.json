@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"replicated_0.83.7_darwin_all.tar.gz","algo":"Sha256","source":"cli_0.83.7_checksums.txt","hash":"5e99276fca349ba30d4c9b57d010c22b30bf2dff2824fa933eb3758937b64e23"},{"fileName":"replicated_0.83.7_linux_386.tar.gz","algo":"Sha256","source":"cli_0.83.7_checksums.txt","hash":"67a4cb365f9a428b16447e7027d100a675b20f451cb50ac8b06d5c26508d540c"},{"fileName":"replicated_0.83.7_linux_amd64.tar.gz","algo":"Sha256","source":"cli_0.83.7_checksums.txt","hash":"1ff9cb43adc402538f5e51cedf666bfc5bde184efc6ccb730507fb3c6188389e"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "replicated_0.83.7_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "cli_0.83.7_checksums.txt",
+      "hash": "5e99276fca349ba30d4c9b57d010c22b30bf2dff2824fa933eb3758937b64e23"
+    },
+    {
+      "fileName": "replicated_0.83.7_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "cli_0.83.7_checksums.txt",
+      "hash": "67a4cb365f9a428b16447e7027d100a675b20f451cb50ac8b06d5c26508d540c"
+    },
+    {
+      "fileName": "replicated_0.83.7_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cli_0.83.7_checksums.txt",
+      "hash": "1ff9cb43adc402538f5e51cedf666bfc5bde184efc6ccb730507fb3c6188389e"
+    }
+  ]
+}

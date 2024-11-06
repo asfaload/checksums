@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"prattl_darwin_all.tar.gz","algo":"Sha256","source":"prattl_0.3.0_checksums.txt","hash":"e4a3bbc54eab73003446dc245961c6eaf59381c489cea0d6e81da07ff30c124d"},{"fileName":"prattl_linux_arm64.tar.gz","algo":"Sha256","source":"prattl_0.3.0_checksums.txt","hash":"a988b43a4c334069057218ef92c80a3238fa99149de2f9f6ced4dbe7d7189c4f"},{"fileName":"prattl_linux_x86_64.tar.gz","algo":"Sha256","source":"prattl_0.3.0_checksums.txt","hash":"0ce6bdeaa8305557cefa1336164affce54905255033600fe9febe50d5d776ddf"},{"fileName":"prattl_windows_i386.zip","algo":"Sha256","source":"prattl_0.3.0_checksums.txt","hash":"714f0cd5e28ff1e04b5d79b485db533b68a93d9ba7c5ff0ed107a40f2f0f89c1"},{"fileName":"prattl_windows_x86_64.zip","algo":"Sha256","source":"prattl_0.3.0_checksums.txt","hash":"f382706582b9bddf94a27c650d1062460344c2e510aba86e731d1d066e50bb5c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "prattl_darwin_all.tar.gz",
+      "algo": "Sha256",
+      "source": "prattl_0.3.0_checksums.txt",
+      "hash": "e4a3bbc54eab73003446dc245961c6eaf59381c489cea0d6e81da07ff30c124d"
+    },
+    {
+      "fileName": "prattl_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "prattl_0.3.0_checksums.txt",
+      "hash": "a988b43a4c334069057218ef92c80a3238fa99149de2f9f6ced4dbe7d7189c4f"
+    },
+    {
+      "fileName": "prattl_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "prattl_0.3.0_checksums.txt",
+      "hash": "0ce6bdeaa8305557cefa1336164affce54905255033600fe9febe50d5d776ddf"
+    },
+    {
+      "fileName": "prattl_windows_i386.zip",
+      "algo": "Sha256",
+      "source": "prattl_0.3.0_checksums.txt",
+      "hash": "714f0cd5e28ff1e04b5d79b485db533b68a93d9ba7c5ff0ed107a40f2f0f89c1"
+    },
+    {
+      "fileName": "prattl_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "prattl_0.3.0_checksums.txt",
+      "hash": "f382706582b9bddf94a27c650d1062460344c2e510aba86e731d1d066e50bb5c"
+    }
+  ]
+}

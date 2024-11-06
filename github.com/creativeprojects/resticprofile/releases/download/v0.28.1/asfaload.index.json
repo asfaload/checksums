@@ -1,1 +1,265 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"resticprofile_0.28.1_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6e4d0cad0d473ffa284a6e58278b844d58af99739b6088eb1cfe9d90ff6c5114"},{"fileName":"resticprofile_0.28.1_darwin_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"aa316d282eb4b0cc7312ee55516768c70c7c06cbd144ad6aec225d28677598cd"},{"fileName":"resticprofile_0.28.1_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d363dd82f639ee03d9a6e39f711188b13a0685ad3c2557a7047d8218facbd1ae"},{"fileName":"resticprofile_0.28.1_darwin_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"025426e2c062b67bfdd7a5fe7af761c184812039f3e2728235c52a92e574a917"},{"fileName":"resticprofile_0.28.1_freebsd_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8a83f56ad466f83c797d9a8edba8efe2abfe3ff0ff94a18b70cfd68fa4bf68dd"},{"fileName":"resticprofile_0.28.1_freebsd_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e6a40e2c04daccbf17f4d23e3a632e87ce2e449d857cf1a419f35aa6b3c7898b"},{"fileName":"resticprofile_0.28.1_freebsd_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9ee2949dc1b4d717bb5eee1542fd74afc5234b639ed912cbfb88e258920e60d3"},{"fileName":"resticprofile_0.28.1_freebsd_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e8feb65b94837710163a35912c3b74dc91e05775a619483cd2b3cccc277ed43c"},{"fileName":"resticprofile_0.28.1_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"92a3579c3e9c073441d0a2d8a6c98bafaff5e0d340c83b2f1b36aab49717068d"},{"fileName":"resticprofile_0.28.1_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e0a0d1a18634364d2304a818f650e8b9b9d442d89a0e16ce45274b3cc366736b"},{"fileName":"resticprofile_0.28.1_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"322c20eba05edbff6aa8723ecba66e698822ed7741cb2be66132db027b0f1e4d"},{"fileName":"resticprofile_0.28.1_linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d1ef07645ea3310d3f030df8cb3a292a7a6e46a34de2074307a914ba3c90bc51"},{"fileName":"resticprofile_0.28.1_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"86fdcb5fec9f208cacbed12aa4dd13596a49e2e2da6b7e5b6e5b7265c0f98ed8"},{"fileName":"resticprofile_0.28.1_linux_mips.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0c07ebfc581f3c527d1455b3a7ead53e27d905bdb97cedd22bf52f9e92533c15"},{"fileName":"resticprofile_0.28.1_linux_mips64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f0727d6a2d5da637837239c232d701e0a5b8b57bae773fda0a3e5e33eb18c1e1"},{"fileName":"resticprofile_0.28.1_linux_mips64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5370ee23b4b0f05b6ce328306599a2df0fbff512087c369ec66019d12cffa16e"},{"fileName":"resticprofile_0.28.1_linux_mipsle.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c3d94b9894d06526c1c86034c091d3e5e6716bfd781356a576c8a254accff96c"},{"fileName":"resticprofile_0.28.1_linux_ppc64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"10a1d5cfc46d9396ed1d00f6b3eca546d5a33973c84192565b700f4152e359d7"},{"fileName":"resticprofile_0.28.1_linux_ppc64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1ef98658fa18fc3b22fda4564624a31b75ab58ea1cbce6709a2e1657b390f7b8"},{"fileName":"resticprofile_0.28.1_linux_riscv64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ab883bb28e4096e95570146478299da487aee51117a50980a60d70f7f8e84471"},{"fileName":"resticprofile_0.28.1_linux_s390x.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"600904b53b8e82a43278b0db3d10484fb71a9adfc7bd5e91a9807bfb5da8387f"},{"fileName":"resticprofile_0.28.1_netbsd_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"bf074f01aacdb7135cd9ac8a72981b5c231d1b5201b64edeaa90534a02d48fe0"},{"fileName":"resticprofile_0.28.1_openbsd_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c9bf33aa57aeaa44af79b03072fdc731d3d4c9a95002c76bc9f143ecb064a56b"},{"fileName":"resticprofile_0.28.1_openbsd_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"18c265a369710ad2d4641522418b1d65e5de4b2109296442f566265123599567"},{"fileName":"resticprofile_0.28.1_solaris_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a4e4364bc27072988e9917169a9f4687122664c4824d68cb14e0075e3a4ae170"},{"fileName":"resticprofile_0.28.1_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"13576573f476fb2ef00da00adfbbd8bd685837e59718d7de05eabe483dfc1e4b"},{"fileName":"resticprofile_0.28.1_windows_386.zip","algo":"Sha256","source":"checksums.txt","hash":"9c31a45069a2f98f58a1b748e10554ad3d7c37bbb55ce6f1a5c0ec6a92eabddb"},{"fileName":"resticprofile_0.28.1_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"eacaf7d44b82a72cd56010f5a27f678189e9a6fb1f1f3760c2bffeb559332ca8"},{"fileName":"resticprofile_0.28.1_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"37be0191ca6374392b1a8e968324a27d2697674ea6f6dfccfe4b38c23b2cf26c"},{"fileName":"resticprofile_0.28.1_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"907893d0db259c07d3a3930fc4d4ea1e15c29269619f47e9c4c548db4ed4ce8f"},{"fileName":"resticprofile_no_self_update_0.28.1_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f2532c528624caab3cb23267d22e4f84369b67e2059c7321de6e121b036bc18a"},{"fileName":"resticprofile_no_self_update_0.28.1_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3fc4e79fb26487537a5b356c5ccd76ff7bcb6c6141f32b7c391861cbf53a6921"},{"fileName":"resticprofile_no_self_update_0.28.1_freebsd_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"24576958a0786b829094eb519c714ff8cd42833d563adb8614e4e0547de28b27"},{"fileName":"resticprofile_no_self_update_0.28.1_freebsd_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a996db449e3d7f95e7a70350c4e42ded166c96c951efab8456bb4edf0d6a6639"},{"fileName":"resticprofile_no_self_update_0.28.1_freebsd_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7583f79ea4a3d828821dd651a32ca5844fa4239ab3ee92dea31cffee749f4796"},{"fileName":"resticprofile_no_self_update_0.28.1_freebsd_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"df73049fe1d1a077996ebec8afed0b667cb81b48fec78309d2a796228b8f8d14"},{"fileName":"resticprofile_no_self_update_0.28.1_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"652ca504f856e98bbdde564ddde5c877b541300212793716d06db36e492e36eb"},{"fileName":"resticprofile_no_self_update_0.28.1_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f23d2e9d3ddc27633be67d3595505b900a66e985a54b925ba9003a8f4249ad71"},{"fileName":"resticprofile_no_self_update_0.28.1_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e4aee1e03a605b7356c7fbaf0eae948aa3b581e22f930bc3f813efe9b223ef9a"},{"fileName":"resticprofile_no_self_update_0.28.1_linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"69ec7aa4808e4c3232588a23a5d1f13d506ccf34ac799d303d927dbc0b8e357c"},{"fileName":"resticprofile_no_self_update_0.28.1_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0c33dab2cd84a45cc85bf3fdc145eaf1acd61e4e56e321078f1ced1ef385beb6"},{"fileName":"resticprofile_no_self_update_0.28.1_windows_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7d27f97d3292d870c33be84e7393d317d855cdfd61cfb21c32e9a2dbacb9d994"},{"fileName":"resticprofile_no_self_update_0.28.1_windows_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4fc16f18e1c3e7c5e6bc77b7c96527848678cdcbf44c93595cf9e1cc19428d72"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "resticprofile_0.28.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6e4d0cad0d473ffa284a6e58278b844d58af99739b6088eb1cfe9d90ff6c5114"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aa316d282eb4b0cc7312ee55516768c70c7c06cbd144ad6aec225d28677598cd"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d363dd82f639ee03d9a6e39f711188b13a0685ad3c2557a7047d8218facbd1ae"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "025426e2c062b67bfdd7a5fe7af761c184812039f3e2728235c52a92e574a917"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_freebsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8a83f56ad466f83c797d9a8edba8efe2abfe3ff0ff94a18b70cfd68fa4bf68dd"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e6a40e2c04daccbf17f4d23e3a632e87ce2e449d857cf1a419f35aa6b3c7898b"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_freebsd_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9ee2949dc1b4d717bb5eee1542fd74afc5234b639ed912cbfb88e258920e60d3"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_freebsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e8feb65b94837710163a35912c3b74dc91e05775a619483cd2b3cccc277ed43c"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "92a3579c3e9c073441d0a2d8a6c98bafaff5e0d340c83b2f1b36aab49717068d"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e0a0d1a18634364d2304a818f650e8b9b9d442d89a0e16ce45274b3cc366736b"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "322c20eba05edbff6aa8723ecba66e698822ed7741cb2be66132db027b0f1e4d"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d1ef07645ea3310d3f030df8cb3a292a7a6e46a34de2074307a914ba3c90bc51"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "86fdcb5fec9f208cacbed12aa4dd13596a49e2e2da6b7e5b6e5b7265c0f98ed8"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_mips.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0c07ebfc581f3c527d1455b3a7ead53e27d905bdb97cedd22bf52f9e92533c15"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_mips64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f0727d6a2d5da637837239c232d701e0a5b8b57bae773fda0a3e5e33eb18c1e1"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_mips64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5370ee23b4b0f05b6ce328306599a2df0fbff512087c369ec66019d12cffa16e"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_mipsle.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c3d94b9894d06526c1c86034c091d3e5e6716bfd781356a576c8a254accff96c"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_ppc64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "10a1d5cfc46d9396ed1d00f6b3eca546d5a33973c84192565b700f4152e359d7"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1ef98658fa18fc3b22fda4564624a31b75ab58ea1cbce6709a2e1657b390f7b8"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ab883bb28e4096e95570146478299da487aee51117a50980a60d70f7f8e84471"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "600904b53b8e82a43278b0db3d10484fb71a9adfc7bd5e91a9807bfb5da8387f"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_netbsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bf074f01aacdb7135cd9ac8a72981b5c231d1b5201b64edeaa90534a02d48fe0"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_openbsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c9bf33aa57aeaa44af79b03072fdc731d3d4c9a95002c76bc9f143ecb064a56b"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_openbsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "18c265a369710ad2d4641522418b1d65e5de4b2109296442f566265123599567"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_solaris_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a4e4364bc27072988e9917169a9f4687122664c4824d68cb14e0075e3a4ae170"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "13576573f476fb2ef00da00adfbbd8bd685837e59718d7de05eabe483dfc1e4b"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_windows_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9c31a45069a2f98f58a1b748e10554ad3d7c37bbb55ce6f1a5c0ec6a92eabddb"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "eacaf7d44b82a72cd56010f5a27f678189e9a6fb1f1f3760c2bffeb559332ca8"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "37be0191ca6374392b1a8e968324a27d2697674ea6f6dfccfe4b38c23b2cf26c"
+    },
+    {
+      "fileName": "resticprofile_0.28.1_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "907893d0db259c07d3a3930fc4d4ea1e15c29269619f47e9c4c548db4ed4ce8f"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f2532c528624caab3cb23267d22e4f84369b67e2059c7321de6e121b036bc18a"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3fc4e79fb26487537a5b356c5ccd76ff7bcb6c6141f32b7c391861cbf53a6921"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_freebsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "24576958a0786b829094eb519c714ff8cd42833d563adb8614e4e0547de28b27"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a996db449e3d7f95e7a70350c4e42ded166c96c951efab8456bb4edf0d6a6639"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_freebsd_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7583f79ea4a3d828821dd651a32ca5844fa4239ab3ee92dea31cffee749f4796"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_freebsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "df73049fe1d1a077996ebec8afed0b667cb81b48fec78309d2a796228b8f8d14"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "652ca504f856e98bbdde564ddde5c877b541300212793716d06db36e492e36eb"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f23d2e9d3ddc27633be67d3595505b900a66e985a54b925ba9003a8f4249ad71"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e4aee1e03a605b7356c7fbaf0eae948aa3b581e22f930bc3f813efe9b223ef9a"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "69ec7aa4808e4c3232588a23a5d1f13d506ccf34ac799d303d927dbc0b8e357c"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0c33dab2cd84a45cc85bf3fdc145eaf1acd61e4e56e321078f1ced1ef385beb6"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7d27f97d3292d870c33be84e7393d317d855cdfd61cfb21c32e9a2dbacb9d994"
+    },
+    {
+      "fileName": "resticprofile_no_self_update_0.28.1_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4fc16f18e1c3e7c5e6bc77b7c96527848678cdcbf44c93595cf9e1cc19428d72"
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./Wasabi-2.2.1.0-arm64.dmg","algo":"Sha256","source":"SHA256SUMS","hash":"7cbc55cf853984d518c4c3b426d743669d611b1384a72ccaa06e1552343a4316"},{"fileName":"./Wasabi-2.2.1.0-linux-x64.tar.gz","algo":"Sha256","source":"SHA256SUMS","hash":"1b32bb9f91be3ff44a546633c5ab1383f97895b7191e561688071a7e23e926f6"},{"fileName":"./Wasabi-2.2.1.0-linux-x64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"7c525921f7acb2633a162333822f0efbde5667aa0237b8552662552252694058"},{"fileName":"./Wasabi-2.2.1.0-macOS-arm64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"41c7636fb1ffbc1e5d8bfb8752ade1cc0c362aa30155120f6b4466f197206ab4"},{"fileName":"./Wasabi-2.2.1.0-macOS-x64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"b4d09e84cd6dfaa54c8b14c407ca94328ad1de95c35e63b25d55daaf3d2c85bc"},{"fileName":"./Wasabi-2.2.1.0-win-x64.zip","algo":"Sha256","source":"SHA256SUMS","hash":"3d8e0f61574544194804155cf9a486780a07e4d79a4049577ac89a4dd253e9a5"},{"fileName":"./Wasabi-2.2.1.0.deb","algo":"Sha256","source":"SHA256SUMS","hash":"82ab31713efcd6dacea605d38e633b86829f372cf61a8262f3981b6a01d05789"},{"fileName":"./Wasabi-2.2.1.0.dmg","algo":"Sha256","source":"SHA256SUMS","hash":"78bc750db7e3a7fec6923f4c4adbe02ffa42d284bc4e5d51090303fa97a23e7b"},{"fileName":"./Wasabi-2.2.1.0.msi","algo":"Sha256","source":"SHA256SUMS","hash":"2ab150a1052215b7f231c8070542436ffdc1d24de808f216b0446e87264cd3f4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./Wasabi-2.2.1.0-arm64.dmg",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "7cbc55cf853984d518c4c3b426d743669d611b1384a72ccaa06e1552343a4316"
+    },
+    {
+      "fileName": "./Wasabi-2.2.1.0-linux-x64.tar.gz",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "1b32bb9f91be3ff44a546633c5ab1383f97895b7191e561688071a7e23e926f6"
+    },
+    {
+      "fileName": "./Wasabi-2.2.1.0-linux-x64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "7c525921f7acb2633a162333822f0efbde5667aa0237b8552662552252694058"
+    },
+    {
+      "fileName": "./Wasabi-2.2.1.0-macOS-arm64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "41c7636fb1ffbc1e5d8bfb8752ade1cc0c362aa30155120f6b4466f197206ab4"
+    },
+    {
+      "fileName": "./Wasabi-2.2.1.0-macOS-x64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "b4d09e84cd6dfaa54c8b14c407ca94328ad1de95c35e63b25d55daaf3d2c85bc"
+    },
+    {
+      "fileName": "./Wasabi-2.2.1.0-win-x64.zip",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "3d8e0f61574544194804155cf9a486780a07e4d79a4049577ac89a4dd253e9a5"
+    },
+    {
+      "fileName": "./Wasabi-2.2.1.0.deb",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "82ab31713efcd6dacea605d38e633b86829f372cf61a8262f3981b6a01d05789"
+    },
+    {
+      "fileName": "./Wasabi-2.2.1.0.dmg",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "78bc750db7e3a7fec6923f4c4adbe02ffa42d284bc4e5d51090303fa97a23e7b"
+    },
+    {
+      "fileName": "./Wasabi-2.2.1.0.msi",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "2ab150a1052215b7f231c8070542436ffdc1d24de808f216b0446e87264cd3f4"
+    }
+  ]
+}

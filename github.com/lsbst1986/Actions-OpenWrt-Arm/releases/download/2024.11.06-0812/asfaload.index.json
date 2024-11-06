@@ -1,1 +1,61 @@
-{"mirroredOn":"2024-11-06T00:12:31+00:00","publishedOn":"2024-11-06T01:09:05.3878592+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"1f2689b54b44b4169fc072e206efee5e5c05261b7e25712fb9eb74ef24ab40db"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"29fc95418b2618e7d1514f7923aef71d434ce0992dc5055c01535c70d365c5c6"},{"fileName":"openwrt-sunxi-cortexa53-friendlyarm_nanopi-neo2-ext4-sdcard.img.gz","algo":"Sha256","source":"sha256sums","hash":"586e9460e758120373ff9bc1c9dc041d2d5f9db5293a4b106afb884478ea7b86"},{"fileName":"openwrt-sunxi-cortexa53-friendlyarm_nanopi-neo2-squashfs-sdcard.img.gz","algo":"Sha256","source":"sha256sums","hash":"828316b03227ebfba1a4ff705514361ec1b8def21317dd3b708c97dd23f0684f"},{"fileName":"openwrt-sunxi-cortexa53-xunlong_orangepi-zero3-ext4-sdcard.img.gz","algo":"Sha256","source":"sha256sums","hash":"a058921e2df009c61bc6d69326025587ca746615c12ac6fd182d97be38b2ffb2"},{"fileName":"openwrt-sunxi-cortexa53-xunlong_orangepi-zero3-squashfs-sdcard.img.gz","algo":"Sha256","source":"sha256sums","hash":"fc447bbb7a368201d282834edb43ea64cbeefd764762edf87635f7e79156b162"},{"fileName":"openwrt-sunxi-cortexa53.manifest","algo":"Sha256","source":"sha256sums","hash":"d0315602860edcdaba5101973c02ee2a8d08d51ef4ae4e9667b2c448a4e1a53b"},{"fileName":"profiles.json","algo":"Sha256","source":"sha256sums","hash":"cf4fea5f9af4a2e951af79ededa5a2d421c9aeb0364238363ec7659c792f5c96"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"25f59bc0f35266dec870a67a5ffeb1404dea40c4128581855d917af093251d7e"}]}
+{
+  "mirroredOn": "2024-11-06T01:09:05.3878592+00:00",
+  "publishedOn": "2024-11-06T00:12:31+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "1f2689b54b44b4169fc072e206efee5e5c05261b7e25712fb9eb74ef24ab40db"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "29fc95418b2618e7d1514f7923aef71d434ce0992dc5055c01535c70d365c5c6"
+    },
+    {
+      "fileName": "openwrt-sunxi-cortexa53-friendlyarm_nanopi-neo2-ext4-sdcard.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "586e9460e758120373ff9bc1c9dc041d2d5f9db5293a4b106afb884478ea7b86"
+    },
+    {
+      "fileName": "openwrt-sunxi-cortexa53-friendlyarm_nanopi-neo2-squashfs-sdcard.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "828316b03227ebfba1a4ff705514361ec1b8def21317dd3b708c97dd23f0684f"
+    },
+    {
+      "fileName": "openwrt-sunxi-cortexa53-xunlong_orangepi-zero3-ext4-sdcard.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "a058921e2df009c61bc6d69326025587ca746615c12ac6fd182d97be38b2ffb2"
+    },
+    {
+      "fileName": "openwrt-sunxi-cortexa53-xunlong_orangepi-zero3-squashfs-sdcard.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "fc447bbb7a368201d282834edb43ea64cbeefd764762edf87635f7e79156b162"
+    },
+    {
+      "fileName": "openwrt-sunxi-cortexa53.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "d0315602860edcdaba5101973c02ee2a8d08d51ef4ae4e9667b2c448a4e1a53b"
+    },
+    {
+      "fileName": "profiles.json",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "cf4fea5f9af4a2e951af79ededa5a2d421c9aeb0364238363ec7659c792f5c96"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "25f59bc0f35266dec870a67a5ffeb1404dea40c4128581855d917af093251d7e"
+    }
+  ]
+}

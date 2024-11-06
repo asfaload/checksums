@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"v1.5.7-linux-arm64.zip.sbom","algo":"Sha256","source":"apm-lambda-extension_1.5.7_checksums.txt","hash":"9f27382c2035448b80833aa1eeb22ae73186bc9b162205da6d8d8880d545c041"},{"fileName":"v1.5.7-linux-amd64.zip","algo":"Sha256","source":"apm-lambda-extension_1.5.7_checksums.txt","hash":"c8bd595ac36685afc677fef25a49d074435a1c447e8480087cf424af337b14f2"},{"fileName":"v1.5.7-linux-amd64.zip.sbom","algo":"Sha256","source":"apm-lambda-extension_1.5.7_checksums.txt","hash":"d52822b95d61d0a3f1fd6515b7be38543a675a557fef81456780d02dbfe1f2a9"},{"fileName":"v1.5.7-linux-arm64.zip","algo":"Sha256","source":"apm-lambda-extension_1.5.7_checksums.txt","hash":"f33ea6a9c9700993441080b77113ff59e7b00bb3cf3b40a2e5c165cc6d6c38ed"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "v1.5.7-linux-arm64.zip.sbom",
+      "algo": "Sha256",
+      "source": "apm-lambda-extension_1.5.7_checksums.txt",
+      "hash": "9f27382c2035448b80833aa1eeb22ae73186bc9b162205da6d8d8880d545c041"
+    },
+    {
+      "fileName": "v1.5.7-linux-amd64.zip",
+      "algo": "Sha256",
+      "source": "apm-lambda-extension_1.5.7_checksums.txt",
+      "hash": "c8bd595ac36685afc677fef25a49d074435a1c447e8480087cf424af337b14f2"
+    },
+    {
+      "fileName": "v1.5.7-linux-amd64.zip.sbom",
+      "algo": "Sha256",
+      "source": "apm-lambda-extension_1.5.7_checksums.txt",
+      "hash": "d52822b95d61d0a3f1fd6515b7be38543a675a557fef81456780d02dbfe1f2a9"
+    },
+    {
+      "fileName": "v1.5.7-linux-arm64.zip",
+      "algo": "Sha256",
+      "source": "apm-lambda-extension_1.5.7_checksums.txt",
+      "hash": "f33ea6a9c9700993441080b77113ff59e7b00bb3cf3b40a2e5c165cc6d6c38ed"
+    }
+  ]
+}

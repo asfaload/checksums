@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"fotema-1.14.4.tar.xz","algo":"Sha256","source":"fotema-1.14.4.tar.xz.sha256sum","hash":"49b0ff4d2c1c1baf9828ce0b5ed3a650d73bf9a685898040435fcc4f295cecb5"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "fotema-1.14.4.tar.xz",
+      "algo": "Sha256",
+      "source": "fotema-1.14.4.tar.xz.sha256sum",
+      "hash": "49b0ff4d2c1c1baf9828ce0b5ed3a650d73bf9a685898040435fcc4f295cecb5"
+    }
+  ]
+}

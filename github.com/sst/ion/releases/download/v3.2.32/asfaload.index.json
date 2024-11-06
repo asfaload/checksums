@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sst-linux-386.deb","algo":"Sha256","source":"checksums.txt","hash":"6612368e2d720ee0f0cdc9890c7663352417f5981506404fd7ed0e3c800c37ed"},{"fileName":"sst-linux-386.rpm","algo":"Sha256","source":"checksums.txt","hash":"5167006595dbc15b50976021f8e710bdf816d3d548f564c2959a6f9aa0d5e47b"},{"fileName":"sst-linux-386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8ad7cd4bf04ab6bec3d85f63586dbb24dc534b7f36111ff9d853b8233ce1c421"},{"fileName":"sst-linux-amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"359fc8393b3f865c466c2fbfaa5275b3f25acb59bc357c4aacf9b4cabae33560"},{"fileName":"sst-linux-amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"54e25cbfc54d95b5fb954fc08eaece0876b84c6ddd6347b82af2377645249da2"},{"fileName":"sst-linux-arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"b5757851feefe1ed90792243f48b893157dead6777cba0428d9531035b4db904"},{"fileName":"sst-linux-arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"d7a3916a47a06af3f8056c710c1996b4d8b7a23600185bbdabc117dd0d963f98"},{"fileName":"sst-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d48b385f497636b42ef0324e0ed93d231fc4ea66351ea181112d78b7963ecb69"},{"fileName":"sst-linux-x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"cb036dcab4782da93acfb3cb4ceaa6a7b4afb62860c6627132cff67781af8777"},{"fileName":"sst-mac-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"059b52eaf1ecdfb5deede248e47c2dca4285484bd3a86321997c52906276f914"},{"fileName":"sst-mac-x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b41a22bebedc3740a74869e01813f1b5a0aad6df80b1c83f1e5f77b3af94674b"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sst-linux-386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6612368e2d720ee0f0cdc9890c7663352417f5981506404fd7ed0e3c800c37ed"
+    },
+    {
+      "fileName": "sst-linux-386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5167006595dbc15b50976021f8e710bdf816d3d548f564c2959a6f9aa0d5e47b"
+    },
+    {
+      "fileName": "sst-linux-386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8ad7cd4bf04ab6bec3d85f63586dbb24dc534b7f36111ff9d853b8233ce1c421"
+    },
+    {
+      "fileName": "sst-linux-amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "359fc8393b3f865c466c2fbfaa5275b3f25acb59bc357c4aacf9b4cabae33560"
+    },
+    {
+      "fileName": "sst-linux-amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "54e25cbfc54d95b5fb954fc08eaece0876b84c6ddd6347b82af2377645249da2"
+    },
+    {
+      "fileName": "sst-linux-arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b5757851feefe1ed90792243f48b893157dead6777cba0428d9531035b4db904"
+    },
+    {
+      "fileName": "sst-linux-arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d7a3916a47a06af3f8056c710c1996b4d8b7a23600185bbdabc117dd0d963f98"
+    },
+    {
+      "fileName": "sst-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d48b385f497636b42ef0324e0ed93d231fc4ea66351ea181112d78b7963ecb69"
+    },
+    {
+      "fileName": "sst-linux-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cb036dcab4782da93acfb3cb4ceaa6a7b4afb62860c6627132cff67781af8777"
+    },
+    {
+      "fileName": "sst-mac-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "059b52eaf1ecdfb5deede248e47c2dca4285484bd3a86321997c52906276f914"
+    },
+    {
+      "fileName": "sst-mac-x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b41a22bebedc3740a74869e01813f1b5a0aad6df80b1c83f1e5f77b3af94674b"
+    }
+  ]
+}

@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gitlab.yaml","algo":"Sha256","source":"checksums.txt","hash":"8d1654495825e7e328bf80f08a94dfe84ace2fb5354428159e4e391477dad79f"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gitlab.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8d1654495825e7e328bf80f08a94dfe84ace2fb5354428159e4e391477dad79f"
+    }
+  ]
+}

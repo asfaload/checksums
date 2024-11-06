@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"wiretap_0.5.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e2b1161ffafde2e849947c356d46374bc307ae782ff81da72665fd730f0646dd"},{"fileName":"wiretap_0.5.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e9987933ef7e240a1f7eac1e52123a0b17f7c00f7f1649a30031f1acb05ab2d3"},{"fileName":"wiretap_0.5.0_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8b75b0e9d4fd366c45b79642f30e8740f98a1124216b833f80d96eb9596ef15a"},{"fileName":"wiretap_0.5.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0c8204daae61eba67da062d2ed294b5825af716e756f12b29e87dcfd56ce26ee"},{"fileName":"wiretap_0.5.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a72091fef39b1bd0d20d3f615640e1c5fc68a73030295957b683b79c611351c7"},{"fileName":"wiretap_0.5.0_linux_armv6.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"22b21bd9226b7d8d61d42e27e51e5fd3544f2a1beef86399f3a586ce8124aae5"},{"fileName":"wiretap_0.5.0_windows_386.zip","algo":"Sha256","source":"checksums.txt","hash":"e61d391f46cd7cf1cf2c8c39e559adaaf71fde90e82678655ed2046d0a22d1bb"},{"fileName":"wiretap_0.5.0_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"4a2ad98309e9402322354340490ef657f83171391d02bfef72e5b7ed9ab88916"},{"fileName":"wiretap_0.5.0_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"3fb17ac113c5bfc8f28b3f9c1e5f27b8b3d2828891cfa8bec640a1e9e009d26c"},{"fileName":"wiretap_0.5.0_windows_armv6.zip","algo":"Sha256","source":"checksums.txt","hash":"c887970543bfa1683defb9a92171c579a8ed78f138b5588b6820ca1ad22de125"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "wiretap_0.5.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e2b1161ffafde2e849947c356d46374bc307ae782ff81da72665fd730f0646dd"
+    },
+    {
+      "fileName": "wiretap_0.5.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e9987933ef7e240a1f7eac1e52123a0b17f7c00f7f1649a30031f1acb05ab2d3"
+    },
+    {
+      "fileName": "wiretap_0.5.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8b75b0e9d4fd366c45b79642f30e8740f98a1124216b833f80d96eb9596ef15a"
+    },
+    {
+      "fileName": "wiretap_0.5.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0c8204daae61eba67da062d2ed294b5825af716e756f12b29e87dcfd56ce26ee"
+    },
+    {
+      "fileName": "wiretap_0.5.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a72091fef39b1bd0d20d3f615640e1c5fc68a73030295957b683b79c611351c7"
+    },
+    {
+      "fileName": "wiretap_0.5.0_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "22b21bd9226b7d8d61d42e27e51e5fd3544f2a1beef86399f3a586ce8124aae5"
+    },
+    {
+      "fileName": "wiretap_0.5.0_windows_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e61d391f46cd7cf1cf2c8c39e559adaaf71fde90e82678655ed2046d0a22d1bb"
+    },
+    {
+      "fileName": "wiretap_0.5.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4a2ad98309e9402322354340490ef657f83171391d02bfef72e5b7ed9ab88916"
+    },
+    {
+      "fileName": "wiretap_0.5.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3fb17ac113c5bfc8f28b3f9c1e5f27b8b3d2828891cfa8bec640a1e9e009d26c"
+    },
+    {
+      "fileName": "wiretap_0.5.0_windows_armv6.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c887970543bfa1683defb9a92171c579a8ed78f138b5588b6820ca1ad22de125"
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"certification_kit.zip","algo":"Sha256","source":"checksums.txt","hash":"413b7db2c349735855bc7bcd657741321a070f7169f02befa4f2121f8b3eb930"},{"fileName":"code-scanning-cpp-query-pack.zip","algo":"Sha256","source":"checksums.txt","hash":"b21101043e409bcf9c44753e43259602d366ec569db1eaf6abae90a3d68a09c2"},{"fileName":"coding-standards-codeql-packs.zip","algo":"Sha256","source":"checksums.txt","hash":"940b9cdb0ab83cc7b3edfdc9dd171209a94dfe3d9f7a44b27cf593612c6144f6"},{"fileName":"supported_rules_list.csv","algo":"Sha256","source":"checksums.txt","hash":"e3b8bed2c8b63368da73ee9a930ce5c0dc79b04c23aa585eccc7fee5faacfbf1"},{"fileName":"supported_rules_list.md","algo":"Sha256","source":"checksums.txt","hash":"de221f71dec231910a5582e02d8983379d55e5c0126d8646274f30f2c8291617"},{"fileName":"user_manual.md","algo":"Sha256","source":"checksums.txt","hash":"e569b7d7a5c2260ff471483fb176a9b48a37b35f3fd36340ac14c6099be52243"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "certification_kit.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "413b7db2c349735855bc7bcd657741321a070f7169f02befa4f2121f8b3eb930"
+    },
+    {
+      "fileName": "code-scanning-cpp-query-pack.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b21101043e409bcf9c44753e43259602d366ec569db1eaf6abae90a3d68a09c2"
+    },
+    {
+      "fileName": "coding-standards-codeql-packs.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "940b9cdb0ab83cc7b3edfdc9dd171209a94dfe3d9f7a44b27cf593612c6144f6"
+    },
+    {
+      "fileName": "supported_rules_list.csv",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e3b8bed2c8b63368da73ee9a930ce5c0dc79b04c23aa585eccc7fee5faacfbf1"
+    },
+    {
+      "fileName": "supported_rules_list.md",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "de221f71dec231910a5582e02d8983379d55e5c0126d8646274f30f2c8291617"
+    },
+    {
+      "fileName": "user_manual.md",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e569b7d7a5c2260ff471483fb176a9b48a37b35f3fd36340ac14c6099be52243"
+    }
+  ]
+}

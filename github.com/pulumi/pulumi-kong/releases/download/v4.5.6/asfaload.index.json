@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-kong-v4.5.6-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-kong_4.5.6_checksums.txt","hash":"c7efe8fd7a150765cfbfae1eb494b9d02bf5cedf"},{"fileName":"./pulumi-resource-kong-v4.5.6-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-kong_4.5.6_checksums.txt","hash":"8de7c83c411ed3def3696a338f71055093981247"},{"fileName":"./pulumi-resource-kong-v4.5.6-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-kong_4.5.6_checksums.txt","hash":"3a24c7d27b64a697f84106f2cef3b2e75eca64b2"},{"fileName":"./pulumi-resource-kong-v4.5.6-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-kong_4.5.6_checksums.txt","hash":"586b436f53752bc31d3931c7994f0179afe794b7"},{"fileName":"./pulumi-resource-kong-v4.5.6-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-kong_4.5.6_checksums.txt","hash":"c1a7a5560eb018eb4a187fdf066046680ee59d40"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-kong-v4.5.6-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-kong_4.5.6_checksums.txt",
+      "hash": "c7efe8fd7a150765cfbfae1eb494b9d02bf5cedf"
+    },
+    {
+      "fileName": "./pulumi-resource-kong-v4.5.6-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-kong_4.5.6_checksums.txt",
+      "hash": "8de7c83c411ed3def3696a338f71055093981247"
+    },
+    {
+      "fileName": "./pulumi-resource-kong-v4.5.6-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-kong_4.5.6_checksums.txt",
+      "hash": "3a24c7d27b64a697f84106f2cef3b2e75eca64b2"
+    },
+    {
+      "fileName": "./pulumi-resource-kong-v4.5.6-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-kong_4.5.6_checksums.txt",
+      "hash": "586b436f53752bc31d3931c7994f0179afe794b7"
+    },
+    {
+      "fileName": "./pulumi-resource-kong-v4.5.6-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-kong_4.5.6_checksums.txt",
+      "hash": "c1a7a5560eb018eb4a187fdf066046680ee59d40"
+    }
+  ]
+}

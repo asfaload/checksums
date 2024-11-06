@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubectl-ephemeral_containers_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"54baad19d2490aff7f968c2c277cb214145b4a0fad72c336fa3d878b5b711a59"},{"fileName":"kubectl-ephemeral_containers_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7d4fcabc257a8d34cec6c0135e58c5f467b1df2e5fe6b3e2854e47cb76a57fd2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubectl-ephemeral_containers_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "54baad19d2490aff7f968c2c277cb214145b4a0fad72c336fa3d878b5b711a59"
+    },
+    {
+      "fileName": "kubectl-ephemeral_containers_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7d4fcabc257a8d34cec6c0135e58c5f467b1df2e5fe6b3e2854e47cb76a57fd2"
+    }
+  ]
+}

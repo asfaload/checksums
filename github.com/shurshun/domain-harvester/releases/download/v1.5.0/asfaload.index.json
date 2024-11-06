@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"domain-harvester_Darwin_arm64.tar.gz","algo":"Sha256","source":"domain-harvester_1.5.0_checksums.txt","hash":"b86739c46c38a423b2b3173ea44655d7dbac0c9059129ab230d21f7d047def64"},{"fileName":"domain-harvester_Darwin_x86_64.tar.gz","algo":"Sha256","source":"domain-harvester_1.5.0_checksums.txt","hash":"a4183283b33fb8d4b3efd197598543fc985713e8f7e349ced77e270893ece35e"},{"fileName":"domain-harvester_Linux_arm64.tar.gz","algo":"Sha256","source":"domain-harvester_1.5.0_checksums.txt","hash":"5dd8340d9384e31bf39788bb4d413c225a9805eebedb21ac631e22c7a2a6c625"},{"fileName":"domain-harvester_Linux_x86_64.tar.gz","algo":"Sha256","source":"domain-harvester_1.5.0_checksums.txt","hash":"99028ef3776704efb990dfbd433a7cf6df902bb745a5d12889c41e679efe2feb"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "domain-harvester_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "domain-harvester_1.5.0_checksums.txt",
+      "hash": "b86739c46c38a423b2b3173ea44655d7dbac0c9059129ab230d21f7d047def64"
+    },
+    {
+      "fileName": "domain-harvester_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "domain-harvester_1.5.0_checksums.txt",
+      "hash": "a4183283b33fb8d4b3efd197598543fc985713e8f7e349ced77e270893ece35e"
+    },
+    {
+      "fileName": "domain-harvester_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "domain-harvester_1.5.0_checksums.txt",
+      "hash": "5dd8340d9384e31bf39788bb4d413c225a9805eebedb21ac631e22c7a2a6c625"
+    },
+    {
+      "fileName": "domain-harvester_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "domain-harvester_1.5.0_checksums.txt",
+      "hash": "99028ef3776704efb990dfbd433a7cf6df902bb745a5d12889c41e679efe2feb"
+    }
+  ]
+}

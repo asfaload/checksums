@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ptcpdump_0.26.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b39ac5557d5a3d3c0dea83b02d5f08d984c8dcafa0b909418b9328a1ee1cf1f8"},{"fileName":"ptcpdump_0.26.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"15b573825b21b2bb1d72a7972b2d931cc9896b2f0d11c91079078b15ab56825c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ptcpdump_0.26.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b39ac5557d5a3d3c0dea83b02d5f08d984c8dcafa0b909418b9328a1ee1cf1f8"
+    },
+    {
+      "fileName": "ptcpdump_0.26.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "15b573825b21b2bb1d72a7972b2d931cc9896b2f0d11c91079078b15ab56825c"
+    }
+  ]
+}

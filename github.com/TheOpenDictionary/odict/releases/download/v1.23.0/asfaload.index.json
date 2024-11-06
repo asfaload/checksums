@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"odict_1.23.0_darwin_amd64.tar.gz","algo":"Sha256","source":"odict_1.23.0_checksums.txt","hash":"1d366a640d2074188800554dc7eaed3f9b0752621f268cbbf8f60817442c0d4d"},{"fileName":"odict_1.23.0_darwin_arm64.tar.gz","algo":"Sha256","source":"odict_1.23.0_checksums.txt","hash":"aee0be3c2c445e67cd34244b8549600c5c36824f8ee47384e63582059e627119"},{"fileName":"odict_1.23.0_linux_386.tar.gz","algo":"Sha256","source":"odict_1.23.0_checksums.txt","hash":"2711939a2ecd8ec9192e4e7a232968bc09975c28bcdcda46a1277436594edbeb"},{"fileName":"odict_1.23.0_linux_amd64.tar.gz","algo":"Sha256","source":"odict_1.23.0_checksums.txt","hash":"4e13fa30998cd2c7ce9bea7b3dd2391e167cc9ff9fdee048bd6677efbb55f1ed"},{"fileName":"odict_1.23.0_linux_arm64.tar.gz","algo":"Sha256","source":"odict_1.23.0_checksums.txt","hash":"304a36a30e8af6f74fbf3e288608b1586d550a580c960ce63c862261cdc809b1"},{"fileName":"odict_1.23.0_windows_386.tar.gz","algo":"Sha256","source":"odict_1.23.0_checksums.txt","hash":"decaabf303deb398e0e7c1ed7b16db7471dba42aa4e82d5451e723ce81fff447"},{"fileName":"odict_1.23.0_windows_amd64.tar.gz","algo":"Sha256","source":"odict_1.23.0_checksums.txt","hash":"41ba07aec7c402cab4273ba6ae28b818e53c0b3ac54b12f07ddf210c57a822ce"},{"fileName":"odict_1.23.0_windows_arm64.tar.gz","algo":"Sha256","source":"odict_1.23.0_checksums.txt","hash":"c5bd0819dd1c3cfe619238ece7d05c70fa852257eec84bcdfd85a945a94ed810"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "odict_1.23.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "odict_1.23.0_checksums.txt",
+      "hash": "1d366a640d2074188800554dc7eaed3f9b0752621f268cbbf8f60817442c0d4d"
+    },
+    {
+      "fileName": "odict_1.23.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "odict_1.23.0_checksums.txt",
+      "hash": "aee0be3c2c445e67cd34244b8549600c5c36824f8ee47384e63582059e627119"
+    },
+    {
+      "fileName": "odict_1.23.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "odict_1.23.0_checksums.txt",
+      "hash": "2711939a2ecd8ec9192e4e7a232968bc09975c28bcdcda46a1277436594edbeb"
+    },
+    {
+      "fileName": "odict_1.23.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "odict_1.23.0_checksums.txt",
+      "hash": "4e13fa30998cd2c7ce9bea7b3dd2391e167cc9ff9fdee048bd6677efbb55f1ed"
+    },
+    {
+      "fileName": "odict_1.23.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "odict_1.23.0_checksums.txt",
+      "hash": "304a36a30e8af6f74fbf3e288608b1586d550a580c960ce63c862261cdc809b1"
+    },
+    {
+      "fileName": "odict_1.23.0_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "odict_1.23.0_checksums.txt",
+      "hash": "decaabf303deb398e0e7c1ed7b16db7471dba42aa4e82d5451e723ce81fff447"
+    },
+    {
+      "fileName": "odict_1.23.0_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "odict_1.23.0_checksums.txt",
+      "hash": "41ba07aec7c402cab4273ba6ae28b818e53c0b3ac54b12f07ddf210c57a822ce"
+    },
+    {
+      "fileName": "odict_1.23.0_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "odict_1.23.0_checksums.txt",
+      "hash": "c5bd0819dd1c3cfe619238ece7d05c70fa852257eec84bcdfd85a945a94ed810"
+    }
+  ]
+}

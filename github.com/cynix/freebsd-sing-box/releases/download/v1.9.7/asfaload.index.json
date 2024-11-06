@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"sing-box-1.9.7-freebsd-amd64.tar.gz","algo":"Sha256","source":"sing-box_1.9.7_checksums.txt","hash":"15608352434ccda73228e3f2b3f29238a4375d82976690d2998ad519395e61e5"},{"fileName":"sing-box-1.9.7-freebsd-arm64.tar.gz","algo":"Sha256","source":"sing-box_1.9.7_checksums.txt","hash":"ca8b37c2f135f1e07088016bde50c68549dbad28f48ceeedf5c4436b14798a32"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "sing-box-1.9.7-freebsd-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "sing-box_1.9.7_checksums.txt",
+      "hash": "15608352434ccda73228e3f2b3f29238a4375d82976690d2998ad519395e61e5"
+    },
+    {
+      "fileName": "sing-box-1.9.7-freebsd-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "sing-box_1.9.7_checksums.txt",
+      "hash": "ca8b37c2f135f1e07088016bde50c68549dbad28f48ceeedf5c4436b14798a32"
+    }
+  ]
+}

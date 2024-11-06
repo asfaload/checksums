@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"defang_0.6.0_linux_amd64.tar.gz","algo":"Sha256","source":"defang_0.6.0_checksums.txt","hash":"b110fbcb7d56f2b5cf4fa74b2e89d438c1752d9ffd0425d178dff1348878fee7"},{"fileName":"defang_0.6.0_linux_arm64.tar.gz","algo":"Sha256","source":"defang_0.6.0_checksums.txt","hash":"552abb195fbfa92df5a09f2040816230b849a6a99151ba56c411719d237e8e8c"},{"fileName":"defang_0.6.0_macOS.zip","algo":"Sha256","source":"defang_0.6.0_checksums.txt","hash":"e6f209a00ecd4487681e8c1da0b919d3f8e1fae4b20e919d60105a6ca9ff91a1"},{"fileName":"defang_0.6.0_windows_amd64.zip","algo":"Sha256","source":"defang_0.6.0_checksums.txt","hash":"4a76d699c317f487eeea4d192f24b151e034eb11ef4f1f3ad343756065eb00e3"},{"fileName":"defang_0.6.0_windows_arm64.zip","algo":"Sha256","source":"defang_0.6.0_checksums.txt","hash":"0b35b9e7f9d6d6fd9d34229eda2e3890f04827e66956ac8114f011af05daf168"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "defang_0.6.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "defang_0.6.0_checksums.txt",
+      "hash": "b110fbcb7d56f2b5cf4fa74b2e89d438c1752d9ffd0425d178dff1348878fee7"
+    },
+    {
+      "fileName": "defang_0.6.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "defang_0.6.0_checksums.txt",
+      "hash": "552abb195fbfa92df5a09f2040816230b849a6a99151ba56c411719d237e8e8c"
+    },
+    {
+      "fileName": "defang_0.6.0_macOS.zip",
+      "algo": "Sha256",
+      "source": "defang_0.6.0_checksums.txt",
+      "hash": "e6f209a00ecd4487681e8c1da0b919d3f8e1fae4b20e919d60105a6ca9ff91a1"
+    },
+    {
+      "fileName": "defang_0.6.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "defang_0.6.0_checksums.txt",
+      "hash": "4a76d699c317f487eeea4d192f24b151e034eb11ef4f1f3ad343756065eb00e3"
+    },
+    {
+      "fileName": "defang_0.6.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "defang_0.6.0_checksums.txt",
+      "hash": "0b35b9e7f9d6d6fd9d34229eda2e3890f04827e66956ac8114f011af05daf168"
+    }
+  ]
+}

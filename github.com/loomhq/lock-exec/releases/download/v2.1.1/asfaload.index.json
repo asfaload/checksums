@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"lock-exec_2.1.1_windows_amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"3485166e11a3b430d2f89835143dbb2ead21c119be10a5b0e4b25eccaec5d56f"},{"fileName":"lock-exec_2.1.1_windows_armv6.exe","algo":"Sha256","source":"checksums.txt","hash":"5de3abea447bb725a3e3b81773428aab2c1e458ccd47fddd524cbfb905b33a43"},{"fileName":"lock-exec_2.1.1_windows_arm64.exe","algo":"Sha256","source":"checksums.txt","hash":"6a795a94e5cbb9e94a8485ca45a8837190d450360f068cc53cfb1b296c70ba0c"},{"fileName":"lock-exec_2.1.1_darwin_amd64","algo":"Sha256","source":"checksums.txt","hash":"d706ec15b99281b1c204eead4ee108666d548ea5456115c60b2ea888cc1f386a"},{"fileName":"lock-exec_2.1.1_linux_arm64","algo":"Sha256","source":"checksums.txt","hash":"d71b10eb8de5ded74f241e5c960b33dc683e329d08d955d1239bb620ae834e2f"},{"fileName":"lock-exec_2.1.1_darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"db3fd681075ddc9199daa50c671ead21e057bf27e3b235f3eb6b6d1f22c15aad"},{"fileName":"lock-exec_2.1.1_linux_armv6","algo":"Sha256","source":"checksums.txt","hash":"dc79ffb1ba6f69154dcef7175c1a524b57850975676c73fb6b48310144a04a2c"},{"fileName":"lock-exec_2.1.1_linux_amd64","algo":"Sha256","source":"checksums.txt","hash":"e424bc497cae3909b51329c9bd3e2c346a0bf593e9c467af9e60d0a32a7ae247"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "lock-exec_2.1.1_windows_amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3485166e11a3b430d2f89835143dbb2ead21c119be10a5b0e4b25eccaec5d56f"
+    },
+    {
+      "fileName": "lock-exec_2.1.1_windows_armv6.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5de3abea447bb725a3e3b81773428aab2c1e458ccd47fddd524cbfb905b33a43"
+    },
+    {
+      "fileName": "lock-exec_2.1.1_windows_arm64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6a795a94e5cbb9e94a8485ca45a8837190d450360f068cc53cfb1b296c70ba0c"
+    },
+    {
+      "fileName": "lock-exec_2.1.1_darwin_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d706ec15b99281b1c204eead4ee108666d548ea5456115c60b2ea888cc1f386a"
+    },
+    {
+      "fileName": "lock-exec_2.1.1_linux_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d71b10eb8de5ded74f241e5c960b33dc683e329d08d955d1239bb620ae834e2f"
+    },
+    {
+      "fileName": "lock-exec_2.1.1_darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "db3fd681075ddc9199daa50c671ead21e057bf27e3b235f3eb6b6d1f22c15aad"
+    },
+    {
+      "fileName": "lock-exec_2.1.1_linux_armv6",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dc79ffb1ba6f69154dcef7175c1a524b57850975676c73fb6b48310144a04a2c"
+    },
+    {
+      "fileName": "lock-exec_2.1.1_linux_amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e424bc497cae3909b51329c9bd3e2c346a0bf593e9c467af9e60d0a32a7ae247"
+    }
+  ]
+}

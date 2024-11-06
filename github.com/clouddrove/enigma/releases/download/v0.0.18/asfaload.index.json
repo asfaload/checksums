@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"enigma-darwin-amd64.zip","algo":"Sha256","source":"checksum.txt","hash":"94a552cb26c72c9787c397ff083365a2645095febba3e20b839681c40ab40ce5"},{"fileName":"enigma-darwin-arm64.zip","algo":"Sha256","source":"checksum.txt","hash":"499507e2ed004a70e10d1daa2c3652e7adec88f8c6f397ab382fab215385abbb"},{"fileName":"enigma-linux-amd64.zip","algo":"Sha256","source":"checksum.txt","hash":"6f609e3d13cbc239a6f9aeea9b7a4deb4b4370dbd5c02a803df24b0baa026f96"},{"fileName":"enigma-linux-arm64.zip","algo":"Sha256","source":"checksum.txt","hash":"5b68fd8870d615a4beb0a8ec035e88a9538036698566c697015539d1422499e3"},{"fileName":"enigma-windows-amd64.zip","algo":"Sha256","source":"checksum.txt","hash":"ac8c8159df117b4aeb0f20c11e5bedd308c42974ac9df0b65852b59aaf93d1f3"},{"fileName":"enigma-windows-arm64.zip","algo":"Sha256","source":"checksum.txt","hash":"18cd264b71dd6bb9f9aaec813c1dbe9086c1fba7d00b0cf68cc3dcd4aa573785"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "enigma-darwin-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "94a552cb26c72c9787c397ff083365a2645095febba3e20b839681c40ab40ce5"
+    },
+    {
+      "fileName": "enigma-darwin-arm64.zip",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "499507e2ed004a70e10d1daa2c3652e7adec88f8c6f397ab382fab215385abbb"
+    },
+    {
+      "fileName": "enigma-linux-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "6f609e3d13cbc239a6f9aeea9b7a4deb4b4370dbd5c02a803df24b0baa026f96"
+    },
+    {
+      "fileName": "enigma-linux-arm64.zip",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "5b68fd8870d615a4beb0a8ec035e88a9538036698566c697015539d1422499e3"
+    },
+    {
+      "fileName": "enigma-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "ac8c8159df117b4aeb0f20c11e5bedd308c42974ac9df0b65852b59aaf93d1f3"
+    },
+    {
+      "fileName": "enigma-windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "checksum.txt",
+      "hash": "18cd264b71dd6bb9f9aaec813c1dbe9086c1fba7d00b0cf68cc3dcd4aa573785"
+    }
+  ]
+}

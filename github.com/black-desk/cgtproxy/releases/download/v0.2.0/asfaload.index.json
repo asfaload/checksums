@@ -1,1 +1,127 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cgtproxy_0.2.0_linux_386.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"4741a5214b48e794f23757de95f2dd5023b0f76993b2533c9993587e4fb628ea"},{"fileName":"cgtproxy_0.2.0_linux_amd64.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"40ede64ae3d7105656e790148c7ce1ee00d325b06845c86b38c098f96f4abdf9"},{"fileName":"cgtproxy_0.2.0_linux_amd64v2.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"4028401a158232fda67a318d2bfda02ee6f00f576574df07f9b1a68286278227"},{"fileName":"cgtproxy_0.2.0_linux_amd64v3.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"dd0012421b95f698c9985b4d33fe49e5eaee8765aa0b8a98f0b6c67014b8ddca"},{"fileName":"cgtproxy_0.2.0_linux_amd64v4.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"4fda5770a0079fcd8d2683dd6fda58815f6f5d5937cc690f231fd4549b9dffe4"},{"fileName":"cgtproxy_0.2.0_linux_arm64.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"83c2babfaece25b23d5b92a09df79499c477fbf884f2e8d0babc73b6976ab381"},{"fileName":"cgtproxy_0.2.0_linux_armv5.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"7b15764bddcebe48e1ee08d3d32cc8cf447d2dbb6d4e4ed0719b8dcf53cac71a"},{"fileName":"cgtproxy_0.2.0_linux_armv6.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"72662a42d433407791cb870a0024d0a7c802736bb27df1d7b2bdf1e4598c7c62"},{"fileName":"cgtproxy_0.2.0_linux_armv7.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"aec84039ae1cea45d0740bd82414243199d08e07fd8e342cf541bf358d604b89"},{"fileName":"cgtproxy_0.2.0_linux_mips64_hardfloat.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"f0079d0c34eb6ad9b04b034b684e7f34a9454a1197a6be9ac7429db02a7c5b54"},{"fileName":"cgtproxy_0.2.0_linux_mips64_softfloat.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"e9be516da0e7e6d8ceadd39e4053bed20c55e963dfd17984bf4c7ed16d5a2cfd"},{"fileName":"cgtproxy_0.2.0_linux_mips64le_hardfloat.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"ce517384fdde0fada42ca3072f6274f4ecd1ae1dbdbee4b69fa47252cb5c0d8f"},{"fileName":"cgtproxy_0.2.0_linux_mips64le_softfloat.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"8a53ef7609fa1743f037171dfc0198a108a93387372b0fee8def9a105f00c4e8"},{"fileName":"cgtproxy_0.2.0_linux_mips_hardfloat.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"b340053753273fe95e0eed5b3c2ce804ae04650afb16c34193a9d606d247438a"},{"fileName":"cgtproxy_0.2.0_linux_mips_softfloat.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"5aa20cbf7097fbdd553703615c695164f40bd9f6bae5e2b3cbd0aed047cef75d"},{"fileName":"cgtproxy_0.2.0_linux_mipsle_hardfloat.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"f6bd4374c8160ffc8880cc76cecb0e648f33c4128ccaf6da15b4becc7c6f94a7"},{"fileName":"cgtproxy_0.2.0_linux_mipsle_softfloat.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"9e4d835cfb8770a1571630faab181bc2ebc09e1f8325db389d495634dcc612ea"},{"fileName":"cgtproxy_0.2.0_linux_ppc64.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"69c6742584a6f47d702e58f535d5ab20d0a37f0d93d08bf748cdfd391ac2b205"},{"fileName":"cgtproxy_0.2.0_linux_ppc64le.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"d91119d6826f17484a2b0dca0af9383f8edc9b831db856205e6a79382bcdd956"},{"fileName":"cgtproxy_0.2.0_linux_s390x.tar.gz","algo":"Sha256","source":"cgtproxy_0.2.0_checksums.txt","hash":"79a3e4698d4d9cfbd1f18fd570568730e1d5e4a85583556c7874d2681183c3f8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cgtproxy_0.2.0_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "4741a5214b48e794f23757de95f2dd5023b0f76993b2533c9993587e4fb628ea"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "40ede64ae3d7105656e790148c7ce1ee00d325b06845c86b38c098f96f4abdf9"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_amd64v2.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "4028401a158232fda67a318d2bfda02ee6f00f576574df07f9b1a68286278227"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_amd64v3.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "dd0012421b95f698c9985b4d33fe49e5eaee8765aa0b8a98f0b6c67014b8ddca"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_amd64v4.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "4fda5770a0079fcd8d2683dd6fda58815f6f5d5937cc690f231fd4549b9dffe4"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "83c2babfaece25b23d5b92a09df79499c477fbf884f2e8d0babc73b6976ab381"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_armv5.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "7b15764bddcebe48e1ee08d3d32cc8cf447d2dbb6d4e4ed0719b8dcf53cac71a"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "72662a42d433407791cb870a0024d0a7c802736bb27df1d7b2bdf1e4598c7c62"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "aec84039ae1cea45d0740bd82414243199d08e07fd8e342cf541bf358d604b89"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_mips64_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "f0079d0c34eb6ad9b04b034b684e7f34a9454a1197a6be9ac7429db02a7c5b54"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_mips64_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "e9be516da0e7e6d8ceadd39e4053bed20c55e963dfd17984bf4c7ed16d5a2cfd"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_mips64le_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "ce517384fdde0fada42ca3072f6274f4ecd1ae1dbdbee4b69fa47252cb5c0d8f"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_mips64le_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "8a53ef7609fa1743f037171dfc0198a108a93387372b0fee8def9a105f00c4e8"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_mips_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "b340053753273fe95e0eed5b3c2ce804ae04650afb16c34193a9d606d247438a"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_mips_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "5aa20cbf7097fbdd553703615c695164f40bd9f6bae5e2b3cbd0aed047cef75d"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_mipsle_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "f6bd4374c8160ffc8880cc76cecb0e648f33c4128ccaf6da15b4becc7c6f94a7"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_mipsle_softfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "9e4d835cfb8770a1571630faab181bc2ebc09e1f8325db389d495634dcc612ea"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_ppc64.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "69c6742584a6f47d702e58f535d5ab20d0a37f0d93d08bf748cdfd391ac2b205"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "d91119d6826f17484a2b0dca0af9383f8edc9b831db856205e6a79382bcdd956"
+    },
+    {
+      "fileName": "cgtproxy_0.2.0_linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "cgtproxy_0.2.0_checksums.txt",
+      "hash": "79a3e4698d4d9cfbd1f18fd570568730e1d5e4a85583556c7874d2681183c3f8"
+    }
+  ]
+}

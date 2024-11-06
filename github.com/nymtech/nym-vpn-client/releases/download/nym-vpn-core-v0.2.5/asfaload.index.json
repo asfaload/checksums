@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"nym-vpn-cli_1.0.0-dev-1_amd64.deb","algo":"Sha256","source":"nym-vpn-cli_1.0.0-dev-1_amd64.deb.sha256sum","hash":"2a1062e9a172e4cf10175535016b849fb2124b812f8d1917ff9983d177bbdbfa"},{"fileName":"nym-vpn-core-v1.0.0-dev_linux_x86_64.tar.gz","algo":"Sha256","source":"nym-vpn-core-v1.0.0-dev_linux_x86_64.tar.gz.sha256sum","hash":"77f7d228a7af8fd81b971d704860cf1dd83c3c254ea3fe8e3631714a26b8abc5"},{"fileName":"nym-vpn-core-v1.0.0-dev_macos_universal.tar.gz","algo":"Sha256","source":"nym-vpn-core-v1.0.0-dev_macos_universal.tar.gz.sha256sum","hash":"762476f5ef8d1983f54a8a518bf7c08fc1de39b45918a5f9725dcd1b76655c52"},{"fileName":"nym-vpnd_1.0.0-dev-1_amd64.deb","algo":"Sha256","source":"nym-vpnd_1.0.0-dev-1_amd64.deb.sha256sum","hash":"43a94223308523dd1cadeceb100019d1de3ce0f0033acc623ef11ea35ff7f36a"},{"fileName":"nym-vpnc_1.0.0-dev-1_amd64.deb","algo":"Sha256","source":"nym-vpnc_1.0.0-dev-1_amd64.deb.sha256sum","hash":"25c94c99730656e8f6b14e23755a328d7464e96d6b82f04916cea70a5859bee2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nym-vpn-cli_1.0.0-dev-1_amd64.deb",
+      "algo": "Sha256",
+      "source": "nym-vpn-cli_1.0.0-dev-1_amd64.deb.sha256sum",
+      "hash": "2a1062e9a172e4cf10175535016b849fb2124b812f8d1917ff9983d177bbdbfa"
+    },
+    {
+      "fileName": "nym-vpn-core-v1.0.0-dev_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "nym-vpn-core-v1.0.0-dev_linux_x86_64.tar.gz.sha256sum",
+      "hash": "77f7d228a7af8fd81b971d704860cf1dd83c3c254ea3fe8e3631714a26b8abc5"
+    },
+    {
+      "fileName": "nym-vpn-core-v1.0.0-dev_macos_universal.tar.gz",
+      "algo": "Sha256",
+      "source": "nym-vpn-core-v1.0.0-dev_macos_universal.tar.gz.sha256sum",
+      "hash": "762476f5ef8d1983f54a8a518bf7c08fc1de39b45918a5f9725dcd1b76655c52"
+    },
+    {
+      "fileName": "nym-vpnd_1.0.0-dev-1_amd64.deb",
+      "algo": "Sha256",
+      "source": "nym-vpnd_1.0.0-dev-1_amd64.deb.sha256sum",
+      "hash": "43a94223308523dd1cadeceb100019d1de3ce0f0033acc623ef11ea35ff7f36a"
+    },
+    {
+      "fileName": "nym-vpnc_1.0.0-dev-1_amd64.deb",
+      "algo": "Sha256",
+      "source": "nym-vpnc_1.0.0-dev-1_amd64.deb.sha256sum",
+      "hash": "25c94c99730656e8f6b14e23755a328d7464e96d6b82f04916cea70a5859bee2"
+    }
+  ]
+}

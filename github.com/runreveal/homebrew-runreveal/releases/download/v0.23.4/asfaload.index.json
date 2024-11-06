@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"runreveal-darwin-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4b04cc2c333911666d70bfcc37ab42196f7864cbca23844ab211804dd52ede0e"},{"fileName":"runreveal-darwin-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"671bc2dc1f85de17b33573161fac6906e6ae55e967b895492eda0c188caa8d34"},{"fileName":"runreveal-linux-amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"dacb9a7210181a7714f2bac7fa58797835efbefa1491ff8e4bac235db326cf55"},{"fileName":"runreveal-linux-arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"852f8550ca8c8bd6017fddea9dca089a3dbb6932fcbb49fa7587ed70884008ea"},{"fileName":"runreveal-linux-i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a67dc86e2afbe64487cc60642110136c70f88eeba27b917862cbc2f375ef2e1a"},{"fileName":"runreveal-windows-amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"e175b422fb0a150f90a6d6d5dc84778815300c34eb74979f1e575dc76472caa2"},{"fileName":"runreveal-windows-arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"7ea6fa2ee15b4681e2a659f757cd37480bb722a0113e2d5729e929cf19bbad8d"},{"fileName":"runreveal-windows-i386.zip","algo":"Sha256","source":"checksums.txt","hash":"f3ad09bc69beb5c2da8647be51cba839bddd26e6478573c33e54ec09749ecf34"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "runreveal-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4b04cc2c333911666d70bfcc37ab42196f7864cbca23844ab211804dd52ede0e"
+    },
+    {
+      "fileName": "runreveal-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "671bc2dc1f85de17b33573161fac6906e6ae55e967b895492eda0c188caa8d34"
+    },
+    {
+      "fileName": "runreveal-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dacb9a7210181a7714f2bac7fa58797835efbefa1491ff8e4bac235db326cf55"
+    },
+    {
+      "fileName": "runreveal-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "852f8550ca8c8bd6017fddea9dca089a3dbb6932fcbb49fa7587ed70884008ea"
+    },
+    {
+      "fileName": "runreveal-linux-i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a67dc86e2afbe64487cc60642110136c70f88eeba27b917862cbc2f375ef2e1a"
+    },
+    {
+      "fileName": "runreveal-windows-amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e175b422fb0a150f90a6d6d5dc84778815300c34eb74979f1e575dc76472caa2"
+    },
+    {
+      "fileName": "runreveal-windows-arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7ea6fa2ee15b4681e2a659f757cd37480bb722a0113e2d5729e929cf19bbad8d"
+    },
+    {
+      "fileName": "runreveal-windows-i386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f3ad09bc69beb5c2da8647be51cba839bddd26e6478573c33e54ec09749ecf34"
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"uitail_Darwin_arm64.tar.gz","algo":"Sha256","source":"uitail_0.0.11_checksums.txt","hash":"4364fc0cdc1287eca1b3a8e2e21e815012c83f98b36c685c42661cd6085f9ffe"},{"fileName":"uitail_Darwin_x86_64.tar.gz","algo":"Sha256","source":"uitail_0.0.11_checksums.txt","hash":"cebe4df9f52945ab88b5bffb5b193bb6f4a8655daa80b259e522f4d0fcb1228e"},{"fileName":"uitail_Linux_arm64.tar.gz","algo":"Sha256","source":"uitail_0.0.11_checksums.txt","hash":"547a152e506f210b3712c6b3c91746050cb383949d3ed21cb978593d01a19411"},{"fileName":"uitail_Linux_i386.tar.gz","algo":"Sha256","source":"uitail_0.0.11_checksums.txt","hash":"dea2d6e7e85eb198c3db42ac7819f429b6577671c2fe2d1af54f047050a45897"},{"fileName":"uitail_Linux_x86_64.tar.gz","algo":"Sha256","source":"uitail_0.0.11_checksums.txt","hash":"ba6cef4e92f6af6cc1fc7281d34817752c855037f9ded871479a8af3ddccb4cd"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "uitail_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.11_checksums.txt",
+      "hash": "4364fc0cdc1287eca1b3a8e2e21e815012c83f98b36c685c42661cd6085f9ffe"
+    },
+    {
+      "fileName": "uitail_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.11_checksums.txt",
+      "hash": "cebe4df9f52945ab88b5bffb5b193bb6f4a8655daa80b259e522f4d0fcb1228e"
+    },
+    {
+      "fileName": "uitail_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.11_checksums.txt",
+      "hash": "547a152e506f210b3712c6b3c91746050cb383949d3ed21cb978593d01a19411"
+    },
+    {
+      "fileName": "uitail_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.11_checksums.txt",
+      "hash": "dea2d6e7e85eb198c3db42ac7819f429b6577671c2fe2d1af54f047050a45897"
+    },
+    {
+      "fileName": "uitail_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.11_checksums.txt",
+      "hash": "ba6cef4e92f6af6cc1fc7281d34817752c855037f9ded871479a8af3ddccb4cd"
+    }
+  ]
+}

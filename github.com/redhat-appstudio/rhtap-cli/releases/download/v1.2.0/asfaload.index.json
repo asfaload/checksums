@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"rhtap-cli_1.2.0_darwin_amd64.tar.gz","algo":"Sha256","source":"rhtap-cli_1.2.0_checksums.txt","hash":"3857cd572bf8d6acb28fd3f5463fe91288e5d0ab89f3258fa88b562565a2fc13"},{"fileName":"rhtap-cli_1.2.0_darwin_arm64.tar.gz","algo":"Sha256","source":"rhtap-cli_1.2.0_checksums.txt","hash":"10f15092f7eebf2708e6c3698bfb59e75b5f863fcaddf7e82aed385675f8756a"},{"fileName":"rhtap-cli_1.2.0_linux_amd64.tar.gz","algo":"Sha256","source":"rhtap-cli_1.2.0_checksums.txt","hash":"6c68b1df3a8ad3b709180c9bfc1dbf5dafaa687f5566b266e3fef2ac06309d58"},{"fileName":"rhtap-cli_1.2.0_linux_arm64.tar.gz","algo":"Sha256","source":"rhtap-cli_1.2.0_checksums.txt","hash":"0e96cfd24b2119cc064e2f12dc8519c5fae6c505ee7e2346a0bed25865eacad7"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "rhtap-cli_1.2.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "rhtap-cli_1.2.0_checksums.txt",
+      "hash": "3857cd572bf8d6acb28fd3f5463fe91288e5d0ab89f3258fa88b562565a2fc13"
+    },
+    {
+      "fileName": "rhtap-cli_1.2.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "rhtap-cli_1.2.0_checksums.txt",
+      "hash": "10f15092f7eebf2708e6c3698bfb59e75b5f863fcaddf7e82aed385675f8756a"
+    },
+    {
+      "fileName": "rhtap-cli_1.2.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "rhtap-cli_1.2.0_checksums.txt",
+      "hash": "6c68b1df3a8ad3b709180c9bfc1dbf5dafaa687f5566b266e3fef2ac06309d58"
+    },
+    {
+      "fileName": "rhtap-cli_1.2.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "rhtap-cli_1.2.0_checksums.txt",
+      "hash": "0e96cfd24b2119cc064e2f12dc8519c5fae6c505ee7e2346a0bed25865eacad7"
+    }
+  ]
+}

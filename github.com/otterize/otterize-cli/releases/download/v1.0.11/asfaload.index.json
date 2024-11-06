@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"otterize-cli_darwin_arm64","algo":"Sha256","source":"checksums.txt","hash":"775672f455db3ce6ada281a6b55b0e6d548ee18ced4f3d1de5c919b78748423b"},{"fileName":"otterize-cli_darwin_x86_64","algo":"Sha256","source":"checksums.txt","hash":"f71c66e4a173c73dafeae5eeec8b718fd53f48184fc34436b7f9b89782e05498"},{"fileName":"otterize-cli_linux_x86_64","algo":"Sha256","source":"checksums.txt","hash":"b5c4e2a6927aa303177a610e3e638e00e79652a6d8faaf4384168b9bc2dfd26f"},{"fileName":"otterize-cli_windows_x86_64.exe","algo":"Sha256","source":"checksums.txt","hash":"e0f9655d1e5c6d3c1aa17e15f2347ce2584f6762ffb942e51c2c8910c8c7e435"},{"fileName":"otterize_darwin_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"a02385a502a76f1185a99e8756fdb12d800e812736d572a98d625f0c235da267"},{"fileName":"otterize_darwin_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"6ec6f9e1c6d7a569bcc89f3fbf562c3c48963b191414f1aa1ebbf8bce984bc06"},{"fileName":"otterize_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7b84a0f81aa201a073d7a4e1568f5da40c2cb3478fe1908da77f8763ac8acae8"},{"fileName":"otterize_windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"db41b71cd92ccdeca6d7693f872b47a0700403836567a7a7f4c244ac2e514dbf"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "otterize-cli_darwin_arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "775672f455db3ce6ada281a6b55b0e6d548ee18ced4f3d1de5c919b78748423b"
+    },
+    {
+      "fileName": "otterize-cli_darwin_x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f71c66e4a173c73dafeae5eeec8b718fd53f48184fc34436b7f9b89782e05498"
+    },
+    {
+      "fileName": "otterize-cli_linux_x86_64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b5c4e2a6927aa303177a610e3e638e00e79652a6d8faaf4384168b9bc2dfd26f"
+    },
+    {
+      "fileName": "otterize-cli_windows_x86_64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e0f9655d1e5c6d3c1aa17e15f2347ce2584f6762ffb942e51c2c8910c8c7e435"
+    },
+    {
+      "fileName": "otterize_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a02385a502a76f1185a99e8756fdb12d800e812736d572a98d625f0c235da267"
+    },
+    {
+      "fileName": "otterize_darwin_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6ec6f9e1c6d7a569bcc89f3fbf562c3c48963b191414f1aa1ebbf8bce984bc06"
+    },
+    {
+      "fileName": "otterize_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7b84a0f81aa201a073d7a4e1568f5da40c2cb3478fe1908da77f8763ac8acae8"
+    },
+    {
+      "fileName": "otterize_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "db41b71cd92ccdeca6d7693f872b47a0700403836567a7a7f4c244ac2e514dbf"
+    }
+  ]
+}

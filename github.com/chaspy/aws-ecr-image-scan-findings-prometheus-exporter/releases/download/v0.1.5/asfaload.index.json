@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_darwin_arm64.tar.gz","algo":"Sha256","source":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt","hash":"1fba0053aae32856e9c99882114604e431f4e499e6f2b640317db315da7aa345"},{"fileName":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_linux_arm64.tar.gz","algo":"Sha256","source":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt","hash":"277629e44a5bca980b81d3909042e3a2fad8b2100deca10ad32fb05b11eae680"},{"fileName":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_windows_386.tar.gz","algo":"Sha256","source":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt","hash":"3b9d1efd72b31791cd8879f1dcd6158499611dd90d9a60d13086fcb2f2a8cad6"},{"fileName":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_linux_amd64.tar.gz","algo":"Sha256","source":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt","hash":"c85a533a4a0146fd40bc4970432ee09be1a08f4049e0c783a241d142599a0055"},{"fileName":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_windows_arm64.tar.gz","algo":"Sha256","source":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt","hash":"db0972152a2fa37da0f4f33c178fa683627bc237b605cbfa79cce3c6aadfc490"},{"fileName":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_linux_386.tar.gz","algo":"Sha256","source":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt","hash":"de5fe55da86478f9b6ab312a0b25743ac046cf016630ec8b0ad463d5a19ed23b"},{"fileName":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_darwin_amd64.tar.gz","algo":"Sha256","source":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt","hash":"ebdf917910419176e918259e6fb5cbd4e63dbb54ff57f794c1f7d7b7e54c21f6"},{"fileName":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_windows_amd64.tar.gz","algo":"Sha256","source":"aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt","hash":"ecc81e488ddcf3e40b5fc9eb2eb6f070310f756fe857a834cdc9cbc3562765de"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt",
+      "hash": "1fba0053aae32856e9c99882114604e431f4e499e6f2b640317db315da7aa345"
+    },
+    {
+      "fileName": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt",
+      "hash": "277629e44a5bca980b81d3909042e3a2fad8b2100deca10ad32fb05b11eae680"
+    },
+    {
+      "fileName": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt",
+      "hash": "3b9d1efd72b31791cd8879f1dcd6158499611dd90d9a60d13086fcb2f2a8cad6"
+    },
+    {
+      "fileName": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt",
+      "hash": "c85a533a4a0146fd40bc4970432ee09be1a08f4049e0c783a241d142599a0055"
+    },
+    {
+      "fileName": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt",
+      "hash": "db0972152a2fa37da0f4f33c178fa683627bc237b605cbfa79cce3c6aadfc490"
+    },
+    {
+      "fileName": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt",
+      "hash": "de5fe55da86478f9b6ab312a0b25743ac046cf016630ec8b0ad463d5a19ed23b"
+    },
+    {
+      "fileName": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt",
+      "hash": "ebdf917910419176e918259e6fb5cbd4e63dbb54ff57f794c1f7d7b7e54c21f6"
+    },
+    {
+      "fileName": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "aws-ecr-image-scan-findings-prometheus-exporter_0.1.5_checksums.txt",
+      "hash": "ecc81e488ddcf3e40b5fc9eb2eb6f070310f756fe857a834cdc9cbc3562765de"
+    }
+  ]
+}

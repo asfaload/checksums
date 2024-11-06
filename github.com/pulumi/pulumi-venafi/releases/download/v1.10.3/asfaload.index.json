@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./pulumi-resource-venafi-v1.10.3-darwin-amd64.tar.gz","algo":"Sha1","source":"pulumi-venafi_1.10.3_checksums.txt","hash":"bc2c81b773972f6e04809fbf404508b331a85231"},{"fileName":"./pulumi-resource-venafi-v1.10.3-darwin-arm64.tar.gz","algo":"Sha1","source":"pulumi-venafi_1.10.3_checksums.txt","hash":"b968e450f7629d3625f95452f810e7be1a37bca1"},{"fileName":"./pulumi-resource-venafi-v1.10.3-linux-amd64.tar.gz","algo":"Sha1","source":"pulumi-venafi_1.10.3_checksums.txt","hash":"5d86fca5fd8144063a52eb3aa80091dc1bf764a4"},{"fileName":"./pulumi-resource-venafi-v1.10.3-linux-arm64.tar.gz","algo":"Sha1","source":"pulumi-venafi_1.10.3_checksums.txt","hash":"b232ed45aff777c53072131d3927bace16c716c2"},{"fileName":"./pulumi-resource-venafi-v1.10.3-windows-amd64.tar.gz","algo":"Sha1","source":"pulumi-venafi_1.10.3_checksums.txt","hash":"53810943f53f75a13e5648a7344c3d50e5f22bed"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./pulumi-resource-venafi-v1.10.3-darwin-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-venafi_1.10.3_checksums.txt",
+      "hash": "bc2c81b773972f6e04809fbf404508b331a85231"
+    },
+    {
+      "fileName": "./pulumi-resource-venafi-v1.10.3-darwin-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-venafi_1.10.3_checksums.txt",
+      "hash": "b968e450f7629d3625f95452f810e7be1a37bca1"
+    },
+    {
+      "fileName": "./pulumi-resource-venafi-v1.10.3-linux-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-venafi_1.10.3_checksums.txt",
+      "hash": "5d86fca5fd8144063a52eb3aa80091dc1bf764a4"
+    },
+    {
+      "fileName": "./pulumi-resource-venafi-v1.10.3-linux-arm64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-venafi_1.10.3_checksums.txt",
+      "hash": "b232ed45aff777c53072131d3927bace16c716c2"
+    },
+    {
+      "fileName": "./pulumi-resource-venafi-v1.10.3-windows-amd64.tar.gz",
+      "algo": "Sha1",
+      "source": "pulumi-venafi_1.10.3_checksums.txt",
+      "hash": "53810943f53f75a13e5648a7344c3d50e5f22bed"
+    }
+  ]
+}

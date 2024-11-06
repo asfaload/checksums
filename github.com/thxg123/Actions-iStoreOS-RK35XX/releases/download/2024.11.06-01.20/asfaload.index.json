@@ -1,1 +1,187 @@
-{"mirroredOn":"2024-11-05T17:20:47+00:00","publishedOn":"2024-11-05T17:22:47.2482381+00:00","version":1,"publishedFiles":[{"fileName":"config.buildinfo","algo":"Sha256","source":"sha256sums","hash":"4fc05f42717dc33b0d354d994361cc360095117f63885b250251b67960d424f0"},{"fileName":"feeds.buildinfo","algo":"Sha256","source":"sha256sums","hash":"04ac7eeffe14b07486df1b97736ce02940bb538809d05183d0818a456634eb41"},{"fileName":"istoreos-rockchip-rk35xx-cyber3588_aib-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"03534f498a878098fca1b9dfecbaefe25f9508dcc86a411937a79722feb6b794"},{"fileName":"istoreos-rockchip-rk35xx-dg_nas-lite-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"8674d6c338c1d089c48893594ab45ac32a82da2b6f48f1d16762a8e9ce137b14"},{"fileName":"istoreos-rockchip-rk35xx-easepi_ars4-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"f52a9d053ae1ff8d800a2e78031e4d5b33bada50271ec1b50a6c8c4cccbf4a25"},{"fileName":"istoreos-rockchip-rk35xx-easepi_r1-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"2fbe75ecbdee03a9e2932c3d8a406994e1d48e34c1fa691f8cc41c3a433c0dc0"},{"fileName":"istoreos-rockchip-rk35xx-fastrhino_r6xs-squashfs-combined.img.gz","algo":"Sha256","source":"sha256sums","hash":"65b3f8e4379b789715bf757864a92d1f14d41300cc906396ef2a0a6a3a157bbf"},{"fileName":"istoreos-rockchip-rk35xx-firefly_station-p2-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"53ffdfcdfeeb990f28643647b68a4a224871bfb2b0ab6b2f7af5a352109fcb78"},{"fileName":"istoreos-rockchip-rk35xx-friendlyarm_nanopi-r5s-squashfs-combined.img.gz","algo":"Sha256","source":"sha256sums","hash":"d1a5132601f50ae7838a1dcb2fd87d35927af40e82c3d81eb71185fecee343e8"},{"fileName":"istoreos-rockchip-rk35xx-friendlyarm_nanopi-r6s-squashfs-combined.img.gz","algo":"Sha256","source":"sha256sums","hash":"c9a8d16d0bda9d939e6338229de8590814dbe86ecf8a073705b4a6ae68b05dde"},{"fileName":"istoreos-rockchip-rk35xx-friendlyelec_nanopi-r3s-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"ed607669b895664f5f335483a6e0571412df1c3f6475f61de5dda902812bc4d3"},{"fileName":"istoreos-rockchip-rk35xx-hinlink_h88k-squashfs-combined.img.gz","algo":"Sha256","source":"sha256sums","hash":"b007d14b648f5f690b634d274ef7cbe81a575bf91b379116277f87f547a40dec"},{"fileName":"istoreos-rockchip-rk35xx-hinlink_opc-h6xk-squashfs-combined.img.gz","algo":"Sha256","source":"sha256sums","hash":"b82b709ba3687d5b3b09849f1971e3183029e94e98975a4f743fec8666062229"},{"fileName":"istoreos-rockchip-rk35xx-hlink_h28k-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"13131dc8eb0ebd27d91772ebb0cf1c2427f1f0b5f3110c25d810ebaa31df1ba0"},{"fileName":"istoreos-rockchip-rk35xx-idiskk_h1-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"e7275bffc4bc6ff3baf20b8ac388e41b87e2e4ef8328fbf7bedd2010f041d4c3"},{"fileName":"istoreos-rockchip-rk35xx-jp_tvbox-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"987a87d7e85135d3c7e515e426bb8b880a52dc9ea977bb66d8b3ec13729658fb"},{"fileName":"istoreos-rockchip-rk35xx-linkfog_ala2-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"4e9ef267bb04b27cd3a528f327b09624bed8e2f1182042baecf4a7b2c37535e9"},{"fileName":"istoreos-rockchip-rk35xx-lyt_t68m-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"adbdb87fb9f8f51cf1c7608d04c92cb551f1032d093d4d7c673137dfe5fdb3ef"},{"fileName":"istoreos-rockchip-rk35xx-nsy_g16-plus-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"ab95f5ac0f0d9379e638c51fe989ec312d6f2b343a091e1e03fcd7ce642622e6"},{"fileName":"istoreos-rockchip-rk35xx-nsy_g68-plus-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"c73d03c42843b06cef28b777d53cb2e6a0a84b9d075b6c6e700ebcdacb95875d"},{"fileName":"istoreos-rockchip-rk35xx-panther_x2-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"5c89d84d1b73d53a79ff8d7d09bd078e08ee86216ff083f5e896eea2828c3fbc"},{"fileName":"istoreos-rockchip-rk35xx-radxa_e20c-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"d1ee92ba45fb2ec0ae63ac5507f788361d50dda495948c5ccb29698ffb81d7ca"},{"fileName":"istoreos-rockchip-rk35xx-radxa_e52c-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"97baeed76303a9ab957e8de3d5a3d0578636d3b353a70e22f8a0fcae265f7132"},{"fileName":"istoreos-rockchip-rk35xx-radxa_e54c-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"8a28309145a660f74f0b7ad59101ef47594ba6d565ce20b3540f9dbd698c9675"},{"fileName":"istoreos-rockchip-rk35xx-roc_k40pro-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"d47b65af8a425450590fe17009b6d785a5acede37ec61af75d22b238c2fed429"},{"fileName":"istoreos-rockchip-rk35xx-roc_k50s-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"9be1be50c12f63c91b8b51bb597e800801e1f0673867ae806d0f6fedbde77670"},{"fileName":"istoreos-rockchip-rk35xx-yyy_h1-squashfs-sysupgrade.img.gz","algo":"Sha256","source":"sha256sums","hash":"17b80963560f5be3a16b9eb825f6d6251495910ab3acd8571df113f3fd743de8"},{"fileName":"istoreos-rockchip-rk35xx.manifest","algo":"Sha256","source":"sha256sums","hash":"38ce979d61a9bbcd5e951ac101e55ac7c2f7c9d97c54ee0617390ae6aa78cbe2"},{"fileName":"profiles.json","algo":"Sha256","source":"sha256sums","hash":"084ef6b563a4c3b176462fc64482e7c638624a6034ac00bce0a4997df2141f1e"},{"fileName":"version.buildinfo","algo":"Sha256","source":"sha256sums","hash":"e8146bb695b410d654e9ae2302269a86e927a2ac8d61f03ff76fd48c8c931294"}]}
+{
+  "mirroredOn": "2024-11-05T17:22:47.2482381+00:00",
+  "publishedOn": "2024-11-05T17:20:47+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "config.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "4fc05f42717dc33b0d354d994361cc360095117f63885b250251b67960d424f0"
+    },
+    {
+      "fileName": "feeds.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "04ac7eeffe14b07486df1b97736ce02940bb538809d05183d0818a456634eb41"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-cyber3588_aib-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "03534f498a878098fca1b9dfecbaefe25f9508dcc86a411937a79722feb6b794"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-dg_nas-lite-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "8674d6c338c1d089c48893594ab45ac32a82da2b6f48f1d16762a8e9ce137b14"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-easepi_ars4-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "f52a9d053ae1ff8d800a2e78031e4d5b33bada50271ec1b50a6c8c4cccbf4a25"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-easepi_r1-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "2fbe75ecbdee03a9e2932c3d8a406994e1d48e34c1fa691f8cc41c3a433c0dc0"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-fastrhino_r6xs-squashfs-combined.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "65b3f8e4379b789715bf757864a92d1f14d41300cc906396ef2a0a6a3a157bbf"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-firefly_station-p2-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "53ffdfcdfeeb990f28643647b68a4a224871bfb2b0ab6b2f7af5a352109fcb78"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-friendlyarm_nanopi-r5s-squashfs-combined.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "d1a5132601f50ae7838a1dcb2fd87d35927af40e82c3d81eb71185fecee343e8"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-friendlyarm_nanopi-r6s-squashfs-combined.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "c9a8d16d0bda9d939e6338229de8590814dbe86ecf8a073705b4a6ae68b05dde"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-friendlyelec_nanopi-r3s-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "ed607669b895664f5f335483a6e0571412df1c3f6475f61de5dda902812bc4d3"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-hinlink_h88k-squashfs-combined.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "b007d14b648f5f690b634d274ef7cbe81a575bf91b379116277f87f547a40dec"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-hinlink_opc-h6xk-squashfs-combined.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "b82b709ba3687d5b3b09849f1971e3183029e94e98975a4f743fec8666062229"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-hlink_h28k-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "13131dc8eb0ebd27d91772ebb0cf1c2427f1f0b5f3110c25d810ebaa31df1ba0"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-idiskk_h1-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "e7275bffc4bc6ff3baf20b8ac388e41b87e2e4ef8328fbf7bedd2010f041d4c3"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-jp_tvbox-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "987a87d7e85135d3c7e515e426bb8b880a52dc9ea977bb66d8b3ec13729658fb"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-linkfog_ala2-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "4e9ef267bb04b27cd3a528f327b09624bed8e2f1182042baecf4a7b2c37535e9"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-lyt_t68m-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "adbdb87fb9f8f51cf1c7608d04c92cb551f1032d093d4d7c673137dfe5fdb3ef"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-nsy_g16-plus-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "ab95f5ac0f0d9379e638c51fe989ec312d6f2b343a091e1e03fcd7ce642622e6"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-nsy_g68-plus-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "c73d03c42843b06cef28b777d53cb2e6a0a84b9d075b6c6e700ebcdacb95875d"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-panther_x2-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "5c89d84d1b73d53a79ff8d7d09bd078e08ee86216ff083f5e896eea2828c3fbc"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-radxa_e20c-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "d1ee92ba45fb2ec0ae63ac5507f788361d50dda495948c5ccb29698ffb81d7ca"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-radxa_e52c-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "97baeed76303a9ab957e8de3d5a3d0578636d3b353a70e22f8a0fcae265f7132"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-radxa_e54c-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "8a28309145a660f74f0b7ad59101ef47594ba6d565ce20b3540f9dbd698c9675"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-roc_k40pro-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "d47b65af8a425450590fe17009b6d785a5acede37ec61af75d22b238c2fed429"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-roc_k50s-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "9be1be50c12f63c91b8b51bb597e800801e1f0673867ae806d0f6fedbde77670"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx-yyy_h1-squashfs-sysupgrade.img.gz",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "17b80963560f5be3a16b9eb825f6d6251495910ab3acd8571df113f3fd743de8"
+    },
+    {
+      "fileName": "istoreos-rockchip-rk35xx.manifest",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "38ce979d61a9bbcd5e951ac101e55ac7c2f7c9d97c54ee0617390ae6aa78cbe2"
+    },
+    {
+      "fileName": "profiles.json",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "084ef6b563a4c3b176462fc64482e7c638624a6034ac00bce0a4997df2141f1e"
+    },
+    {
+      "fileName": "version.buildinfo",
+      "algo": "Sha256",
+      "source": "sha256sums",
+      "hash": "e8146bb695b410d654e9ae2302269a86e927a2ac8d61f03ff76fd48c8c931294"
+    }
+  ]
+}

@@ -1,1 +1,115 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"gosu-amd64","algo":"Sha256","source":"SHA256SUMS","hash":"bbc4136d03ab138b1ad66fa4fc051bafc6cc7ffae632b069a53657279a450de3"},{"fileName":"gosu-amd64.asc","algo":"Sha256","source":"SHA256SUMS","hash":"f2e060735d5f91cf9e22312c676176e34aac0c8a16be08cdca801edcc3fd32a7"},{"fileName":"gosu-arm64","algo":"Sha256","source":"SHA256SUMS","hash":"c3805a85d17f4454c23d7059bcb97e1ec1af272b90126e79ed002342de08389b"},{"fileName":"gosu-arm64.asc","algo":"Sha256","source":"SHA256SUMS","hash":"1ac37147e74abc1cfa13ce361caf599ccd0bdcae6c609dc648ccb298fdf9f9ff"},{"fileName":"gosu-armel","algo":"Sha256","source":"SHA256SUMS","hash":"f9969910fa141140438c998cfa02f603bf213b11afd466dcde8fa940e700945d"},{"fileName":"gosu-armel.asc","algo":"Sha256","source":"SHA256SUMS","hash":"837361212d0e7489c4938df86cedfbb425ff152538b8a47d27a95401e2758a95"},{"fileName":"gosu-armhf","algo":"Sha256","source":"SHA256SUMS","hash":"e5866286277ff2a2159fb9196fea13e0a59d3f1091ea46ddb985160b94b6841b"},{"fileName":"gosu-armhf.asc","algo":"Sha256","source":"SHA256SUMS","hash":"a64a0a68f5473d99de424110af8c245944731c66f68f744d5ea9b6e3169b5f17"},{"fileName":"gosu-i386","algo":"Sha256","source":"SHA256SUMS","hash":"087dbb8fe479537e64f9c86fa49ff3b41dee1cbd28739a19aaef83dc8186b1ca"},{"fileName":"gosu-i386.asc","algo":"Sha256","source":"SHA256SUMS","hash":"0b7ab59e98db942b6157543aa2d04e9c246b011f5674c8ea446db55dc53597cc"},{"fileName":"gosu-mips64el","algo":"Sha256","source":"SHA256SUMS","hash":"87140029d792595e660be0015341dfa1c02d1181459ae40df9f093e471d75b70"},{"fileName":"gosu-mips64el.asc","algo":"Sha256","source":"SHA256SUMS","hash":"9cfbc507156d3a576692d2e34fdae6126c2f34532c7e6ba3b37f87252a41e0b5"},{"fileName":"gosu-ppc64el","algo":"Sha256","source":"SHA256SUMS","hash":"1891acdcfa70046818ab6ed3c52b9d42fa10fbb7b340eb429c8c7849691dbd76"},{"fileName":"gosu-ppc64el.asc","algo":"Sha256","source":"SHA256SUMS","hash":"7b04247dacf74754313be5918ddf0e9591857a38b17941e0102994d215d71ea5"},{"fileName":"gosu-riscv64","algo":"Sha256","source":"SHA256SUMS","hash":"38a6444b57adce135c42d5a3689f616fc7803ddc7a07ff6f946f2ebc67a26ba6"},{"fileName":"gosu-riscv64.asc","algo":"Sha256","source":"SHA256SUMS","hash":"677a5ab724b5dde8b980010303df7813703e0d4aa50773eebbcc9668c931cf13"},{"fileName":"gosu-s390x","algo":"Sha256","source":"SHA256SUMS","hash":"69873bab588192f760547ca1f75b27cfcf106e9f7403fee6fd0600bc914979d0"},{"fileName":"gosu-s390x.asc","algo":"Sha256","source":"SHA256SUMS","hash":"75c3120a6a63cd52f7445bcf7ce7fad0f79f2e514925dd70f72e681cdc0cb751"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "gosu-amd64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "bbc4136d03ab138b1ad66fa4fc051bafc6cc7ffae632b069a53657279a450de3"
+    },
+    {
+      "fileName": "gosu-amd64.asc",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "f2e060735d5f91cf9e22312c676176e34aac0c8a16be08cdca801edcc3fd32a7"
+    },
+    {
+      "fileName": "gosu-arm64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "c3805a85d17f4454c23d7059bcb97e1ec1af272b90126e79ed002342de08389b"
+    },
+    {
+      "fileName": "gosu-arm64.asc",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "1ac37147e74abc1cfa13ce361caf599ccd0bdcae6c609dc648ccb298fdf9f9ff"
+    },
+    {
+      "fileName": "gosu-armel",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "f9969910fa141140438c998cfa02f603bf213b11afd466dcde8fa940e700945d"
+    },
+    {
+      "fileName": "gosu-armel.asc",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "837361212d0e7489c4938df86cedfbb425ff152538b8a47d27a95401e2758a95"
+    },
+    {
+      "fileName": "gosu-armhf",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "e5866286277ff2a2159fb9196fea13e0a59d3f1091ea46ddb985160b94b6841b"
+    },
+    {
+      "fileName": "gosu-armhf.asc",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "a64a0a68f5473d99de424110af8c245944731c66f68f744d5ea9b6e3169b5f17"
+    },
+    {
+      "fileName": "gosu-i386",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "087dbb8fe479537e64f9c86fa49ff3b41dee1cbd28739a19aaef83dc8186b1ca"
+    },
+    {
+      "fileName": "gosu-i386.asc",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "0b7ab59e98db942b6157543aa2d04e9c246b011f5674c8ea446db55dc53597cc"
+    },
+    {
+      "fileName": "gosu-mips64el",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "87140029d792595e660be0015341dfa1c02d1181459ae40df9f093e471d75b70"
+    },
+    {
+      "fileName": "gosu-mips64el.asc",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "9cfbc507156d3a576692d2e34fdae6126c2f34532c7e6ba3b37f87252a41e0b5"
+    },
+    {
+      "fileName": "gosu-ppc64el",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "1891acdcfa70046818ab6ed3c52b9d42fa10fbb7b340eb429c8c7849691dbd76"
+    },
+    {
+      "fileName": "gosu-ppc64el.asc",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "7b04247dacf74754313be5918ddf0e9591857a38b17941e0102994d215d71ea5"
+    },
+    {
+      "fileName": "gosu-riscv64",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "38a6444b57adce135c42d5a3689f616fc7803ddc7a07ff6f946f2ebc67a26ba6"
+    },
+    {
+      "fileName": "gosu-riscv64.asc",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "677a5ab724b5dde8b980010303df7813703e0d4aa50773eebbcc9668c931cf13"
+    },
+    {
+      "fileName": "gosu-s390x",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "69873bab588192f760547ca1f75b27cfcf106e9f7403fee6fd0600bc914979d0"
+    },
+    {
+      "fileName": "gosu-s390x.asc",
+      "algo": "Sha256",
+      "source": "SHA256SUMS",
+      "hash": "75c3120a6a63cd52f7445bcf7ce7fad0f79f2e514925dd70f72e681cdc0cb751"
+    }
+  ]
+}

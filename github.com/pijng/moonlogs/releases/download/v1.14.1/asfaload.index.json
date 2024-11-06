@@ -1,1 +1,73 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"moonlogs_1.14.1_linux_386.deb","algo":"Sha256","source":"checksums.txt","hash":"e1884abbf62db6ffad2614365d3afca6e00a11f67e174399c09d97fbdfe3b479"},{"fileName":"moonlogs_1.14.1_linux_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"040c4256766bb2d33033268789a4e1ade425381384fcf4ac3ab138781081923f"},{"fileName":"moonlogs_1.14.1_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"abe7a92c03006a965df3214f4bcf212b0c1f50c80f9bdca934b0bf7ea7630126"},{"fileName":"moonlogs_1.14.1_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"bbcab4dc6d5f0da5992b567864477cb42a0483dae6bd2dfc000d4413d667d213"},{"fileName":"moonlogs_1.14.1_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"de6d5f8d10f86bdd6bc48a3980dc18e622069238b7587b1ef20620353d755e89"},{"fileName":"moonlogs_1.14.1_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"0522482ecd71375f949c225bc4dafcb785f95efb4d8ff3b46bb8e82294e62020"},{"fileName":"moonlogs_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"59903979fc5e43177f44856cb4397dff40876df46f768a5aea1e8e468afb8fd6"},{"fileName":"moonlogs_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1b09fea37f3fb368f6f905e442663f6a67fbf5184e4319253255d4db1c1753c8"},{"fileName":"moonlogs_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a7475df4953322f60420ddcfca53ec9bf688d132db78ac159ab3b5abc17e2160"},{"fileName":"moonlogs_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"45ddb973842471ff722145d4473d85ae25563efb501c543ce0f3ead56b65af83"},{"fileName":"moonlogs_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0111009057f1578eda9f969f23037b5b55ee3d565c16497674f7f567a23cd317"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "moonlogs_1.14.1_linux_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e1884abbf62db6ffad2614365d3afca6e00a11f67e174399c09d97fbdfe3b479"
+    },
+    {
+      "fileName": "moonlogs_1.14.1_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "040c4256766bb2d33033268789a4e1ade425381384fcf4ac3ab138781081923f"
+    },
+    {
+      "fileName": "moonlogs_1.14.1_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "abe7a92c03006a965df3214f4bcf212b0c1f50c80f9bdca934b0bf7ea7630126"
+    },
+    {
+      "fileName": "moonlogs_1.14.1_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bbcab4dc6d5f0da5992b567864477cb42a0483dae6bd2dfc000d4413d667d213"
+    },
+    {
+      "fileName": "moonlogs_1.14.1_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "de6d5f8d10f86bdd6bc48a3980dc18e622069238b7587b1ef20620353d755e89"
+    },
+    {
+      "fileName": "moonlogs_1.14.1_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0522482ecd71375f949c225bc4dafcb785f95efb4d8ff3b46bb8e82294e62020"
+    },
+    {
+      "fileName": "moonlogs_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "59903979fc5e43177f44856cb4397dff40876df46f768a5aea1e8e468afb8fd6"
+    },
+    {
+      "fileName": "moonlogs_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1b09fea37f3fb368f6f905e442663f6a67fbf5184e4319253255d4db1c1753c8"
+    },
+    {
+      "fileName": "moonlogs_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a7475df4953322f60420ddcfca53ec9bf688d132db78ac159ab3b5abc17e2160"
+    },
+    {
+      "fileName": "moonlogs_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "45ddb973842471ff722145d4473d85ae25563efb501c543ce0f3ead56b65af83"
+    },
+    {
+      "fileName": "moonlogs_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0111009057f1578eda9f969f23037b5b55ee3d565c16497674f7f567a23cd317"
+    }
+  ]
+}

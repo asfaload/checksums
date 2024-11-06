@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"serving-progressive-rollout-core.yaml","algo":"Sha256","source":"checksums.txt","hash":"6c0fc4091b3ecd29ad376ad8c9f280f269e89ea8c8ff4f5771cfa00f8cf86781"},{"fileName":"serving-progressive-rollout-crds.yaml","algo":"Sha256","source":"checksums.txt","hash":"34c68b559ee19263043ea5aea77a948b7c90fbf379bec3a37fd5dbe27bce7aef"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "serving-progressive-rollout-core.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6c0fc4091b3ecd29ad376ad8c9f280f269e89ea8c8ff4f5771cfa00f8cf86781"
+    },
+    {
+      "fileName": "serving-progressive-rollout-crds.yaml",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "34c68b559ee19263043ea5aea77a948b7c90fbf379bec3a37fd5dbe27bce7aef"
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"mdz_1.14.1_darwin_amd64.tar.gz","algo":"Sha256","source":"mdz_1.14.1_checksums.txt","hash":"c42761f14f189a6330cf37ae4beca1e3afaca76916a992ccb45959def4ff3093"},{"fileName":"mdz_1.14.1_linux_amd64.tar.gz","algo":"Sha256","source":"mdz_1.14.1_checksums.txt","hash":"13ddc7a4f382e0a7b3aa4d926f4d8711669e3fcb64a8599c2586a5917309ee05"},{"fileName":"mdz_1.14.1_windows_amd64.tar.gz","algo":"Sha256","source":"mdz_1.14.1_checksums.txt","hash":"b5544c0a28a9b4678b8b29915bc37f730f352162dadf346bfe34176b5c778ad4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "mdz_1.14.1_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "mdz_1.14.1_checksums.txt",
+      "hash": "c42761f14f189a6330cf37ae4beca1e3afaca76916a992ccb45959def4ff3093"
+    },
+    {
+      "fileName": "mdz_1.14.1_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "mdz_1.14.1_checksums.txt",
+      "hash": "13ddc7a4f382e0a7b3aa4d926f4d8711669e3fcb64a8599c2586a5917309ee05"
+    },
+    {
+      "fileName": "mdz_1.14.1_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "mdz_1.14.1_checksums.txt",
+      "hash": "b5544c0a28a9b4678b8b29915bc37f730f352162dadf346bfe34176b5c778ad4"
+    }
+  ]
+}

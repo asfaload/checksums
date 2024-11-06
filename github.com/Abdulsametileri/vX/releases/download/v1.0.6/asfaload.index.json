@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"vX_1.0.6_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"252e705f9815e683619fd6fa49c6e68f9150aa518ad4631171c474723d688e1d"},{"fileName":"vX_1.0.6_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3dbbe3f797bec2af6d3bbc84dd136f80ea7be7e27e62e12e8b65f75c968f547c"},{"fileName":"vX_1.0.6_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"591ede81bf0d9fdac10e8575051e3d91b5f7cb8a1ea9a99dc724001de675d237"},{"fileName":"vX_1.0.6_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7294bf2de5fdbfa5469b2eb801a738a7c6ebbce12ef0d037d6746cbff2ea9a34"},{"fileName":"vX_1.0.6_Windows_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"867b96ec350112fe3de41f92ec105a19fe3f0199f3257cb6408dbec05ac7183a"},{"fileName":"vX_1.0.6_Windows_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9be51a8e2cbc51e5d5e8d86cc7838a58df36f18073e597e1dcd52145ec8b30ed"},{"fileName":"vX_1.0.6_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"9cf167724ebe5417bc69b52ee92d4bfcf8dec272a69c80075d3dc3abb1173140"},{"fileName":"vX_1.0.6_Windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"aa140f3e5c23b06e5a7259fb4f2115bc2067512a1d6baad6c094448cd3cd11e5"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "vX_1.0.6_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "252e705f9815e683619fd6fa49c6e68f9150aa518ad4631171c474723d688e1d"
+    },
+    {
+      "fileName": "vX_1.0.6_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3dbbe3f797bec2af6d3bbc84dd136f80ea7be7e27e62e12e8b65f75c968f547c"
+    },
+    {
+      "fileName": "vX_1.0.6_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "591ede81bf0d9fdac10e8575051e3d91b5f7cb8a1ea9a99dc724001de675d237"
+    },
+    {
+      "fileName": "vX_1.0.6_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7294bf2de5fdbfa5469b2eb801a738a7c6ebbce12ef0d037d6746cbff2ea9a34"
+    },
+    {
+      "fileName": "vX_1.0.6_Windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "867b96ec350112fe3de41f92ec105a19fe3f0199f3257cb6408dbec05ac7183a"
+    },
+    {
+      "fileName": "vX_1.0.6_Windows_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9be51a8e2cbc51e5d5e8d86cc7838a58df36f18073e597e1dcd52145ec8b30ed"
+    },
+    {
+      "fileName": "vX_1.0.6_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9cf167724ebe5417bc69b52ee92d4bfcf8dec272a69c80075d3dc3abb1173140"
+    },
+    {
+      "fileName": "vX_1.0.6_Windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "aa140f3e5c23b06e5a7259fb4f2115bc2067512a1d6baad6c094448cd3cd11e5"
+    }
+  ]
+}

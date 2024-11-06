@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"pulumi-resource-astronomer-v0.2.5-darwin-amd64.tar.gz","algo":"Sha256","source":"pulumi-astronomer_0.2.5_checksums.txt","hash":"f6585e3288446a8362ad4a033e26e1657bf806e30228927c82f97b2e6ffb8ec2"},{"fileName":"pulumi-resource-astronomer-v0.2.5-darwin-arm64.tar.gz","algo":"Sha256","source":"pulumi-astronomer_0.2.5_checksums.txt","hash":"be000f4bd44c1fb74f671e255c8ca4cc6185a140ae3b2c69e8d1e31cc639c840"},{"fileName":"pulumi-resource-astronomer-v0.2.5-linux-amd64.tar.gz","algo":"Sha256","source":"pulumi-astronomer_0.2.5_checksums.txt","hash":"8e51870465bc1a40612378dfecd360798bb704ec8608d1cbdcc3d25f7c861bdb"},{"fileName":"pulumi-resource-astronomer-v0.2.5-linux-arm64.tar.gz","algo":"Sha256","source":"pulumi-astronomer_0.2.5_checksums.txt","hash":"5f388381bc6683505b44bd0dba4507c1003163bc2f416de1c102b3118fc58c79"},{"fileName":"pulumi-resource-astronomer-v0.2.5-windows-amd64.tar.gz","algo":"Sha256","source":"pulumi-astronomer_0.2.5_checksums.txt","hash":"ac3a24c04c57d1a0ad49257f0b29baeecd52b854a8388a5c27d92165fe94e899"},{"fileName":"pulumi-resource-astronomer-v0.2.5-windows-arm64.tar.gz","algo":"Sha256","source":"pulumi-astronomer_0.2.5_checksums.txt","hash":"352015b4679a2397434b5f68b57100dfe214cee47c55529a95f47f0aa6d2dbd2"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "pulumi-resource-astronomer-v0.2.5-darwin-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-astronomer_0.2.5_checksums.txt",
+      "hash": "f6585e3288446a8362ad4a033e26e1657bf806e30228927c82f97b2e6ffb8ec2"
+    },
+    {
+      "fileName": "pulumi-resource-astronomer-v0.2.5-darwin-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-astronomer_0.2.5_checksums.txt",
+      "hash": "be000f4bd44c1fb74f671e255c8ca4cc6185a140ae3b2c69e8d1e31cc639c840"
+    },
+    {
+      "fileName": "pulumi-resource-astronomer-v0.2.5-linux-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-astronomer_0.2.5_checksums.txt",
+      "hash": "8e51870465bc1a40612378dfecd360798bb704ec8608d1cbdcc3d25f7c861bdb"
+    },
+    {
+      "fileName": "pulumi-resource-astronomer-v0.2.5-linux-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-astronomer_0.2.5_checksums.txt",
+      "hash": "5f388381bc6683505b44bd0dba4507c1003163bc2f416de1c102b3118fc58c79"
+    },
+    {
+      "fileName": "pulumi-resource-astronomer-v0.2.5-windows-amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-astronomer_0.2.5_checksums.txt",
+      "hash": "ac3a24c04c57d1a0ad49257f0b29baeecd52b854a8388a5c27d92165fe94e899"
+    },
+    {
+      "fileName": "pulumi-resource-astronomer-v0.2.5-windows-arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "pulumi-astronomer_0.2.5_checksums.txt",
+      "hash": "352015b4679a2397434b5f68b57100dfe214cee47c55529a95f47f0aa6d2dbd2"
+    }
+  ]
+}

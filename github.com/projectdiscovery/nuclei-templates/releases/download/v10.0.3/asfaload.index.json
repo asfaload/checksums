@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"nuclei-templates-10.0.3.tar.gz","algo":"Sha256","source":"nuclei-templates-10.0.3_checksums.txt","hash":"51762873c20da63a0ba30a300f418cf303c03a1b180d62f4643a6f30cd88371f"},{"fileName":"nuclei-templates-10.0.3.zip","algo":"Sha256","source":"nuclei-templates-10.0.3_checksums.txt","hash":"8249329b52f663a07b3ce679d6b14482e8b4ef819a14789282a4a9390dfdb4d6"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nuclei-templates-10.0.3.tar.gz",
+      "algo": "Sha256",
+      "source": "nuclei-templates-10.0.3_checksums.txt",
+      "hash": "51762873c20da63a0ba30a300f418cf303c03a1b180d62f4643a6f30cd88371f"
+    },
+    {
+      "fileName": "nuclei-templates-10.0.3.zip",
+      "algo": "Sha256",
+      "source": "nuclei-templates-10.0.3_checksums.txt",
+      "hash": "8249329b52f663a07b3ce679d6b14482e8b4ef819a14789282a4a9390dfdb4d6"
+    }
+  ]
+}

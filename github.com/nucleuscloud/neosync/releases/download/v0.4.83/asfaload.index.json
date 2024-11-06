@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"neosync_0.4.83_darwin_amd64.tar.gz","algo":"Sha256","source":"neosync_0.4.83_SHA256SUMS","hash":"05cd4f87e2112fc5b7564636b555dda4570248b2e6a86f6d7e97b9df67261bf7"},{"fileName":"neosync_0.4.83_darwin_arm64.tar.gz","algo":"Sha256","source":"neosync_0.4.83_SHA256SUMS","hash":"f676218d76a38ec83e3b2ba94324faa24c7f8e2691c6649f6d60745a04b5f5d9"},{"fileName":"neosync_0.4.83_linux_amd64.tar.gz","algo":"Sha256","source":"neosync_0.4.83_SHA256SUMS","hash":"87ae3668a8d377e400a0ad860ef6fe82b20f6bc2eaf8c8742f01804cc1f06156"},{"fileName":"neosync_0.4.83_linux_arm64.tar.gz","algo":"Sha256","source":"neosync_0.4.83_SHA256SUMS","hash":"729459d48643819fd1a293b6f202e5f09934cd5fc37485f835423bbc93fb6dc8"},{"fileName":"neosync_0.4.83_windows_amd64.zip","algo":"Sha256","source":"neosync_0.4.83_SHA256SUMS","hash":"156fca2cf2d007c3fa1f37116c0fb3f1ce887a2a8a30b1721d65279c24389c92"},{"fileName":"neosync_0.4.83_windows_arm64.zip","algo":"Sha256","source":"neosync_0.4.83_SHA256SUMS","hash":"3f3c10e2e0712688f16edbfb73f871926fa782c84068b31761f749a54bfadd17"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "neosync_0.4.83_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "neosync_0.4.83_SHA256SUMS",
+      "hash": "05cd4f87e2112fc5b7564636b555dda4570248b2e6a86f6d7e97b9df67261bf7"
+    },
+    {
+      "fileName": "neosync_0.4.83_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "neosync_0.4.83_SHA256SUMS",
+      "hash": "f676218d76a38ec83e3b2ba94324faa24c7f8e2691c6649f6d60745a04b5f5d9"
+    },
+    {
+      "fileName": "neosync_0.4.83_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "neosync_0.4.83_SHA256SUMS",
+      "hash": "87ae3668a8d377e400a0ad860ef6fe82b20f6bc2eaf8c8742f01804cc1f06156"
+    },
+    {
+      "fileName": "neosync_0.4.83_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "neosync_0.4.83_SHA256SUMS",
+      "hash": "729459d48643819fd1a293b6f202e5f09934cd5fc37485f835423bbc93fb6dc8"
+    },
+    {
+      "fileName": "neosync_0.4.83_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "neosync_0.4.83_SHA256SUMS",
+      "hash": "156fca2cf2d007c3fa1f37116c0fb3f1ce887a2a8a30b1721d65279c24389c92"
+    },
+    {
+      "fileName": "neosync_0.4.83_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "neosync_0.4.83_SHA256SUMS",
+      "hash": "3f3c10e2e0712688f16edbfb73f871926fa782c84068b31761f749a54bfadd17"
+    }
+  ]
+}

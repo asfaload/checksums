@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"uitail_Darwin_arm64.tar.gz","algo":"Sha256","source":"uitail_0.0.8_checksums.txt","hash":"779f2cd88cbf286c0a889e8c071d2937c378af02438fe157b45d3b752b732b59"},{"fileName":"uitail_Darwin_x86_64.tar.gz","algo":"Sha256","source":"uitail_0.0.8_checksums.txt","hash":"d8540e47791ff4b37feae8e4bc88e54a5b4c5a30c9ff30123fee740c38f3334a"},{"fileName":"uitail_Linux_arm64.tar.gz","algo":"Sha256","source":"uitail_0.0.8_checksums.txt","hash":"0bfeb42e6be28fcb611e48f58934a8da8f35ba3020db0892ca9bf791717516d0"},{"fileName":"uitail_Linux_i386.tar.gz","algo":"Sha256","source":"uitail_0.0.8_checksums.txt","hash":"49fa4a435f657d9f11454ef4a32979b0f214a7a8d436e86e8354c12a64c619a7"},{"fileName":"uitail_Linux_x86_64.tar.gz","algo":"Sha256","source":"uitail_0.0.8_checksums.txt","hash":"b34a1eabdf12c54a48333120298cf704ca359656e825d6c8d8d3476ac431d7c9"},{"fileName":"uitail_Windows_arm64.zip","algo":"Sha256","source":"uitail_0.0.8_checksums.txt","hash":"8b4f5bacbadea8eba41f74fec370c3f3ab3b1816fe7af067d49f5cc493dcb41c"},{"fileName":"uitail_Windows_i386.zip","algo":"Sha256","source":"uitail_0.0.8_checksums.txt","hash":"b9f8903ae5ba5056a6ce671d49f15f7309df366681d0c8b05ce05f01a7bdd788"},{"fileName":"uitail_Windows_x86_64.zip","algo":"Sha256","source":"uitail_0.0.8_checksums.txt","hash":"e7e439b67bc89e65c01d35771c29c4e3633edbbeede214659c3e32a3f0510e76"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "uitail_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.8_checksums.txt",
+      "hash": "779f2cd88cbf286c0a889e8c071d2937c378af02438fe157b45d3b752b732b59"
+    },
+    {
+      "fileName": "uitail_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.8_checksums.txt",
+      "hash": "d8540e47791ff4b37feae8e4bc88e54a5b4c5a30c9ff30123fee740c38f3334a"
+    },
+    {
+      "fileName": "uitail_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.8_checksums.txt",
+      "hash": "0bfeb42e6be28fcb611e48f58934a8da8f35ba3020db0892ca9bf791717516d0"
+    },
+    {
+      "fileName": "uitail_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.8_checksums.txt",
+      "hash": "49fa4a435f657d9f11454ef4a32979b0f214a7a8d436e86e8354c12a64c619a7"
+    },
+    {
+      "fileName": "uitail_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "uitail_0.0.8_checksums.txt",
+      "hash": "b34a1eabdf12c54a48333120298cf704ca359656e825d6c8d8d3476ac431d7c9"
+    },
+    {
+      "fileName": "uitail_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "uitail_0.0.8_checksums.txt",
+      "hash": "8b4f5bacbadea8eba41f74fec370c3f3ab3b1816fe7af067d49f5cc493dcb41c"
+    },
+    {
+      "fileName": "uitail_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "uitail_0.0.8_checksums.txt",
+      "hash": "b9f8903ae5ba5056a6ce671d49f15f7309df366681d0c8b05ce05f01a7bdd788"
+    },
+    {
+      "fileName": "uitail_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "uitail_0.0.8_checksums.txt",
+      "hash": "e7e439b67bc89e65c01d35771c29c4e3633edbbeede214659c3e32a3f0510e76"
+    }
+  ]
+}

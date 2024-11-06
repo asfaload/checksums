@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"fc2-live-dl-go-darwin-amd64","algo":"Sha256","source":"checksums.txt","hash":"a06544d97525e3f7a33abcf90381ea8eeb3ed6146f07dd71d5161c11aa5e6019"},{"fileName":"fc2-live-dl-go-darwin-arm64","algo":"Sha256","source":"checksums.txt","hash":"b6b317ceb6250386b9e4dc228790c041ce5c24986541032453e4b95d82f63f04"},{"fileName":"fc2-live-dl-go-linux-amd64","algo":"Sha256","source":"checksums.txt","hash":"b7de2c9a768c74dfb3a94811db35ed6ecec21dddbe49a885436160a332157cd1"},{"fileName":"fc2-live-dl-go-linux-arm64","algo":"Sha256","source":"checksums.txt","hash":"d5231159d4d4a64727acced7b2a25bb9489615a07199210d1118f57c976a68d3"},{"fileName":"fc2-live-dl-go-linux-riscv64","algo":"Sha256","source":"checksums.txt","hash":"4b8c29ba3b858154b6abd9eff52fe7dc8aab19c3b0ffb5d0f79c0dcd71461874"},{"fileName":"fc2-live-dl-go-windows-amd64.exe","algo":"Sha256","source":"checksums.txt","hash":"dd56af9012ea2fd451afc625f002876b9a7db2ee16ac09165052c500b0547e5c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "fc2-live-dl-go-darwin-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a06544d97525e3f7a33abcf90381ea8eeb3ed6146f07dd71d5161c11aa5e6019"
+    },
+    {
+      "fileName": "fc2-live-dl-go-darwin-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b6b317ceb6250386b9e4dc228790c041ce5c24986541032453e4b95d82f63f04"
+    },
+    {
+      "fileName": "fc2-live-dl-go-linux-amd64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b7de2c9a768c74dfb3a94811db35ed6ecec21dddbe49a885436160a332157cd1"
+    },
+    {
+      "fileName": "fc2-live-dl-go-linux-arm64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d5231159d4d4a64727acced7b2a25bb9489615a07199210d1118f57c976a68d3"
+    },
+    {
+      "fileName": "fc2-live-dl-go-linux-riscv64",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4b8c29ba3b858154b6abd9eff52fe7dc8aab19c3b0ffb5d0f79c0dcd71461874"
+    },
+    {
+      "fileName": "fc2-live-dl-go-windows-amd64.exe",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dd56af9012ea2fd451afc625f002876b9a7db2ee16ac09165052c500b0547e5c"
+    }
+  ]
+}

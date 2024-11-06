@@ -1,1 +1,19 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"./publish/geosite.dat","algo":"Sha256","source":"geosite.dat.sha256sum","hash":"29a84b8f8107c8b3c238187064c89b7d08174f4af76cfc838a6b67cc927cfd2d"},{"fileName":"geoip.dat","algo":"Sha256","source":"geoip.dat.sha256sum","hash":"bd276d8b74cd75504feab9e0d3d8585f0a264f67a0b3dfc78dd3a7132f6f0566"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "./publish/geosite.dat",
+      "algo": "Sha256",
+      "source": "geosite.dat.sha256sum",
+      "hash": "29a84b8f8107c8b3c238187064c89b7d08174f4af76cfc838a6b67cc927cfd2d"
+    },
+    {
+      "fileName": "geoip.dat",
+      "algo": "Sha256",
+      "source": "geoip.dat.sha256sum",
+      "hash": "bd276d8b74cd75504feab9e0d3d8585f0a264f67a0b3dfc78dd3a7132f6f0566"
+    }
+  ]
+}

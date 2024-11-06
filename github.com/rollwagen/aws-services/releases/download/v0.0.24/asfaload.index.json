@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"aws-services_0.0.24_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c86bfd85254c6fb96683aebd1154118cbf4e8e1aac18a1daf860f8f5b46365f8"},{"fileName":"aws-services_0.0.24_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"135f8966843ba351735368b099005a3c04999476757a2e819749a12d90c02856"},{"fileName":"aws-services_0.0.24_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"247c54c11305fae3f2ec1c7ce1409f63ca5b90fb2e30d2ecaef25b602a68de13"},{"fileName":"aws-services_0.0.24_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"908504f35f84cb9173c41a0aa0de3b30edfde60db563267a32d4ba6e88134d66"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "aws-services_0.0.24_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c86bfd85254c6fb96683aebd1154118cbf4e8e1aac18a1daf860f8f5b46365f8"
+    },
+    {
+      "fileName": "aws-services_0.0.24_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "135f8966843ba351735368b099005a3c04999476757a2e819749a12d90c02856"
+    },
+    {
+      "fileName": "aws-services_0.0.24_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "247c54c11305fae3f2ec1c7ce1409f63ca5b90fb2e30d2ecaef25b602a68de13"
+    },
+    {
+      "fileName": "aws-services_0.0.24_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "908504f35f84cb9173c41a0aa0de3b30edfde60db563267a32d4ba6e88134d66"
+    }
+  ]
+}

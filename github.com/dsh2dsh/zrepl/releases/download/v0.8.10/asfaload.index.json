@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"zrepl-0.8.10.tar.gz","algo":"Sha256","source":"zrepl_0.8.10_checksums.txt","hash":"30e382097b85b8654cfd4ec98e3b379f42d3ea3b1a7ef9467a2cf72246eb486f"},{"fileName":"zrepl_0.8.10_freebsd_amd64.tar.gz","algo":"Sha256","source":"zrepl_0.8.10_checksums.txt","hash":"75e9e77bc489c3b918a258a278a6869302a054da2bd7de435b279f86255878ce"},{"fileName":"zrepl_0.8.10_freebsd_arm64.tar.gz","algo":"Sha256","source":"zrepl_0.8.10_checksums.txt","hash":"9325f6bd01a14fcb8f68da902f8db361bf5e2058f16a5ab987d9c57ab9422c62"},{"fileName":"zrepl_0.8.10_linux_amd64.tar.gz","algo":"Sha256","source":"zrepl_0.8.10_checksums.txt","hash":"5c98b69fd1ab3d15fd682d32d5dee05e68a2c3bbf999868e6d84f590edf3a58c"},{"fileName":"zrepl_0.8.10_linux_arm64.tar.gz","algo":"Sha256","source":"zrepl_0.8.10_checksums.txt","hash":"b604818b71294ee65852fc140151d0f6d92f63786017553891c85a8ec99bcda4"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "zrepl-0.8.10.tar.gz",
+      "algo": "Sha256",
+      "source": "zrepl_0.8.10_checksums.txt",
+      "hash": "30e382097b85b8654cfd4ec98e3b379f42d3ea3b1a7ef9467a2cf72246eb486f"
+    },
+    {
+      "fileName": "zrepl_0.8.10_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "zrepl_0.8.10_checksums.txt",
+      "hash": "75e9e77bc489c3b918a258a278a6869302a054da2bd7de435b279f86255878ce"
+    },
+    {
+      "fileName": "zrepl_0.8.10_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "zrepl_0.8.10_checksums.txt",
+      "hash": "9325f6bd01a14fcb8f68da902f8db361bf5e2058f16a5ab987d9c57ab9422c62"
+    },
+    {
+      "fileName": "zrepl_0.8.10_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "zrepl_0.8.10_checksums.txt",
+      "hash": "5c98b69fd1ab3d15fd682d32d5dee05e68a2c3bbf999868e6d84f590edf3a58c"
+    },
+    {
+      "fileName": "zrepl_0.8.10_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "zrepl_0.8.10_checksums.txt",
+      "hash": "b604818b71294ee65852fc140151d0f6d92f63786017553891c85a8ec99bcda4"
+    }
+  ]
+}

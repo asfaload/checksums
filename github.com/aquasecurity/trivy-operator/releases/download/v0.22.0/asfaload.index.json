@@ -1,1 +1,37 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"trivy-operator_linux_ARM.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c7126ec15be9ba1ddc4ea2f01f15247dcd4163ce4e2fafd57fc0a87a3e01ea1c"},{"fileName":"trivy-operator_linux_s390x.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d528bdddbf6542c0f0668c1b7e04347eb2dacdedbf8e5274022c89354d20f820"},{"fileName":"trivy-operator_linux_ARM64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e90f10400b3b43a3f9fdd3dc784ef5e860c0ebc992efcae6e74f108d147ef6f7"},{"fileName":"trivy-operator_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f5652c455bcc4d675ee9f4ff87f189d7813969351a2c0c87b7affccf98994d5c"},{"fileName":"trivy-operator_linux_ppc64le.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fd5203fb2f0a70037946d18c55796ff1e504a6d29fc2aaaeb79de7b83e33adf5"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "trivy-operator_linux_ARM.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c7126ec15be9ba1ddc4ea2f01f15247dcd4163ce4e2fafd57fc0a87a3e01ea1c"
+    },
+    {
+      "fileName": "trivy-operator_linux_s390x.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d528bdddbf6542c0f0668c1b7e04347eb2dacdedbf8e5274022c89354d20f820"
+    },
+    {
+      "fileName": "trivy-operator_linux_ARM64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e90f10400b3b43a3f9fdd3dc784ef5e860c0ebc992efcae6e74f108d147ef6f7"
+    },
+    {
+      "fileName": "trivy-operator_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f5652c455bcc4d675ee9f4ff87f189d7813969351a2c0c87b7affccf98994d5c"
+    },
+    {
+      "fileName": "trivy-operator_linux_ppc64le.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fd5203fb2f0a70037946d18c55796ff1e504a6d29fc2aaaeb79de7b83e33adf5"
+    }
+  ]
+}

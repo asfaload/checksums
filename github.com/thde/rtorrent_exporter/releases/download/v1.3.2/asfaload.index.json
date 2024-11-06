@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"rtorrent_exporter_1.3.2_darwin_amd64.tar.gz","algo":"Sha256","source":"rtorrent_exporter_1.3.2_checksums.txt","hash":"c38defd95f0f0ee059efe05cde4e9200db40c25f315687157b95b49583be5a94"},{"fileName":"rtorrent_exporter_1.3.2_darwin_arm64.tar.gz","algo":"Sha256","source":"rtorrent_exporter_1.3.2_checksums.txt","hash":"d94c93658564fafd84f177b872265db0c4df58e9b6d4135eeac3a9c8c2be04cf"},{"fileName":"rtorrent_exporter_1.3.2_linux_386.tar.gz","algo":"Sha256","source":"rtorrent_exporter_1.3.2_checksums.txt","hash":"895131eec2726267530293c9307c92c808cf04de8f5a01e655dba23bb965fd0d"},{"fileName":"rtorrent_exporter_1.3.2_linux_amd64.tar.gz","algo":"Sha256","source":"rtorrent_exporter_1.3.2_checksums.txt","hash":"db8a6c2695e72a78931e0dc1a97a15c9acf004779bef9afb17bfcb5f7b42d126"},{"fileName":"rtorrent_exporter_1.3.2_linux_arm64.tar.gz","algo":"Sha256","source":"rtorrent_exporter_1.3.2_checksums.txt","hash":"068f5af0a6e89170de4098cb971c69654e7f53edf12953e02398b62bb93ef2cd"},{"fileName":"rtorrent_exporter_1.3.2_windows_386.zip","algo":"Sha256","source":"rtorrent_exporter_1.3.2_checksums.txt","hash":"ea49208248c3c0355848060d0ecfb3e041acbcd4c777b20bc8137b4e2bb85b4f"},{"fileName":"rtorrent_exporter_1.3.2_windows_amd64.zip","algo":"Sha256","source":"rtorrent_exporter_1.3.2_checksums.txt","hash":"2ad5c51e460526e2ba7220a12a9909f2abdeaa577d6230ecf6b48c3c558589c1"},{"fileName":"rtorrent_exporter_1.3.2_windows_arm64.zip","algo":"Sha256","source":"rtorrent_exporter_1.3.2_checksums.txt","hash":"2817078f0afed94dc810c2f8ca326698504e8c0d027f3b0cbe6c56d32e623fc3"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "rtorrent_exporter_1.3.2_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "rtorrent_exporter_1.3.2_checksums.txt",
+      "hash": "c38defd95f0f0ee059efe05cde4e9200db40c25f315687157b95b49583be5a94"
+    },
+    {
+      "fileName": "rtorrent_exporter_1.3.2_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "rtorrent_exporter_1.3.2_checksums.txt",
+      "hash": "d94c93658564fafd84f177b872265db0c4df58e9b6d4135eeac3a9c8c2be04cf"
+    },
+    {
+      "fileName": "rtorrent_exporter_1.3.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "rtorrent_exporter_1.3.2_checksums.txt",
+      "hash": "895131eec2726267530293c9307c92c808cf04de8f5a01e655dba23bb965fd0d"
+    },
+    {
+      "fileName": "rtorrent_exporter_1.3.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "rtorrent_exporter_1.3.2_checksums.txt",
+      "hash": "db8a6c2695e72a78931e0dc1a97a15c9acf004779bef9afb17bfcb5f7b42d126"
+    },
+    {
+      "fileName": "rtorrent_exporter_1.3.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "rtorrent_exporter_1.3.2_checksums.txt",
+      "hash": "068f5af0a6e89170de4098cb971c69654e7f53edf12953e02398b62bb93ef2cd"
+    },
+    {
+      "fileName": "rtorrent_exporter_1.3.2_windows_386.zip",
+      "algo": "Sha256",
+      "source": "rtorrent_exporter_1.3.2_checksums.txt",
+      "hash": "ea49208248c3c0355848060d0ecfb3e041acbcd4c777b20bc8137b4e2bb85b4f"
+    },
+    {
+      "fileName": "rtorrent_exporter_1.3.2_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "rtorrent_exporter_1.3.2_checksums.txt",
+      "hash": "2ad5c51e460526e2ba7220a12a9909f2abdeaa577d6230ecf6b48c3c558589c1"
+    },
+    {
+      "fileName": "rtorrent_exporter_1.3.2_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "rtorrent_exporter_1.3.2_checksums.txt",
+      "hash": "2817078f0afed94dc810c2f8ca326698504e8c0d027f3b0cbe6c56d32e623fc3"
+    }
+  ]
+}

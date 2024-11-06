@@ -1,1 +1,67 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"ktunnel_1.6.1_Windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"12753d5624e6653ea1586aa9a6320be40ac3728fb3dae9bba30bc21cb2bde40c"},{"fileName":"ktunnel_1.6.1_Windows_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"1fe1aa79e9ce04275bbdc3cf24e30ec159db21d273b467647a6a83f99326419f"},{"fileName":"ktunnel_1.6.1_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"23620e0beca7d7efbe35f064f825dc8deda7994df3e402193a65fece179b2b8b"},{"fileName":"ktunnel_1.6.1_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"32807db2cfbce040f66f37c5a589ead3e22affa3fe3a98d58d340ef6779dab49"},{"fileName":"ktunnel_1.6.1_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"3f24626204d492314bd889beaf2167993e86856a951f8ebda7b5b878fb27d79c"},{"fileName":"ktunnel_1.6.1_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6665722db841a1df29fd733bb46c08e2a109753638f080218e9ebba7e96fa873"},{"fileName":"ktunnel_1.6.1_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"6d2f5476c335775a608119b4f8dd03ef0354e071e30254d67a44a9a1e6227fd6"},{"fileName":"ktunnel_1.6.1_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"8439760ee4e91873cbad59569e570f52ad493f4d06fbd28e0d98859e3c8d0360"},{"fileName":"ktunnel_1.6.1_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b1ceb7fe8b40b96020ffa6ead1b59deadc0facb05064627e9175a20c109fd8b2"},{"fileName":"ktunnel_1.6.1_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"fcd3b7c6fc5dc72bcb7ccc5f735f271fdb43e30cae680e3eb09c28bb3dee7866"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "ktunnel_1.6.1_Windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "12753d5624e6653ea1586aa9a6320be40ac3728fb3dae9bba30bc21cb2bde40c"
+    },
+    {
+      "fileName": "ktunnel_1.6.1_Windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1fe1aa79e9ce04275bbdc3cf24e30ec159db21d273b467647a6a83f99326419f"
+    },
+    {
+      "fileName": "ktunnel_1.6.1_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "23620e0beca7d7efbe35f064f825dc8deda7994df3e402193a65fece179b2b8b"
+    },
+    {
+      "fileName": "ktunnel_1.6.1_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "32807db2cfbce040f66f37c5a589ead3e22affa3fe3a98d58d340ef6779dab49"
+    },
+    {
+      "fileName": "ktunnel_1.6.1_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3f24626204d492314bd889beaf2167993e86856a951f8ebda7b5b878fb27d79c"
+    },
+    {
+      "fileName": "ktunnel_1.6.1_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6665722db841a1df29fd733bb46c08e2a109753638f080218e9ebba7e96fa873"
+    },
+    {
+      "fileName": "ktunnel_1.6.1_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6d2f5476c335775a608119b4f8dd03ef0354e071e30254d67a44a9a1e6227fd6"
+    },
+    {
+      "fileName": "ktunnel_1.6.1_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8439760ee4e91873cbad59569e570f52ad493f4d06fbd28e0d98859e3c8d0360"
+    },
+    {
+      "fileName": "ktunnel_1.6.1_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b1ceb7fe8b40b96020ffa6ead1b59deadc0facb05064627e9175a20c109fd8b2"
+    },
+    {
+      "fileName": "ktunnel_1.6.1_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "fcd3b7c6fc5dc72bcb7ccc5f735f271fdb43e30cae680e3eb09c28bb3dee7866"
+    }
+  ]
+}

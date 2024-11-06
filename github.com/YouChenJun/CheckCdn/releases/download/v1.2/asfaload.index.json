@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"CheckCdn_1.2_darwin_amd64.tar.gz","algo":"Sha256","source":"CheckCdn_1.2_checksums.txt","hash":"8cd6b9c5a347de4e65ea9343edebeb8e970de51486060fabdcc9c08fa2850193"},{"fileName":"CheckCdn_1.2_darwin_arm64.tar.gz","algo":"Sha256","source":"CheckCdn_1.2_checksums.txt","hash":"8282817ef0db976d2c204f5b1202f55129344560682ab63e6b4b8799cdd5760f"},{"fileName":"CheckCdn_1.2_linux_386.tar.gz","algo":"Sha256","source":"CheckCdn_1.2_checksums.txt","hash":"1279c435491f7183a2cf0cfe0a86778060cbe5b9232d632bab31c126269ebe36"},{"fileName":"CheckCdn_1.2_linux_amd64.tar.gz","algo":"Sha256","source":"CheckCdn_1.2_checksums.txt","hash":"2945e6f5513144f18d8a92d4f45ede68e6302a3dcc6dce553300c1af72bb114d"},{"fileName":"CheckCdn_1.2_linux_arm64.tar.gz","algo":"Sha256","source":"CheckCdn_1.2_checksums.txt","hash":"8820e36930c6326dddd43b9ad70f72f4c6f59c72c020fef15054432e0e9784fd"},{"fileName":"CheckCdn_1.2_windows_386.tar.gz","algo":"Sha256","source":"CheckCdn_1.2_checksums.txt","hash":"dbefe3a908b02fb328d48185a80781dfd5b65a71a1ca80daad831a3ac2495082"},{"fileName":"CheckCdn_1.2_windows_amd64.tar.gz","algo":"Sha256","source":"CheckCdn_1.2_checksums.txt","hash":"95794261e6f6482ef85134831455d34d2cfea91342c8b983fd2d7fa75febfa59"},{"fileName":"CheckCdn_1.2_windows_arm64.tar.gz","algo":"Sha256","source":"CheckCdn_1.2_checksums.txt","hash":"f6f01954a77e256e6ab946166daff1b7f0959fc65caba1240d95cb7d4b6cfdcd"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "CheckCdn_1.2_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "CheckCdn_1.2_checksums.txt",
+      "hash": "8cd6b9c5a347de4e65ea9343edebeb8e970de51486060fabdcc9c08fa2850193"
+    },
+    {
+      "fileName": "CheckCdn_1.2_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "CheckCdn_1.2_checksums.txt",
+      "hash": "8282817ef0db976d2c204f5b1202f55129344560682ab63e6b4b8799cdd5760f"
+    },
+    {
+      "fileName": "CheckCdn_1.2_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "CheckCdn_1.2_checksums.txt",
+      "hash": "1279c435491f7183a2cf0cfe0a86778060cbe5b9232d632bab31c126269ebe36"
+    },
+    {
+      "fileName": "CheckCdn_1.2_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "CheckCdn_1.2_checksums.txt",
+      "hash": "2945e6f5513144f18d8a92d4f45ede68e6302a3dcc6dce553300c1af72bb114d"
+    },
+    {
+      "fileName": "CheckCdn_1.2_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "CheckCdn_1.2_checksums.txt",
+      "hash": "8820e36930c6326dddd43b9ad70f72f4c6f59c72c020fef15054432e0e9784fd"
+    },
+    {
+      "fileName": "CheckCdn_1.2_windows_386.tar.gz",
+      "algo": "Sha256",
+      "source": "CheckCdn_1.2_checksums.txt",
+      "hash": "dbefe3a908b02fb328d48185a80781dfd5b65a71a1ca80daad831a3ac2495082"
+    },
+    {
+      "fileName": "CheckCdn_1.2_windows_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "CheckCdn_1.2_checksums.txt",
+      "hash": "95794261e6f6482ef85134831455d34d2cfea91342c8b983fd2d7fa75febfa59"
+    },
+    {
+      "fileName": "CheckCdn_1.2_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "CheckCdn_1.2_checksums.txt",
+      "hash": "f6f01954a77e256e6ab946166daff1b7f0959fc65caba1240d95cb7d4b6cfdcd"
+    }
+  ]
+}

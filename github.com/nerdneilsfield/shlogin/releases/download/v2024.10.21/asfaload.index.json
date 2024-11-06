@@ -1,1 +1,283 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"shlogin_2024.10.21_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"e066243f9b59cb47a4d625e9dc7280eb553ed4317bf2b56c7ee98542d04c2982"},{"fileName":"shlogin_2024.10.21_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"5b74d645cb06f2506534c3918fd6fd265c6a8cb850cb73ce70224dc06c042e27"},{"fileName":"shlogin_2024.10.21_freebsd_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2bb14ba0d95c8ede5e75bfceba55d9971695e7e17a8aca68f8d28f95d82259d7"},{"fileName":"shlogin_2024.10.21_freebsd_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"14576a07facb3733454ed0a9c57e2e96b7310c99e6042f0fb5f863e85534e052"},{"fileName":"shlogin_2024.10.21_freebsd_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d92a4957d7e91d4a4c9937a74569fff45a64604623def44ec77292e2d14c906a"},{"fileName":"shlogin_2024.10.21_freebsd_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"031ce6fee2b816ee994968d1a4df879729795b3bde0ea690c67b120267d371a8"},{"fileName":"shlogin_2024.10.21_linux_386.apk","algo":"Sha256","source":"checksums.txt","hash":"ef3c8d6435b6b94c242b7e9239ce543a3ec18ae2e3eddbceaced208b14ef4daa"},{"fileName":"shlogin_2024.10.21_linux_386.deb","algo":"Sha256","source":"checksums.txt","hash":"08595dd58c50b1ea9a7c67b3fa59f5f4a8cca892173928e015542c61b6de6e82"},{"fileName":"shlogin_2024.10.21_linux_386.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"1ca06c0199c6efbe7576b83b8342ba1aba778dc91b87bf4111dfb45959e9b892"},{"fileName":"shlogin_2024.10.21_linux_386.rpm","algo":"Sha256","source":"checksums.txt","hash":"d66555beab5f605987f6a8eb2d80e0d64af7098536478b1bf4bc95a8880caa2e"},{"fileName":"shlogin_2024.10.21_linux_386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"3523a2951448f7d88d6531832a18ae4f5ad9c0f35b8618e265a6bb8b768b4286"},{"fileName":"shlogin_2024.10.21_linux_amd64.apk","algo":"Sha256","source":"checksums.txt","hash":"d4b1591b9e59ebee75b6905dc58ee7e0e92e281410d98f837e891b74f4809703"},{"fileName":"shlogin_2024.10.21_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"dd4ebde6ee377ae55c27d705fcf3a11e502fb6adcaa45dbb5e5ba1978bbc05ef"},{"fileName":"shlogin_2024.10.21_linux_amd64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"ce19f3da52f7a4967b294137a9aaa5a7a08640d2f1a17d6f261b03e261389abe"},{"fileName":"shlogin_2024.10.21_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"bf2a600b41988afea00ed6a1760517fe9d498bd2f0a8d9857dbe4a7b5eb4017b"},{"fileName":"shlogin_2024.10.21_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"8012d1dfa9767de1955c721519d0ec050271f0a37d25ea5e47c55cb585d8159f"},{"fileName":"shlogin_2024.10.21_linux_arm64.apk","algo":"Sha256","source":"checksums.txt","hash":"b8825b96e3c66c3d7adfaad01a5b792c14b809819bc37d6df7065c19e72444ff"},{"fileName":"shlogin_2024.10.21_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"72ebc45cca42beb7d44e039681fd9b4416b5d0e5a10b07aefa2039a5a516474c"},{"fileName":"shlogin_2024.10.21_linux_arm64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"e1aa8076660b272a1f17359812936c8ce05fdc8ec9ff551e51c177a0265c5cfd"},{"fileName":"shlogin_2024.10.21_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"dca11da1f6e0d812fc1b16d736577133c400b9b5a6967d87eed7d32572d5e516"},{"fileName":"shlogin_2024.10.21_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7410f0cdb7add06712a733d47174deb9b3f50814ccb7bc2d0f432fc6abf11b07"},{"fileName":"shlogin_2024.10.21_linux_armv7.apk","algo":"Sha256","source":"checksums.txt","hash":"60d15f116b9b862f4907dba3de91a3afa229e995e39c08ca647f17f8e8aefaa5"},{"fileName":"shlogin_2024.10.21_linux_armv7.deb","algo":"Sha256","source":"checksums.txt","hash":"1e5b4eab9832fd27ccd0fadbfed14c4189380894b79a6fe0f4df96c9224badfa"},{"fileName":"shlogin_2024.10.21_linux_armv7.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"998de8507a45c43ff036332fa9e2c73cb45859aa8283d24fc55cf62ba3768c31"},{"fileName":"shlogin_2024.10.21_linux_armv7.rpm","algo":"Sha256","source":"checksums.txt","hash":"c1660aabbe666508ec32ed9a9901631415c65d3cb1cc73a30a0a8f7df9bc2b21"},{"fileName":"shlogin_2024.10.21_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"50b264cf9a78c83e1d60089e98e7320f59caf2ed5b5ad2585445458e8090cf72"},{"fileName":"shlogin_2024.10.21_linux_mips64_hardfloat.apk","algo":"Sha256","source":"checksums.txt","hash":"9e3ec84773a9ce50d2a5cf284b91c44f50a4e6cc6f2ee386260902aba2b0c03f"},{"fileName":"shlogin_2024.10.21_linux_mips64_hardfloat.deb","algo":"Sha256","source":"checksums.txt","hash":"339f73b26ee2083286e3bfff47418f6131d66ac33268995af01d429ccaa04bee"},{"fileName":"shlogin_2024.10.21_linux_mips64_hardfloat.rpm","algo":"Sha256","source":"checksums.txt","hash":"bae8a910551ce99402c440cb6c38429330819426cb080c20cffd115c107f2659"},{"fileName":"shlogin_2024.10.21_linux_mips64_hardfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d844755cb3414a07fe78e3bd76265a8ac383de5557b0b1f717418c2fade3e5e0"},{"fileName":"shlogin_2024.10.21_linux_mips64le_hardfloat.apk","algo":"Sha256","source":"checksums.txt","hash":"ce78e1c0c3aa29575b4c3581b23d2514d9f2959d4eda77812c258e1e71327f31"},{"fileName":"shlogin_2024.10.21_linux_mips64le_hardfloat.deb","algo":"Sha256","source":"checksums.txt","hash":"376241437ba706377bf42c1aa22f45d44e1ae16a63cf305f85653e1900020be4"},{"fileName":"shlogin_2024.10.21_linux_mips64le_hardfloat.rpm","algo":"Sha256","source":"checksums.txt","hash":"a25918ec23bf7ff75073cd601cdff22522f566aaf1dcca8966e16fc585f26f33"},{"fileName":"shlogin_2024.10.21_linux_mips64le_hardfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"55c61f561053b4e1ff3e36b67495daac83457f97a7b573d221ea800864b16a62"},{"fileName":"shlogin_2024.10.21_linux_mipsle_hardfloat.apk","algo":"Sha256","source":"checksums.txt","hash":"188db82a102429260eabeadcb4fb308c78eba2849660a9d36eea5bcc94095e0f"},{"fileName":"shlogin_2024.10.21_linux_mipsle_hardfloat.deb","algo":"Sha256","source":"checksums.txt","hash":"c436b92d552abd838c28aaf362eb6279d1031609e49abb1a962e31d6b53d82e8"},{"fileName":"shlogin_2024.10.21_linux_mipsle_hardfloat.rpm","algo":"Sha256","source":"checksums.txt","hash":"f30952ef5dbbd72be55eb77fd92901bc0604605a78da5cb8204a3f48e0b7b635"},{"fileName":"shlogin_2024.10.21_linux_mipsle_hardfloat.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0aed2a2357d8e23f20fd2fc144f203bf9cee09b494341a903b626a3cdcf21124"},{"fileName":"shlogin_2024.10.21_linux_riscv64.apk","algo":"Sha256","source":"checksums.txt","hash":"7c30138c16e43c5fea23468c8107520ca65bd8eb505b4221b1065edc25b6ec97"},{"fileName":"shlogin_2024.10.21_linux_riscv64.deb","algo":"Sha256","source":"checksums.txt","hash":"d30f50455a3184bcd5c02023ba7bcecc290fc274cb8af2038aa9e84ba41ac26c"},{"fileName":"shlogin_2024.10.21_linux_riscv64.rpm","algo":"Sha256","source":"checksums.txt","hash":"f78e44de78c31a33c19e0ab23aeede1c92f8d86029146a901a104c48372d55e0"},{"fileName":"shlogin_2024.10.21_linux_riscv64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"ea17b435f48f611e1ce075c9f435977812ce6b9ec86b65e6694702a0eeae47e6"},{"fileName":"shlogin_2024.10.21_windows_386.zip","algo":"Sha256","source":"checksums.txt","hash":"2b79029ac333e55420114505bf9bfbbee77c459ebde397207c4d09a05f482a60"},{"fileName":"shlogin_2024.10.21_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"cb3e25df0db205d926691ee071eacd3c3a522b8d2ba99264ab7f7e6adebf3424"},{"fileName":"shlogin_2024.10.21_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"2f42757a4f17b044ae01e236a6615a1089d87be12135dfeed0a33bbfe0b9f5ba"},{"fileName":"shlogin_2024.10.21_windows_armv7.zip","algo":"Sha256","source":"checksums.txt","hash":"9b761659253ed6907b40840d2e2cf25c436729e3aadc3887bea4aefb98ae3788"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "shlogin_2024.10.21_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e066243f9b59cb47a4d625e9dc7280eb553ed4317bf2b56c7ee98542d04c2982"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5b74d645cb06f2506534c3918fd6fd265c6a8cb850cb73ce70224dc06c042e27"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_freebsd_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2bb14ba0d95c8ede5e75bfceba55d9971695e7e17a8aca68f8d28f95d82259d7"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_freebsd_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "14576a07facb3733454ed0a9c57e2e96b7310c99e6042f0fb5f863e85534e052"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_freebsd_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d92a4957d7e91d4a4c9937a74569fff45a64604623def44ec77292e2d14c906a"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_freebsd_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "031ce6fee2b816ee994968d1a4df879729795b3bde0ea690c67b120267d371a8"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_386.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ef3c8d6435b6b94c242b7e9239ce543a3ec18ae2e3eddbceaced208b14ef4daa"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "08595dd58c50b1ea9a7c67b3fa59f5f4a8cca892173928e015542c61b6de6e82"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_386.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1ca06c0199c6efbe7576b83b8342ba1aba778dc91b87bf4111dfb45959e9b892"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d66555beab5f605987f6a8eb2d80e0d64af7098536478b1bf4bc95a8880caa2e"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3523a2951448f7d88d6531832a18ae4f5ad9c0f35b8618e265a6bb8b768b4286"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_amd64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d4b1591b9e59ebee75b6905dc58ee7e0e92e281410d98f837e891b74f4809703"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dd4ebde6ee377ae55c27d705fcf3a11e502fb6adcaa45dbb5e5ba1978bbc05ef"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_amd64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ce19f3da52f7a4967b294137a9aaa5a7a08640d2f1a17d6f261b03e261389abe"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bf2a600b41988afea00ed6a1760517fe9d498bd2f0a8d9857dbe4a7b5eb4017b"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "8012d1dfa9767de1955c721519d0ec050271f0a37d25ea5e47c55cb585d8159f"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_arm64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b8825b96e3c66c3d7adfaad01a5b792c14b809819bc37d6df7065c19e72444ff"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "72ebc45cca42beb7d44e039681fd9b4416b5d0e5a10b07aefa2039a5a516474c"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_arm64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e1aa8076660b272a1f17359812936c8ce05fdc8ec9ff551e51c177a0265c5cfd"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "dca11da1f6e0d812fc1b16d736577133c400b9b5a6967d87eed7d32572d5e516"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7410f0cdb7add06712a733d47174deb9b3f50814ccb7bc2d0f432fc6abf11b07"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_armv7.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "60d15f116b9b862f4907dba3de91a3afa229e995e39c08ca647f17f8e8aefaa5"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "1e5b4eab9832fd27ccd0fadbfed14c4189380894b79a6fe0f4df96c9224badfa"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_armv7.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "998de8507a45c43ff036332fa9e2c73cb45859aa8283d24fc55cf62ba3768c31"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c1660aabbe666508ec32ed9a9901631415c65d3cb1cc73a30a0a8f7df9bc2b21"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "50b264cf9a78c83e1d60089e98e7320f59caf2ed5b5ad2585445458e8090cf72"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mips64_hardfloat.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9e3ec84773a9ce50d2a5cf284b91c44f50a4e6cc6f2ee386260902aba2b0c03f"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mips64_hardfloat.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "339f73b26ee2083286e3bfff47418f6131d66ac33268995af01d429ccaa04bee"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mips64_hardfloat.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "bae8a910551ce99402c440cb6c38429330819426cb080c20cffd115c107f2659"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mips64_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d844755cb3414a07fe78e3bd76265a8ac383de5557b0b1f717418c2fade3e5e0"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mips64le_hardfloat.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ce78e1c0c3aa29575b4c3581b23d2514d9f2959d4eda77812c258e1e71327f31"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mips64le_hardfloat.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "376241437ba706377bf42c1aa22f45d44e1ae16a63cf305f85653e1900020be4"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mips64le_hardfloat.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a25918ec23bf7ff75073cd601cdff22522f566aaf1dcca8966e16fc585f26f33"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mips64le_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "55c61f561053b4e1ff3e36b67495daac83457f97a7b573d221ea800864b16a62"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mipsle_hardfloat.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "188db82a102429260eabeadcb4fb308c78eba2849660a9d36eea5bcc94095e0f"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mipsle_hardfloat.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c436b92d552abd838c28aaf362eb6279d1031609e49abb1a962e31d6b53d82e8"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mipsle_hardfloat.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f30952ef5dbbd72be55eb77fd92901bc0604605a78da5cb8204a3f48e0b7b635"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_mipsle_hardfloat.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0aed2a2357d8e23f20fd2fc144f203bf9cee09b494341a903b626a3cdcf21124"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_riscv64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7c30138c16e43c5fea23468c8107520ca65bd8eb505b4221b1065edc25b6ec97"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_riscv64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d30f50455a3184bcd5c02023ba7bcecc290fc274cb8af2038aa9e84ba41ac26c"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_riscv64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f78e44de78c31a33c19e0ab23aeede1c92f8d86029146a901a104c48372d55e0"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "ea17b435f48f611e1ce075c9f435977812ce6b9ec86b65e6694702a0eeae47e6"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_windows_386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2b79029ac333e55420114505bf9bfbbee77c459ebde397207c4d09a05f482a60"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "cb3e25df0db205d926691ee071eacd3c3a522b8d2ba99264ab7f7e6adebf3424"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2f42757a4f17b044ae01e236a6615a1089d87be12135dfeed0a33bbfe0b9f5ba"
+    },
+    {
+      "fileName": "shlogin_2024.10.21_windows_armv7.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9b761659253ed6907b40840d2e2cf25c436729e3aadc3887bea4aefb98ae3788"
+    }
+  ]
+}

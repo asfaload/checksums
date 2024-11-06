@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubectl-slice_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"a67b10bb6f3e0d2dc9223c384445698281ec11d2cac8f8922ef7ce90459b1f8e"},{"fileName":"kubectl-slice_darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"356d4e65381b6fed26b73270dfa167852a23ec8e381311540c850082e0658d8c"},{"fileName":"kubectl-slice_linux_arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"16ca57063988bc65cf255f80c686b229a2e126d10f92260d12f2ed3e8401cbc0"},{"fileName":"kubectl-slice_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2fc60a8df17fa32ae1754aa641ae5a7e5cd3a896b04939e05d18c7893595f569"},{"fileName":"kubectl-slice_linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"0cbb232ed37b4beca589e42e6753c4349b3152c3fa8842d9d01e70f5fe02bef5"},{"fileName":"kubectl-slice_windows_arm.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f6d4fb557aa8b14a060e8311efefa55893a7f0d3a6ffbd8925518b8a723b5116"},{"fileName":"kubectl-slice_windows_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"f16dfb39522c09a2c96a1657730f72a37ed111409ca70045e9aa1f90709ec3e0"},{"fileName":"kubectl-slice_windows_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"61f42e95b030f4da9a74d98c0405971c28b680ba8945d2ac51031d1fd04b3f68"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubectl-slice_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a67b10bb6f3e0d2dc9223c384445698281ec11d2cac8f8922ef7ce90459b1f8e"
+    },
+    {
+      "fileName": "kubectl-slice_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "356d4e65381b6fed26b73270dfa167852a23ec8e381311540c850082e0658d8c"
+    },
+    {
+      "fileName": "kubectl-slice_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "16ca57063988bc65cf255f80c686b229a2e126d10f92260d12f2ed3e8401cbc0"
+    },
+    {
+      "fileName": "kubectl-slice_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2fc60a8df17fa32ae1754aa641ae5a7e5cd3a896b04939e05d18c7893595f569"
+    },
+    {
+      "fileName": "kubectl-slice_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "0cbb232ed37b4beca589e42e6753c4349b3152c3fa8842d9d01e70f5fe02bef5"
+    },
+    {
+      "fileName": "kubectl-slice_windows_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f6d4fb557aa8b14a060e8311efefa55893a7f0d3a6ffbd8925518b8a723b5116"
+    },
+    {
+      "fileName": "kubectl-slice_windows_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f16dfb39522c09a2c96a1657730f72a37ed111409ca70045e9aa1f90709ec3e0"
+    },
+    {
+      "fileName": "kubectl-slice_windows_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "61f42e95b030f4da9a74d98c0405971c28b680ba8945d2ac51031d1fd04b3f68"
+    }
+  ]
+}

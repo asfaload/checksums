@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"nexrad-aws-notifier_0.0.8_linux_amd64.tar.gz","algo":"Sha256","source":"nexrad-aws-notifier_0.0.8_checksums.txt","hash":"3a6aea7ac23b1c9a3c46fdaf5fcfbc5500e516eaf4fa0e15e7738b26d889ecb1"},{"fileName":"nexrad-aws-notifier_0.0.8_linux_amd64v2.tar.gz","algo":"Sha256","source":"nexrad-aws-notifier_0.0.8_checksums.txt","hash":"c8acc6f8ea58ffc990ed98ecfc459352be0d5926f99678ba722ddd72893cb2f0"},{"fileName":"nexrad-aws-notifier_0.0.8_linux_amd64v3.tar.gz","algo":"Sha256","source":"nexrad-aws-notifier_0.0.8_checksums.txt","hash":"dc5a383cd39ed74d5c257e8846da85a36eb694b98079a08005dfbdbca934c1f9"},{"fileName":"nexrad-aws-notifier_0.0.8_linux_amd64v4.tar.gz","algo":"Sha256","source":"nexrad-aws-notifier_0.0.8_checksums.txt","hash":"738f958da0b7de62b3d1c5a713531142d5073110ffbc4027312f4b8832627b2a"},{"fileName":"nexrad-aws-notifier_0.0.8_linux_arm64.tar.gz","algo":"Sha256","source":"nexrad-aws-notifier_0.0.8_checksums.txt","hash":"dc005df906c6346f67e84eaa2db0a483e5e442c3b720ebad167f67779ac95311"},{"fileName":"nexrad-aws-notifier_0.0.8_linux_riscv64.tar.gz","algo":"Sha256","source":"nexrad-aws-notifier_0.0.8_checksums.txt","hash":"e04a7cbb800664c0aaa5a4031f937ab0a9bc862bbcf165071a4b45f5c490387c"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "nexrad-aws-notifier_0.0.8_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "nexrad-aws-notifier_0.0.8_checksums.txt",
+      "hash": "3a6aea7ac23b1c9a3c46fdaf5fcfbc5500e516eaf4fa0e15e7738b26d889ecb1"
+    },
+    {
+      "fileName": "nexrad-aws-notifier_0.0.8_linux_amd64v2.tar.gz",
+      "algo": "Sha256",
+      "source": "nexrad-aws-notifier_0.0.8_checksums.txt",
+      "hash": "c8acc6f8ea58ffc990ed98ecfc459352be0d5926f99678ba722ddd72893cb2f0"
+    },
+    {
+      "fileName": "nexrad-aws-notifier_0.0.8_linux_amd64v3.tar.gz",
+      "algo": "Sha256",
+      "source": "nexrad-aws-notifier_0.0.8_checksums.txt",
+      "hash": "dc5a383cd39ed74d5c257e8846da85a36eb694b98079a08005dfbdbca934c1f9"
+    },
+    {
+      "fileName": "nexrad-aws-notifier_0.0.8_linux_amd64v4.tar.gz",
+      "algo": "Sha256",
+      "source": "nexrad-aws-notifier_0.0.8_checksums.txt",
+      "hash": "738f958da0b7de62b3d1c5a713531142d5073110ffbc4027312f4b8832627b2a"
+    },
+    {
+      "fileName": "nexrad-aws-notifier_0.0.8_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "nexrad-aws-notifier_0.0.8_checksums.txt",
+      "hash": "dc005df906c6346f67e84eaa2db0a483e5e442c3b720ebad167f67779ac95311"
+    },
+    {
+      "fileName": "nexrad-aws-notifier_0.0.8_linux_riscv64.tar.gz",
+      "algo": "Sha256",
+      "source": "nexrad-aws-notifier_0.0.8_checksums.txt",
+      "hash": "e04a7cbb800664c0aaa5a4031f937ab0a9bc862bbcf165071a4b45f5c490387c"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"cmt_v0.3.0_linux_arm.tar.gz","algo":"Sha256","source":"cmt_0.3.0_checksums.txt","hash":"02d6aab4804cecb162d4439ebc87641d218b344b4a46dbec3d2b9c057a5908c6"},{"fileName":"cmt_v0.3.0_linux_arm64.tar.gz","algo":"Sha256","source":"cmt_0.3.0_checksums.txt","hash":"ea5b4406d58d142fef1ae7faf77254584630bf799a9860c9551befd85b29b36a"},{"fileName":"cmt_v0.3.0_linux_x86_64.tar.gz","algo":"Sha256","source":"cmt_0.3.0_checksums.txt","hash":"5d3d871f392a1b9b3473981f4a1061c5a334c742bb9a8d43b34c1c611a7b033c"},{"fileName":"cmt_v0.3.0_macos_arm64.tar.gz","algo":"Sha256","source":"cmt_0.3.0_checksums.txt","hash":"c8f83053cf5bbd2dcb9b5caa4a2d580e5739775f9493c2875cbbcf0d3dff3968"},{"fileName":"cmt_v0.3.0_macos_x86_64.tar.gz","algo":"Sha256","source":"cmt_0.3.0_checksums.txt","hash":"cab9cccc775eb6cbae7cb4099b606105dbbec561ef0fb06502229215b8c76efa"},{"fileName":"cmt_v0.3.0_win_arm.zip","algo":"Sha256","source":"cmt_0.3.0_checksums.txt","hash":"c1c79d9f7b086f7d4758897dc0d94d22510f7825a794393e4f81c0a1cdef8b9d"},{"fileName":"cmt_v0.3.0_win_arm64.zip","algo":"Sha256","source":"cmt_0.3.0_checksums.txt","hash":"dd1aeba805f103f9d98227092fc5907d4f768ca46c6ff64b1cccd1f7efcfd3da"},{"fileName":"cmt_v0.3.0_win_x86_64.zip","algo":"Sha256","source":"cmt_0.3.0_checksums.txt","hash":"ded2438d37668d029404a69fa700eb72792af31c2f10d1bc94dd30d57f0ce18a"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cmt_v0.3.0_linux_arm.tar.gz",
+      "algo": "Sha256",
+      "source": "cmt_0.3.0_checksums.txt",
+      "hash": "02d6aab4804cecb162d4439ebc87641d218b344b4a46dbec3d2b9c057a5908c6"
+    },
+    {
+      "fileName": "cmt_v0.3.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cmt_0.3.0_checksums.txt",
+      "hash": "ea5b4406d58d142fef1ae7faf77254584630bf799a9860c9551befd85b29b36a"
+    },
+    {
+      "fileName": "cmt_v0.3.0_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "cmt_0.3.0_checksums.txt",
+      "hash": "5d3d871f392a1b9b3473981f4a1061c5a334c742bb9a8d43b34c1c611a7b033c"
+    },
+    {
+      "fileName": "cmt_v0.3.0_macos_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "cmt_0.3.0_checksums.txt",
+      "hash": "c8f83053cf5bbd2dcb9b5caa4a2d580e5739775f9493c2875cbbcf0d3dff3968"
+    },
+    {
+      "fileName": "cmt_v0.3.0_macos_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "cmt_0.3.0_checksums.txt",
+      "hash": "cab9cccc775eb6cbae7cb4099b606105dbbec561ef0fb06502229215b8c76efa"
+    },
+    {
+      "fileName": "cmt_v0.3.0_win_arm.zip",
+      "algo": "Sha256",
+      "source": "cmt_0.3.0_checksums.txt",
+      "hash": "c1c79d9f7b086f7d4758897dc0d94d22510f7825a794393e4f81c0a1cdef8b9d"
+    },
+    {
+      "fileName": "cmt_v0.3.0_win_arm64.zip",
+      "algo": "Sha256",
+      "source": "cmt_0.3.0_checksums.txt",
+      "hash": "dd1aeba805f103f9d98227092fc5907d4f768ca46c6ff64b1cccd1f7efcfd3da"
+    },
+    {
+      "fileName": "cmt_v0.3.0_win_x86_64.zip",
+      "algo": "Sha256",
+      "source": "cmt_0.3.0_checksums.txt",
+      "hash": "ded2438d37668d029404a69fa700eb72792af31c2f10d1bc94dd30d57f0ce18a"
+    }
+  ]
+}

@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"addax-4.2.0.tar.gz","algo":"Sha256","source":"addax-4.2.0.tar.gz.sha256sum.asc","hash":"4a133bcb0f1dca47079dfd9b6a2271f6dad0a1b7d0ae474b84c64e93d30fce64"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "addax-4.2.0.tar.gz",
+      "algo": "Sha256",
+      "source": "addax-4.2.0.tar.gz.sha256sum.asc",
+      "hash": "4a133bcb0f1dca47079dfd9b6a2271f6dad0a1b7d0ae474b84c64e93d30fce64"
+    }
+  ]
+}

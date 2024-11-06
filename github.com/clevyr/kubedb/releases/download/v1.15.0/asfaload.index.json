@@ -1,1 +1,85 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"kubedb_1.15.0_darwin_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4d9a910bca8a94fa6508b689c59e7f1b34d0b9535aa436d455c2f193ade68b09"},{"fileName":"kubedb_1.15.0_darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"d936d823383bdccd855036b23b5e093b732b98a21f043473c371d6449f759e06"},{"fileName":"kubedb_1.15.0_linux_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"846bc75f11bfb8ca325eb967362ad65393a4abd1928540c30f4d6d2ef0e2d884"},{"fileName":"kubedb_1.15.0_linux_amd64.rpm","algo":"Sha256","source":"checksums.txt","hash":"623ef31012f1b3d2156ce7a4f47e3af49f0d4a13abcf3ffcd6a720462f36da0c"},{"fileName":"kubedb_1.15.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"6c22d1262ac89678837d55d9402f511bd4459596133f2e88fbca285165b0b35b"},{"fileName":"kubedb_1.15.0_linux_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"33813145ebd8e18d53cb86e6612166e247eff19b9ae5b86e3f4227624cd67142"},{"fileName":"kubedb_1.15.0_linux_arm64.rpm","algo":"Sha256","source":"checksums.txt","hash":"e5ddb5973eb7f816492e9b0933de1429031f7f4f5f688ae4417c2c7f1c568f15"},{"fileName":"kubedb_1.15.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"c4ca8464819c0c4922052608c7d1c77aed533540898a78b2d5434c539c8063a2"},{"fileName":"kubedb_1.15.0_linux_armv7.deb","algo":"Sha256","source":"checksums.txt","hash":"03f923bdc3341551f1f238f928926471d286ac6acee1e5d7bae13241b93e258c"},{"fileName":"kubedb_1.15.0_linux_armv7.rpm","algo":"Sha256","source":"checksums.txt","hash":"b1d84a97e72d8477bcabcf7efe3782ffe2c67c65d5ab3d519c46f1a544414193"},{"fileName":"kubedb_1.15.0_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"48318343952101af51923666c5657e1ce266e6da046b26ad7968db8cdcab11f0"},{"fileName":"kubedb_1.15.0_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"b66b28370fe2517942ca24335dcea476e1d293fe0151e6f8430a4a9a492332b2"},{"fileName":"kubedb_1.15.0_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"4be6fdb1136ba73fecaa0d3aa239bca8ba0d24ffb5fe3389ab505727b75081a8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "kubedb_1.15.0_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4d9a910bca8a94fa6508b689c59e7f1b34d0b9535aa436d455c2f193ade68b09"
+    },
+    {
+      "fileName": "kubedb_1.15.0_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d936d823383bdccd855036b23b5e093b732b98a21f043473c371d6449f759e06"
+    },
+    {
+      "fileName": "kubedb_1.15.0_linux_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "846bc75f11bfb8ca325eb967362ad65393a4abd1928540c30f4d6d2ef0e2d884"
+    },
+    {
+      "fileName": "kubedb_1.15.0_linux_amd64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "623ef31012f1b3d2156ce7a4f47e3af49f0d4a13abcf3ffcd6a720462f36da0c"
+    },
+    {
+      "fileName": "kubedb_1.15.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "6c22d1262ac89678837d55d9402f511bd4459596133f2e88fbca285165b0b35b"
+    },
+    {
+      "fileName": "kubedb_1.15.0_linux_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "33813145ebd8e18d53cb86e6612166e247eff19b9ae5b86e3f4227624cd67142"
+    },
+    {
+      "fileName": "kubedb_1.15.0_linux_arm64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "e5ddb5973eb7f816492e9b0933de1429031f7f4f5f688ae4417c2c7f1c568f15"
+    },
+    {
+      "fileName": "kubedb_1.15.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c4ca8464819c0c4922052608c7d1c77aed533540898a78b2d5434c539c8063a2"
+    },
+    {
+      "fileName": "kubedb_1.15.0_linux_armv7.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "03f923bdc3341551f1f238f928926471d286ac6acee1e5d7bae13241b93e258c"
+    },
+    {
+      "fileName": "kubedb_1.15.0_linux_armv7.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b1d84a97e72d8477bcabcf7efe3782ffe2c67c65d5ab3d519c46f1a544414193"
+    },
+    {
+      "fileName": "kubedb_1.15.0_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "48318343952101af51923666c5657e1ce266e6da046b26ad7968db8cdcab11f0"
+    },
+    {
+      "fileName": "kubedb_1.15.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b66b28370fe2517942ca24335dcea476e1d293fe0151e6f8430a4a9a492332b2"
+    },
+    {
+      "fileName": "kubedb_1.15.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4be6fdb1136ba73fecaa0d3aa239bca8ba0d24ffb5fe3389ab505727b75081a8"
+    }
+  ]
+}

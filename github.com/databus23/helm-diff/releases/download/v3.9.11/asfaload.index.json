@@ -1,1 +1,55 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"helm-diff-freebsd-amd64.tgz","algo":"Sha256","source":"helm-diff_3.9.11_checksums.txt","hash":"9e5992124f39cbafd9af266fdd2e39d1b87e9c4e59480a4a81eb888a230d80ab"},{"fileName":"helm-diff-freebsd-arm64.tgz","algo":"Sha256","source":"helm-diff_3.9.11_checksums.txt","hash":"81e829afcd4f2b882053ce8bba3d526f1ea8a53e8061b7018e8a56e74aa7534d"},{"fileName":"helm-diff-linux-amd64.tgz","algo":"Sha256","source":"helm-diff_3.9.11_checksums.txt","hash":"55c6c8a76ee8f8efdf137dca97cddb5cd6f69bed1e380590a861a3b77f12713f"},{"fileName":"helm-diff-linux-arm64.tgz","algo":"Sha256","source":"helm-diff_3.9.11_checksums.txt","hash":"a3f3d2f77de710b5eb5de6fc29ac2eabce49eddd1b19a5cb3fe5f1789ba12883"},{"fileName":"helm-diff-macos-amd64.tgz","algo":"Sha256","source":"helm-diff_3.9.11_checksums.txt","hash":"830931be73d4956e11a9e6888ad182a24918249555fb50a20b98d8289e420f3c"},{"fileName":"helm-diff-macos-arm64.tgz","algo":"Sha256","source":"helm-diff_3.9.11_checksums.txt","hash":"a8470643eed4546f0577ba89428f6b2fe363d2d6bd729370a1533d99833ae1e0"},{"fileName":"helm-diff-windows-amd64.tgz","algo":"Sha256","source":"helm-diff_3.9.11_checksums.txt","hash":"e092f56c4a37d1517c8f68b1588c916a186cc76344a64b1c9076d9d9a74463bc"},{"fileName":"helm-diff-windows-arm64.tgz","algo":"Sha256","source":"helm-diff_3.9.11_checksums.txt","hash":"ae42f39bb4d75a41a166adb54bf8a5f2922430cb813101346a7b62fca185ec05"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "helm-diff-freebsd-amd64.tgz",
+      "algo": "Sha256",
+      "source": "helm-diff_3.9.11_checksums.txt",
+      "hash": "9e5992124f39cbafd9af266fdd2e39d1b87e9c4e59480a4a81eb888a230d80ab"
+    },
+    {
+      "fileName": "helm-diff-freebsd-arm64.tgz",
+      "algo": "Sha256",
+      "source": "helm-diff_3.9.11_checksums.txt",
+      "hash": "81e829afcd4f2b882053ce8bba3d526f1ea8a53e8061b7018e8a56e74aa7534d"
+    },
+    {
+      "fileName": "helm-diff-linux-amd64.tgz",
+      "algo": "Sha256",
+      "source": "helm-diff_3.9.11_checksums.txt",
+      "hash": "55c6c8a76ee8f8efdf137dca97cddb5cd6f69bed1e380590a861a3b77f12713f"
+    },
+    {
+      "fileName": "helm-diff-linux-arm64.tgz",
+      "algo": "Sha256",
+      "source": "helm-diff_3.9.11_checksums.txt",
+      "hash": "a3f3d2f77de710b5eb5de6fc29ac2eabce49eddd1b19a5cb3fe5f1789ba12883"
+    },
+    {
+      "fileName": "helm-diff-macos-amd64.tgz",
+      "algo": "Sha256",
+      "source": "helm-diff_3.9.11_checksums.txt",
+      "hash": "830931be73d4956e11a9e6888ad182a24918249555fb50a20b98d8289e420f3c"
+    },
+    {
+      "fileName": "helm-diff-macos-arm64.tgz",
+      "algo": "Sha256",
+      "source": "helm-diff_3.9.11_checksums.txt",
+      "hash": "a8470643eed4546f0577ba89428f6b2fe363d2d6bd729370a1533d99833ae1e0"
+    },
+    {
+      "fileName": "helm-diff-windows-amd64.tgz",
+      "algo": "Sha256",
+      "source": "helm-diff_3.9.11_checksums.txt",
+      "hash": "e092f56c4a37d1517c8f68b1588c916a186cc76344a64b1c9076d9d9a74463bc"
+    },
+    {
+      "fileName": "helm-diff-windows-arm64.tgz",
+      "algo": "Sha256",
+      "source": "helm-diff_3.9.11_checksums.txt",
+      "hash": "ae42f39bb4d75a41a166adb54bf8a5f2922430cb813101346a7b62fca185ec05"
+    }
+  ]
+}

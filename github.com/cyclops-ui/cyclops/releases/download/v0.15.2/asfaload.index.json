@@ -1,1 +1,169 @@
-{"mirroredOn":"2024-11-05T15:44:35+00:00","publishedOn":"2024-11-05T16:20:57.1869014+00:00","version":1,"publishedFiles":[{"fileName":"cyctl_darwin_amd64_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"5c0f4e5d29760571939e210c6c3ec097a4ad4418ddc7ba8cf316a6123b976447"},{"fileName":"cyctl_darwin_arm64_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"13e2c8581c1acab8b28b45187ff552f52e71008f40fbae4705fd1beae912a014"},{"fileName":"cyctl_freebsd_amd64_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"3de8596557c36d6292d3c13a520627978b11ee3905d2b241ff523a4aa3a4d7ef"},{"fileName":"cyctl_freebsd_arm64_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"71b3b87990f5a512bb4e3b6f41c04c46e0491bcf693376eb8f8da3c030621438"},{"fileName":"cyctl_freebsd_arm_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"a45556845c98cf8fa9f188ff22656b495184ac331df5605fe28257ea30c6d795"},{"fileName":"cyctl_linux_amd64_v0.15.2.apk","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"7fee1ad8a0e66953699f69c972d70eb6efdf926804d8f939a1959e8795b56519"},{"fileName":"cyctl_linux_amd64_v0.15.2.deb","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"76be82969561aa6379a136b1fa18fd8b475cf0f4a587641d899d6c28b645fa9a"},{"fileName":"cyctl_linux_amd64_v0.15.2.rpm","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"f41888fbbc0ef97cf7bfc85e6f5c3d1d59b4e81370534e25e410bffb3c6b16c4"},{"fileName":"cyctl_linux_amd64_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"0a4e07055c1121a13ee6560323d69b20814f213a8b82301d913fd23d749031f8"},{"fileName":"cyctl_linux_arm64_v0.15.2.apk","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"44464c6d636dc99bc67b2ba04d1102c17893f8d53faf623e5dd3acfb2dcb5b02"},{"fileName":"cyctl_linux_arm64_v0.15.2.deb","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"e40b2f4880161bb53bf1ed66271eeedf69269f452b98adc5e82eff2a620112b4"},{"fileName":"cyctl_linux_arm64_v0.15.2.rpm","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"22bf78ff6ac60b817a08d5efc74cfed21fa1c94f30e2d660830e0629abbe6b07"},{"fileName":"cyctl_linux_arm64_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"b94686ea265b0bfda2d07ac5b5cddab0bdb98a33ef58acd1811aa17bac887674"},{"fileName":"cyctl_linux_arm_v0.15.2.apk","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"99311662e11cdb836c6f664d4cfc4a2c99e3d01db4ac48542400beedb3455c56"},{"fileName":"cyctl_linux_arm_v0.15.2.deb","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"58823906252a82409184e3f3c8e6f986a9f1e999b5aaec1acd5a2f1859f389d0"},{"fileName":"cyctl_linux_arm_v0.15.2.rpm","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"7ed6cbe3c8538076d9bbe8b1d07b3bf2055319c730330768bda8001478aaf819"},{"fileName":"cyctl_linux_arm_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"fd93d7950631f818ac048e4f9b61c840e0c28d63da627229273365d45cfcc84a"},{"fileName":"cyctl_linux_ppc64le_v0.15.2.apk","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"c0adac08a0c3f4d3f8d6e9507f0e92d0a2db10d78c8980deb0dca3daa55a752c"},{"fileName":"cyctl_linux_ppc64le_v0.15.2.deb","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"3183f81714cf614e1eb84fbf2f96d33690e9cdc82818431227039515d391b207"},{"fileName":"cyctl_linux_ppc64le_v0.15.2.rpm","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"30fab5cb4104e8f8113ff87339dcc57f7671deea30089c2d205e5f5c4f3ff147"},{"fileName":"cyctl_linux_ppc64le_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"1be935b99706f753e85784be42323547c130d7b97900d32fdc6cbdd516800601"},{"fileName":"cyctl_linux_s390x_v0.15.2.apk","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"aa5b919c9ecf3d8b9a9fbed2a24515df361aac3611ca24c868028d6a12b91fae"},{"fileName":"cyctl_linux_s390x_v0.15.2.deb","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"165f9d1ae75fb4a776565fabbc9622d59b17c2cac9d807a72ee94523dda7309c"},{"fileName":"cyctl_linux_s390x_v0.15.2.rpm","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"731925162ec1f0fe84dc66cc9a1a323851e6436426f9d081646b7ed2a1399656"},{"fileName":"cyctl_linux_s390x_v0.15.2.tar.gz","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"857ec4bcd002100361347cb362aa4b7344b5c65a34f3d95d37a7aa5f3e4405a5"},{"fileName":"cyctl_windows_amd64_v0.15.2.zip","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"ef8bbaf1d023ec499e64e9d571b51ed6efa7cbc5a2165a4f791c5579e25954c1"},{"fileName":"cyctl_windows_arm64_v0.15.2.zip","algo":"Sha256","source":"cyctl_checksums.sha256","hash":"c50ed246d4a1908983b42a2f712a6146ff0d819bb4e3948bb55d0e558b316289"}]}
+{
+  "mirroredOn": "2024-11-05T16:20:57.1869014+00:00",
+  "publishedOn": "2024-11-05T15:44:35+00:00",
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "cyctl_darwin_amd64_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "5c0f4e5d29760571939e210c6c3ec097a4ad4418ddc7ba8cf316a6123b976447"
+    },
+    {
+      "fileName": "cyctl_darwin_arm64_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "13e2c8581c1acab8b28b45187ff552f52e71008f40fbae4705fd1beae912a014"
+    },
+    {
+      "fileName": "cyctl_freebsd_amd64_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "3de8596557c36d6292d3c13a520627978b11ee3905d2b241ff523a4aa3a4d7ef"
+    },
+    {
+      "fileName": "cyctl_freebsd_arm64_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "71b3b87990f5a512bb4e3b6f41c04c46e0491bcf693376eb8f8da3c030621438"
+    },
+    {
+      "fileName": "cyctl_freebsd_arm_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "a45556845c98cf8fa9f188ff22656b495184ac331df5605fe28257ea30c6d795"
+    },
+    {
+      "fileName": "cyctl_linux_amd64_v0.15.2.apk",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "7fee1ad8a0e66953699f69c972d70eb6efdf926804d8f939a1959e8795b56519"
+    },
+    {
+      "fileName": "cyctl_linux_amd64_v0.15.2.deb",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "76be82969561aa6379a136b1fa18fd8b475cf0f4a587641d899d6c28b645fa9a"
+    },
+    {
+      "fileName": "cyctl_linux_amd64_v0.15.2.rpm",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "f41888fbbc0ef97cf7bfc85e6f5c3d1d59b4e81370534e25e410bffb3c6b16c4"
+    },
+    {
+      "fileName": "cyctl_linux_amd64_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "0a4e07055c1121a13ee6560323d69b20814f213a8b82301d913fd23d749031f8"
+    },
+    {
+      "fileName": "cyctl_linux_arm64_v0.15.2.apk",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "44464c6d636dc99bc67b2ba04d1102c17893f8d53faf623e5dd3acfb2dcb5b02"
+    },
+    {
+      "fileName": "cyctl_linux_arm64_v0.15.2.deb",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "e40b2f4880161bb53bf1ed66271eeedf69269f452b98adc5e82eff2a620112b4"
+    },
+    {
+      "fileName": "cyctl_linux_arm64_v0.15.2.rpm",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "22bf78ff6ac60b817a08d5efc74cfed21fa1c94f30e2d660830e0629abbe6b07"
+    },
+    {
+      "fileName": "cyctl_linux_arm64_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "b94686ea265b0bfda2d07ac5b5cddab0bdb98a33ef58acd1811aa17bac887674"
+    },
+    {
+      "fileName": "cyctl_linux_arm_v0.15.2.apk",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "99311662e11cdb836c6f664d4cfc4a2c99e3d01db4ac48542400beedb3455c56"
+    },
+    {
+      "fileName": "cyctl_linux_arm_v0.15.2.deb",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "58823906252a82409184e3f3c8e6f986a9f1e999b5aaec1acd5a2f1859f389d0"
+    },
+    {
+      "fileName": "cyctl_linux_arm_v0.15.2.rpm",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "7ed6cbe3c8538076d9bbe8b1d07b3bf2055319c730330768bda8001478aaf819"
+    },
+    {
+      "fileName": "cyctl_linux_arm_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "fd93d7950631f818ac048e4f9b61c840e0c28d63da627229273365d45cfcc84a"
+    },
+    {
+      "fileName": "cyctl_linux_ppc64le_v0.15.2.apk",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "c0adac08a0c3f4d3f8d6e9507f0e92d0a2db10d78c8980deb0dca3daa55a752c"
+    },
+    {
+      "fileName": "cyctl_linux_ppc64le_v0.15.2.deb",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "3183f81714cf614e1eb84fbf2f96d33690e9cdc82818431227039515d391b207"
+    },
+    {
+      "fileName": "cyctl_linux_ppc64le_v0.15.2.rpm",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "30fab5cb4104e8f8113ff87339dcc57f7671deea30089c2d205e5f5c4f3ff147"
+    },
+    {
+      "fileName": "cyctl_linux_ppc64le_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "1be935b99706f753e85784be42323547c130d7b97900d32fdc6cbdd516800601"
+    },
+    {
+      "fileName": "cyctl_linux_s390x_v0.15.2.apk",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "aa5b919c9ecf3d8b9a9fbed2a24515df361aac3611ca24c868028d6a12b91fae"
+    },
+    {
+      "fileName": "cyctl_linux_s390x_v0.15.2.deb",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "165f9d1ae75fb4a776565fabbc9622d59b17c2cac9d807a72ee94523dda7309c"
+    },
+    {
+      "fileName": "cyctl_linux_s390x_v0.15.2.rpm",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "731925162ec1f0fe84dc66cc9a1a323851e6436426f9d081646b7ed2a1399656"
+    },
+    {
+      "fileName": "cyctl_linux_s390x_v0.15.2.tar.gz",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "857ec4bcd002100361347cb362aa4b7344b5c65a34f3d95d37a7aa5f3e4405a5"
+    },
+    {
+      "fileName": "cyctl_windows_amd64_v0.15.2.zip",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "ef8bbaf1d023ec499e64e9d571b51ed6efa7cbc5a2165a4f791c5579e25954c1"
+    },
+    {
+      "fileName": "cyctl_windows_arm64_v0.15.2.zip",
+      "algo": "Sha256",
+      "source": "cyctl_checksums.sha256",
+      "hash": "c50ed246d4a1908983b42a2f712a6146ff0d819bb4e3948bb55d0e558b316289"
+    }
+  ]
+}

@@ -1,1 +1,13 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"aqua-registry-updater_linux_amd64.tar.gz","algo":"Sha256","source":"aqua-registry-updater_0.1.4_checksums.txt","hash":"f33cd14353963a754405e332be33255612aeab8e8b483ffe8d77bf13e5060b83"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "aqua-registry-updater_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "aqua-registry-updater_0.1.4_checksums.txt",
+      "hash": "f33cd14353963a754405e332be33255612aeab8e8b483ffe8d77bf13e5060b83"
+    }
+  ]
+}

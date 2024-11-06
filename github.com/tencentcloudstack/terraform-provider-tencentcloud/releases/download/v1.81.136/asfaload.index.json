@@ -1,1 +1,91 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"terraform-provider-tencentcloud_1.81.136_darwin_amd64.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"167b60ed7e4ea4b088c62786e44bb30071ce9a4c6c61e0993a2a3f830675b3a3"},{"fileName":"terraform-provider-tencentcloud_1.81.136_darwin_arm64.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"169bcf83b39f6d28cc52e4c988816b387c1960f0ac77aede431f1fbba14acfbe"},{"fileName":"terraform-provider-tencentcloud_1.81.136_linux_arm64.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"19d98d1614507eb96995e3596940756c6a0a6897b00044c4f773807f844ed470"},{"fileName":"terraform-provider-tencentcloud_1.81.136_linux_386.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"1f0dd8b334f70b6ce76f529761e450cc08a85296e149d4932e73a774910a40c4"},{"fileName":"terraform-provider-tencentcloud_1.81.136_freebsd_386.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"299f60f5f71b59d3670a682d9d09503e18e8562cb720cec879230dc84ece1971"},{"fileName":"terraform-provider-tencentcloud_1.81.136_linux_arm.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"2abc05b6bf05148f190b312d07cb3c2c9421ced81c2fb3ab1799943130b6ffe8"},{"fileName":"terraform-provider-tencentcloud_1.81.136_windows_arm64.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"3af92fd231995c3c4c5f22bfdd02b7a3e681308de1a85e97ec5357d9ce107dcb"},{"fileName":"terraform-provider-tencentcloud_1.81.136_freebsd_arm64.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"56a2293e3cc46c0ca0a43fb467c00d47f150c8c1b31e3644120efeab37a4f7d5"},{"fileName":"terraform-provider-tencentcloud_1.81.136_windows_arm.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"8039ff618e8f173b7aa3c727cd4da307e5265debce636b3b2ec10bcefad054e1"},{"fileName":"terraform-provider-tencentcloud_1.81.136_windows_amd64.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"ae2951d9a79d5226d329424839116ad45512198eaffd25b5c006286e5a79b315"},{"fileName":"terraform-provider-tencentcloud_1.81.136_windows_386.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"c10973be53aa5ecaa174862d54e498d111761da4cf5ae94ad09e934967337616"},{"fileName":"terraform-provider-tencentcloud_1.81.136_freebsd_arm.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"c22f10c2b8cf72eeb1bb88739070a6fa5573899034fa897db7ce140a5aa074dc"},{"fileName":"terraform-provider-tencentcloud_1.81.136_freebsd_amd64.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"cee5cd3aefd915e930f060af22a770b2a9e95a7149cf7b8e479c02a68b7fddad"},{"fileName":"terraform-provider-tencentcloud_1.81.136_linux_amd64.zip","algo":"Sha256","source":"terraform-provider-tencentcloud_1.81.136_SHA256SUMS","hash":"f52c52042bdd1d0a26be2f5d3492563b14d02c8c654e1e5bb35ad379b0a76ff0"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_darwin_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "167b60ed7e4ea4b088c62786e44bb30071ce9a4c6c61e0993a2a3f830675b3a3"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_darwin_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "169bcf83b39f6d28cc52e4c988816b387c1960f0ac77aede431f1fbba14acfbe"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_linux_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "19d98d1614507eb96995e3596940756c6a0a6897b00044c4f773807f844ed470"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_linux_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "1f0dd8b334f70b6ce76f529761e450cc08a85296e149d4932e73a774910a40c4"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_freebsd_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "299f60f5f71b59d3670a682d9d09503e18e8562cb720cec879230dc84ece1971"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_linux_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "2abc05b6bf05148f190b312d07cb3c2c9421ced81c2fb3ab1799943130b6ffe8"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "3af92fd231995c3c4c5f22bfdd02b7a3e681308de1a85e97ec5357d9ce107dcb"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_freebsd_arm64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "56a2293e3cc46c0ca0a43fb467c00d47f150c8c1b31e3644120efeab37a4f7d5"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_windows_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "8039ff618e8f173b7aa3c727cd4da307e5265debce636b3b2ec10bcefad054e1"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "ae2951d9a79d5226d329424839116ad45512198eaffd25b5c006286e5a79b315"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_windows_386.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "c10973be53aa5ecaa174862d54e498d111761da4cf5ae94ad09e934967337616"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_freebsd_arm.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "c22f10c2b8cf72eeb1bb88739070a6fa5573899034fa897db7ce140a5aa074dc"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_freebsd_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "cee5cd3aefd915e930f060af22a770b2a9e95a7149cf7b8e479c02a68b7fddad"
+    },
+    {
+      "fileName": "terraform-provider-tencentcloud_1.81.136_linux_amd64.zip",
+      "algo": "Sha256",
+      "source": "terraform-provider-tencentcloud_1.81.136_SHA256SUMS",
+      "hash": "f52c52042bdd1d0a26be2f5d3492563b14d02c8c654e1e5bb35ad379b0a76ff0"
+    }
+  ]
+}

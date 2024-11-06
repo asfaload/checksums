@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"avalanche-cli_1.7.5_darwin_amd64.tar.gz","algo":"Sha256","source":"avalanche-cli_1.7.5_checksums.txt","hash":"c6e2845a0e00830bf94b87018ddb93d666bf2c09ef367160f46995d11a489832"},{"fileName":"avalanche-cli_1.7.5_darwin_arm64.tar.gz","algo":"Sha256","source":"avalanche-cli_1.7.5_checksums.txt","hash":"28c6c94540aa84aec80aa77efed0ba77fd50f356a0cd5e3871e651614d57e7f9"},{"fileName":"avalanche-cli_1.7.5_linux_amd64.tar.gz","algo":"Sha256","source":"avalanche-cli_1.7.5_checksums.txt","hash":"b704404cd879d36827e69a14b2ef976f4bfaec909d0aee5392bcd34a11509bd1"},{"fileName":"avalanche-cli_1.7.5_linux_arm64.tar.gz","algo":"Sha256","source":"avalanche-cli_1.7.5_checksums.txt","hash":"3b7c508b986ba452aff80323e9a9a862d6920e0a87afe05750dfac45f1d6c3e0"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "avalanche-cli_1.7.5_darwin_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "avalanche-cli_1.7.5_checksums.txt",
+      "hash": "c6e2845a0e00830bf94b87018ddb93d666bf2c09ef367160f46995d11a489832"
+    },
+    {
+      "fileName": "avalanche-cli_1.7.5_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "avalanche-cli_1.7.5_checksums.txt",
+      "hash": "28c6c94540aa84aec80aa77efed0ba77fd50f356a0cd5e3871e651614d57e7f9"
+    },
+    {
+      "fileName": "avalanche-cli_1.7.5_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "avalanche-cli_1.7.5_checksums.txt",
+      "hash": "b704404cd879d36827e69a14b2ef976f4bfaec909d0aee5392bcd34a11509bd1"
+    },
+    {
+      "fileName": "avalanche-cli_1.7.5_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "avalanche-cli_1.7.5_checksums.txt",
+      "hash": "3b7c508b986ba452aff80323e9a9a862d6920e0a87afe05750dfac45f1d6c3e0"
+    }
+  ]
+}

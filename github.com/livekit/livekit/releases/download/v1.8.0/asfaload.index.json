@@ -1,1 +1,43 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"livekit_1.8.0_linux_amd64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"7ccd6c865a8c81909a1be63639ae0e6e80dff5e0d12cd1fffff3dadb53167cca"},{"fileName":"livekit_1.8.0_linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"b9246a7e876a37f659f17c151acc82f665d5e173c1fa4ac937f222d944b2db0b"},{"fileName":"livekit_1.8.0_linux_armv7.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"76e677080fe176b7a07d1280b08e72b942d65c303d36aa89979da6293631b039"},{"fileName":"livekit_1.8.0_windows_amd64.zip","algo":"Sha256","source":"checksums.txt","hash":"414377f02d0c3775aca4941dd39ac05e5cb47d72c9de94d90de66ddc22b2d08f"},{"fileName":"livekit_1.8.0_windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"24ccd7097c1beee95ae45cd67c8584c6add6e0f05e10091b1d9afee2e2175d63"},{"fileName":"livekit_1.8.0_windows_armv7.zip","algo":"Sha256","source":"checksums.txt","hash":"b402c676bb51e87e0c6916bea9684d99a8aa2e9187bb0d9ad1ec509a090c3cdf"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "livekit_1.8.0_linux_amd64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "7ccd6c865a8c81909a1be63639ae0e6e80dff5e0d12cd1fffff3dadb53167cca"
+    },
+    {
+      "fileName": "livekit_1.8.0_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b9246a7e876a37f659f17c151acc82f665d5e173c1fa4ac937f222d944b2db0b"
+    },
+    {
+      "fileName": "livekit_1.8.0_linux_armv7.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "76e677080fe176b7a07d1280b08e72b942d65c303d36aa89979da6293631b039"
+    },
+    {
+      "fileName": "livekit_1.8.0_windows_amd64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "414377f02d0c3775aca4941dd39ac05e5cb47d72c9de94d90de66ddc22b2d08f"
+    },
+    {
+      "fileName": "livekit_1.8.0_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "24ccd7097c1beee95ae45cd67c8584c6add6e0f05e10091b1d9afee2e2175d63"
+    },
+    {
+      "fileName": "livekit_1.8.0_windows_armv7.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b402c676bb51e87e0c6916bea9684d99a8aa2e9187bb0d9ad1ec509a090c3cdf"
+    }
+  ]
+}

@@ -1,1 +1,127 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"overmind-cli-1.5.3-1-aarch64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"123eacb8ff9b087bbdab04f8c0626db3a87387f6562108a6b4ee6d279468a16b"},{"fileName":"overmind-cli-1.5.3-1-i686.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"831e9d34473ab2079eb340673a225703b174bfabcc0692af1b9bae1731e01492"},{"fileName":"overmind-cli-1.5.3-1-x86_64.pkg.tar.zst","algo":"Sha256","source":"checksums.txt","hash":"06d70cd467a780889a00cfc606da3fbaa17d91a4b15e7b0f970c737631e2ac63"},{"fileName":"overmind-cli-1.5.3-1.aarch64.rpm","algo":"Sha256","source":"checksums.txt","hash":"a4cb9c0771ff5ef1501c2a51adee4d3305ed77015fab9e51ef6ed9f14772ed39"},{"fileName":"overmind-cli-1.5.3-1.i386.rpm","algo":"Sha256","source":"checksums.txt","hash":"3cc05b092cebc1277558e071a915879465a69fe50a37dfa36b893d972d7440fe"},{"fileName":"overmind-cli-1.5.3-1.x86_64.rpm","algo":"Sha256","source":"checksums.txt","hash":"273080eab67dff3f07b8b393850ebb6a0d8a4c7ef8cb55f4d8afe4883319c3eb"},{"fileName":"overmind-cli_1.5.3_aarch64.apk","algo":"Sha256","source":"checksums.txt","hash":"97852a99cd0081d7de06d873e903d28e5fc68d938ce0a122437aa021bff7feb6"},{"fileName":"overmind-cli_1.5.3_amd64.deb","algo":"Sha256","source":"checksums.txt","hash":"d5eb43433c1739da4e38cdfad3571b08a57ca382231e16fdf1a0bafa0847f3b5"},{"fileName":"overmind-cli_1.5.3_arm64.deb","algo":"Sha256","source":"checksums.txt","hash":"afa3c25606920197d2159742c16546760f331ad2f8a6f7046d0a5fc928493083"},{"fileName":"overmind-cli_1.5.3_i386.deb","algo":"Sha256","source":"checksums.txt","hash":"f6e25773033ffa8ada78075e96a4258f765712010605ed75dea5b83d20408ff6"},{"fileName":"overmind-cli_1.5.3_x86.apk","algo":"Sha256","source":"checksums.txt","hash":"9dd9744f5daac2f04cc6e21f20b6db0fc148f9ef0346de6029b467f9de314c7f"},{"fileName":"overmind-cli_1.5.3_x86_64.apk","algo":"Sha256","source":"checksums.txt","hash":"5cd38b2bb97732bef862b84a7583b44c725c9c128d2753a6d9c40391123eefec"},{"fileName":"overmind_cli_1.5.3_Darwin_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"92ff9d47af3ce5b66ad9badbb215be2b3bb59d11184f8c837607017c19579ba3"},{"fileName":"overmind_cli_1.5.3_Darwin_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"2e2282f8ea90010c303e4ad77c0e6f0969157c8aa59ad952f7a3e480e2a34f24"},{"fileName":"overmind_cli_1.5.3_Linux_arm64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"4dea97d51314f03e4f8f106c13c926c0d24d5b9462f69072db8e271d1762463b"},{"fileName":"overmind_cli_1.5.3_Linux_i386.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"655e21390a036c76bef726c50ad9e075192eef1b8b5565b3358461aba4c33da6"},{"fileName":"overmind_cli_1.5.3_Linux_x86_64.tar.gz","algo":"Sha256","source":"checksums.txt","hash":"54581d8293a49985b451bd127e55a46b395c4b557ab60ddf5e7910e5ebfb4245"},{"fileName":"overmind_cli_1.5.3_Windows_arm64.zip","algo":"Sha256","source":"checksums.txt","hash":"3e7aa6ac3c342e7b2778aef385a247887269d3800ae28aeb2cee0abfb11f9c67"},{"fileName":"overmind_cli_1.5.3_Windows_i386.zip","algo":"Sha256","source":"checksums.txt","hash":"c911f1c6679ae79616c7b11a95a7b863807627ac08adce87d34d29b2a1cf3300"},{"fileName":"overmind_cli_1.5.3_Windows_x86_64.zip","algo":"Sha256","source":"checksums.txt","hash":"b3aa891e8784ffb6b6d330d4d1b43fdd1b748682e119753e8668f9be836ab1db"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "overmind-cli-1.5.3-1-aarch64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "123eacb8ff9b087bbdab04f8c0626db3a87387f6562108a6b4ee6d279468a16b"
+    },
+    {
+      "fileName": "overmind-cli-1.5.3-1-i686.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "831e9d34473ab2079eb340673a225703b174bfabcc0692af1b9bae1731e01492"
+    },
+    {
+      "fileName": "overmind-cli-1.5.3-1-x86_64.pkg.tar.zst",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "06d70cd467a780889a00cfc606da3fbaa17d91a4b15e7b0f970c737631e2ac63"
+    },
+    {
+      "fileName": "overmind-cli-1.5.3-1.aarch64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "a4cb9c0771ff5ef1501c2a51adee4d3305ed77015fab9e51ef6ed9f14772ed39"
+    },
+    {
+      "fileName": "overmind-cli-1.5.3-1.i386.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3cc05b092cebc1277558e071a915879465a69fe50a37dfa36b893d972d7440fe"
+    },
+    {
+      "fileName": "overmind-cli-1.5.3-1.x86_64.rpm",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "273080eab67dff3f07b8b393850ebb6a0d8a4c7ef8cb55f4d8afe4883319c3eb"
+    },
+    {
+      "fileName": "overmind-cli_1.5.3_aarch64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "97852a99cd0081d7de06d873e903d28e5fc68d938ce0a122437aa021bff7feb6"
+    },
+    {
+      "fileName": "overmind-cli_1.5.3_amd64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "d5eb43433c1739da4e38cdfad3571b08a57ca382231e16fdf1a0bafa0847f3b5"
+    },
+    {
+      "fileName": "overmind-cli_1.5.3_arm64.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "afa3c25606920197d2159742c16546760f331ad2f8a6f7046d0a5fc928493083"
+    },
+    {
+      "fileName": "overmind-cli_1.5.3_i386.deb",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "f6e25773033ffa8ada78075e96a4258f765712010605ed75dea5b83d20408ff6"
+    },
+    {
+      "fileName": "overmind-cli_1.5.3_x86.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "9dd9744f5daac2f04cc6e21f20b6db0fc148f9ef0346de6029b467f9de314c7f"
+    },
+    {
+      "fileName": "overmind-cli_1.5.3_x86_64.apk",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "5cd38b2bb97732bef862b84a7583b44c725c9c128d2753a6d9c40391123eefec"
+    },
+    {
+      "fileName": "overmind_cli_1.5.3_Darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "92ff9d47af3ce5b66ad9badbb215be2b3bb59d11184f8c837607017c19579ba3"
+    },
+    {
+      "fileName": "overmind_cli_1.5.3_Darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "2e2282f8ea90010c303e4ad77c0e6f0969157c8aa59ad952f7a3e480e2a34f24"
+    },
+    {
+      "fileName": "overmind_cli_1.5.3_Linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "4dea97d51314f03e4f8f106c13c926c0d24d5b9462f69072db8e271d1762463b"
+    },
+    {
+      "fileName": "overmind_cli_1.5.3_Linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "655e21390a036c76bef726c50ad9e075192eef1b8b5565b3358461aba4c33da6"
+    },
+    {
+      "fileName": "overmind_cli_1.5.3_Linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "54581d8293a49985b451bd127e55a46b395c4b557ab60ddf5e7910e5ebfb4245"
+    },
+    {
+      "fileName": "overmind_cli_1.5.3_Windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "3e7aa6ac3c342e7b2778aef385a247887269d3800ae28aeb2cee0abfb11f9c67"
+    },
+    {
+      "fileName": "overmind_cli_1.5.3_Windows_i386.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "c911f1c6679ae79616c7b11a95a7b863807627ac08adce87d34d29b2a1cf3300"
+    },
+    {
+      "fileName": "overmind_cli_1.5.3_Windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "checksums.txt",
+      "hash": "b3aa891e8784ffb6b6d330d4d1b43fdd1b748682e119753e8668f9be836ab1db"
+    }
+  ]
+}

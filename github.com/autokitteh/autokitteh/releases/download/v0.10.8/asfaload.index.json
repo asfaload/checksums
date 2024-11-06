@@ -1,1 +1,31 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"autokitteh_darwin_arm64.tar.gz","algo":"Sha256","source":"autokitteh_0.10.8_checksums.txt","hash":"4e61c53e1fb479c8bfe10846e0e67849def45c947f7cc2e7363d2532b0074969"},{"fileName":"autokitteh_darwin_x86_64.tar.gz","algo":"Sha256","source":"autokitteh_0.10.8_checksums.txt","hash":"a5104c35310674713513c7ad4276db71994a5997241da81c1f3bc438ac4bb051"},{"fileName":"autokitteh_linux_arm64.tar.gz","algo":"Sha256","source":"autokitteh_0.10.8_checksums.txt","hash":"4b57bcbdfff3a12837533c5b4abc182815ee485287157ca8efd76c7bcbbd620e"},{"fileName":"autokitteh_linux_x86_64.tar.gz","algo":"Sha256","source":"autokitteh_0.10.8_checksums.txt","hash":"b1c5ab316f9fb6bed28d832841e2834d11acd904e4e262df862240cc5ff343f8"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "autokitteh_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "autokitteh_0.10.8_checksums.txt",
+      "hash": "4e61c53e1fb479c8bfe10846e0e67849def45c947f7cc2e7363d2532b0074969"
+    },
+    {
+      "fileName": "autokitteh_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "autokitteh_0.10.8_checksums.txt",
+      "hash": "a5104c35310674713513c7ad4276db71994a5997241da81c1f3bc438ac4bb051"
+    },
+    {
+      "fileName": "autokitteh_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "autokitteh_0.10.8_checksums.txt",
+      "hash": "4b57bcbdfff3a12837533c5b4abc182815ee485287157ca8efd76c7bcbbd620e"
+    },
+    {
+      "fileName": "autokitteh_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "autokitteh_0.10.8_checksums.txt",
+      "hash": "b1c5ab316f9fb6bed28d832841e2834d11acd904e4e262df862240cc5ff343f8"
+    }
+  ]
+}

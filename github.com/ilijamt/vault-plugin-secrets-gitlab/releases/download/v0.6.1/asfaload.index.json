@@ -1,1 +1,139 @@
-{"mirroredOn":"2024-11-05T15:34:56.8231199+00:00","publishedOn":"2024-11-05T15:34:56.8232638+00:00","version":1,"publishedFiles":[{"fileName":"vault-plugin-secrets-gitlab_darwin_arm64.tar.gz","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"f429dcd97d21be5ad238db090a05d1e32881466d311c7806db3e1864b6816331"},{"fileName":"vault-plugin-secrets-gitlab_darwin_arm64.tar.gz.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"ce905b93eab0dd08abea2160e2518eb8d7a153003afe3c77be8e7322d38d7a7b"},{"fileName":"vault-plugin-secrets-gitlab_darwin_x86_64.tar.gz","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"db8bbd1519b1b226388f842a12be365ff80dacf10d4a44785dae14ca8c4e385b"},{"fileName":"vault-plugin-secrets-gitlab_darwin_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"283ac5879a10cb7b3cf248fe0f774b0d5cc754a393e94520af3f58aadbb58eae"},{"fileName":"vault-plugin-secrets-gitlab_illumos_x86_64.tar.gz","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"6a1d8378597188453e4f15f4beaa6e8371f83a11ca64e54487b026057e323d8c"},{"fileName":"vault-plugin-secrets-gitlab_illumos_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"39353cf97f1b509365b2790420c95f0474c15a826cc49973dba5ece6b8b1694f"},{"fileName":"vault-plugin-secrets-gitlab_linux_arm64.tar.gz","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"fc94449a260405c655bc8f98a2260739230869003adcf14df468cd59a4eb159f"},{"fileName":"vault-plugin-secrets-gitlab_linux_arm64.tar.gz.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"cc1fc324bcce03d3b6c916b29772e919b840cee13a0e89b36e88cb0ae2a119b9"},{"fileName":"vault-plugin-secrets-gitlab_linux_armv6.tar.gz","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"326bfd444be9296400b1e3edb6b51ca73958b7ba907eeb3f0ca90b14417af4cd"},{"fileName":"vault-plugin-secrets-gitlab_linux_armv6.tar.gz.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"1a635e47ed2a67ea082f035e54b30ab6f87908875fc1bb353c349fa00b402b63"},{"fileName":"vault-plugin-secrets-gitlab_linux_i386.tar.gz","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"6cce1b28680e146ef78b1fd0603c1308581153357512e4fcc0bb91f6eaef67e4"},{"fileName":"vault-plugin-secrets-gitlab_linux_i386.tar.gz.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"f14643fd2380baa9ab9587671926637abb190e5968022e94654901a81c369e33"},{"fileName":"vault-plugin-secrets-gitlab_linux_x86_64.tar.gz","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"8c831c0a7738b64b6524a17c847b29bfb28f85b1802288b65483512a05a1678e"},{"fileName":"vault-plugin-secrets-gitlab_linux_x86_64.tar.gz.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"e505f702ffa129c4faf00f9b464c611dedf4a4cf4accc0a7638ba35b57926628"},{"fileName":"vault-plugin-secrets-gitlab_windows_arm64.zip","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"5619b39731526016e150a45731a58e6c17352e7039842108ff3a2c6c72ecb493"},{"fileName":"vault-plugin-secrets-gitlab_windows_arm64.zip.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"db2a7a6bcdcee3a3bb0cd1851528e9955081a95d240a7b923751777ae6a6f199"},{"fileName":"vault-plugin-secrets-gitlab_windows_armv6.zip","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"d63d5334671ac2c29fdeb88f3303b64ebe47a2670d26d7f987aa8a7449c7e5ae"},{"fileName":"vault-plugin-secrets-gitlab_windows_armv6.zip.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"088e05e4fc6efb68f05aa0cce7dcf06696ddc3691ee3b68796287361f6936b76"},{"fileName":"vault-plugin-secrets-gitlab_windows_i386.zip","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"3537e86d3401b569e08d411f9e62cbb517b7a19742d9183d82a002018681b6cd"},{"fileName":"vault-plugin-secrets-gitlab_windows_i386.zip.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"a0d6bf62f42743bb41f3b3a69abc80ac846082aa1a64243a176d374f2c4aeb08"},{"fileName":"vault-plugin-secrets-gitlab_windows_x86_64.zip","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"9b035aa983131deefe4b12e18903315f4b24725ff5f2b845b5f4cb6aef7568d7"},{"fileName":"vault-plugin-secrets-gitlab_windows_x86_64.zip.sbom.json","algo":"Sha256","source":"vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS","hash":"5460c273671c4683f35a27a9278eb1bf07f69f1e57623fbd282331956fb48181"}]}
+{
+  "mirroredOn": null,
+  "publishedOn": null,
+  "version": 1,
+  "publishedFiles": [
+    {
+      "fileName": "vault-plugin-secrets-gitlab_darwin_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "f429dcd97d21be5ad238db090a05d1e32881466d311c7806db3e1864b6816331"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_darwin_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "ce905b93eab0dd08abea2160e2518eb8d7a153003afe3c77be8e7322d38d7a7b"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_darwin_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "db8bbd1519b1b226388f842a12be365ff80dacf10d4a44785dae14ca8c4e385b"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_darwin_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "283ac5879a10cb7b3cf248fe0f774b0d5cc754a393e94520af3f58aadbb58eae"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_illumos_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "6a1d8378597188453e4f15f4beaa6e8371f83a11ca64e54487b026057e323d8c"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_illumos_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "39353cf97f1b509365b2790420c95f0474c15a826cc49973dba5ece6b8b1694f"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_linux_arm64.tar.gz",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "fc94449a260405c655bc8f98a2260739230869003adcf14df468cd59a4eb159f"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_linux_arm64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "cc1fc324bcce03d3b6c916b29772e919b840cee13a0e89b36e88cb0ae2a119b9"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_linux_armv6.tar.gz",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "326bfd444be9296400b1e3edb6b51ca73958b7ba907eeb3f0ca90b14417af4cd"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_linux_armv6.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "1a635e47ed2a67ea082f035e54b30ab6f87908875fc1bb353c349fa00b402b63"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_linux_i386.tar.gz",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "6cce1b28680e146ef78b1fd0603c1308581153357512e4fcc0bb91f6eaef67e4"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_linux_i386.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "f14643fd2380baa9ab9587671926637abb190e5968022e94654901a81c369e33"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_linux_x86_64.tar.gz",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "8c831c0a7738b64b6524a17c847b29bfb28f85b1802288b65483512a05a1678e"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_linux_x86_64.tar.gz.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "e505f702ffa129c4faf00f9b464c611dedf4a4cf4accc0a7638ba35b57926628"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_windows_arm64.zip",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "5619b39731526016e150a45731a58e6c17352e7039842108ff3a2c6c72ecb493"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_windows_arm64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "db2a7a6bcdcee3a3bb0cd1851528e9955081a95d240a7b923751777ae6a6f199"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_windows_armv6.zip",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "d63d5334671ac2c29fdeb88f3303b64ebe47a2670d26d7f987aa8a7449c7e5ae"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_windows_armv6.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "088e05e4fc6efb68f05aa0cce7dcf06696ddc3691ee3b68796287361f6936b76"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_windows_i386.zip",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "3537e86d3401b569e08d411f9e62cbb517b7a19742d9183d82a002018681b6cd"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_windows_i386.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "a0d6bf62f42743bb41f3b3a69abc80ac846082aa1a64243a176d374f2c4aeb08"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_windows_x86_64.zip",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "9b035aa983131deefe4b12e18903315f4b24725ff5f2b845b5f4cb6aef7568d7"
+    },
+    {
+      "fileName": "vault-plugin-secrets-gitlab_windows_x86_64.zip.sbom.json",
+      "algo": "Sha256",
+      "source": "vault-plugin-secrets-gitlab_0.6.1_SHA256SUMS",
+      "hash": "5460c273671c4683f35a27a9278eb1bf07f69f1e57623fbd282331956fb48181"
+    }
+  ]
+}

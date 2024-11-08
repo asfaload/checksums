@@ -1,0 +1,9 @@
+91a27a07e76f548f1339c72b33ee0b578f3748d5d15ee6ea6787adb68a2d9758 *2024-11-06-openwrt-x86-64-generic-kernel.bin
+85bd284e843d70f01e09c187e1b978b9632bb84a661681c42cbfdf9f72efb37e *2024-11-06-openwrt-x86-64-generic-squashfs-combined-efi.img
+dfedc5ab3e54d00c46da0c16fc0e40f80f7cd25910446f7467891b5ce6db4d8b *2024-11-06-openwrt-x86-64-generic-squashfs-combined-efi.vhdx
+7ba4effcb489e8ad650643b4b1faf24a46bb0122088dfcceaaba76eeec8d4d97 *2024-11-06-openwrt-x86-64-generic-squashfs-rootfs.img
+b6b3d74c5df32f1b8549c4def70f9090f7cbee9c041c09fa0dd55803101117a8 *2024-11-06-openwrt-x86-64-generic.manifest
+2aac7e17192e77c84b6fa60a9f55561b8301c4444611322dde866e06e8b543de *config.buildinfo
+a69dee137b4d1a8bd66a82783c018ba5a29dee469a0abbb1474a2aa9a6da36da *feeds.buildinfo
+ab77aa9d6bc8c168eb8f10af39d890dce7071db0e118ef45b48cdf9b218d0952 *profiles.json
+a57e4033c4b5773eaddf81ef8348b21f3ffedc3ed2c965e6ef32cb494284f2aa *version.buildinfo

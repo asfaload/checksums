@@ -1,0 +1,13 @@
+b5ed108de169c1b67d32f065d5385403d91c8282350f377bf43775b3dbf121fb  kairos-cli-v2.7.5-source.tar.gz
+e652e6522804e173abc4b82db43d107b8af304364319a509732a51a4e7da04fc  kairosctl-v2.7.5-linux-386.tar.gz
+27eb12ba30ff83c82e7b62f4245bf8164c54b605b8a846911bc4fa678c233a0d  kairosctl-v2.7.5-linux-amd64.tar.gz
+282b68001862fd58d0a3cc5dfc38b83bc25e0a4c7870b65c0ff3701d83978d42  kairosctl-v2.7.5-linux-arm64.tar.gz
+3255247c7fa204ae491390a866e32074da4bb878dba667bc9e5e5e43f2ffdb58  kairosctl-v2.7.5-windows-386.tar.gz
+7fed602ffb8184aab9cffeb3f36f07d221e93c5b9336bea045226f534851637a  kairosctl-v2.7.5-windows-amd64.tar.gz
+e156085f36d0b940aeab250ec25ba7dffffde38fba72d342503f16073bdaa9a9  kairosctl-v2.7.5-windows-arm64.tar.gz
+1681a0ed4de35b0495cabe765e604521c773fa95f88d2b10c8012d64489e820c  provider-kairos_2.7.5_linux_386.tar.gz
+49d7c98fb2e5524a72f139059f36b6e0f1a90aeb892048359c448084a724dc50  provider-kairos_2.7.5_linux_amd64.tar.gz
+fdb5c9a05f76c9003d1d7a96f02b39a6edf761fc4560611e28fb46e6bc517d75  provider-kairos_2.7.5_linux_arm64.tar.gz
+3255247c7fa204ae491390a866e32074da4bb878dba667bc9e5e5e43f2ffdb58  provider-kairos_2.7.5_windows_386.tar.gz
+7fed602ffb8184aab9cffeb3f36f07d221e93c5b9336bea045226f534851637a  provider-kairos_2.7.5_windows_amd64.tar.gz
+e156085f36d0b940aeab250ec25ba7dffffde38fba72d342503f16073bdaa9a9  provider-kairos_2.7.5_windows_arm64.tar.gz

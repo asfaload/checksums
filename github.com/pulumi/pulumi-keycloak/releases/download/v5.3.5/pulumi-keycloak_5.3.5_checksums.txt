@@ -1,0 +1,5 @@
+6190e115732c6c000203b224566bccd5ab42c388  ./pulumi-resource-keycloak-v5.3.5-darwin-amd64.tar.gz
+ed6ed0d6711b51e25aeb328cbd962ea50ebd006b  ./pulumi-resource-keycloak-v5.3.5-darwin-arm64.tar.gz
+73ec8dacf1e6812cf0156dc86d356d6cda934b8d  ./pulumi-resource-keycloak-v5.3.5-linux-amd64.tar.gz
+a452dbf26e43295b6f0166551e5e5602ebc0cee3  ./pulumi-resource-keycloak-v5.3.5-linux-arm64.tar.gz
+a7f85ab63fa582891cc216777f8c004a0de3ae8e  ./pulumi-resource-keycloak-v5.3.5-windows-amd64.tar.gz

@@ -1,0 +1,4 @@
+cf162eb40c78188105f168b5a74e2a359173d99c8ebd2cd026daa8f1b325090e  operator-controller_0.18.0_linux_amd64.tar.gz
+57b7886b83e2cb936e5fb4e63d19372993158bed3cb40ac65d9b7fdb66bcd65a  operator-controller_0.18.0_linux_arm64.tar.gz
+771197b2c658321a5802cdd578d82e1a36387a2bf0dcd08f79c693a8f21d6580  operator-controller_0.18.0_linux_ppc64le.tar.gz
+9e2a3ec09fb2330e75693b6cf95e3309e241554ccd47f5ebc4e197bf884fcc54  operator-controller_0.18.0_linux_s390x.tar.gz

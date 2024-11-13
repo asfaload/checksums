@@ -1,0 +1,6 @@
+63f03069081b50f60203507a4a9743c60eef1a9c  ./automated-release-build/zrok_0.4.44_darwin_amd64.tar.gz
+54816863fcedaadc9fe0b1f36cb051f417ef86ac  ./automated-release-build/zrok_0.4.44_darwin_arm64.tar.gz
+4abd3ed15ab21977e456fc4a27e97390c4e524a9  ./automated-release-build/zrok_0.4.44_linux_amd64.tar.gz
+b79d242f1c357b6a3a61908ceae5708875fa0e91  ./automated-release-build/zrok_0.4.44_linux_arm64.tar.gz
+d05c38077f64b6ecfd0e3d5c478361372547e9a7  ./automated-release-build/zrok_0.4.44_linux_armv7.tar.gz
+125e9681edcba87d6af45e503a2e86535fc6e408  ./automated-release-build/zrok_0.4.44_windows_amd64.tar.gz

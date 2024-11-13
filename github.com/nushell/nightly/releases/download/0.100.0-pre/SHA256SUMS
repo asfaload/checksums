@@ -1,0 +1,14 @@
+af74dd24e24a9d0c6226067d4f9fdf607ee929bb2690db8f1d6a7772bd86534d  nu-0.100.0-aarch64-apple-darwin.tar.gz
+0bdc499426cea2b3a5c6f976900d6dae1d159c841715398dded7fb5ad38f6fd4  nu-0.100.0-aarch64-pc-windows-msvc.msi
+92219d496d4ed2905d4054211416a46cdf5ce0bbaed12e2cc2530dbeb51ddb69  nu-0.100.0-aarch64-pc-windows-msvc.zip
+9359b3905243654f6126ac78d89d9d51cea54101038ef16af7102a179997f62f  nu-0.100.0-aarch64-unknown-linux-gnu.tar.gz
+4bec8f6edc477e27530eab69ecaa5114a97b6faa41ebf13beec00fa1e27a5d5a  nu-0.100.0-aarch64-unknown-linux-musl.tar.gz
+324a1850d528ecc9a7b8f273ce3fce59ec42d4adc3e4cb1c1f18c88cdedf0199  nu-0.100.0-armv7-unknown-linux-gnueabihf.tar.gz
+eabef84032b0e0bb865d96f1b735a409259be2772c7a68aa9f419e775b5d0274  nu-0.100.0-armv7-unknown-linux-musleabihf.tar.gz
+5287c60292c176f459e5ed9854172981656faa3266e5acc3428696d669057ef2  nu-0.100.0-loongarch64-unknown-linux-gnu.tar.gz
+eacbd5c67acd9eb6a07ec024c19bca517bc1ee22b93d4139d0477d18eb0b3eec  nu-0.100.0-riscv64gc-unknown-linux-gnu.tar.gz
+97552d4b5ee1d01a725906b6f116f2f6cbeb51f5a210d222910244b0d328fcb5  nu-0.100.0-x86_64-apple-darwin.tar.gz
+4049590f9d51427739110e28357312b764d691407a3e58dca58b075769007ca0  nu-0.100.0-x86_64-pc-windows-msvc.msi
+c0eae7dd88b6ef77cdd8e37bdf3517c5d2ae08d23449c52782972f92f3bfb6f6  nu-0.100.0-x86_64-pc-windows-msvc.zip
+f434fef341046a904e36d28af7c203cc9c4c860f28c8193c2045ee7c34152187  nu-0.100.0-x86_64-unknown-linux-gnu.tar.gz
+fbc0cf06a983830ff8775a283acfec6ca5c5dd83426f9a2e597340696061cf3a  nu-0.100.0-x86_64-unknown-linux-musl.tar.gz

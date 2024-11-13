@@ -1,0 +1,14 @@
+c511a104791e0edca77ac4370e56cc767c2d86fcc30b86df159ff7dd8ce8516b  mongodb_exporter-0.42.1.darwin-amd64.tar.gz
+5ad2e341635dd7b5ace677633154508a256bafe5427dbbb5c4e9d99383cb2705  mongodb_exporter-0.42.1.darwin-arm64.tar.gz
+116664f82c95258f71611fc8d497127bc6f7109711b0287926383a9878a7726a  mongodb_exporter-0.42.1.linux-64-bit.deb
+048fa06c43be6bb95812b509b641b66073ccc99ab4585f2bbb47054d9825ed95  mongodb_exporter-0.42.1.linux-64-bit.rpm
+682d4df63789cf45eb1e6d9a696cc62bf089c909395bd1af474120672d92d90f  mongodb_exporter-0.42.1.linux-amd64.tar.gz
+816a40a3a634dcdf76c11a3628326f68f320a5df0282a621e81af017a6413190  mongodb_exporter-0.42.1.linux-arm.deb
+ea711b356822374016e67d5ee93f7c96f9aa37fd8aa865fbaa8f6c548f7e6fc9  mongodb_exporter-0.42.1.linux-arm.rpm
+d6e3d750e1e25651474da43b672cafae0e64570d370ec6af4336f32d587c5843  mongodb_exporter-0.42.1.linux-arm.tar.gz
+038047be0a8c3814defc9b6fc8d664ddbadcb9ee833ab3b365fabbc824655bcb  mongodb_exporter-0.42.1.linux-arm64.deb
+a281be5db316d4d01ddce629ce48df4322ceb24c629cb9579ae007568dbd4ec7  mongodb_exporter-0.42.1.linux-arm64.rpm
+b2bbd0f46221373441729cfbc6e29dd96d2c6a3d1ec8b28ed1aa903ad9f9a711  mongodb_exporter-0.42.1.linux-arm64.tar.gz
+89837a0d9f98b7d5ad82a1f6f307f65e5368d5fd49edd06ef745a9b3b7d7d829  mongodb_exporter-0.42.1.windows-amd64.tar.gz
+a6a0a033682c1cd9b5db68dcff7423adc04e7a6695c916a6a333fd5d1b7141e5  mongodb_exporter-0.42.1.windows-arm.tar.gz
+7f20675bdcb29b714bade457d574aa5684d6d1889aff3ee5e1fada38f813ede8  mongodb_exporter-0.42.1.windows-arm64.tar.gz

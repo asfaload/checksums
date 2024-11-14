@@ -1,0 +1,9 @@
+5864160edd9952ab407e818fcaadb464834eff7d7c4b3b481c592a2c8be52134  documentation-generator-api-0.0.9.jar
+b05decb03b775d8d72ee0ded58af8c975de9c314f335532b625d9a94d70520fb  documentation-generator-core-0.0.9.jar
+59bc0d90e1655ce65237013f3ddf9d4d0cfe64111da9c0c7cf03989a3a3eed1a  documentation-generator-gradle-0.0.9.jar
+10a70c282b7dbfb1677194be9d6a8f9407d0a62df918a9d6186bb7766d5cb5b6  documentation-generator-confluence-0.0.9.jar
+2a3886e339588d6f4e4e744112c6e42386e57fc6d6a5c0b2fb06e28d97c983cc  documentation-generator-csv-0.0.9.jar
+2ad469af6ac741a80db92c5db6e8e5fc47d0cd32cbd2749f7a2d0c4d83a703f7  documentation-generator-data-dictionary-0.0.9.jar
+04a63e7733af0f6ac34dcc5f676d62947bfaf0d1b16f1e1b03264338f406eeac  documentation-generator-datalineage-0.0.9.jar
+6fd1d2663d693848de120d0ce1dd45963a9efafbb702c50adef2965327b90cdb  documentation-generator-erdiagram-0.0.9.jar
+bc43df2fe67beaefdaf10d2bc834ac3075b377d0e9ac2db6514f237dc12d4c3a  documentation-generator-sqlscript-0.0.9.jar

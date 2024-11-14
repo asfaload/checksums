@@ -1,0 +1,8 @@
+89e3fce2b40aa065fab79e373f8c990e850fa26d58a9fe37780975ded7d3dba3  easeprobe-v2.2.1-darwin-amd64.tar.gz
+96a52f5b3b3873d858627f2bed54623348530cf6bfed35cf4a6920771ae3a771  easeprobe-v2.2.1-darwin-arm64.tar.gz
+159c5aff7786dd6b690f36401cc42369a7ad98ee722ffe3f68ddcfad68dc8178  easeprobe-v2.2.1-linux-amd64.tar.gz
+89db78e6696b2fd265e9cb84fffcd31bb07b32e99fa133afc6a2bab7685a01c1  easeprobe-v2.2.1-linux-arm64.tar.gz
+1a87fbc2e9c6482e1c109a2c76a789aea043cadb70100e76dfaba8fb6b0b8276  easeprobe-v2.2.1-openbsd-amd64.tar.gz
+9a9cb4a651bf2f3bc2be81b7f7d1e533a0e2cd7e479a492377fbb5859cd00a31  easeprobe-v2.2.1-openbsd-arm64.tar.gz
+58f43da16d67773bc8947f9481c0c2984289a45348d0302967eb7a12bc941e7a  easeprobe-v2.2.1-windows-amd64.tar.gz
+11295b38cbb7ae3ba3fc4ba374340a05454af7f225b787f32be4a2280beabc37  easeprobe-v2.2.1-windows-arm64.tar.gz

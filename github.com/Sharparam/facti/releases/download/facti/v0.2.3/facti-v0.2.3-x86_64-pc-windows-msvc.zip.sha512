@@ -1,0 +1,3 @@
+SHA512 hash of target/dist/facti-v0.2.3-x86_64-pc-windows-msvc.zip:
+28f56ff14a0c253c9b8850d18796d44792eaaf108c73e4632a28f1650cc7e5603777c859b724900ae7465533764e3c23908c8d7db7c7094bac081aa396f6c3fe
+CertUtil: -hashfile command completed successfully.

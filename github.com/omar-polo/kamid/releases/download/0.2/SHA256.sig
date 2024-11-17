@@ -1,0 +1,5 @@
+untrusted comment: verify with kamid-0.2.pub
+RWRwqQVDYtY1jdmizb+E1QvdavNyM2Nu/1Q6WSU05/fdA4+lXRr41Pu1ZM5Be6w9AsmyeQ/hZniEB+Hzj8uGg3wUiknmgyzmWAY=
+SHA256 (kamid-0.2.pub) = 561fd8b8c70836e0d5df7502fd9b627ae0d514523314d8f236e1e01d224a495e
+SHA256 (kamid-0.2.tar.gz) = db72e0719f91eb0714cf57d903e21b872b217d0393ca214f67eb8a5703a1ebcd
+SHA256 (kamid-0.3.pub) = 3e6a5153dd34aa9837e8e328b4113df75ac8826f056eabfe3a2475aa7e591da5

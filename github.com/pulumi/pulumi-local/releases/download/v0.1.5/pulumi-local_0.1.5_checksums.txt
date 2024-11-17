@@ -1,0 +1,5 @@
+c9c830327fad8459dfab5feb11d3f9bfc74fa16e  ./pulumi-resource-local-v0.1.5-darwin-amd64.tar.gz
+880413afc58fa0afe6913a547a6ec4e1b6fda98f  ./pulumi-resource-local-v0.1.5-darwin-arm64.tar.gz
+68b8f1afd7e69c4726ea5323d513977d014274c5  ./pulumi-resource-local-v0.1.5-linux-amd64.tar.gz
+c6d2bfdc783fba28eb5c18ab327a8308f21bae0d  ./pulumi-resource-local-v0.1.5-linux-arm64.tar.gz
+d78ed96820df4492c7a0e709f58e0b687e6c8741  ./pulumi-resource-local-v0.1.5-windows-amd64.tar.gz

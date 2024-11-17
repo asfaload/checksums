@@ -1,0 +1,6 @@
+804d10a62b833ae7392ffb0cd0f0960c5a4a7477bb15ed29893dbfe8b3acc647  gitlab-ci-semver-labels-darwin-amd64
+d617c1778631076c6fa104349dd67e826e1ff219d4fbc6826a8b1b831d3ec20f  gitlab-ci-semver-labels-darwin-arm64
+7be42a78ed0574509dbc866f5a1c4c850a3e6a1301407754327abd386048f1a5  gitlab-ci-semver-labels-linux-amd64
+62eceb5cc8d248471714b8d8b7228dbf77c5ca1b39af943d925dc7db32110039  gitlab-ci-semver-labels-linux-arm64
+43f3ce6b6805a632dc91a5ed15258e77aec62e6cf84603a466de1a7db1a1e813  gitlab-ci-semver-labels-windows-amd64.exe
+b0d0ef537d718f27b8dad8dfc3866259bca1890c129a50c95d9f9c2127dd43a6  gitlab-ci-semver-labels-windows-arm64.exe

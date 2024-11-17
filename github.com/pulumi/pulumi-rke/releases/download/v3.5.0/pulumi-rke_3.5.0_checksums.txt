@@ -1,0 +1,5 @@
+f15bf8bdc57be43f2cf74c0e096f5e42c2628610  ./pulumi-resource-rke-v3.5.0-darwin-amd64.tar.gz
+01e479bd5a3338a942fa62cc4f1b4890504ab4c5  ./pulumi-resource-rke-v3.5.0-darwin-arm64.tar.gz
+01295766ed856f1b5f6a1e35d5a746743c1f8956  ./pulumi-resource-rke-v3.5.0-linux-amd64.tar.gz
+5bf6a8a1199cfb98286e7403311c656eb5f4f4fe  ./pulumi-resource-rke-v3.5.0-linux-arm64.tar.gz
+916d8ef5c662ceef81a008efe9fb2636ce0f65f4  ./pulumi-resource-rke-v3.5.0-windows-amd64.tar.gz

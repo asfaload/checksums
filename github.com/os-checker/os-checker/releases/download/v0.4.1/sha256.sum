@@ -1,0 +1,6 @@
+58d267e40540232679a10d7d12e8bad123a57166c8c6131cc622266573619a76  os-checker-aarch64-apple-darwin.tar.xz
+b8acd6778c99a89657835d1a8b30bfe8c998442135daff161231fbcd5f03d2cd  os-checker-x86_64-apple-darwin.tar.xz
+75f7aacf1d56e4f181d811eeef534b66cbcfd309a7a1cf9db84225ec39036ac1  os-checker-x86_64-pc-windows-msvc.zip
+39df75f825eb50ccbfca434bc4e0e7e45456b47d5e4a12b5621b4cb1d687d15b  os-checker-x86_64-unknown-linux-gnu.tar.xz
+b2c31dff8c7b9ba05c39d86b41187166df36e7d34219f3e7359e9d4a6b43edd8  os-checker-x86_64-unknown-linux-musl.tar.xz
+d55fe718571d7ee6b495cedbefb764c2c0ec38c1c631b5bd3af5dbb5f39cc414  source.tar.gz

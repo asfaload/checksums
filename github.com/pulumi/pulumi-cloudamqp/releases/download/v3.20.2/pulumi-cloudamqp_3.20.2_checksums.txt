@@ -1,0 +1,5 @@
+b7d54e9604f22c71e848bd1dc9c504b1d1c0fa20  ./pulumi-resource-cloudamqp-v3.20.2-darwin-amd64.tar.gz
+0e743398ba4e19872b64850283f25a6c65d05e7d  ./pulumi-resource-cloudamqp-v3.20.2-darwin-arm64.tar.gz
+54aa79b850353bb32f21867b5c88b8febe00e15b  ./pulumi-resource-cloudamqp-v3.20.2-linux-amd64.tar.gz
+116be7f4ff76a8d3d584a2726f98e31a35d29e6d  ./pulumi-resource-cloudamqp-v3.20.2-linux-arm64.tar.gz
+ecc75781834835a9c519208c6c756bed358161e5  ./pulumi-resource-cloudamqp-v3.20.2-windows-amd64.tar.gz

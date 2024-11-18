@@ -1,0 +1,5 @@
+52fad9b3fc7e79bdac6ca235c0d1da54f6fe2ba6  ./pulumi-resource-http-v0.0.9-darwin-amd64.tar.gz
+033065338cbd8e891be341b1a63035d3811c42ff  ./pulumi-resource-http-v0.0.9-darwin-arm64.tar.gz
+054018904f53e57e0c9050b39b475c0a7a949bd2  ./pulumi-resource-http-v0.0.9-linux-amd64.tar.gz
+12185b5c6a08b86bb07ac8e64b71f04e6bfc9a27  ./pulumi-resource-http-v0.0.9-linux-arm64.tar.gz
+8344f6575ec232444e3a2968e7d9fe898015a8c4  ./pulumi-resource-http-v0.0.9-windows-amd64.tar.gz

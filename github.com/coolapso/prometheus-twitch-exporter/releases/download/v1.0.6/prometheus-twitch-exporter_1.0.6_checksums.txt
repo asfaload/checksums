@@ -1,0 +1,4 @@
+3b635798d3db008f9b4b12ee37c24507fca72bbc5ad08549d43b5d3aa42b2c42  prometheus-twitch-exporter_1.0.6_linux_amd64.tar.gz
+8e3917549c6d77883f5cedb7944c6eca902a255efd2bec667c1e5e07c7c65b59  prometheus-twitch-exporter_1.0.6_linux_arm64.tar.gz
+e94c22e6408002f91912e0b1552d51862c02c90d0cbe2e6da74d931c1e0853b6  prometheus-twitch-exporter_1.0.6_linux_armv6.tar.gz
+86def132d4a4532979c02d742957d7e4d7123285fe7dd57f99b4a836a183ba77  prometheus-twitch-exporter_1.0.6_linux_armv7.tar.gz

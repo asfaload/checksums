@@ -1,0 +1,4 @@
+e6d9bc19915d018ab4ece2bff952896ac6578539476763653a808664987c24dc  trivy_plugin_count_0.2.0_darwin-amd64.tar.gz
+6f57aac5bfa7e489e37e3a35ed913d72e4507f1d42e338fefd1bd2632b54cfd7  trivy_plugin_count_0.2.0_darwin-arm64.tar.gz
+6b42fbf229c6f1bd63c8ac1dc84c0f2f0bc14700792fae02d7abf447625ad678  trivy_plugin_count_0.2.0_linux-amd64.tar.gz
+0bb413948d0eb9ad20be013a9edac99049ba38856a4f4fc00b1f5fb48c5a99dd  trivy_plugin_count_0.2.0_linux-arm64.tar.gz

@@ -1,0 +1,5 @@
+c339bd2aa9098731da0a95355f7b4c37466b45ff  ./pulumi-resource-tls-v5.0.9-darwin-amd64.tar.gz
+f21aa6267227e85fd003a408432b7662744f7a4a  ./pulumi-resource-tls-v5.0.9-darwin-arm64.tar.gz
+4c31aec1fcc1631aa63376acc07cddfca33b5082  ./pulumi-resource-tls-v5.0.9-linux-amd64.tar.gz
+1f48972314c8156e81d3da316a60a512cfec9804  ./pulumi-resource-tls-v5.0.9-linux-arm64.tar.gz
+046c2723577286ca3fffaff9b501ee7475c3cce1  ./pulumi-resource-tls-v5.0.9-windows-amd64.tar.gz

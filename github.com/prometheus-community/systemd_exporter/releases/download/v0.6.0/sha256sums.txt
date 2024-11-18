@@ -1,0 +1,14 @@
+26e1482c0ed7d3c4a84759a8f6d8624899b033ee30db92fb872bca6c28bb4a5a  systemd_exporter-0.6.0.linux-386.tar.gz
+2644d770939c1ba296e0c1257888e46bd78141cfc0e599c1518ee9b7ab558ffb  systemd_exporter-0.6.0.linux-amd64.tar.gz
+d6e4fd4cdc3f9392659825051d30a5f23205a7860baeb405e25995de83a4ee17  systemd_exporter-0.6.0.linux-arm64.tar.gz
+d7204dbec94285f5931c25b2de74d3f2cb1d879a52cf280d167c4de418806b46  systemd_exporter-0.6.0.linux-armv5.tar.gz
+2e592e9cba13e79f59f130d4779004040d99f57a1c2161e20cdf1c576a7b26b9  systemd_exporter-0.6.0.linux-armv6.tar.gz
+35ad6bdc46395f9a89d3a06c9bd2e0371edafa0352faaf2bec0cc7fbf6a4d87e  systemd_exporter-0.6.0.linux-armv7.tar.gz
+69e3ce51e868692e49c81aec380e4309de543e5a82949a91f9e3d7f85960c671  systemd_exporter-0.6.0.linux-mips.tar.gz
+5fa610fb43671fcb963e982e0b835060b263799bf6c0f1091bd4f6355633e13b  systemd_exporter-0.6.0.linux-mips64.tar.gz
+17c590ab15f45fddc1f0a6e6f7899f5eb9cda4ce4e4d289d07bffef2a98c4135  systemd_exporter-0.6.0.linux-mips64le.tar.gz
+7540d3a582f3b03537b613b48967669865b8e9f6e259fcec03f7592b793dd9fe  systemd_exporter-0.6.0.linux-mipsle.tar.gz
+f564ff705fc4ffea4e37721b3c37fa49f8eb795bc06d4de00a68048d69824b4b  systemd_exporter-0.6.0.linux-ppc64.tar.gz
+0112f41f244abd47a6acc5f9221fec3824a8f306b84ea83e0a53817c108078e9  systemd_exporter-0.6.0.linux-ppc64le.tar.gz
+4925e75f1eccf20026194b1115a07c92abe061c2ea82f3c74222e5edb3623d3a  systemd_exporter-0.6.0.linux-riscv64.tar.gz
+4dd711afc1383b73e5fe81d5fb25234fa1a3bacd24b501b0f89b5c344d68296f  systemd_exporter-0.6.0.linux-s390x.tar.gz

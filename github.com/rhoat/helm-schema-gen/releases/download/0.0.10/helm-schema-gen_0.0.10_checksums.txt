@@ -1,0 +1,8 @@
+ac439c799ace207384c4159ce4e65a7633d76a6d99c6b940758c0c223911e27b  helm-schema-gen-freebsd-amd64.tgz
+ebb84e5547f51d36537cc141ce65fcc663b22e34113239b30136a90a0605db9f  helm-schema-gen-freebsd-arm64.tgz
+cb83121de9104339cbd58b9b312c30bca732d9956fa8de8ca8bd3019f33debf4  helm-schema-gen-linux-amd64.tgz
+8518ac772dff220beb029497396dd6443ff1c4c1c2dbfe55bd6e3cfcdb0d17ed  helm-schema-gen-linux-arm64.tgz
+68de5cfb3266c4c54c9e8a76de951f3ba3490872897905ab297f6214213b9e92  helm-schema-gen-macos-amd64.tgz
+c15ee929d9478bdb1a15c9437ac37766c8f5a8a98da79650119a159105d305ee  helm-schema-gen-macos-arm64.tgz
+ff4f381eced683554d4f58a6b0c7e0553d02d1fcc6e9e35a203280a4b7816d0a  helm-schema-gen-windows-amd64.tgz
+3965cbb58e438c49f6df85dc2feeef8e9ca805c4f1fa1fa1f015372a4ad935cf  helm-schema-gen-windows-arm64.tgz

@@ -1,0 +1,12 @@
+9c78de67370518fc9e349761e06e736890833bc3be9c3003329af7b58b642bc4  okms-cli-darwin-arm64.tar.gz
+dfab125764477610164abacc96c70247b2e0b2cb3ca6a139ac3ed71e57247d95  okms-cli-darwin-arm64.tar.gz.sbom.json
+a5492459016ddf1a6b15552b2ac8819b659b910f659958784e636add9f4ec45e  okms-cli-darwin-x86_64.tar.gz
+5343914a796c7f34828478de041424ff0535ca7c9f7b99616c3f05cc0fe0065c  okms-cli-darwin-x86_64.tar.gz.sbom.json
+a03d695a1eef8203c988012028b8bfee0a74ca8cc56cf15a3a0e1edebe36def7  okms-cli-linux-arm64.tar.gz
+a2c0687e75323c999d9bf9a10b7fccdcf2ae75a0bcde92ad38bc4ca47d2c2712  okms-cli-linux-arm64.tar.gz.sbom.json
+9e8a1ac52b68f5d23647a3598bd98548460e0de701978d61294004d84bab472e  okms-cli-linux-x86_64.tar.gz
+de180a1b0f25876164740f9e5c0b5a3ab41c4ce8c81a901bfc8f32e5f10abdeb  okms-cli-linux-x86_64.tar.gz.sbom.json
+5b14f0abdb4d03d4a5b823f3274ddee77d9cc42b9828c3ba07e4330165dbdf0d  okms-cli-windows-arm64.zip
+65b9c3ab728b5965938ee89a49d74586b5380eab6584588fc393c50d1a7d4f04  okms-cli-windows-arm64.zip.sbom.json
+d5bcc7d71cda3ec59d318f781f454ce899e99b60a65d6d09b42175a5977d5148  okms-cli-windows-x86_64.zip
+14b4e360c24a2c4b905ab288d23a571e8aa5c43d265f72ec67c9988ddb26160c  okms-cli-windows-x86_64.zip.sbom.json

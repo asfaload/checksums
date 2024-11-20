@@ -1,0 +1,6 @@
+7821513fcdc1a2689a546f20a18cdc2cce9fe218dc8506adc86eb6a2a3b256a9  connector-definition.tgz
+07c93ad786795ec97fe695836b70037657954eeb60747278cc6219be99790790  mongodb-cli-plugin-aarch64-apple-darwin
+ffb1f3bd6b0715a1435a0d031183529a0e7562a9c23c002ea4d6a2e09c3e57bf  mongodb-cli-plugin-aarch64-unknown-linux-musl
+0bb3ada94cc0989b87ce6bb53c36e9e174af9253e7880be877d681912d663706  mongodb-cli-plugin-x86_64-apple-darwin
+44560b013128e71fb87e2c23c1a7cdd4164e3776cc2275135576fabbff0e826c  mongodb-cli-plugin-x86_64-pc-windows-msvc.exe
+f2e48e32f49f46b43f8ec64f14dca9eb8ad8fec33a0d32848eaffe47d40175df  mongodb-cli-plugin-x86_64-unknown-linux-musl

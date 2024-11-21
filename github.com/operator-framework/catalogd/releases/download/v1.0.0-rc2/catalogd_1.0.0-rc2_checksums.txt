@@ -1,0 +1,4 @@
+67c50a7f50dbc07f226846fb3f76a6032b9fc34aaacd112a954aeea5f4a8900f  catalogd_1.0.0-rc2_linux_amd64.tar.gz
+b4b0a45d6b23e6eee22ed865c18d735379f37006c501f90ff6e7f2a0263ac407  catalogd_1.0.0-rc2_linux_arm64.tar.gz
+2a0631e1e672b2457034b2d41d41e78e8043fd151170c68b29e6df8d27eae8af  catalogd_1.0.0-rc2_linux_ppc64le.tar.gz
+53c2bcb9656b384441746ccf8e9e015a8b2bdfb62ddd768633fab5e15755fb87  catalogd_1.0.0-rc2_linux_s390x.tar.gz

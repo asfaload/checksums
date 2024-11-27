@@ -1,0 +1,5 @@
+66e4e30abbdae6031436de245e55d0a94eafdf0c  ./pulumi-resource-eks-v3.3.0-darwin-amd64.tar.gz
+4ca34b1256113b21f2ad73c8b1372980481d7773  ./pulumi-resource-eks-v3.3.0-darwin-arm64.tar.gz
+cccda11adca8ebbd98a289ca5d27580003034cee  ./pulumi-resource-eks-v3.3.0-linux-amd64.tar.gz
+8f23b7787497afc936b57aec27f9a411d7e7871a  ./pulumi-resource-eks-v3.3.0-linux-arm64.tar.gz
+362f25a46ee7ad955158b9f9c6e09ade275db4d4  ./pulumi-resource-eks-v3.3.0-windows-amd64.tar.gz

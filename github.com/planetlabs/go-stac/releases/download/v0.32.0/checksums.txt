@@ -1,0 +1,8 @@
+a767960bc5fe405d9daccf43358ea0c2f2b62b83d7b7f866638ec41b28ccc426  go-stac-darwin-amd64.tar.gz
+de0221e19e1d44b4f41afc7e63a7526deac7d7c1025ad9f6d057224338687eb0  go-stac-darwin-arm64.tar.gz
+6e6fa32f1750e0d092c2bae635f14ad1da52b5b76df0e2419b267d0ec92cf6a0  go-stac-linux-386.tar.gz
+b9de9b248b889582cb6a1957642a13a21d318b9964fb4c623720dba93711aa6d  go-stac-linux-amd64.tar.gz
+7f21ae4e27f6a7c6edb7ae84ad737ff1b2c78c03d3b6b976b0d93ae641815aaa  go-stac-linux-arm64.tar.gz
+4de9e41409622ade90109e6b5f4ba2929173a95b26efe1ac42a459cdbc206f60  go-stac-windows-386.tar.gz
+fdb7fd142f9329e84e3d7ee92848e21e2e93090968dcc8d79df485d73951a4d9  go-stac-windows-amd64.tar.gz
+849cc0ea81cc8379068480904e6c580f71dfd0d41898e30a83ee4cdef4d0142e  go-stac-windows-arm64.tar.gz

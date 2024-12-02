@@ -1,0 +1,5 @@
+faa929e950accaf158e5e1fdd3ba0b3e4e159267  ./pulumi-resource-azure-v6.12.0-darwin-amd64.tar.gz
+dd8bdbb552c9a759c0344fda4bbf4e55566014a2  ./pulumi-resource-azure-v6.12.0-darwin-arm64.tar.gz
+75ab0dda40fdc8dca559ef869a60167dc8f1b836  ./pulumi-resource-azure-v6.12.0-linux-amd64.tar.gz
+3b11243818ffe0572f1c8e74b83e2dd6b8b51a98  ./pulumi-resource-azure-v6.12.0-linux-arm64.tar.gz
+c8413646088eb785a76305b226d7994d8019a6b9  ./pulumi-resource-azure-v6.12.0-windows-amd64.tar.gz

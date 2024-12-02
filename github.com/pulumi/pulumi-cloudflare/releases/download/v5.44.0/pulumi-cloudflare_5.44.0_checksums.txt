@@ -1,0 +1,5 @@
+0ec45005ed91827af157e9d677a4fb5e5bd17a47  ./pulumi-resource-cloudflare-v5.44.0-darwin-amd64.tar.gz
+85458ef14e14dd6da7850722fcca201a8d6f3bac  ./pulumi-resource-cloudflare-v5.44.0-darwin-arm64.tar.gz
+c9ff15fa46c9c07327b26899386f2e42dc5a3930  ./pulumi-resource-cloudflare-v5.44.0-linux-amd64.tar.gz
+a5e3e16fb02dae7591ff6dcb8ffe4f54ec481587  ./pulumi-resource-cloudflare-v5.44.0-linux-arm64.tar.gz
+f35cddbeba3488d66857750989cff13d847e1581  ./pulumi-resource-cloudflare-v5.44.0-windows-amd64.tar.gz

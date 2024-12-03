@@ -1,0 +1,11 @@
+83522c1c6e2ae68ec2dcae4eb78c86c8f407d90bab2b4809566a436fae151acf  nerdctl-2.0.1-freebsd-amd64.tar.gz
+6186a915c6f80ab7e7f9f905d087c771b00bdba31c4ae3b9b5b36dd98f4cf8ae  nerdctl-2.0.1-go-mod-vendor.tar.gz
+96e5e3ed79f189a986cd33a40b0c817d7b6c7d9238f51a0737213f409e5d82af  nerdctl-2.0.1-linux-amd64.tar.gz
+8f42611dc1554b29dfe990f058ed12920be9cdd78798dcfc6b3845e613eb1252  nerdctl-2.0.1-linux-arm-v7.tar.gz
+cbca59744f6e9dea962e1d3a754294b5e64b53b82f4f7f7d603a591f38545fd5  nerdctl-2.0.1-linux-arm64.tar.gz
+78a3846cacc570e8ee4a1d60928a55954fb4fd1b3b731c0c975a808134166fab  nerdctl-2.0.1-linux-ppc64le.tar.gz
+b9ced15a0916567abad70a995453c508ae5a45312e3971c9c9ad571ea30cdaa3  nerdctl-2.0.1-linux-riscv64.tar.gz
+f730e20949ad9cefb92b8a373410489d994a5d34e84a604dbb452917ff0a73fa  nerdctl-2.0.1-linux-s390x.tar.gz
+5a3e30311424f1dbca6685f7d80b9a205bd52bb85205269739347b45c6f8ff03  nerdctl-2.0.1-windows-amd64.tar.gz
+e117ee6af35dc1ba66fb68fa99baf45bc2123c5261e7e41aa0a199de55ec9443  nerdctl-full-2.0.1-linux-amd64.tar.gz
+af60f6b83074c319cf1d0264b94a2a2f78cb757fe296f8193867d1cf79956e71  nerdctl-full-2.0.1-linux-arm64.tar.gz

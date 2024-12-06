@@ -1,0 +1,8 @@
+a805dbee594c7893188e91fdcd86682085008b4ce2144df15d8d332074dd8ddc *swiss-qr-bill-decoder-aarch64-apple-darwin
+0a1e59e3c498eb9a845f6fc9a94a378ab4fdff836d89d6154ec11a7612da2a97 *swiss-qr-bill-decoder-aarch64-unknown-linux-gnu
+1d5ce0e4a9cf2b754b74be3b38e471de770d917dcadcb03a33d4601481d9ad6c *swiss-qr-bill-decoder-aarch64-unknown-linux-musl
+8c210b9804c86929d655fb120667ca6ebe1180849abb2f2391979d3b6406d638 *swiss-qr-bill-decoder-i686-unknown-linux-gnu
+f9a6b6a3fe61da62b879371015aa73cd4e432d1554bd056bbed7b0f02a9435f3 *swiss-qr-bill-decoder-i686-unknown-linux-musl
+f75ea3c49bac9769cfc3b00287cab49e25b31ff4f838d2d9132ad718bc392d06 *swiss-qr-bill-decoder-x86_64-apple-darwin
+a607cbb47ce3ab316e39e348b43d0373bbb71ca44ee0f0f8f68a2adf62081a65 *swiss-qr-bill-decoder-x86_64-unknown-linux-gnu
+d563ba4811f91be1a8fb79c20142b9bece865f824d16cc3830f2f5cbda17f99b *swiss-qr-bill-decoder-x86_64-unknown-linux-musl

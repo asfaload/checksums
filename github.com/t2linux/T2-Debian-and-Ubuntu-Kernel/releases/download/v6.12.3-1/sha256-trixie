@@ -1,0 +1,4 @@
+065e46a50ee8b35ecd15cc4b2fd8ff4678d8352eada26a60c00a3a7935a0e2f7  ../linux-headers-6.12.3-1-t2-trixie_6.12.3-1_amd64.deb
+eb28cd4d84314f6aa92c5f62c5f4f9f3f178386914aeec58eabe07e1b95f0e44  ../linux-image-6.12.3-1-t2-trixie-dbg_6.12.3-1_amd64.deb
+b52bc6b3ba4f83dee9e38722538994e479829bf5f45fffdef1b98b141a6f7971  ../linux-image-6.12.3-1-t2-trixie_6.12.3-1_amd64.deb
+70687c304dfa8668682dad64571341c3efc98d1d4b512f5fd914854a5502a0ec  ../linux-libc-dev_6.12.3-1_amd64.deb

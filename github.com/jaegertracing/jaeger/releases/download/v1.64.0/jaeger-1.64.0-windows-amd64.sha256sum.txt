@@ -1,0 +1,5 @@
+90cabdd2dd1f95c6b6b6c7c87442b728ab2e43d1152ebda750c422c59a2ca314 *jaeger-1.64.0-windows-amd64/example-hotrod.exe
+61debf6a23307c8ee6a14832a5fce172fcc89144264f781cf5a7afd0de9dc4eb *jaeger-1.64.0-windows-amd64/jaeger-all-in-one.exe
+4e8a553b8016dffb57efd9fa44606837de94ac7dfe8f55c03af237b4ff6c4d7c *jaeger-1.64.0-windows-amd64/jaeger-collector.exe
+54a5082fd1f446e856a3815020ac0ce6c5a01aaa447f7d34cae4713bdd65d5cf *jaeger-1.64.0-windows-amd64/jaeger-ingester.exe
+61dec0dbd130ca4c8611936d7653aa9ea36c02fb0f9054f52d6c466a2fbe3b5f *jaeger-1.64.0-windows-amd64/jaeger-query.exe

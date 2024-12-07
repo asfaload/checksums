@@ -1,0 +1,5 @@
+d2c6e7586f28b427cc18ccb4fe0c5d269c91f34ddd7105766fd571abd9da5307 *jaeger-1.64.0-linux-amd64/example-hotrod
+7ceb983988ab6df72f3ae351586a51cbc51edb5110b26caa61ef35a1deea3800 *jaeger-1.64.0-linux-amd64/jaeger-all-in-one
+5137eae75a9ebc93c415c63239b4bb06cfe110a380233898af924616f4ef74de *jaeger-1.64.0-linux-amd64/jaeger-collector
+b900195461d7ae776cf951ab95393b45f72d45ad964721ac82c37beade8e9b7f *jaeger-1.64.0-linux-amd64/jaeger-ingester
+e20c9b5507394b4d1d25552e2623deced0f81169db266b2564cecfbec9c0f77d *jaeger-1.64.0-linux-amd64/jaeger-query

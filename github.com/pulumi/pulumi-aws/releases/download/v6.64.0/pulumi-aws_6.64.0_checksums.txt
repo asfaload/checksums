@@ -1,0 +1,5 @@
+dc89dfd20cdbca33f6b3576c19ee78a38a8e4ee9  ./pulumi-resource-aws-v6.64.0-darwin-amd64.tar.gz
+8bbe0b5b5215a2def7aea8289a677a973c6e7a81  ./pulumi-resource-aws-v6.64.0-darwin-arm64.tar.gz
+8af1974db48682347b0b40b29266a690e2a5ecc6  ./pulumi-resource-aws-v6.64.0-linux-amd64.tar.gz
+5e8aeda4cc10eb0ac2871cd4f5b584119d0a4dc1  ./pulumi-resource-aws-v6.64.0-linux-arm64.tar.gz
+48ce68e3cecb8e73b28ca980977b28229c2952ba  ./pulumi-resource-aws-v6.64.0-windows-amd64.tar.gz

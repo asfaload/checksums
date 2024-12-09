@@ -1,0 +1,5 @@
+6f2776f6211add6c6359d71dd1055458ace71c45185bfed06cba8d4f71bc2f16  kubectl-rook-ceph_v0.9.2_darwin_amd64.tar.gz
+9237e0c3b4c5f4f7a8989a20daafcc93f213c15e9d85fc72361a8597d4486fc6  kubectl-rook-ceph_v0.9.2_darwin_arm64.tar.gz
+3a420b9b15b6976feab19c8016496f47eba37f6474ec2108b93793813340ea65  kubectl-rook-ceph_v0.9.2_linux_amd64.tar.gz
+8442107e9c50d258a150e8927a61ac46cf51561a16e66742d6dc628df328f2df  kubectl-rook-ceph_v0.9.2_linux_arm64.tar.gz
+633ffd5aad369f1598245fc4a9b030ae8d169bd643c2cbdb29e10f01ef363f70  kubectl-rook-ceph_v0.9.2_windows_amd64.tar.gz

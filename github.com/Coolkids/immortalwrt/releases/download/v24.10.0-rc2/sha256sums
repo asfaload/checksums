@@ -1,0 +1,4 @@
+63e701d165b3442ed772a303ec421cc0b0ba6b9adadda65f234291d90f6fd7b8  immortalwrt-x86-64-generic-glibc-squashfs-combined-efi.img.gz
+d5a5ecd3defe0356fdeef2ddf99949ca3fd464919fd9629ef3820c210c94388f  immortalwrt-x86-64-generic-glibc-squashfs-combined-efi.qcow2
+8e99a9ade5796090c8fb212f3921c3d601c47728bc363c6df36fe9a1862a7e73  immortalwrt-x86-64-generic-musl-squashfs-combined-efi.img.gz
+45875fbda1396cfd080594afcefcd9367d282c5ca468952a47b95a8884c89653  immortalwrt-x86-64-generic-musl-squashfs-combined-efi.qcow2

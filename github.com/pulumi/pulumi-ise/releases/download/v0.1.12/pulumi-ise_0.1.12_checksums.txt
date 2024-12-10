@@ -1,0 +1,5 @@
+048318bb9a311cbbd515bc97dcd4097629f4598b  ./pulumi-resource-ise-v0.1.12-darwin-amd64.tar.gz
+d337acf0ad66adc60047497fb15e76ac47dfdee4  ./pulumi-resource-ise-v0.1.12-darwin-arm64.tar.gz
+36394f92b12835f425c24eb9f67abc9896208819  ./pulumi-resource-ise-v0.1.12-linux-amd64.tar.gz
+a43efc9ee89b2759113fccdf5c4e0e10f7388600  ./pulumi-resource-ise-v0.1.12-linux-arm64.tar.gz
+e3c92e3d27fb6c56ff23a4306e743869bf9b1844  ./pulumi-resource-ise-v0.1.12-windows-amd64.tar.gz

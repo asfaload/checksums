@@ -1,0 +1,5 @@
+f31ed55e0cb7c37a94f965c616e542086679dccf81c2db92649d101faab6e0a7  manager_0.0.8_linux_386.tar.gz
+ba5bc3e7a9d7c09b270e02fe5a251a434d35570baf7f5a6c59aaa635a57dc8af  manager_0.0.8_linux_amd64.tar.gz
+2bd5dbdbb1e2ac34c911249fcb7774742134acb08213b1f683437cdd4f079f95  manager_0.0.8_linux_arm64.tar.gz
+5db1d76f6187317d43875e61e6bcba070d1c6d3c7d5d2d261ccfd357564ed8f0  ratelimit-controller_0.0.8_sbom.spdx.json
+fc1b5b7bfe1e82847e9d4791ed624c72a79cbb0c6bb8fc4f4a34544be48e9a78  ratelimit-controller_0.0.8_source_code.tar.gz

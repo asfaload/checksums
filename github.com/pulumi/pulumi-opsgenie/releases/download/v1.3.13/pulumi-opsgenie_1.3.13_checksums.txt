@@ -1,0 +1,5 @@
+a99da40bb66b19a8e9a31713522b0de74a9383a8  ./pulumi-resource-opsgenie-v1.3.13-darwin-amd64.tar.gz
+5eecf8088bbfea57f82f6a4869c73a61e8e24a7e  ./pulumi-resource-opsgenie-v1.3.13-darwin-arm64.tar.gz
+8912eb6f5beda728192957dcf8e1ca650104eade  ./pulumi-resource-opsgenie-v1.3.13-linux-amd64.tar.gz
+b7cbc882ac7e0d5a96b99b7478787bb405d2290c  ./pulumi-resource-opsgenie-v1.3.13-linux-arm64.tar.gz
+414db5828aaa2ccf645922d4c4297fae9c111c41  ./pulumi-resource-opsgenie-v1.3.13-windows-amd64.tar.gz

@@ -1,0 +1,5 @@
+ff23cfc206b33d07b6960566b9ba719c7d9d47f3  ./pulumi-resource-venafi-v1.10.5-darwin-amd64.tar.gz
+a079a2c3ca3d66586b219de6c9119cc2b20b4c6a  ./pulumi-resource-venafi-v1.10.5-darwin-arm64.tar.gz
+7595f0230ab3329de2d1de9924dc007d5a5f6745  ./pulumi-resource-venafi-v1.10.5-linux-amd64.tar.gz
+e83977991459b79eeb242bd4f5858c7bb3fb1359  ./pulumi-resource-venafi-v1.10.5-linux-arm64.tar.gz
+f2c4166badbf5b2e48bbe3c988fa33d9b229181e  ./pulumi-resource-venafi-v1.10.5-windows-amd64.tar.gz

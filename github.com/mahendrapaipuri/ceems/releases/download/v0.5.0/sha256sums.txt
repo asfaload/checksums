@@ -1,0 +1,9 @@
+0a10543204dde8927b5ed967ad223ffb549a67ede4dbb1d0ffb97b4ee78181cf  ceems-0.5.0.linux-386.tar.gz
+022f5e4d56a4a68147c7cd70069af95cee74b7ce16dfd5076bbb5c28ec4af21a  ceems-0.5.0.linux-amd64.tar.gz
+d02ab9f5fc2d854ab3b2d54da752936d8981c3057d339dd6d6839d9ac53b3565  ceems-0.5.0.linux-arm64.tar.gz
+10ea8ada9b446b5302cf59662261829ceb73f140a1ae4729a72981f5581fdcf0  ceems-0.5.0.linux-mips.tar.gz
+8939fccba049ef918a1058de7482540665e2c986160bea2dccc6772d03de1b9b  ceems-0.5.0.linux-mips64.tar.gz
+746440c6be31d73e28a3e0cc2302eecc2e5a734170a0f35d48bf9d248db48585  ceems-0.5.0.linux-mips64le.tar.gz
+5781c107a9420a01614197eec1217cca9a41f6c428df785f1ce9d42883519212  ceems-0.5.0.linux-mipsle.tar.gz
+af12a3f0f2dea8f27fec61df058fb4f76c1b1f5c2ad41f3e847642d2494d2834  ceems-0.5.0.linux-ppc64le.tar.gz
+624cfd348b5fc3f827cda446a8b41b6bb7e9a10009c90ad2daf36a055be81b6f  ceems-0.5.0.linux-riscv64.tar.gz

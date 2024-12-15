@@ -1,0 +1,5 @@
+b4cfb933cba9a514ad91932a7e6b9e7b4fbabf7f  ./pulumi-resource-random-v4.16.8-darwin-amd64.tar.gz
+6c9cb19e1b7d15cb42db68619ff2ce3a528c2dae  ./pulumi-resource-random-v4.16.8-darwin-arm64.tar.gz
+478292293734c12b2029a036419bab7162e5a43e  ./pulumi-resource-random-v4.16.8-linux-amd64.tar.gz
+9a1d43085e2a0a9c00a44d06a009e58e7049fbb0  ./pulumi-resource-random-v4.16.8-linux-arm64.tar.gz
+008374a59165b416c76be808b4919462452c8d7e  ./pulumi-resource-random-v4.16.8-windows-amd64.tar.gz

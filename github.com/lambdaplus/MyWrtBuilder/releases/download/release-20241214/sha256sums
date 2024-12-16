@@ -1,0 +1,11 @@
+ed70a0c1289a21e3372e03f5983915792ef6024891f11a45a43bf499d63bf3ff *immortalwrt-24.10.0-rc1-x86-64-generic-ext4-combined-efi.img.gz
+a6d16ecd905f51f5609a37b97ce0c4cad5902dc025c3f7a72483a6263a2082df *immortalwrt-24.10.0-rc1-x86-64-generic-ext4-combined.img.gz
+76343bdc5c4378f1dac6baa277503a29a79d0246d8e373979c241e6582d81f89 *immortalwrt-24.10.0-rc1-x86-64-generic-ext4-rootfs.img.gz
+9e1bd2e628efeb9b01651a72897cc92ff3706bcfa8890ad10f103dc2d2c47912 *immortalwrt-24.10.0-rc1-x86-64-generic-kernel.bin
+55e40ad2677e384d2bee66772d850cbbd28a00333dcc46441016972db3e7cb4a *immortalwrt-24.10.0-rc1-x86-64-generic-rootfs.tar.gz
+75566b912d0dde425e567e3e01c9d95a7eee026628fddf2e053f4c009ec5fc64 *immortalwrt-24.10.0-rc1-x86-64-generic-squashfs-combined-efi.img.gz
+1cad4e68da0e0683e68a97ae5e493886c6dcab989f1e615a853c195f41b84d83 *immortalwrt-24.10.0-rc1-x86-64-generic-squashfs-combined.img.gz
+d9871b63b52bbff3322600781369090dc2982c67db53d54aecb7662588755146 *immortalwrt-24.10.0-rc1-x86-64-generic-squashfs-rootfs.img.gz
+be31a0969cb97415c8ae407c1c60844b1922d970909bba6a2cad22875cf16077 *immortalwrt-24.10.0-rc1-x86-64-generic.bom.cdx.json
+f169886d9cddf61e2a22642914099711795eef97588379ad9d6127dd8595e608 *immortalwrt-24.10.0-rc1-x86-64-generic.manifest
+9c1448385093e942c91ff286fde13774b525c58cc920e0d009aa806c4d646ea9 *profiles.json

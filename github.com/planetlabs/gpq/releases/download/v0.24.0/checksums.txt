@@ -1,0 +1,7 @@
+5479e22385c080b3c01f558ed4121f29cf045230c250d646c9651e6b8e1fee8f  gpq-darwin-amd64.tar.gz
+fd9621b33b6faceb123a57c9cf0371ca9f3b2743dbc93b2021db2d5135f69636  gpq-darwin-arm64.tar.gz
+b9b3db87e2ef50dbbcdf949e139516cd5f1b91808e783fa046f3d7bb1b8c1a63  gpq-js-wasm.tar.gz
+edb7c95daee8614d3c5be260ac071f66ef90706c00bc142d5396f521d8590e83  gpq-linux-amd64.tar.gz
+2890e09d6860ce079dd5daa802d966a69c46c913aa68fed328480d103956d860  gpq-linux-arm64.tar.gz
+ed6483eda1db06be2b9d0e8f5ad80ae1525121c9691a92f7ebf5310adc0634f0  gpq-windows-amd64.tar.gz
+baa040e167f61747e5ec68014294f8bc3aeb1fda675a5becb2c33c47dd185a5e  gpq-windows-arm64.tar.gz

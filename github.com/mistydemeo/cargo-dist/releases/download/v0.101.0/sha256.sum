@@ -1,0 +1,10 @@
+1b4be58c05548d1b5f2e632138022b588279debeec228dd8ed975c1d10932847 *dist-aarch64-apple-darwin.tar.xz
+5a2c48ebc783aee7cd0aa74b4070af0bd76a14efdf1ece4faa014d986ac93369 *dist-aarch64-unknown-linux-gnu.tar.xz
+12016cfbf67845e6e295ea5b89dccb75def89c7b52d173a2cbb84b3a3df15ed5 *dist-aarch64-unknown-linux-musl.tar.xz
+f683a643af20fe76c89d81306c90dcc024f0022b8e0806aaf6d0ec8d57f46138 *dist-npm-package.tar.gz
+bf4fa3f8a22cfac4491e59725c0080ed0117b5af7ef848ab32bbc14e194f0a3d *dist-x86_64-apple-darwin.tar.xz
+9e25ecca7c7dea81fe21246cf034504b828ebd86f95427d6a7279ab4a09b054c *dist-x86_64-pc-windows-msvc.zip
+7b9a56a6dee7acfa74673d875074f446ef7a10acd32b282c791782295bff75f6 *dist-x86_64-unknown-linux-gnu.tar.xz
+7ee549be76a60797c922d5deb9244ecd46ab98fe7df33bb8f56fb96cdc4bd15a *dist-x86_64-unknown-linux-musl.tar.xz
+fb2a80f235ba41b2caaab839bff63593ba44dae1f55c728f54dfb27a6224bb7e *source.tar.gz
+

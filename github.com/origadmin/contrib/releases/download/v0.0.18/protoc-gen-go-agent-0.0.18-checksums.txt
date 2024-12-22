@@ -1,0 +1,9 @@
+cc62bc877d8e389970507f920d63220054233196899f84c6ab77311aadf7c67e  protoc-gen-go-agent_0.0.18_darwin_arm64.tar.gz
+af877d7386f19a81082e790267e5b21df5076afdc5e70ee732c1cbc70fb55d3b  protoc-gen-go-agent_0.0.18_darwin_x86_64.tar.gz
+9e9e93869211279dc73b8ff1f8e43589bed39654778cdd32e5ab406b02afbc2c  protoc-gen-go-agent_0.0.18_freebsd_armv7.tar.gz
+ada4d1625582999bff24e49b00c67fad4be4ad8deeeb3f6349b2908f60ea964a  protoc-gen-go-agent_0.0.18_linux_arm64.tar.gz
+2e01b9a959874799280c74b4e41419b3aa1ffc4e202f522646c55d4f128f2642  protoc-gen-go-agent_0.0.18_linux_armv7.tar.gz
+f5a75bc09eff9448886f7990023b13d545876be24ce6fc3247a0873e5d1dc4e4  protoc-gen-go-agent_0.0.18_linux_i386.tar.gz
+251982c687fdc5e4a37aa16616fa8f379c66c2750eda820cc8919e6a350c6c37  protoc-gen-go-agent_0.0.18_linux_x86_64.tar.gz
+b7511a9252ee5b41d6cae3a39cf52e5322247910bc246646882e212c94df45a3  protoc-gen-go-agent_0.0.18_windows_arm64.zip
+f0227856456b70590950404eb8633dd6927fda8bdee366daa1dcda99f2444bc1  protoc-gen-go-agent_0.0.18_windows_x86_64.zip

@@ -1,0 +1,6 @@
+c8be942fc1bc73d82a9e05d1fb2a9150750e5fe1634c9dd7a462a31dae3518f1  helm-locker-amd64.tar.gz
+0edc7d59448e895ee0296d1886dd7ed53832ac8811bd044d3ad1ac9dc54435a9  helm-locker-arm64.tar.gz
+e648450ad563967569c5517d495899ad0d1ba980cd8b487000f0983c01a80678  helm-project-operator-amd64.tar.gz
+c0bc45a918c9d37ef62b0af9104db9811d70b00b61b5163675d5f23988c11a41  helm-project-operator-arm64.tar.gz
+423c73fb7c97db7d8e76d2e42939509a765c33861deb7f6647081cce62f3922f  prometheus-federator-amd64.tar.gz
+5031e1a157700f4da41097299ab35d2f33e7537062aa9b7dd92dbba0ce9473e3  prometheus-federator-arm64.tar.gz

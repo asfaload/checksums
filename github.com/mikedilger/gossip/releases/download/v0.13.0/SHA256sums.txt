@@ -1,0 +1,21 @@
+05048531f68164055516624327f8154d9bf3256b3ba52097de554b4c4fc9be99  changelog-0.13.0.txt
+cfc8722786fdb59d208ebebb7a2dda8fd0e7373822731cdbae8b1ea6be206d07  filter.example.rhai
+e56a0164a951f9269de6c24f9d00613faebf7d2edb140217909e62fdaea7cfbb  gossip_0.13.0-1_amd64.deb
+e08c29f02d38064121bb76abd2cdfb6357f869254997dd864e7b092423636b87  gossip-0.13.0-Darwin-arm64.dmg
+3f9d3bd5e7e48cc83e437f53b9605a16b81c0df8b80d3124971c0290405add84  gossip-0.13.0-Darwin-x86_64.dmg
+c6b1537aa0a94fc01f6972c3085fba92ce00d6bd78383b99a637f1ec0d67c933  gossip.0.13.0.flatpak
+4baa638738860ab5b32d9a6ceaa516f381f6a411a2cabbe1614823f29ca4f719  gossip.0.13.0.msi
+e3bc4161d4f659e1d3d5553fec216378109d06ba0c5da8e165dcda5bc1b917f1  gossip-0.13.0.x86_64.AppImage.tar.gz
+25155c43f1b12dce73d4da04dff263995976cfc02a9251e415e2f1c7cdf0da5b  LICENSE.txt
+51d1df41814165378d1d7c305fcb6ca29f4a9fba02b84bc11b895eada8c40716  README.flatpak.txt
+702bd583d106ed3d142f7cf92eb86a681fa93a7e46c3a1643773374694242bf2  README.macos.txt
+32edc1a7ad1dccbabc174e4959358a779bf4cce2e938481c7574d1b99ece54aa  README.txt
+5e3da4edc740244d454a36f7d77f38d100ba68eafab4ce9c529eda3b40a59121  README.upgrading.txt
+
+
+WARNING: This file is not signed! Anybody who could modify the packages could just as
+easily modify this file! Therefore, you should verify these sums against a signed
+nostr event from the official gossip client nostr account, which is probably this (unless
+somebody edited this file!):
+
+  npub189j8y280mhezlp98ecmdzydn0r8970g4hpqpx3u9tcztynywfczqqr3tg8

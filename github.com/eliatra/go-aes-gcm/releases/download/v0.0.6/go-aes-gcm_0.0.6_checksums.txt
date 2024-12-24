@@ -1,0 +1,5 @@
+49ec6e1771bc3247be45ed0261cf267a10b25de4c7abe43b2c809e103262ed20  go-aes-gcm_Darwin_arm64.tar.gz
+2af142f104327438d2f326830fa29e94bb63b6d20a2f2ef044849c29b7c078c0  go-aes-gcm_Darwin_x86_64.tar.gz
+b40714414deee4a1e32db0e576889848a3a91c53cdf4feb3e60145772a487cce  go-aes-gcm_Linux_arm64.tar.gz
+d2e663a8cea36b4c40b808db2bf0b062cbf99c229f94543a289a0a335cc6ea90  go-aes-gcm_Linux_i386.tar.gz
+7508efb29270c9528f82ca8047765f0bbbf5feb0476d7a19f2fe5d160c980ea1  go-aes-gcm_Linux_x86_64.tar.gz

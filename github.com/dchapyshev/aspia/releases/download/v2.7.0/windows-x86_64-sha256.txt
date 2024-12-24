@@ -1,0 +1,16 @@
+|                       File Name|      Size|                                                          SHA256|
+|--------------------------------|----------|----------------------------------------------------------------|
+|                aspia_client.exe|  23100928|7bb1d59555835799767367b0684ada70594f50157156679b23808a8312512404|
+|               aspia_console.exe|  23806464|9922012e8e8c94e05e52c244cc70ace7b7d559aceed1303f8e1b84bd80e9b49a|
+|         aspia_desktop_agent.exe|     90624|ea3c79a9466683de48ec9795e557e3f09efd28d4ae32fd122bcda40af6bb77ce|
+|   aspia_file_transfer_agent.exe|     90624|b10ae3fddc3d7a095ae03223b21abffca837eee1c8ff88af8407fb471380d7c1|
+|                  aspia_host.exe|    132608|c4adc98ec9dc8e86826e126b003f50edc8436f871bef7fc73ee4f47f1936c91f|
+|             aspia_host_core.dll|  22973952|1f822b4611e6baa894e6e280d0348234dc3fd5afd0d750c93c92061af1d7d736|
+|          aspia_host_service.exe|     93184|e196226226b16622842be51830ad6f864ab19f98b97aea47d097dbeb99297978|
+|                 aspia_relay.exe|   4755456|612c478bf5f854868298b4b4f7bee05cd9bae93058d16f93a1dc281841e4d7f5|
+|                aspia_router.exe|   5887488|8461b275b3d770205e06444cb1c724d241cca7a9234b8552c7d2ec2ec3d45277|
+|   aspia-client-2.7.0-x86_64.msi|  12369920|a7efaaa05e0b4e7f113a8db09619897b19c09d0625928d8987e9a6c17bd6ccfa|
+|  aspia-console-2.7.0-x86_64.msi|  12705792|151b17daf75bce1392a39e1d6b729791b65450629806a902407f1222f8e27828|
+|     aspia-host-2.7.0-x86_64.msi|  12726272|8ba2a5dbb716edfb7bbd72483163111f9efd6e978ae0f81a0769842970331d5d|
+|    aspia-relay-2.7.0-x86_64.msi|   3043328|e2de3180974fd57f77e68cdbe0b04d5fe28d9a552ad3c5078cb4f683a89c271d|
+|   aspia-router-2.7.0-x86_64.msi|   3641344|4f0f9f43b6e6190bf3ce192049e197d853b0bead420b3322d622bee3fadb8ad7|

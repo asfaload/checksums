@@ -1,0 +1,14 @@
+570fd87e1c42bf219401a328246a9166630c8c37404bd21e93d3e3e23c87439f  pulumi-harbor-3.10.17.tar.gz
+adb37031beea2a866a2f9bbfeb7a08ac070d1879cbcb749e2e5d9e95e6a2d571  pulumi-harbor-3.10.17.tar.gz.sbom.json
+9d33c489b51d2570895df4133e637c3e2204df4a45793d717077b9b73a99c9be  pulumi-resource-harbor-v3.10.17-darwin-amd64.tar.gz
+e431b66f19cff964c11ab55129c20bcdd46fcdd6cd5eb7d8f42d5934adec3219  pulumi-resource-harbor-v3.10.17-darwin-amd64.tar.gz.sbom.json
+52272ea440d71c5aef8649e6ff2931c97c2a7e07e2adbe19f7f8ec29a6d44e85  pulumi-resource-harbor-v3.10.17-darwin-arm64.tar.gz
+35dfcdc30f8877794dc021b304da2fd2fd391bd29d1ec426e5c77f6d4b8f1fef  pulumi-resource-harbor-v3.10.17-darwin-arm64.tar.gz.sbom.json
+f069a4d146942933147e63030c529b662f66f4a7fa159da596cf550001bbb8b0  pulumi-resource-harbor-v3.10.17-linux-amd64.tar.gz
+4e2d7270d18e2d4ac429e3e4cb2939c48b0e9f4961eb8dedd0859361b45a75fe  pulumi-resource-harbor-v3.10.17-linux-amd64.tar.gz.sbom.json
+bd92f95063b1e4eb8bd9167a2e8cd2d8bff9d9e45be057f96ba9f3de5271838d  pulumi-resource-harbor-v3.10.17-linux-arm64.tar.gz
+20a5ff6e22d5322fa4d930c218a0bffb4a02484e63798df5faa7e17a7ba2e123  pulumi-resource-harbor-v3.10.17-linux-arm64.tar.gz.sbom.json
+08172198c71d51e7e30dc08a3926d8604fbb3ba54c00d5fd0da8edc8c9184ef3  pulumi-resource-harbor-v3.10.17-windows-amd64.tar.gz
+a397551b497a64016f6401bf6143fd4266de402d565e501106f1ed68ac91bda9  pulumi-resource-harbor-v3.10.17-windows-amd64.tar.gz.sbom.json
+4b01f4ee4a25db2906ffd4741617cd03750eb52ea38089161f2f26ff0c1d8296  pulumi-resource-harbor-v3.10.17-windows-arm64.tar.gz
+f3b702fd541be58dfbf4022cd5ea4728096f82dfb565685d56e5d47202ffa638  pulumi-resource-harbor-v3.10.17-windows-arm64.tar.gz.sbom.json

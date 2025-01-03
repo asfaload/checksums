@@ -1,0 +1,5 @@
+6d996ca6e7bd5e003371bd8ee97b20c3295449e4  ./pulumi-resource-signalfx-v7.5.0-darwin-amd64.tar.gz
+afa243191bbf820ee170d16cee02e95b35e52c8b  ./pulumi-resource-signalfx-v7.5.0-darwin-arm64.tar.gz
+cbb7b997b8b33caa257500965b8a5011276bbbb8  ./pulumi-resource-signalfx-v7.5.0-linux-amd64.tar.gz
+7482063f5122ac8143f790781b3c94389fb0455a  ./pulumi-resource-signalfx-v7.5.0-linux-arm64.tar.gz
+13fd43d2a12c47178a3d4f5ee1a8ddcad5f3c161  ./pulumi-resource-signalfx-v7.5.0-windows-amd64.tar.gz

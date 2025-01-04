@@ -1,0 +1,5 @@
+2c4cb9bef11166020dd86f7fb8261bc7d410dea4  ./pulumi-resource-libvirt-v0.5.4-darwin-amd64.tar.gz
+348b7e0183d9cd061543a051ac49210a5216acc5  ./pulumi-resource-libvirt-v0.5.4-darwin-arm64.tar.gz
+71a9a8304bace5e1c85c207df0e08a852e469c24  ./pulumi-resource-libvirt-v0.5.4-linux-amd64.tar.gz
+1d00cf9fd3a36243c9e345abf28de8b9ace4a6f4  ./pulumi-resource-libvirt-v0.5.4-linux-arm64.tar.gz
+9727aea203b79ce69c3a49d9f55ced5b6296482f  ./pulumi-resource-libvirt-v0.5.4-windows-amd64.tar.gz

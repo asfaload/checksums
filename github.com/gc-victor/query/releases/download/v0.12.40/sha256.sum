@@ -1,0 +1,9 @@
+aefac1b06b1770df1ff24b0f5ec68f2bc32f5f2e9aee2e3df0116d2aaa63988f  query-aarch64-apple-darwin.tar.gz
+31bae7825f96aacf3b4fa5c206796238481bbac644e84190804b78880f936a26  query-npm-package.tar.gz
+b720b8f04a65ad7f3fa8e7f884b076012c1583b66219df66dd7eb568a0c2be6c  query-server-aarch64-apple-darwin.tar.gz
+5f7e1caa7a941aac25475c9d0ad0c3e907ea279325edb46491be3cf0414b721e  query-server-npm-package.tar.gz
+b259d88d7d6ef71717e8710c73e759c540c485e466c53da8d5083dcb9b436102  query-server-x86_64-apple-darwin.tar.gz
+36dc71553777c3fa0ab20a2982a332f631bd3b16a39232a7b4f2d14d9cbc29c7  query-server-x86_64-unknown-linux-gnu.tar.gz
+c478a12dbf882e46785642a58668bd228df59645d3df6b41e3a54b6bcb0bbcc0  query-x86_64-apple-darwin.tar.gz
+1c7c38c73e24683c51b982da67e7967a9bfc2643ad13b2c78b47b88bb9d06858  query-x86_64-unknown-linux-gnu.tar.gz
+245c0546640b3b706a8fccbd9e322a5096b25a27a7fc65dd5abf6e5addede819  source.tar.gz

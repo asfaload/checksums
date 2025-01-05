@@ -1,0 +1,5 @@
+c88c4712d0de1622f59d5bc57e0e1c9c278fc4067b035c413c86559b0de12731  cargo-fslabscli-aarch64-apple-darwin
+6632da199ad6faa2421883e6fb324ea49ce66bda8e3b41918bf9766b6be9a435  cargo-fslabscli-aarch64-unknown-linux-musl
+3eab03fb4d0a01cbc89032cbc7f1e387e4958045c923efe6bd403e19730af59f  cargo-fslabscli-i686-pc-windows-gnu.exe
+12b481ff63bf1d1aadf47ffbc426bc19084a9d34e00c1ef30f5d13c9219cd907  cargo-fslabscli-x86_64-pc-windows-gnu.exe
+9e3176b15fb2a14bd770457da99ec13b00e1f45524369fd7b7bbc356f2e5cbaa  cargo-fslabscli-x86_64-unknown-linux-musl

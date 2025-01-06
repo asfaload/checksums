@@ -1,0 +1,20 @@
+
+7-Zip 24.09 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-11-29
+
+Scanning
+2 files, 171720843 bytes (164 MiB)
+
+SHA256                                                                    Size  Name
+---------------------------------------------------------------- -------------  ------------
+372c5e09dd090effcd215b23568d559869a602c8b846a4ef056d5085b7c11562      97209340  EasyTidy_1.1.3.0104_win-x64.zip
+1f7f12ee14e548f4c044e70f409e7ac91b3880940a9ceec68f8078a031119a6c      74511503  EasyTidy_1.1.3.0104_win-x64_7z.7z
+---------------------------------------------------------------- -------------  ------------
+56ab70f7f1ee56f38e664233962bd06185de825cc3e292b695edc825e9d2afce-00000000     171720843  
+
+Files: 2
+Size: 171720843
+
+SHA256 for data:              56ab70f7f1ee56f38e664233962bd06185de825cc3e292b695edc825e9d2afce-00000000
+SHA256 for data and names:    8d4948fc79bf37b261d1723a9acb7f7edca8e955f914f3cca74db80da390b79b-00000000
+
+Everything is Ok

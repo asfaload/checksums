@@ -1,0 +1,5 @@
+2232d7db59c484788378494d6a13b47f14ccee1784749a4c6cc3bb014b0e2abe  sbom-operator-0.36.0.tar.gz
+ece3e9275f7e88169b96ed43bb11a4968a426d8b6c261bd4f1fd40938631aef6  sbom-operator_0.36.0_linux_amd64.tar.gz
+5c7f06292d486f587ddeb6179d366bedd4b911414cb4dcea79187958f2399896  sbom-operator_0.36.0_linux_amd64.tar.gz.sbom.json
+02d64361344b233c69863a0dbbf47843b10819c8257f4b3e4cc3ca6a9e7ea667  sbom-operator_0.36.0_linux_arm64.tar.gz
+7549646808033ead39c77f2c82df63b81a2ff15c80b1c6dc52040d2f588d3b87  sbom-operator_0.36.0_linux_arm64.tar.gz.sbom.json

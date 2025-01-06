@@ -1,0 +1,12 @@
+f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0  furble-boot-app0-m5stack-core-v2.3.0+1.bin
+f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0  furble-boot-app0-m5stack-core2-v2.3.0+1.bin
+f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0  furble-boot-app0-m5stick-c-v2.3.0+1.bin
+3d97b71a61331ebaddef2a74e090c35299650f395f1387f85130010e84e46563  furble-bootloader-m5stack-core-v2.3.0+1.bin
+a23f2db3a09e9df581a397ade210cce2224b593f8ae563a28f75b5b9795f30b3  furble-bootloader-m5stack-core2-v2.3.0+1.bin
+3d234a7471f67b013686dabd4dee7c1fa915c9928463616a94bc9297acf1abf8  furble-bootloader-m5stick-c-v2.3.0+1.bin
+b0984f51a2054a1353a212e23a59e5253dd9c1bdb1bd0f1a8d66a140c23fcb2a  furble-m5stack-core-v2.3.0+1.bin
+ee528194a21861ca5f09d4613055fedc6aac895097263239d97d1be9698c1b76  furble-m5stack-core2-v2.3.0+1.bin
+7042918466891baba19837e458e4ce96c76f918a1b82709f7f9b5883bee1e481  furble-m5stick-c-v2.3.0+1.bin
+148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1  furble-partitions-m5stack-core-v2.3.0+1.bin
+bd0f7954aca2ef7d925ee21aaa1f3dc8822d1d6ce5cbbd26a135e5886bfff6ce  furble-partitions-m5stack-core2-v2.3.0+1.bin
+148b959cbff1c38aa8e1d5c0ba9d612c54997b945e56a63f41223eef650653a1  furble-partitions-m5stick-c-v2.3.0+1.bin

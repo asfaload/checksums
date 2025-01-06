@@ -1,0 +1,10 @@
+9451b6b9a000d9eba9d02787f7e788bf40e6d3cdb84a3044ac8252659fcebe95 *2025-01-05-openwrt-x86-64-generic-image-efi.iso
+259ebd0ffde3eb47ae1c3cfe507c0b85f2d4622b909cd322d6af796b7485c61b *2025-01-05-openwrt-x86-64-generic-kernel.bin
+b454c2b0302b6563daea57f60be5ae7d99972aa9b4e8151414e1eaf6e6174495 *2025-01-05-openwrt-x86-64-generic-rootfs.tar.gz
+15bf6d04a4b1340eba85120080f8dbabcdfcf1d162b0bb4ca147115f1333c063 *2025-01-05-openwrt-x86-64-generic-squashfs-combined-efi.img.gz
+90596d23592da46545e6f6b3a3d0540bfdab4907b14f03598aa66c2a5d134764 *2025-01-05-openwrt-x86-64-generic-squashfs-rootfs.img.gz
+c4ac10819c5ea02a0761341a3fa046559105f7eeca09e719d3528bac1bb662c5 *2025-01-05-openwrt-x86-64-generic.manifest
+40e141f962fceaf124c4821be55821a21e6e2006a708b38c9be0af7b315a1d09 *config.buildinfo
+cd6d5e9a7fddd8ae54677316566b7c9f09053ac1dff6be52e72fbcb3b243bb1c *feeds.buildinfo
+2ee52d3ec48efb80af8e911a74a2e51119a98300a14f976fded712aa393ad022 *profiles.json
+1b00c51cff87427c9bf2d490bbe260c6dc185d90640c4bb06fe0ea27a70dad4c *version.buildinfo

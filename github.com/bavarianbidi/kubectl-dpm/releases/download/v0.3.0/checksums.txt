@@ -1,0 +1,4 @@
+ba5e253db37efbaa4eab1a31d3e7c02b2c7a6960b00a8248736bd38815bdbacc  kubectl-dpm_v0.3.0_darwin_amd64.tar.gz
+3d438be1094e55eca331122efd33ccfa9ab5ef42cadc7fa73587081f6d6160e1  kubectl-dpm_v0.3.0_darwin_arm64.tar.gz
+cd89f3ef3229fbf4a16f77c544f240d55f27a97d8c069a22f7e42b31c81c389d  kubectl-dpm_v0.3.0_linux_amd64.tar.gz
+dd4bb1314f3d9f0bac845dd7a38719b27a12f58eb3e7bc80d37430b4f9639861  kubectl-dpm_v0.3.0_linux_arm64.tar.gz

@@ -1,0 +1,16 @@
+245578e1d510ffbfb3e9b0aabc224aebfd2aeaefd01ceafccf4774ab28a990a1 *openwrt-x86-64-generic-ext4-combined-efi.img.gz
+414918332613edda2938a1dddbcb10c401c6865452802796da032d8044aa98b8 *openwrt-x86-64-generic-ext4-combined-efi.vmdk.gz
+ba877edf5e50accc5d16b91a4cf1cbd242f194d86f5fdc48e86cab3a90b9b150 *openwrt-x86-64-generic-ext4-combined.img.gz
+0737578b9fb4bccf934d80a46d69bace44f99404b294a5cfb0f8d3fd5327b9a2 *openwrt-x86-64-generic-ext4-combined.vmdk.gz
+1f8ec051230df5fb76c7c7b4536af3cfe8688714813664ccf5e58ea1b6307323 *openwrt-x86-64-generic-ext4-rootfs.img.gz
+215c3a9a5fa2922fa2160d9c23f6c1384631e891efdc77311a1dff7ec0f3638a *openwrt-x86-64-generic-image-efi.iso
+65715b62069f30525177845b28393dbe34a872c4feec2c0446f1a126707555a8 *openwrt-x86-64-generic-image.iso
+585847bb94bcbdf9a933b175b9a304afe45cf8fe1fd9a7be6c97b4673226a855 *openwrt-x86-64-generic-kernel.bin
+7bb29085d03297d7ea2399629fee3d1f6b4fb126df9507815449cd1293cc5f10 *openwrt-x86-64-generic-rootfs.tar.gz
+28868aff35603cfdf7bda637535b9d536fc77ea6b7ae19063f5cd9070f81ff25 *openwrt-x86-64-generic-squashfs-combined-efi.img.gz
+361151b7c6f795543f105e5cf650364a2572ef53837c2ca645d1b1de7f6fd8da *openwrt-x86-64-generic-squashfs-combined-efi.vmdk
+1eb7c29a5ebf695e9bbf71e3eb950c4a9eaf31ba1b8e334c06eebdf251a2bb88 *openwrt-x86-64-generic-squashfs-combined.img.gz
+392554413babc26bee2e2b4fda02e5a7a3e7e56b9330cb78583b7c469ea2d659 *openwrt-x86-64-generic-squashfs-combined.vmdk
+6f2e1f6f6dcc8bbaba8227e555f99a0416b6c7a087f428db056dca2acf0329fe *openwrt-x86-64-generic-squashfs-rootfs.img.gz
+4bcb1fe1e5e712ce457b27abe38aa4712754559cb54b9597378dbc229baafc47 *openwrt-x86-64-generic.manifest
+a37a7583c3db4b2d4841e595d80ef98ee3113943d88cdfc96727c3ed5f6c0116 *profiles.json

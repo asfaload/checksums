@@ -1,0 +1,5 @@
+dd92c60242f7974194d16e1bb8bcb0206c6c1c33c6e8da867b29d2c0f39361db *jaeger-1.65.0-darwin-arm64/example-hotrod
+f49cf360091f71388eb1af7204925f7440c9ba8d27cb4fef0c1af4bafb671204 *jaeger-1.65.0-darwin-arm64/jaeger-all-in-one
+91321d1e5c77d452055312e8cba596a32fc1a8fb4a7932a3fc8451950dfe4364 *jaeger-1.65.0-darwin-arm64/jaeger-collector
+e917b5a6a8d21a6888be46b4a258284f9cae21d299452d68a6180fad0e912517 *jaeger-1.65.0-darwin-arm64/jaeger-ingester
+c62581a5ed303d49dccd6dd68c741cbab829049b3a434fe60af976a3de6950b0 *jaeger-1.65.0-darwin-arm64/jaeger-query

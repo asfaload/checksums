@@ -1,0 +1,5 @@
+0896ea7cda49b8fd2529f7bd04e3327e60e79773147e4e1efa07d31024cf5bc7 *jaeger-1.65.0-linux-s390x/example-hotrod
+96eadbb8425074b1eebb6198e49265e9a7bb7de009caf8e95e2ebe0a0b8fe258 *jaeger-1.65.0-linux-s390x/jaeger-all-in-one
+7642c76675f6f9de659a6d9f3483f07f7adecf07341048d5ade05361e0bb8dc0 *jaeger-1.65.0-linux-s390x/jaeger-collector
+8bba6ece6df2603af611d74ca797a036aefe603bf373106ef3c7552f8d29a2a0 *jaeger-1.65.0-linux-s390x/jaeger-ingester
+d158732dcf8eaee1460ff26de838d026a0876933d594041db4ad72b5479d5f0c *jaeger-1.65.0-linux-s390x/jaeger-query

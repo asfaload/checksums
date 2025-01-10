@@ -1,0 +1,5 @@
+005b9dc5136a55346f8c85b7960ddd114e16e85db96f882c87e28b80849a4ed0  fake-gcs-server_1.52.1_Darwin_amd64.tar.gz
+a03bedb0368677fecca016849770346ebac5ebde3804409d0b794f56755e1ee7  fake-gcs-server_1.52.1_Darwin_arm64.tar.gz
+6cedc80f470b9843c16adce98fab0d4078ccd768ab204b896510f10e5db3e13b  fake-gcs-server_1.52.1_Linux_amd64.tar.gz
+7effb7f2be575fc85465ba1381b8c9aa516d3e00f26e298359812b7976741c87  fake-gcs-server_1.52.1_Linux_arm64.tar.gz
+d310d153763a96dbb554a61b0ae5fa239e0c4ac9de9807163363b6af21b24edb  fake-gcs-server_1.52.1_Windows_amd64.tar.gz

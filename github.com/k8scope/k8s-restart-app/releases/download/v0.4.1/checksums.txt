@@ -1,0 +1,4 @@
+446a905e4e06d7a5bd82fdaef72d348d5289fe18c03d47c636c503325ed2de86  k8s-restart-app_Linux_arm64.tar.gz
+a6aa54c85d64a79f370d673a956466cc808c08a2c2c64219b5c7365eda9d9b95  k8s-restart-app_Linux_ppc64le.tar.gz
+87944c4f0a0e03a31f3aa037fc45c7bf56734b19b24dc89f14a666c366d7d289  k8s-restart-app_Linux_s390x.tar.gz
+11da895d2e293d03f57d5a4cca95be3ccfe556aa3e5005f5eaf74a4511ddf74e  k8s-restart-app_Linux_x86_64.tar.gz

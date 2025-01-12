@@ -1,0 +1,5 @@
+f310736cba64cbc82f7ce3c717bc60bb3af2f08236811726827fa4b8ecdaa38b  microcks-operator-0.0.2.spdx-sbom.json
+0079b1fca9dc3ab62501cd7745170f5ebb9c36f671a05df4ef9f37dc02fa386a  microcks-kube-api-0.0.2.spdx-sbom.json
+b60303592631639975a74d5e2967f5250458cbcd20446eb6d61e60adbff3cdad  microcks-kube-operator-0.0.2.spdx-sbom.json
+1775ddf8cc051524c78e3cc77fde653b26a7931c1794717793fc05c5579d82de  microcks-operator-0.0.2.tgz
+a7dbee2ad6001dac406bb294c0cb60fa39103cb553f3bbfc70b7f017fe297ff8  microcks-operator-0.0.2.zip

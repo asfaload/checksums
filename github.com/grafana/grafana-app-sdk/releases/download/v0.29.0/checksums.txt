@@ -1,0 +1,6 @@
+f886625dcaa41df381b14996402739a077a5bcaea8613d916ddf6783cbd669ee  grafana-app-sdk_0.29.0_darwin_amd64.tar.gz
+31afd843848df83afec1bb12689b3f17572416062e0dcf1b2696fc37f42af2f8  grafana-app-sdk_0.29.0_darwin_arm64.tar.gz
+b274e3efe488177d9cd67c0da1861adabe41c43cd44de27768f5089dfbe3f751  grafana-app-sdk_0.29.0_linux_amd64.tar.gz
+be9c6cb18867c46b680c7c5529a0a296775c31b14fe3934066cab24b207b1a90  grafana-app-sdk_0.29.0_linux_arm64.tar.gz
+a7293556c362e1d13f9734f40e7ad52594f4b71f51b3e4f6221a204284d212f5  grafana-app-sdk_0.29.0_windows_amd64.tar.gz
+c0d2e6a952b15a1e630224da926caf004c4c313d54effd187b4c0217950da77c  grafana-app-sdk_0.29.0_windows_arm64.tar.gz

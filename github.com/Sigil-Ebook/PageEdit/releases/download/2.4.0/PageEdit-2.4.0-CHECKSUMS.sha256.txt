@@ -1,0 +1,60 @@
+SHA 256 Checksums for each Download
+-----------------------------------
+
+2bd78d58d0c5566c39623afb696a8fab0ba4d3ef1ce20692e3bd5050f7d09dde  PageEdit.app-2.4.0-Mac-arm64.txz
+e00b02ee18c8b62bf699a3cfe570f27acc82bec3c829c950634f893870372868  PageEdit.app-2.4.0-Mac-x86_64.txz
+2ad9f5b1d760f20099bb05b0bb9c42c6de9a9bc80313020072d776e6d958dca1  PageEdit-2.4.0-Windows-x64-Setup.exe
+
+**How to Verify SHA 256 Checksum on Mac OS X**
+
+1. Copy the downloaded file to your Desktop.
+
+2. Navigate to /Applications/Utilities and double click on Terminal.app
+
+3. Enter the following lines in Terminal.app hitting return after each one
+
+    cd
+
+    cd Desktop
+
+    shasum -a 256 PageEdit.app-2.3.1-Mac-x86_64.txz
+
+4. The resulting shasum should match **exactly** the same string for that file in PageEdit-2.3.1-CHECKSUMS.sha256.txt
+
+5. To leave Terminal.app enter the following:
+
+    exit
+
+
+
+**How to Verify SHA 256 Checksums on Windows**
+
+Borrowed and Modified from Apache OpenOffice: 
+
+    https://www.openoffice.org/download/checksums.html#hash_win
+
+
+There are several tools available:
+
+    "FSUM" - http://www.slavasoft.com/fsum/
+
+    "Quick Hash GUI" - http://sourceforge.net/projects/quickhash/
+
+    "SHA256 Checksum Utility" - https://kanguru.zendesk.com/entries/21747773-SHA256-Checksum-Utility
+
+    "File Checksum Tool" - http://www.krylack.com/file-checksum-tool/ 
+
+
+The following instructions are for the "File Checksum Tool":
+
+    1. Start the tool from where you have saved the downloaded file.
+
+    2. In  "1) File to Verify",  insert the path and filename to downloaded file or use the [Browse] button to locate it.
+
+    3. In  "2) Hashing Algorithm", choose "SHA-256"
+
+    4. In  "3) File Checksum", click on [Calculate Hash].
+
+    5. In  "4) Verify With", paste the official SHA256 checksum hash and click on [Compare].
+
+    6. Verify they match exactly 

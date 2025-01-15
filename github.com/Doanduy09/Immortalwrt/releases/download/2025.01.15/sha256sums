@@ -1,0 +1,13 @@
+7d4dae6914fb86fb4f11eeb425854b4256adad4ac3547e925fa9942500d5b07f *config.buildinfo
+1ac81801b737fede53d93f2fb5126202514736c63a362b0666b58663096c7e2f *doanduy-24.10.0-rc3-r32584-afde822cf7f9-x86-64-generic-ext4-combined-efi.img.gz
+a894f07d0a7230b21c9b09f86d6252e451e53418f56f3aa3c49f66b7bb2f8b1d *doanduy-24.10.0-rc3-r32584-afde822cf7f9-x86-64-generic-ext4-combined.img.gz
+ae15da18132c55aed948f7b636a98b4daf8c6136afe397a365fdc3a5eb77dda8 *doanduy-24.10.0-rc3-r32584-afde822cf7f9-x86-64-generic-ext4-rootfs.img.gz
+5fa75a1c723367af1be077f629dd3a6fe0f2c450fb7946db1e8268a8006c2399 *doanduy-24.10.0-rc3-r32584-afde822cf7f9-x86-64-generic-kernel.bin
+27f4b2e53481bf05ee74bcd9f337465519a6f0dd589e58f6ffe4299629160848 *doanduy-24.10.0-rc3-r32584-afde822cf7f9-x86-64-generic-rootfs.tar.gz
+032e9aca12c7869ea10e40b46ebfa110684515870532023e34f50e3f3286d110 *doanduy-24.10.0-rc3-r32584-afde822cf7f9-x86-64-generic-squashfs-combined-efi.img.gz
+30bcabdb7a72964be4665cd67b164e60e887ba1eccd56a1cda1c9f81f772e8a8 *doanduy-24.10.0-rc3-r32584-afde822cf7f9-x86-64-generic-squashfs-combined.img.gz
+5efcf0ea10c3fa5886d4ef607de625340d463592ee2a47c57ba0583ab3064bdb *doanduy-24.10.0-rc3-r32584-afde822cf7f9-x86-64-generic-squashfs-rootfs.img.gz
+775b5acb70a587ec736c55993ebd60d5c13f07e4fe8478dbc102a3a3410889f3 *doanduy-24.10.0-rc3-r32584-afde822cf7f9-x86-64-generic.manifest
+fce5ac4904c1ee43041c35f29d0db1f5e2d4e5fbd8a99ee2938238b84ac82251 *feeds.buildinfo
+ffa30e7bea3080334577295d392a634beb5265bfdaa23fd802d4ba82a98e99a9 *profiles.json
+8196ee3e6f6a507e9dbdedec7a6e214a6c0ffb5669977d912257eb8f61407a58 *version.buildinfo

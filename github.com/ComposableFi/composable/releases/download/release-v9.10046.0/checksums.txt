@@ -1,0 +1,8 @@
+927ef7c82e94cc6c13a67f674b319c21588111a53c94dab01dfa9c39fd6a274c  ./composable-node-9.10046.0-1.x86_64.rpm
+c97704016958ea32eadaf6962386ae13e225044ec2ecf8bc575bd58af831f760  ./composable-node_9.10046.0-1_amd64.deb
+45e9237260bfe1f204ce4ff12b937036425f104a2ef53b2e5518414cece9d6f2  ./composable-testfast-node-9.10046.0-1.x86_64.rpm
+26ffaf2f5d7646d8c9cefdbae70c8c9d83ef6dab49be62f34dd80b404edd1db5  ./composable-testfast-node_9.10046.0-1_amd64.deb
+6854db0ed875c054cffdd4279512341761df0975d3c0e5f67edc9d811749ac7d  ./composable_runtime_v10046.wasm
+8ba90b2a32d2b1a10130c4133ab36e97fb12d486e8a97d3dc857e99aabc22943  ./composable_testfast_runtime_v10046.wasm
+0f3e639ef895fe5e9e71928169eb806647425aa9f91b2811b48fdaeafce5764e  ./picasso_runtime_v10046.wasm
+cddfdee3299d2acbe389d7388429e624b3c4356e578b886ba760d24664c06d9c  ./picasso_testfast_runtime_v10046.wasm

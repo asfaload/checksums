@@ -1,0 +1,6 @@
+0a20e0ac4db582a726603b533a8fef8fc6345da4c4990e9707ec291205fa0f0f  pulumi-resource-kubernetes-v4.21.0-darwin-amd64.tar.gz
+0148dcb398715452d26d93beb688636146f93ad7db47b70337c0e2007fdbf279  pulumi-resource-kubernetes-v4.21.0-darwin-arm64.tar.gz
+d65b5a3700a110782307bac69d9b55d6f667229b96f5fd0d50088ff544271ed3  pulumi-resource-kubernetes-v4.21.0-linux-amd64.tar.gz
+1128b8c49c50f9749af190601808d2ff0e4fb7bbe151d4c7acd75e230f5bb7ea  pulumi-resource-kubernetes-v4.21.0-linux-arm64.tar.gz
+6d412312feec5d5529c940d3e5f1915081405a08852e42f284e27c53fafe78c2  pulumi-resource-kubernetes-v4.21.0-windows-amd64.tar.gz
+ff1d369449f9767a6f1342e1822fd6a5a683aff844f05ca5c3d627dd35a618e8  pulumi-resource-kubernetes-v4.21.0-windows-arm64.tar.gz

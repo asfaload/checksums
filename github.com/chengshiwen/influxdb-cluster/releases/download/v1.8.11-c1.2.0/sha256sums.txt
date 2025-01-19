@@ -1,0 +1,10 @@
+56521aeb04bd0920d8a077ad3e5d51c4504af838a7af29e52d3467a2b42f7ed6  influxdb-cluster_1.8.11-c1.2.0_darwin_amd64.tar.gz
+8327b8886a3e0747fd55e015af90c9fa74b913279cf90437cccf978e2ae6d59b  influxdb-cluster_1.8.11-c1.2.0_darwin_arm64.tar.gz
+65d1f85cba449faafc510cf92216bf533cc4b911e034798de2e78dd2a7c6c6bd  influxdb-cluster_1.8.11-c1.2.0_linux_amd64.tar.gz
+a8ba4ed1560087b1514feb6e95cc3f363cd5704abeb6f56ed20ac5cca14a8edb  influxdb-cluster_1.8.11-c1.2.0_linux_arm64.tar.gz
+9298767c0753bcce965c24535b28c69d7a9df64e01c8d62d98929044acdfd13e  influxdb-cluster_1.8.11-c1.2.0_linux_armhf.tar.gz
+bd9398d5167ff3b1d4292ef16b13164de374cec311c991ea0befe74a65a9fe80  influxdb-cluster_1.8.11-c1.2.0_linux_i386.tar.gz
+d8d296634803bb65d839fdcdc19d0a552f6dd8de8aa007acc1ba87e2518d776c  influxdb-cluster_1.8.11-c1.2.0_static_linux_amd64.tar.gz
+09cb5fb9fe595fa9548bfd69d4f7ab1e88527ae732516a6640b3242703e8664a  influxdb-cluster_1.8.11-c1.2.0_static_linux_arm64.tar.gz
+1e6916b5e3a934dcebfec3e0b2d55329c3d452f8b65e4fe6686f422744fc38ad  influxdb-cluster_1.8.11-c1.2.0_static_windows_amd64.zip
+82445b0df3828635352da6fa6ff5bcc836d6d5c8d55e4b16cf0dcc7c10b66d5b  influxdb-cluster_1.8.11-c1.2.0_windows_amd64.zip

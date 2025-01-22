@@ -1,0 +1,5 @@
+0ed20d87caae60fd40b8400194231bb90704bf03  ./pulumi-resource-postgresql-v3.15.0-darwin-amd64.tar.gz
+0db43fb06ff62cccfd5fb113c9a0f9f23a27a8cf  ./pulumi-resource-postgresql-v3.15.0-darwin-arm64.tar.gz
+e50e4cf91745c1e94257b03008bb6af4b4d60202  ./pulumi-resource-postgresql-v3.15.0-linux-amd64.tar.gz
+b9ddb306988075084d6c237cd4173b8b2979cf6c  ./pulumi-resource-postgresql-v3.15.0-linux-arm64.tar.gz
+36f8351f9ef118a39094a53e8422f487cb9cb8c1  ./pulumi-resource-postgresql-v3.15.0-windows-amd64.tar.gz

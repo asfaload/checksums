@@ -1,0 +1,5 @@
+1ea6c1b72fcb390fc43792b978212a4c5f72581b  ./pulumi-resource-cloudngfwaws-v0.1.0-darwin-amd64.tar.gz
+6b2a879c032440adb8c5689824297db1620b06c4  ./pulumi-resource-cloudngfwaws-v0.1.0-darwin-arm64.tar.gz
+518ed49f66a2fc07d2a4e8bbbf1ba3620361b175  ./pulumi-resource-cloudngfwaws-v0.1.0-linux-amd64.tar.gz
+319b84988fcee8873a5763ffe511f75677c76bd5  ./pulumi-resource-cloudngfwaws-v0.1.0-linux-arm64.tar.gz
+689007f37ef3b982b1865fd3b27a93da3de80013  ./pulumi-resource-cloudngfwaws-v0.1.0-windows-amd64.tar.gz

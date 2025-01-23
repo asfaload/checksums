@@ -1,0 +1,10 @@
+ce245dc7b2f8dd52af4bd83e472f4c518dfb442ab945f8390388509e4cf25c56  jx-changelog-darwin-amd64.tar.gz
+f3f56848cda6a569b64809c1db6aa633767d2c7bd9e1f44502bc7f68e8a33470  jx-changelog-darwin-amd64.tar.gz.sbom.json
+37459a0488b086fee8bdcb7c90504166ee2579525e3d52cc8df879cd4a44a74e  jx-changelog-darwin-arm64.tar.gz
+f4bdc5f5053ff0696f87ca3a9e71b07631acc4beebe1b9eafd5a19de21001fa0  jx-changelog-darwin-arm64.tar.gz.sbom.json
+3540d4cc9be389e8aaee64f759eac2bacc26121672f85caaf2430b5aee936f11  jx-changelog-linux-amd64.tar.gz
+60264ccaf5d20f72f6bd365a35135206380d84263bf121f18d3c611d3019a084  jx-changelog-linux-amd64.tar.gz.sbom.json
+f15728ffea2d3f487e57a3de5a34ab5a4b54cd126a434fa615b9ac7cc97d9b5e  jx-changelog-linux-arm64.tar.gz
+80136a10a2d9b64355f419b21c98b5683b19ce3812137b7c8a78eb352888c10d  jx-changelog-linux-arm64.tar.gz.sbom.json
+d378ff05116497990660d2593c73b00b9296a621389076f91c3a03218f16b629  jx-changelog-windows-amd64.zip
+2a97e01b4c7a5299c2fc7088a99aaea4ca34dac2f21987f5c44e53fe5858d558  jx-changelog-windows-amd64.zip.sbom.json

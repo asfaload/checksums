@@ -1,0 +1,8 @@
+0bc2d731d6818b5452fc7c12f99b133b143a9806168504ac370c9d169a877fd9  helmfile_1.0.0-rc.10_darwin_amd64.tar.gz
+83bdd7d3c403d6710650cb00d2b50d582d94ec13be28a0e8f25afecba5332714  helmfile_1.0.0-rc.10_darwin_arm64.tar.gz
+6dbff818076b59c8a3fc5d5a2a8c31a90206cb7f1f0c62491e127215efb9e6bd  helmfile_1.0.0-rc.10_linux_386.tar.gz
+3e2c2f2d1848b1030ba897edf3aa203603d50efad754e97c65c072dcc62b01b6  helmfile_1.0.0-rc.10_linux_amd64.tar.gz
+669180878d6f6a70bccddd5ac01be7f416d1d8549749270c6913ebe904937efd  helmfile_1.0.0-rc.10_linux_arm64.tar.gz
+875623c3d0402bd0c85b018fa3345e172af2ecca25e54dff7a769abdd707c64f  helmfile_1.0.0-rc.10_windows_386.tar.gz
+f4cfc692809b6a017eb6570b7fcfb982174018d47f13dee7acddfbc123dda046  helmfile_1.0.0-rc.10_windows_amd64.tar.gz
+040167f09fdb1b8e6b2c2ab65851cfaf7bcaf412b3264eead1f991bf7440eb40  helmfile_1.0.0-rc.10_windows_arm64.tar.gz

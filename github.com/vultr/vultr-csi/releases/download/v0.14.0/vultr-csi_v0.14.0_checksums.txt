@@ -1,0 +1,4 @@
+cd588eae6c912d730bf907cc2a4c9ac0faad7b3c9d197dba008d7cfcc69c562c  vultr-csi_0.14.0_darwin_amd64.tar.gz
+c180ef0820cedaee5aef634ca871f4ab501d643ffc55f2d5f1efb8a999707417  vultr-csi_0.14.0_darwin_arm64.tar.gz
+8322f9a53efe1d9c8dd8fd6cf4d2f6a452abf6b4027d8e6f6ca0f2f21b437cd3  vultr-csi_0.14.0_linux_amd64.tar.gz
+6a701f6bb036ec2714495d0ce857753a1d000a080703faae72518cec5717ed90  vultr-csi_0.14.0_linux_arm64.tar.gz

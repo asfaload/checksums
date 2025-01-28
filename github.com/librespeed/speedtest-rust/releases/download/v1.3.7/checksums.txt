@@ -1,0 +1,11 @@
+4a434d201c2e3e9710588c906c4c93e4 : librespeed-rs-x86_64-unknown-linux-gnu.deb
+37572d5ede3487dab9c5243eaa4008a3 : librespeed-rs-i686-unknown-linux-gnu.deb
+b933631a3b683b0e8a2709f1587c8381 : librespeed-rs-armv7-unknown-linux-gnueabihf.tar.xz
+2873644ed93a69402e545429dd19f80c : librespeed-rs-x86_64-pc-windows-msvc.tar.xz
+f08c7addda4b2be270534e2cf9b65cad : librespeed-rs-x86_64-apple-darwin.tar.xz
+1cd0a4659a2004cf4c716efce85fcdaa : librespeed-rs-x86_64-unknown-linux-musl.tar.xz
+e6761295acdad688ec63c3426d6187bb : librespeed-rs-i686-unknown-linux-gnu.tar.xz
+a45c51f162b52574a1fff42352c41f5d : librespeed-rs-aarch64-unknown-linux-gnu.tar.xz
+eb4cd6db862e918a9787eea4540aa8cf : librespeed-rs-aarch64-unknown-linux-gnu.deb
+61f4ba205a7e37d042eb5acb14ea6fb3 : librespeed-rs-i686-pc-windows-msvc.tar.xz
+dea7987f308e662449a15f9120a7345e : librespeed-rs-x86_64-unknown-linux-gnu.tar.xz

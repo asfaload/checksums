@@ -1,0 +1,10 @@
+843accd659c4ce26455fbdc7f3cf764095fa3b49a4b55e86e4f8d352a114a22f  jx-application-darwin-amd64.tar.gz
+b614e237d08acee03ebced6a51e42e665716a1af53d4a5d093248545f3308f0f  jx-application-darwin-amd64.tar.gz.sbom.json
+c6fc8e99ddb17e9ca462932c688fc30d98eb070d578a4838af1c87315b8cc6fa  jx-application-darwin-arm64.tar.gz
+fb3b1c533add6801b6d199898cf7a7e55ab1439c35e0fa2d2f6e11184f4f8bd4  jx-application-darwin-arm64.tar.gz.sbom.json
+aad29434a4889ac6b43bf99a235f5b0476924d475f08735aa6ff3df144534628  jx-application-linux-amd64.tar.gz
+a4e7f0ea358994750570cd8972d788a920d91e1cfef7497f6a3afebb75bb8a7b  jx-application-linux-amd64.tar.gz.sbom.json
+373478348c62fc561aa0c11e97a809901dea66f5ef5e35c34f06edecc1e9b912  jx-application-linux-arm64.tar.gz
+d7c6d79e59eccb43c8ff748119d496456298fcda2e71c4cd3be7e608ddeb008b  jx-application-linux-arm64.tar.gz.sbom.json
+25c159249a58f9e03f0cf0de8a54f37244fae40df11631aa660c377775636669  jx-application-windows-amd64.zip
+aa7bed3a05c19c3a756a12e3280084125ee74a96da1ef7b8eb5517053c27bfcc  jx-application-windows-amd64.zip.sbom.json

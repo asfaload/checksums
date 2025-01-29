@@ -1,0 +1,15 @@
+6362cc1388442c932fb872bd34cdbca0ba1d17cf97ee2b39a7c4ff45e2109026  cli-plugin-gcp-0.16.3-darwin_amd64.tar.gz
+1d99be172641d791e61378d76b91dedda2c17cca73c2ae34c1bd65c8d2217157  cli-plugin-gcp-0.16.3-darwin_arm64.tar.gz
+4e36b084b4e22724fde870101af2b7a9420932fcd9a46746f7ee3cf59ea0c069  cli-plugin-gcp-0.16.3-linux_386.tar.gz
+4c53dc686a293ebc7f246c8e6bcdb7c73fe7309d48bd8eba6e4f67e44095568c  cli-plugin-gcp-0.16.3-linux_amd64.tar.gz
+8863b37fc2229c5975632d82e0862f18dd9351715d04a67289379127c433bc54  cli-plugin-gcp-0.16.3-linux_arm64.tar.gz
+1ee280121321402d4749006e3bd69b54676aa0d5d2ee8c6095c0cdb0d34830d0  cli-plugin-gcp-bigquery-0.16.3-darwin_amd64.tar.gz
+05bf36bae3764a9a89ff536fc734eb5cf90a14c94bd79c6a4b293c3dc57362e9  cli-plugin-gcp-bigquery-0.16.3-darwin_arm64.tar.gz
+eacec166ad59c951c7e951d656fbaa65e734b35af5e31eb3052f35a223088cad  cli-plugin-gcp-bigquery-0.16.3-linux_386.tar.gz
+96332ba40b3ff23cd503ef298da02b17b9e76e86000d4372214f05fb245ac0f6  cli-plugin-gcp-bigquery-0.16.3-linux_amd64.tar.gz
+9e18221c5bf286254d141d567f4ba0fb18782921bc969772617700b505f97eda  cli-plugin-gcp-bigquery-0.16.3-linux_arm64.tar.gz
+6362cc1388442c932fb872bd34cdbca0ba1d17cf97ee2b39a7c4ff45e2109026  cli-plugin-gcp-gcp-0.16.3-darwin_amd64.tar.gz
+1d99be172641d791e61378d76b91dedda2c17cca73c2ae34c1bd65c8d2217157  cli-plugin-gcp-gcp-0.16.3-darwin_arm64.tar.gz
+4e36b084b4e22724fde870101af2b7a9420932fcd9a46746f7ee3cf59ea0c069  cli-plugin-gcp-gcp-0.16.3-linux_386.tar.gz
+4c53dc686a293ebc7f246c8e6bcdb7c73fe7309d48bd8eba6e4f67e44095568c  cli-plugin-gcp-gcp-0.16.3-linux_amd64.tar.gz
+8863b37fc2229c5975632d82e0862f18dd9351715d04a67289379127c433bc54  cli-plugin-gcp-gcp-0.16.3-linux_arm64.tar.gz

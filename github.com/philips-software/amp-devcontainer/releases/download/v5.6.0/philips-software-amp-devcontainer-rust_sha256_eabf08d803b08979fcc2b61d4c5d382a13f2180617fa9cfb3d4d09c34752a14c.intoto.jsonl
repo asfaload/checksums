@@ -1,0 +1,48 @@
+{
+    "_type": "https://in-toto.io/Statement/v1",
+    "subject": [
+        {
+            "name": "ghcr.io/philips-software/amp-devcontainer-rust",
+            "digest": {
+                "sha256": "eabf08d803b08979fcc2b61d4c5d382a13f2180617fa9cfb3d4d09c34752a14c"
+            }
+        }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v1",
+    "predicate": {
+        "buildDefinition": {
+            "buildType": "https://actions.github.io/buildtypes/workflow/v1",
+            "externalParameters": {
+                "workflow": {
+                    "ref": "refs/tags/v5.6.0",
+                    "repository": "https://github.com/philips-software/amp-devcontainer",
+                    "path": ".github/workflows/build-push.yml"
+                }
+            },
+            "internalParameters": {
+                "github": {
+                    "event_name": "push",
+                    "repository_id": "593996679",
+                    "repository_owner_id": "39734771",
+                    "runner_environment": "github-hosted"
+                }
+            },
+            "resolvedDependencies": [
+                {
+                    "uri": "git+https://github.com/philips-software/amp-devcontainer@refs/tags/v5.6.0",
+                    "digest": {
+                        "gitCommit": "6cd8601f7cead7f34703d53bb2a1c24c5b9a0d32"
+                    }
+                }
+            ]
+        },
+        "runDetails": {
+            "builder": {
+                "id": "https://github.com/philips-software/amp-devcontainer/.github/workflows/build-push.yml@refs/tags/v5.6.0"
+            },
+            "metadata": {
+                "invocationId": "https://github.com/philips-software/amp-devcontainer/actions/runs/12925434826/attempts/1"
+            }
+        }
+    }
+}

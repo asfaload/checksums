@@ -1,0 +1,10 @@
+54c7aaa62915ec5415faa168b5711cc3b74e28456f249e68f2dddab2ad7f3051  ./daml-sdk-2.9.6-linux.tar.gz
+f9e60cd4591135d0b360bd86f04a3f1a0843c3decaa6f9f4e1b117890e0ab85c  ./daml-sdk-2.9.6-macos.tar.gz
+e09c84611ff8c717f7fdcae10b8ccbd6477a4c57231fc126794af061d3d62878  ./daml-sdk-2.9.6-windows.exe
+71cc16bf0334e8b1fdd3f892b1979e19679dbabb8fd8794dd7b133c4ef937891  ./daml-sdk-2.9.6-windows.tar.gz
+f5fa1ea6ce3fcc45156370322cfd1a07b8e48b37bbf4afe7711222c71a70e843  ./http-json-2.9.6.jar
+815942c359f23d30835c4a0f5a7ff8886e9741aba724ab3a539f3d32c216a3f3  ./oauth2-middleware-2.9.6.jar
+a9dc9cf5357954ddaaeb0cafc9192587495bec6828311546f4aff3f233e7a35d  ./trigger-service-2.9.6.jar
+e6ef45fccf1f06a921c6ac76325417e49030c1b7c200547e424ff22c9fcdd746  ./protobufs-2.9.6.zip
+72ca0e09a63e00244a7c30c04851def52e0d6d53aada4d97d3314a652f80a3ff  ./canton-open-source-2.9.6.tar.gz
+1a50c74d1f542e7765535f6e2070c5efc2b7bfda56935356e669d40efc226dc6  ./test-evidence-2.9.6.zip

@@ -1,0 +1,5 @@
+ec3dc6e30cf0c03e676a9bd4d0c5e346f4ddced4  ./pulumi-resource-linode-v4.32.0-darwin-amd64.tar.gz
+9aa703c31207c1e79f8c45e3de579f56a0e6c08d  ./pulumi-resource-linode-v4.32.0-darwin-arm64.tar.gz
+5d6188dd9a15500316ebe340dd89621cd3e3d950  ./pulumi-resource-linode-v4.32.0-linux-amd64.tar.gz
+d499cdbf90a0b69015eb594088451f5b61558cb0  ./pulumi-resource-linode-v4.32.0-linux-arm64.tar.gz
+33ec5f298c3ca0df732327acaa027fa7842948a7  ./pulumi-resource-linode-v4.32.0-windows-amd64.tar.gz

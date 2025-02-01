@@ -1,0 +1,8 @@
+d2389c957f3460c6f55c9a4c50c9ed23de03f45b957a5f3082cd227bdc26b220 *source.tar.gz
+ef9e2ee5955f2324fa0af238c6c434d284c7be22a7dfc049902d0ae848ba852d *synd-term-aarch64-apple-darwin.tar.gz
+6e146479d23388c557ea1834549c80b137ac561334fe76cc7d4337d4633c8abb *synd-term-npm-package.tar.gz
+29d0c303986adc368b2561dd28e179b1fc9de94647ac18475caad97b43abb2f5 *synd-term-x86_64-apple-darwin.tar.gz
+b5b1ea34448a97a7de14d297dada9ca47072b613f4fd3febdccf96b0b627f731 *synd-term-x86_64-pc-windows-msvc.tar.gz
+cbed7b52ad010f1db1944b351680f240d6ba2fc8431b49f4c5bb045ce8084b98 *synd-term-x86_64-unknown-linux-gnu.tar.gz
+d1ba0255f0ddaed4a1eae1c4faf4702c42aebd0debbd1a66fefab9d5bdf4262e *synd-term-x86_64-unknown-linux-musl.tar.gz
+

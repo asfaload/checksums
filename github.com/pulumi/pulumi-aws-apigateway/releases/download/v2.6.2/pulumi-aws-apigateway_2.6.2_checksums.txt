@@ -1,0 +1,5 @@
+fb31089364a0c1ef4ad63299d7f0e36161b494c1  ./pulumi-resource-aws-apigateway-v2.6.2-darwin-amd64.tar.gz
+d8cbf0c694cd8deb59449258ed780935c9fb060a  ./pulumi-resource-aws-apigateway-v2.6.2-darwin-arm64.tar.gz
+88dacc90c89d073f6c06bf298f53f147d3704868  ./pulumi-resource-aws-apigateway-v2.6.2-linux-amd64.tar.gz
+2b4ec6056c204c2556488d04226b856455483840  ./pulumi-resource-aws-apigateway-v2.6.2-linux-arm64.tar.gz
+7e2a27989d200fd4838bb5a87ecda6662df63e74  ./pulumi-resource-aws-apigateway-v2.6.2-windows-amd64.tar.gz

@@ -1,0 +1,8 @@
+8d36317cde79cf4351ab2059234d9b0e9b48da7b53833eaffec4ae98169d0961  go-ogc-darwin-amd64.tar.gz
+1d67a872892958b06ae788a213036d388d9cad06c50f9d486136aad7341df7cb  go-ogc-darwin-arm64.tar.gz
+ee20845dcf836dc5580999d51d4b1ba6197277b777fcf54cca228ad6353bdac8  go-ogc-linux-386.tar.gz
+eb2bf6a3e8a040bf40d66c10da1f31e86d763f6bca681a84a1232ac0549a9f3a  go-ogc-linux-amd64.tar.gz
+8fdb904b11162ab4575043908d03a1729189110443de0a91bc192904e08cbe3d  go-ogc-linux-arm64.tar.gz
+184e2319dfebdbedd24c99c3a1fa2d50ae01d90a0c9ee072dcabc169fa58d834  go-ogc-windows-386.tar.gz
+4adf1d5df9c893f889bae9d3e9cc52ad01d6f1ea734b84fe6057d26e50411547  go-ogc-windows-amd64.tar.gz
+3f31faf0bba7b9b406608dc0f9abd9e109eaebbd8b232c27cfbfb618e3fbea2e  go-ogc-windows-arm64.tar.gz

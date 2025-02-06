@@ -1,0 +1,5 @@
+190a7f7102ec35f91929f318f3d14019c350f3e39aa83e0c328cc87fa81bb705  protoc-gen-go_temporal_1.15.0_darwin_amd64.tar.gz
+f22a6db9b305b8d6f2c35bfea57c24fe61dc37eccdb356aca19acccb54897c44  protoc-gen-go_temporal_1.15.0_darwin_arm64.tar.gz
+7894fded5d4b7b0f37a2775b894b2b9e040a8b3c7ed53b73531443af5d60291b  protoc-gen-go_temporal_1.15.0_linux_amd64.tar.gz
+a4c74a8c319dce3bb15c56730dadbd37b3f94d3f20b1f4fd056a30eef7c68ab1  protoc-gen-go_temporal_1.15.0_linux_arm64.tar.gz
+63335cab4447c962ff8d59994e646a6ff1eec848af971bd53d7b2e9e69015207  protoc-gen-go_temporal_1.15.0_windows_amd64.tar.gz

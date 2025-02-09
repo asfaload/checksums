@@ -1,0 +1,5 @@
+41b84118b588fd2abcb5b66941fb4dc164623a5a9e987755a5a1994725d41eff  protoc-gen-connect-openapi_0.15.25_darwin_all.tar.gz
+d06b82f0f73318863df1e340857b12404b7c0dc986726659cb9ba73769711e44  protoc-gen-connect-openapi_0.15.25_linux_amd64.tar.gz
+d6c7ccdb2ef6b73fbdf2e6181ddee6f8a068ffe1dbea94849735e94ebde3e2be  protoc-gen-connect-openapi_0.15.25_linux_arm64.tar.gz
+4b508cf9c35553a4558d304143420bdb6ac4e4373b574160178e7c49d639ed52  protoc-gen-connect-openapi_0.15.25_windows_amd64.tar.gz
+cc4c95d7fdc5bc9f1548b4b9a77dcc45a7ed14104860fefa219da99102c00114  protoc-gen-connect-openapi_0.15.25_windows_arm64.tar.gz

@@ -1,0 +1,3 @@
+untrusted comment: verify with signifyportable.pub
+RWRQFCY809DUoYPeo8bAivW8QkKOmlXi032OxnwbFJPfZK492BtXnvwm76XybM/BTUfVE/xa9cT5dfmMsbQz+A2BplDPbtTGwQE=
+SHA256 (signify-32.tar.xz) = 6dd1b97fd9273d268b70c1be3c2592cbbe1488bca5e45c12c58f8c74362758d5

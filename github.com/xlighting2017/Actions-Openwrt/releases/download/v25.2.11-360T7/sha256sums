@@ -1,0 +1,7 @@
+59bef0f44763423a5a93b84c09ba63e59c41efc6a7d859bc43921d074e5e7d51 *config.buildinfo
+e8778e098cb396dbcb93f259b31ff690f116583cc675dcf4380a71a705b659b7 *feeds.buildinfo
+38b1a2aac4a796321b9c344bbd81b33be347b7f51b09bd08924d2146b38cbf9b *immortalwrt-21.02-snapshot-r20651-02fff2aebc-mediatek-mt7981-mt7981-360-t7-108M-initramfs-kernel.bin
+962915060f80fb1dd6fd3e9850a0f38c403185381b91d7d1b791dcdd8e25ddcc *immortalwrt-21.02-snapshot-r20651-02fff2aebc-mediatek-mt7981-mt7981-360-t7-108M-squashfs-factory.bin
+43efe1cb6263560f93f09cb00b254ab261a594d3be68e0f54e67d92008919988 *immortalwrt-21.02-snapshot-r20651-02fff2aebc-mediatek-mt7981-mt7981-360-t7-108M-squashfs-sysupgrade.bin
+82eec709eccf1b0034316311c3edf19d1fcbe81c5cbede094ce5346e60f07eed *immortalwrt-21.02-snapshot-r20651-02fff2aebc-mediatek-mt7981.manifest
+d04692949ccd00cbb9890ecf3f9b7ef37cb6a606ba874f7fd73fc9bb92800be4 *version.buildinfo

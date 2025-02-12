@@ -1,0 +1,10 @@
+5f49c0abc6125c9e4d0173d6c66a48ad175c3195c1ad2182a070f7af0510bec9  jx-updatebot-darwin-amd64.tar.gz
+260972b11caa697499fab5af23c0e6be01d63db1f4c88bdc7d6fdb7ce869596f  jx-updatebot-darwin-amd64.tar.gz.sbom.json
+18505a80c699c84345a1b4fbd1bbe99b6678c0ccf074ceb870bd1e9db50887d3  jx-updatebot-darwin-arm64.tar.gz
+efef071479cfab8c1d91bbcb94dda620616755b9f3ee97dbb129185e241628d2  jx-updatebot-darwin-arm64.tar.gz.sbom.json
+92549dd562368a3b89fb319aa4628da485c07631520a91b1f590711e86136eb6  jx-updatebot-linux-amd64.tar.gz
+8206ccb64aab20e9c0b692befb96f6eb3c622dbe35372aa6b594715a498c5cc8  jx-updatebot-linux-amd64.tar.gz.sbom.json
+2f6cac42cfe552cd85f6f2ea02a4d4197ab9a589bb2d78de5566955c80c2b989  jx-updatebot-linux-arm64.tar.gz
+9bec00dc2b1262da80437cf839c28e60a635f5739cba4aad7b1457c952ded58d  jx-updatebot-linux-arm64.tar.gz.sbom.json
+30ec070c7423baa88428f2efd6fee3d69321a63d3729f65deedbb8fe5201691e  jx-updatebot-windows-amd64.zip
+a453a200abe96971f35a5ab350cfbdc1a682551afd4874af5d677ee578d84efa  jx-updatebot-windows-amd64.zip.sbom.json

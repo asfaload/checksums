@@ -1,0 +1,10 @@
+ab49649a9511196471cca62c61f6dbffe5524dcd436f3d7ff33cab7c5ac9a87e  jx-scm-darwin-amd64.tar.gz
+c4d5eb8bc26723e8e486cd4f8f418907b43b45abe5e529a80d131ff341e60799  jx-scm-darwin-amd64.tar.gz.sbom.json
+d8483dc0a73f76013649420b6f87ca09cbff9c1658992bc4ce3daa79573aae49  jx-scm-darwin-arm64.tar.gz
+dac574689edafc54b9ee0e264c0256be40f215a1d492ccd4eb9599304d1c7ee4  jx-scm-darwin-arm64.tar.gz.sbom.json
+a48cc3e4af26bb69e7a154acb26fdcd9a1f03b1114bda10730eaef853451cbfa  jx-scm-linux-amd64.tar.gz
+e77becde60a9777d39f85038ae834550258b347f3eb06a1669a1326934a7d8d6  jx-scm-linux-amd64.tar.gz.sbom.json
+763e159cf81cb844b2918421e1677d4e985d84976a5b90b96f384d4041aea6ac  jx-scm-linux-arm64.tar.gz
+cb3172ebd9d46ee8036d33cbe657958475ee331723781abc610a201b269fba7e  jx-scm-linux-arm64.tar.gz.sbom.json
+3ac0355283487e476e65d9a49b25a947ef788c1f1a76300d889bb38d2afb0e9a  jx-scm-windows-amd64.zip
+c92d761791d99bcfad46db0fa67c5d5706c56316de4064f5939a21914b6fdb44  jx-scm-windows-amd64.zip.sbom.json

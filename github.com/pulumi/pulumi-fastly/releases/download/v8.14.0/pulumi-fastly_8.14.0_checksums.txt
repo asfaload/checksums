@@ -1,0 +1,5 @@
+c90297dd26d38f860021886aa6aa0aa9a27f223d  ./pulumi-resource-fastly-v8.14.0-darwin-amd64.tar.gz
+0680866e9763a2c83e6c81d1edcd02f6fbffac8b  ./pulumi-resource-fastly-v8.14.0-darwin-arm64.tar.gz
+88ce3fd21d9046d5d19376e9cbb8bcc66c3d0988  ./pulumi-resource-fastly-v8.14.0-linux-amd64.tar.gz
+a6dbf7dfe20761214cc01c41291c8052c3c8c461  ./pulumi-resource-fastly-v8.14.0-linux-arm64.tar.gz
+44e6646981b2ab66bd42f64997212c1467871406  ./pulumi-resource-fastly-v8.14.0-windows-amd64.tar.gz

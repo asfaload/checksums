@@ -1,0 +1,8 @@
+fc4777388feb8d38ba44727219760627664a7ca1b09f404c833005ee137e4113 *git-dl-aarch64-apple-darwin
+59d5da41674b9a530f8745bfc990e8c864dc7478473bf69e5de63e5e0b85f81a *git-dl-aarch64-unknown-linux-gnu
+1f41d0ff9d4c26711e76535dfabfbb331c90b92f9e822efb27e66698e253226c *git-dl-aarch64-unknown-linux-musl
+ea3ca046e26711e1e0aaa9041294a3594d21315d9a2cbf6817f0a5019cb56b25 *git-dl-i686-unknown-linux-gnu
+5a7196bc5f24cf7d4f83ede3cae44b93ac681073c278e3297994e8b4f22ae327 *git-dl-i686-unknown-linux-musl
+8f8354c7fe951ee80442c299f50a4d146d55bec71b7cb2f769e2c09474f4bbc2 *git-dl-x86_64-apple-darwin
+a1f5d51cea3963d61d1f2c955bc37dd4bbcdf66883a28a78e3b7bcaf564ed271 *git-dl-x86_64-unknown-linux-gnu
+b43dcf200abe07ee9bf386f5be727220b59477ce0aed09d6503b3098cce0e087 *git-dl-x86_64-unknown-linux-musl

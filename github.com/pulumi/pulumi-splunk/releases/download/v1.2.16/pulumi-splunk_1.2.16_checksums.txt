@@ -1,0 +1,5 @@
+0df4f0441b8be65452715d0c955d0699b345757a  ./pulumi-resource-splunk-v1.2.16-darwin-amd64.tar.gz
+8fc77b85555915a7c2a3dc57ae3bc31c51aa890b  ./pulumi-resource-splunk-v1.2.16-darwin-arm64.tar.gz
+dcc548aaf4cc75071ede034d92ad1ea1f2ad2c29  ./pulumi-resource-splunk-v1.2.16-linux-amd64.tar.gz
+bde5f0af782cbd2fa2c2fce6707d3912517a7b96  ./pulumi-resource-splunk-v1.2.16-linux-arm64.tar.gz
+6e56e4e12e312549d200c4412f5e2ae9f26dbe5c  ./pulumi-resource-splunk-v1.2.16-windows-amd64.tar.gz

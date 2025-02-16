@@ -1,0 +1,4 @@
+ed54e5598581c2161d12e6b9dafb183a07151fc009eb0755ffde19ea5b7f8afd  kubectl-ray_v1.3.0-rc.0_darwin_amd64.tar.gz
+74b14d21f5cac6e91a8eebcd096d16d2273c55c9fa517b74d244d36cbd66f120  kubectl-ray_v1.3.0-rc.0_darwin_arm64.tar.gz
+a26c3e9e9e7b5655c4d8a60e95ef5eecc18c5a146cb7e7539a0240cdd14f9fc6  kubectl-ray_v1.3.0-rc.0_linux_amd64.tar.gz
+90b7f4086064f30a64ada4110fbde78bc1978f9252ba4d37888643ceb2b350ad  kubectl-ray_v1.3.0-rc.0_linux_arm64.tar.gz

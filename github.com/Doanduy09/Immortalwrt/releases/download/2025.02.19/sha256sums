@@ -1,0 +1,9 @@
+5b01f722568a7d1d6bba0c9b6689a3229acee3eae505d66a6872b9f6129b0b18 *config.buildinfo
+89df72285f2d8fa2b0726939236adc3d76d1850dfa9653d62e7a13b09dd5bb85 *doanduy-24.10.0-r32824-6a73dae98c9c-ramips-mt7621-xiaomi_mi-router-3g-initramfs-kernel.bin
+ac4defca62e90eecf068a63d50764cc13c5d9a069936a4a07c2bb49af67b38c0 *doanduy-24.10.0-r32824-6a73dae98c9c-ramips-mt7621-xiaomi_mi-router-3g-squashfs-kernel1.bin
+c277ddc29b4b41c8f8550d49662f4f87377fb81bba9d4f150fb78ae5c22dc02b *doanduy-24.10.0-r32824-6a73dae98c9c-ramips-mt7621-xiaomi_mi-router-3g-squashfs-rootfs0.bin
+dc9d9e46d3fbca45e8ab1260a8377c045bd67ab0719a647562afd255f1134268 *doanduy-24.10.0-r32824-6a73dae98c9c-ramips-mt7621-xiaomi_mi-router-3g-squashfs-sysupgrade.bin
+80d893d48da1246cc13a8163e4ddd9f2dd85e740f6f70a0cdba8874be0221159 *doanduy-24.10.0-r32824-6a73dae98c9c-ramips-mt7621-xiaomi_mi-router-3g.manifest
+9285e7277a8339c74d15f7d1846a926e604315409a4a165f2b9fc9f2fc207956 *feeds.buildinfo
+62135baccae1535a8f466fe160e803958bf20524300f0f6fda735f956ea10e00 *profiles.json
+197147eccd69b1f123c5e0497e4ece1904aeb2d04a2054b4e03e4351594ae5c9 *version.buildinfo

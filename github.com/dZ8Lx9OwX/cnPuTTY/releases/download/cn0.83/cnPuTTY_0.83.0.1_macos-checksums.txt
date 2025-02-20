@@ -1,0 +1,21 @@
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          FF5D70B2C960B162892170ECE9FEBD50C9A3FABDFAEEA2D07A947777655EC42E       cnPuTTY_0.83.0.1_macos_x86_64.zip
+SHA256          0B03B50D1B7D4E4F0EB193A33C452EDF2EE19E4DF8D0262BE2ADA3419057FDF3       cnPuTTY_0.83.0.1_macos_x86_64.zip.sig
+
+
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA1            0B3B7F2CC31EDD51D22A24867B98D98AC6F55F71                               cnPuTTY_0.83.0.1_macos_x86_64.zip
+SHA1            474A4A31E64670B1E0918A351F3B1166B299FC48                               cnPuTTY_0.83.0.1_macos_x86_64.zip.sig
+
+
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+MD5             176A1C52C2DF189A1A8F3DA9A5719A65                                       cnPuTTY_0.83.0.1_macos_x86_64.zip
+MD5             E99405441D94CFF0643E455DBB5A106E                                       cnPuTTY_0.83.0.1_macos_x86_64.zip.sig
+
+

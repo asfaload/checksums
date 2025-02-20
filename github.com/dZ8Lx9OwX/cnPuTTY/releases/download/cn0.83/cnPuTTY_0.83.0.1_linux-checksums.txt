@@ -1,0 +1,27 @@
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          155841D3ED25D248E0961D554BCAE392013164FB29B0FC35D3AA0BF94BA39F5D       cnPuTTY_0.83.0.1_linux_32-bit_x86.tar.gz
+SHA256          B14F53776C3A78A22503082171390CB9EE421248566D292B8A79813109E0F83F       cnPuTTY_0.83.0.1_linux_32-bit_x86.tar.gz.sig
+SHA256          2D682816CAF1052947D9B0E9D4E04EEDD4DF50B8986C05B8503AC5CF8E7C1B7F       cnPuTTY_0.83.0.1_linux_64-bit_x86.tar.gz
+SHA256          D5A5651C2BC700E690E2360AA383D97486A537AF19972A820EA8F2F5A690E7E4       cnPuTTY_0.83.0.1_linux_64-bit_x86.tar.gz.sig
+
+
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA1            433A511E8A9EF5CB4B88A1E5778013B1A901CA7D                               cnPuTTY_0.83.0.1_linux_32-bit_x86.tar.gz
+SHA1            982D142A4BFE681AA8F0AC6BAC149D61C9B04987                               cnPuTTY_0.83.0.1_linux_32-bit_x86.tar.gz.sig
+SHA1            98D4054196B8832D0540A233683D1FCD11BAB606                               cnPuTTY_0.83.0.1_linux_64-bit_x86.tar.gz
+SHA1            8A31EA2EEF36AB352551CB68B22A0910ACB7D7DF                               cnPuTTY_0.83.0.1_linux_64-bit_x86.tar.gz.sig
+
+
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+MD5             CDE6F5D77EAC817308AC76FAA7D9604C                                       cnPuTTY_0.83.0.1_linux_32-bit_x86.tar.gz
+MD5             5452E5E0A63F99CA7B0BA363844C605A                                       cnPuTTY_0.83.0.1_linux_32-bit_x86.tar.gz.sig
+MD5             F6E26C928C7833A84A0670938789C30C                                       cnPuTTY_0.83.0.1_linux_64-bit_x86.tar.gz
+MD5             3C8DA63E84A03DADE61CBF45E614831D                                       cnPuTTY_0.83.0.1_linux_64-bit_x86.tar.gz.sig
+
+

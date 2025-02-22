@@ -1,0 +1,14 @@
+f7bc41a8b83339585190210e511e4de42bb8f3720018f727fcfa150e530ffc88  pulumi-purrl-0.6.2.tar.gz
+ba7d7c9028a8f44da2eec8febb68dc3ac7726c0e484bad0d11633530f2f950af  pulumi-purrl-0.6.2.tar.gz.sbom.json
+6a969ff986004991cecd5f990bc1a1715fa826ea1e4149dafd4aff63d6094830  pulumi-resource-purrl-v0.6.2-darwin-amd64.tar.gz
+4218136d2be2cbc8702542f24ab2bd0a8c1017a17710a8dd8eae62e5d136ef72  pulumi-resource-purrl-v0.6.2-darwin-amd64.tar.gz.sbom.json
+0fc3f717959ee950a72c1a78c02d7460567990f895067ea6be29827b854badb4  pulumi-resource-purrl-v0.6.2-darwin-arm64.tar.gz
+94d6c8cfb91f648299e8b21f56b152354d096697ff06915a21dd7f5dfafefccc  pulumi-resource-purrl-v0.6.2-darwin-arm64.tar.gz.sbom.json
+07aa4b668debcdb578d4f0149db5a0c02ba0a924df07e0f6f43e7791bd0b6c6c  pulumi-resource-purrl-v0.6.2-linux-amd64.tar.gz
+d3ce53e06f997cf599c53347d70cd923933317efc035fc2e716186d7ef034202  pulumi-resource-purrl-v0.6.2-linux-amd64.tar.gz.sbom.json
+bfd92c235a9fa478515f435e975f146e7c6cb2dab7221ee3c13b42587f9ef2c4  pulumi-resource-purrl-v0.6.2-linux-arm64.tar.gz
+1a7d9b5e7d14ba75c98f7df728a9de3df0e9bd26f6924bb8e80e6c98a35200ed  pulumi-resource-purrl-v0.6.2-linux-arm64.tar.gz.sbom.json
+155205c8facbf02b61320c26314d43317a3f7d119de25782b9e65099b1ed5e25  pulumi-resource-purrl-v0.6.2-windows-amd64.tar.gz
+92ab703b0a0133957aa87efa499411b87b84a94eb13d2be69c8284d5f1fb88f9  pulumi-resource-purrl-v0.6.2-windows-amd64.tar.gz.sbom.json
+8ee03eec74bbe565f326734988e47a86ff9f17fdb33be1a34e90cf13a5d899e6  pulumi-resource-purrl-v0.6.2-windows-arm64.tar.gz
+911eb60a0c00820ed30c764f4ee38c3b8b5ceb11c498ca3496860ac227e664ea  pulumi-resource-purrl-v0.6.2-windows-arm64.tar.gz.sbom.json

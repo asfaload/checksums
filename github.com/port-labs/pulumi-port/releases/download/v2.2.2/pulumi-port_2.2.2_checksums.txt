@@ -1,0 +1,14 @@
+cd0ab22df926c53b2b40648de275c412fe134a2d8e071027026957c13a7c9a14  pulumi-port-2.2.2.tar.gz
+f3d48b73d60791bb491139c1fec1d2de00462bdbaffad8967c1a4afb8caac417  pulumi-port-2.2.2.tar.gz.sbom.json
+0b115d801f84da61b41b9080e522935fac09f924f0c56e4d8bc6a804662c53a7  pulumi-resource-port-v2.2.2-darwin-amd64.tar.gz
+c2bccc4143004576277757fce68ac895a2ba8382736c3d35e26052c2273f9777  pulumi-resource-port-v2.2.2-darwin-amd64.tar.gz.sbom.json
+2e1258b78267d4f8a16169e59c531f00f1e5ee23e940a428fb7c574f984f88ec  pulumi-resource-port-v2.2.2-darwin-arm64.tar.gz
+6d404749919d68cce7469f5b79edd3d813d8b89f9dd702902c5a7a5f0f2f2cb2  pulumi-resource-port-v2.2.2-darwin-arm64.tar.gz.sbom.json
+231ac79c4439d5cdf893a865ad426d43119d400cb0c238b2c086c51e373ae70e  pulumi-resource-port-v2.2.2-linux-amd64.tar.gz
+4e04b14995d04b0f3b2589036196b478f2f9cb31bc9ff4283e21eeeedc68a8a6  pulumi-resource-port-v2.2.2-linux-amd64.tar.gz.sbom.json
+b3d65065a67ebd6d5f0039d36fd2cfbc69b61a473bc98359b363ccae29de4cd1  pulumi-resource-port-v2.2.2-linux-arm64.tar.gz
+391e3f670cd16448336c7fb14489cfbf33dccd48571af179a899e2c73afc5cb3  pulumi-resource-port-v2.2.2-linux-arm64.tar.gz.sbom.json
+7ddb6efb26f1c391f0f738e78de92f942ccbc35816ba5c523bbecd7bec371c9c  pulumi-resource-port-v2.2.2-windows-amd64.tar.gz
+c06dd6563ccf1455a27f506b2ec8fdbf0f4393285da333cccf2ddc21592096a3  pulumi-resource-port-v2.2.2-windows-amd64.tar.gz.sbom.json
+f2944953659d2b1ef22b6f05eac02e4c96d076cd67fd0459324f63cfc09ec696  pulumi-resource-port-v2.2.2-windows-arm64.tar.gz
+4c6d42883be3a0db7732e0b3a85877e12055eced2834bce0ac07de212a6785ff  pulumi-resource-port-v2.2.2-windows-arm64.tar.gz.sbom.json

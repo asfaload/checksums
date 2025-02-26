@@ -1,0 +1,5 @@
+767d2bdb408b33ec7de0c555925e6db7afa6559d6a33c2ad40843de316b13783  vault-darwin-amd64.tar.gz
+8ba8ca8305257ad63d2f1b7e894b0411bdfe3637e64cb7f7190f14cb521b83eb  vault-darwin-arm64.tar.gz
+d69625e8f83ed5ab38977fdcd02865a2eae0e05d46f1ca3aecded42348d9e8ab  vault-linux-amd64.tar.gz
+f748c55191c1d16288ae88bb6f7f0700159fd9531cafd798fb69770d207f9384  vault-linux-arm64.tar.gz
+16a64654029237a0d6addeab6e4f68970b0d3342251a81e0be7a0017b0ee53d9  vault-windows-amd64.tar.gz

@@ -1,0 +1,5 @@
+14c75401041b932d5b1a68c386e2b6f50ddf0cfb68d88467355e0f7c6f12cbbf  kubectl-apidocs_v1.0.8_darwin_amd64.tar.gz
+ca2fd551eab7a01465a0b7f35882a0cc33cdc357cee23834ed679eea866f9a79  kubectl-apidocs_v1.0.8_darwin_arm64.tar.gz
+a27532fb837ac07ac75761c8cceef58ae10cb36f13112f76d4cafd7791fdda0d  kubectl-apidocs_v1.0.8_linux_amd64.tar.gz
+f7c74eda73b76460e3fdc312eda3266044597226a5ba3c1b0acbfcfc4673fabe  kubectl-apidocs_v1.0.8_linux_arm64.tar.gz
+3d50b5f5eccb769a726540e5a0025fbe93c6ecc07e22b482a4f2edb63f5b58be  kubectl-apidocs_v1.0.8_windows_amd64.tar.gz

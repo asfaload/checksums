@@ -1,0 +1,15 @@
+5db19a7f1b2756aac83737a8fc8257a5cfd0e365f4a3b4346d1abda7db5d5fa7  ./qstract-aarch64-apple-darwin
+5e9ea1e21b563626d3c61c6b44619836b2f5dcc541d663383fe6aa8867471ee2  ./qstract-aarch64-unknown-linux-gnu
+2f0dd680ab0a3d5a1b0540b597bbc03ba56137dd90e78b223e44c79c5ef51646  ./qstract-aarch64-unknown-linux-musl
+4c1295d342f36711542b1420621e939e0d7d7dfb0b0bfc5a693bd8ff37b3093f  ./qstract-armv7-unknown-linux-gnueabihf
+78445544d6594c784218c7ee697c05d6c89ac0c3968110bb6c596930f7bbb0e3  ./qstract-armv7-unknown-linux-musleabihf
+5a8d4c445d26c0dd2b2e30e53d136b82088dc3ac0cd020c84c04c51e0d8118fb  ./qstract-powerpc64-unknown-linux-gnu
+9c5a97ccd304ee5adf1c9da16624b703d043f292dde0753f44f1e6d5907b056e  ./qstract-powerpc64le-unknown-linux-gnu
+fc32b72063fee2d80baae4350ee0c9c20fb469dba613163f1d57d36c3a658293  ./qstract-riscv64gc-unknown-linux-gnu
+34b837adb8de3ded0946ef6e166eb2908c6a78f614ef7c6e99551be5f842b2c7  ./qstract-s390x-unknown-linux-gnu
+24dffda26597a5660bbd0fe9b4684bb2eec5872d971d96975ab705808f619a84  ./qstract-x86_64-apple-darwin
+f9c5e27bb5903b8456efe8e9b165891810e593af85db3be875f6ccd9d4bcd466 *./qstract-x86_64-pc-windows-msvc.exe
+3b8297655f12ff6e8042b6b00a4a8d4566a77e17c76f2dca3cacd2d7a718a47c  ./qstract-x86_64-unknown-freebsd
+f7e3e7e07104b1c5314e17669ea3e3300e1d8e4c78620a948031dc53768f9f2a  ./qstract-x86_64-unknown-linux-gnu
+9735286f26b844fe404f0637f05a2940294c49d3b7000a8062e7ff5add24a92a  ./qstract-x86_64-unknown-linux-musl
+52ba82b91fdedfce7fbe8a8d8acdf9aef04472faa9d200147ecf1ca82144560a  ./qstract-x86_64-unknown-netbsd

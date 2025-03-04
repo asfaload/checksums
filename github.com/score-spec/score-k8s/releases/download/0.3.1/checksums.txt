@@ -1,0 +1,5 @@
+ae0a0265515bf138c12c983b366b737a1e5a82278ef31f5310cc4817153ac00a  score-k8s_0.3.1_darwin_amd64.tar.gz
+a7359985e0d53126cc102bb4a688b25ab0b9da7fdf0fa39f26adf2106813d8ff  score-k8s_0.3.1_darwin_arm64.tar.gz
+90e8bd9603abfe2f5e22f271354126a2c55b921b80a5cbbcc2aa5e4ff623b56e  score-k8s_0.3.1_linux_amd64.tar.gz
+d39faaa61e9a07587345731ba63efc5dc74bda2600efdb47ee22b43273a1d8e0  score-k8s_0.3.1_linux_arm64.tar.gz
+f78f3b352f950fb1294e8dcdeaba075cd4ca6f52db4df72e651a8eb5d5c756aa  score-k8s_0.3.1_windows_amd64.zip

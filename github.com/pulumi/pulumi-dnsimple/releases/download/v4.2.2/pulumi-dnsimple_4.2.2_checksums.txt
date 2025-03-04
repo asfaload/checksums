@@ -1,0 +1,5 @@
+bf6af91671bb9e1cb6877c2820c78a33d795fb04  ./pulumi-resource-dnsimple-v4.2.2-darwin-amd64.tar.gz
+5337f55131643b05f681f43d613606492509ebdf  ./pulumi-resource-dnsimple-v4.2.2-darwin-arm64.tar.gz
+7dae9c514ce66494b8ea9071442783bb5599feef  ./pulumi-resource-dnsimple-v4.2.2-linux-amd64.tar.gz
+01bed477fd0dba24b246742d13e6bc2b1f66b79f  ./pulumi-resource-dnsimple-v4.2.2-linux-arm64.tar.gz
+f65693b2ddcb1cb5a19fbab30d72fc5fc3cea765  ./pulumi-resource-dnsimple-v4.2.2-windows-amd64.tar.gz

@@ -1,0 +1,10 @@
+b64abcef6c80a26bd3654c7138bb46f937a12530ff9c00b4afd7b06237ed1a6f  dist/func-e_1.1.4_darwin_amd64.tar.gz
+a95cc009d31696e485cfd58ca01e601de6f89f104ede4004de08988a94fede53  dist/func-e_1.1.4_darwin_arm64.tar.gz
+5ac7c0dbdef2c8122f83de860217674a3f88a72730beb06c8172600575c3717c  dist/func-e_1.1.4_linux_amd64.tar.gz
+20cc062660c7aa874a5f55d5fc601ddab40f0c15d24973ebca4372202a0da73c  dist/func-e_1.1.4_linux_arm64.tar.gz
+041acfd10c0d006a37d0843270742a368fdf34e5fff5c5c2da5449f261d48df4  dist/func-e_1.1.4_windows_amd64.zip
+9f72c6dfc37fb22fe3e39a6312eac350f2527fe8006493cd16e5cfb7d48eddd5  dist/func-e_1.1.4_windows_amd64.msi
+2de19a0f9fb4b636ed5eb4735ab52159fcdf3a62d9c6b9f67148f037203977a4  dist/func-e_1.1.4_linux_amd64.deb
+d97cfbcab07e4f42589fa96e90117d6442b921bdb0655c20a9dbcf213e8e5784  dist/func-e_1.1.4_linux_arm64.deb
+ee79b2b0ade818a09a51e2153f35e1a2af96b96fb049099ed09018efa2e224a9  dist/func-e_1.1.4_linux_x86_64.rpm
+f2e5c4f57313b4a41d7c6fede4a753672cb62cbff2127805474286246b33dcba  dist/func-e_1.1.4_linux_aarch64.rpm

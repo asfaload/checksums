@@ -1,0 +1,5 @@
+0865a784880fb879c087fda355d49ba6512ac1ec131fa7fe403a4bc2b59035c1  ci-template_v1.0.6_darwin_amd64.tar.gz
+fc061d95536bf4836bdf159f33a7e5a8b5b557fdd94b501c3aaec58c6cdaf32e  ci-template_v1.0.6_darwin_arm64.tar.gz
+aef244e56262d0030739e7aaa8af2b771e289e1a8b343ecf115599fa12dab8bd  ci-template_v1.0.6_linux_amd64.tar.gz
+1546d999f2f19120dfd08ac9399bfcc6581ee78bfbac400bb4141823c3d02c29  ci-template_v1.0.6_linux_arm64.tar.gz
+bf30ce0cd32f7e9f5f32ec83f03ccd441eb9f1a63f924b8bf4591df856e213f8  ci-template_v1.0.6_windows_amd64.tar.gz

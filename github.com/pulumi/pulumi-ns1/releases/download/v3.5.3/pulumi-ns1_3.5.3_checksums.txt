@@ -1,0 +1,5 @@
+64c92c3eb46bd819b2ad0ca66823d5c195d6f362  ./pulumi-resource-ns1-v3.5.3-darwin-amd64.tar.gz
+735652a6148c9c930908a571de97390dc0f23ed0  ./pulumi-resource-ns1-v3.5.3-darwin-arm64.tar.gz
+cef1497d8273ea8834cc72be6e004b3cb3899363  ./pulumi-resource-ns1-v3.5.3-linux-amd64.tar.gz
+3ea5f78a055c302b07b195b45ddfccef53093976  ./pulumi-resource-ns1-v3.5.3-linux-arm64.tar.gz
+b56691fcd63ea380461893f69256a15985a79a3d  ./pulumi-resource-ns1-v3.5.3-windows-amd64.tar.gz

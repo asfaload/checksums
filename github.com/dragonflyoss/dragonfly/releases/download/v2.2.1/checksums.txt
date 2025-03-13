@@ -1,0 +1,16 @@
+eb6154558b7d8c252b62e2576db06814ea3f6b53d2c23c623d15ccefd359fd59  dfcache-2.2.1-linux-amd64.deb
+85d7f587fdb3099c876634915a3b5a472cd55f277b461b6b71d38a2f5c15c5e6  dfcache-2.2.1-linux-amd64.rpm
+36ddeb6bac8ccf16ae61a7d7c6b7ae8956c4e16acd8cbd898526e6c8ed331fe3  dfcache-2.2.1-linux-arm64.deb
+0d789a45cab4468f9ceb14eb8307bbdb368a4e930fd63eb90ade98030220933e  dfcache-2.2.1-linux-arm64.rpm
+db0d348b5727b5d1c5d9db2279bad9b594691f61bd9125ca05231ff7bdda850b  dfget-2.2.1-linux-amd64.deb
+2266f5ffcc22e8f40749b00ce0abf693bfb3bc5917beaf32ed20b58a65c71c9c  dfget-2.2.1-linux-amd64.rpm
+2d0b44b0893b31e952fe24dd8f4957af4ce459bbdc64bb3d63b59c8068304f5a  dfget-2.2.1-linux-arm64.deb
+cdde63bfe2a8888f1a111f1bbed9cd42d49ed8abd227852a6fe23262e1c1a1b6  dfget-2.2.1-linux-arm64.rpm
+fc2164576d7e9416bca26b3684ad51a6a7789a6f4f3431c268f0995adf751fba  dfstore-2.2.1-linux-amd64.deb
+9bbae3840f1570a7c7b2aba3874b5afd6e279412ec521a3adef432dd8f3b6c9d  dfstore-2.2.1-linux-amd64.rpm
+a3a4a733af74aea55baa4f28eeb620e1d58d9507cf8801b775dc14a8d684d0d5  dfstore-2.2.1-linux-arm64.deb
+148520a5b2bfcefbefd4110a1e6860cbc905aba4a8d8cd9340353c19522a6c09  dfstore-2.2.1-linux-arm64.rpm
+d3a376d082bfbf750009ea97d38f7ecd3e0eb8458bc607c3645c0a9e2f77a8b3  dragonfly-2.2.1-darwin-amd64.tar.gz
+6a5581ca1973c2b2b822bc91f0b25ac9807554bf68f4af7739388e16702bf903  dragonfly-2.2.1-darwin-arm64.tar.gz
+c46c8dd7e9a10ac49205f64be87259501ad58c7a85d9fa167d29722705f015b9  dragonfly-2.2.1-linux-amd64.tar.gz
+d49b4ed0443c7402b22e3c4f31873dc568e7e7f6df51dc6fc20e953729ca2e65  dragonfly-2.2.1-linux-arm64.tar.gz

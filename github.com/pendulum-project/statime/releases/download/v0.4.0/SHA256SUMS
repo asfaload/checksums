@@ -1,0 +1,12 @@
+e7bd688a2bacf766cfc950a2b6ad6ec50c0ad1beec15614af4b4cfb0285e4960 *statime-0.4.0-1.aarch64.rpm
+f03b0f9a6468ead76687bf7b92a7d170143fa7d5a78a6c5c7cc6f992267f37ff *statime-0.4.0-1.armv7.rpm
+4e38a8cef6951bc54daa71a8bdedddbe0fe35a611106024ffda805c30f2b7d6e *statime-0.4.0-1.i686.rpm
+07049b437386533096ef03bafe7ec1b6f5c426bd2ef082cd0c4312af849f1f71 *statime-0.4.0-1.x86_64.rpm
+9635066cec68a2f2b85c72e771a6effd20bf07f08537b431058a1b5b5d29054c *statime_0.4.0-1_amd64.deb
+557f4bf7618414026a44b135dd0a0fe0f52ce1de34bf52a8270e43032096c880 *statime_0.4.0-1_arm64.deb
+22881177f2dddab0ecbe9861452e82ba39bbee18509fc2f33554dcb39598d8ac *statime_0.4.0-1_armhf.deb
+679dc2aa1f109d7d9d8dad3706eb07d639891dacf028bd937e2cad0da58f2e62 *statime_0.4.0-1_i386.deb
+d7293f0f7c7e7f45aad6dbc0e615b8a57c211ebdf92ed820c8ea036ed51fefb3 *statime_dbg_0.4.0-aarch64-unknown-linux-gnu.tar.gz
+bc1153eab3873c67a840da094d35cceee1cf0c36420e2068d772fa4543b8820e *statime_dbg_0.4.0-armv7-unknown-linux-gnueabihf.tar.gz
+27cf6030641c047e89c26ea145325acfef54060a488c0c6a24600a0e0fdd0493 *statime_dbg_0.4.0-i686-unknown-linux-gnu.tar.gz
+f7dfd17b8cf8bfe642248c0ea255530edac47d74c027f6e845a768dfc6dc27c1 *statime_dbg_0.4.0-x86_64-unknown-linux-gnu.tar.gz

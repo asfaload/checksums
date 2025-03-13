@@ -1,0 +1,5 @@
+133a18fda6189ec407c432e44f95027c4673ca47  ./pulumi-resource-rancher2-v8.1.2-darwin-amd64.tar.gz
+b2326df6438b9d0a87a9a2bbb28653e63316fb54  ./pulumi-resource-rancher2-v8.1.2-darwin-arm64.tar.gz
+e285e6c2e9c32df5010e4e66614095cd6aab121c  ./pulumi-resource-rancher2-v8.1.2-linux-amd64.tar.gz
+8be367811b5deef942d0b649eafe46a6277a910f  ./pulumi-resource-rancher2-v8.1.2-linux-arm64.tar.gz
+3f1a88d1258045ae15866b1168628f3bd8198318  ./pulumi-resource-rancher2-v8.1.2-windows-amd64.tar.gz

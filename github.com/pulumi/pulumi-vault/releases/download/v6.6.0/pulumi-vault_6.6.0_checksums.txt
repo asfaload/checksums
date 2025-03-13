@@ -1,0 +1,5 @@
+ad018dd0a73ac18f0c52d5e9c4821bd3f2170853  ./pulumi-resource-vault-v6.6.0-darwin-amd64.tar.gz
+b647ee18fa6895171c2ab143e8dfb22194eccfe2  ./pulumi-resource-vault-v6.6.0-darwin-arm64.tar.gz
+c1ade87934f7ed45e494be4bad174b316e8a418e  ./pulumi-resource-vault-v6.6.0-linux-amd64.tar.gz
+029aa3627f23bd7b750eededcc94af29490c18cd  ./pulumi-resource-vault-v6.6.0-linux-arm64.tar.gz
+cb5389914599d0098b89611a791290f3460fb077  ./pulumi-resource-vault-v6.6.0-windows-amd64.tar.gz

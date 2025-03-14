@@ -1,0 +1,6 @@
+1da3dfe8b9d3688924abe389af6a662144a822104f309b75253a71d628b9e851  pulumi-resource-kubernetes-cert-manager-v0.2.0-darwin-amd64.tar.gz
+039dc2334e253bf0741f44732fa80760913a9755d7fd0d9b6ace06bbd35e2638  pulumi-resource-kubernetes-cert-manager-v0.2.0-darwin-arm64.tar.gz
+d7f0dd82911e62b33d76558dfdb3c1605fb2b55cc2685015984b3e31211dd608  pulumi-resource-kubernetes-cert-manager-v0.2.0-linux-amd64.tar.gz
+5fe23d29e6cf73a8543d5d56bf98ac231864e05a3f9c9258e4b6345c8d3e40a6  pulumi-resource-kubernetes-cert-manager-v0.2.0-linux-arm64.tar.gz
+fe1f28ff124fc193dec60fad0574a9a6e3c1a859f458b836c3821b798ee58332  pulumi-resource-kubernetes-cert-manager-v0.2.0-windows-amd64.tar.gz
+7f4abc77ebe695ead3663aed36658b87c0aa9653fe3e89adc0cecbe1f0105daf  pulumi-resource-kubernetes-cert-manager-v0.2.0-windows-arm64.tar.gz

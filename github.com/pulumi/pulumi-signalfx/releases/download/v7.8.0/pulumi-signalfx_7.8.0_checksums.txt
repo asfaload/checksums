@@ -1,0 +1,5 @@
+d60da68f49e572d13da37e8a1dc718afe5da6c76  ./pulumi-resource-signalfx-v7.8.0-darwin-amd64.tar.gz
+99f2390652be94ec683413e5eb5700d5c97bd061  ./pulumi-resource-signalfx-v7.8.0-darwin-arm64.tar.gz
+fcb42d7ec1f62fdd82ffe58ecf6e2ec51fcb697a  ./pulumi-resource-signalfx-v7.8.0-linux-amd64.tar.gz
+01cb57e5e1c54880084b8be52cbd8445a82c3436  ./pulumi-resource-signalfx-v7.8.0-linux-arm64.tar.gz
+491aa67ef442032eb226be3430a6949e00261871  ./pulumi-resource-signalfx-v7.8.0-windows-amd64.tar.gz

@@ -1,0 +1,5 @@
+c36ba2b14c2b44a5ab4df8bac84a2b9265e042b4  ./pulumi-resource-meraki-v0.4.1-darwin-amd64.tar.gz
+9be8c8365a5be96572e25ab824a9088843452c09  ./pulumi-resource-meraki-v0.4.1-darwin-arm64.tar.gz
+0cfd859674b541c3debe65e5e8cc577072cd562a  ./pulumi-resource-meraki-v0.4.1-linux-amd64.tar.gz
+2a7b2f224f3d3b0c7d67a24bfc74f12e23744fc5  ./pulumi-resource-meraki-v0.4.1-linux-arm64.tar.gz
+f04b9d29199512c1e1c62042a01e65008f68e2bd  ./pulumi-resource-meraki-v0.4.1-windows-amd64.tar.gz

@@ -1,0 +1,8 @@
+086c5059529ca2e46820209bb2a0557a14fac3f83abaf85e6a31394f63c819d5  otelcol-k8s_0.122.1_linux_amd64.tar.gz
+24f8dc1a92c320b5ab56288cba94648a5c1ee2ef30b99232b0426e48007de4a8  otelcol-k8s_0.122.1_linux_amd64.tar.gz.sbom.json
+96dd201cbed3e1a2e628b261affca162adff53946c3b1927cad9b7f89d535ac4  otelcol-k8s_0.122.1_linux_arm64.tar.gz
+2ce3c5c9ff89f344f55d8ea04b0ca45d5af5c84629e68c21f7e03e43c4652ff8  otelcol-k8s_0.122.1_linux_arm64.tar.gz.sbom.json
+269db4be3ebdc548e39a4b7e9f7e92336c31820c8e1d6d9dca2342f48fdabc69  otelcol-k8s_0.122.1_linux_ppc64le.tar.gz
+0b6a350ff4ef3b19bf7506661ddf79e53acf46761e052eb346a184d1b8d2f63a  otelcol-k8s_0.122.1_linux_ppc64le.tar.gz.sbom.json
+d65528e9a5728028e76a1146dfda63f6a76aa62f5d5f6e48fdb4688e47013454  otelcol-k8s_0.122.1_linux_s390x.tar.gz
+90113832cadb8390823f32d0534c0cc973c70d079c681260832a5d7dd17e3f78  otelcol-k8s_0.122.1_linux_s390x.tar.gz.sbom.json

@@ -1,0 +1,5 @@
+1256eb49b244204a21adfc0f9e1d8d913df45625  ./pulumi-resource-confluentcloud-v2.21.0-darwin-amd64.tar.gz
+4fdfb21aa9d78d165fcbe756570ec3f247a4c9c0  ./pulumi-resource-confluentcloud-v2.21.0-darwin-arm64.tar.gz
+5371aa9107e30e9e515e1caa748a94e759d2770b  ./pulumi-resource-confluentcloud-v2.21.0-linux-amd64.tar.gz
+214f82ad311e480fdfc3c90eda618aa623ec11f2  ./pulumi-resource-confluentcloud-v2.21.0-linux-arm64.tar.gz
+fff2dd16320dba80dccccbf600e04f474ae5f64b  ./pulumi-resource-confluentcloud-v2.21.0-windows-amd64.tar.gz

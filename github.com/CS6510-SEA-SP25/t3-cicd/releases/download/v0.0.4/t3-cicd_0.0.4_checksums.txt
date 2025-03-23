@@ -1,0 +1,8 @@
+bc15db80ee95116e57927024bf9d10164c5cb77b595b6a8fda2fc179e61c22e0  t3-cicd_0.0.4_darwin_amd64.tar.gz
+4ec0ffa5eef6ac2e7eac47bc93a9b0d842b43c955c059b0acf61a120359ef7bf  t3-cicd_0.0.4_darwin_arm64.tar.gz
+d160b89e183befa9c9fe4b9f18b316336de1242282ac65c59963201ec2bb5b42  t3-cicd_0.0.4_linux_386.tar.gz
+9153cdd40a3f4942230ba3ea925f06a78c282aff50dcd9d8bbc9e17046b14c52  t3-cicd_0.0.4_linux_amd64.tar.gz
+c97113f60f33a34ea87494f79bd89ab89b63dc86702bd3d056539808ade82de9  t3-cicd_0.0.4_linux_arm64.tar.gz
+4986a394d9ce810a71a3979a3bea7d16f9ccc524285498e8b96531d69aec40f8  t3-cicd_0.0.4_windows_386.tar.gz
+ad125f496b637f600441e025707e7e8ecfee04495be3dda3fa0fe9a4ed842cd7  t3-cicd_0.0.4_windows_amd64.tar.gz
+5f30f30e2d503460d7fe5a0e6fe628866881b88220dfcd7075ac37bda99b841f  t3-cicd_0.0.4_windows_arm64.tar.gz

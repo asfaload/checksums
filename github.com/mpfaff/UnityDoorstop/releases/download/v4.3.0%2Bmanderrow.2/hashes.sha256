@@ -1,0 +1,4 @@
+9febd0089c419c37d67479e9efbb1843d42c11341ebf9fd45e918b0d715075c7  ./zig-out/bin/UnityDoorstop.dll
+cbe7a5e4d5c29a8d2c428eeb9dd889b140d41b7d4fff82c4fab0fd1ada314948  ./zig-out/lib/UnityDoorstop.lib
+069eaff93d946b677130b8d6468aadb5abb9330d4472802ed30b917c14450205  ./zig-out/lib/libUnityDoorstop.dylib
+cc5b6e3e9bf296cc7ce36f560cf4a0763644ac85a1520fb8f69077ff1abdf49d  ./zig-out/lib/libUnityDoorstop.so

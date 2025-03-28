@@ -1,0 +1,5 @@
+6f0b8a415d5be9d6b9bd00d37f2aafb003cee697  ./pulumi-resource-scaleway-v1.26.0-darwin-amd64.tar.gz
+9de09a37c2c73dd833d02f808aab0155d4415ee3  ./pulumi-resource-scaleway-v1.26.0-darwin-arm64.tar.gz
+3b1437059bbefac102fe250886a163094a0580e0  ./pulumi-resource-scaleway-v1.26.0-linux-amd64.tar.gz
+54ed57fd69d8524a005ad9c52ac2228ecac070e2  ./pulumi-resource-scaleway-v1.26.0-linux-arm64.tar.gz
+31ce15a35b6f357b3f3aff9bdc3c530606e62a3e  ./pulumi-resource-scaleway-v1.26.0-windows-amd64.tar.gz

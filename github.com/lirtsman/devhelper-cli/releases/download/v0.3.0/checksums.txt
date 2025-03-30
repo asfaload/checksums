@@ -1,0 +1,6 @@
+# SHA256 Checksums for DevHelper CLI v0.3.0
+7e39a3badf1a681a7d46610eee82ba17b2899063bbd71c54e6ec88e2f298264a  devhelper-cli-darwin-amd64
+a97d94e6fd7ff975fdfcd04cd59c5bed84277e8c646c52ccd0cf7c9ec0b82e96  devhelper-cli-darwin-arm64
+1b51b1046bf32464df7cbbf633dd21d095f367217f37f7feda1547232bd41f89  devhelper-cli-linux-amd64
+396dfef79a595ff920959b5054d4f8d409d4c3efdcc21a84a771b95dd779518f  devhelper-cli-linux-arm64
+882345156547ae17313fb51511b62ba4f9bfc735450ce06b64d0ae5b147eeecb  devhelper-cli-windows-amd64.exe

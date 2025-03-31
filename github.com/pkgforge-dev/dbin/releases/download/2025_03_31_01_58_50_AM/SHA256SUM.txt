@@ -1,0 +1,4 @@
+5fec109bcfcb344ec8103fc73197c84ba63f52ffac0b8fd7aa3534a9842f8d40  ./dbin-x86_64-Linux.upx
+6a3add1dc42d07cf0758b4749c38c08507d1af796e6bc96e4f32984cb5ddbbe2  ./dbin-aarch64-Linux.upx
+8d1e3d3beb870ac37d0f111d7a760da4c3ea60bf54b85b741eb31d729785b98c  ./dbin-aarch64-Linux
+abd7389188f742c0e4ebb70f411e0469ce7d908637ea2021bb21d44dfa3c5ede  ./dbin-x86_64-Linux

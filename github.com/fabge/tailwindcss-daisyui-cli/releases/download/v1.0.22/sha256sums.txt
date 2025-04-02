@@ -1,0 +1,7 @@
+1a3c8cb7f47cad6613d64bb8df3f0399e100880279546fccee7846f10e97ee08  ./tailwindcss-linux-arm64
+0322a11b32f9b1f3b39a2dec6966919ec5eea2707356df053484acd4d620ca96  ./tailwindcss-linux-arm64-musl
+fccc9ee6f4917e75595e050d0b674da943e57913fe8bdc71428e0b0ff2b0a537  ./tailwindcss-linux-x64
+3e9ad9961fe151bb418d9f7d20ab38e333a62e90251515636ad6328700f336bd  ./tailwindcss-linux-x64-musl
+e7100dabcca2d6974f438a65a0ebcdf851b8b5d0e33694d02bf6c8df779e718f  ./tailwindcss-macos-arm64
+ad620b56b7e4824009dd71510c9831390badda910fe4c53eb98764a2314fcbd9  ./tailwindcss-macos-x64
+5d87192d57a8d7d7dd417b0cb9803b73b9339079dc7c203a7ae3edd638f51a48  ./tailwindcss-windows-x64.exe

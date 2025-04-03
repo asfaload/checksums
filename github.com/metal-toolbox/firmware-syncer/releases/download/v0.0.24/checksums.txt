@@ -1,0 +1,10 @@
+57d0423b9531c23c35c02039be069fc5265dcb46aa9b9427251a81c7373615ff  firmware-syncer_ 0.0.24_Darwin_64bit.tar.gz
+fbd69b33505042bab992a09fd848e2be44078a183f81809e7de9523176704a37  firmware-syncer_ 0.0.24_Darwin_64bit.tar.gz.sbom.json
+1db15ca6f9b25245dc7f27132f87058ccc664972a3a4410fc2bbde5090f697b8  firmware-syncer_ 0.0.24_Darwin_ARM64.tar.gz
+4bb30e767a1cdff145df6f0b52a37c38a45042be6d8c305c86aec679a10c9753  firmware-syncer_ 0.0.24_Darwin_ARM64.tar.gz.sbom.json
+c00407801ac28aff8bb97d39363f73973a2742da75ff88478dec5f3057dd18c1  firmware-syncer_ 0.0.24_Linux_32bit.tar.gz
+3c66a30b6b561c03ed97c2ee3fbb44c27c6368e7859664ddf2e913785cde3f02  firmware-syncer_ 0.0.24_Linux_32bit.tar.gz.sbom.json
+32a0398868ff881bc6408881b31d1f0f1aba3208486ea34f0b2ba3aca77ff3fe  firmware-syncer_ 0.0.24_Linux_64bit.tar.gz
+f670f923e903ed2b3bc2651da88f8870bc7621d5bc18a68e7815e37913a28e9e  firmware-syncer_ 0.0.24_Linux_64bit.tar.gz.sbom.json
+0668b06280a0b036bc5221f9accc0e6f0338e4bbcdccae93b9f53b8478477ea7  firmware-syncer_ 0.0.24_Linux_ARM64.tar.gz
+81da64cd2e5c11b0f3514dcadbf461d4cf564aec604823062ea7977565be1267  firmware-syncer_ 0.0.24_Linux_ARM64.tar.gz.sbom.json

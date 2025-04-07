@@ -1,0 +1,9 @@
+26226750e02cdd5a9b3a4455f66776e494be8a9bc9eca5b569f54ae118a35317  ./SHA256SUMS
+1fbb9e10012908709291fbca392666ea0f4dc3131c986006777e8d87d3a25dcb  ./just-lsp-0.1.0-aarch64-apple-darwin.tar.gz
+e90e90c37281175a5c6df36c7344caacd23f7f6790c53d5ccdcf2c01c42561c9  ./just-lsp-0.1.0-aarch64-pc-windows-msvc.zip
+e2c53a1305d3e28b0cd1f8ae57b4036c4fd2834bc5cd9675fba5101e18654d54  ./just-lsp-0.1.0-aarch64-unknown-linux-musl.tar.gz
+345e8dffd78faf0f26ee226de6a7a0dc1bfe6af5204d77b83108cab46cdbaf75  ./just-lsp-0.1.0-arm-unknown-linux-musleabihf.tar.gz
+8ee1f502616167f3873f9abf0b78f62dcea07e677eb5c4f3da69a761234e0180  ./just-lsp-0.1.0-armv7-unknown-linux-musleabihf.tar.gz
+cff86039e9610ad9101d9f9fe56fedac9616c69ecb0bab368a111b335cc736f2  ./just-lsp-0.1.0-x86_64-apple-darwin.tar.gz
+599a73aa348d8a5a0985b7518486cd6b3526063188dcfb792cc697abd68c7cc8  ./just-lsp-0.1.0-x86_64-pc-windows-msvc.zip
+629ce62532fc8f87ca97d3f60cbec3534d7dc415d38044c3f601ae5467bf5530  ./just-lsp-0.1.0-x86_64-unknown-linux-musl.tar.gz

@@ -1,0 +1,5 @@
+080e29793d1789041c58ace316aad63f0b527dff88124d0b0a74fe3a17cc2234  terraform-backend-etcd_0.5.0_linux_amd64.tar.gz
+871c17263e34d86cf899416f6f63e7fda491cb4f40721ecec0e5a9d1fd347f41  terraform-backend-etcd_0.5.0_darwin_amd64.tar.gz
+93647390dd0c709cf70acd725ec6f522831d74663f1e037c2bcfb9cefea67118  terraform-backend-etcd_0.5.0_windows_amd64.tar.gz
+be4f2843f3ffbceefbec383a834f835b65558f521c15a0b90f8069c2bd0e6619  terraform-backend-etcd_0.5.0_darwin_arm64.tar.gz
+c5dc6897fa793ac3f1faca23663b495b6046e61fee751391f56aae8a01d7eb5e  terraform-backend-etcd_0.5.0_linux_arm64.tar.gz

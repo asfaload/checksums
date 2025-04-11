@@ -1,0 +1,8 @@
+6b228d269a1acd85ae99078ad9a64e76d53c2b67e9379c04c11c8feb8de4d6bc  protoc-gen-openapi_1.12.1_darwin_amd64.tar.gz
+2cf023d1e1768ff2968ed639001d39794af49ed04cbdd127f13aee85ac687710  protoc-gen-openapi_1.12.1_darwin_arm64.tar.gz
+0c0ddb7c2a244cb6ab7371c0a672f02f5059f9e014c5d236555fbb3fafea0f58  protoc-gen-openapi_1.12.1_linux_386.tar.gz
+516a4f9dd385f4a45b52ce4c9636c300d29efb4330f01b1f2dda7432e425222a  protoc-gen-openapi_1.12.1_linux_amd64.tar.gz
+cd679daf61805a361160a54a7e2a20193c65c1344ecd16ddd43e435d4268d1c6  protoc-gen-openapi_1.12.1_linux_arm64.tar.gz
+2502003771bc9cc76f53138a5c7c2ca7269445674f2cdc78fe2d69efa8300f56  protoc-gen-openapi_1.12.1_windows_386.tar.gz
+739544771fd877ebd4fd64643068268d7fbbd0499275d07280dd907bbf30f449  protoc-gen-openapi_1.12.1_windows_amd64.tar.gz
+98edb9871748bcae37fb03fcaf6ee58c89ead442ca0496b38d4056168fd545ed  protoc-gen-openapi_1.12.1_windows_arm64.tar.gz

@@ -1,0 +1,10 @@
+60e9ac70ef662120ca834db2a08817f02192ebacf9e8f7f152606b6ac2086fa2  jx-pipeline-darwin-amd64.tar.gz
+00ed12bf342c2f6a2ec4c0b5018abeddb69dbcb940900a1132e44c78b967b350  jx-pipeline-darwin-amd64.tar.gz.sbom.json
+981e0bed1f2681ef4769500c8177055bc0ff832fe229860a4686112bb36c189b  jx-pipeline-darwin-arm64.tar.gz
+b2482259cf7095ca79dec32d96e6daa68aa63108b0dedde70b2384cd2505a1fa  jx-pipeline-darwin-arm64.tar.gz.sbom.json
+ecd8ed9ac4f87f4564751a7c2da738bd1a33e6c6f7e01194bb4c01d39a37d036  jx-pipeline-linux-amd64.tar.gz
+b1d6393524e66d969063da5cb7a04d7b1015799228af1a4cbc7f1654178267e6  jx-pipeline-linux-amd64.tar.gz.sbom.json
+d8720bd3133f6edbb384e18f8f1a1c14fb12f7e968d53de7c515e9703d39c439  jx-pipeline-linux-arm64.tar.gz
+f28c60544e17445cefdbee7574a1cedea2f0a4c6f80eca92156097033b03664f  jx-pipeline-linux-arm64.tar.gz.sbom.json
+a44a872f40bbd2a8e35fb876e5020cfc487d3979744cdc1def014c6ba2e436c1  jx-pipeline-windows-amd64.zip
+8314772a5d14fef1065387e2a257a297413189fc5f07860706af64fa38eaec4d  jx-pipeline-windows-amd64.zip.sbom.json

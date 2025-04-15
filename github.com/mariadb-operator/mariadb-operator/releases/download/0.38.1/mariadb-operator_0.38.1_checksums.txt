@@ -1,0 +1,4 @@
+db8e1e79a423a29e19b2b04503ffdff126d741f88b8f4dff5a842f80804a6f92  mariadb-operator_0.38.1_darwin_amd64.tar.gz
+e0be84d54b10add6dd1f300f49596ba79f9ce730de0a6a20505abb88c0b4809b  mariadb-operator_0.38.1_darwin_arm64.tar.gz
+fe670f95b6c23436c79dc448b68d39ffe148fb271909af5e6ffa59b751d832fc  mariadb-operator_0.38.1_linux_amd64.tar.gz
+0ca3227fbc2c8e606ed5e9a1b6e8aa0a8bd7a9a344cca99e7744aafd59b2cda2  mariadb-operator_0.38.1_linux_arm64.tar.gz

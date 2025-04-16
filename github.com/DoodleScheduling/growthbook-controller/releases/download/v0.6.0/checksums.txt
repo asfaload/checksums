@@ -1,0 +1,5 @@
+28eb9a51922f1641f4b981414eca576298ca37ef88bcd22ac2ab80dcfc3a8a99  growthbook-controller_0.6.0_sbom.spdx.json
+7952653b1358a731e3a9d81e17d9761109d77cecbce054bcfb1e5a2c10857be8  growthbook-controller_0.6.0_source_code.tar.gz
+2e712a0e4bce575f0b96c8a7fc9193ac044b30e14f84419ab94d6319aa95290a  manager_0.6.0_linux_386.tar.gz
+61fbfb915ec0d5e93b9da67ecb288b17a6ef07b3fa3811c7a33a3f46523b3ddf  manager_0.6.0_linux_amd64.tar.gz
+553aec79b8de93d6aa4489b34597a23ec462de92c7f3188298ecf480dedfcf36  manager_0.6.0_linux_arm64.tar.gz

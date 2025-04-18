@@ -1,0 +1,13 @@
+6917a06b3f9e220514e775aa75142290515135360ea40739cf24c5c2ebdf028b  frr_exporter-1.4.0.darwin-amd64.tar.gz
+e827f1889146584b12529a339828c50e043e7d7f3a21c18ef0613a8d3fbe0c2d  frr_exporter-1.4.0.darwin-arm64.tar.gz
+7b8b8059a828fb8f79daddd3156f886fd3cdce2ccdc9ba1e20371f1ff55c83e1  frr_exporter-1.4.0.freebsd-386.tar.gz
+f980b8cd2f6970fb1527e430981660aa63c3ccaf9e3d354ae3f68c9e3ed0eed9  frr_exporter-1.4.0.freebsd-amd64.tar.gz
+e8736b1f6850e06b1e31c412f73adecdacf151e6c6e7eeb38a6d69d47b79301d  frr_exporter-1.4.0.freebsd-arm64.tar.gz
+75d55060b1976dd700b5fb2075285312f94c7b6d993175c7e9ced77187e26f6a  frr_exporter-1.4.0.freebsd-armv6.tar.gz
+7ca9183862731829e87c66b654d7eb204167978bf0ab6348d62f177417e3607e  frr_exporter-1.4.0.freebsd-armv7.tar.gz
+8de62efdc4b766ca849f5ac6501892c0c5984dbb16529968234d5defadf9e890  frr_exporter-1.4.0.linux-386.tar.gz
+b56a39498d468a052015c8f755fd337d47e30ed1695bd625d4ee60a778b13b84  frr_exporter-1.4.0.linux-amd64.tar.gz
+a44c6ad00226d7de5ce6cd6a98c401b101f59678a3761d7c23ebc21a29dd8312  frr_exporter-1.4.0.linux-arm64.tar.gz
+0ae2fda3289057adcc592bcbc7593643a6ac562fe446b18327eba8cb97101b40  frr_exporter-1.4.0.linux-armv5.tar.gz
+f51f152b081baf0a6cef3a2f259df3a40e23961ae7062620f95c3f833b5c1de9  frr_exporter-1.4.0.linux-armv6.tar.gz
+4320dd8e9af978a39ab76034e161aa2f2badd6016d53c05b4283c9718edfe555  frr_exporter-1.4.0.linux-armv7.tar.gz

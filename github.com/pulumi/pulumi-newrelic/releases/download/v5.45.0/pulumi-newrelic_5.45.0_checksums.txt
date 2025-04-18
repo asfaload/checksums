@@ -1,0 +1,5 @@
+48da4952c0ef35b1b00efadcf1a73943ecb629c3  ./pulumi-resource-newrelic-v5.45.0-darwin-amd64.tar.gz
+c24191dde7577a703fa8319fdcaec6a7b43ceac4  ./pulumi-resource-newrelic-v5.45.0-darwin-arm64.tar.gz
+4a282fb54672a82f44ba4e9f5d9e18b47ec52411  ./pulumi-resource-newrelic-v5.45.0-linux-amd64.tar.gz
+54fbdf29f2525b8d5ec401bc9c10222d26af4abf  ./pulumi-resource-newrelic-v5.45.0-linux-arm64.tar.gz
+d72d573f13e40609a7b10ffed75eb56da97dcd15  ./pulumi-resource-newrelic-v5.45.0-windows-amd64.tar.gz

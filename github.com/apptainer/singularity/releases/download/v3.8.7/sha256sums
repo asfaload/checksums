@@ -1,0 +1,6 @@
+3329f2e583f84a8343cb2c0380a1d6cbceafae7d1e633b5cbcadf7143eac859b  singularity-3.8.7.tar.gz
+3bf26c94fdc67c31196981365164c1f487e2a6cc023da95544f223bc3dd60af9  singularity-3.8.7-1.src.rpm
+cbbf3f5fd586877d591d64f56f524b380bf541383cbb56503109264f917ef19e  singularity-3.8.7-1.x86_64.rpm
+f9157c83022d66387764e372492a5e3c9c8ed3079e1c4a0470eb6ddd45eb2820  singularity-debuginfo-3.8.7-1.x86_64.rpm
+9c05a395070e7abfff8313e9bcfd95fc6f8f0a2921f441f59bb9f131b467b69e  singularity-container-dbgsym_3.8.7_amd64.deb
+e24218f457415bb0ff3270a936c40474c15ce179cef1c7bd38d7e96409f6c91c  singularity-container_3.8.7_amd64.deb

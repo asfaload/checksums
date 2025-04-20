@@ -1,0 +1,10 @@
+# SHA-256 Checksums for shef v0.3.0
+# Generated on Sun Apr 20 17:10:16 UTC 2025
+
+be7d33334bd31a621f8ad2801d39e2fa0d45bd52e0b2140d9ed8d5617cecc19f  recipes.tar.gz
+832de8f8ae4450ae07c1878c882ac0ea9d12d340b844d27d64f8c3f9eca675f0  shef_darwin_amd64.tar.gz
+24be38abc03aa3c38310296c80ea26531d89220f8c4323307ef9d9eb5db024c5  shef_darwin_arm64.tar.gz
+955f911aea45cc7ddf522aefd82ff8a8fd9df6347767f6351a07583f41d4e272  shef_linux_amd64.tar.gz
+a7df72a7caed22de0c68a77b46f20047bc653f07c06beee147e03c046f57549a  shef_linux_arm64.tar.gz
+db6969bf9fd8bb79e0692ce122d6b80b1df55109cf37f2778923a8fd87326c8c  shef_windows_amd64.zip
+dc004631def77aab94032851ef870efcf83f6d90bcebf8d1fa002c3f8b9d2f59  shef_windows_arm64.zip

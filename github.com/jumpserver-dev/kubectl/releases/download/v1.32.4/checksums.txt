@@ -1,0 +1,6 @@
+c5ebb130b5110622b2be327361d16ffedf0c203f3416ba185d7c82d88ee6016b  kubectl-v1.32.4-linux-386.tar.gz
+c35a941ba1291b6684ecc8bba33a8eda1554dbf1a33c07a7c8a11369ef8a713a  kubectl-v1.32.4-linux-amd64.tar.gz
+2d810df2885a8e0fa7353c9dde12f205f718709b71793cdff2e216a7bf5b1f5a  kubectl-v1.32.4-linux-arm.tar.gz
+154155a648a4a4c3ce06166c18ccf1bf13bcdbea36c64a764f8095e81c0d89e3  kubectl-v1.32.4-linux-arm64.tar.gz
+305686d78c4726b7f45b8fbb24ffb920f5d075b815ab33f681c610db405e5004  kubectl-v1.32.4-linux-ppc64le.tar.gz
+99f55fd986fc02df6b80dd0fd0206f2ff3c1973ea5dfc54384ea9d3cdbc4eeaa  kubectl-v1.32.4-linux-s390x.tar.gz

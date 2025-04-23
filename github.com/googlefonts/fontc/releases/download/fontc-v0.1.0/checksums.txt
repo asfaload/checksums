@@ -1,0 +1,7 @@
+b4051f19caa982cb8bae68d3435db3459e7fdcafc561cd2e4aa594ef78d467ad  fontc-aarch64-apple-darwin.tar.gz
+7b3c29ba298d102379739c193ca377feebc4a095919c51fa2fc0654189a5ecfd  fontc-aarch64-unknown-linux-musl.tar.gz
+a1dae83b5f3ec9426d10edfc36860e7e291af6711f6a1989e60ff66e0a2da277  fontc-x86_64-apple-darwin.tar.gz
+b0de6b646f883e8623f8b7bd8e7b87ff5571caa5b76272c49f1933841cc9e895  fontc-x86_64-unknown-linux-musl.tar.gz
+d0bad577136dcb4ec814e6d207fe94cb2690ff92535bc1637a014302507106a4  fontc-i686-pc-windows-msvc.zip
+54b026cd2676d6cfe40182f112849ef4c1268d06243624c1ffc8132ba215911f  fontc-x86_64-pc-windows-msvc.zip
+dc8a2ca39a0ecd6fd101a21f413fe3ce6ec53ad137800b418b860880d8408e7a  requirements.txt

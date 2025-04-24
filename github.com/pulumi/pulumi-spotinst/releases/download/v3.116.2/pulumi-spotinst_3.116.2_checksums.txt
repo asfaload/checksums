@@ -1,0 +1,5 @@
+356c7e4a87d2a863e9bf187e4d097b78786a1616  ./pulumi-resource-spotinst-v3.116.2-darwin-amd64.tar.gz
+2f6ac3c9899fde7ec7f9502c4bfb45c439408694  ./pulumi-resource-spotinst-v3.116.2-darwin-arm64.tar.gz
+1d22e125b809ea85795e366f445425dac1dc7d22  ./pulumi-resource-spotinst-v3.116.2-linux-amd64.tar.gz
+d621935b074fdbdaec745afce6ab6aa2f105428e  ./pulumi-resource-spotinst-v3.116.2-linux-arm64.tar.gz
+ee47e186c9d053a80d942c8537dcebb912b71f78  ./pulumi-resource-spotinst-v3.116.2-windows-amd64.tar.gz

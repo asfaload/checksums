@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+0b7b5fdf673fc37e496dd8b30668d0249e95fa5b781c53a60085aafadb35f9c6  couchbase-cxx-client-1.0.7.tar.gz
+723ce5cb192762d18f48ceaaa9ebb9805fd326d80bb28d7d38cb3d779707daf1  couchbase-cxx-client-1.0.7-1.amzn2023.aarch64.tar
+480bd701020f4a65ae475cf39eb137897c904e3989ae3f6e1d2b11aadf6f7f7f  couchbase-cxx-client-1.0.7-1.amzn2023.x86_64.tar
+62872d67c6f958c76499add595d289756051fd091632dea6ba3cd6773dce8cde  couchbase-cxx-client-1.0.7-1.bookworm.aarch64.tar
+1f799f34dcb375183709b2fbb14fab59461ab735b97108da4869d71a58815143  couchbase-cxx-client-1.0.7-1.bookworm.x86_64.tar
+cca6829c56d8328d605c1e9ef80e61bf2c82b48e46517e94491a30edacb482b2  couchbase-cxx-client-1.0.7-1.el8.aarch64.tar
+e80c0da47f61450566e3e0325870e54c53e4085621993b4a30d107d1154779e6  couchbase-cxx-client-1.0.7-1.el8.x86_64.tar
+5e63e8827e6879ecc419699a7a8bdcddcd6e184159a5601c21e1ef1ba7729340  couchbase-cxx-client-1.0.7-1.el9.aarch64.tar
+6afc0e5efe086ba18960439dae70fba214cb5b2802d7048f77b7b046752aff98  couchbase-cxx-client-1.0.7-1.el9.x86_64.tar
+635ca4bf40926e6b318745e9ca9006bad8be9fe57471091e3c30a2ed35008b60  couchbase-cxx-client-1.0.7-1.fc40.aarch64.tar
+dd5878ae559617f0b208cde4ce37723d561ad058c9cb6208534a968df3f471fb  couchbase-cxx-client-1.0.7-1.fc40.x86_64.tar
+02ce70fb5e08f3090f1aee0418cdba97b89f00b752c5752daef5a16221d725f5  couchbase-cxx-client-1.0.7-1.fc41.aarch64.tar
+f1e90d774f981196515c917e44d36f1ce796201f15d00be200a142b7965bd225  couchbase-cxx-client-1.0.7-1.fc41.x86_64.tar
+316052ba7077d93ac9cfd51e872555b59ae590352d63ca22a4c7cbb2d7a63a5f  couchbase-cxx-client-1.0.7-1.jammy.aarch64.tar
+f78e8f956cccc471ee1380fa381df0a8ae5a39080483db7f86809cdafb6ea073  couchbase-cxx-client-1.0.7-1.jammy.x86_64.tar
+bc616d1c8ea1d8d085226ba417e8b606da13f1a28829ec37d72bc588f307551c  couchbase-cxx-client-1.0.7-1.noble.aarch64.tar
+351f46fc79bdee913f7b7567c06608e9e6c4130934c722ec39f2221453c08e0e  couchbase-cxx-client-1.0.7-1.noble.x86_64.tar
+beb288f180c886187f334e9c53e4c6a0283f7a6fd2187983005545e6e6180b0c  couchbase-cxx-client-1.0.7-1.suse.lp156.aarch64.tar
+18c19e0e0e2f879b29144be5c5820c793a65a3297851b37afca449093887da83  couchbase-cxx-client-1.0.7-1.suse.lp156.x86_64.tar
+9f4ca9ce4be5253c71d21133eadcf961d029acaf1752d57fb4768348a18e89b6  couchbase-cxx-client-1.0.7-r1-aarch64-alpine-3.19.tar
+8ef749e6fac4bf7f1320062f2dc46026455648dd4ab95da655b1f54379f570dc  couchbase-cxx-client-1.0.7-r1-aarch64-alpine-3.20.tar
+3965773e250db7313f7c6c60968ac02eccf1111bd5ae4ce68f8380ce065d0afb  couchbase-cxx-client-1.0.7-r1-x86_64-alpine-3.19.tar
+73ab1c33253792aec8569172b8dc8046177a37c7d1f56e60971ed320b81c966d  couchbase-cxx-client-1.0.7-r1-x86_64-alpine-3.20.tar
+-----BEGIN PGP SIGNATURE-----
+
+iF0EARECAB0WIQQTbNO6iE48sOROelvpBcdwzUBuYgUCaAqG4gAKCRDpBcdwzUBu
+YvyVAJ4luCcHXodPDSbVaEUHrU9+Ruxk1wCgvhDZXkt+N6ozGbuGNOHYil7wez8=
+=yycD
+-----END PGP SIGNATURE-----

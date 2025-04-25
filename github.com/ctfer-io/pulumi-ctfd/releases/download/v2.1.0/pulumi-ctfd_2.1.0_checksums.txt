@@ -1,0 +1,12 @@
+ec3c920eb793507ff3b455bac0f69223cd20084063e687b9de12a75ee9b674a6  pulumi-resource-ctfd-v2.1.0-darwin-amd64.tar.gz
+76c6fb7f4379efbe4a1fd15b1d049abf295b90a3e6af5c5d1d72fb5d0f6ee9c1  pulumi-resource-ctfd-v2.1.0-darwin-amd64.tar.gz.sbom.json
+845c4b596732e708a963dddcc3ef1475be2f21815f4701185f9343c122f1cf44  pulumi-resource-ctfd-v2.1.0-darwin-arm64.tar.gz
+64402f4c37b036da944e7bfc35ccf59412e879418a3dd17bf0e72c8e30942de5  pulumi-resource-ctfd-v2.1.0-darwin-arm64.tar.gz.sbom.json
+55f4ec4741439b9db0a319fac7a3939b20b4970292e18f26bb913978816ced8f  pulumi-resource-ctfd-v2.1.0-linux-amd64.tar.gz
+8da80c3d2349f6bd5a9d6a78928cc7363323e7d1e203beb6584903962020801e  pulumi-resource-ctfd-v2.1.0-linux-amd64.tar.gz.sbom.json
+9d5e5afa5dca1575612c98186157d6844583da6c7048d39df018c07ee196d0f8  pulumi-resource-ctfd-v2.1.0-linux-arm64.tar.gz
+109e78213b2560474198e73bd94d370ebbece0b4035fa468e4d2abed251a183e  pulumi-resource-ctfd-v2.1.0-linux-arm64.tar.gz.sbom.json
+91acbfaa553af78a3932bf2fe3409d902230276cb001ea7f4ca1a4eddd0459a3  pulumi-resource-ctfd-v2.1.0-windows-amd64.tar.gz
+4be6d4c44845eeff2df644926b588c6d0d0076d3f7cf8cd364c7e68e94df6c0f  pulumi-resource-ctfd-v2.1.0-windows-amd64.tar.gz.sbom.json
+9c8e9868539da7f2d392aa10b0f5ce47b1b262e30df6ff7dfc0c080815a286a2  pulumi-resource-ctfd-v2.1.0-windows-arm64.tar.gz
+122ef42328d0a9ca279dc345e65d1ceecb8665369e789c3cdbfd35b6a74969e6  pulumi-resource-ctfd-v2.1.0-windows-arm64.tar.gz.sbom.json

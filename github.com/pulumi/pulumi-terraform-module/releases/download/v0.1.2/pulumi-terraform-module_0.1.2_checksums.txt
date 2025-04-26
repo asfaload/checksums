@@ -1,0 +1,5 @@
+a99fe70637c4b93581afbf1b15b8e25f0131706f  ./pulumi-resource-terraform-module-v0.1.2-darwin-amd64.tar.gz
+11010aa1fd62917ed94344c1b3f9859dc0ba57f9  ./pulumi-resource-terraform-module-v0.1.2-darwin-arm64.tar.gz
+99d57c4448a97317b2b90f6235409d7faeda5f43  ./pulumi-resource-terraform-module-v0.1.2-linux-amd64.tar.gz
+6f293d8b1f99b0e0c23bb88036be811f9dce1f84  ./pulumi-resource-terraform-module-v0.1.2-linux-arm64.tar.gz
+d2bcd32c87c811860076e34db002bb026864b80d  ./pulumi-resource-terraform-module-v0.1.2-windows-amd64.tar.gz

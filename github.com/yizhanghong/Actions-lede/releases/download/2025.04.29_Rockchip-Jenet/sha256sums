@@ -1,0 +1,4 @@
+74477ea64106903f45e6c07245035e8882ddb41b599a178b6a442f121af22f3b *openwrt-rockchip-armv8-hinlink_opc-h69k-ext4-sysupgrade.img.gz
+87e9d76b39160f9ec81531325d5594932c818200b6d11dae5d4108325de434a3 *openwrt-rockchip-armv8-hinlink_opc-h69k-squashfs-sysupgrade.img.gz
+0be74b5dc4496905d2cc63bbb4bb4795afcb6d396199f29d45b7d6e6e24fc87d *openwrt-rockchip-armv8-hinlink_opc-h69k.manifest
+307237bdd0815ec73290bcff063028994ecb424c3fca46cf3440cf060aab6859 *profiles.json

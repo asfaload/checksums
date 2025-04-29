@@ -1,0 +1,5 @@
+c306e4d953168fd132a52d33cebcbbd7164119aa  ./pulumi-resource-kong-v4.5.9-darwin-amd64.tar.gz
+f91bc21ff43553e9625cbf4b439fa7776eccdbfb  ./pulumi-resource-kong-v4.5.9-darwin-arm64.tar.gz
+41629d3d3d3f59f49173bc9270700498a4947467  ./pulumi-resource-kong-v4.5.9-linux-amd64.tar.gz
+7240a556f40abdc8e9b9108585499e6d5a176160  ./pulumi-resource-kong-v4.5.9-linux-arm64.tar.gz
+167aa92eb1cf0cca93ed81e0581269f484282d76  ./pulumi-resource-kong-v4.5.9-windows-amd64.tar.gz

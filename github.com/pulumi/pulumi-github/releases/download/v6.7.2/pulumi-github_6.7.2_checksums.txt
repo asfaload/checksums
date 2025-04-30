@@ -1,0 +1,5 @@
+100c657c1dace0c4aba3ed5bb0740f44df1fa271  ./pulumi-resource-github-v6.7.2-darwin-amd64.tar.gz
+673d87bd76d2364825ba98198789d595d55aae06  ./pulumi-resource-github-v6.7.2-darwin-arm64.tar.gz
+fde022d6df5bdadcd87713178b3ea43a4547f567  ./pulumi-resource-github-v6.7.2-linux-amd64.tar.gz
+8bcef947a9ed480f6d19604fec3e52f300573e41  ./pulumi-resource-github-v6.7.2-linux-arm64.tar.gz
+8c64a68e9b319006f5e51d788b2a9913cbe4afa9  ./pulumi-resource-github-v6.7.2-windows-amd64.tar.gz

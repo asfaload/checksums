@@ -1,0 +1,10 @@
+de97e54dac0337ab0aca477a3210a3d30d2ed8a3ca34e575e109d426bcb215e7  artifacts/otel-api-globals.js
+651f44102ae4da9d119436dce6fb57c82c51c0778e38caaca7dde1fc43155517  artifacts/otel-api-globals.js.map
+3b1b1d4986271d2d3a57fb25bbaa13c1c53bf6aef7a73948b7a3a6290ae11eda  artifacts/splunk-otel-web-0.21.0.tgz
+59f916d55f0d4eb8da44be0bfc01b9ad61f71a82263793ff512903443843e70d  artifacts/splunk-otel-web.js
+aca6ec1787602b85f7f7f53a052fde33a568da375967c2becc4e6a04103759ff  artifacts/splunk-otel-web.js.map
+7869ec1be4df2bb0c00907bdd390f24e676bc4f844249f60f563c23a70a59005  artifacts/splunk-otel-web-legacy.js
+6a092b4f40d2a677653df6e4398a23b1af13c84fa2f494453d21933258382dcc  artifacts/splunk-otel-web-legacy.js.map
+5c6cb49c23e95896f2c47877d4b7df7e802428c7b06f703393e04aec4cdfb3b7  artifacts/splunk-otel-web-session-recorder-0.21.0.tgz
+58de7e821139ecbdaa65f4266e1c7cf6820ec381c9c5122e72f1a1f94da1e1ad  artifacts/splunk-otel-web-session-recorder.js
+d1200e1459acd12bad94746879a7e7bb8c1fdf00bca499dbf1b4370db5a2cb51  artifacts/splunk-otel-web-session-recorder.js.map

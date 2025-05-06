@@ -1,0 +1,5 @@
+542305a454192a877eb3e74c5cd164233dc399f1  ./pulumi-resource-tailscale-v0.20.0-darwin-amd64.tar.gz
+b78183156c48024d41d0a4f4d2c14cfa98e2e57a  ./pulumi-resource-tailscale-v0.20.0-darwin-arm64.tar.gz
+d2e6f12f9f3dc87080e609a87d6be25252ee7232  ./pulumi-resource-tailscale-v0.20.0-linux-amd64.tar.gz
+12da20a5c736838f4d3bcd4ded68640695e9a81b  ./pulumi-resource-tailscale-v0.20.0-linux-arm64.tar.gz
+6de5ef8152bb9cd56a64afba95010b18f47d9de4  ./pulumi-resource-tailscale-v0.20.0-windows-amd64.tar.gz

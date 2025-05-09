@@ -1,0 +1,8 @@
+3adf6cdd779c6cf31db6f3311ba01337276d75d5464dd295d8da09d8f31d1169  terraform-provider-azapi_0.1.0-dev_darwin_amd64.tar.gz
+22d8034bd66ac8f0d6e14bce57b13f7bef634673e8356b306651d537f172fd3d  terraform-provider-azapi_0.1.0-dev_darwin_arm64.tar.gz
+8c2cdfb728262fec9a1df561836101455a7e4ceec4982dce50dfb9c675b27647  terraform-provider-azapi_0.1.0-dev_linux_386.tar.gz
+492d03729f0c4101aa03b80f51e6c6bbf605e53974b30285752fa22e85e31456  terraform-provider-azapi_0.1.0-dev_linux_amd64.tar.gz
+55904c1fe9e625bafeb53d71a72ebd8c99305b623307a28ca3aa98c7bb1aed4f  terraform-provider-azapi_0.1.0-dev_linux_arm64.tar.gz
+9b1b8a7c5abc620c55971c13a114dda175ffbcfa6067a785ba3b5db18c063ce3  terraform-provider-azapi_0.1.0-dev_windows_386.tar.gz
+b231c201119f3b23e42160138ad3891c70a4f1243ee4bc765b8b1c3437b41e02  terraform-provider-azapi_0.1.0-dev_windows_amd64.tar.gz
+dd82139a1ad8d9545d7e3cb179443888e65809109789bbb879325834b0edc223  terraform-provider-azapi_0.1.0-dev_windows_arm64.tar.gz

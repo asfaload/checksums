@@ -1,0 +1,12 @@
+e579eff86affd7c3b4f997820fbeb83a7be9bf575df206b5af6af9854030c6a2  chatlogger-api-go-0.5.0_darwin-amd64.tar.gz
+528ab0d49bfcbe832ff0097d25f24a66d189fa4d00cf36fcd04ededecb85fa18  chatlogger-api-go-0.5.0_darwin-arm64.tar.gz
+4be4b8720aa381f6c4ea8dbf865d87b64ec60ec323a4006fce71396e4dc3fdc8  chatlogger-api-go-0.5.0_linux-amd64.tar.gz
+3bd32dea6c1ba217096b6d72a3e7a01e53fb41ba71687edb77688ed06e0696f5  chatlogger-api-go-0.5.0_linux-arm64.tar.gz
+4f0c9cb07da20cc4944cc6488c5604eb7eadab385a746ab07ca7c363de6c383c  chatlogger-api-go-0.5.0_windows-amd64.tar.gz
+403229dcf0672f58ec21f9bd65685c7e8a2785ece7c1358548542ce5a2a821cb  chatlogger-api-go-0.5.0_windows-arm64.tar.gz
+096fed0a2fec961ef60e89d5a571619e1259bbe601e50b3c72788e21eafce65a  chatlogger-api-go_0.5.0_linux_amd64.apk
+20f6e05048d97dcfcc33f8ac165c2d51f3c7db89b37b832690d3c3772087ba9c  chatlogger-api-go_0.5.0_linux_amd64.deb
+6dfd74a1f0e2df49ff0ebebaf339ece84f83d2befbe06711e7aace3f1e28a975  chatlogger-api-go_0.5.0_linux_amd64.rpm
+6153cac6131e385354882090d763ee988581d168893b7dc85e3ce9e831502068  chatlogger-api-go_0.5.0_linux_arm64.apk
+7b2f344e48f25a2761ab3f456a99e5818ff701e39d2b26cdcbd80c50ea368ccd  chatlogger-api-go_0.5.0_linux_arm64.deb
+5aac1205c0bde34aacfdf72ffd570f70f17f52628751faf6f657403c22357c1d  chatlogger-api-go_0.5.0_linux_arm64.rpm

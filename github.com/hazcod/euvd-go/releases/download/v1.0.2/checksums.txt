@@ -1,0 +1,12 @@
+c39b4725e362b0aa341483346056a35b4b4ec807369e0a509607461c3a124c02  euvd-go_1.0.2_darwin_amd64.tar.gz
+1d8327df0a340a5e70f3eec4c7becd7a0ef4d3bafec89482f29c2d4261571ac0  euvd-go_1.0.2_darwin_amd64.tar.gz.sbom.json
+9ac0b4ae804fb8df2c748b6488d12f6fa179e2ce7a88feb116102bf860fa20c1  euvd-go_1.0.2_darwin_arm64.tar.gz
+f07d96fe6363b0ccf59d6859c04e7dc6530eb099181bbabc6e88335bc6831711  euvd-go_1.0.2_darwin_arm64.tar.gz.sbom.json
+e696f9112350e78ec168336bdc99d2c0b43e9796e21c4a5785e73684530c1abb  euvd-go_1.0.2_linux_amd64.tar.gz
+fef338f8f5cc8a79c51582cae055364375ae040c0a67782eccd1915f10ced1ad  euvd-go_1.0.2_linux_amd64.tar.gz.sbom.json
+d0bde08b50cd0bc53336985715ce82bac3d2fadf3e767033ead8333face90199  euvd-go_1.0.2_linux_arm64.tar.gz
+c1f943ed90258569a5db70b605ba786e08409877693e960f7dfe256eb8f2b1f0  euvd-go_1.0.2_linux_arm64.tar.gz.sbom.json
+a997563d38764a51f4cff0729ac4abd176c33e27539d5207ed976eb74e25ba4f  euvd-go_1.0.2_windows_amd64.tar.gz
+039218e96a446693743ce40ffef5bd8812ea35c538619bcd454c2a6417a7c04a  euvd-go_1.0.2_windows_amd64.tar.gz.sbom.json
+b25aecc0d2292112542985bfa925933af6c7cb536ff98615c8f669ee47e4da6a  euvd-go_1.0.2_windows_arm64.tar.gz
+5695b374b5006358e6a10b244c4beb3ffc31cb36921f4fa93ea81934c696f2db  euvd-go_1.0.2_windows_arm64.tar.gz.sbom.json

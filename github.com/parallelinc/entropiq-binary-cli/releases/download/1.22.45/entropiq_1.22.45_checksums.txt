@@ -1,0 +1,14 @@
+1dfe70f7dba8eb19d545245d25d86a437511291907845fd9fa76992e32dca207  /release/apk/amd64/1.22.45/binary/entropiq.apk
+900a22e8279b11eaca35b376678cf9ad4ac4b94a1c3ebaff5d8a3881a4cd0da8  /release/apk/arm64/1.22.45/binary/entropiq.apk
+703931d3f154b75896815b0e25dbc535ef4db0a0a507f143dce18c9515d4aa3b  /release/archlinux/amd64/1.22.45/binary/entropiq.pkg.tar.zst
+eb4d75995e4bfbf0196cb926ec3b09a123ed1799260ac1693071a278bf063961  /release/archlinux/arm64/1.22.45/binary/entropiq.pkg.tar.zst
+26d0349b36482ed08fd2d4404d6de26c383c62a84ad58cf41e2ae14ab0d37e01  /release/deb/amd64/1.22.45/binary/entropiq.deb
+f0125d09c9c6ef1f377789a0175c8582d44e20c79477ae6d6a2d497ce1d6b470  /release/deb/arm64/1.22.45/binary/entropiq.deb
+d7a1e90bd906568ced116941c46a07dbfe10d5c37225353a9416c49dfa9e83fe  /release/rpm/amd64/1.22.45/binary/entropiq.rpm
+7a7d4ddb75b6ccb3c07dddc838b0fd671c98d6889b418366e2da40d839545232  /release/rpm/arm64/1.22.45/binary/entropiq.rpm
+bf29ec024d1e36de2aacbfbd6880ebe89a563e4dbece37302fb58a7319dc5e41  entropiq_1.22.45_darwin_amd64
+f1fc0702f9691ee27334681eedc13f3898026712ec1eff2a1c3c380516339e4d  entropiq_1.22.45_darwin_arm64
+d8a9ba2f0bd759a34e325ee9ee4cacb29f4cf789d7906a2960df440f4c42b197  entropiq_1.22.45_linux_amd64
+0a7b0fdb5e8fdb54528650472fb07bc3cf3a81b3de7ae9d510ebaf73081ecc2f  entropiq_1.22.45_linux_arm64
+28461edacc6bff0ba774f9dbf7c5ea89189d275d7e72f291180e1af6ff13831f  entropiq_1.22.45_windows_amd64.exe
+15d2221160cf212ea87be1f9bf395428e495d0abb613cd57fe817b39cbfa5a9d  entropiq_1.22.45_windows_amd64.msi

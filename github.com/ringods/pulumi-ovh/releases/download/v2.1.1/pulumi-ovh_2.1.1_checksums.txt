@@ -1,0 +1,14 @@
+570db9a0a4c16f6b5069dab0a93fcdc7e13ea2cb67fbb05cd5c403aea0ac9713  pulumi-ovh-2.1.1.tar.gz
+c7bc7ea8b1248d41eb48dc6d7f215f9a76fbf0baa9bdaa063cbaa6df41dfc737  pulumi-ovh-2.1.1.tar.gz.sbom.json
+fcdb22b4c8a4762874998f0598064a186b9f8421be43e450fb1e37b6afd659f2  pulumi-resource-ovh-v2.1.1-darwin-amd64.tar.gz
+d569f451e610ee0dc037cfa4c51a5f452b4a7d3d791fd14e0ff797e9a643429f  pulumi-resource-ovh-v2.1.1-darwin-amd64.tar.gz.sbom.json
+125649c81bf34b0bfeb698fcaadf480a5d2d14df965b8cc2079d5db628f2182d  pulumi-resource-ovh-v2.1.1-darwin-arm64.tar.gz
+2e9e47b30621213d6f7dad979bb767e83d3d5198a5dac47903e6b59dfd5eae8a  pulumi-resource-ovh-v2.1.1-darwin-arm64.tar.gz.sbom.json
+5c34c1ee24ba773cb5bf72ac54d3b6035d9f560f98d348a71630fb90b9ce9eb6  pulumi-resource-ovh-v2.1.1-linux-amd64.tar.gz
+33ef877b40d330ca958724c42fbc1726a133ab2dfc3191c1817f4e5801608039  pulumi-resource-ovh-v2.1.1-linux-amd64.tar.gz.sbom.json
+5f97665e49aa9144a7557585ef8072472dbc81ddb84fdf579ffcd9b1d4aa3439  pulumi-resource-ovh-v2.1.1-linux-arm64.tar.gz
+8b99f492794462da20033ddf5bd07877e79da190928c94a8539acc49682027b1  pulumi-resource-ovh-v2.1.1-linux-arm64.tar.gz.sbom.json
+ee31e2b1c34954c723977f35624f4bc8067ca4ededa4d0217f742d59232fcef7  pulumi-resource-ovh-v2.1.1-windows-amd64.tar.gz
+ddac6f9c1de5afd8d497493268817462999f934a6b477642251fef56dcf07f91  pulumi-resource-ovh-v2.1.1-windows-amd64.tar.gz.sbom.json
+593edbcbca8bfb1c4fca3d36a62ba2907a243954563b99e0809c9cfcfeef59cf  pulumi-resource-ovh-v2.1.1-windows-arm64.tar.gz
+8e76bfe4b30c3fc301391d892216e4104c434a0ad218f73ac41a6ac489030b1f  pulumi-resource-ovh-v2.1.1-windows-arm64.tar.gz.sbom.json

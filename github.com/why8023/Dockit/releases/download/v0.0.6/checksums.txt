@@ -1,0 +1,9 @@
+### Dockit v0.0.6
+
+- Universal Binary (Apple Silicon + Intel)
+- macOS 13.5+
+
+### SHA-256 Checksums
+```
+cd75543c1d86fa440eddb2164d28a7f7aca56b3c5adfaab0bc8c0b1a6787d5a5  Dockit.dmg
+```

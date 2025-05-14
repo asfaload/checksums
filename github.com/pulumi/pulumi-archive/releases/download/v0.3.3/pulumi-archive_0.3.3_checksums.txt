@@ -1,0 +1,5 @@
+0d6eb2ee9726a769d5c07eaad52e63bbe8b562de  ./pulumi-resource-archive-v0.3.3-darwin-amd64.tar.gz
+50998ace7b24748703f34a49b72d45294e6828a3  ./pulumi-resource-archive-v0.3.3-darwin-arm64.tar.gz
+cfe1d638b837b6c681272b77ab1711ca9ea8daaf  ./pulumi-resource-archive-v0.3.3-linux-amd64.tar.gz
+94ce70e102b3bedc7d5f28a2bee9153693ef76c1  ./pulumi-resource-archive-v0.3.3-linux-arm64.tar.gz
+7b0b84e355adccbf212251c1776f273030cf6df9  ./pulumi-resource-archive-v0.3.3-windows-amd64.tar.gz

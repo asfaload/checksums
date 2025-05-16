@@ -1,0 +1,4 @@
+f7dfad825d95a5ec34ed8e335d36d2d5b0f78c45e553d2e2d6011b7072289924  sops-operator_0.3.0_linux_amd64.tar.gz
+22450208a1e92d59299a153365d36e07dda703af185d4672762b0a278e102a56  sops-operator_0.3.0_linux_amd64.tar.gz.sbom.json
+4425e46f2b84e1cafe946e10622c383217142c5a812bf201ce8790a4695b1709  sops-operator_0.3.0_linux_arm64.tar.gz
+e1d27c47e9d9fe014c2a90a1e835ace1802924d861dc1b3f28a93831ca3d7293  sops-operator_0.3.0_linux_arm64.tar.gz.sbom.json

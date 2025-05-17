@@ -1,0 +1,5 @@
+5e3a095f110292b1632fbe46cf379e0ed01776552a6fb8319bf52ca16945def5  kubectl-pods_on_v0.3.0_darwin_amd64.tar.gz
+f1d2425ab146ec0aab740c03476ac988ac705e04e359bb3ec8ebaf401a787709  kubectl-pods_on_v0.3.0_darwin_arm64.tar.gz
+e68b30e124a50669aaff4e644bb0667aae93a422e40fd9d51387441130c1e140  kubectl-pods_on_v0.3.0_linux_amd64.tar.gz
+a17a316fd279ff458d8f0abb189fcd6b75d540cafa002487059ee1d060522e3c  kubectl-pods_on_v0.3.0_linux_arm64.tar.gz
+3feb0436089ab06ec64cf71db83d247f9facc65b0d5f3b883f4885f93a9ac84c  kubectl-pods_on_v0.3.0_windows_amd64.tar.gz

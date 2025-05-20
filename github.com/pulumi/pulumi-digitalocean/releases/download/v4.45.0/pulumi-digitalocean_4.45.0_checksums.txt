@@ -1,0 +1,5 @@
+516c260530728db188c32a7487403d2b80ae9f8d  ./pulumi-resource-digitalocean-v4.45.0-darwin-amd64.tar.gz
+780a6a7968d79983ce06d4cdd98a60a97db07131  ./pulumi-resource-digitalocean-v4.45.0-darwin-arm64.tar.gz
+e241847c252427c68bae228667d444f638b24e7e  ./pulumi-resource-digitalocean-v4.45.0-linux-amd64.tar.gz
+a9f0eef2880bf2a3a0b7ccb46f04074fdab7f0cb  ./pulumi-resource-digitalocean-v4.45.0-linux-arm64.tar.gz
+f75600a68c7ccd1226307098318394cdb19cd0b7  ./pulumi-resource-digitalocean-v4.45.0-windows-amd64.tar.gz

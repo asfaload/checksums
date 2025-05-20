@@ -1,0 +1,5 @@
+581740207e12f538d1c247a7cb2be77639746ff4  ./pulumi-resource-azuread-v6.5.1-darwin-amd64.tar.gz
+64cee422fd6638b9ccc8b7fb0d8a1d2c1a6c9efc  ./pulumi-resource-azuread-v6.5.1-darwin-arm64.tar.gz
+de4b7496ce070af8348458efe15c67c8428acf5a  ./pulumi-resource-azuread-v6.5.1-linux-amd64.tar.gz
+cfe39d500068a1e9da5033469f0e00c53330660e  ./pulumi-resource-azuread-v6.5.1-linux-arm64.tar.gz
+8c47c0145958ec57b52f80c256bc88f180a29cb8  ./pulumi-resource-azuread-v6.5.1-windows-amd64.tar.gz

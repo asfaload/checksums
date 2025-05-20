@@ -1,0 +1,9 @@
+f275183f4bbecf0f18d616d94e8978a77d0575d78eb4a6697886706ad10d4f53  ceems-0.8.0.linux-386.tar.gz
+88abe6d4885a935f1d7824c234df9eed5e349f753cd632f40f450415aa5e28e2  ceems-0.8.0.linux-amd64.tar.gz
+9257ef1c1ec2bb760ed7a7e6ed75cae535dbed65665f2a3f13f2262fd3502d48  ceems-0.8.0.linux-arm64.tar.gz
+1c830fc08834c46ebba33fb30817a5a2a76a50b35aafe45c6114cbf33657af0a  ceems-0.8.0.linux-mips.tar.gz
+49c06f1a839723e850e28d6f89626889acb0bcc1b9b8a36e2d2cf9f3619a1cfa  ceems-0.8.0.linux-mips64.tar.gz
+bd2e65367fad0a34a7d132b3973d7a6be411a8ea945a6628b9808112ae2611ef  ceems-0.8.0.linux-mips64le.tar.gz
+47434deab63287edfddbfab13d939ac72d129704819a1819d35b934c7cba8e52  ceems-0.8.0.linux-mipsle.tar.gz
+ed1fe505db77525186064f246796a88b4f1186ab3caa1e2cb82536ae8cf98326  ceems-0.8.0.linux-ppc64le.tar.gz
+8a4d6d5a9571b290e6a89e8f866b64a74213bfad3198ead20a54bf6d77df7b76  ceems-0.8.0.linux-riscv64.tar.gz

@@ -1,0 +1,5 @@
+ec15a3a60d46e251723ac8bb46201d6f32204d41  ./pulumi-resource-gcp-v8.32.0-darwin-amd64.tar.gz
+aeeb43fd35e1b16e883414f95f6e5d816308bf20  ./pulumi-resource-gcp-v8.32.0-darwin-arm64.tar.gz
+6256105146c40419fd8159c43571ab1fe101c658  ./pulumi-resource-gcp-v8.32.0-linux-amd64.tar.gz
+c003c98a1592d7ba6e690dce81af7a90dfd238d2  ./pulumi-resource-gcp-v8.32.0-linux-arm64.tar.gz
+e46990648724ac069010f0a2c0540ae876d53ea8  ./pulumi-resource-gcp-v8.32.0-windows-amd64.tar.gz

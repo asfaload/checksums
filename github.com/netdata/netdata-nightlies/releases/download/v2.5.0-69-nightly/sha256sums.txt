@@ -1,0 +1,16 @@
+42ef0245c9d37a1f9646f6e9d9feacb588c2edbd33763c2210446201a32c182e *./latest-version.txt
+ac55c70dd697d64a1704947b9678c0ff6c9915bfa67334917c7dbcfb79b327b5 *./netdata-aarch64-latest.gz.run
+ac55c70dd697d64a1704947b9678c0ff6c9915bfa67334917c7dbcfb79b327b5 *./netdata-aarch64-v2.5.0-69-nightly.gz.run
+8bf440a2579a0a77b90c5af5afb8fee35f85a98df7633970696c0176eb4bfe73 *./netdata-armv6l-latest.gz.run
+8bf440a2579a0a77b90c5af5afb8fee35f85a98df7633970696c0176eb4bfe73 *./netdata-armv6l-v2.5.0-69-nightly.gz.run
+1d25304a56e6dfc5b9518c0081c400877bcf0f395a7448d27ea3b351f883a4d6 *./netdata-armv7l-latest.gz.run
+1d25304a56e6dfc5b9518c0081c400877bcf0f395a7448d27ea3b351f883a4d6 *./netdata-armv7l-v2.5.0-69-nightly.gz.run
+30ba790eaf31793afd890f604f3e12d53fe9da71bceeb93bc4673ff8f415ce7e *./netdata-latest.gz.run
+d719dd418b808809da07d8311f57e84bf20491d9e2987dafd9d4446c0a9eef0e *./netdata-latest.tar.gz
+32b5bcbdb2e2f865d6c6921eb304026f9fbca36749afee9798cb6e37d113c633 *./netdata-ppc64le-latest.gz.run
+32b5bcbdb2e2f865d6c6921eb304026f9fbca36749afee9798cb6e37d113c633 *./netdata-ppc64le-v2.5.0-69-nightly.gz.run
+d719dd418b808809da07d8311f57e84bf20491d9e2987dafd9d4446c0a9eef0e *./netdata-v2.5.0-69-gfddb1a0ef.tar.gz
+30ba790eaf31793afd890f604f3e12d53fe9da71bceeb93bc4673ff8f415ce7e *./netdata-v2.5.0-69-nightly.gz.run
+b5c4344fa53b5507c5f1f312248f8f206a0c39f65a10cc589b95d7a0b4a741d9 *./netdata-x64.msi
+30ba790eaf31793afd890f604f3e12d53fe9da71bceeb93bc4673ff8f415ce7e *./netdata-x86_64-latest.gz.run
+30ba790eaf31793afd890f604f3e12d53fe9da71bceeb93bc4673ff8f415ce7e *./netdata-x86_64-v2.5.0-69-nightly.gz.run

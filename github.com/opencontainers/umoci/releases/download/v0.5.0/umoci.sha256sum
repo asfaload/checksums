@@ -1,0 +1,17 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+9e5cac9f777f968d1648c216115896b6ee6a01dbe6a6bf67a771a420ba8691b8  umoci.linux.386
+1f9b284fbf05221bf107356fcc75dae131db72c9c600130648d72de317e75cd1  umoci.linux.amd64
+6985e17b8da03afe8a73730d46fc7f8b6921984437ac82e24e004a91fcb086f0  umoci.linux.arm64
+b57398eea2b4dab2ccf89229a0682aa79fd5199b2bfce70ed3b3af22da6e758c  umoci.linux.ppc64le
+91b4adb8035f9a8c650d9a891f59de07422eb100cf6cd714d7c49bf1fffb20b9  umoci.linux.riscv64
+e4b48c9cac595c004e726f4fd9d9367c9790340f40931988295b9c09ae5c9d35  umoci.linux.s390x
+4b1cd17d7611b88aebe7d67ee8b4ffb262959870d73f9ece83d41c74ddb8c1cb  umoci.tar.xz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS2TklVsp+j1GPyqQYol/rSt+lEbwUCaC157QAKCRAol/rSt+lE
+b/mWAP47lciLpx4wgwbeUeSrqKuBBW7uW2032qjiarebJnW4xAEA7H8+YsAvU1eT
+Dey+s37dgOiHVSdG39QTsRCUEmntZAo=
+=3sua
+-----END PGP SIGNATURE-----

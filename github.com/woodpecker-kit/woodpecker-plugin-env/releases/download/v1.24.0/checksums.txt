@@ -1,0 +1,8 @@
+028716450f3cd450949c07e1df7bd71897e62a77330ce888f21dc89fdfb792ff  woodpecker-plugin-env-1.24.0-darwin-amd64.tar.gz
+409e00c7f5449898a7ab0c2d2554fb45ef240511089b6d27ae7e8dce45dddc2b  woodpecker-plugin-env-1.24.0-darwin-arm64.tar.gz
+d5f2eb26f80906b687d30956b23a153df1818ba245740333d494311ddb846608  woodpecker-plugin-env-1.24.0-linux-amd64.tar.gz
+379471647031a91d06a94d066fa1a467205563799cfec480ad3b6a3e8cd17cdf  woodpecker-plugin-env-1.24.0-linux-arm64.tar.gz
+caf85e61bacf5f23ee90b5f3020745b90876c7e7acdfae6ae84d603c538a9270  woodpecker-plugin-env-1.24.0-linux-armv6.tar.gz
+70028b8a8e3930f07902257964c2795222e887cb6079a2234f318c268f9b751c  woodpecker-plugin-env-1.24.0-linux-armv7.tar.gz
+30bc58c77230d4afe375ecda5a552afeb25e4035cdded2952ca904aaeea09398  woodpecker-plugin-env-1.24.0-windows-amd64.zip
+22ac6d5d34af8cbd282116fd8e70f256bcd508e9186e9b20bfc6d4d7a221dc97  woodpecker-plugin-env-1.24.0-windows-arm64.zip

@@ -1,0 +1,12 @@
+32ac6fde97267c3ea09b95ea0c13ad10f963e418706d6006a65df46acabd5935 *config.buildinfo
+8c4da4c88c3df7b0a8dd22f55de50f4b3871d11602b92f10d0f55d42b15950b8 *feeds.buildinfo
+c424a55fb7dcda66c2c3c228ed690c65430d934e24f8c87e86163e1ebc8995c0 *lede-24.10.1-unknown-x86-64-R25.5.25-v2025.05.24-generic-ext4-combined-efi.img
+cdf729de2a4a496db209c7d7005757f0f9c3a6923fcebd9666ae1d79ebf4c480 *lede-24.10.1-unknown-x86-64-R25.5.25-v2025.05.24-generic-ext4-combined.img
+bdcee249c8d8a17ad99da39951db6174a0db13d789c307eb043b1d497a2cc6b9 *lede-24.10.1-unknown-x86-64-R25.5.25-v2025.05.24-generic-ext4-rootfs.img
+3a8a3caee9a82a8dea6eb86152f72c69e7d88436dc362bf9424e18f3461f8c17 *lede-24.10.1-unknown-x86-64-R25.5.25-v2025.05.24-generic-kernel.bin
+c41216452b30d1afd0f695d82532e440128e675d061b9c41521f7b45b49bcf71 *lede-24.10.1-unknown-x86-64-R25.5.25-v2025.05.24-generic-squashfs-combined-efi.img
+5c10a08daeac3d1eb8f184a9437c1882830c1f6c1a8784a57dac18246b2f0d24 *lede-24.10.1-unknown-x86-64-R25.5.25-v2025.05.24-generic-squashfs-combined.img
+3bdf76a157b9edf68647209c6d4f242fcd89848b212192c9774aadb6eab7ea4c *lede-24.10.1-unknown-x86-64-R25.5.25-v2025.05.24-generic-squashfs-rootfs.img
+d204da5fc2722ec0a9de52d838d37335641997363106908fe030987b4fdcca77 *lede-24.10.1-unknown-x86-64-R25.5.25-v2025.05.24-generic.manifest
+cd576faddbc4413e774c90d7214fac48f8dc5e0c2792486a9d5da47a21b156ea *profiles.json
+7f51b4fb44dbc72708fac0a474600c2e9d8af4ce3a8b8f1680330454f6a8d68f *version.buildinfo

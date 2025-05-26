@@ -1,0 +1,13 @@
+65445591ad8151b5dd14dfa9254f9d34e1183d2cbc9b45d395d39db5cc522f08 *cargo-visualize-aarch64-apple-darwin.tar.xz
+4137e050e8e8d37c2b0b563ec184f62cc7bc599964d02c56ff710a39a943a8ed *cargo-visualize-aarch64-pc-windows-msvc.zip
+350a95e7bdeeb0498f24c24cb21c08fadce9d078038426d50d1db32eaf0afa85 *cargo-visualize-aarch64-unknown-linux-gnu.tar.xz
+66fad12ce4bddc68849f0c33ec43b5649bfce0ab57068a5d39e0b08761b51be2 *cargo-visualize-aarch64-unknown-linux-musl.tar.xz
+4226a03a3db13f8d5accf8155cf0f4389f39331aa0ca2e8a81c6e226b0614df7 *cargo-visualize-powerpc64le-unknown-linux-gnu.tar.xz
+c7f887d471011f1f8151c4ac0c82d0aefe124c0f3a0c6d4bb7243e7c77e4b09e *cargo-visualize-powerpc64le-unknown-linux-musl.tar.xz
+ebb4656757ecc35bd2980b406d4bc124ab9256e099fed1068454aed39c5ce405 *cargo-visualize-riscv64gc-unknown-linux-musl.tar.xz
+6412d229798546fc29c2ca172e18ca608a65ed3432dc95d8239957578679781e *cargo-visualize-x86_64-apple-darwin.tar.xz
+09c0dca1ccf53626ce4d96ccff44e2bf3dbaa8000f130c0f2e00053c5baa2a29 *cargo-visualize-x86_64-pc-windows-msvc.zip
+4d2a286a9afee2f2db8d02fcc113c3dcdf138eaaceae56c70c6a9f8fee7ecf94 *cargo-visualize-x86_64-unknown-linux-gnu.tar.xz
+602171902d3f20929e7899235fa97af302e5a379914535e990ca64853b59bdab *cargo-visualize-x86_64-unknown-linux-musl.tar.xz
+d0c47be8b1b53fc08fb3ccfa4354e49b839886c484751f0399dd36aaf6d48844 *source.tar.gz
+

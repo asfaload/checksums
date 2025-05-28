@@ -1,0 +1,14 @@
+c7b795522c5d3d18e6975375f1b313c65e5f044d3921af446d57b8b9db026385 *config.buildinfo
+8a8f41cc7e289e5b6b19e64b071fe8147a5c068b11c790cc7893637ca7200c18 *feeds.buildinfo
+72b738be3f2eced13aa18b321217350a8da3d4b775c5a48334964188bda9572c *profiles.json
+919c1b2077f9a6c309432bcd519d3f6fb658d12363afafa5f2cf80823de43dd2 *version.buildinfo
+acacdaa0bced7bd569a23b36e010a919f1ddaeff2b9374ae2a95bbda8d8c004e *zerowrt-imagebuilder-VIP-x86-64.Linux-x86_64.tar.zst
+dbe0cba4729b57b0ef761378f27e97494f23f6323ef2650b6dae2b477fa63297 *zerowrt-vip-plus-x86-64-generic-ext4-combined-efi.img.gz
+b399d1495222fc13681269218dae7d060b3b942925cd50abe12f6e26edcfa356 *zerowrt-vip-plus-x86-64-generic-ext4-combined-efi.vmdk.gz
+bf3c183e7955497beb5b4daacbb7ad39de79f61dd27c67b4d9e8dce11eef8c06 *zerowrt-vip-plus-x86-64-generic-ext4-rootfs.img.gz
+dcdd6870f24e0ebdab017aefb2910eafbd03fda70e4fd33d139c19d2415d79b7 *zerowrt-vip-plus-x86-64-generic-kernel.bin
+e78d72e09187fc5cf8941162fe78073095e6f0de9b39db31aca9a6db566c5b6e *zerowrt-vip-plus-x86-64-generic-rootfs.tar.gz
+444997f376fa9b9f537dd4f7a172e40cc2d4bb12c08e9e7f1e194de4c76b6ef4 *zerowrt-vip-plus-x86-64-generic-squashfs-combined-efi.img.gz
+a31beeda80a5efe4c63b20bceb8e6e64652d267c898a496c1bafa0a8423082f7 *zerowrt-vip-plus-x86-64-generic-squashfs-combined-efi.vmdk
+878a97b264616897a26313daeff72b2b1c3ae225d4bcc44406737cb3deb8bc02 *zerowrt-vip-plus-x86-64-generic-squashfs-rootfs.img.gz
+28ab413a751f8ea31723bf06604977f90ff218ffcaa2cf0f8661a71989c669a2 *zerowrt-vip-plus-x86-64-generic.manifest

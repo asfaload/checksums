@@ -1,0 +1,12 @@
+76bcc94f17694c21f7765fb9c21949636d1b39be3e40404877e4cca30e45eec9  ./sparkle-linux-1.6.5-aarch64.pkg.tar.xz
+dd0e22c0a312f99cf734cbf13779545afb3906106d251b5191c40b61c5158a2d  ./sparkle-linux-1.6.5-aarch64.rpm
+6fc6fbc1e7c64b1320cf9656f4dfa0d918a5d8d2d4a5d19fa48bb4ffccca4973  ./sparkle-linux-1.6.5-amd64.deb
+15882a44eea52ad9dbecc9f0b52faf9df5e10c05da1e4fe6ef4b1103b5aa19f9  ./sparkle-linux-1.6.5-arm64.deb
+5c4da744708ac6722baee145cb740879635c2b7b33df9071d691466505d268a5  ./sparkle-linux-1.6.5-x64.pkg.tar.xz
+730bbab61c6356cf1c56967886107e820ddbfb03ee631fccc495cb4b21357f5c  ./sparkle-linux-1.6.5-x86_64.rpm
+c54eec0ecb60fae701fe5f54aa55d5c99d5e7a444fd8396c258c47f92807a1d5  ./sparkle-macos-1.6.5-arm64.pkg
+f63494d247af67202ac95ea97e4b01fd70d77014fed63bc40aada3eff467d09d  ./sparkle-macos-1.6.5-x64.pkg
+67408527999cd2174a9cfe4bc006859283236008f93f0955cf3060d4f0bbc6c0  ./sparkle-windows-1.6.5-arm64-portable.7z
+78bb07175c956a442900154b43b995121e0e5553c7935a80e314a5aa120cedd7  ./sparkle-windows-1.6.5-arm64-setup.exe
+6e770b060995f829d42e0cde6b8f38c485ee456d5abe24dbf58c7043eb31ea73  ./sparkle-windows-1.6.5-x64-portable.7z
+5c633e0401c47b7c470207af8154f0050e8142280ba777e13b0d724954d09687  ./sparkle-windows-1.6.5-x64-setup.exe

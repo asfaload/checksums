@@ -1,0 +1,14 @@
+f0e80edd8f872807ed7cf60411b8e74e0154dffbee57d3c55fa5f23277f78c74 *config.buildinfo
+ce47187d3d682dbd7ab33748730ad7d245ae00c9d7791b3fe338983fda95863b *feeds.buildinfo
+7377baae3983c282a859054dc60d39dd19cdae94101cbc50a942175cf209a088 *openwrt-imagebuilder-VIP-x86-64.Linux-x86_64.tar.zst
+26bd4037b2367a95505fff658563d9ba7c47b19e5c76e664d774edc2a1e18316 *openwrt-vip-plus-x86-64-generic-ext4-combined-efi.img.gz
+a28f9423e3638a38e4f5c38728782b7b217d1ea8a77356ea2f83e79602bcfcff *openwrt-vip-plus-x86-64-generic-ext4-combined-efi.vmdk.gz
+b09b5810627d8a8193c5ad5d781aaabd60d97a10a41d09b5587a4c51d74f76fd *openwrt-vip-plus-x86-64-generic-ext4-rootfs.img.gz
+748bbad6f1049209749a31479bf5120aeac61b3ff9caeb0255e1f811ebdccc83 *openwrt-vip-plus-x86-64-generic-kernel.bin
+a723994cf57e6f6d9cefc14c2b5152b7308684e3b6e0a539ea88a8934b9a3879 *openwrt-vip-plus-x86-64-generic-rootfs.tar.gz
+100dc9a5cc9fdde431a66e28d266e5381123238831ff0c1e76b2aed4959f98d0 *openwrt-vip-plus-x86-64-generic-squashfs-combined-efi.img.gz
+0dac93d53bc5f368797d04da095afbb5d5f6a32338b6b11adcc8ac73ea654556 *openwrt-vip-plus-x86-64-generic-squashfs-combined-efi.vmdk
+6da09857052b35d149992f96c21a58fad859b21c332daf125ea9421272d669c9 *openwrt-vip-plus-x86-64-generic-squashfs-rootfs.img.gz
+a170e52a92aaf2a31e988ac350c7b2a7ffaf9e0ddd9d79fc4d518c65bb37947c *openwrt-vip-plus-x86-64-generic.manifest
+5188929bfbfdf95d7bab0ec85985c211e015610553c4632be2466026ac027689 *profiles.json
+919c1b2077f9a6c309432bcd519d3f6fb658d12363afafa5f2cf80823de43dd2 *version.buildinfo

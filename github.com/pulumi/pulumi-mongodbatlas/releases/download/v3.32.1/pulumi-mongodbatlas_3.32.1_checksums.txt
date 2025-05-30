@@ -1,0 +1,5 @@
+51f972a0b05ffa1de48a206bd320f51199dd1f64  ./pulumi-resource-mongodbatlas-v3.32.1-darwin-amd64.tar.gz
+8c9b117c92f0366d9a15aba8c141901bc229339f  ./pulumi-resource-mongodbatlas-v3.32.1-darwin-arm64.tar.gz
+5c8aefd4fd780a12a0ec8c0163da9fc3d259642b  ./pulumi-resource-mongodbatlas-v3.32.1-linux-amd64.tar.gz
+294a1ab0207d14c4bb6ff93afc88b220353f567d  ./pulumi-resource-mongodbatlas-v3.32.1-linux-arm64.tar.gz
+3c9f1e445a3329ba8127041c6d16b5fb0bc03cc3  ./pulumi-resource-mongodbatlas-v3.32.1-windows-amd64.tar.gz

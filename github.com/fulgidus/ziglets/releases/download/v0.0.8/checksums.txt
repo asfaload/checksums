@@ -1,0 +1,6 @@
+d5b80336d154be8fb59ee2ca87504060fe062e48f0eb53b75f5d0a9fb3f9732a  ziglets-0.0.8-aarch64-linux-gnu.tar.gz
+d8dca4fc1244adc104425ea51279234940e570298dfd0693feb44d0e40ca76fb  ziglets-0.0.8-x86_64-linux-gnu.tar.gz
+115e7ff7f2f6653968ce8b892e27d32375982c48bf46f8181a3da98745c5bafe  ziglets-0.0.8-x86_64-linux-musl.tar.gz
+86818a8ad8452a2f2ab51d7c7605fe965fe897d0ac6059f424827fd5dff10f88  ziglets-0.0.8-aarch64-windows-gnu.zip
+de94581606391dfc4e57524f61f455fdfc62ef10792d493f50fc9403c73e71f9  ziglets-0.0.8-x86_64-windows-gnu.zip
+e23847b926cd0a37f9f4a64100f3451019cd0f374df1a8182b7ae65c3e5a9e0d  ziglets-0.0.8-x86_64-windows-msvc.zip

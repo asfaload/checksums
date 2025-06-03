@@ -1,0 +1,6 @@
+2eceb3355732b66ce4139133d2471c77e84a4a316a71c0dec0fe15ff02b12c1d  cassandra-probe-0.0.22-linux-x64.tar.gz
+00a708202d57c22ee2b0e43dbcd35a6890a514f94fcf0ab33cb09e6e32097ac3  cassandra-probe-0.0.22-osx-arm64.tar.gz
+4193fa463256ded76c9f85852a28d4504e8a3231a8570e6a248c1eeb9019f944  cassandra-probe-0.0.22-osx-x64.tar.gz
+be97bcbdf85fc2738fdf8bbd8cec0efbb535b4ff1bcf9fc26038787693f13302  cassandra-probe-0.0.22-sbom.json
+15ee05dcc5e6e53464d205766f6217f9ce7d8cc9472de039a5766d9ea4e560cb  cassandra-probe-0.0.22-sbom.xml
+03ca7d955b909d9678e2a78ca14e773990e07afd3c605ec51d288a5588e3ff20  cassandra-probe-0.0.22-win-x64.zip

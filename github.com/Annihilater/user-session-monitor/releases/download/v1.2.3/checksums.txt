@@ -1,0 +1,9 @@
+5e5f4bf5721b08391e6935e60d52a5c28fcd05a3e6f2c66a3c2a72afbe1a5808  user-session-monitor-linux-386.tar.gz
+c2703c5116d67fff5a9d621f34c8283be898c0895b84d6cb509183a5061ffd64  user-session-monitor-linux-amd64.tar.gz
+65f5fd36f4a6b6a3bdc9f947c10f3d8ae62c16626e64e0c507ee953722c66eb6  user-session-monitor-linux-arm64.tar.gz
+e2e609784fea0d6ec7207e7a03a531f10b3db3241e395bf46bfa87637e9fc560  user-session-monitor-linux-armv6.tar.gz
+51b1752692ac958d5bbb8839ffc43bf1d7596423ce22f488140860c4708a79cb  user-session-monitor-linux-armv7.tar.gz
+2015fefff14b578747a0b19f9c517863a3f1f30cbd667a7e88f3125d96b251c0  user-session-monitor-linux-mips64.tar.gz
+953b20f5674e0701b0993d80912141f540e076235d541029c56304833d5b510d  user-session-monitor-linux-mips64le.tar.gz
+921b35fc8c504b407a8cba2dd36645f71e5b5e45e88e8cf3b296fa1556990410  user-session-monitor-linux-ppc64le.tar.gz
+8f05c073fe603bfac2d1f2bae1565deaa6858de56da1a795152fecc43f9c29ac  user-session-monitor-linux-s390x.tar.gz

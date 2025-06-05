@@ -1,0 +1,5 @@
+de39392365c594f4fc5c5e189b1e7544dba443e2  ./pulumi-resource-oci-v3.0.0-darwin-amd64.tar.gz
+fbbfb5e47662a094f25451c39c6c5b7309c14a5f  ./pulumi-resource-oci-v3.0.0-darwin-arm64.tar.gz
+400198681f423cdfc18bd0590004a6a8c4e078ab  ./pulumi-resource-oci-v3.0.0-linux-amd64.tar.gz
+584000a4df783664441df8208e81e9b20a0117e3  ./pulumi-resource-oci-v3.0.0-linux-arm64.tar.gz
+195d95520c4dda45ff48cd66b373a0ad117d112f  ./pulumi-resource-oci-v3.0.0-windows-amd64.tar.gz

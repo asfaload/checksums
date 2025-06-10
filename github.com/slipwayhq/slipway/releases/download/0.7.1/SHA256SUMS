@@ -1,0 +1,5 @@
+c194f9c8e314fd820c4e8d0cd48a4ad2e381996cbd115d0cf94f72282d66dd48  CHANGELOG.md
+d39b444f656c32915b5243aece7280a342ad8b0982cddddb174cb1d9b749a77d  slipway-0.7.1-aarch64-apple-darwin.tar.gz
+579ecd41515f9a7680d0c4cabb2c3bd5c7b3a501ffab4d5342d9a90b207a71bd  slipway-0.7.1-aarch64-unknown-linux-musl.tar.gz
+6773cddb1e49283a71f28215149f21a26b6955d66dc663fe4078ce38023cdb82  slipway-0.7.1-x86_64-unknown-linux-gnu.tar.gz
+6bc7e2b053a82d31daf099f41c50a1a81f69549352098ed963bd16763869099b  slipway-0.7.1-x86_64-unknown-linux-musl.tar.gz

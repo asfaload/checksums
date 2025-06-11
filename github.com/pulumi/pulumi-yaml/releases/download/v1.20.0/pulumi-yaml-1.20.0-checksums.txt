@@ -1,0 +1,12 @@
+3240eff56a608842667888215d91eda273a3ca16848ff837627f798007fed91a  pulumi-converter-yaml-v1.20.0-darwin-amd64.tar.gz
+3734cad485fda9b899cabc288603e077c0907f697030802c07f99062e8513da1  pulumi-converter-yaml-v1.20.0-darwin-arm64.tar.gz
+8f2864064a7394e655b9ef1f49bcdd6a6a20a32b14485855080efd8721adabad  pulumi-converter-yaml-v1.20.0-linux-amd64.tar.gz
+6a333a7252a841df81dbe9e1cb4e66e459cec7ef25e61d54c6d4f4048c08348b  pulumi-converter-yaml-v1.20.0-linux-arm64.tar.gz
+b36a79d5c3fd846ce3a860f0ae72f2451117fb39e1123f7f8cd66f83bd2622f2  pulumi-converter-yaml-v1.20.0-windows-amd64.tar.gz
+71ba6d02a47343802c02560e0faa77305206b94f2bf9d4735c5193eecadf0304  pulumi-converter-yaml-v1.20.0-windows-arm64.tar.gz
+3371850fd89dbc3e478c95d68092d68c41af40f12c4e21a0394c60a14bf63951  pulumi-language-yaml-v1.20.0-darwin-amd64.tar.gz
+0d36d81d0a6f01ab950399231b28a6bc37590af1c17dd3d4379ab56ac840fd25  pulumi-language-yaml-v1.20.0-darwin-arm64.tar.gz
+c698b0bd262686df246e1b2fc13a3e4dce0f393afe510f0776902f1118bc2877  pulumi-language-yaml-v1.20.0-linux-amd64.tar.gz
+ee3c4968a3eaa8d983b3dc650dbec0596dc4d809e8dec8a897f0016fd707ae92  pulumi-language-yaml-v1.20.0-linux-arm64.tar.gz
+c4e91196d7bd90431fbf6091e3ae68326e11e988cba05d17316175194933be7d  pulumi-language-yaml-v1.20.0-windows-amd64.tar.gz
+ac406261e0605005bdd67a7687bc3848ac9a5ffa82f60867d515dfceebb9de8e  pulumi-language-yaml-v1.20.0-windows-arm64.tar.gz

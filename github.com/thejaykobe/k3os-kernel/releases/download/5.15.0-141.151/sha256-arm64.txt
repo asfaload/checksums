@@ -1,0 +1,3 @@
+f563eb6f886beaee7711371ca4d2857e31c303768d43db6733c66e345f4352a9  dist/artifacts/kernel-extra-generic_arm64.tar.xz
+2b9efacde12b1da048dee7a57572e439ea14f9f6e0cddc622cf3c488237ad143  dist/artifacts/kernel-generic_arm64.tar.xz
+4b6f7f59769388c38959fabb22c6a1c47d67ce9e12aab9c4bac6bbcfe081024f  dist/artifacts/kernel-headers-generic_arm64.tar.xz

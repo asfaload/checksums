@@ -1,0 +1,5 @@
+a9ba42a888a06ff388120684ca0e625ec4adaf8a  ./pulumi-resource-temporalcloud-v0.6.2-darwin-amd64.tar.gz
+dbe1d4061b414646b61c6daaf476e28db5ba4eab  ./pulumi-resource-temporalcloud-v0.6.2-darwin-arm64.tar.gz
+9d2c5f34b3b3dfd100aab238b178a84a5e5266e8  ./pulumi-resource-temporalcloud-v0.6.2-linux-amd64.tar.gz
+d817e8ec82cfb600f7ce77dbabd80895b0a089c4  ./pulumi-resource-temporalcloud-v0.6.2-linux-arm64.tar.gz
+73bb3fa610bb29a23b325a3a85908b83976a474a  ./pulumi-resource-temporalcloud-v0.6.2-windows-amd64.tar.gz

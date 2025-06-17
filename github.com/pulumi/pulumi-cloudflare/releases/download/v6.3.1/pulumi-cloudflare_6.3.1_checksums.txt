@@ -1,0 +1,5 @@
+a7e50b7efb3a2048445fbd05bbdd8381de4d331b  ./pulumi-resource-cloudflare-v6.3.1-darwin-amd64.tar.gz
+9df4b4bc3d4feb2fb388ae483c0f47104d7028ae  ./pulumi-resource-cloudflare-v6.3.1-darwin-arm64.tar.gz
+bb922b828e0eea1109296be1b121a7b90ec81743  ./pulumi-resource-cloudflare-v6.3.1-linux-amd64.tar.gz
+f0ffce8aaee1a40c8c4468d2f9bc9cd35b9c87f0  ./pulumi-resource-cloudflare-v6.3.1-linux-arm64.tar.gz
+080d41c79699de2883b6e3a351b6e21c33e71bae  ./pulumi-resource-cloudflare-v6.3.1-windows-amd64.tar.gz

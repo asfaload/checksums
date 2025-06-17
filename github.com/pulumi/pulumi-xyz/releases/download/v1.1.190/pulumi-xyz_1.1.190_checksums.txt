@@ -1,0 +1,5 @@
+8ab15c36b8c3d9e1ad8da167675bdb11caf930bf  ./pulumi-resource-xyz-v1.1.190-darwin-amd64.tar.gz
+9bc36a26df4db38871acbd7584a24e10582da7bb  ./pulumi-resource-xyz-v1.1.190-darwin-arm64.tar.gz
+17b41df8a48765923203ef3b80d52a87a9834248  ./pulumi-resource-xyz-v1.1.190-linux-amd64.tar.gz
+692d466299437f2cfedfc65e2d44bc7dfc1172af  ./pulumi-resource-xyz-v1.1.190-linux-arm64.tar.gz
+03136ef46aa0e6ce1d61f723455f1b149da31989  ./pulumi-resource-xyz-v1.1.190-windows-amd64.tar.gz

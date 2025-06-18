@@ -1,0 +1,7 @@
+673b6c63df7e38d9b81c305a24a7b851b2feaa2d3fc66caaae74ea6892d22ae1  ksr-cli-darwin-amd64.tar.gz
+833afa44167fe7d1577ade95728db0c1a89ec71aa70b1436b70575ced526f641  ksr-cli-darwin-arm64.tar.gz
+c0f2dfbbb16b1ec1f6bc840b5757b9cb11eae0479e3a503064444e94ec319cc6  ksr-cli-linux-amd64.tar.gz
+3b6de4fa595645695abe4e738c1cc7077ebb0edb8ed514a7d3682bdbd363bdb7  ksr-cli-linux-arm64.tar.gz
+2ce4e69d3ce50f3ed86aaa8a17c789333e1ae11b2033fb63d3f960307ceca68b  ksr-cli-windows-amd64.exe.tar.gz
+6648ceba8f192011ce14a172a46a247d9daf1da4b4cf7cd752b0c900008a2d87  deb-packages/ksr-cli_0.2.3_amd64.deb
+aea43892679156851f165bd875b2e987a0a46969fe3a42a7d45990134529e41e  deb-packages/ksr-cli_0.2.3_arm64.deb

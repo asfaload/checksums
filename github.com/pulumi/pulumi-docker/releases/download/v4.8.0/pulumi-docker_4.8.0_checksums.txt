@@ -1,0 +1,5 @@
+98bea20a033907e05ea9d67becf5169da20652e9  ./pulumi-resource-docker-v4.8.0-darwin-amd64.tar.gz
+ea36ca699e25680974c4cd7ba1b032e34f935ae2  ./pulumi-resource-docker-v4.8.0-darwin-arm64.tar.gz
+6f78a545da6e1b72972e9379c27791298e8c737d  ./pulumi-resource-docker-v4.8.0-linux-amd64.tar.gz
+3eeef72b37d70bcfcefe7d6a98da5554248b7f28  ./pulumi-resource-docker-v4.8.0-linux-arm64.tar.gz
+cda4e6f090d16a4884d35bd05c1e9646296980d6  ./pulumi-resource-docker-v4.8.0-windows-amd64.tar.gz

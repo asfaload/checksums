@@ -1,0 +1,33 @@
+APK 校验码与签名验证报告
+生成时间: Sun Jun 22 05:08:15 UTC 2025
+标签版本: v9.1.2
+构建编号: 15803036322
+=========================================
+
+📱 APK: app-arm64-v8a-release.apk
+📏 文件大小: 48M
+✅ 签名状态: 验证通过 (jarsigner)
+🔹 MD5:    1cbb39d87dd0fbb691c13937e1638fc7
+🔹 SHA1:   72f4bcf64a412060f913232922357060f7b67fbd
+🔹 SHA256: 99a84b93a6f3ee2cc3d1b8fba5db238d9404d9afa55fbd9c037048c1632081fd
+
+📱 APK: app-armeabi-v7a-release.apk
+📏 文件大小: 44M
+✅ 签名状态: 验证通过 (jarsigner)
+🔹 MD5:    9d7451b8e597712a62ee58be965e2abc
+🔹 SHA1:   feea627fa781e9da0ef11e2c1a04315ba3515e60
+🔹 SHA256: f86185e5e315840893a077e133f1de0087fe41664971f532fd8ebbfee5573b9a
+
+📱 APK: app-release.apk
+📏 文件大小: 142M
+✅ 签名状态: 验证通过 (jarsigner)
+🔹 MD5:    69a1469c60cd44fe6a84ecf43f0b493f
+🔹 SHA1:   2904bbd9da9842fefdf66a12ba03a7ccd792efdd
+🔹 SHA256: 177e0416dae91799679a29cf47cf18a6a418c0cb4c19363943d7b569c4d83717
+
+📱 APK: app-x86_64-release.apk
+📏 文件大小: 49M
+✅ 签名状态: 验证通过 (jarsigner)
+🔹 MD5:    61feaed5411b15bb1b16e2f5e3d22e20
+🔹 SHA1:   71cde6dddfa5b77c25a74e302cfecdd6850af507
+🔹 SHA256: e766073b6fee123a9419a9c57db55cc754c3e959a0caaeb92e56670b49d11d60

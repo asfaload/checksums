@@ -1,0 +1,12 @@
+6092b4535623d080b028a2788ae399f6869dc3eeaff5f8490bfc16b65c11920f  protoc-gen-go-enum-v0.5.65-alpha.22-darwin-amd64
+1db8c6b4f73f77015413d064f2ecb5fa026ed9c8d1bfc1490601158bd8070b5f  protoc-gen-go-enum-v0.5.65-alpha.22-darwin-arm64
+fe351cc6059a953753c719e5f3bf62e26c1747a6b29780a32a6fe317d88a7920  protoc-gen-go-enum-v0.5.65-alpha.22-linux-amd64
+b7cb452fd4dc55486336188f70c7b79a7d36b7b4d1ee3d37166cf47ad8f53564  protoc-gen-go-enum-v0.5.65-alpha.22-linux-arm64
+987291b738a72ba411d23c7a6c88682b0d3cb7604056d1e0de508ed7f9552f91  protoc-gen-go-enum-v0.5.65-alpha.22-windows-amd64.exe
+055a0912a61d63e1b70c89b8dd78bdf8a99c259ca557efb9c186ef47ef52ebba  protoc-gen-go-enum-v0.5.65-alpha.22-windows-arm64.exe
+d4ff07820678bab0e28887c8d33fcf4554569c49ea956c65feca3d0c4dff12ac  protoc-gen-go-errors-v0.5.65-alpha.22-darwin-amd64
+ee14b3ba4886d19297db5bb48fd6373dc9a7e51ba4f20ed18553f101ec3a50c0  protoc-gen-go-errors-v0.5.65-alpha.22-darwin-arm64
+8f01479a26711a86d13f098a5ca14a923ed5f81991c5bbbf38b6a89a2b7c855d  protoc-gen-go-errors-v0.5.65-alpha.22-linux-amd64
+82edc9d10ddde7b92f504838b7f8e2d4b9a9db43c6e9f52caa139e557c18c5b2  protoc-gen-go-errors-v0.5.65-alpha.22-linux-arm64
+4ebdf7e250ac0193f78b6518e8c187bf6c770b8de24c1a2024fbba986a5ff968  protoc-gen-go-errors-v0.5.65-alpha.22-windows-amd64.exe
+441330cd95da8f6d29a5309b4572272b628559859e24650d22498a3044f3f24f  protoc-gen-go-errors-v0.5.65-alpha.22-windows-arm64.exe

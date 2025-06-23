@@ -1,0 +1,4 @@
+575dbed99bd6a8ed4f8ed3fa70daba1fb77bc71272955d485eb7879b5b30a7cb  linux-headers-6.16.0-rc3-mainline_20250623-1_amd64.deb
+7dfbafbed1d6e81e8b44b8855198004a60b920ddf4155e10bb7ec25b1c7e2cab  linux-image-6.16.0-rc3-mainline_20250623-1_amd64.deb
+f9115d71b3a6cd38c1978265847c538ee856de6977f450648b9eeeab1fb51f5a  linux-libc-dev_20250623-1_amd64.deb
+41d50accae1eb171ae1d2dd7a6d8a9983290173a44cc8b636e33a0392424e80a  ../linux-6.16-rc3-mainline.tar.gz

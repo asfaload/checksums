@@ -1,0 +1,10 @@
+d688b08675108c645e828b8d0f53d22c317aa1aae18300a27482d71edf152112  jx-verify-darwin-amd64.tar.gz
+3099c7551a24f99ece6bc9f8dae83024d2fdcbba23148518c7faa673ceacb5fa  jx-verify-darwin-amd64.tar.gz.sbom.json
+e15d6bf51f780581a0ea155dccd9259cbc771cd3394059bb45b9e46d89d1f602  jx-verify-darwin-arm64.tar.gz
+37c517568f1799e5d1ffe48a596417c9967bf7c16cebe157aeac558cac0cfa88  jx-verify-darwin-arm64.tar.gz.sbom.json
+b8205b8c0784e41c929a1c47dfce47bba0a2efbd2a37715a84affef93cb9f5b3  jx-verify-linux-amd64.tar.gz
+fc9edb4f65dfc2588a28ba3ee72a755c937fc0e9d89bb02e68a5098db1cf6f35  jx-verify-linux-amd64.tar.gz.sbom.json
+7ad508a5e29c88c8bf2c73f06ff08f1db9bf8e85644e0608a1d9403491c2b880  jx-verify-linux-arm64.tar.gz
+d08868dd5eabecc5223cdd631a0b43585ceb2648c2cddd272e8595aae22e5575  jx-verify-linux-arm64.tar.gz.sbom.json
+9a55605da09e7f0dfb2b7e51dc022639a9eae1a928563d7d03446faaaed5196a  jx-verify-windows-amd64.zip
+c3295f4e4422a2990c420bcd42868b97df57fb6b6f5d302f1231f937c9dbb33f  jx-verify-windows-amd64.zip.sbom.json

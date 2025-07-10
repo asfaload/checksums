@@ -1,0 +1,5 @@
+84c170ce984585d4e192cd90f54870ae08d90963  ./pulumi-resource-vault-v7.1.0-darwin-amd64.tar.gz
+491758e7af78e865732140259faf320abf62357d  ./pulumi-resource-vault-v7.1.0-darwin-arm64.tar.gz
+9d0ec82eef4fe703c70fbee14bb2f11dbfcb4da3  ./pulumi-resource-vault-v7.1.0-linux-amd64.tar.gz
+85eb8fbbb96cbb5697ed9c97dd92fac03104bd07  ./pulumi-resource-vault-v7.1.0-linux-arm64.tar.gz
+c3373d8df8e187ce5fec1a97c1191ec34f72d8ff  ./pulumi-resource-vault-v7.1.0-windows-amd64.tar.gz

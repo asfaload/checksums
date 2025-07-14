@@ -1,0 +1,3 @@
+2124dc6ce1cfb3fbd985a99aa90f6a3848da9df6f600250fbcd198bdcfef4364  k8s_gateway_1.5.0_freebsd_amd64.tar.gz
+5bc74259fd4f59001cccf7a77ce61ce126a2092245e51800d5157ed6b3b3b297  k8s_gateway_1.5.0_linux_amd64.tar.gz
+73f01f2758cc35510ec89feba090a21cd72a79e64dddce031a1e141ce83941cc  k8s_gateway_1.5.0_linux_arm64.tar.gz

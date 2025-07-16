@@ -1,0 +1,5 @@
+ec17315501ab8e20dc17735041f0ea70b01e5ad6  ./pulumi-resource-gitlab-v9.1.0-darwin-amd64.tar.gz
+655a0d10f271e1823019caa9bd53ff58bc15c9ff  ./pulumi-resource-gitlab-v9.1.0-darwin-arm64.tar.gz
+61186586510884dfb4e071518aa054e4e941cc4f  ./pulumi-resource-gitlab-v9.1.0-linux-amd64.tar.gz
+e58958beedbc8bcf36a479d5bcf03123cc715668  ./pulumi-resource-gitlab-v9.1.0-linux-arm64.tar.gz
+1338d48462b570f628abd24b5b6a79e098905817  ./pulumi-resource-gitlab-v9.1.0-windows-amd64.tar.gz

@@ -1,0 +1,7 @@
+f9acf0e63d605a0431d471ad733b26770c9887684213fa9eca5d4ea84a8d541f *immortalwrt-x86-64-generic-kernel.bin
+2910c351d4604c43e4cef4de87af298dc4ee0d3d3f476ed5e3b597d5bb54e6cb *immortalwrt-x86-64-generic-rootfs.tar.gz
+5bf880d9695ef649bd2b585d4195cb657cf579090d204cd9c27f0acf156bdd82 *immortalwrt-x86-64-generic-squashfs-combined-efi.img.gz
+94cb30aea5c379ebf5b8dfb55d993034710f782afba8e34238c04458bf40dfb2 *immortalwrt-x86-64-generic-squashfs-combined.img.gz
+a6169f1fcdc6263d1cc494e66c64203a2ef0c5367458cfea98e5f058b11c18bd *immortalwrt-x86-64-generic-squashfs-rootfs.img.gz
+7732670e9943ed321bf92eb7d419db3655af5f52f78ff9b1de687373388100c0 *immortalwrt-x86-64-generic.manifest
+0e7feb338ffe86aeb3a087565fb3e6e5e7982263edc4a3cbcb654677f69b6047 *profiles.json

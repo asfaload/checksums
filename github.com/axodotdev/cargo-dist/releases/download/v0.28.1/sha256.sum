@@ -1,0 +1,10 @@
+f3fc37f5d30835227c0675bc7d5f16f062258a3a8af3e170b4ad728e7503bd82 *cargo-dist-aarch64-apple-darwin.tar.xz
+a081574ae7f5968141db6205825eaa2fdb98df3b78fc730ba726fd66c1263911 *cargo-dist-aarch64-unknown-linux-gnu.tar.xz
+230a8236fd001b409f04387ae321c962b815e155592bd9df369ac80f053e1b44 *cargo-dist-aarch64-unknown-linux-musl.tar.xz
+2da64927072d205a35c19c2a1f3b3cba903fc3d3f2be9589fe95c9221c04db56 *cargo-dist-npm-package.tar.gz
+6c79e033947f485da4c8f6c239f17183970f77b1a8f74c6a4819c6eee07bf2a4 *cargo-dist-x86_64-apple-darwin.tar.xz
+535131c0203a9637521d01afb9a1e28bb2f175bf856dd7218f794bf1c5c8e7c6 *cargo-dist-x86_64-pc-windows-msvc.zip
+2d6634452167d18d8b5ec1fd57f03baa83055b7135f90eea431dfb6cac417e14 *cargo-dist-x86_64-unknown-linux-gnu.tar.xz
+7a6346482a305a061cbc55a0f22e7105fc0fd447afd2d7939b3488af0e987e40 *cargo-dist-x86_64-unknown-linux-musl.tar.xz
+4547bf10ac38492488286743e1a7ae7208dd6942b18ba243533696567db8a4eb *source.tar.gz
+

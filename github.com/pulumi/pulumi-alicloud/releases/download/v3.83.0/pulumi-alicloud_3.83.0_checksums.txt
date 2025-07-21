@@ -1,0 +1,5 @@
+01c7b880cb27ee2dcd4dedc9ac0afa85c6fab3d6  ./pulumi-resource-alicloud-v3.83.0-darwin-amd64.tar.gz
+7f68c7eaff2a95e3bcd0aa992b2f93e867956ddf  ./pulumi-resource-alicloud-v3.83.0-darwin-arm64.tar.gz
+fae8137dbdafd5cad2f88445dfd6468f1d6df096  ./pulumi-resource-alicloud-v3.83.0-linux-amd64.tar.gz
+ae211cdad7b06dd95776bd2e348a893c692a619c  ./pulumi-resource-alicloud-v3.83.0-linux-arm64.tar.gz
+a5a9b51539c7f5f003c7e2d65a8493fb37c214e5  ./pulumi-resource-alicloud-v3.83.0-windows-amd64.tar.gz

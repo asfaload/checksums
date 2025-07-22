@@ -1,0 +1,4 @@
+512fcbcc8a662e8907408458df930a4eab7ac944bbf685a5df20635bfae91aaa  dist/func-e_1.2.0_darwin_amd64.tar.gz
+c9119ac161da657d30f8b19ffc4c6c3d35ada80756042954c9021f5fc91e8c45  dist/func-e_1.2.0_darwin_arm64.tar.gz
+d588d59aa97eef4f09f2f6a0f33d0a503ca5964a4c1a8809895c25795bf92399  dist/func-e_1.2.0_linux_amd64.tar.gz
+b0dc23acf178e69ed13d0069585b312c07a3f07e9c221d9bbde9885c43d45b9c  dist/func-e_1.2.0_linux_arm64.tar.gz

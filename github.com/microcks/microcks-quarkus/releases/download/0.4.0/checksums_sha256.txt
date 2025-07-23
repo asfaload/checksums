@@ -1,0 +1,6 @@
+afcc99551bc7a87355abc7470268d938ecd249a5ba660a64bf03e4b340067280  quarkus-microcks-0.4.0.spdx-sbom.json
+b39f8f0864492b192f985a8952bbeac259dee6e589ac4d73fbc83fc042d265c2  quarkus-microcks-test-0.4.0.spdx-sbom.json
+76802c190a8efa22e67f2c746b76c66df1bb72b56f24bda3a66d69756b9db562  quarkus-microcks-deployment-0.4.0.spdx-sbom.json
+42e165672543247774469e7fce58bb91bb2f7d896d035753a1ee1a36929dd5db  quarkus-microcks-parent-0.4.0.spdx-sbom.json
+4d3659a400023e9a033d0eda83c898528eaaaee9a305c6f3a9db6ad03a634293  microcks-quarkus-0.4.0.zip
+977e44f3c2316fb4e6aefb3ab97f7b851850fd90dbea019ba8b7ca3081596784  microcks-quarkus-0.4.0.tgz

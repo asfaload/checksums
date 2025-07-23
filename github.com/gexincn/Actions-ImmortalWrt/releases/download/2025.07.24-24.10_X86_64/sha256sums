@@ -1,0 +1,10 @@
+d2727f7e7809240cb8bda393dfce10d315595a80cfeb10b76a3e604cb48d8163 *2025.07.24.03.29-immortalwrt-x86-64-generic-kernel.bin
+93d527fe9b0c4e203ada5e1380b65251d3ac6f5bda982cad3771c822f85b5328 *2025.07.24.03.29-immortalwrt-x86-64-generic-rootfs.tar.gz
+4c6a7b93d5ff294bfbdf4d8623c4296da3ac84417e9ea22b23131f5d4dd43f94 *2025.07.24.03.29-immortalwrt-x86-64-generic-squashfs-combined-efi.img.gz
+489b9a2bac1eda96285a87b09717cc241be06d3f5e6139937eaa0cf222127954 *2025.07.24.03.29-immortalwrt-x86-64-generic-squashfs-combined.img.gz
+520b5dbfca5b8cde97b488b2dd802e2fecd71a911a72bf77b927330d4916b2ec *2025.07.24.03.29-immortalwrt-x86-64-generic-squashfs-rootfs.img.gz
+de58ae8fb87ecaf43e0007e7f1f5284ebe95a4833fff4607ab76118248a69cc7 *2025.07.24.03.29-immortalwrt-x86-64-generic.manifest
+7983e1cafab885022d10bee89016c7348bf1a9d954f172e6016e50bf6c0a6684 *config.buildinfo
+9abbc7f13c7bdf5f33741c79b90eb89de3b1456eb9228382ca0defaac1205704 *feeds.buildinfo
+51a4a4d74dff42b358337b956b2988402d3562814317ed2671fe8167e55e3156 *profiles.json
+f915aa7c9e4f025538ca743cc3b7ed35028ba86bf9a8fdf3091986004d3c40ac *version.buildinfo

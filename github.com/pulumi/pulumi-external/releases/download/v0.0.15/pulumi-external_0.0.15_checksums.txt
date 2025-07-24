@@ -1,0 +1,5 @@
+737256bd2f1ecce9ab1365852efe13ad6382c58f  ./pulumi-resource-external-v0.0.15-darwin-amd64.tar.gz
+b8e6116f8bbeba63129fe9735c73617386643528  ./pulumi-resource-external-v0.0.15-darwin-arm64.tar.gz
+f032dc595630cda0cc381d267f07d303684e001e  ./pulumi-resource-external-v0.0.15-linux-amd64.tar.gz
+a39178fb7b805cf13bd74b91db766aa46863eb28  ./pulumi-resource-external-v0.0.15-linux-arm64.tar.gz
+fa1ad8972cfdad09bba0569c50a0eb2915349da3  ./pulumi-resource-external-v0.0.15-windows-amd64.tar.gz

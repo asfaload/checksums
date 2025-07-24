@@ -1,0 +1,8 @@
+0e4357bd40186f6ff0fe5b5f4ce6532500ddaee5358ab16b89283a0a3cb1dee3 *20250724-PW-24.10-5.4-immortalwrt-mediatek-mt7981-mt7981-360-t7-108M-initramfs-kernel.bin
+5010f92b6993304ad7267d4701c7528b5c6cca1d1e4cffa2f6b8c5e083dab029 *20250724-PW-24.10-5.4-immortalwrt-mediatek-mt7981-mt7981-360-t7-108M-squashfs-factory.bin
+d6607f231fb6fcd2b8f09a94e75087832b9ac3c983f10accc64d645d3f648f74 *20250724-PW-24.10-5.4-immortalwrt-mediatek-mt7981-mt7981-360-t7-108M-squashfs-sysupgrade.bin
+2670ac4dc20673e3ac635b94fe4764de1b762d284210ab71f9fab9d646ce784d *20250724-PW-24.10-5.4-immortalwrt-mediatek-mt7981-mt7981-360-t7-108m.manifest
+67579f57ef11b10f41a215b61060a91fe356c3026ba3ba2f94d1625add1d47a9 *config.buildinfo
+5df8bddfd88e6d58d0be9fcbf22dbc39efd7564bf1f90cd767c64d3119bf1521 *feeds.buildinfo
+61e203bf5156ecdfdf25a645dd844f9e4721098b15014590b601bb20adb496a5 *profiles.json
+3bc175f794760c647ce94d50706ee5835e879db63fb65f5c0d6f031f37b2d5cf *version.buildinfo

@@ -1,0 +1,5 @@
+3514e72efc1c30f88441c5b59a9c6682fd49f1159142f240af0b48055481c61a  controld-exporter-v1.0.4_darwin_amd64.tar.gz
+afe679b1f80a8148203a91f1d0ab6b0ed665043f0c408931546b75fbf383a04e  controld-exporter-v1.0.4_darwin_arm64.tar.gz
+214c0c3e6d2865b5dfeafea62193fee05d6f2f3f2e54d7233cf680c527fd31e6  controld-exporter-v1.0.4_linux_amd64.tar.gz
+812d119a4e671f569e78c1b8377ec16b0ad50cf039456dd0f3f4fdcb0e270442  controld-exporter-v1.0.4_linux_arm64.tar.gz
+dbdc83ae3e45b812fa4a65ceb76c6f2dfaa1095d4caf873ccd601a3b7bd950c7  controld-exporter-v1.0.4_windows_amd64.tar.gz

@@ -1,0 +1,8 @@
+149a629436f5c085a00658419c5bb6f9ddda6525ec963b7b13b664ba188734f3  ./sbom-v1.0.8.spdx.json
+f0de8398deedc82b0dcefda3beb17294a5465394be68147dea2b95a1db58e999  ./source-v1.0.8.tar.gz
+51901bcbb44b6d05f63daee7e82e98ace6aad8efaca4a7021b2ad4c7d565a7ab  ./zrok_1.0.8_darwin_amd64.tar.gz
+0cf142833c4d69d2cfbea3dd2a53cb7920d76bd47b3fb6ef5c97e2f6d7b1dc27  ./zrok_1.0.8_darwin_arm64.tar.gz
+9942e3bb406ef20131bb81955244395cea063a0dfe8803c413a9172b4b4900d0  ./zrok_1.0.8_linux_amd64.tar.gz
+7b2e89438451f30daa80eb6a4e6aff8adbc1f9e6c6c43b40624fa663a3d666d0  ./zrok_1.0.8_linux_arm64.tar.gz
+2a4f0997d32607af44f720c9cae9f336c20b002229729ca9f62ed55b449a2e68  ./zrok_1.0.8_linux_armv7.tar.gz
+2e42b266435bb6c524e54b314ada4cea68a689302f7478ce3f2e4ea1eb62b42f  ./zrok_1.0.8_windows_amd64.tar.gz

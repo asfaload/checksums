@@ -1,0 +1,4 @@
+untrusted comment: go-camo-2.6.4 SHA256
+RUS27ILAxhtIu7NOp+KmKWW7CRwtL3s9BUsvT023T8DZq6lAq89uuIvHdtXWdvkUuhYggFoyRqAfvFuSVP3dyjJ+I4aGiJHg6wg=
+trusted comment: go-camo-2.6.4 SHA256
+xCYuoBkU2CnORifRO8Rnbbnn3eNM9NXcDH9l961gR6+qfHyN0wFw3raY5fg57UPCGP8fAgErlzCRGCMql0XBBQ==

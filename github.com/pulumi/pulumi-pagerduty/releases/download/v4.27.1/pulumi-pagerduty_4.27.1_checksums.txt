@@ -1,0 +1,5 @@
+d30a768ea861d0f75e57c30384d26d113bb1c936  ./pulumi-resource-pagerduty-v4.27.1-darwin-amd64.tar.gz
+23d320c0c2309c557c3cfb22b3b79d8f53fc9ba9  ./pulumi-resource-pagerduty-v4.27.1-darwin-arm64.tar.gz
+a275b5815fb7b81390f0dc99c29484051a855e94  ./pulumi-resource-pagerduty-v4.27.1-linux-amd64.tar.gz
+68d462d7a05c92c8254c0850d36ef5cc62f05af3  ./pulumi-resource-pagerduty-v4.27.1-linux-arm64.tar.gz
+1b213e7fb388a314c3bb95a379154479b5dfc0bd  ./pulumi-resource-pagerduty-v4.27.1-windows-amd64.tar.gz

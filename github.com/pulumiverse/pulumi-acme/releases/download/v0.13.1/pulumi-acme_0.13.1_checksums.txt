@@ -1,0 +1,5 @@
+f3b438fc4a4457b80a5ae1db0d53f59543bea41f  ./pulumi-resource-acme-v0.13.1-darwin-amd64.tar.gz
+be604e33a8b92994c016852e1e3a3a72c1df27c6  ./pulumi-resource-acme-v0.13.1-darwin-arm64.tar.gz
+05ac1b735ff482244b1074205b9b49c28adf58da  ./pulumi-resource-acme-v0.13.1-linux-amd64.tar.gz
+081fb4c04b26be4574b57b78409be3be1a7fc3d0  ./pulumi-resource-acme-v0.13.1-linux-arm64.tar.gz
+d49466b4347557daa697169156ddcd3dcbe3fe4e  ./pulumi-resource-acme-v0.13.1-windows-amd64.tar.gz

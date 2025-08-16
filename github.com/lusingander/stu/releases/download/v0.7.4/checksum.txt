@@ -1,0 +1,6 @@
+23a97b99fc086f100030e6348739bc70efdf073d0105539d200d095d3f0469dd  releases/stu-0.7.4-aarch64-apple-darwin.tar.gz
+dee02847918eae3c9a84eead8dad329644ca7ed5e7772ec9e52aab1db4cba252  releases/stu-0.7.4-aarch64-unknown-linux-gnu.tar.gz
+acb4e25f86f8ec9dd08abefe4293550972f91987d68b0e703c06316ed892153c  releases/stu-0.7.4-aarch64-unknown-linux-musl.tar.gz
+caa70e138cbbb24d270c6b1aeaf286246a46ae138e5c120cafd2d7bc8270899d  releases/stu-0.7.4-x86_64-apple-darwin.tar.gz
+8c835603f6145dbfdaca4fdf2b6c33d9174252902af758797b1d9f5c882f9aa7  releases/stu-0.7.4-x86_64-unknown-linux-gnu.tar.gz
+1bb92469c4036643429ce81f034570391522f8b6408b688a3f9f9e34987d148d  releases/stu-0.7.4-x86_64-unknown-linux-musl.tar.gz

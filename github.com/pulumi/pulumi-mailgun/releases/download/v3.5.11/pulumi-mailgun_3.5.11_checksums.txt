@@ -1,0 +1,6 @@
+48b037fd918c111c24a1f3c84ffeed39d2cd4996  ./pulumi-resource-mailgun-v3.5.11-darwin-amd64.tar.gz
+fddcb138df458dc862ed66eb17eed69f0f413aaf  ./pulumi-resource-mailgun-v3.5.11-darwin-arm64.tar.gz
+077e5357b624d01d36094e52c964b81df464ba78  ./pulumi-resource-mailgun-v3.5.11-linux-amd64.tar.gz
+8a39f44f25a91d6a90d1601b67e0f8aafedbe238  ./pulumi-resource-mailgun-v3.5.11-linux-arm64.tar.gz
+35dc31c6b48ea18d1437f5f34a4125d45347b7c8  ./pulumi-resource-mailgun-v3.5.11-windows-amd64.tar.gz
+7a694066a77db5b7e84dd2194260016d823bb6c5  ./pulumi-resource-mailgun-v3.5.11-windows-arm64.tar.gz

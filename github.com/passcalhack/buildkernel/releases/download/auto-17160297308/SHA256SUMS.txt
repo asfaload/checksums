@@ -1,0 +1,4 @@
+ab8562c34b1991397f48d05c37e7f8ee18d0fe1bd7f868f7096f940ec17e4b59  linux-headers-6.17.0-rc2-mainline_20250823-1_amd64.deb
+3ae527bfddd184a1c547f3805c3c07138275588bf09c26ec4f0c96ca3f777bac  linux-image-6.17.0-rc2-mainline_20250823-1_amd64.deb
+d3ca8153ceafb884bf67d7dc157e71e501d272cd1a012c5bfaace9ffe5457795  linux-libc-dev_20250823-1_amd64.deb
+86b9a15cdf99689ec02bfed3c3e8c2e998f3d7b2c300bfd397af64bc5be9766b  ../linux-6.17-rc2-mainline.tar.gz

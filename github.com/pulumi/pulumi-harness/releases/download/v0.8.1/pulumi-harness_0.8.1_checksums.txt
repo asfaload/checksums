@@ -1,0 +1,6 @@
+17c412d56267e67f3a83205d635cde579a792d51  ./pulumi-resource-harness-v0.8.1-darwin-amd64.tar.gz
+bfdce876cf446723a4dd15f82ef2816a7cec33e9  ./pulumi-resource-harness-v0.8.1-darwin-arm64.tar.gz
+78cb07b3bd43cb19676f07438fb595565156ac7f  ./pulumi-resource-harness-v0.8.1-linux-amd64.tar.gz
+92c2fc97c0a257146ad5f360a775d0381c3ec47f  ./pulumi-resource-harness-v0.8.1-linux-arm64.tar.gz
+0b1ef5aa47bcad8bcf236bf346e8585d890d4783  ./pulumi-resource-harness-v0.8.1-windows-amd64.tar.gz
+9e3aa1782f86703cae53b955d34ef7b487152880  ./pulumi-resource-harness-v0.8.1-windows-arm64.tar.gz

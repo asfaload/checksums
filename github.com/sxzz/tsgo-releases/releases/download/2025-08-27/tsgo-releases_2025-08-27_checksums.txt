@@ -1,0 +1,7 @@
+e5c2be5cf7fe0a473d5ddde29d03cfccee889a6b6b63cfedcdf8af85cde9119e  tsgo-darwin-amd64.tar.gz
+59e9fd75109af4c102fc5703cf4a9c176b5d145e2f53a856061129b2b040bc5f  tsgo-darwin-arm64.tar.gz
+c19826531842f0ab8ab019623e25285910cf7379c3fe7548cc2827991781a981  tsgo-js-wasm.tar.gz
+d4f00fefb90f7bfcc48380776d8df82a92efe01af96a48423e870dff9891672b  tsgo-linux-amd64.tar.gz
+a8f96abfedc7dc8975da2af1d12c5005bf50e9e7e14a405ed912bbc7886d991e  tsgo-linux-arm64.tar.gz
+e7f1c68745057dff58ea44fc9dd849249a4dc5acd4987cbdf48219766f1e0e97  tsgo-windows-amd64.zip
+8b3629296319acc07f22a638bcf82db83e98ee35aca47aff2840e07ce1d454e3  tsgo-windows-arm64.zip

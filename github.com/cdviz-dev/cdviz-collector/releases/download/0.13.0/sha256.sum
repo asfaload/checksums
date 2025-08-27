@@ -1,0 +1,7 @@
+9d44ce757d4e547b636646765172c723379f03bd8de84266e79ee2b22e7f6d1b *cdviz-collector-aarch64-apple-darwin.tar.xz
+7e06007fdc02b9614ed8b7e8230b17dac0f84f1bafad9b43b071d5acd029805b *cdviz-collector-aarch64-unknown-linux-gnu.tar.xz
+be5b8695ec60e07e5a1d02012d81731be6dad0a0885147989ee41c1d5732896f *cdviz-collector-aarch64-unknown-linux-musl.tar.xz
+377e47fc1f9303a6b5d51cd641baac73c41fcf9dc8f72eb527f502c0fb902991 *cdviz-collector-x86_64-unknown-linux-gnu.tar.xz
+a46645a381e0de6524dbc64df0e8c9cb48fda1a991ad75394fa23aa638e44f3e *cdviz-collector-x86_64-unknown-linux-musl.tar.xz
+c9bcb7c04e69b84727163d5e16954d0e937fc677906efc4efc1aaf817cb1b7c6 *source.tar.gz
+

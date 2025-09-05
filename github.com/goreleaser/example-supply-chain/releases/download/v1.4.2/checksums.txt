@@ -1,0 +1,10 @@
+c175a8f9d317400a6d302a161f5328e3d1949b426fa24669ba865fa630d1ab88  supply-chain-example-1.4.2.tar.gz
+0dfc48960adfe1a01f74e6c1fa7a04b44908fbe417a2fa9edd0009e756a6b716  supply-chain-example-1.4.2.tar.gz.sbom.json
+550b507a0c3da38d22dc33cf659beba1562b0536e8bf832af4294978fb80385b  supply-chain-example_1.4.2_darwin_amd64.tar.gz
+58b9a86b10a733920bdddf71fda1f6b17dabf676676e934ccfb7fc3c24753c2c  supply-chain-example_1.4.2_darwin_amd64.tar.gz.sbom.json
+0c7b7b94019bfdedf99543303af68a533d72c46d35a10a5b4054c806c0a6cd02  supply-chain-example_1.4.2_darwin_arm64.tar.gz
+ebd0420dd1792d21dffa69afde3172461a297977b844da08254f54c793b899f8  supply-chain-example_1.4.2_darwin_arm64.tar.gz.sbom.json
+7966ce13eca1298fa93da0ebfab1abe50790fa94ab21dc97effa366a6a205887  supply-chain-example_1.4.2_linux_amd64.tar.gz
+c4950599fa16ada201b00591ff73a37f5d79fbe3f51c93408f81db702112b19d  supply-chain-example_1.4.2_linux_amd64.tar.gz.sbom.json
+f34ae2638003fc79d38182e8b3836b3adefc7f4a5942febbddb91abcd192f9d3  supply-chain-example_1.4.2_linux_arm64.tar.gz
+51e690bbd39b569d8d5ace983a64caeb6f2098bfbcfaa6300eab938ca7d75420  supply-chain-example_1.4.2_linux_arm64.tar.gz.sbom.json

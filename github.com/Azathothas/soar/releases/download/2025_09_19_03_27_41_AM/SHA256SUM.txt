@@ -1,0 +1,8 @@
+1b4633ec194427e07baa0afb35e360c8d026aa5b868a4fdb133d84b27a231888  ./soar-riscv64-Linux
+45d8ae279cf1f9d20ae0b927cf65348e6e338ca33b1e8f21ec3f6cb8cba4a924  ./soar-aarch64-Linux
+bcc5816c111bcaa2393fa0241485ae5b7c3a8e0a791939b98296fae57d149faf  ./soar-aarch64-Linux.upx
+ca517de20bad0f36940834e1445dcef7fb5eedea028122289388f0fc4a9be33d  ./LICENSE-aarch64-Linux
+ca517de20bad0f36940834e1445dcef7fb5eedea028122289388f0fc4a9be33d  ./LICENSE-riscv64-Linux
+ca517de20bad0f36940834e1445dcef7fb5eedea028122289388f0fc4a9be33d  ./LICENSE-x86_64-Linux
+cd987b3c0a66d9434bd5906c65086a96b6c8bee92004844e46f5caabf96da959  ./soar-x86_64-Linux
+eb5f07afce44c2aa3e1fac69cb56dedb3bc33d99ea42dc7c44a526c6355ec2c1  ./soar-x86_64-Linux.upx

@@ -1,0 +1,4 @@
+7ab2a8e854aae0444e21db5b7d2b57fefe3d2f5d11063bd7a94eb91bd6d40a85  trivy_plugin_notify_0.0.14_darwin-amd64.tar.gz
+d0a25f080e905ff24009677e3caaede8cbb69c1d75ed609ec66e919e577c49a7  trivy_plugin_notify_0.0.14_darwin-arm64.tar.gz
+48d25a4002c03283b094c306399e78bf1694a1290d12588420b3109d49be1824  trivy_plugin_notify_0.0.14_linux-amd64.tar.gz
+72c638c5ba88154a0b14809878c4074b79d12c638e3ac7f9edf3b8da8d2ab5b9  trivy_plugin_notify_0.0.14_linux-arm64.tar.gz

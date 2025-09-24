@@ -1,0 +1,4 @@
+a75be2553e4d95b0f246b827232b2393addad7e2c4645685a6470f5de46ba03c  wasmtime-v37.0.1-x86-64.raw
+444b6d6f2778c83668bf9b2119ea5ca3a4dd4d5c6baffad3edde98ea7abde273  wasmtime-v37.0.1-x86-64-signed-ddi.raw
+2422aebf7d2b0e055fd9975a84a9547c02886a848a9e0bc3d41d88bb46566ccf  wasmtime-v37.0.1-arm64.raw
+2d7cd2d91994fd3f472e2127d0faca5235db7fcacaea3caaf5ac3276f45c0943  wasmtime-v37.0.1-arm64-signed-ddi.raw

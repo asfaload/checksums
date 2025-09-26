@@ -1,0 +1,12 @@
+34ad456147127935f0ec6b9d70b79b1cb39cc8b07c3b831fe06545b0dfe91b00  mev-commit-bridge-emulator_1.2.0-rc5_Linux_arm64.tar.gz
+957f0bd0e13e6a54a6d5b2233d03f5e9c9eee2c965b416475074f5e07c88b1bd  mev-commit-bridge-emulator_1.2.0-rc5_Linux_x86_64.tar.gz
+df1b8fd79e56e60d33bffa470f1d49991d6552102db2a1ba7de0a0c4dbdcc8c3  mev-commit-bridge-relayer_1.2.0-rc5_Darwin_arm64.tar.gz
+17de5a018d180ff372e7b00fc919556ebfad73ef4b4aee0a1edfdaf1a7672f00  mev-commit-bridge-relayer_1.2.0-rc5_Darwin_x86_64.tar.gz
+b1aee1ed9280ec72a7e96f4753b650ae7ca093e9fa920e69e76ce4323c195666  mev-commit-bridge-relayer_1.2.0-rc5_Linux_arm64.tar.gz
+7f78e4e1d0c2c2f9a45e1028605e4f81e13f781528bfd9fc743d5e00319f7b64  mev-commit-bridge-relayer_1.2.0-rc5_Linux_x86_64.tar.gz
+e4b2daa996e5dd9aea0958ffa09453f2a9ccb8b9fa304aea357b6418a97a493d  mev-commit-bridge-relayer_1.2.0-rc5_Windows_x86_64.zip
+1e1b1b7864a8058b93e1710796f0b45f01937408d95a8989f03f28ecb6d5cc6a  mev-commit-bridge-user-cli_1.2.0-rc5_Darwin_arm64 .tar.gz
+cdc1e5c8781232a94f8acc41c7dc6b15bea7911e636ed432af8b711862988c60  mev-commit-bridge-user-cli_1.2.0-rc5_Darwin_x86_64.tar.gz
+d79581274d886f061886b2367fa9ded052652f2f4ff66df64f416423f5774fe3  mev-commit-bridge-user-cli_1.2.0-rc5_Linux_arm64 .tar.gz
+c9b3d97f328cc9133343d55c2fc211bfce2228676db04b2f6c599c6aad4f5bae  mev-commit-bridge-user-cli_1.2.0-rc5_Linux_x86_64.tar.gz
+9397d17f7bcf2a4d2bd5e433f01cf706691ea23098c766fbaff74ae2cb925841  mev-commit-bridge-user-cli_1.2.0-rc5_Windows_x86_64.zip

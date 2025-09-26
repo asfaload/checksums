@@ -1,0 +1,12 @@
+cb33d0837b8740338f661bb92ea25b1857aabf09996cadc400210438efbc18cf  protoc-gen-go-enum-v0.5.69-alpha.47-darwin-amd64
+6f77b0bcab4275e6522b7300d7b7b265a4af7cdf2a8ce1372ab7596aa20c420e  protoc-gen-go-enum-v0.5.69-alpha.47-darwin-arm64
+ae50b26de3f02dda98f3c79738d21573c7cb8152f0a87f80a23fcfe343dfd27e  protoc-gen-go-enum-v0.5.69-alpha.47-linux-amd64
+8e6eef1895068396dc47c1ca73ed59275934bcdd5a8e0319c7f4385fe09a8557  protoc-gen-go-enum-v0.5.69-alpha.47-linux-arm64
+f7a6cbd6c4fcaab64b89fc49041d5335d1f809f0dba10c67cdc963f927015486  protoc-gen-go-enum-v0.5.69-alpha.47-windows-amd64.exe
+37a3d6dfd36ff5d2719aad472a196ae891ceb9aa4c2edf6ed77ba3d61aa260ef  protoc-gen-go-enum-v0.5.69-alpha.47-windows-arm64.exe
+760e983de360080372f8b3863af266282dca461136f26bcb48100635bd24e35c  protoc-gen-go-errors-v0.5.69-alpha.47-darwin-amd64
+5c964873eaeec8c2c2d19c0a0a572bd137cd39decbdc1a05d5b6b3ae402083d2  protoc-gen-go-errors-v0.5.69-alpha.47-darwin-arm64
+5b76bc8ef13c8988083b0543eefdda825639df39dd68b56da28fd8c303770333  protoc-gen-go-errors-v0.5.69-alpha.47-linux-amd64
+22af6ab1b8558c01a4c2ffcf05c0e59afd1360cc2a0f483734ff67d882c5c0a2  protoc-gen-go-errors-v0.5.69-alpha.47-linux-arm64
+5a174587af86154d3a8dbd7f0800078b4e4804968ec1e998cd544a41b133132c  protoc-gen-go-errors-v0.5.69-alpha.47-windows-amd64.exe
+cab96bfce737d2e30aff2401729d724341e576b116b5576373df2a350da59e2b  protoc-gen-go-errors-v0.5.69-alpha.47-windows-arm64.exe

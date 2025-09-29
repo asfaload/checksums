@@ -1,0 +1,5 @@
+ba8cdc91243d84989024375986522b004d3d96c5a835db6e0623d07a8f27c53d  cloud-autoscale-controller_0.3.0_sbom.spdx.json
+2f01c219fe39ebddf0aadc0fb3aa6422a6548c2c272ff8f56030f9e1bacb1018  cloud-autoscale-controller_0.3.0_source_code.tar.gz
+6a8f289eca4303a75b9cee8f30a497a778487811e7d29ae88beaca69503278ea  manager_0.3.0_linux_386.tar.gz
+f07efd6f5c4adb4deec66419851834e740c650d0be4bd8f54737fc5cf8fc341a  manager_0.3.0_linux_amd64.tar.gz
+986fafa2187c1aa43190a9f4de657860935daa65e5f2a8e8321deb7b61a63078  manager_0.3.0_linux_arm64.tar.gz

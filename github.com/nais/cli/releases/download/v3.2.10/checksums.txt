@@ -1,0 +1,3 @@
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./release_artifacts/checksums.txt
+99536f67d4e07db629cda33334290f071db763fb5daf28933ceed1aa9bec90a9  ./release_artifacts/nais-cli_amd64.deb
+ca4f845b76db4dc8778daad625b5faf7695565e3578c0106488609ae35e2c66e  ./release_artifacts/nais-cli_arm64.deb

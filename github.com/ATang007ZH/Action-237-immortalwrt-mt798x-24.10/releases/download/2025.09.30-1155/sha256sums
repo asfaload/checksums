@@ -1,0 +1,8 @@
+059eb3a751a8623de9c8a5ec333f7a419e2fa9e59ea84d9bbc2094a212c27fe6 *20250930-PW-24.10-5.4-immortalwrt-mediatek-mt7981-jcg_q30-initramfs-kernel.bin
+1fa1b2d45617a1864bb9ae12c04a47d319d3b15d1571b196b162414baa205976 *20250930-PW-24.10-5.4-immortalwrt-mediatek-mt7981-jcg_q30-squashfs-factory.bin
+bc6982f5e6ed3dc9c894a9ac9a2e8f26b8c6e5fdd6290336273379e0310bf61f *20250930-PW-24.10-5.4-immortalwrt-mediatek-mt7981-jcg_q30-squashfs-sysupgrade.bin
+62cde9d9a327a747077be49a24c6beef8be6973c8c59b1dc60dc7beeaf94aa9a *20250930-PW-24.10-5.4-immortalwrt-mediatek-mt7981-jcg_q30.manifest
+dd50f19b080775b7c8ab0805e6ccec7f0321a48cb0149b3157a0a6cc764356a7 *config.buildinfo
+e4705768e2e9bddaf858f323763668735e89e1fdc80c93ffa6c4d9d3f533894e *feeds.buildinfo
+4a350e186e3266e378a2ccc5a5c2e8f549660b003a474acc910580ddf6a940cf *profiles.json
+3bc175f794760c647ce94d50706ee5835e879db63fb65f5c0d6f031f37b2d5cf *version.buildinfo

@@ -1,0 +1,10 @@
+db3d49e87e5434b484667e75331ced5c75424913ff18bca89742982017559cdb  localstack-cli-4.9.1-darwin-amd64-onefile.tar.gz
+316fcbbd7a24c42c5c002b89c0998593996a5697de42a1260c98d764d12aa5e0  localstack-cli-4.9.1-darwin-amd64.tar.gz
+fdae68c923e96b5ad144a9c9c69b3bb20700968985420adb41ec08a63eac9a28  localstack-cli-4.9.1-darwin-arm64-onefile.tar.gz
+95f0c9f5944f9ef254782efe14d4f21920075be4160e97b0976a55c1f12d48e5  localstack-cli-4.9.1-darwin-arm64.tar.gz
+b65e8477cecbcbe90f90b8b5954e4a84d3d57e4411c2cbc4ce418bb43a37280a  localstack-cli-4.9.1-linux-amd64-onefile.tar.gz
+0c38e20cc43766a536892a03a02d7cc1423f51915798578345222e99553e0ebf  localstack-cli-4.9.1-linux-amd64.tar.gz
+6393ab9091767815dff0fcda3a4e4fe611f870a94177dee2913f2f1e2fb78440  localstack-cli-4.9.1-linux-arm64-onefile.tar.gz
+62353947d5f1f2fe9072c5f8d7e07f7fdec44f0b6406ef58bdaaf06bf7c9fd14  localstack-cli-4.9.1-linux-arm64.tar.gz
+5bcefec9d8c63a497426366c5399b6d6ffbf9832cfa12d2b82541f69f6779458  localstack-cli-4.9.1-windows-amd64-onefile.zip
+8d2ad445502deb5eadfa36833643907952ebba3bc6e909cde0f951ca777b8ec1  localstack-cli-4.9.1-windows-amd64.zip

@@ -1,0 +1,6 @@
+34d48a00341bcb99367f22f33532e1847042b193ebd3e59bda7c28de999024b5  vault-kv-mv-darwin-amd64
+d47083e2bb33bada33cc83b589406a8ad64e3b0e3c6aeca84eadd2d0d236f99b  vault-kv-mv-darwin-arm64
+7148f7eab2529cc790c926fe88b544e107079860756d674308050c6236b1976f  vault-kv-mv-linux-amd64
+ea8d05ccd92e2ef60c568cbb66b90081e7a94eea09cc2d686dcf120936f5b2ac  vault-kv-mv-linux-arm64
+ef4bc3b9c0cdbed1d38145e3c2334fec73de290c7ced57030c08e635681db9a2  vault-kv-mv-windows-amd64
+cdeeaf30dd21fcdc8bc7a1bdf71e4f66ed76e0071830c69fc5f8c1c4297aec21  vault-kv-mv-windows-arm64

@@ -1,0 +1,4 @@
+8acf19f1df12aff3b67dc8628401bf13caa2de97e1fb7ea25f01a78d262e0335  source-watcher.crds.yaml
+4d06783d37ee2ba4eb219fce7b57c757d5709857aa1482fe7fab4434762723e3  source-watcher.deployment.yaml
+439d308c3fce799e8b88c2eafaf4c2e893faf784b466924be234e77f38d47e0b  source-watcher_2.0.2_sbom.spdx.json
+6f4ad10727e314084ff1c77246467bdbe98b868d23c5e31e9d77e1f6f44e36ca  source-watcher_2.0.2_source_code.tar.gz

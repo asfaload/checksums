@@ -1,0 +1,5 @@
+f5435becc80bcbc182633f36ef02450d4dd4fb19860893b5f71a788379954227 *docker-config.buildinfo
+a0cc1a57d73155a7d4becbfc88dea816bca1806945ea307c3881214838143a6c *docker-packages-server.zip
+052ce6aac1ab45ca39d1d254be037fe613af9fa95fb8e04308d3c09784e13e6e *docker-x86-64-ext4-efi.img.gz
+046672cccbebd63a1974bc0620c792ebb220a41bcfd9fa6cca0d110fbd897654 *docker-x86-64-generic.manifest
+efc13a034d0eeaaf6e147c288c27b2a2558516b3b711dc36e5f6426b31dc9add *docker-x86-64-squashfs-efi.img.gz

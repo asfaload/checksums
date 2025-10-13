@@ -1,0 +1,6 @@
+20186becba91a12c2cbf839fb90e5e9de42c3990  ./pulumi-resource-keycloak-v6.7.1-darwin-amd64.tar.gz
+e5d7913cab582c0ab710747ccd7878e929c2140b  ./pulumi-resource-keycloak-v6.7.1-darwin-arm64.tar.gz
+549bc879800187a0223c3cff0aece22e5970e188  ./pulumi-resource-keycloak-v6.7.1-linux-amd64.tar.gz
+740a31881bd00b9e7f38f0dc7153cd217e98a865  ./pulumi-resource-keycloak-v6.7.1-linux-arm64.tar.gz
+58003d8a33ae2294a409d437e4e811557448cb09  ./pulumi-resource-keycloak-v6.7.1-windows-amd64.tar.gz
+0fc3e6c4860d014d95f4deb71b7ec30aa4ac5bd4  ./pulumi-resource-keycloak-v6.7.1-windows-arm64.tar.gz

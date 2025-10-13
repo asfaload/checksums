@@ -1,0 +1,10 @@
+46c5e1b567db682222c4a9a281b74e861bcef077c30c2f76d839fda4acb22037  documentation-generator-api-1.13.0.jar
+22908c2450a3bea1edc0f67dfc7be65adc6cc2158c7735adde3edd79c20998d4  documentation-generator-core-1.13.0.jar
+ded1ba362e23495af6e6c78b80b34f6bcf40623a3085d122e5f1ca9d591f44e7  documentation-generator-gradle-1.13.0.jar
+851cc0b0816cac5de32ba3efe36639f8b91cdc8e3c1edd37446fe7f358c92fb9  documentation-generator-confluence-1.13.0.jar
+cb5f6052823a462aa1b83e455f22b6cf013d4fdc161568e4945c8fc42d834cd7  documentation-generator-csv-1.13.0.jar
+e31d4ce0f31ab08a399d71c97ed4e6bb209ab67063a9f04eda6d52d1ecdf5963  documentation-generator-excel-1.13.0.jar
+8c0dfc98e3abdb3d489469d4d466c3c84ad10026e1375f30f15c203411305936  documentation-generator-data-dictionary-1.13.0.jar
+3007b5cd528541a6ca1da0bc4f52618ebbb2417a6033c48bfc6e2e2aab98a6c3  documentation-generator-datalineage-1.13.0.jar
+50935b6cb8f8f6af340ba326c462dd1bd7e97beec2bf62f4065f37d974312e85  documentation-generator-erdiagram-1.13.0.jar
+af11b2d8c3d1390902be6fac427e89b60c28deacdb83e60bcb6c0124892bc762  documentation-generator-sqlscript-1.13.0.jar

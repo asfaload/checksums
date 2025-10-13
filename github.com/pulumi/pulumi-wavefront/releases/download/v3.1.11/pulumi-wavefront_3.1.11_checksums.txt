@@ -1,0 +1,6 @@
+4fbdbcef879b5d9cd982c7e4e727a0ed1950a1fd  ./pulumi-resource-wavefront-v3.1.11-darwin-amd64.tar.gz
+d94153ff08c52a93de9a88b4600fb88ad0a15604  ./pulumi-resource-wavefront-v3.1.11-darwin-arm64.tar.gz
+dd1c86668c8c7e1c319f09cefb29e956a95873dc  ./pulumi-resource-wavefront-v3.1.11-linux-amd64.tar.gz
+fec2a4fd139481c9f1e145d251201b3f82f3d62d  ./pulumi-resource-wavefront-v3.1.11-linux-arm64.tar.gz
+d937f8d3b646acefa1a3eab76160562057181e92  ./pulumi-resource-wavefront-v3.1.11-windows-amd64.tar.gz
+1fe53588d0fc2ca9ebb9f8dfecc1b1bae7d3e708  ./pulumi-resource-wavefront-v3.1.11-windows-arm64.tar.gz

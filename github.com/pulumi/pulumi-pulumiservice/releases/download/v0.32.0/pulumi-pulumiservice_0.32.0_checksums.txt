@@ -1,0 +1,5 @@
+c01f9fc01f726b29085f100004d5987a84c52b72  ./pulumi-resource-pulumiservice-v0.32.0-darwin-amd64.tar.gz
+64180e320e104eeeb5aea6a86c66dfa14abaf932  ./pulumi-resource-pulumiservice-v0.32.0-darwin-arm64.tar.gz
+56aa0dab1fe178bdaf7dced0b6b080738571708e  ./pulumi-resource-pulumiservice-v0.32.0-linux-amd64.tar.gz
+1d4795037dc29ab193f9f313c0f82326d753fd02  ./pulumi-resource-pulumiservice-v0.32.0-linux-arm64.tar.gz
+7284f663e293ee85376b52d5a559329c3865960e  ./pulumi-resource-pulumiservice-v0.32.0-windows-amd64.tar.gz

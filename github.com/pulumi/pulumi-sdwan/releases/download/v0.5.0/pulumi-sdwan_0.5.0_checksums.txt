@@ -1,0 +1,6 @@
+84b53e9f374ab7a3c210c247aca51964ed02b5b4  ./pulumi-resource-sdwan-v0.5.0-darwin-amd64.tar.gz
+486dd87cfa7eef1aff02fce0dd2e4ffc0819122c  ./pulumi-resource-sdwan-v0.5.0-darwin-arm64.tar.gz
+4c99dbcaaeaf10b4206fd3f83352510987306485  ./pulumi-resource-sdwan-v0.5.0-linux-amd64.tar.gz
+3c7ca0695aedb2bca7fdd407a92ab6a49ce8dc22  ./pulumi-resource-sdwan-v0.5.0-linux-arm64.tar.gz
+bfde447c873c6c42c6e72737444e939191147ca1  ./pulumi-resource-sdwan-v0.5.0-windows-amd64.tar.gz
+c5cd93642413c59040e431b7100302fc9a5bb43e  ./pulumi-resource-sdwan-v0.5.0-windows-arm64.tar.gz

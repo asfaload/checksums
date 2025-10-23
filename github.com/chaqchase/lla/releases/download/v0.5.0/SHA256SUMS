@@ -1,0 +1,6 @@
+60689c456aca4996dec54774cb61675e94c1a187c3ffc9a24d0cf986f6fd970f  artifacts/lla-linux-amd64/lla-linux-amd64
+ca39c411fec08730ef5e42503ae661938642e8aa32337e43a54798f979d35959  artifacts/lla-linux-arm64/lla-linux-arm64
+4f29a3e4e1dd7d74d10b6a9b398ee5e982988fffd1072439a813515f75bc4ed0  artifacts/lla-linux-i686/lla-linux-i686
+7ca9b5fbd2ecbd4a2803adb1e1d474f05963ba3f37ef125928f1175eed585d93  artifacts/lla-macos-amd64/lla-macos-amd64
+fcd3ecc3e98a94c439f03deef42644d28c11e86370117257dbd2c385937bda4f  artifacts/lla-macos-arm64/lla-macos-arm64
+b19b02307441fc446372e6951348c8faac890d0327c26f7c671729a632db26d4  themes.zip

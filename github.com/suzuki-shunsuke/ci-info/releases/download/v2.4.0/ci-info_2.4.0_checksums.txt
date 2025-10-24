@@ -1,0 +1,12 @@
+1b12b1fffdae8ba3a9a79d14ce39bdc3c3b9d1429d08a6029cbb6ee3d1fd4c88  ci-info_2.4.0_darwin_amd64.tar.gz
+842691a651cb0be6e46deb891f8a0bd6d7cf08fa61dd3ff9bf49d1c3969a1a0f  ci-info_2.4.0_darwin_amd64.tar.gz.sbom.json
+f4b9a92f03073256cf4f87b69e657d1f2ec8f38c64a255efe543e523d995cf77  ci-info_2.4.0_darwin_arm64.tar.gz
+588c557d7ee76f3cb41f6559c7e5f0b94954d11deff9e693200ff2630d787036  ci-info_2.4.0_darwin_arm64.tar.gz.sbom.json
+b11776bd556c2bd6c22ec44f0f19b5244ed8f119ff7e89a3b63cf4c30ae6b1b3  ci-info_2.4.0_linux_amd64.tar.gz
+cf593e37a2e2538cc5234fe574b235a3328ca24350ff0216111d4d184c590683  ci-info_2.4.0_linux_amd64.tar.gz.sbom.json
+ae0952da8cb2decfb4d2e9aaac1ef676e804625212a1e90765fc34f472fc4745  ci-info_2.4.0_linux_arm64.tar.gz
+57cb6ae5bee1d8af43ac04ef70951d68dfac82d73f1a907a34bd5cb5d007f16d  ci-info_2.4.0_linux_arm64.tar.gz.sbom.json
+c6fa3e028eee794682497bac80f1c5db77cfb94e012a34ca9b1301c6511d0abb  ci-info_2.4.0_windows_amd64.tar.gz
+c2b5f99e8918cd57980c9093d08ed666e63d7a425134e9e4aaea74457b6bcc04  ci-info_2.4.0_windows_amd64.tar.gz.sbom.json
+390d7df242a9753104ea30683881e1dd5372754f7e98adfea65f7f59f2ed2dfe  ci-info_2.4.0_windows_arm64.tar.gz
+bb4142253ed0a6a78a1f5abc6c211c46f65488bac61acdb9386c1263f7a16da7  ci-info_2.4.0_windows_arm64.tar.gz.sbom.json

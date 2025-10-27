@@ -1,0 +1,8 @@
+0499b0127ec66d756ce701b39930f8b0aaba1f50355da259b6715b7de07b7f83 *config.buildinfo
+739e1392d97f0dfabf09627e86c03b3840ccddf44ce89dda8ff570917d96137d *feeds.buildinfo
+0802d478193dd8196da36e3b79084792045a173c55479d05d98401a584983ac6 *immortalwrt-23.05.7-r28359-1db8d96e4866-ramips-mt7621-xiaomi_mi-router-3-pro-initramfs-kernel.bin
+39893008746e542377a582a3a3e96eaf08ac88ecbb6bc16bd60b1fb4600ab598 *immortalwrt-23.05.7-r28359-1db8d96e4866-ramips-mt7621-xiaomi_mi-router-3-pro-squashfs-factory.bin
+32f7ceca1e8e9631f61cc7d8bfeeee0da43fcaa4bcc57a62cb40231a2c0a4bf0 *immortalwrt-23.05.7-r28359-1db8d96e4866-ramips-mt7621-xiaomi_mi-router-3-pro-squashfs-sysupgrade.bin
+cecd0fc6ea9baa5f6e2ca112704226885aad9c6d6fcbe17435c7952ed342f934 *immortalwrt-23.05.7-r28359-1db8d96e4866-ramips-mt7621-xiaomi_mi-router-3-pro.manifest
+b67f0536d086cfb3ebd67b6855e12c97f3ad8fc4e321d938d5f9ae23b00f347b *profiles.json
+89fdda0df15936d44c3200b7113fb25e1ecf42a8627b14407d1d2c28e7309a51 *version.buildinfo

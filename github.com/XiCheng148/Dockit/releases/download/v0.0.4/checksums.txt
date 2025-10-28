@@ -1,0 +1,12 @@
+### Dockit v0.0.4
+
+### 架构说明
+- Dockit-Intel.dmg: 适用于 Intel 芯片 (x86_64)
+- Dockit-ARM.dmg: 适用于 Apple Silicon 芯片 (arm64)
+- 最低支持 macOS 13.5+
+
+### SHA-256 校验和
+```
+0c7fe3edba17dbbe8f543961f06c9c93efd26f31dd2800d7f117de71547e7081  Dockit-Intel.dmg
+0eb6e76561a009056e5bdeba9a0a8b8802cd21b35348c5fe8b07acfb6e62f7fe  Dockit-ARM.dmg
+```

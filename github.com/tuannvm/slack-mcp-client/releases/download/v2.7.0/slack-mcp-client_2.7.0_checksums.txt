@@ -1,0 +1,8 @@
+86f484fef43b9c5a4018feeb293ec385ff3681fadc88d54a8c3f7b0ad01c17c5  slack-mcp-client_2.7.0_darwin_amd64.tar.gz
+dc341d77fb9ba159a91801e0447ee3f55a801a5e8667d6922ace8149f8ba95da  slack-mcp-client_2.7.0_darwin_arm64.tar.gz
+28f3f25997149f4cfe4fbe7bca584e3499046efb5e67f0e7e3a5ea30d942f4fc  slack-mcp-client_2.7.0_linux_amd64.tar.gz
+25f779d54ea46fb89fe86ac9eb7e259e954051a2fb81ecf114456f4159768a12  slack-mcp-client_2.7.0_linux_arm64.tar.gz
+9521159f706924a8a855a21d94fd091146ab93ba4e2b4051f095160e78d3a966  slack-mcp-client_2.7.0_linux_armv6.tar.gz
+037c6c58d9a13d22aad2a4398c23be915d5be71ad6b3b6ff7f4108acbf96ced5  slack-mcp-client_2.7.0_windows_amd64.zip
+100453d9f0b3807fc6290b0063c231c1de5b76845a0e9658dee7513adb43b3d6  slack-mcp-client_2.7.0_windows_arm64.zip
+6971b94955c23463898aefda2837e4c236b8ba4475feb799aeb3ca581a88fc0e  slack-mcp-client_2.7.0_windows_armv6.zip

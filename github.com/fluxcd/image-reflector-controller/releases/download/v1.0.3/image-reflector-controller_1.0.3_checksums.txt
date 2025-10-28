@@ -1,0 +1,4 @@
+e7c0981cfa8e3a91cd0e3467dcd121f8fca64695d7cdc04b4abc313ecaa7036a  image-reflector-controller.crds.yaml
+09272cc9894326cd3ceb7e5e5e4f755d766a2683bdb710316e0090f4b1277beb  image-reflector-controller.deployment.yaml
+c436bc53e37ba2944a8b931756ad8093f15dcf1c8ca0598c86dadfa0d323dc15  image-reflector-controller_1.0.3_sbom.spdx.json
+b9114c0e8be58fb5c4357c167a2cdfdbd1e49afc130c2607c745df25a82cae3c  image-reflector-controller_1.0.3_source_code.tar.gz

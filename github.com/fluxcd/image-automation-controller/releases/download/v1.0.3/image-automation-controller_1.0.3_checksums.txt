@@ -1,0 +1,4 @@
+1704c1e3ef355b8bba083252eee28cd9402c145f5d28f798812a3bd7da4f4d3b  image-automation-controller.crds.yaml
+3f5e4c1e1fc8a3a1c8346c50ce6f5af4381f6e0c2f2d6d4c4781c7e1ad9f5b7f  image-automation-controller.deployment.yaml
+5e7cfbced48094e4fe40978269a8a73b0d3126bb845ed6fc9a13d8613bfbb785  image-automation-controller_1.0.3_sbom.spdx.json
+69516e4e9193fe16f036a5208cf92c46eb57c580cec275b043203af11073a68a  image-automation-controller_1.0.3_source_code.tar.gz

@@ -1,0 +1,4 @@
+3d270cf864f5870317d5f64d3720c19a276c9edcbbe632edb3a90c218fb34201  helm-controller.crds.yaml
+dc8999ad5434a390be17b128dadc798dcaf0a17da40d731ea3df33cebb1da411  helm-controller.deployment.yaml
+431792910f7dfec4560a61e84824cf0c635f81d78a9cdc2e644e2a84141cd094  helm-controller_1.4.3_sbom.spdx.json
+54395f0f9d9ece266c522c30e50baff7019a01fb9e2d45c8e29520aa52ba091f  helm-controller_1.4.3_source_code.tar.gz

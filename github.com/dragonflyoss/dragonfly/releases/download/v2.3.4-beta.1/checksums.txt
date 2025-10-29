@@ -1,0 +1,16 @@
+2a6a018e8f58e00ba89dbf5559a2c4ac0c1f24526f3633cbe38497fc33f83e19  dfcache-2.3.4-beta.1-linux-amd64.deb
+2307eed2d3197156f8fc8d878e37d1d29f1d945408550e1cde8ca9db3beac9aa  dfcache-2.3.4-beta.1-linux-amd64.rpm
+056b3c12c915ba0579a1d0829826b3fd842da366f6223b2284441a6b0fdafeb8  dfcache-2.3.4-beta.1-linux-arm64.deb
+ba997b86bd7508aac5ab561cf0f5ccb3fd31f514e5ae1b1aed0a7e1e11fcbe58  dfcache-2.3.4-beta.1-linux-arm64.rpm
+3e05e6778922cbc6083d7e75d11116f251a2768e2355a431ac0f556231baf58c  dfget-2.3.4-beta.1-linux-amd64.deb
+d98d7221ffe8ec1b9e24ccae6782349a6453ad264607c510be77f590514bc59f  dfget-2.3.4-beta.1-linux-amd64.rpm
+4ec923c25757e3cc36d61bd501ab5de3e9b3117f32062032b34f834d95ce6611  dfget-2.3.4-beta.1-linux-arm64.deb
+fc1a94e935979b6cb38a495ca90990792ba1d1d41a1136128035597b20d836d4  dfget-2.3.4-beta.1-linux-arm64.rpm
+85dee5a15398e22a18c915c2178249f97f16cedd676c9b5d3f14190a26d2d707  dfstore-2.3.4-beta.1-linux-amd64.deb
+de7e900992fcef09326ebcbc77b705d042fd181a806f7085a16c63d5253a67cb  dfstore-2.3.4-beta.1-linux-amd64.rpm
+153a5d7e076d05302dc21eea077d127292a949a6b32b4c74cda3f4b0d3f0c95a  dfstore-2.3.4-beta.1-linux-arm64.deb
+e71ca9475f144d9cbc7e3d359e22d6f934b67e1b992aa61b30990e3367cdc093  dfstore-2.3.4-beta.1-linux-arm64.rpm
+4ebee5614fb712ffc1347b7fd4bfb492c0aa1e86d844d9b2f8f466fc1fa9b4b6  dragonfly-2.3.4-beta.1-darwin-amd64.tar.gz
+45055ea2b4945c40d1cb2e6a49f63b9b184fb4a7b353fdcf834ae6bd172b5730  dragonfly-2.3.4-beta.1-darwin-arm64.tar.gz
+457cd1c8793c474f9e563fbbabdd0497a0c8a506cb5c6df24bb56a22d24fc746  dragonfly-2.3.4-beta.1-linux-amd64.tar.gz
+789a1a332fd015e9a57284a2e59c913a1e0cf0f44f2ea318839db7f3d4e75b83  dragonfly-2.3.4-beta.1-linux-arm64.tar.gz

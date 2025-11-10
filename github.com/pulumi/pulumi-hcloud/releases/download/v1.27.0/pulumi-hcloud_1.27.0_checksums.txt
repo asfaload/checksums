@@ -1,0 +1,6 @@
+a9cc1b589e5f03341207bb0ce47bec27ebeb5396  ./pulumi-resource-hcloud-v1.27.0-darwin-amd64.tar.gz
+73be72fa6cc996bd2720aa0c74078d92ba7ddbdf  ./pulumi-resource-hcloud-v1.27.0-darwin-arm64.tar.gz
+63591f43c2f3c9ffeb8ae3c55ba35bce3253b934  ./pulumi-resource-hcloud-v1.27.0-linux-amd64.tar.gz
+d4dcb6ac9487b3fd374eb407a221adcb41abf6d7  ./pulumi-resource-hcloud-v1.27.0-linux-arm64.tar.gz
+4a1ebaf51fc97c686f4d07fcd5c2eaf2522738f4  ./pulumi-resource-hcloud-v1.27.0-windows-amd64.tar.gz
+16fa8df3e47100a6154275bc8cb05e3cf623c3f0  ./pulumi-resource-hcloud-v1.27.0-windows-arm64.tar.gz

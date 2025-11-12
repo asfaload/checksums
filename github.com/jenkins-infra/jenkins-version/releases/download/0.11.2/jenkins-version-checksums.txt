@@ -1,0 +1,7 @@
+67871926d72e43189899170a756c9655bb656ef91c06fd8a79744888dbfe29f0  jenkins-version-darwin-amd64.tar.gz
+e1a0b6437b4878b1edf41b7af9ed7959184af704647b8d25e482856ea0dcf60b  jenkins-version-darwin-arm64.tar.gz
+fcef300c519d09568ca955ea7702404210b7bdca26659c5168ddced8e2cb96af  jenkins-version-linux-amd64.tar.gz
+881dea78e2d26c6bffa3c2c58a1f0806aacdb99d0b39a5c0b4a101da4b18580e  jenkins-version-linux-arm64.tar.gz
+1600e9a0bbb72c13f74b65254f151c48e24dadf28ce621e73ac55a38bb79ff94  jenkins-version-linux-ppc64le.tar.gz
+508504c01f6cbecf7e33d5a15f10484d99e3e7bc8ac84578ea2c8733ea5beae0  jenkins-version-linux-s390x.tar.gz
+0571a527fb796e61daadbdd6eb10bd59cf9a452c250d19428ff221dae1acc81f  jenkins-version-windows-amd64.zip

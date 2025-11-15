@@ -1,0 +1,5 @@
+a4c1f01aa59120c38af3f92ee8fc46b44f43a8f1e7d521e8bddf98195f788a56  install.yaml
+ea9f14d03f4d093cdf53b70f09d8e48d825d727e4c9b759a5bad4b61fb2991c4  ocm-controller-0.27.1-sbom.spdx.json
+09d297abb175257353488458f00f054454eeb975be00bcb5e713dfa22c898d23  ocm-controller-0.27.1-source_code.tar.gz
+621ba3abe3047b927c46434aabdb52d8a2d72dc10e48b98072763f8e3bbe329e  ocm-controller_Darwin_x86_64.tar.gz
+cd20a5844790cac5d48b7953578f834f5ca3ee731db2990d3e711e880c502059  ocm-controller_Linux_x86_64.tar.gz

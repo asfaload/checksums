@@ -1,0 +1,4 @@
+58405c947facee210c1e5bbcc225f8588eb551e5f13284f7a5c9c943ecd4038c  source-controller.crds.yaml
+a169990107fda8a5c90f949838bb4fa018e46a6ddf5325cf18dd45638f37be5a  source-controller.deployment.yaml
+81719ea381b66bd79ed6e49ba16dfa199238fd8489586e9df31c273201571b8f  source-controller_1.7.4_sbom.spdx.json
+306f725cb870f913c333d2581c2e457d3bdcca2bd35e43cb6a4096f593d7691e  source-controller_1.7.4_source_code.tar.gz

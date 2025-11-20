@@ -1,0 +1,8 @@
+b848635ec65beb32fa5b282c762ebe94ed0d6ab6ba1e56d5c2a4192155b6db4f  ./daml-sdk-3.4.4-linux-x86_64.tar.gz
+b03f74491d20eef2b5860ab36131395ac488ad837ddd38e4fb464af1f63f8e1b  ./daml-sdk-3.4.4-linux-aarch64.tar.gz
+e5416a116fd9fd459c441de9bfadefd4eb4ddfb4ba4105e69932200ddf45d884  ./daml-sdk-3.4.4-macos-x86_64.tar.gz
+98ae56a12eb5521ecccbf6b90c37a301fb001b42d9b060a56017315e37bbdc3a  ./daml-sdk-3.4.4-windows-x86_64.exe
+f22252795bfd8ea1d720b812aed048ae2d2632b7077be05edb2ac50572d29f4b  ./daml-sdk-3.4.4-windows-x86_64.tar.gz
+5fd018360a4e87987412bda5f9833826057612f0b429646d2bba2daa5989b368  ./protobufs-3.4.4.zip
+520a582a3d390c8abf02c421e9bb5063e95c2fdc3c775f08e295986d8919b533  ./canton-open-source-3.4.7.tar.gz
+af221aed6cdfb00da95a8a3d3796109899bb04b4a8f971c87428b8f384181ba3  ./test-evidence-3.4.4.zip

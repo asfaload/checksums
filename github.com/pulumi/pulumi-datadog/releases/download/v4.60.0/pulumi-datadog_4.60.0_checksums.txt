@@ -1,0 +1,6 @@
+ce5d45a0f18492d6445be19763f09ff4a3f8c6e0  ./pulumi-resource-datadog-v4.60.0-darwin-amd64.tar.gz
+45e22ce5ec49a389d242810cb825f37e8df8fbe4  ./pulumi-resource-datadog-v4.60.0-darwin-arm64.tar.gz
+340135ba11169234331771c1fb226c71ef76727d  ./pulumi-resource-datadog-v4.60.0-linux-amd64.tar.gz
+3559a8ec1bf39f1d1242d92e1625d6d5d44bb9ca  ./pulumi-resource-datadog-v4.60.0-linux-arm64.tar.gz
+b96b382eed34841e25819aa84ed32f2e5e07a2dd  ./pulumi-resource-datadog-v4.60.0-windows-amd64.tar.gz
+7c594d20389c99e82d7ef6696effca7b4aba7ef7  ./pulumi-resource-datadog-v4.60.0-windows-arm64.tar.gz

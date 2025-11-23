@@ -1,0 +1,7 @@
+1d23563ffd792c55eeb797339901d8d52f5294bd19b9610663c9d7e4a129d37d *config.buildinfo
+48444e8798626bb9b958be4198ccce2cd19611c872f0ceb83e5d7872203a4a54 *feeds.buildinfo
+0ee59618fbeadb4472fe0d427bcacec9cf47aefabb54411585dc83871c03d63d *llvm-bpf-21.1.6.Linux-x86_64.tar.zst
+b435380075f10f84b6fe499469983d31dcb0e00c17afb145a66c4e33148bdeff *openwrt-toolchain-x86-64_gcc-14.3.0_musl.Linux-x86_64.tar.zst
+372f886bfc7dddce68377b5019e1eecf8a9a1602a06ff8ad756813355bf331f4 *openwrt-x86-64-rootfs.tar.gz
+dae75418fa8bc70ae27722d4acafb99ba58a0662d21bc2b5df3b66ee4853bacf *openwrt-x86-64.manifest
+44b21c4de0eaef740db3c66376556711cda276689ff962c700c65bf568da96a0 *version.buildinfo

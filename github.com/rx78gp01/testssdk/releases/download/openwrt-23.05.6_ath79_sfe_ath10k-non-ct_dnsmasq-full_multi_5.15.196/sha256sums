@@ -1,0 +1,17 @@
+6d94fe7a438dc8d57c6e3e5bda54515396ab7ce6fe07002aeea5830084afbdab *config.buildinfo
+734ceb6663800a5c509c1314b44ea1eaaab08ae46604b4a0e67030366814540d *feeds.buildinfo
+978006fa7a4a96a6e80412e901e8cc8de0341c244e4c03a6259a87e98e74589b *kernel-debug.tar.zst
+f3d4454a304486f4d655bc224d3ba27c90025a3645e4f5e636c3b9c85ef62ec2 *openwrt-23.05.6-ath79-generic-dlink_dir-842-c1-initramfs-kernel.bin
+65f78a3424b13cf0a76922e0d3f0e1aff9f33df7b4d3142c59bc98d9abc34229 *openwrt-23.05.6-ath79-generic-dlink_dir-842-c1-squashfs-factory.bin
+1240d3d70b08191b112dfc17ce1ea3e7554fd8eea37f1c896accdb44e4dc2461 *openwrt-23.05.6-ath79-generic-dlink_dir-842-c1-squashfs-sysupgrade.bin
+609d5caa38bb37788ba1195ad471152c7142adbd500780879dbda05eef4a3380 *openwrt-23.05.6-ath79-generic-dlink_dir-842-c2-initramfs-kernel.bin
+1be06705e2db69e21381376b99607a3123752fe01e0ef216a24c87dbb352e159 *openwrt-23.05.6-ath79-generic-dlink_dir-842-c2-squashfs-factory.bin
+867e090e3783ffc31a43113c7272708504e45e10dccf6cb9646c23047f20c7b9 *openwrt-23.05.6-ath79-generic-dlink_dir-842-c2-squashfs-sysupgrade.bin
+d8b6f9ccec403f79c172105712a8ce9f718cf64546797d0eab8f54b6e4c8cdd9 *openwrt-23.05.6-ath79-generic-dlink_dir-842-c3-initramfs-kernel.bin
+6fd9955a602ad9768e54a1951af78e2f654342c77f19f443954a8452cf8fa09d *openwrt-23.05.6-ath79-generic-dlink_dir-842-c3-squashfs-factory.bin
+8da35a351d2d8c13e66eafb595da887cdc2b263837c94c1040cbdc574725b76a *openwrt-23.05.6-ath79-generic-dlink_dir-842-c3-squashfs-sysupgrade.bin
+5ff176be472282c3f8869312899147fab27c7f5c82f5bfc3e220f80b28411866 *openwrt-23.05.6-ath79-generic.manifest
+b8d8e69c4cd0c16f78b0b323db8fa2ec09c1e91c2dd8694d6c75d07723509d48 *profiles.json
+f7d0c92511d7c437427ee952a9b2a0722811180a3df336730ec846f60fa883cb *version.buildinfo
+fb3444b500d8380bc4443d3052519a962392e5d62a22e1a2af217b0443f458da *openwrt-23.05.6-ath79-generic-packages_all_kmods.zip
+32a272bdb854ac131243d989abe593bf1fbf52970e37695d4258421d5273df8d *openwrt-23.05.6-ath79-generic-mips_24kc_base_feeds_packages.zip

@@ -1,0 +1,6 @@
+fd5ea2fb37c05d9fc8c984638cbcc8870fdc8825  ./pulumi-resource-scm-v1.0.1-darwin-amd64.tar.gz
+a1ca36fcf38ac28e62a266b0725f75a07daad776  ./pulumi-resource-scm-v1.0.1-darwin-arm64.tar.gz
+08ed7a9959bb3a227c38a469f69231a426c81f71  ./pulumi-resource-scm-v1.0.1-linux-amd64.tar.gz
+65b37eec5e776f60068992f7914402e48b55874f  ./pulumi-resource-scm-v1.0.1-linux-arm64.tar.gz
+97e97784672d01f4cdcd74f3c0441a80c80079c7  ./pulumi-resource-scm-v1.0.1-windows-amd64.tar.gz
+06eac7f6638c18202ca71125d9814f486a402ac7  ./pulumi-resource-scm-v1.0.1-windows-arm64.tar.gz

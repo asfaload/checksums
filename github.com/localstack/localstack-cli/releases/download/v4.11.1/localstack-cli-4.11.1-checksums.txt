@@ -1,0 +1,10 @@
+13e39092b7c0a75688ebd90dfc4eacbb3ddb795de2501159dc84f60af1c98946  localstack-cli-4.11.1-darwin-amd64-onefile.tar.gz
+dcd8e9ae26bb68775f579beb9bbfaf80086423e79472f5e96093cf421c0940d2  localstack-cli-4.11.1-darwin-amd64.tar.gz
+ffd50e3a11fd04b6d800377efe4ff2c9cfa8a3318cb837b66ed2fec9f21fc034  localstack-cli-4.11.1-darwin-arm64-onefile.tar.gz
+815aef70792825b475a9bde48a878d28e1a6fd47d15ed9b4d247b0494e6dc271  localstack-cli-4.11.1-darwin-arm64.tar.gz
+cdb43b1699cea7d4f8895a23bfce712b5ae0991b5b57d2aebd1d12b71506808e  localstack-cli-4.11.1-linux-amd64-onefile.tar.gz
+693ef8f9a22f09b6c96bea900833cfdaf943ab3a56491ccdedad46cf2d9b024e  localstack-cli-4.11.1-linux-amd64.tar.gz
+e32a6796f438e6be768fecfe59a048f9e5be935b85320ce01ee71ab799b2bb23  localstack-cli-4.11.1-linux-arm64-onefile.tar.gz
+87af4293f10812ca2b609a13fa2790b0b121991ac63c6c554ec5155b9366b05b  localstack-cli-4.11.1-linux-arm64.tar.gz
+133421287e8d4c96d34e7fceabfb87f2e5dfdff75238888a9bc1e9e395e572ad  localstack-cli-4.11.1-windows-amd64-onefile.zip
+d956008de677971c80c07b6b50af6c11d35a26747f9e43bed691e4854d5c276c  localstack-cli-4.11.1-windows-amd64.zip

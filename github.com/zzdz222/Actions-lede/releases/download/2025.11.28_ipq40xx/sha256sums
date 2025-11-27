@@ -1,0 +1,5 @@
+089e80712285607d8dbbd60388b36b68ad8d81816d1fc0a175d73a5ebce15891 *openwrt-ipq40xx-generic-p2w_r619ac-128m-initramfs-fit-zImage.itb
+966a22d099c44323efbf872e9bd6b4649a529b0ce65505356b45573397ec1fd7 *openwrt-ipq40xx-generic-p2w_r619ac-128m-squashfs-nand-factory.ubi
+8fa3656eefd173a7bf49b24151d732cf0a4bb5006999c8565da1fccab759c30d *openwrt-ipq40xx-generic-p2w_r619ac-128m-squashfs-nand-sysupgrade.bin
+a1f3ba93d4a750653e4346515f53ae46aad5c0c5fc4893d879287eff69957946 *openwrt-ipq40xx-generic-p2w_r619ac-128m.manifest
+eb351f3a7f084be701a23519c5dc7fc29b2916f2d5fa436c499c99cba332c8c8 *profiles.json

@@ -1,0 +1,8 @@
+281b31fc6ab5910af6414e85c95da5f73bdd6e6b9c890f179db6c790b4160c3a  ./release.yml
+1c306be0cabd69b83efc4022ed9c57bd38c9abab4a9b3144def1796926f6def4  ./kctrl-darwin-amd64
+0d32b880e37745d1fff2d92d2388054fb6c7aa96be0333f29c1c1e8db51458be  ./kctrl-darwin-arm64
+3cf09ba4ea90e3b44de569ddacaeaa9b1cf930772dee67dbb2a4deefa3c187a8  ./kctrl-linux-amd64
+efd2d439701ccbb63738d584f14509a234f8df94ab34c4700de2e27ce78a7bbd  ./kctrl-linux-arm64
+bb8082b41e75c3907c8ebeecd09df83734cc1d4cbdcf76c82f590ccab0ff8d5a  ./kctrl-windows-amd64.exe
+c6f73bf696d6d781add7172717670ed2acfe004945e383c94c901a2bc076a61b  ./package.yml
+7a6aa35600459a1797a6f0564ae89954e6da035fe54e19b72c573f5b31938a8c  ./package-metadata.yml

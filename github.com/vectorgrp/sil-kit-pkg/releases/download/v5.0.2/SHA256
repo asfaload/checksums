@@ -1,0 +1,14 @@
+04ac5ae47535bcd2f2fa7493c7afbbabb4248752ec9cddcb4a6d228e27c74f82  silkit-almalinux-9-rpm/libsilkit5-5.0.2-1.el9.src.rpm
+c85768ba2899a364ff4aa9e285a46670a7f996c2e16b6da5c0dd4aad4de31325  silkit-almalinux-9-rpm/libsilkit5-5.0.2-1.el9.x86_64.rpm
+61b791f9cbb68fa543aa23ac01b52cd2a537afe7d6e473f070211d0e5b054234  silkit-almalinux-9-rpm/libsilkit5-debuginfo-5.0.2-1.el9.x86_64.rpm
+2d36998b68dffd35061523de2a485cae4b93292f6a399eb89fb7d56b1edaacb7  silkit-almalinux-9-rpm/libsilkit5-debugsource-5.0.2-1.el9.x86_64.rpm
+dbab147e4947f06d6e13460dd92553ee11789cca4de5b6f504209109dd9ce232  silkit-almalinux-9-rpm/libsilkit5-devel-5.0.2-1.el9.x86_64.rpm
+a8f4546e4bfe1b7e76fc3bb1c21454c44fe5dadcadc3e815dda5c5949285477f  silkit-almalinux-9-rpm/libsilkit5-utils-5.0.2-1.el9.x86_64.rpm
+2d437b97fd8bc87d3837981465d25a4aa44c91449cfab41c498b4079894b5e78  silkit-ubuntu-20.04-deb/libsilkit-dev_5.0.2-1ubuntu1_amd64.deb
+0cd21af7edbed78be15dff4c7d71c4732086b606b5c33fc1ee80beae584d6fcf  silkit-ubuntu-20.04-deb/libsilkit5-dbgsym_5.0.2-1ubuntu1_amd64.ddeb
+5a32f315694c46fabf164c0978259cf433387eb8b2d9d4c1cbdf6f4f2e704cfa  silkit-ubuntu-20.04-deb/libsilkit5_5.0.2-1ubuntu1_amd64.deb
+28853621e2674139d8c6c637000951af71f6c58d571cea3145f0bbbe26021775  silkit-ubuntu-20.04-deb/libsilkit_5.0.2-1ubuntu1.dsc
+4895e114872620427a9835dae3f171c65800f8aeabd12d891eb0d961f7140e8a  silkit-ubuntu-20.04-deb/libsilkit_5.0.2-1ubuntu1_amd64.build
+967fc5a95854506500648843dd891de01ba4961b9485f4ba1579857e5903f06f  silkit-ubuntu-20.04-deb/libsilkit_5.0.2-1ubuntu1_amd64.buildinfo
+390d252db6252f434fa9f572f6683da1d1c056473094da75434a5517c9b5edd7  silkit-ubuntu-20.04-deb/libsilkit_5.0.2-1ubuntu1_amd64.changes
+fc939333bc53cc7e01e48b876cda73c6fa270d16d0d20ea4a8725a2998af42a6  silkit-ubuntu-20.04-deb/silkit-utils_5.0.2-1ubuntu1_amd64.deb

@@ -1,0 +1,6 @@
+d29151ddaacc860b70a9329f5f702cd6fe761f9f9e4ffa1e747e6bd1b4640a93  releases/serie-0.5.5-aarch64-apple-darwin.tar.gz
+0a22808606b1bb582e36840723321b4f9a052dca9a5179eb359df13db8de3bba  releases/serie-0.5.5-aarch64-unknown-linux-gnu.tar.gz
+cf08b8b1dff7e72cf85a954fcdbdbc3756fbdeb9701dc2b96bbc0bff8888d402  releases/serie-0.5.5-aarch64-unknown-linux-musl.tar.gz
+e1c4dc51243bf0fbfb2241cf0a5b14ca35788b46d370a1a3821163275126a68b  releases/serie-0.5.5-x86_64-apple-darwin.tar.gz
+3252f9af011bf60874da211bb45a591be5887c8952465c40e3429e146c0262e7  releases/serie-0.5.5-x86_64-unknown-linux-gnu.tar.gz
+6a4f788890ca096d14f170bbab98a999e05f37ed7a2a1153ea6e1b700df00138  releases/serie-0.5.5-x86_64-unknown-linux-musl.tar.gz

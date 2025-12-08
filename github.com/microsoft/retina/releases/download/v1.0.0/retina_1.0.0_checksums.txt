@@ -1,0 +1,12 @@
+a3d6795d52d08007162cb8720dc7e715ca832d015fca90c3275519dc7e77e9d0  kubectl-retina-darwin-amd64-v1.0.0.tar.gz
+1b1e3d710e965193879cb71e9ceb3efc8745be0b3be81096e5c50bb2c7e76700  kubectl-retina-darwin-arm64-v1.0.0.tar.gz
+6a7da400b9be9623fbdefb8c1bdd369a5c5b2d1837508f90d7f127088be970a1  kubectl-retina-linux-amd64-v1.0.0.tar.gz
+e24b730b18cf09a29d11135635a661a220c27e2025cc8dff4f2c948bdea4ad65  kubectl-retina-linux-arm64-v1.0.0.tar.gz
+5a1f011f9cc7d1280717b92298a28c8ec693e5d97291e533adaf39fbdc110ab2  kubectl-retina-mcr-darwin-amd64-v1.0.0.tar.gz
+81ac58b9c4d8eb09717544669d7ae18e071a3070581139cedf156d8fbbf96613  kubectl-retina-mcr-darwin-arm64-v1.0.0.tar.gz
+f6f612b1086f101ce0a015a30d127a10e0e2ea8db192be62c8f6173e79d541ef  kubectl-retina-mcr-linux-amd64-v1.0.0.tar.gz
+15fcf97c5df19824f01c4f47aec79cfbd9f47ef3f43d1246035001136354adaf  kubectl-retina-mcr-linux-arm64-v1.0.0.tar.gz
+4db5580f9c1f6ca7f759ea12f742fe273bbd4ddea78952310a04d09fcff19216  kubectl-retina-mcr-windows-amd64-v1.0.0.zip
+ae2b2766233ab75fd21540ee67dce4f303b31270d7027f44095cafd37e9629ed  kubectl-retina-mcr-windows-arm64-v1.0.0.zip
+f38e7c45eeb82fce9582c5395f94aa2eea5e9ec371ba134b8fd7700b6fcb0876  kubectl-retina-windows-amd64-v1.0.0.zip
+4b28fd04768a60049bd3019902b2da9f05b6ef4a83dac107e57058f9cd790fcd  kubectl-retina-windows-arm64-v1.0.0.zip

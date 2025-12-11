@@ -1,0 +1,10 @@
+da45c0a92b5fde053044234b6f699a6dc0efb7a53109609c6964b800755116a6  CHANGELOG.md
+5bcffd1e4b2b24f71a2acff52a604e9da03615679c0b3045a8c921c95cf1532c  just-1.45.0-aarch64-apple-darwin.tar.gz
+94688802f782e4e6d0212ecbaa91ce5b5dd75d8481441976d3b18ca105893deb  just-1.45.0-aarch64-pc-windows-msvc.zip
+e9d629d3903ea2b6b2bbcb569e69d62bc80b0e6adcce280094c8ffb6dbdf83d2  just-1.45.0-aarch64-unknown-linux-musl.tar.gz
+fd87ba1ff3f6da71b8bc2d75e53e4879f809fcae2fb8def0df32370d49556f5f  just-1.45.0-arm-unknown-linux-musleabihf.tar.gz
+642b25b41adbf6901f507260298e67075bc71d3cc06582097a0e4f01aead399a  just-1.45.0-armv7-unknown-linux-musleabihf.tar.gz
+8bc9e9e9c4884f6fb7cea6221197d8c31a467781370435178acb0111fd45cadb  just-1.45.0-loongarch64-unknown-linux-musl.tar.gz
+913c4fdd5b15b9a74529ecec80d06eb21a2ff8936b2deebc69c0f4d495126553  just-1.45.0-x86_64-apple-darwin.tar.gz
+cf5c1684de8b8c00b0edeac40f47a3fbba9df2830e2451dd9b26f99ec4d8b788  just-1.45.0-x86_64-pc-windows-msvc.zip
+dc3f958aaf8c6506dd90426e9b03f86dd15e74a6467ee0e54929f750af3d9e49  just-1.45.0-x86_64-unknown-linux-musl.tar.gz

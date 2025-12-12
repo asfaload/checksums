@@ -1,0 +1,18 @@
+bd8856aa1a96731a68a22ff56d629464a431ed87620213aa92e05d39cf4474c4 *mecomp-cli-aarch64-apple-darwin.tar.xz
+9f13007de06cdd3c1a145dd5fe156dd95cef9f09faf7be499e7c3e11c000db7d *mecomp-cli-x86_64-pc-windows-msvc.msi
+7c97a723ff5a5717d2fe39b64e83b1d4bcfd45fafc915f68d1459e07135fd89d *mecomp-cli-x86_64-pc-windows-msvc.zip
+2594f2f368a93115bf5b7e44e9d8f5dc4716a6281b63720958ebd4a83c6e869b *mecomp-cli-x86_64-unknown-linux-gnu.tar.xz
+6460fdb20357f8510f567b7288da3ba751304e15621ccfa9f18d1f1ab1dba815 *mecomp-daemon-aarch64-apple-darwin.tar.xz
+0e666464726448bb33784d7172b79e7dfcdc9e293a12cf5c2f96cc9b0ca6cd8f *mecomp-daemon-x86_64-pc-windows-msvc.msi
+e1401fe48beee61f43be73c46311e51141b1fadc8f0af5d4ea8db22602b3688e *mecomp-daemon-x86_64-pc-windows-msvc.zip
+d8c87ee0ac0bd173333a13f3a27ae767f8967e2df1d151f8970ff8b68c3749fe *mecomp-daemon-x86_64-unknown-linux-gnu.tar.xz
+f41215d6e6c06e30250846181b66a70bd74e32b864aae41590c806ddacbca174 *mecomp-mpris-aarch64-apple-darwin.tar.xz
+80e189fc21b5bd1f0b310751b142669b542e00fe2e04667ddb3a045a3184a512 *mecomp-mpris-x86_64-pc-windows-msvc.msi
+a89c5857906fa23981b49acbbf31f0c095c4debda63fc658198b244521a44137 *mecomp-mpris-x86_64-pc-windows-msvc.zip
+dc8198642b2f16559752a3632c46604e2d5aba295607a6ebc4b3a16d95055e04 *mecomp-mpris-x86_64-unknown-linux-gnu.tar.xz
+efd88cb052b8b7c14b5a8ce21a3a3ff8ec5f16657147a6a433fb4bd74520e12b *mecomp-tui-aarch64-apple-darwin.tar.xz
+618cf289c6f206780ec2e8b6083c7d3e38064f37b292d32fa958b75b45a53e63 *mecomp-tui-x86_64-pc-windows-msvc.msi
+ce8bada108176cdcd01e17c536fc5ffd4a77fc2e7e73e999c264a60565110cf6 *mecomp-tui-x86_64-pc-windows-msvc.zip
+550b945a02faf6d8136a20b3d93b0d6efbb519e4de91de7ea43e738b754bf521 *mecomp-tui-x86_64-unknown-linux-gnu.tar.xz
+a70effa316f7c8c57be5fa8228c9d9c3ffe1a010b4e90ee55c6480b184c5bb75 *source.tar.gz
+

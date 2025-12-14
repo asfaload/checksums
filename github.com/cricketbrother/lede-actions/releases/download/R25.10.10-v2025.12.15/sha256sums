@@ -1,0 +1,12 @@
+582d349c9ffce0928be7dd3afaa6a407b1334976654d69f04cff77cf22120841 *config.buildinfo
+c3d78c820efe71f283b6032c95d9c61d1db9319fc45bde9a3a2cb18333894eb7 *feeds.buildinfo
+20e13fef938bf2ea6c343746eb11b9944ef4f113c8dc4f6f1066d84c033c5d1d *lede-25.12-snapshot-r7703-5155ab662-x86-64-generic-ext4-combined-efi.img
+9150742916b40d3dd2f322f6dcfeb067c28eddac988ff13de1f17ea686813535 *lede-25.12-snapshot-r7703-5155ab662-x86-64-generic-ext4-combined.img
+d6aa31fcaa1ae1dd110474c7cb96269dc868f1d3d03126a6561d24e085a64c32 *lede-25.12-snapshot-r7703-5155ab662-x86-64-generic-ext4-rootfs.img
+60d459870a0ec4f1604634a28e4ab944aa0f0c12cacebfc96828267c88fa76dd *lede-25.12-snapshot-r7703-5155ab662-x86-64-generic-kernel.bin
+c411e16bdfaf85da77b17f2c5dc8c5278d9e620566d64c28776b650828fc4233 *lede-25.12-snapshot-r7703-5155ab662-x86-64-generic-squashfs-combined-efi.img
+004dd2e0d6a3acf2ce7b70a80e5adae13c2ba6809ada311db84a99825a8a4897 *lede-25.12-snapshot-r7703-5155ab662-x86-64-generic-squashfs-combined.img
+bd39e2237c30b780e5408732ac73e98de4cbdc28ec64d6918ef7a4625d181707 *lede-25.12-snapshot-r7703-5155ab662-x86-64-generic-squashfs-rootfs.img
+c60f742fca8448a2a3a6f2d598b3031073855330a4786a648e41e67774cc6736 *lede-25.12-snapshot-r7703-5155ab662-x86-64-generic.manifest
+d73f97b021efcf2b6b7e1e0d40f7ed5a0bef37a5d3a1c119ef4a1312b21b0ecc *profiles.json
+97ca6b324c9f29c93c4b9cc28db5709e12592deefe394a8b2d42a5896e296147 *version.buildinfo

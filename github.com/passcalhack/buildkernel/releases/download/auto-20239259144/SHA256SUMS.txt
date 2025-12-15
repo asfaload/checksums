@@ -1,0 +1,4 @@
+4d8941b0d2afbcbbb180c11bec1ac7c2741297d0844d25f3f2e75d63caac23ab  linux-headers-6.19.0-rc1-mainline_20251216-1_amd64.deb
+7a19e337e0298ca8d9082656d32eef456a8ecb8f0b6d3cacd65b4c2cb9f3ec9f  linux-image-6.19.0-rc1-mainline_20251216-1_amd64.deb
+9d2b8d15335b44068e15a7b643ab9d3dfd088a9f802ed94ef095c3d53ab8399f  linux-libc-dev_20251216-1_amd64.deb
+76f42d517998e3e7f4f77e5d6b8fa6cd2ec84c961ddcb5ae2bb09b05137141d9  ../linux-6.19-rc1-mainline.tar.gz

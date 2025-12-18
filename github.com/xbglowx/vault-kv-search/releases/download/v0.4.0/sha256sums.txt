@@ -1,0 +1,6 @@
+80278756aa262dcdc385c661fc950d8b4595e1f9d25dabf6ca698105d572fc7f  vault-kv-search-darwin-amd64
+42dba69a12386c8de1cd7666695b0ddb2f87460c3025e9fb5f17383355cd9726  vault-kv-search-darwin-arm64
+285ed8cc9fba178be1031407223810f962d54dbefa799e2c73d77f2129631c4e  vault-kv-search-linux-amd64
+5763626f5c15982cf2921172912700f891e01e39963aff7ef8f459a83fe81a12  vault-kv-search-linux-arm64
+7c704eb35dc7f07249b7ae67971c5b522405abbebcc19f0051122f35aacc2c4b  vault-kv-search-windows-amd64
+35aabee90bb3f8b965575e9f1120508fd1e31d28ad66900ba445da6b0c58afb9  vault-kv-search-windows-arm64

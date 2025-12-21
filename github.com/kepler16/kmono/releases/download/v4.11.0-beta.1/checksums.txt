@@ -1,0 +1,4 @@
+1bfd6df828a5aaf107f0a79758e1d34d0534a6151cbbd9cf3d7b9724de119f89  bin/kmono-linux-amd64.tar.gz
+ef7baae5394c0b161af4ab660fedb83573b219be1d5ebb172fd8810c76faacd4  bin/kmono-linux-arm64.tar.gz
+f965e4beb826922a7efbde792e5cb549026f88b619deb8baf90310597e2bf88f  bin/kmono-macos-amd64.tar.gz
+83d0df634a419ed859c3689cc56e4bbf0fd5871bcd89ad7b2c8dfd1dfd288b6e  bin/kmono-macos-arm64.tar.gz

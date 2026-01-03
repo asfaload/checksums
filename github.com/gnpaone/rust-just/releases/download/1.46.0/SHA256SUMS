@@ -1,0 +1,10 @@
+9ca9f7a1cef98ad6b63c58786ad4e28c9ada23d3ae68f448a21625e2ad95d9b6  CHANGELOG.md
+438eaf6468a115aa7db93e501cc7e3272f453f6b7083be3863adfab546b23358  just-1.46.0-aarch64-apple-darwin.tar.gz
+ecbaca1e77eee3b5299980c4aff2aad0e37fcc8e7521426e470f853075c742ef  just-1.46.0-aarch64-pc-windows-msvc.zip
+b81970c8247fa64cfb30d2a3da0e487e4253f9f2d01865ed5e7d53cdc7b02188  just-1.46.0-aarch64-unknown-linux-musl.tar.gz
+eb5a00bbb5ab7937cf56e7e4f241dfa323ed63e519c787900841b499963c25f6  just-1.46.0-arm-unknown-linux-musleabihf.tar.gz
+61f970d8b78ca8d81ad2d1a5fe47d9e149f4dd3f201ae85d9c4b0a18fc41a7e3  just-1.46.0-armv7-unknown-linux-musleabihf.tar.gz
+bbd5aebdf2f449d67f8b827b6e652b31be7b378d69cbc4e031ee15c2aa289d45  just-1.46.0-loongarch64-unknown-linux-musl.tar.gz
+ec54dd60ac876261b7318f1852ef9c0319fede1e5a73c14f56d908a8edf595b8  just-1.46.0-x86_64-apple-darwin.tar.gz
+f0acf3f8ccbcf360b481baae9cae4c921774c89d5d932012481d3e0bda78ab39  just-1.46.0-x86_64-pc-windows-msvc.zip
+79966e6e353f535ee7d1c6221641bcc8e3381c55b0d0a6dc6e54b34f9db36eaa  just-1.46.0-x86_64-unknown-linux-musl.tar.gz

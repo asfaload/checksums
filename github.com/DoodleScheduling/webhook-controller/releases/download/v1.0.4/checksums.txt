@@ -1,0 +1,5 @@
+b9af1e04d12a136b9079c419c50716b46d0d608601409c5b275f2d970570a9de  manager_1.0.4_linux_386.tar.gz
+d9d9d2e101000bdac380550fa47cf70da4c4c7fc7dae3c2ca89cfb662608c3c2  manager_1.0.4_linux_amd64.tar.gz
+41c600d0fa99834b0f492b75ad08e7ebbc04ed4e52db70577b8b78b1b286e920  manager_1.0.4_linux_arm64.tar.gz
+840d0d9a869601be7855ec99efef882bad9f36c2ee199fb2edca124f83679346  webhook-controller_1.0.4_sbom.spdx.json
+fb401debc6f35b3492347007d4644673eae32647ca96b087b67f1a02effeb4f0  webhook-controller_1.0.4_source_code.tar.gz

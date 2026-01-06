@@ -1,0 +1,6 @@
+506e45e57a4d8d9ab8c2121f54c5e2a52009541cf4e2a9b298b0aaac2f01a81f  otelcol-otlp_0.143.0_windows_386.tar.gz
+e485b32ab6d473b09f430e752ec954d489b19a5e89dea04976791f8062235ffa  otelcol-otlp_0.143.0_windows_386.tar.gz.sbom.json
+89596e15869e456e7d7ad10d6c704e5d674d65e8bfa4e143207c230b69b7424b  otelcol-otlp_0.143.0_windows_amd64.tar.gz
+52cf163b009a3d85a2342785306add2f98dc98ad7313ee93b118e457b3427d8a  otelcol-otlp_0.143.0_windows_amd64.tar.gz.sbom.json
+e198e14d15a1cac820aa5d6bcc1f9fd5c263b5f77f90deec1c9a639a483b20ca  otelcol-otlp_0.143.0_windows_x64.msi
+5bb3be1c4cacf3ec2bd2eb605b75ff338d3fdb58d2665c4d9fcaed463aa05845  otelcol-otlp_0.143.0_windows_x86.msi

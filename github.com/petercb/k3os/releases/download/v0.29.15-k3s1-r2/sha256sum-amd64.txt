@@ -1,0 +1,7 @@
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./sha256sum-amd64.txt
+c36f4bcd61f3d0d000b2da75fa1ddd8d4e8dfc85164a02f83b27307c3b74a738  ./k3os-kernel-version-amd64
+145506cd70aa7ef85fc0efd527dd1f6035540c097ec1e75a4bf19d1bc1bf57b8  ./k3os-kernel-amd64.squashfs
+562aae346ce2c3ccfabf1e2e5fff291a1b9de578fe55dc2b319a56f04b10c2f9  ./k3os-initrd-amd64
+0690f98f339aba2baf4f7c96d049ee6ce0ee4a8a278f97e11ef51ae2fc6536f1  ./k3os-vmlinuz-amd64
+54266563a5e2af8e2136c1c9c9417c284ab20a744a4713fda8f058d5eb431f2c  ./k3os-amd64.iso
+d4c45de2489b334faf5103fbe6f29a1c1013b2513f3fb9299e5eab4d09bff78e  ./k3os-rootfs-amd64.tar.gz

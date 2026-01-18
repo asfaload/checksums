@@ -1,0 +1,8 @@
+cfa7989b58f7295ad4c8e4737f9b9584ead8d76b56f7c890fead427ddd5b233c  go-serve-s3_1.1.8_darwin_amd64.tar.gz
+e290c144efe2ff046b639e34ab427a6dfba89b72499a52f4243491b778e4f633  go-serve-s3_1.1.8_darwin_arm64.tar.gz
+7b94ca802de4257e2b52e17ad55c6b69cc41179d6d2d87eb3f30af23c04dabca  go-serve-s3_1.1.8_linux_386.tar.gz
+a718b9be84e9992ca13431a56adc6f08db5e94c98eeafa55c1b22afdbd0336ef  go-serve-s3_1.1.8_linux_amd64.tar.gz
+572a7fca3345137693561e719477dcd6cc0ed7e982bf861d5bc342eb0349bbc0  go-serve-s3_1.1.8_linux_arm64.tar.gz
+d7bcd87c286066a7aa7d116bbbc9cb49b5d528167efb7cae5763c6db02a52b37  go-serve-s3_1.1.8_linux_armv6.tar.gz
+4a5900b88c6c3fe0247b6c1038357c0881a67729c69a520f55de75268f877f80  go-serve-s3_1.1.8_windows_386.zip
+7d9d98efb165211f6d97bbfdb8b9de9560dee33dd25ca9a49f201b8856daf76a  go-serve-s3_1.1.8_windows_amd64.zip

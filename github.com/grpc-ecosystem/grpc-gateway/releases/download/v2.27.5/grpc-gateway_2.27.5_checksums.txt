@@ -1,0 +1,13 @@
+19fbc87257abf86f285ebce025eea1d95183461872ed363da145b8d028fc1457  grpc-gateway-v2.27.5.tar.gz
+a9faa51e23caad79d4373bbd7315c0b7a5cb99ba7b2728c340c440c42a76e500  protoc-gen-grpc-gateway-v2.27.5-darwin-arm64
+c8f0449080d59b67286726c6f42553e42092c0c095f81044dc09a37bd7df80ed  protoc-gen-grpc-gateway-v2.27.5-darwin-x86_64
+7e9d37dda4038c137b14c8cbfe68baa074fb040484a87948f178d97a05a584a6  protoc-gen-grpc-gateway-v2.27.5-linux-arm64
+44d430aeddbab957c85e42a05e857cc132f1ee6dbb0d2971ae09222b23685252  protoc-gen-grpc-gateway-v2.27.5-linux-x86_64
+bb3e2f34da705c95cdbedbe5f43a420e623350b2a233aa8c8ebdc86311164abf  protoc-gen-grpc-gateway-v2.27.5-windows-arm64.exe
+ea8f3e6e76b7632d85e303fe3474c20845eb6848c4294fe73eccc098530c9243  protoc-gen-grpc-gateway-v2.27.5-windows-x86_64.exe
+48a1042e673b591bd6f9df850b1df1eb1f4fdd7483e94a1c695c87dd66641862  protoc-gen-openapiv2-v2.27.5-darwin-arm64
+df3036a332374967608e0cd1b524cb331f33b268893e6e7999298a41a2cc57d8  protoc-gen-openapiv2-v2.27.5-darwin-x86_64
+632532b5546ccf43c605ae8faf81e38a4ac5666a286b36a79f309eb7acd281cc  protoc-gen-openapiv2-v2.27.5-linux-arm64
+b244570acd169e194b9751270261cd19d536a5275264dcc12b700fc6e459f619  protoc-gen-openapiv2-v2.27.5-linux-x86_64
+0a4699d53e74c5a306eba427a7cddf7602a914ff9426a2cf30a402d837c1f882  protoc-gen-openapiv2-v2.27.5-windows-arm64.exe
+056c39cf4dc477d28c25dda94ea0ce7b9117ca3ef8c229663c30a98e653cc2c1  protoc-gen-openapiv2-v2.27.5-windows-x86_64.exe

@@ -1,0 +1,9 @@
+cc3b99b7e605577c5649c1eccece136ac502bea066071722f47d5067c3d28092  pasejo-aarch64-apple-darwin.tar.gz
+4ae1dd485917c0a4f044c4948d4c5ab87f8010fdc0372ce4c600065d9d905450  pasejo-aarch64-pc-windows-msvc.tar.gz
+b8a9f2eaa4ce363aba95686071156b973a3e7bc31249274ff16ce2230822eebb  pasejo-aarch64-unknown-linux-gnu.tar.gz
+7a3a07d758d8ca344beda59ef9aa35ef9db4e73a2d597a3e952655be9478463e  pasejo-aarch64-unknown-linux-musl.tar.gz
+08b6824eadc26ce902f5d117015cd07b6c6b27139bee1e7f091cc23cb083caba  pasejo-x86_64-apple-darwin.tar.gz
+43d6e80438a0c5928361d7e0eac2e935c6496212453a8bd4b19993920326bc19  pasejo-x86_64-pc-windows-gnu.tar.gz
+3bb107633c1b28824828baf3456b8d226a172304191bd146a9e44f62d306375f  pasejo-x86_64-pc-windows-msvc.tar.gz
+709d8144910b112ad73fa9ce9977aee747b7560bd8afb0e8e0805814bed6a83a  pasejo-x86_64-unknown-linux-gnu.tar.gz
+7a0ed6b0d5bda42110d192e969404f1f5d3ce8ad9ba935017dd69d3452d1afd8  pasejo-x86_64-unknown-linux-musl.tar.gz

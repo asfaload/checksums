@@ -1,0 +1,6 @@
+1433750621191f2bc2837bb6ed1a268c34dea7b3  ./pulumi-resource-aws-v7.17.0-darwin-amd64.tar.gz
+cd543bf72e7985bdd06b177e044a37f565ec10ad  ./pulumi-resource-aws-v7.17.0-darwin-arm64.tar.gz
+79b9aac0c63dbfae1117fad9e4f469f9639dfd2c  ./pulumi-resource-aws-v7.17.0-linux-amd64.tar.gz
+8f8c2945b9d5bc263d72b9b31ec8fe4d87044d80  ./pulumi-resource-aws-v7.17.0-linux-arm64.tar.gz
+cddba465a7b4ff30f623d0e2d7f3e86287f64e5f  ./pulumi-resource-aws-v7.17.0-windows-amd64.tar.gz
+bdf93bd87d1f057b6185e9d2d04df79e80d146d6  ./pulumi-resource-aws-v7.17.0-windows-arm64.tar.gz

@@ -1,0 +1,8 @@
+b8042ec59b40f5993a1b896fd759a7c9092f6e1ca60156198527a387040e4c04  webscan_0.0.210_Linux-64bit.tar.gz
+15d1e4e16e86017237ad115b311d9a730a227fc87cc8846f5dbc3b1d8011d44c  webscan_0.0.210_Linux-64bit.tar.gz.sbom.json
+612dc9178ce810a0748060d5e0fccae22e57a4abb6adfc766ed32cf5a1cb2cfe  webscan_0.0.210_Linux-ARM64.tar.gz
+d5ad7eedd2839e75f695d2da1220ecbbd64e2fa788065e13a69af59c7cbe011a  webscan_0.0.210_Linux-ARM64.tar.gz.sbom.json
+d912d608e74275bb603efc23f6f6f79d6b19060c5ed398d4a6857302eb8941cb  webscan_0.0.210_macOS-ARM64.tar.gz
+d61c5f262f08599ef1fd466f36fe5e26303fce951e099c56c1e965f1510d1e24  webscan_0.0.210_macOS-ARM64.tar.gz.sbom.json
+12e19af48c4fa2c016f832c03fb7074020f7f99c9d2b5a7c6d8323ebac1acd53  webscan_0.0.210_windows-64bit.zip
+d5ab222536d8378267370185bbb2ad64d7ecda219078ec9791da15c3bc36b363  webscan_0.0.210_windows-64bit.zip.sbom.json

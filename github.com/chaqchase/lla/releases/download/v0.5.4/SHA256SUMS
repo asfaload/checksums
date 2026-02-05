@@ -1,0 +1,5 @@
+57e5052951915524410376fa8ce13419e07cf909a0aa4f375d3c867a4755f1c6  artifacts/lla-linux-amd64/lla-linux-amd64
+1dc7d04943204528a0ebd4e697eec88a71e46d4971814bb995805a3707249c0a  artifacts/lla-linux-arm64/lla-linux-arm64
+8a028f7eed5ffa687b546b39672bd73a39e818dd02f5e320be711eb7d2280b66  artifacts/lla-linux-i686/lla-linux-i686
+44e9a1b02ee984839f9cf227831c384805bdd39b8b1073472e95247dae0b75ce  artifacts/lla-macos-amd64/lla-macos-amd64
+88d80fca9b0e7726125827c9899cc6f3f4af6c60653c0ce0b5531bec3da9f866  artifacts/lla-macos-arm64/lla-macos-arm64

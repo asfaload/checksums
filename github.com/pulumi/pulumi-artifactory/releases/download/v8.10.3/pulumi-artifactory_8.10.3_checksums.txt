@@ -1,0 +1,6 @@
+82abd8abbd5f8123393e90062881ede82391581b  ./pulumi-resource-artifactory-v8.10.3-darwin-amd64.tar.gz
+b4fde11700fa76a37e80a46a36e3b48f05ae7ec3  ./pulumi-resource-artifactory-v8.10.3-darwin-arm64.tar.gz
+1770dbc0cc419fa7a7f95ad96805187974d8f1d4  ./pulumi-resource-artifactory-v8.10.3-linux-amd64.tar.gz
+680355c69636f298a46defbb0c0d8fd7de013272  ./pulumi-resource-artifactory-v8.10.3-linux-arm64.tar.gz
+b3a366a23109d389c872869eb7ca19b9c07df1ed  ./pulumi-resource-artifactory-v8.10.3-windows-amd64.tar.gz
+c64fa2d4f45d6381198a58f2d98a3177a44c7352  ./pulumi-resource-artifactory-v8.10.3-windows-arm64.tar.gz

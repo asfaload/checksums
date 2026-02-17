@@ -1,0 +1,4 @@
+6e0c3df8e802995b8ef887a72f2317682693d910b5c3d3ad25aec5706fd67ffd  target/release/axoned-14.0.0-linux-amd64
+e8db325975703ddec1573a63e0ef3bd4df8856e595ada612c6493a90a1013abf  target/release/axoned-14.0.0-linux-amd64.tar.gz
+c8b5867ce0c410f6c84ecf2f4cde09147441e4eb14dafa7f6ab3da4402dc5b49  target/release/axoned-14.0.0-linux-arm64
+a56587a11f942662c845a1445ed1272d36444f8300d82751df77d137191ff367  target/release/axoned-14.0.0-linux-arm64.tar.gz

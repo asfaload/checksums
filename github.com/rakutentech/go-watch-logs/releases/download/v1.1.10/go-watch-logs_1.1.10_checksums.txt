@@ -1,0 +1,6 @@
+669b93ad761ab7696d42a9756bbbc3212a7acfa5fbbe99ef19b76db2ef215ac1  go-watch-logs-darwin-amd64
+457e4019fba7831cc2d3c44e3884a1d06cb6bced21a2d8305b0f623d6a69196f  go-watch-logs-darwin-arm64
+32de008f369eaee138cfb50efd524145d2495e8575a6adfba46097c80b7bb7db  go-watch-logs-freebsd-amd64
+e24425bc069ec683ad8277ef30d82e2395aad68379ae684c818d831e5fb4f9ac  go-watch-logs-linux-amd64
+e27b5a1ee2cb84b767e9bb84937f2c9509f0a7af7468c729923fc19df69cb04d  go-watch-logs-linux-arm
+64310032f05ec01b95360619f548c93ea4f1c977e8f505233c5c1468913b68a3  go-watch-logs-linux-arm64

@@ -1,0 +1,9 @@
+cb269d208952433d91a5c21fee10cc012c87d265dd0af9152641eb33a95e12cc *cargo-zigbuild-aarch64-apple-darwin.tar.xz
+14588ad1c0513cc68697ecd116004ae933fd1746e5c0fa3b272296386dd78559 *cargo-zigbuild-aarch64-pc-windows-msvc.zip
+09ad6d91af4c6676c4f86c0746471c33efd35d5bf659cd193f3b55838daa75ee *cargo-zigbuild-aarch64-unknown-linux-gnu.tar.xz
+604c8c6e7321af4056448b304fe6da79e3cb337d2db04a63b8c78ae5b53d59c3 *cargo-zigbuild-x86_64-apple-darwin.tar.xz
+786ad41f0296caf6ce43a6b7d03415bb516e10f3f24f66dba0dd230967d6e301 *cargo-zigbuild-x86_64-pc-windows-msvc.zip
+21e18a5f8ae64b9ed34c5c1cf7bba5af3bd96d77fd43d713eae85b922506d941 *cargo-zigbuild-x86_64-unknown-linux-gnu.tar.xz
+b18ca96a420b4fce29cd397308289b1f34298ca9d425daa0b4450fc95ee3260b *cargo-zigbuild-x86_64-unknown-linux-musl.tar.xz
+77ce25f84f0c705d2f45e1ea7a316719b939831cf2608ece9c0faad90d945636 *source.tar.gz
+

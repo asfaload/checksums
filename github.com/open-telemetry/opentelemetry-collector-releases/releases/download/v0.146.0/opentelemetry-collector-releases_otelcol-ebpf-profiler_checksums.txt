@@ -1,0 +1,4 @@
+add0bfe09e039298fd22b56b2292f50fc0a786f6c9d94fdcd18ae617deb832ad  otelcol-ebpf-profiler_0.146.0_linux_amd64.tar.gz
+6226b562bdcde4519dee6cd5896937171d1d50f456c289d66f0b9f2a5937c101  otelcol-ebpf-profiler_0.146.0_linux_amd64.tar.gz.sbom.json
+e1e2dbd640e9f84ee2e39727d42ae4e14ee1c1e4f775a9aed78afb8423ebcd27  otelcol-ebpf-profiler_0.146.0_linux_arm64.tar.gz
+c87d3e8c3e35049f583915e1b4f1914c10ce6fc2436488c25f86d2a8ec7e186c  otelcol-ebpf-profiler_0.146.0_linux_arm64.tar.gz.sbom.json

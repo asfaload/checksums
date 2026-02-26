@@ -1,0 +1,6 @@
+ca76a31c4c9029db197efc6cd60e63a587212c5098ef8797a147ac494c726fcf  dkim-manager-1.4.0.tar.gz
+079cc553e6ee6942f41ec248dd9ab022f5bf8eadb52120311a57fc2dd851c01b  dkim-manager-1.4.0.tar.gz.sbom.json
+4acfa6624bd88f4de87afbaf5d3563669cd3e603669cc3a8890a6bacfe5246a4  dkim-manager_1.4.0_linux_amd64.tar.gz
+7fb0f193eec4275ae3d29a6195a7652c7aeb9c8f1b776b8081dc6c90bc28b6f5  dkim-manager_1.4.0_linux_amd64.tar.gz.sbom.json
+0bee4988d882f6c8e201c0a1be932f52051b66e05110edfd891d0625487a90db  dkim-manager_1.4.0_linux_arm64.tar.gz
+82823cb0ab7bf698ceef67cab9dcf5af8aade95996d7beba9a3896b6ad9c1e00  dkim-manager_1.4.0_linux_arm64.tar.gz.sbom.json

@@ -1,0 +1,8 @@
+59ca9790cca6f09494fe5e77a24a7a9fdb76141830b0f99a18559673ed239210 *AP-20260301-24.10-5.4-immortalwrt-mediatek-mt7981-cmcc_a10-initramfs-kernel.bin
+d5e1fb02d586e9da0100a946f1ca0dbfe70eef4316dbfc15db07f065cc15b221 *AP-20260301-24.10-5.4-immortalwrt-mediatek-mt7981-cmcc_a10-squashfs-factory.bin
+ca145fd450c74303dac3184c747a9ccd56c491b36c05cf77e95f163f11bacaf6 *AP-20260301-24.10-5.4-immortalwrt-mediatek-mt7981-cmcc_a10-squashfs-sysupgrade.bin
+a2e99c6e5a6c695c3e6c768cf4c8bc0888e3a983c2e4ce16b7535655405e3493 *AP-20260301-24.10-5.4-immortalwrt-mediatek-mt7981-cmcc_a10.manifest
+4789445bb5fec4960dc0c2ce253694bd4e71ee13c168720ada74d7e1d4507704 *config.buildinfo
+133cc33709f2d2463ac10d2ed3e18b024dfae8542b495039cba0fec0ea5f4537 *feeds.buildinfo
+11b364546c690022a5fa1ae80c5f5f777dddb4ee0ab0416336f6d8cab06da065 *profiles.json
+3bc175f794760c647ce94d50706ee5835e879db63fb65f5c0d6f031f37b2d5cf *version.buildinfo

@@ -1,0 +1,7 @@
+18217261b6de8701ed2e387cd504e7138ef200bffe454a190bc4372d837d278f  .artifacts/pack/zitadel-darwin-amd64.tar.gz
+6e6735c470c3983f777e5891ebaa10c8af1138a13b8aa3d8b4ba5cc1de815209  .artifacts/pack/zitadel-darwin-arm64.tar.gz
+ab073f250ce5776ed0c90af856643d5ff378ab9c2dc18967120dc129cc0f4a75  .artifacts/pack/zitadel-linux-amd64.tar.gz
+1b1d8e954ae091a64ca729aeb5345c5c1970a96711348586af9724952c3cd553  .artifacts/pack/zitadel-linux-arm64.tar.gz
+f3e3551c1a6fd6a570c2327559e9322511bc10e9bf58ceecc11eba48cf8c99ef  .artifacts/pack/zitadel-login.tar.gz
+b58d4f2c4aaefaa73dddd3ee9d5cbb5b9189cfd0a60fc35fd0922b021bbc52f7  .artifacts/pack/zitadel-windows-amd64.tar.gz
+a059accae44d203319e9df2ec43f5412d46ef6de9c7627e751fd5094ae69086c  .artifacts/pack/zitadel-windows-arm64.tar.gz

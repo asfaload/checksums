@@ -1,0 +1,5 @@
+e508c16d0c2c052cb70a27ded0581ff5f4797916  ./pulumi-resource-checkly-v2.7.0-darwin-amd64.tar.gz
+c90905bc9932dfd3f85e5219f97cdd4589a5564d  ./pulumi-resource-checkly-v2.7.0-darwin-arm64.tar.gz
+0f3924e524545a111bb1ba4062040697d9184fbd  ./pulumi-resource-checkly-v2.7.0-linux-amd64.tar.gz
+00b5f52cb18850675e6b1dc6dffc695e5a711bd4  ./pulumi-resource-checkly-v2.7.0-linux-arm64.tar.gz
+ea09708a07e4d3c7d415b874e873214cdd1f45c3  ./pulumi-resource-checkly-v2.7.0-windows-amd64.tar.gz

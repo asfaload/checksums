@@ -1,0 +1,8 @@
+3df7d5a834e2303a786669afbb2743758f403318feef3ebcbaeb88ed72ee92d8  gcp-adc-tpm_0.8.7_darwin_amd64
+c89016629c9a3069dc6fd793a305202b56a2acbad29fe278c473c0d1690e76ea  gcp-adc-tpm_0.8.7_darwin_amd64.spdx.sbom
+86f4b507beec34b0fc9828f4075773fc8797d9987c886cd39637d080a973a782  gcp-adc-tpm_0.8.7_darwin_arm64
+21b461c229c1eb0e39cc5c18e47ccaf5b8619402749f0b01ed57e672d91cd058  gcp-adc-tpm_0.8.7_darwin_arm64.spdx.sbom
+b95124c8d2011e5edebb71349e46b9b7a6f70cf79d38681ee52e1c5b8ce83fea  gcp-adc-tpm_0.8.7_linux_amd64
+46fc9fc1094d30feb6036a422e2f6b2e6c29afaf3fd26628667d97114f786729  gcp-adc-tpm_0.8.7_linux_amd64.spdx.sbom
+46bbf1e36a55e1834ab2ae282a9156d7a6638cef856a1fb9c72fbabe534dd013  gcp-adc-tpm_0.8.7_linux_arm64
+52ad50449e0058f5135d7ef4275720feb68c4664ede72c62125402c746112253  gcp-adc-tpm_0.8.7_linux_arm64.spdx.sbom

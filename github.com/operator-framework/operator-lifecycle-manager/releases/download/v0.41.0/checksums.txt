@@ -1,0 +1,4 @@
+1823f39009bf71412511d49239409f7cbb520b1c6b5ec2c35b1d71580f5e467d  operator-lifecycle-manager_0.41.0_linux_amd64.tar.gz
+5d27aef4fbc004be82ce57c878a2e028a1988b7a674529568678a4d1cedae6db  operator-lifecycle-manager_0.41.0_linux_arm64.tar.gz
+921687a629f27d3bd40252f367cc00c3f70107bb7bb44316864744f137760028  operator-lifecycle-manager_0.41.0_linux_s390x.tar.gz
+d3229aeae06e9b9a4397ba344719b2c46349f52b1052ad132c8cced4119c9aa6  operator-lifecycle-manager_0.41.0_linux_ppc64le.tar.gz

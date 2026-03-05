@@ -1,0 +1,12 @@
+0531da05efc83b6d56407928cac86ea3b4c0ba17c9e2f7858dc433f6c0f7408f  ./go-warmup-darwin-arm64.dylib
+338f0cace67a2fe3cea5488c33f32669bdfcd3643206f239d39128fd5da11573  ./go-warmup-darwin-arm64.h
+f1816181cf65c09ae797b8bc617acd7ceedb97ef1bcd3a7ef89a265847ffaa09  ./go-warmup-darwin-x64.dylib
+338f0cace67a2fe3cea5488c33f32669bdfcd3643206f239d39128fd5da11573  ./go-warmup-darwin-x64.h
+03260e6552b7eb17b7cbe0cb6c16486bc4d17a110c1dc8ab9293cc4b678a8b80  ./libasherah-arm64.dylib
+990d039a1cfb9f98cddc423018cb3ceb8d735acf7066e37ef40425f0ceab5997  ./libasherah-darwin-arm64-archive.h
+c2bda3ed4aa406b12176507981b47df63e459c3d4cc6397cfa14820acd1123cc  ./libasherah-darwin-arm64.a
+990d039a1cfb9f98cddc423018cb3ceb8d735acf7066e37ef40425f0ceab5997  ./libasherah-darwin-arm64.h
+990d039a1cfb9f98cddc423018cb3ceb8d735acf7066e37ef40425f0ceab5997  ./libasherah-darwin-x64-archive.h
+517dc8c49882925fc55cc3a02d528897ead904d7e915690801630f142b9c1042  ./libasherah-darwin-x64.a
+990d039a1cfb9f98cddc423018cb3ceb8d735acf7066e37ef40425f0ceab5997  ./libasherah-darwin-x64.h
+df7d71223bdfc23afc29a5bf72e0294b12d632b63f135e7ac4194ec8d69c3766  ./libasherah-x64.dylib

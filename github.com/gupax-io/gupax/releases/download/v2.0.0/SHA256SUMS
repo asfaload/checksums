@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+c46bb650a7c4ff3f46e798b0f728947890a45bc0b1126c2db7efb9551f999638  gupax-v2.0.0-linux-x64.tar.gz
+edb8245386b8b7cf72938c11cfdf42293371197ffd860b90ab3bcf7524b769bf  gupax-v2.0.0-macos-arm64.tar.gz
+16f21959149833f329f69709f17ddeb1f7defc58b43ab29d8b63220de96c0678  gupax-v2.0.0-macos-x64.tar.gz
+9d00ec4adb0e1b28d2d65911eeaf130d3be38bfe2bf87b319061800a1b0ca90c  gupax-v2.0.0-windows-x64.zip
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSO/+SowP1LbSHDqrLsblu0AcY2LQUCaa63zAAKCRDsblu0AcY2
+Leq/AQCMc5us+QxZoR+np1ad1GwpgUR0u5cyxxhrARtVec75GwD/dTHryozGy/dX
+OziM0mGEGwLK3bl/0LLwMhXHqXbjNgA=
+=rc8T
+-----END PGP SIGNATURE-----

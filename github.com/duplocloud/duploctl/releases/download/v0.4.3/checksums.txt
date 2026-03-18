@@ -1,0 +1,7 @@
+c6d2685e173e7e12c548bc851cfc94a9d9c640111ae6899527d11ec4a4708842  ./duplocloud_client-0.4.3.tar.gz
+48c09b845df8b2ac922e663e0b8f7e52d03933aefcc87c794ee96d22fad022e8  ./duploctl_aws-0.4.3.tar.gz
+708e56053bf6bb3280a4c07719de2a3db87f4999a022eba6b0c7265714571c7d  ./duploctl-0.4.3-darwin-arm64.tar.gz
+0bc0e29625bdd0338e5be3cdf069e28f2e7bffa9d70be8ff5dd57158d8aed2f2  ./duploctl-0.4.3-linux-arm64.tar.gz
+b01b093210c397d7cf2bdf6a8fe81b8b0e9b18469b59d9549d42cd5f86da78aa  ./duploctl-0.4.3-windows-amd64.tar.gz
+7262db5c5c6a2cf1d9e10b0e89891f7d4676e5b1ad1d9101fddb8712759224f4  ./duploctl-0.4.3-darwin-amd64.tar.gz
+7f1a7eda54aa7f29fe71804cba2d4d64f94c3178c15669beb3c8722b95786f24  ./duploctl-0.4.3-linux-amd64.tar.gz

@@ -1,0 +1,6 @@
+a8623e050313fd76b88d81e2cc0c3acba37afae2  ./pulumi-resource-gcp-v9.16.0-darwin-amd64.tar.gz
+008b65d64a0dc35c3f4c88d5da0f8bb2ff8a35c9  ./pulumi-resource-gcp-v9.16.0-darwin-arm64.tar.gz
+7b46a6512565d28b722f147b2caecc213eddd189  ./pulumi-resource-gcp-v9.16.0-linux-amd64.tar.gz
+f5b1c736f305d9a18ca5efe1e5d08f73111e950a  ./pulumi-resource-gcp-v9.16.0-linux-arm64.tar.gz
+0fd050145153efa3356598540969db5ce93189cd  ./pulumi-resource-gcp-v9.16.0-windows-amd64.tar.gz
+4f1286ba7ac588b3f250f27e7c01329af8d95679  ./pulumi-resource-gcp-v9.16.0-windows-arm64.tar.gz

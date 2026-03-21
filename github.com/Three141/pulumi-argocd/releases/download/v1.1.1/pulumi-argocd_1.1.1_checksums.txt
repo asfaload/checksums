@@ -1,0 +1,6 @@
+a301e302a3a7f79a392a89492558462ddd57badd  ./pulumi-resource-argocd-v1.1.1-darwin-amd64.tar.gz
+c8e7b9b5b936a77d299619d17c91fcf8617b0e82  ./pulumi-resource-argocd-v1.1.1-darwin-arm64.tar.gz
+30cc82081bd8baccea4ff5df94431ce693b1b501  ./pulumi-resource-argocd-v1.1.1-linux-amd64.tar.gz
+5adf23177f467b71072fb0d3eb51f1373ef06509  ./pulumi-resource-argocd-v1.1.1-linux-arm64.tar.gz
+77db3451f7573dc5ac35c4d79174da35a493b276  ./pulumi-resource-argocd-v1.1.1-windows-amd64.tar.gz
+536cbccd6dad9f61c073e4c80a18fac8c350a54c  ./pulumi-resource-argocd-v1.1.1-windows-arm64.tar.gz

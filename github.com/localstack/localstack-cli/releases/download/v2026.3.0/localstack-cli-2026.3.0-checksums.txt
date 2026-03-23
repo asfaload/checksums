@@ -1,0 +1,10 @@
+e65fb91343d75af0a05ca7db3d93bbc7bdff0b4e80703d3699c3bf6a385d690c  localstack-cli-2026.3.0-darwin-amd64-onefile.tar.gz
+40c969732fa806195194706389ac7bc3ff69ad17ec64a42d4d02a47f8d89f533  localstack-cli-2026.3.0-darwin-amd64.tar.gz
+ac990c247b9fd615b83793974f1d56695d989928b4c5fea5a099fdaf4bdff3f2  localstack-cli-2026.3.0-darwin-arm64-onefile.tar.gz
+a35f2488c9336971eb7056656adccb1ff19c24108ba3e7abf7a7a8e3c8306e75  localstack-cli-2026.3.0-darwin-arm64.tar.gz
+c23521f9e8878036db29e7667ab497b98397e544f87e179e517c0926655147db  localstack-cli-2026.3.0-linux-amd64-onefile.tar.gz
+bb2477cfaeaaafb2bb23a9984a37172b9330c965b41746ac80dc49a2db3ace30  localstack-cli-2026.3.0-linux-amd64.tar.gz
+deca87bef909de70ac02ec6ab065359a5eb0d883b3337432fc953d51297a6153  localstack-cli-2026.3.0-linux-arm64-onefile.tar.gz
+562c1eebe3168472f8c8d4b66fa0a2f037227711d2a151db1c5560d2eaaff527  localstack-cli-2026.3.0-linux-arm64.tar.gz
+5b65ff88ab74b34aaa0ab0f0061c2391cfb063a247815e94f7efb2e157c37716  localstack-cli-2026.3.0-windows-amd64-onefile.zip
+00062f9fd216a0fc651b1205b536dd3c9161787c967025a49852efd7995ab6ef  localstack-cli-2026.3.0-windows-amd64.zip

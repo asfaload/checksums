@@ -1,0 +1,47 @@
+--- SHASUMS256.txt.orig	2026-03-26 00:37:43.818979109 +0000
++++ SHASUMS256.txt.pp64le	2026-03-26 00:37:43.831661116 +0000
+@@ -1,7 +1,10 @@
++6d3e9ddbe4d21ca7d509f09666acf5dc1ccbd04183f39eebea6f27cdd3a5e876 *SHASUMS256.txt
++aaa4cfcdd554217aabbb8a7574ee8e9113e70d05eaacc0d78c0c8dfa787a4a40 *SHASUMS256.txt.patch
+ 463943a33b266d715970999fd8e224c81ce7cb49c7b25c9bef674b76412fa371 *chromedriver-v41.0.3-darwin-arm64.zip
+ b34628d1b2801b1f0ff8c089ee6e6ed439c1d99d94d609087b761944548e0b08 *chromedriver-v41.0.3-darwin-x64.zip
+ 1d896446eb71bb30ec4d8dc7bd7a3b5a198606925a4374b50dcc9e7da8d010fe *chromedriver-v41.0.3-linux-arm64.zip
+ e84d4b897ed6409782b627fe8ba0a01092803f311c6206afd7ca1012f0d78a98 *chromedriver-v41.0.3-linux-armv7l.zip
++120e0e5915c8f1a49904737e82bf50bc72563f8556fc3c5997c118908b377874 *chromedriver-v41.0.3-linux-ppc64le.zip
+ cdd11e2b7fe702b2d40f3afb464d6c71f0861fa35413e75597c3b99bbd8b0c12 *chromedriver-v41.0.3-linux-x64.zip
+ e63ca94c331eaf10e178fb70d1211c4da1fcd6f8edf7ad36d6a187d47b463f2a *chromedriver-v41.0.3-mas-arm64.zip
+ a42331db3dff626bb35a7b92b147ad32c98c9ae4c5ec5b4cccda756f28510156 *chromedriver-v41.0.3-mas-x64.zip
+@@ -23,6 +26,9 @@
+ cdc7fc801a53ad041d0f80756068bf0119856df6bf91418c20b0a7bdddbccd95 *electron-v41.0.3-linux-armv7l-debug.zip
+ 50fef8346f70dc96e51b38fddc08e59fe334dc16b7b05a7fe050964cc8207962 *electron-v41.0.3-linux-armv7l-symbols.zip
+ 59ae088fac985a8a23571aa26142348b340ef326b067e8500f5dbe8f4998f180 *electron-v41.0.3-linux-armv7l.zip
++4601e7692cac011610c245d8c58f14a73b415fccf520194f14674f81e4ce2c41 *electron-v41.0.3-linux-ppc64le-debug.zip
++498a74b78699ff9d4819310262d96e861dd7d899f38f8f625a311968b076b29b *electron-v41.0.3-linux-ppc64le-symbols.zip
++77e86aa200d9e19b5eb3a51f273ee410788c21977f2ea76b1239d79aa2e1adbf *electron-v41.0.3-linux-ppc64le.zip
+ abe97980ad81148bf0b730bba5578ca9b1c462668c0991cfcbfc54109a934a1e *electron-v41.0.3-linux-x64-debug.zip
+ cf47f29f00b05b6dbffd95d1ef3ab3d9dff9fd8e6d3e8407c2463d403b4dfb53 *electron-v41.0.3-linux-x64-symbols.zip
+ ca1a4963ef855f67afd34033ccfe4ca4cc986e5b58a77c2d0cf88ff3fc9933ee *electron-v41.0.3-linux-x64.zip
+@@ -51,6 +57,7 @@
+ 256866fa47736c024ba36910afd406ef6a815831b4635be4c296af2ba459e371 *ffmpeg-v41.0.3-darwin-x64.zip
+ a6f85812b4fe83838a993fd683a3c4d9c03ac7ad67956e70e02409e380e4acb9 *ffmpeg-v41.0.3-linux-arm64.zip
+ 8784d55d1a3c58c49838a863893fd3115c45b57fe3b5a9ee900622f73c60ada5 *ffmpeg-v41.0.3-linux-armv7l.zip
++687a36388a7cf06427d7fa7e3db7fca4ab0118c5eab2baeac128c1989a600cff *ffmpeg-v41.0.3-linux-ppc64le.zip
+ cd5ef10339b69866a1d9babc44e77370abd87666d0a9bb538a24f15d738593a3 *ffmpeg-v41.0.3-linux-x64.zip
+ e74ea8c387a9462ffcd3d0609d39aa7c9ad1bdc53968ad606c5aa90999f015a9 *ffmpeg-v41.0.3-mas-arm64.zip
+ 256866fa47736c024ba36910afd406ef6a815831b4635be4c296af2ba459e371 *ffmpeg-v41.0.3-mas-x64.zip
+@@ -60,6 +67,7 @@
+ b672905fafcbbe8315a4552be439a0000d9cda80c5380f76d0f22bdc23bfbe57 *hunspell_dictionaries.zip
+ ac77d581d4092cf28338887be0c6757f58b7901e7d8e806edd0b97a7e98fa760 *libcxx-objects-v41.0.3-linux-arm64.zip
+ 41be85dd3f4cc563b08b9eae9813e64ea11c54341953bc6edb5a2cf13a3c60e3 *libcxx-objects-v41.0.3-linux-armv7l.zip
++3e85df4843497ce567ad36ddf826cd1af7dfe9f883daad4623736ddd012dbfd1 *libcxx-objects-v41.0.3-linux-ppc64le.zip
+ 3eebdd324a20cec37a90a3448dc987b498bcd5311b6202cd0ae08e2c145a0dff *libcxx-objects-v41.0.3-linux-x64.zip
+ f430938a5a205e1f82a2ebb9715fa7051346202be96f0133014e5a3ce1a19272 *libcxx_headers.zip
+ a169c9558951055efc054d31c3b4c8a04aa588ef1533b4456b6b27950d121994 *libcxxabi_headers.zip
+@@ -67,6 +75,7 @@
+ 8bfaf38bca7c81cf4d3e1193112eef93418943c00cf3874158fa67aecd35fd88 *mksnapshot-v41.0.3-darwin-x64.zip
+ 47432b019b9b94471ac136c3b495f8c2d490b3b0f940a21c5450155238111b44 *mksnapshot-v41.0.3-linux-arm64-x64.zip
+ c3cbe1c1bc6ad052a528e049c280af1f3fde7ebfb0e07690400ac6fbddadf7dd *mksnapshot-v41.0.3-linux-armv7l-x64.zip
++6cb0e67dc5a23de0ebbe89253e1f24bf9d4ca41213a1b9f784f2afaa2cf61324 *mksnapshot-v41.0.3-linux-ppc64le.zip
+ 8cec6f386144d248eeeeb7b611387b826ce8a756b023953a28ac7b2dc8b79434 *mksnapshot-v41.0.3-linux-x64.zip
+ bd6f3ecfe05da1b52c16fc11e5a7dcdc2e1cba3ec8251f3ba4a41ad9decefb0c *mksnapshot-v41.0.3-mas-arm64.zip
+ 4b5741b36c28562da7ba1de8920aa7c754809d30e8c6c8dd50647e99b4fbf1e8 *mksnapshot-v41.0.3-mas-x64.zip

@@ -1,0 +1,44 @@
+--- SHASUMS256.txt.orig	2026-03-27 02:54:40.765466067 +0000
++++ SHASUMS256.txt.pp64le	2026-03-27 02:54:40.785824688 +0000
+@@ -2,6 +2,7 @@
+ 2f6b654337133c13440aafdaf9e8b15f5ebb244e7d49f20977f03438e9bb8adb *chromedriver-v39.8.0-darwin-x64.zip
+ ef8681bb6b6af42cdf0e14c9ce188f035e01620781308c06cd3c6b922aaea2e6 *chromedriver-v39.8.0-linux-arm64.zip
+ c03fea6ac2b743d771407dc5f58809f44d2a885b1830b847957823cac2e7b222 *chromedriver-v39.8.0-linux-armv7l.zip
++fede6bbfebeeaf33f9971cecb2902e0c5ac81e71e3f4139b90e02eb1a6bbc3c8 *chromedriver-v39.8.0-linux-ppc64le.zip
+ 4bb7c6d9b3a7bfdd89edd0db98e63599ebf6dacdb888d5985bbb73f6153acc0c *chromedriver-v39.8.0-linux-x64.zip
+ aad1f6f970b5636d637c1c242766fbaa5bebe2707a605a38aadc7b40724b3d11 *chromedriver-v39.8.0-mas-arm64.zip
+ e89ebebe3a135d3ce40168152a0aabfd055b9fa6b118262a6df18405fd2ea433 *chromedriver-v39.8.0-mas-x64.zip
+@@ -23,6 +24,9 @@
+ b26ac10e84f6b7d338c13a38547aa66b5e9afbe2f1355b183ebc2ff8f428cfa9 *electron-v39.8.0-linux-armv7l-debug.zip
+ 16c47c008a8783f6c8d6387fe01ea15425161befbf4211e4667bbdd6bb806ef0 *electron-v39.8.0-linux-armv7l-symbols.zip
+ b1b37fd450a5081a876c2b00b6ca007d454747a7d1d8f04feb16119d6ace94c6 *electron-v39.8.0-linux-armv7l.zip
++1c379ef80c317d7aff396a92d19a6fb4a2cab508855d5e24ca928aa25da451d0 *electron-v39.8.0-linux-ppc64le-debug.zip
++bd65016dccae0e7f8bd6aa795b612857634481239f47d779b2bba849e9407e63 *electron-v39.8.0-linux-ppc64le-symbols.zip
++1b32259b627b1ce14e3aa778be159cd49ad8603af4f4e47d98dda662eb7b2749 *electron-v39.8.0-linux-ppc64le.zip
+ 1e8039cdf60b27785771c9e3f3c4c39fad37602bb0e6b75a30f83c57fdbef069 *electron-v39.8.0-linux-x64-debug.zip
+ ff9ca169c6e79649dd4c5a49a82a8d4b1761b62fbe14c15c61bf534381a9f653 *electron-v39.8.0-linux-x64-symbols.zip
+ 854076cc4c63d6d6c320df1ca3f4bd7084ef9f9bb47c7b75d80feb2c2ed920b4 *electron-v39.8.0-linux-x64.zip
+@@ -51,6 +55,7 @@
+ 321d9c07f74c6cf77027ec07d888fb7b634d6589207e3c9e016c43e277ca9944 *ffmpeg-v39.8.0-darwin-x64.zip
+ 52ae6eccbdb4a9403a6c3eb46b356a28940ec25958b6b9181fb2f38e612e40ed *ffmpeg-v39.8.0-linux-arm64.zip
+ 622cb781fb1e3b9617e7e60c36384427f7b0d9b5ad888e9bc356a83b050e13f1 *ffmpeg-v39.8.0-linux-armv7l.zip
++687a36388a7cf06427d7fa7e3db7fca4ab0118c5eab2baeac128c1989a600cff *ffmpeg-v39.8.0-linux-ppc64le.zip
+ ba441851788008362f013bf2983b22b0042af8df31bf90123328f928cc067492 *ffmpeg-v39.8.0-linux-x64.zip
+ 27cf8e375bc22ceea6b3d42132f2927ea544edac2b8b2c5dc3c10b5df8dfb027 *ffmpeg-v39.8.0-mas-arm64.zip
+ 321d9c07f74c6cf77027ec07d888fb7b634d6589207e3c9e016c43e277ca9944 *ffmpeg-v39.8.0-mas-x64.zip
+@@ -60,6 +65,7 @@
+ 365735192f58a7f7660100227ec348ba3df604415ff5264b54d93cb6cf5f6f6f *hunspell_dictionaries.zip
+ 6384ee31daa39de4dd4bd3aa225cdb14cdddb7f463a2c1663b38a79e122a13e2 *libcxx-objects-v39.8.0-linux-arm64.zip
+ 9748b3272e52a8274fe651def2d6ae2dad7a3771b520dd105f46f4020ba9d63b *libcxx-objects-v39.8.0-linux-armv7l.zip
++3e85df4843497ce567ad36ddf826cd1af7dfe9f883daad4623736ddd012dbfd1 *libcxx-objects-v39.8.0-linux-ppc64le.zip
+ 74d47a155ecc6c2054418c7c3e0540f32b983ebdc65e8b4ea5d3e257d29b3f4f *libcxx-objects-v39.8.0-linux-x64.zip
+ c0755fbb84011664bd36459fc6e06a603078dccd3b7b260f6ed6ad1d409f79f7 *libcxx_headers.zip
+ 3ea41e9bd56e8f52ab8562c1406ba9416abe3993640935e981cbbd77c0f2654b *libcxxabi_headers.zip
+@@ -67,6 +73,7 @@
+ f0e692655298ffed60630c3e6490ced69e9d8726e85bcaecfa34485f3a991469 *mksnapshot-v39.8.0-darwin-x64.zip
+ d5d0901cd1eafdf921d2a0d1565829cf60f454a71ce74fa60db98780fd8a1a96 *mksnapshot-v39.8.0-linux-arm64-x64.zip
+ 1bc0a3294d258a59846aa5c5359cd8b0f43831ebd7c3e1dde9a6cfaa39d845bf *mksnapshot-v39.8.0-linux-armv7l-x64.zip
++3c2b639caa39d42a3a713a7b3b2ab743dfd2a84b79abb0b2b459d674bc51b0b8 *mksnapshot-v39.8.0-linux-ppc64le.zip
+ 4e414dbe75f460cb34508608db984aa6f4d274f333fa327a3d631da4a516da8f *mksnapshot-v39.8.0-linux-x64.zip
+ c51c86e3a11ad75fb4f7559798f6d64ec7def19583c96ce08de7ee5796568841 *mksnapshot-v39.8.0-mas-arm64.zip
+ 6544d1e93adea1e9a694f9b9f539d96f84df647d9c9319b29d4fc88751ff9075 *mksnapshot-v39.8.0-mas-x64.zip

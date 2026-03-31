@@ -1,0 +1,8 @@
+460cc648364ca9ebbd330f1396d6695eb98fea1f99447fdeec8130ddbc4e7419  carbon-relay-ng_1.5.13_Darwin_arm64.tar.gz
+896d1c44987dd03cee259be2f6a55c04c129d7842e40cc2f7c052d48c56a2127  carbon-relay-ng_1.5.13_Darwin_x86_64.tar.gz
+cd995158a07e6498e98fd92918a2e3c5f68ef1042dc18ebda21cece07736a7d2  carbon-relay-ng_1.5.13_Freebsd_arm64.tar.gz
+66a99138658bf55638db9337afa59ac2e854c469a76b99ad8d0cfc65ccffa028  carbon-relay-ng_1.5.13_Freebsd_x86_64.tar.gz
+ad5614b1a7434d53d1a99e289bcb586afa25beff13b143f84571ed2b0318cecd  carbon-relay-ng_1.5.13_Linux_arm64.tar.gz
+edd3ab0b094027a78642d35e46bb37127937da1a1ae6eafb4da250bb26685b0b  carbon-relay-ng_1.5.13_Linux_x86_64.tar.gz
+64dfcd7d369a1f8c30f98660c7d8e586278d26ea5f70970725ae850fbf177ddf  carbon-relay-ng_1.5.13_Windows_arm64.tar.gz
+dc1d58b5fffa2f970232f5e1c265d62f09e72e89e370531b764c58b4cade8733  carbon-relay-ng_1.5.13_Windows_x86_64.tar.gz

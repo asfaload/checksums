@@ -1,0 +1,9 @@
+afabce290d51e77b36a5ba9c10dd880cddcc93a6b7f908fa3f2331355483bc0c  capsule-proxy_0.11.3_linux_amd64.tar.gz
+7069cfa8817fd562b6d0ae1227eb02d07f0a6110babc9fb4f16725856da95d38  capsule-proxy_0.11.3_linux_amd64.tar.gz.sbom.json
+4e2a6fabcaba76c63c57a5332263d749e371d71b67aca7ffcf85438b7ae9c7e0  capsule-proxy_0.11.3_linux_amd64.tar.gz.sbom.json.sig
+60be18f60d0e1195fd083deacdc3de4e66e8b0c2983c450fda65f8d689e505f2  capsule-proxy_0.11.3_linux_amd64.tar.gz.sig
+3a4691f595f3d7fd2a81cef3899041278c7d460d9a4f34e4800b364157e7edd3  capsule-proxy_0.11.3_linux_arm64.tar.gz
+4a47457855dedd0cf983899a2674b15cfb5aa0702125241d464aca15d72b99ad  capsule-proxy_0.11.3_linux_arm64.tar.gz.sbom.json
+f5d5200f46a83bd0f82e14f8e2120085b66750935fcd6d6dffcf843c589e8931  capsule-proxy_0.11.3_linux_arm64.tar.gz.sbom.json.sig
+0cd3ea33c740b40c9c56df651038a071cbe1e1a3f3b8317e2edd5d15b53178e5  capsule-proxy_0.11.3_linux_arm64.tar.gz.sig
+da0bbaae67ef03f4646bf258e10771f2907e974b08ba4a18f82c66cda7edfdb4  checksums.txt.sig

@@ -1,0 +1,12 @@
+ed88a431dbfe213894d6d668ef18cef38103188722f1c9a051120c5872a93482  protoc-gen-go-enum-v2.0.0-beta.21-darwin-amd64
+0adebaa24b725dc47f74a13bae20f40c73deda76b33f77836a6271bb7bb69333  protoc-gen-go-enum-v2.0.0-beta.21-darwin-arm64
+0dace22fb6580a939128a134d77043d66b7e191ef0d1b01c97acc50ad091849a  protoc-gen-go-enum-v2.0.0-beta.21-linux-amd64
+4c19c8af09b2bcc8f0a75f45f890bcab2f14e870f2d40900fa17b6d21d789fb9  protoc-gen-go-enum-v2.0.0-beta.21-linux-arm64
+e31ca51f187b24bae172408f0c04b1bab77541b7a12ada9ab956e04228238f5b  protoc-gen-go-enum-v2.0.0-beta.21-windows-amd64.exe
+64a08f545a6a474e9411f179457b03d5230b541ab45c006fa7bf54f04f4c4720  protoc-gen-go-enum-v2.0.0-beta.21-windows-arm64.exe
+e352cb0782f46e58010ae21b8e9844f6acdfc943fb8ddb13b7eeda1a783df021  protoc-gen-go-errors-v2.0.0-beta.21-darwin-amd64
+64ac16f3137efe8ce9178e34cfbe3085c914c4bdff43525eefdf2d6e1f7f62b9  protoc-gen-go-errors-v2.0.0-beta.21-darwin-arm64
+84546b071814cbaf5dc35f4139af20ed64d222b375cf415d901191e1819be3be  protoc-gen-go-errors-v2.0.0-beta.21-linux-amd64
+f88495401063d9b02b2d919ac3346efd9dbdfcf1503006d45363c29dbd90c0f2  protoc-gen-go-errors-v2.0.0-beta.21-linux-arm64
+641ab6559787216355d6c66b0b6650a89472f8b9eaf31c5d2662ab7002570c21  protoc-gen-go-errors-v2.0.0-beta.21-windows-amd64.exe
+6ac0935b7bd7d56d889d06a41bab3887ee8925b12da8da0fb4b1a0bf05270119  protoc-gen-go-errors-v2.0.0-beta.21-windows-arm64.exe

@@ -1,0 +1,14 @@
+ba6974dbc85158b9ccd833fe7229786b7939b7efda2ad0b2ff44c23937e61be4  pulumi-port-2.21.5.tar.gz
+5a953ce7205a9ab91f9cbd93b01de34dc48d71437a5e69441c3c16b03c35849e  pulumi-port-2.21.5.tar.gz.sbom.json
+15d5c32261dd91c4e00fad3ccf0026fff2d9cdb18b24000e880b87911017600e  pulumi-resource-port-v2.21.5-darwin-amd64.tar.gz
+9915eace0fd9fe3b51ad1368408632bd640cd46fa573ea848126c47547271645  pulumi-resource-port-v2.21.5-darwin-amd64.tar.gz.sbom.json
+b45e9e54812d42b92acf0e4fe6571731af0528559a3cfd5bfc1898ca34f142c0  pulumi-resource-port-v2.21.5-darwin-arm64.tar.gz
+2551bf307cca1091686c58b5ca142dca9ad2db8bf20b9e4b737de871bacbe55f  pulumi-resource-port-v2.21.5-darwin-arm64.tar.gz.sbom.json
+3d6fc05841776a70ef94f599b78d77765afaeab0fa1384faacbfd684227d4fc0  pulumi-resource-port-v2.21.5-linux-amd64.tar.gz
+2115461faff23b51a705207bbc085ff5fa590c850403114de4c37737f8381b5e  pulumi-resource-port-v2.21.5-linux-amd64.tar.gz.sbom.json
+cb50d5e24e43d5661b49dd72c80339188b01ca9c1503f2e8de674443caee3cdf  pulumi-resource-port-v2.21.5-linux-arm64.tar.gz
+6fc7a5368ee47cdf4eecc385c63adf1963ae9adb102b33242d1152ced6fdab7b  pulumi-resource-port-v2.21.5-linux-arm64.tar.gz.sbom.json
+b81589091157c2a470a30c3df7ed6ded64a9c50c2b64cb4716c012a829333176  pulumi-resource-port-v2.21.5-windows-amd64.tar.gz
+64771655e23a7977b997decb18b30635c1bfd5eab8489c6d66cfe0a82ae210af  pulumi-resource-port-v2.21.5-windows-amd64.tar.gz.sbom.json
+79fce6a6422b117839a284c68df06826b86047235636415aa9e1956b018a88df  pulumi-resource-port-v2.21.5-windows-arm64.tar.gz
+0c1c6094d78929b762da6303509f017f05c7a013462b9efb05e438d3a7dca936  pulumi-resource-port-v2.21.5-windows-arm64.tar.gz.sbom.json

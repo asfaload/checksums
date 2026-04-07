@@ -1,0 +1,8 @@
+32e112f7e5ac1f7f7fa33a7772d7570271cb4742cb96002cb6a7079c8bd2ee20 *docker-immortal-config.buildinfo
+2daf80d3ab58dcca78ab8daa6afbe7c85c8a2afe4452fd21e00bf325ad4bb451 *docker-immortal-packages-server.zip
+007496d023da0959821ddde8da898195ff1488b492fc21233612b31c474ed5c2 *docker-immortal-x86-64-ext4-efi.img.gz
+3365ca3025da0866e3f057f5d709ceda50a3815f45d6a65432fb52db72c936c1 *docker-immortal-x86-64-generic.manifest
+ea388e05a130785850811f20f2257865282bb7d7a5023119350af7519ba97346 *docker-immortal-x86-64-squashfs-efi.img.gz
+020788c8fdb9d3e2767db4380bbd78b60bde541c7939f95873ba0335c16af771 *immortalwrt-x86-64-generic-targz-combined-efi.img.gz
+b8ef4438b472dd0d21a99f516621ce0c33aaebcf6f62bf4991b38d86c41e99b8 *immortalwrt-x86-64-generic-targz-combined.img.gz
+cde36a34a0ecb153210fcc7c308e7cb114d2bd58b04e3893172cd9dd3893db62 *immortalwrt-x86-64-generic-targz-rootfs.img.gz

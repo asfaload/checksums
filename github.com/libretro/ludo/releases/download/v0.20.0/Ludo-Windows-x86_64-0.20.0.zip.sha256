@@ -1,0 +1,6 @@
+%%%% HASHDEEP-1.0
+%%%% size,sha256,filename
+## Invoked from: D:\a\ludo\ludo
+## D:\a\ludo\ludo> C:\ProgramData\Chocolatey\lib\hashdeep\tools\md5deep-4.4\hashdeep.exe -c sha256 Ludo-Windows-x86_64-0.20.0.zip
+## 
+57672145,c3a0ec3b5db36cd9a58ab4a0a902450467e06c5acbef30d31ee48d19644c36e1,D:\a\ludo\ludo\Ludo-Windows-x86_64-0.20.0.zip

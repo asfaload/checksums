@@ -1,0 +1,4 @@
+525c2346e72f04ecd817000ff6be652db348ec769ee7cbcb23ac0388129f98fd  target/release/axoned-15.0.0-linux-amd64
+3ecaa2614d2b3da4be2da0126a7fe7a6f60fc8976be4a52e92cac30c31d93c5b  target/release/axoned-15.0.0-linux-amd64.tar.gz
+7f13ce8b2a289741da380b57cfc690a05efeb0901881520e4160110eb1aca3c4  target/release/axoned-15.0.0-linux-arm64
+d4dab31a461740bdccfef4fce91e3500c5d140455c9a2d0fd2ee0af5a26e4f52  target/release/axoned-15.0.0-linux-arm64.tar.gz

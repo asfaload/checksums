@@ -1,0 +1,5 @@
+a11100a1fdee7ae83d67a6d017cf2ec0439b05c52f6dff0a1023584e00762639 *docker-immortal-config.buildinfo
+fb098ce6d8a679d75e3aeb744cdfbeb0c9c6ce0ce8fc8f87e6b7c62a35b5a4bd *docker-immortal-packages-server.zip
+fb55a61fa72fb3d2859b8c85f472db8ea406b4efbc3afb67a70f1a5d5c38da83 *docker-immortal-x86-64-ext4-efi.img.gz
+2b164d662f860d1cda2c4032310b2e270f9ae29937cae4a95add6f08aca36547 *docker-immortal-x86-64-generic.manifest
+c24eb0f9239691e74ef08ad484d8f4470d2929e7e15df90b0a25bf079885c044 *docker-immortal-x86-64-squashfs-efi.img.gz

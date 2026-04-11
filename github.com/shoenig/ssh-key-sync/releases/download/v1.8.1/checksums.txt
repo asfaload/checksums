@@ -1,0 +1,9 @@
+d48ca02e502f4e47b813afaa28c8a19df9e73a96c392401bcd75023259513f91  ssh-key-sync_1.8.1_darwin_amd64.tar.gz
+ae37f2c5cdd99c8563fb61a28a20709c9d929d2e764fea1e4036854e71d155a6  ssh-key-sync_1.8.1_darwin_arm64.tar.gz
+9d306da71d9809e42cd8cca4d948af9127a7beef763e28c18c19f8621ab5fe0e  ssh-key-sync_1.8.1_freebsd_amd64.tar.gz
+820a9b9ba2bdc15d2ed2056451ef8d114b2abf95f5b9cb66b5a96608f267aa6b  ssh-key-sync_1.8.1_freebsd_arm64.tar.gz
+359249f44c1c5c6025bf6ea3e621a2a781c290e18e5daf48740d620d5efee89c  ssh-key-sync_1.8.1_linux_amd64.tar.gz
+433b988b608d356249a84d81c721c1c773bedeee7f2ab485a70c45dd8905fab3  ssh-key-sync_1.8.1_linux_arm64.tar.gz
+6e6afb9b31ace0df822623e7c052a2ed106391723a7177794e98f3d29d84b037  ssh-key-sync_1.8.1_openbsd_amd64.tar.gz
+b11e29fd78b4a1e0222ca344a79e8e11bef099fbad67924e2e6b0038bc081bfe  ssh-key-sync_1.8.1_openbsd_arm64.tar.gz
+76c0745a40b2211f8eef1348ba24a7d8b18397648dd5b0f8bfe31470ef5a9600  ssh-key-sync_1.8.1_plan9_amd64.tar.gz

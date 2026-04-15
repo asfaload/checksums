@@ -1,0 +1,5 @@
+9fe5ce9535b3d00930ba04f86facfc5f87be1d7c  ./pulumi-resource-ionoscloud-v0.3.0-darwin-amd64.tar.gz
+70cd8723f47691433572c3272f8de6d344a8080a  ./pulumi-resource-ionoscloud-v0.3.0-darwin-arm64.tar.gz
+ae14e40c4ea4b608a0aad6a80f11882ace2f9912  ./pulumi-resource-ionoscloud-v0.3.0-linux-amd64.tar.gz
+14df33fe9da0701a15dcd11487b08b474b5cea2a  ./pulumi-resource-ionoscloud-v0.3.0-linux-arm64.tar.gz
+a463583e3c079e7ddae54c589b35897731312fcf  ./pulumi-resource-ionoscloud-v0.3.0-windows-amd64.tar.gz

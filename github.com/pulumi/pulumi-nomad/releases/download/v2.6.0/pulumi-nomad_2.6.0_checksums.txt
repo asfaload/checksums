@@ -1,0 +1,6 @@
+a3dda5635024faef21a0a5fbc3c81c4114ca87f4  ./pulumi-resource-nomad-v2.6.0-darwin-amd64.tar.gz
+bb4f8a59a0459ceaf38bf0774a6e3a365962331c  ./pulumi-resource-nomad-v2.6.0-darwin-arm64.tar.gz
+4a03f518c2bd1623c7867a94a10a4a3163dcbe7a  ./pulumi-resource-nomad-v2.6.0-linux-amd64.tar.gz
+664bb8a78e85e59d2fd47a4b8a079e9a335153f2  ./pulumi-resource-nomad-v2.6.0-linux-arm64.tar.gz
+7b8f857d4d671a9af010d3d9856de47750c74b6b  ./pulumi-resource-nomad-v2.6.0-windows-amd64.tar.gz
+0220f1c9d06f60c3c7135d436d19f5e56176927f  ./pulumi-resource-nomad-v2.6.0-windows-arm64.tar.gz

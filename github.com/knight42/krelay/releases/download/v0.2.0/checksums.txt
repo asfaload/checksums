@@ -1,0 +1,5 @@
+5df44626abd89c241f30094469f7eeaae4fa42d45fbb5f73bba8f18fc51f3786  kubectl-relay_v0.2.0_darwin-amd64.tar.gz
+08d8101e7f017fafddd6f3f38ba83527e6fdf8f8ebb3ad4bc69bbbd304f5a8b1  kubectl-relay_v0.2.0_darwin-arm64.tar.gz
+53b887e08af739aaa57fbdc22f8f55195fb7cfc5a7bd6027f580081bcbf23c2c  kubectl-relay_v0.2.0_linux-amd64.tar.gz
+e2ae4df309e1e269e9309d89cc3bb6377f39a3f884d88599541354b37bee9488  kubectl-relay_v0.2.0_linux-arm64.tar.gz
+ed3655147a5b9578191e147b31840b704150c386a3daaff80fe0a5a1bf633908  kubectl-relay_v0.2.0_windows-amd64.tar.gz

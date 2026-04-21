@@ -1,0 +1,6 @@
+e31ece73329197ca743350b319ab5c2ab6507c52  ./pulumi-resource-ec-v0.10.11-darwin-amd64.tar.gz
+08bb00cc098978d85b0eb2cd82ee2a73ef80c96c  ./pulumi-resource-ec-v0.10.11-darwin-arm64.tar.gz
+24d7ed42c40de91f5c57f8ef0d20370d09e56b91  ./pulumi-resource-ec-v0.10.11-linux-amd64.tar.gz
+159ee6f8d64fce388e59bb442d18b24b506b8964  ./pulumi-resource-ec-v0.10.11-linux-arm64.tar.gz
+2c90970572d1846db548d127052ad050e408ebc6  ./pulumi-resource-ec-v0.10.11-windows-amd64.tar.gz
+e1821906e36a9233100a044cfda180176abfcb69  ./pulumi-resource-ec-v0.10.11-windows-arm64.tar.gz

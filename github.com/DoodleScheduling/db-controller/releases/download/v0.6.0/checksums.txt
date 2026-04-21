@@ -1,0 +1,5 @@
+856c7314efcc645b66b7e14101402785215d4a23fad98e97b3f7a916dd45de5e  db-controller_0.6.0_sbom.spdx.json
+9a657851bea85effc7e58d90540b2ec0f01901eb2d0accdd44c2458740f7ea21  db-controller_0.6.0_source_code.tar.gz
+d0ef6d6183a69740cfe74310a103623c7bdeafd84634b18ece2580b7bf50ef0d  manager_0.6.0_linux_386.tar.gz
+f27d1d3b7a6f5ebf0b225f8f0e5843be96d9d10d47ddb04bd05a2125902e73ad  manager_0.6.0_linux_amd64.tar.gz
+88a0ab4bb2efa35bd0c34a3254709b8c863b7e4b834a242c566250f778efb95e  manager_0.6.0_linux_arm64.tar.gz

@@ -1,0 +1,11 @@
+57fda9595bedde6ee0555c84ceb3d3cee52cc272a1c904e29454b9e26f67c910  ./KubeTidy-darwin-amd64-v0.0.22.tar.gz
+a8166acb2d948e571e22255d97551609d76240216ca3f055c2050705b3d21391  ./KubeTidy-darwin-arm64-v0.0.22.tar.gz
+8666d6a030c6a7d0b9e46c29b25631048e4322157ad28225fbeb786a0d2f1f85  ./KubeTidy-krew-darwin-amd64-v0.0.22.tar.gz
+d4fcf32542c8709ea7267befc0a0fd2f04a1e6f7c5e9cb51619500d028612830  ./KubeTidy-krew-darwin-arm64-v0.0.22.tar.gz
+4c8a89318b3befd9aaac9c485a193d8a0ff2a40fbc369feda31e1d8829c30372  ./KubeTidy-krew-linux-amd64-v0.0.22.tar.gz
+ff2e3dc560e6a707bc0dc0a4911f4381032b7277b98fa435352edc88e570f89d  ./KubeTidy-krew-linux-arm64-v0.0.22.tar.gz
+cd157df65a7623b9925f2144e57b7ed534ba435fc57250bac56a3a412db0c62e  ./KubeTidy-linux-amd64-v0.0.22.tar.gz
+f089280824151e5fc64445d7eca1fe82f3df99441ce2d1aa8072556ecb01d791  ./KubeTidy-linux-arm64-v0.0.22.tar.gz
+ff7925d96e132ccf5d0905e4e4e7efb591e1b93615ecdec381a17305fa6b37c8  ./KubeTidy-psmodule_0.0.22.tar.gz
+cf46ebe9a5ab95324d9ffaf676a0b2de6e41bd7d9ef06d037a6195e97a126723  ./KubeTidy-windows-amd64-v0.0.22.zip
+499e49537737bd54dfa374bef4f515ee4bc0fc286d9bd92fc5702514d0c8c7c5  ./KubeTidy.yaml

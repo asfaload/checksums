@@ -1,0 +1,5 @@
+9feca6ea047f8001fd7331704892e82034fcb7bf075a48b4c8dff68b6a5dfcf7 ./ProjectDescription.xcframework.zip
+570bd98f0fbc6facdaeaaabdb181377ffe2af7071a713580d80e17b87eaad920 ./tuist.spec.json
+92a313cc79d798d422c8d9fb1802ee6102332c214a22d2f6b2252a7900cdc8e0 ./tuist.zip
+39b47ad8eda14233875abc8b845eebb0aa39a43f720d647c428582ba9cd89239  ./tuist-linux-x86_64.tar.gz
+b7d64f944f6cf513e13eaa4e9f353f10011da298481a137c51f693e8cdbf476d  ./tuist-linux-aarch64.tar.gz

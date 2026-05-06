@@ -1,0 +1,12 @@
+f48c2772a73455f2708eb9a5ab4d6c506611f9d324b068a169166017f5da881a  limesctl-3.12.0-darwin-amd64.tar.gz
+452e6adbc1bfbcaf1702b9cefae50ef727fe9a6ef05e4afcff68017c1fddf40a  limesctl-3.12.0-darwin-amd64.tar.gz.sbom.json
+1c9201d09662b9075e147885e4510e038878c6cd490e32ecc7619701e9e4c847  limesctl-3.12.0-darwin-arm64.tar.gz
+fb08523a6fe634a6b499f40cdf8585461e9ab995f9aff43f5decb735d6c1f77c  limesctl-3.12.0-darwin-arm64.tar.gz.sbom.json
+3c66107c305e46509f4eb985c2a59c91dccab05c8993b90ba2369b4186891e37  limesctl-3.12.0-linux-amd64.tar.gz
+e693b8886c8fdb2a9bfd0edf27de2a5c5277e70e8b9d04622958b297241b237b  limesctl-3.12.0-linux-amd64.tar.gz.sbom.json
+9719eeacc83dc293d0c19f71e4bef27c294b02a23c1b4507bee0379f926ed9c4  limesctl-3.12.0-linux-arm64.tar.gz
+dc855ee97e8c6129b8d1405872e148dc5ee1fae615ccadea5eb81370fede6942  limesctl-3.12.0-linux-arm64.tar.gz.sbom.json
+79f24e336c2640093d204232d678217d5030af67d4b9cb3e4dc8506e4089f2a5  limesctl-3.12.0-windows-amd64.zip
+0dca060eb7a1fd89a988c04e4369a5815b64dd67f3b2860d0d67f0e4e6866cd3  limesctl-3.12.0-windows-amd64.zip.sbom.json
+52ad50c212dd9625f33625324f251419f06b3311a87cac94248819cf450800ee  limesctl-3.12.0-windows-arm64.zip
+6107c43744ede510a471738ab9829802c0554397cebf4dd6fe95231d9078a781  limesctl-3.12.0-windows-arm64.zip.sbom.json

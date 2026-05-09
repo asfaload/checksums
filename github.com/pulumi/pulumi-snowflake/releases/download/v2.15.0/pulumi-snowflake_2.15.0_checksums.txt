@@ -1,0 +1,6 @@
+3f5389b9e8986c199ab155e11e7c79e531256cc0  ./pulumi-resource-snowflake-v2.15.0-darwin-amd64.tar.gz
+e1ccf75a186e081f4b652f08c8d8fa06b05263cd  ./pulumi-resource-snowflake-v2.15.0-darwin-arm64.tar.gz
+03bc8e7e68afe89e83bdfd3e66ec059dc21f3189  ./pulumi-resource-snowflake-v2.15.0-linux-amd64.tar.gz
+beaaaaa39ef4cd11e92fa749b566ea25c733a217  ./pulumi-resource-snowflake-v2.15.0-linux-arm64.tar.gz
+e5674eb05cb06d838a439b3e163cf47333a68be3  ./pulumi-resource-snowflake-v2.15.0-windows-amd64.tar.gz
+2c19e26e5f0491bc18c36bfc8d44b13c07ac0525  ./pulumi-resource-snowflake-v2.15.0-windows-arm64.tar.gz

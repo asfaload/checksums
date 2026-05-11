@@ -1,0 +1,4 @@
+9b80ef4a76d776c9d86c5a85df95ecf71da4c82143d1ab60b11faed5023a590c  linux-headers-7.1.0-rc3-mainline_20260512-1_amd64.deb
+94ce235194a4580897beb5a0673d259359bf901d4e45f00f55af0198f711d373  linux-image-7.1.0-rc3-mainline_20260512-1_amd64.deb
+ea9f14bab3cd782fa501d3433d1ddbf855ed04a5b74b034f4d3e1b755d47b6c1  linux-libc-dev_20260512-1_amd64.deb
+fa1d7c3a658c698668171beb140b3c4b0dcceeafbaf6f897d1fcff95d96fdec4  ../linux-7.1-rc3-mainline.tar.gz

@@ -1,0 +1,6 @@
+1e96449801cad7bae385344f25bb60328c131b87  ./pulumi-resource-akamai-v11.2.0-darwin-amd64.tar.gz
+a6fd0a730028f56fb64411a27656758c629bddf4  ./pulumi-resource-akamai-v11.2.0-darwin-arm64.tar.gz
+c9bea081fe2cf060893e8d14a6ba6d78802dd443  ./pulumi-resource-akamai-v11.2.0-linux-amd64.tar.gz
+6e61f4e088c0fea4abd28addff65f39a126402b6  ./pulumi-resource-akamai-v11.2.0-linux-arm64.tar.gz
+a25fa1606f58c69f805519369294408a2bc42069  ./pulumi-resource-akamai-v11.2.0-windows-amd64.tar.gz
+f7f15a31783bc78d42976419d2e678751acd5db8  ./pulumi-resource-akamai-v11.2.0-windows-arm64.tar.gz

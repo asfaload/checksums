@@ -1,0 +1,4 @@
+5411de394488be86d6dd1756e950c13cfdf7c90e44eaed252e70883b88a4d00c  release-v1.19.1-stable/nvidia-container-toolkit_1.19.1_deb_amd64.tar.gz
+5f184f7ec012afcf38d042f700d2dc4cb639d27dc057a2f97fe4246a4004d317  release-v1.19.1-stable/nvidia-container-toolkit_1.19.1_deb_arm64.tar.gz
+d438ad3d552cefc1d5c229fcd5a0e6f23dba07fa4e689284aa022edfde961b13  release-v1.19.1-stable/nvidia-container-toolkit_1.19.1_rpm_aarch64.tar.gz
+a4f4bc75fc401f7d0b9bbbe1c581de7210961f07a6312ad6e494ded74d4f396d  release-v1.19.1-stable/nvidia-container-toolkit_1.19.1_rpm_x86_64.tar.gz

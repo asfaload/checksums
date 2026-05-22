@@ -1,0 +1,6 @@
+a051c2222a68de4e1f4b4df105c93c0e60ac94e3  ./pulumi-resource-minio-v0.17.0-darwin-amd64.tar.gz
+dcb0ad209fc6a60c1894a06a47d2775f9b4bb70d  ./pulumi-resource-minio-v0.17.0-darwin-arm64.tar.gz
+37f4d17e6a3138f0b5a5ef0f1b8cf5b3785d4f1f  ./pulumi-resource-minio-v0.17.0-linux-amd64.tar.gz
+faadbef522f62c85b4ff35679d9a2b99b7ffddf6  ./pulumi-resource-minio-v0.17.0-linux-arm64.tar.gz
+347dee9d5ad5fa3c608aa9b17ea363ab578e539f  ./pulumi-resource-minio-v0.17.0-windows-amd64.tar.gz
+0d5dc461c09c1c689d41d9f6f7fbeaa888a86faa  ./pulumi-resource-minio-v0.17.0-windows-arm64.tar.gz

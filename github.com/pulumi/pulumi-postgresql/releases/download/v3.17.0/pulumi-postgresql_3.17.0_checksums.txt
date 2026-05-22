@@ -1,0 +1,6 @@
+1e7589bd96c37738cac191390e8890a22d9a0cfb  ./pulumi-resource-postgresql-v3.17.0-darwin-amd64.tar.gz
+767e63b03d0a85daac476acd3b08e8ba6cbf1b6c  ./pulumi-resource-postgresql-v3.17.0-darwin-arm64.tar.gz
+a331ea89b9f46dc2167021ead0c2e91a8e30c252  ./pulumi-resource-postgresql-v3.17.0-linux-amd64.tar.gz
+bdb0e4aad099c295ead38add67abb51767bcfd21  ./pulumi-resource-postgresql-v3.17.0-linux-arm64.tar.gz
+d7f5cb0c8db0701da01f914fbdebb72a2390b43d  ./pulumi-resource-postgresql-v3.17.0-windows-amd64.tar.gz
+286beb8aa4b78b8dcf1ba8bea6eced8b86bbd322  ./pulumi-resource-postgresql-v3.17.0-windows-arm64.tar.gz

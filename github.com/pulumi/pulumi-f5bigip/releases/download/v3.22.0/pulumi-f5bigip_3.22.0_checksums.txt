@@ -1,0 +1,6 @@
+2f155e1d5ce9ee1257f74f5b93ee566e75355f78  ./pulumi-resource-f5bigip-v3.22.0-darwin-amd64.tar.gz
+fa4e8d49f4e42cfc2eba4fac4b9469e62b0129e1  ./pulumi-resource-f5bigip-v3.22.0-darwin-arm64.tar.gz
+49417c74f1bbbbde991ca63aaa23debe1a72247d  ./pulumi-resource-f5bigip-v3.22.0-linux-amd64.tar.gz
+2b7e96691a8776fd6c0d92624b1d8603a122808d  ./pulumi-resource-f5bigip-v3.22.0-linux-arm64.tar.gz
+14a540ad634028a79ff79985aaf0119e6acaaa15  ./pulumi-resource-f5bigip-v3.22.0-windows-amd64.tar.gz
+42e7a3de0c24aa6771e6dbff857a069984617cbb  ./pulumi-resource-f5bigip-v3.22.0-windows-arm64.tar.gz

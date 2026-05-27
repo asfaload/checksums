@@ -1,0 +1,12 @@
+f6af0a4bda756783fb1243948ac0c665ccc5b58c65e88e8642a22f3ac1bd01d4  external-dns-openstack-webhook-2.2.0.darwin-amd64.tar.gz
+45627cb98e004fa164549c7d86d764e06a6ae6fe6ae93e5bb085cb3987a8007a  external-dns-openstack-webhook-2.2.0.darwin-arm64.tar.gz
+dd9e1dc8f59ef5e375dfd495290b1c781534794954a4e6bde050cf7ea2a90028  external-dns-openstack-webhook-2.2.0.freebsd-amd64.tar.gz
+b4b90af40085fe8b1cd99537568d9814e0ae9f29a01b2b0e76200392620f36df  external-dns-openstack-webhook-2.2.0.freebsd-arm64.tar.gz
+b62c2bcc3df798e671ac89846ae1e5922bccd5be055d80998589c2a49e7d935e  external-dns-openstack-webhook-2.2.0.freebsd-armv5.tar.gz
+630389d8bdac31464339353f1082be635363d8ed9767ceb582c6a6430eae41a2  external-dns-openstack-webhook-2.2.0.freebsd-armv6.tar.gz
+782978d8dd34ea4cf0401a2608200d4a2d9e8bb72aa65125264d2ff896003508  external-dns-openstack-webhook-2.2.0.freebsd-armv7.tar.gz
+3e2fda0bd068b847627f58a572c6493f434906eed5700cbf7e79324cf593d758  external-dns-openstack-webhook-2.2.0.linux-amd64.tar.gz
+434a4cbef284d80b0bced9c728d3a7fdefea52b13d56849e0b201b2595f5fe4f  external-dns-openstack-webhook-2.2.0.linux-arm64.tar.gz
+89a2b501b613a0ff4184f135bab206c345886a1b327ee3cb05d256d1354e1801  external-dns-openstack-webhook-2.2.0.linux-armv5.tar.gz
+eeb336b7ddfec7303dcf41a4d1bc554cf5e1696acc73a5d38dbebd5c68417d0a  external-dns-openstack-webhook-2.2.0.linux-armv6.tar.gz
+23fca6723984ffb106edb85a6a16823bbd27485664dcd308e29de687e0292bca  external-dns-openstack-webhook-2.2.0.linux-armv7.tar.gz

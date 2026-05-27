@@ -1,0 +1,9 @@
+### TypeSwitch v0.5.2
+
+- Universal Binary (Apple Silicon + Intel)
+- macOS 14.0+
+
+### SHA-256 Checksums
+```
+f2e310d93a65a4d906f6026f8c7f02c693b5d9062e926c019f9f4171e6505397  TypeSwitch-macOS-universal.zip
+```

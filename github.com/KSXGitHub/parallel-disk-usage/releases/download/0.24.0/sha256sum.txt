@@ -1,0 +1,5 @@
+43f0e13932e4a28231e322f228f0f7bd8dae53773f24ba5ffa2f548bf4627972  pdu-x86_64-apple-darwin
+24f8d34af07bb9c3c9f57b15812382d6e788a6fc895c8a68b72f95fe19b977c5  pdu-x86_64-pc-windows-gnu.exe
+1133cde2e4cf3448b5fa6facd2883391d88957057da625a5ab910e7d7c15c36e  pdu-x86_64-pc-windows-msvc.exe
+ad715bb07bae5938a932ad1db96c5c68c22cb99bbe45f85efd63c5b46ad61a05  pdu-x86_64-unknown-linux-gnu
+b991a68c1555d9144ea8ef2dd8cab91efb0b90ec8be53fdec4d0b2dd0e596f56  pdu-x86_64-unknown-linux-musl

@@ -1,0 +1,6 @@
+8825c41b2fcc972ef390900a88b1db7297ce77ab7795da2f2b92cfd587cedabe  bitrise-Darwin-arm64
+76ddedbeb6bdf493c39b72f2023f11748fda0fd41f84740e885053a5a8fa2968  bitrise-Darwin-x86_64
+ddce0ab3008fc6631987ab14d6520020bebf7551eec14b229bb6d01ca3f3cc89  bitrise-Linux-x86_64
+76ddedbeb6bdf493c39b72f2023f11748fda0fd41f84740e885053a5a8fa2968  bitrise-cli-darwin-amd64-v2.40.4
+8825c41b2fcc972ef390900a88b1db7297ce77ab7795da2f2b92cfd587cedabe  bitrise-cli-darwin-arm64-v2.40.4
+ddce0ab3008fc6631987ab14d6520020bebf7551eec14b229bb6d01ca3f3cc89  bitrise-cli-linux-amd64-v2.40.4

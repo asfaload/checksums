@@ -1,0 +1,4 @@
+cdd3f68df45b68bce7e36b7a5fe45a9d90cd5940548f2c96011e037ab0a8a2cc  k8s-image-swapper_1.6.5_darwin_amd64
+556b4b122a06adeb5a7aaaa9441729e1d46c37a4c7d55a1440d2a370e2c0bbb5  k8s-image-swapper_1.6.5_darwin_arm64
+e8ca5f25290b554383aa2fa620586ba0cc1eeb0582c54570ebc02de0e9852e0e  k8s-image-swapper_1.6.5_linux_amd64
+9f2ad4757f14248f12f9dc39e8a15f0e6d4071266e99a41ee3bcef621d14acf9  k8s-image-swapper_1.6.5_linux_arm64

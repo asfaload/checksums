@@ -1,0 +1,14 @@
+df59817bb974f53687718a19777e9a459c596a535b69bba267d6a6fcde9f3a70  terraform-provider-cato_0.0.83-beta.1_darwin_amd64.tar.gz
+bdfe87ff6a77da8f2040cb5dfef0810d15bc9b2e40b2593c9022fdf814923521  terraform-provider-cato_0.0.83-beta.1_darwin_arm64.tar.gz
+09e29d53d111b5aa89ece42ea63b6546263d8840e9b35d1260424c925b28e3ad  terraform-provider-cato_0.0.83-beta.1_freebsd_386.tar.gz
+df89257ca5e8dd325c4496d026a0f31a040caf10a026534bdb4c4f55a24227b8  terraform-provider-cato_0.0.83-beta.1_freebsd_amd64.tar.gz
+4f6e8fc1ffc8b6993e1915168833197421bb741322e795e8c0ed012bcfa9fd1d  terraform-provider-cato_0.0.83-beta.1_freebsd_arm.tar.gz
+e5b912a29c89e3a352b5e07d318728d700dba17337a3be423ca56d6b251b79a2  terraform-provider-cato_0.0.83-beta.1_freebsd_arm64.tar.gz
+b8490a2840495437a74f83be4e97728c42b0cadeae01648e3bd1186096d1ca56  terraform-provider-cato_0.0.83-beta.1_linux_386.tar.gz
+286dc8ff136e4869762aeb07181c65e820905f3e6b6528dbc0e597361293be53  terraform-provider-cato_0.0.83-beta.1_linux_amd64.tar.gz
+8d5bd21216e5a5a7546fee03a7633ffd22bc83cdad906041ade31560b75aa282  terraform-provider-cato_0.0.83-beta.1_linux_arm.tar.gz
+5ffd7bb82ecdf516adf0900f573e6c57329f5cc1d2369e3afded7f95a7a51de8  terraform-provider-cato_0.0.83-beta.1_linux_arm64.tar.gz
+890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f  terraform-provider-cato_0.0.83-beta.1_manifest.json
+5753ace5d2951545825d894d7ab9a6124fc3a2267a1d2dc93b2faf15257b773a  terraform-provider-cato_0.0.83-beta.1_windows_386.tar.gz
+721fe4195d9cf39021417d54aa4c36a5866b733f4ca525d58b0038b05aadd4c9  terraform-provider-cato_0.0.83-beta.1_windows_amd64.tar.gz
+f5537dd261b8ab48574a537fc53302953eb18cf240bb050e8ac94a8824baf7e0  terraform-provider-cato_0.0.83-beta.1_windows_arm64.tar.gz

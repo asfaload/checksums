@@ -1,0 +1,8 @@
+5a18518dfbd202a3676a4b31885b3be6054cad25b142edcaa3b3f8fa24bd31e4 *source.tar.gz
+5c96d12014c760dfe11d6450f67aa77acc206109e52a4200d7d1df4ca9cb2aaa *tower-aarch64-apple-darwin.tar.xz
+29b1b80a02e0fab3964d969ab1f67a338923450695ae5f7347b4f7740e711a8a *tower-aarch64-unknown-linux-gnu.tar.xz
+60b2e22c8b88c42601efdbab04320caf8d87a9c5aa90a80006c759098368984f *tower-aarch64-unknown-linux-musl.tar.xz
+a77f0bcb5f217a7535e2fac4a3f7af82171aed1ecfb82fb7c54b5d15a7c4b200 *tower-x86_64-apple-darwin.tar.xz
+286e0302dec5fd126f943e4a37c39e7797acd3c052922d106204d3fd39383f94 *tower-x86_64-unknown-linux-gnu.tar.xz
+2f971e338bcc36ba6e1740e9f455baabd8d899a164e6ae72b82a8f89ed544cfc *tower-x86_64-unknown-linux-musl.tar.xz
+

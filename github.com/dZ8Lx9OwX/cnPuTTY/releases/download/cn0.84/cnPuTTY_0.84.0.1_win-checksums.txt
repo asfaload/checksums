@@ -1,0 +1,105 @@
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          A8511CE7BF7F3469E163339956EFE21B3731FE49EBC7508CB722E9F8C4762F88       32\cnPageant.exe
+SHA256          73B74B85FF04D84CD75597402AD711F3267791496C1E10588C88A14D224C1B3F       32\cnPageant.exe.sig
+SHA256          61975F429F04FBFA8DEC68689AB8317F876E2490E0CCE23DF9B55D8CFCA9D066       32\cnPuTTY.exe
+SHA256          27853FFA264D67ECFBAD3C3AC586D0E0C04EF7BD51341A855C884256E6E66582       32\cnPuTTY.exe.sig
+SHA256          6ECB83029FDD03F4D3E8E351D16F8FE6C2D0392FE37A43942C69A2737999105F       32\cnPuTTYgen.exe
+SHA256          EB03F3B709D8D7644F6375ADA9BF064E25509BDBBE53DA7F005DBA7AFDF381C2       32\cnPuTTYgen.exe.sig
+SHA256          803928778E5F6233F21D04A372C825B27F2BC7C8227DFC4102BEFFD1C177C2AA       32\cnPuTTYtel.exe
+SHA256          34EECAD178BC1F55B3606BD51EC38FA87A754C45418E8140A5D85AB59B9C51DF       32\cnPuTTYtel.exe.sig
+SHA256          A12C62728B2569E487F43C1377D3348567B85A4AAF22A7F37DE31BB299541AB9       32\plink.exe
+SHA256          A50F25AE9459A2DDB490AC8E23C841BE40D0840E140EABB019F85A84EEF48E2F       32\plink.exe.sig
+SHA256          8267ABF8627596A01EBC2DEBB6207A283C939036EC2D1A8E0714488AFFED30FC       32\pscp.exe
+SHA256          1B7CE824D5C350B1AEDAF92780C04A56C182B2036ACE21D93C09DF7F7B6C62F2       32\pscp.exe.sig
+SHA256          C4EA4F7F38322D0D6BDB6407C1E88FC22C220B8F26751982F158B44800FBDE05       32\psftp.exe
+SHA256          DBD565C1DA3D4EAB69E0EB9A4A39ACB20D7BD6DCE3BA7F51468E86AE8026AE6A       32\psftp.exe.sig
+SHA256          65284F8F8AB59306ECB4856D7089061D5F60A873F2687E9FB9C9D839E90103C7       64\cnPageant.exe
+SHA256          E1B8351F1F2844FF2CD8A5F8DE1DBA63DEA1DE2382FF9EE3BDD158A4D94A0FA9       64\cnPageant.exe.sig
+SHA256          94B176CEE294AF99502BA44FD1F1812276EB08FD4580BE53EEE78F8AB98A3733       64\cnPuTTY.exe
+SHA256          5A4A5A1E685A6F06C58112856B2001DA3A708221B9884B062C8F328AC6D2300B       64\cnPuTTY.exe.sig
+SHA256          BA051E03C24A6A4ABFE4B34D66DB6C43BAEAC9BC6476FC8ACCD491E78A886B63       64\cnPuTTYgen.exe
+SHA256          D6CEF01EF02BA300BF92BBB9933652CE8B6015813AE99EB99BD1D26DA6AC8A57       64\cnPuTTYgen.exe.sig
+SHA256          4EC5ADA63E99D4609C0C90B05917BFAC8EFB252147EDA2FE0D71471CA3223BFE       64\cnPuTTYtel.exe
+SHA256          6DA20291412DC14CB1A174D0AB5FAA5A5BF365A53732FFC263C28136D4EE022B       64\cnPuTTYtel.exe.sig
+SHA256          4304EE7A0E87E595056DE28FDDC4EC8A9483C11890F1AD5090BD7EB13C694423       64\plink.exe
+SHA256          B3CA3AC4EB3B555D4856A434D43CBC95DA8916ED814051D2E6033D7DD5373C73       64\plink.exe.sig
+SHA256          A8F55DB20BB10FC7893F1F7F74E5DFA60483FCC43CA4CF0572D1B32331C652EC       64\pscp.exe
+SHA256          9450E02ACE8B79722DB0E1827004B5A7B200959FCBDDC74089A81322CB7FDE19       64\pscp.exe.sig
+SHA256          0D88D489C09D00ADD88A4B273A9B9941191263B3B4C1DFE0C7C02917D7D26F76       64\psftp.exe
+SHA256          49D2FC1AC4D823C7F883C4329E88ECCFA3482697B90E9551115277C198018DCF       64\psftp.exe.sig
+SHA256          17B17E94E2C5783ED3C39B6E0A794FB19A8FF9052E7D29C3A4E00A2292B7B22F       cnPuTTY_0.84.0.1_win_32-bit_x86.zip
+SHA256          9FEEBB384233D83D6A2B44FE1B35FCC0AEDA52A79AFD95B5B1BF24D488D21BCB       cnPuTTY_0.84.0.1_win_64-bit_x86.zip
+
+
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA1            3D5A8EF4538AB5B5A7CE64CF36F987A3CAC7D160                               32\cnPageant.exe
+SHA1            2832544B96065B8B71FED7B14B82854BE08E7D2C                               32\cnPageant.exe.sig
+SHA1            8798CB78B6B3B20ED77DEE2261AA1D3F01CB5514                               32\cnPuTTY.exe
+SHA1            E7DEA356C685277465DE347805A9422915090E07                               32\cnPuTTY.exe.sig
+SHA1            DE7DDBCA365C39D80A02029FDCD70397D295A5CD                               32\cnPuTTYgen.exe
+SHA1            B162FCCB56729AD76EFC2691A463D9C38528C448                               32\cnPuTTYgen.exe.sig
+SHA1            8B9BD819D885B5B5F05731E8FF857B766435DFBA                               32\cnPuTTYtel.exe
+SHA1            FDD97C51F04364D3715EAD71D85504A6405C4ED5                               32\cnPuTTYtel.exe.sig
+SHA1            49208F934D653144C8D381AAEC8533AA52127557                               32\plink.exe
+SHA1            123210B11158B11EDD832B26EAE077FB44555868                               32\plink.exe.sig
+SHA1            1422621C61870E9345CC04B014BD1E238F277159                               32\pscp.exe
+SHA1            16D9076A1A76041F775825848DA398F6A75ADCE7                               32\pscp.exe.sig
+SHA1            A72225F04DDF3B1368933632F0BF95C324C72800                               32\psftp.exe
+SHA1            9CDE3AD385D157EC4BD692506935AA8A1DEB7CEC                               32\psftp.exe.sig
+SHA1            F127417CB9731193F872E8AC0A28F0A87FAA6532                               64\cnPageant.exe
+SHA1            925101AF00CD346DC41D127F7CDC40F931C9FFFF                               64\cnPageant.exe.sig
+SHA1            C1A29E179937C3CB1D1E0AA9788033E75C798DE6                               64\cnPuTTY.exe
+SHA1            F786545DB1279A09BAEDD49FEDB4507B64DBA7F2                               64\cnPuTTY.exe.sig
+SHA1            F75E0E7C69FDF4272712B48C2103F720A4958BC3                               64\cnPuTTYgen.exe
+SHA1            731D807BE31C54B1643BA89A26606E918EBC3DE1                               64\cnPuTTYgen.exe.sig
+SHA1            C5812FEFC29BBDEFF02891A330F421BC956323DF                               64\cnPuTTYtel.exe
+SHA1            BCFE8D59E3EF0846DA44397667A09D6B08D2604E                               64\cnPuTTYtel.exe.sig
+SHA1            F66961B6549846600C097B81977CDCA6FECB9422                               64\plink.exe
+SHA1            35B2994BF558DEA701AE228B58EDD4B9A58B3168                               64\plink.exe.sig
+SHA1            A8B7D643E9828B1EF1E47213E396321B466B2FA8                               64\pscp.exe
+SHA1            942DA02E13BF16636AAE2C6EC4593D70B3CC0D33                               64\pscp.exe.sig
+SHA1            092E00AED4B09252AEF7CAED66D948BCB618581C                               64\psftp.exe
+SHA1            36D5BB7EFFA0E1219A7445E9365C28A163802C39                               64\psftp.exe.sig
+SHA1            5746B4B130AA51294244741E857866433D3A4285                               cnPuTTY_0.84.0.1_win_32-bit_x86.zip
+SHA1            3DA50F9CB4A56A281A79A09953CEA3E671775413                               cnPuTTY_0.84.0.1_win_64-bit_x86.zip
+
+
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+MD5             5EFD3B997D9CE1D2E0905EC9784E26AE                                       32\cnPageant.exe
+MD5             398A3C46587A2732CFBEAAB1CB833288                                       32\cnPageant.exe.sig
+MD5             798CBBBB092A2BB368E7538647AF69E4                                       32\cnPuTTY.exe
+MD5             711154DE83198D8D395F3760BA4D74A0                                       32\cnPuTTY.exe.sig
+MD5             D42C0B58FF729B1DE7599D7882CC0BDC                                       32\cnPuTTYgen.exe
+MD5             842F93FE234C583374BBA143A39CC65F                                       32\cnPuTTYgen.exe.sig
+MD5             A90D37BDA823FA344901EF8531A9D3A4                                       32\cnPuTTYtel.exe
+MD5             A860ABC3264DC127F9A4C5D8B898EDA4                                       32\cnPuTTYtel.exe.sig
+MD5             F059A6CBA0065A3C82EBE720B6F9B35B                                       32\plink.exe
+MD5             11AEBA9A0219C95831595269B04CCC53                                       32\plink.exe.sig
+MD5             5B67558B1F81D3CF10B7A8D1E3894E8F                                       32\pscp.exe
+MD5             6F55BB6D123A7E8E6CA115F99273A6E2                                       32\pscp.exe.sig
+MD5             BF047DEB36F8FFBA91BD0079EEC66BA4                                       32\psftp.exe
+MD5             0BC73FDC217DA0017162F66DF917BAA7                                       32\psftp.exe.sig
+MD5             04BBAEFB178802AB9F2518A43877DF95                                       64\cnPageant.exe
+MD5             8C4C8A439F12082C7B7A549268ECF3BF                                       64\cnPageant.exe.sig
+MD5             A4BB4579145E23F70AECBD6FCE2307D3                                       64\cnPuTTY.exe
+MD5             17A503E2487AD42265456208D5FE343E                                       64\cnPuTTY.exe.sig
+MD5             933A68C1AD350DC0C50D06C5A0157670                                       64\cnPuTTYgen.exe
+MD5             4E0FCCE3AA5FCF3CB0E8FB8FE33B16E1                                       64\cnPuTTYgen.exe.sig
+MD5             63E5DE03E62CDD85C555830ECADF3540                                       64\cnPuTTYtel.exe
+MD5             38AAE00CB8F9035D12D7488F1DD3B523                                       64\cnPuTTYtel.exe.sig
+MD5             5BB0FAC55308C6C26056279C313F64AC                                       64\plink.exe
+MD5             A64F543D807EE95E450F324E07D5C229                                       64\plink.exe.sig
+MD5             2BE676FFF46796B6937588B550EE83D4                                       64\pscp.exe
+MD5             D52E77467624343421F6CF39C09ECFEB                                       64\pscp.exe.sig
+MD5             8F31FB07ADB2AB35222756B013BCF271                                       64\psftp.exe
+MD5             1CF089715CE53ED465ABEBEBE53AD027                                       64\psftp.exe.sig
+MD5             B712A3B926E61631B10D11264F3FA9EB                                       cnPuTTY_0.84.0.1_win_32-bit_x86.zip
+MD5             B900771C49DB0B50789A971B45AC8630                                       cnPuTTY_0.84.0.1_win_64-bit_x86.zip
+
+

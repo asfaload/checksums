@@ -1,0 +1,6 @@
+98ad1d9fd7b2302228d19c0f7ca732279923681aa9de525c00a7e757fde0eaa8  kubectl-kubestash-linux-amd64.tar.gz
+5d9e75cde9326908dd5d8330611c312891a8f54749f2635e6132cd5b80423a26  kubectl-kubestash-linux-arm.tar.gz
+3d1fc3f92a46b3bfe38fe3449f264c3c1934df0ed9c42207b9f5a42a7ab33c70  kubectl-kubestash-linux-arm64.tar.gz
+369a0a91bcbfaae86d6744320083f89fcefc08cdb84605a107cad925d5717b16  kubectl-kubestash-windows-amd64.zip
+894c41ffb1b67a9c12dcf47ce39b28db09559ed2cff48c8f2dd9c82dcac1ab65  kubectl-kubestash-darwin-amd64.tar.gz
+f40581414630298e64bdc99ead001449f1b374d0ae402b616ff1d16ca9664339  kubectl-kubestash-darwin-arm64.tar.gz

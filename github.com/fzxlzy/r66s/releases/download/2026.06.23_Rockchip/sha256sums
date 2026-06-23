@@ -1,0 +1,4 @@
+db35ec22df611ad4162ab42b433d317831651b69960f625c5176732a3d855c6a *openwrt-rockchip-armv8-fastrhino_r66s-ext4-sysupgrade.img.gz
+c6edccf0ad52f331403138cfa9a4cacfae66fd32df6fdb5b162b87488b9b247b *openwrt-rockchip-armv8-fastrhino_r66s-squashfs-sysupgrade.img.gz
+b53f657f09a9c285692ef3d2688b2d030c975acdff143560ae0fe1313d973b40 *openwrt-rockchip-armv8.manifest
+4082ac505365696e8ee57af63cd01ebeb2c03fbf8c42a0d9cf13b59646d94642 *profiles.json

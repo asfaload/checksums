@@ -1,0 +1,8 @@
+a737a226320ffea4e739168bbaa7475a9bf67d61031a0ced86e07c789560a174  go-cli-github_0.28.0_darwin_amd64.tar.gz
+6304848423688974f6aaa5ba70e034f3a38d2e5ed358799f1bf2616ac758a9fb  go-cli-github_0.28.0_darwin_amd64.tar.gz.sbom.json
+dd9d9ad41d7c22e430b342c705a9a90a46f56bafdac5928eda469fb2982cf6f8  go-cli-github_0.28.0_darwin_arm64.tar.gz
+b70191f58858a0e457137af488a4e5936a6f32c4532bd18227dcb54901564b74  go-cli-github_0.28.0_darwin_arm64.tar.gz.sbom.json
+99ed8fbb74343e11f5c8711513c42651672f0a7a642438f3ca76f6b90e160cb4  go-cli-github_0.28.0_linux_amd64.tar.gz
+27d08ee5fa010bd2aa871c4e052de8c6ae4b5332428ab2da5fbf841a7c943eb5  go-cli-github_0.28.0_linux_amd64.tar.gz.sbom.json
+e549da856595256a01f67f2fdb246c7d3651f3c00c0a0306a237301288e31a1e  go-cli-github_0.28.0_linux_arm64.tar.gz
+bb69aa052828627150903278b6d886889cb2fa07f193b1eae1baee1e4797d2ce  go-cli-github_0.28.0_linux_arm64.tar.gz.sbom.json

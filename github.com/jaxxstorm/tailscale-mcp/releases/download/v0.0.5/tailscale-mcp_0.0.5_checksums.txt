@@ -1,0 +1,6 @@
+c4a25bc614fed80c4ee497b61b3202406909a3a2414cf7cd743643cc9d1a7a07  tailscale-mcp-v0.0.5-darwin-amd64.tar.gz
+ef05849f8a44eba6b523270ca798493323c927c8ed9e072825f1015495052b2f  tailscale-mcp-v0.0.5-darwin-arm64.tar.gz
+73ad8721c81366ceb64332487b9e5963b18a29a679af2bf355452e26e016a592  tailscale-mcp-v0.0.5-linux-amd64.tar.gz
+b43c20b0e296d57eda226375d478a4ec7cdf1488d4b55243b5d545cf3415074a  tailscale-mcp-v0.0.5-linux-arm64.tar.gz
+8dcf0a802b13b69b9f5877826ce7ceb4deb037b617f759e12a79ac428d69e0cc  tailscale-mcp-v0.0.5-windows-amd64.zip
+643244c0d29c09fb72c8168119e3e597b7f040578db4fd1217cb80c27ffec718  tailscale-mcp-v0.0.5-windows-arm64.zip

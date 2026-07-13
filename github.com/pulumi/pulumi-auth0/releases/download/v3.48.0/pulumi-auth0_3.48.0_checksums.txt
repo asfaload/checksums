@@ -1,0 +1,6 @@
+a92a8cb25d30528128f32a8a8a47c1c507b2f14c  ./pulumi-resource-auth0-v3.48.0-darwin-amd64.tar.gz
+b69812ba3afd0ffd70ca61d0cc9a2c782bc58ed5  ./pulumi-resource-auth0-v3.48.0-darwin-arm64.tar.gz
+db3348627a84bc85a3e09a7ba64469b08b3084f8  ./pulumi-resource-auth0-v3.48.0-linux-amd64.tar.gz
+f9b937f5c68a32e98d9dccc04962c82eeef47a5f  ./pulumi-resource-auth0-v3.48.0-linux-arm64.tar.gz
+cb1ddf9ce721cfebf69fcfc4101b57b334e650ef  ./pulumi-resource-auth0-v3.48.0-windows-amd64.tar.gz
+073042afc76fce6a1203c0a3369aa85cc9f5e620  ./pulumi-resource-auth0-v3.48.0-windows-arm64.tar.gz

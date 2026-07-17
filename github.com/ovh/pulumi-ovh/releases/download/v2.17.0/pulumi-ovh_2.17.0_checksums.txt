@@ -1,0 +1,5 @@
+038105758eef9b3ddc39b505266d374771dc8b2e  ./pulumi-resource-ovh-v2.17.0-darwin-amd64.tar.gz
+6b282e677a508789904351bcc6978abe5aea6213  ./pulumi-resource-ovh-v2.17.0-darwin-arm64.tar.gz
+5688ef5fb46806e2198aad8149b6e30ce58c55e1  ./pulumi-resource-ovh-v2.17.0-linux-amd64.tar.gz
+ab41b40ae7466889dfcfbdc73f8d33646ee6b901  ./pulumi-resource-ovh-v2.17.0-linux-arm64.tar.gz
+085fa3dc132d061eb6f03620b2d38bc1a785b1c6  ./pulumi-resource-ovh-v2.17.0-windows-amd64.tar.gz

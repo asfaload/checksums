@@ -1,0 +1,9 @@
+637de1da541fe7456c36c58c83c04c4239ee296f74aa6c46e14afa92f7034d6f  ./splunk-opentelemetry-dotnet-linux-glibc-arm64.zip
+9daaf0c3a33a83648480a0e8c87307b59a22e347c708568cc73d0f1b5bb880b1  ./splunk-opentelemetry-dotnet-linux-glibc-x64.zip
+46cbaa130aecb1af02b222246418f9f4b21ca57ac3ccff265d501af476e03a02  ./splunk-opentelemetry-dotnet-linux-musl-arm64.zip
+c7d2bea6cb404f0e63dd2710222be0c45e2771c1e9268b59120aa438087269f3  ./splunk-opentelemetry-dotnet-linux-musl-x64.zip
+9a7ac9a2e4aa74381f66ac6acda1979865ee94eaac578043ff0da08a3adb16f1  ./splunk-opentelemetry-dotnet-macos.zip
+48c82cd67d7edf2f3435cc249061f1241bd28741e6df3417a7b841feff7cf5b0  ./splunk-opentelemetry-dotnet-windows.zip
+a972875aef8f05d75fd0edfc3ecabdd1ba4ac55c4bdabe0fcbda73503b6f769b  ./nuget-package/Splunk.OpenTelemetry.AutoInstrumentation.1.15.0.nupkg
+eaef11652c7ea9bab1d8f7bbaed75007407b52ebda1b627fb87d90c4794c4edb  ./splunk-otel-dotnet-install.sh
+688355c3a22c94f352c0921771bfd99da6c07f48f15fe95735132a99ab53428f  ./Splunk.OTel.DotNet.psm1

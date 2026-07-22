@@ -1,0 +1,20 @@
+{
+  "flavor": "amp-devcontainer-docs",
+  "tools": [
+    {
+      "name": "graphviz",
+      "version": "14.1.2-1ubuntu1",
+      "purl": "pkg:deb/ubuntu/graphviz@14.1.2-1ubuntu1?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "plantuml",
+      "version": "1:1.2020.2+ds-6build1",
+      "purl": "pkg:deb/ubuntu/plantuml@1%3A1.2020.2%2Bds-6build1?arch=all&distro=ubuntu-26.04"
+    },
+    {
+      "name": "sbdl",
+      "version": "1.25.4",
+      "purl": "pkg:pypi/sbdl@1.25.4"
+    }
+  ]
+}

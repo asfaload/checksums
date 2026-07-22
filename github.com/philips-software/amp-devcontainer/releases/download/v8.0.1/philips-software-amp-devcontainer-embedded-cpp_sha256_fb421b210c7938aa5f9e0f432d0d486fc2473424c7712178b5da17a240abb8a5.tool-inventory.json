@@ -1,0 +1,95 @@
+{
+  "flavor": "amp-devcontainer-embedded-cpp",
+  "tools": [
+    {
+      "name": "arm-gnu-toolchain",
+      "version": "15.2.rel1",
+      "purl": "pkg:generic/arm-gnu-toolchain@15.2.rel1"
+    },
+    {
+      "name": "ccache",
+      "version": "4.13.1",
+      "purl": "pkg:generic/ccache@4.13.1"
+    },
+    {
+      "name": "clang-22",
+      "version": "1:22.1.2-1ubuntu1",
+      "purl": "pkg:deb/ubuntu/clang-22@1%3A22.1.2-1ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-22"
+    },
+    {
+      "name": "clang-format-22",
+      "version": "1:22.1.2-1ubuntu1",
+      "purl": "pkg:deb/ubuntu/clang-format-22@1%3A22.1.2-1ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-22"
+    },
+    {
+      "name": "clang-tidy-22",
+      "version": "1:22.1.2-1ubuntu1",
+      "purl": "pkg:deb/ubuntu/clang-tidy-22@1%3A22.1.2-1ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-22"
+    },
+    {
+      "name": "clang-tools-22",
+      "version": "1:22.1.2-1ubuntu1",
+      "purl": "pkg:deb/ubuntu/clang-tools-22@1%3A22.1.2-1ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-22"
+    },
+    {
+      "name": "clangd-22",
+      "version": "1:22.1.2-1ubuntu1",
+      "purl": "pkg:deb/ubuntu/clangd-22@1%3A22.1.2-1ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-22"
+    },
+    {
+      "name": "cmake",
+      "version": "4.3.4",
+      "purl": "pkg:pypi/cmake@4.3.4"
+    },
+    {
+      "name": "conan",
+      "version": "2.30.0",
+      "purl": "pkg:pypi/conan@2.30.0"
+    },
+    {
+      "name": "g++-15",
+      "version": "15.2.0-16ubuntu1",
+      "purl": "pkg:deb/ubuntu/g%2B%2B-15@15.2.0-16ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=gcc-15"
+    },
+    {
+      "name": "gcovr",
+      "version": "8.6",
+      "purl": "pkg:pypi/gcovr@8.6"
+    },
+    {
+      "name": "gdb-multiarch",
+      "version": "17.1-2ubuntu1",
+      "purl": "pkg:deb/ubuntu/gdb-multiarch@17.1-2ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=gdb"
+    },
+    {
+      "name": "include-what-you-use",
+      "version": "0.26",
+      "purl": "pkg:generic/include-what-you-use@0.26"
+    },
+    {
+      "name": "lld-22",
+      "version": "1:22.1.2-1ubuntu1",
+      "purl": "pkg:deb/ubuntu/lld-22@1%3A22.1.2-1ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-22"
+    },
+    {
+      "name": "llvm-22",
+      "version": "1:22.1.2-1ubuntu1",
+      "purl": "pkg:deb/ubuntu/llvm-22@1%3A22.1.2-1ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-22"
+    },
+    {
+      "name": "mull-22",
+      "version": "0.34.0",
+      "purl": "pkg:deb/ubuntu/mull-22@0.34.0?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "ninja-build",
+      "version": "1.13.2-1",
+      "purl": "pkg:deb/ubuntu/ninja-build@1.13.2-1?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "xwin",
+      "version": "0.8.0",
+      "purl": "pkg:generic/xwin@0.8.0"
+    }
+  ]
+}

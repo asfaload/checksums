@@ -1,0 +1,35 @@
+{
+  "flavor": "amp-devcontainer-rust",
+  "tools": [
+    {
+      "name": "cargo-binstall",
+      "version": "1.21.0",
+      "purl": "pkg:generic/cargo-binstall@1.21.0"
+    },
+    {
+      "name": "cargo-binutils",
+      "version": "0.3.6",
+      "purl": "pkg:generic/cargo-binutils@0.3.6"
+    },
+    {
+      "name": "cargo-mutants",
+      "version": "25.3.1",
+      "purl": "pkg:generic/cargo-mutants@25.3.1"
+    },
+    {
+      "name": "g++-15",
+      "version": "15.2.0-16ubuntu1",
+      "purl": "pkg:deb/ubuntu/g%2B%2B-15@15.2.0-16ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=gcc-15"
+    },
+    {
+      "name": "rust",
+      "version": "1.94.1",
+      "purl": "pkg:generic/rust@1.94.1"
+    },
+    {
+      "name": "rustup",
+      "version": "1.27.1-8",
+      "purl": "pkg:deb/ubuntu/rustup@1.27.1-8?arch=amd64&distro=ubuntu-26.04"
+    }
+  ]
+}

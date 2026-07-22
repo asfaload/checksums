@@ -1,0 +1,35 @@
+{
+  "flavor": "amp-devcontainer-base",
+  "tools": [
+    {
+      "name": "bats",
+      "version": "1.13.0",
+      "purl": "pkg:npm/bats@1.13.0"
+    },
+    {
+      "name": "bats-assert",
+      "version": "2.2.4",
+      "purl": "pkg:npm/bats-assert@2.2.4"
+    },
+    {
+      "name": "bats-support",
+      "version": "0.3.0",
+      "purl": "pkg:npm/bats-support@0.3.0"
+    },
+    {
+      "name": "git",
+      "version": "1:2.53.0-1ubuntu1",
+      "purl": "pkg:deb/ubuntu/git@1%3A2.53.0-1ubuntu1?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "gnupg2",
+      "version": "2.4.8-4ubuntu3",
+      "purl": "pkg:deb/ubuntu/gnupg2@2.4.8-4ubuntu3?arch=all&distro=ubuntu-26.04"
+    },
+    {
+      "name": "wget",
+      "version": "1.25.0-2ubuntu4.3",
+      "purl": "pkg:deb/ubuntu/wget@1.25.0-2ubuntu4.3?arch=amd64&distro=ubuntu-26.04"
+    }
+  ]
+}

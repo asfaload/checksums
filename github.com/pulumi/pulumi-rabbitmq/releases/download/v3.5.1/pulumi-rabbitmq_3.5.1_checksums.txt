@@ -1,0 +1,6 @@
+2f47d455725f42e938f1e5addffaac235310dcc1  ./pulumi-resource-rabbitmq-v3.5.1-darwin-amd64.tar.gz
+633c41118b8517259456865f9f0b3179d6b24d9f  ./pulumi-resource-rabbitmq-v3.5.1-darwin-arm64.tar.gz
+2db242644114063425703c9080e37e51228ae2c0  ./pulumi-resource-rabbitmq-v3.5.1-linux-amd64.tar.gz
+51c100ff431f2f8d486a712f36fa198bf6d65252  ./pulumi-resource-rabbitmq-v3.5.1-linux-arm64.tar.gz
+c3cbbb515e5b3df6184f387917011b298da69bbd  ./pulumi-resource-rabbitmq-v3.5.1-windows-amd64.tar.gz
+11eb14075c36b40943f7e764d16b81810d11efae  ./pulumi-resource-rabbitmq-v3.5.1-windows-arm64.tar.gz

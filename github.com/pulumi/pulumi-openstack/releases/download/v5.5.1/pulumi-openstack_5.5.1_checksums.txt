@@ -1,0 +1,6 @@
+bd009b462bbd166c952c7b58fcb79b6cca8e3aed  ./pulumi-resource-openstack-v5.5.1-darwin-amd64.tar.gz
+e448f87512de957052a59a33b9474580a11f287c  ./pulumi-resource-openstack-v5.5.1-darwin-arm64.tar.gz
+dc425cd5903dfdad724f5abc6ae58ffbca6891f6  ./pulumi-resource-openstack-v5.5.1-linux-amd64.tar.gz
+9f5c4dfe9c954a884f9acea75d744b194a24efcd  ./pulumi-resource-openstack-v5.5.1-linux-arm64.tar.gz
+4a15d7ed0883210fb28fde60529b3c83ba7d4795  ./pulumi-resource-openstack-v5.5.1-windows-amd64.tar.gz
+c90a7255ebde671a0916c9d59158f627d38f8a0f  ./pulumi-resource-openstack-v5.5.1-windows-arm64.tar.gz

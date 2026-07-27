@@ -1,0 +1,4 @@
+9976da3322cb7f3ef6adb2b86d0d8aec1212abf065a03dc194eb9d99e9e7a72d  linux-headers-7.2.0-rc5-mainline_20260728-1_amd64.deb
+6d8846cdc0f5f18c10d28a5ba264454bbb52ab8724c668c49f5d0b2dd38bf214  linux-image-7.2.0-rc5-mainline_20260728-1_amd64.deb
+83d2230a8d045663999495dbb67b8ba783700c514441e23770e029de50b37d63  linux-libc-dev_20260728-1_amd64.deb
+c280dce8ee42aefec369fc5110e96d4544fa38cff2ad421efd7902bcdeb846bd  ../linux-7.2-rc5-mainline.tar.gz

@@ -1,0 +1,10 @@
+24d317d98141e391538450af54601f532ffad84424c260f2294c6d2e6bdc6f75  jx-preview-darwin-amd64.tar.gz
+cbc2ef4ce3f8507471332b6ecb22404bee77b65e3ffdb00f71d324b975d7e227  jx-preview-darwin-amd64.tar.gz.sbom.json
+09e7f205d25a7f8248db663541620ebd5974ef5cbe5c8b1c02b535a70b6ff2d2  jx-preview-darwin-arm64.tar.gz
+b042930c2dfef2db38acf46f18343de83ef4ef261fe28b11252dd3d7ae416261  jx-preview-darwin-arm64.tar.gz.sbom.json
+45b43626d5849057a4b3d8c2d42c777d13adef71a6c72e7dbdde98bd929756ac  jx-preview-linux-amd64.tar.gz
+5806b4288ed7556b375819eac30ee378c61cec56e1cecefc9577f87794562cae  jx-preview-linux-amd64.tar.gz.sbom.json
+e9d512c7e37dcdb06346902cc3d71496cd9d225f075638c25aa145a7afebd45f  jx-preview-linux-arm64.tar.gz
+2cbb26a37b3544727a16e79e8ab3bbc8f8eb6ad5a5aba7db864c74c0687992f0  jx-preview-linux-arm64.tar.gz.sbom.json
+bc425f84d6991f4edc2b2969c176bf55dca71954e0adb875056e11fd4276179c  jx-preview-windows-amd64.zip
+4a5dbd37c31ea17799fd3e3db534e79b2b89243c2deb92bb35e7cc237ac1dce0  jx-preview-windows-amd64.zip.sbom.json

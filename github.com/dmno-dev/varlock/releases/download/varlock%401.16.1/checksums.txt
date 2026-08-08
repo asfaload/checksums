@@ -1,0 +1,7 @@
+1e1cef02fa38808311c7ee4e543d2755e72391a6741478b462bd36f3188fe335  varlock-macos-x64.tar.gz
+b36715b8c38966bf3283d7cd1a61915e6047d024301be7d66be3695ddf16dd5c  varlock-macos-arm64.tar.gz
+dc771d8954f11aa281ebfb4995f9810f802898a0e9e5e0aeacd361aa0519dc39  varlock-linux-x64.tar.gz
+6433acc21cbc425f5425046ec1f94c28e0cc945e33f3858da56cc89a8f0d8f49  varlock-linux-arm64.tar.gz
+d2f00c7e647822eacdc0be51fb9656073fc5bdc3dc7e21595eda9ac5bc60df22  varlock-linux-musl-x64.tar.gz
+f94dbb63eca08a8ec1bf657c313e6742826e8252e7f748d51c003a73affbb636  varlock-linux-musl-arm64.tar.gz
+f950009c1508fd495b932349273deeb98c9f0a6e0a076345d44355f27ea606c4  varlock-win-x64.zip

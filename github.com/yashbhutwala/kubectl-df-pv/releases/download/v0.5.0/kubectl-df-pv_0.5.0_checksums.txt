@@ -1,0 +1,8 @@
+03c1ff9857173d2139e8e8ee192c9c545489983bc1ebeffd3fe00190a67e74d0  kubectl-df-pv_v0.5.0_darwin_amd64.tar.gz
+d802c7483703c8b3b29395540e13ef29991268d53dc29623d54fa25f906611fc  kubectl-df-pv_v0.5.0_darwin_arm64.tar.gz
+7b4378d55e63156b704cd462ce1db0538bcfc36090475f11fe8ea13e5011d982  kubectl-df-pv_v0.5.0_linux_386.tar.gz
+6783abeb2d38870e3992b7e88fd62c85e9a7ec022ff5101477c7f38dea8beefe  kubectl-df-pv_v0.5.0_linux_amd64.tar.gz
+9fa44482ee09e86ae1d6e8ed11632eab0048ae920b40a9ddfdf03b246adb731d  kubectl-df-pv_v0.5.0_linux_arm64.tar.gz
+22645022dd5a6f418c6ff6df5cab03d499fb60617aa525288ee8d4cb127bd32c  kubectl-df-pv_v0.5.0_windows_386.zip
+9b9f3ad23247b2b43e588b796ac16669a5bf9c2b72fd6740d29a383a8ba4b4bb  kubectl-df-pv_v0.5.0_windows_amd64.zip
+be918621c559504821d0d0aa76773bb70934764e5262c478dce3b09fc92ae21c  kubectl-df-pv_v0.5.0_windows_arm64.zip

@@ -1,0 +1,4 @@
+6b6e45547f0db11ab46c6d28693d0d5a087464a783fafe474bb8848cbc56b4e6  release-v1.20.0-stable/nvidia-container-toolkit_1.20.0_deb_amd64.tar.gz
+e481c2f6667714a7f6b9c1f03d2d30c5fea14886de08e1c297770221877392c7  release-v1.20.0-stable/nvidia-container-toolkit_1.20.0_deb_arm64.tar.gz
+430a982299bc8815ee5d660725985488ad775ae5dff38dd23247ecf83192760f  release-v1.20.0-stable/nvidia-container-toolkit_1.20.0_rpm_aarch64.tar.gz
+becda58d89cb8d1792fe99526536ab7b1de071a7599d3b6956c350573cc4d416  release-v1.20.0-stable/nvidia-container-toolkit_1.20.0_rpm_x86_64.tar.gz

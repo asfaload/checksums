@@ -1,0 +1,6 @@
+fd4b08d65c0b49d520a63f70eee92b750195a516  ./pulumi-resource-upcloud-v0.18.0-darwin-amd64.tar.gz
+bccebe9a622e40a97852aa3dc10d423695e11c89  ./pulumi-resource-upcloud-v0.18.0-darwin-arm64.tar.gz
+d87732966973aaff32352cbdf372b9039779000c  ./pulumi-resource-upcloud-v0.18.0-linux-amd64.tar.gz
+dd0ddccd6b4b47ee88e863b1c390ccefc39a6fd2  ./pulumi-resource-upcloud-v0.18.0-linux-arm64.tar.gz
+ae4fb3d91eeb2ea2190f39b5883ceb1da74e23aa  ./pulumi-resource-upcloud-v0.18.0-windows-amd64.tar.gz
+c7bbf5fcba5807e07ae60b43026c4827d0c98ff2  ./pulumi-resource-upcloud-v0.18.0-windows-arm64.tar.gz

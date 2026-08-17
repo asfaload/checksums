@@ -1,0 +1,5 @@
+42ba1954675765aa56d5f0496f74199ac017455051ede4d0b141dc48e35a5139  k8s-helm-dep-updater.tar.gz
+01308b00877189e3b22356d8ecc8cafd634e2b1e06b69329b102b502448deb6e  k8s-helm-dep-updater_Darwin_amd64.tar.gz
+ad47e70421156b944105a280be908a35fbbbaf1b5de8f85eadfa99149c4a2bca  k8s-helm-dep-updater_Darwin_arm64.tar.gz
+548c098e76dab059d1aeb1b1263d77bf3e48737c16d438fe722291d256e18a4e  k8s-helm-dep-updater_Linux_amd64.tar.gz
+1dccf73beae8dcb34ec99519ce4f58a9c2c96c2cc2ee5295306e97723e5d3714  k8s-helm-dep-updater_Linux_arm64.tar.gz

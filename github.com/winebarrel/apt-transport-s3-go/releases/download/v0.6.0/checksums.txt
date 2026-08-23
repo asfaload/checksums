@@ -1,0 +1,6 @@
+883f7192242859f1921157fa6619cdf445ec0ce89198fb3b3ed57bb42d93858e  apt-transport-s3-go_0.6.0_386.deb
+a023ef6662743d62d6c4a812b91adfc385e2d85844f4e371c85a5a77d3dddf16  apt-transport-s3-go_0.6.0_amd64.deb
+708dab75e5ef3402f39dcd4ecd1a137e25e663d9abef28b390cde10c0e7689ab  apt-transport-s3-go_0.6.0_arm64.deb
+e8dcb648aed24e6b7153b8bcdc65648439bc45ef659026760a24b66960049c09  apt-transport-s3-go_0.6.0_linux_386.tar.gz
+42b3d1a1008b8899c847680f1cac9b5ad491ed12af66c6baac75826def644a13  apt-transport-s3-go_0.6.0_linux_amd64.tar.gz
+7e4555589357cfe1b44eacb81cb89d3673809143476c4f6b2de3e23f59d23c5d  apt-transport-s3-go_0.6.0_linux_arm64.tar.gz

@@ -1,0 +1,51 @@
+# ===================================================================
+#                      NOTHING ARCHIVE FIRMWARE
+# ===================================================================
+#  Model:        Tetris
+#  Build:        Tetris_B4.1-260812-1726
+#  Source:       https://github.com/spike0en/nothing_archive
+#  Webpage:      https://nothingarchive.tech
+# ===================================================================
+#  Notice:
+#  Firmware images are property of Nothing Technology Limited (OEM).
+#  OTA payload extraction, incremental update patching, partition
+#  image generation, and archiving provided by Nothing Archive.
+#  If redistributing or repacking these partition images, please
+#  retain this notice to credit the project.
+# ===================================================================
+
+94061f22eb707635c0caa5da84630b17e62bfb2e5d2de89e976deaab6780ce81 *./apusys.img
+7e8ab39042c60977ba96a26a32ff9d79d49cc0c7debce57a5a9227c4fd10fa20 *./boot.img
+b4cd73dc77af92d61f74eb629643fde0850c71dd2028313f69c763eef7ea18f2 *./ccu.img
+c0eeffdcae745ed4ed0ce0a58f36094273c0ae21690f15f4ce09d653a3a92aac *./connsys_bt.img
+7b049189b92029d639f61d5de0bf01b9b828061ec287b679c557c8a3d8753bf2 *./connsys_gnss.img
+78cf0061fe08fd4e81173cd172c8640003420f732f6701fb3f8ca25bf818e003 *./connsys_wifi.img
+4721d2de3f2379ae475922939e130edbc62b62b99834ce0d95b1dfb11371a0d3 *./dpm.img
+00154a0b1d334a506add37a53c4a32cdd23fa42a67003771bfc08e79253f978f *./dtbo.img
+f71a22bfcb0bc0aadcfbccd9f286a506ff4c863663925af17c041168b7fb4d42 *./gpueb.img
+3467baae0f13fca9a129329fac51394337679e9a1fc219ae974e74ddf1ededc1 *./gz.img
+4bb6840ad61fb99c1bc097534e2ea64aabc5bbe7bcc15cbf35981332e170fd35 *./init_boot.img
+73e15ba280e7cd44478b3c0e5d1f64488cb901a4cd7111abcfe6d8b917abca3a *./lk.img
+6e378383dd09d66865e43e4dac715e2bfcaa096ec6653da39d2fa8eb78c84e9c *./logo.img
+f4d2a360eae5c8daf7685c18e9cae36ef489a015bf3e92e7fefffc25006604a3 *./mcf_ota.img
+11bd69c7a2d5fbfa43cb01871743abd8e4b406f9b55287ccfaab49a2ad1385ac *./mcupm.img
+f8a7b3876656c73f14a1787ea944c2c8b16cd43848c2ed3a5e67087924b53d9d *./modem.img
+aba4306f762d11f23f70d1b46ee5c7f5896f45778f582cba4f3788ef454e72e1 *./odm.img
+b6a91c8d078063571eeb6bddd155568671a95e5590071216effca20b44b64302 *./odm_dlkm.img
+ca0c6ad5feacf7cf2c1a1839e5229f05479586f4dd553d561094039896c4a55a *./pi_img.img
+fa301a4907c3ffb44d12db32a1e84d14c39916aaa6189b9a1a89704f27507e04 *./preloader_raw.img
+c247fcc6d607914765bfb754f7ea61155a6b4a1b3cea4ce24e348310801c4ace *./product.img
+4d4689944485822129101a6de75c5a999eff99a83cc3eb588c951b0135c1babb *./scp.img
+5022acc689bb10d244507f4b8cd1df949b6513a28ceb68ea0e25ed47848dbdfd *./spmfw.img
+92fb0070ea3758bd1f0e8539e50d71bad76e7fb8b66028a77dc717bbc6ec5a07 *./sspm.img
+ff7ce622722dd4066669ad1496b07731fc64446a2f3192a950b60618380a01a3 *./system.img
+45fb9d6d48609c72628876de27a34279a12fec1ecf29c92d4fd7e4a78a7b3858 *./system_dlkm.img
+efe371b88df505526c2199e0554ac8817e571be168d98a0c41d50b3cf3872534 *./system_ext.img
+6b955de320d6a9e924f9f797e307d99fbc170044e3122d4ab55f3b67036d1906 *./tee.img
+f0de734ceab994b09ebb1d2cbc240b24a2e7bb3a5d20211b12f93ec3f8dad0c2 *./vbmeta.img
+dd7c24644aded15f2f983e1c5405eb3ca7783bb03ec6a3a9a05e0541a196ded5 *./vbmeta_system.img
+bb582908566047bed1b588aceca36ad3fd38450b90081017c0137ae7c111014a *./vbmeta_vendor.img
+d9118a95732ebdde304058314575f76938e8f85f3a0c9f359d31436e3b3233a7 *./vcp.img
+bceaac8a8fc7f3e3e7dad366b4f72856417de823cf4bdef01f93d8994048c489 *./vendor.img
+c4e449688c7e7218f8cb97253290540ae7645bad089da3dfd06cbc1c72b74bdd *./vendor_boot.img
+5ac720ab48f7b92e25165bfcc83a54b6dcdb3966708b5d4cac4865bca25be665 *./vendor_dlkm.img

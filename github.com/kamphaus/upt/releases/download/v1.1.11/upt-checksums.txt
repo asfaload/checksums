@@ -1,0 +1,10 @@
+8ea4807076b8a28bcbf400e32d7972049d685729f9164d82e9a7b2aceb0d39b2  upt-release-sbom.spdx.json
+94d90817a6c929e7479058b902bdfed51c56eda752f86b516f2859a99bc3cab1  upt-v1.1.11-aarch64-apple-darwin.tar.gz
+daffa2e02bd53f64d16b74c85fe5d860f0af864c3b5bbcb9484777f9b5f8389a  upt-v1.1.11-aarch64-unknown-linux-gnu.tar.gz
+8d03be0e31303e1b050f6e6d17ded20f5824936dc900fb112efb0d7b7bb8751f  upt-v1.1.11-arm-unknown-linux-gnueabi.tar.gz
+c82054f0ced77271fc61d05e0c715d7a784a762a3c7a35843cd3474ccf8c6f12  upt-v1.1.11-armv7-unknown-linux-gnueabihf.tar.gz
+26f1638df6e32e894c3734187b5a2d41d9757e947c2f8a2e2e16f17b23ff4917  upt-v1.1.11-x86_64-apple-darwin.tar.gz
+baeb747aa9c9abed9c8e59bc9f87a6e9b7b26f771188aeeb00250ed2d4cc1be9  upt-v1.1.11-x86_64-pc-windows-gnu.zip
+8c390a5897ec1a7bf042d648bbbe7a4021cd067390ecbf35dea10dfbd2f9f4b7  upt-v1.1.11-x86_64-pc-windows-msvc.zip
+1655a637d0e0aec447bdc06202855ccb107d999b7f340ce5cb7668562bcc85aa  upt-v1.1.11-x86_64-unknown-linux-gnu.tar.gz
+c1bb26802ce49553ce036b56f6b37387ce96c1322feae958c861bfda680ccee7  upt-v1.1.11-x86_64-unknown-linux-musl.tar.gz

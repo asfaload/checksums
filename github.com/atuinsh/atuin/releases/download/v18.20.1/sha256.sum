@@ -1,0 +1,16 @@
+690281d1b907973856ddc4430461f880530cc3f52398a331c284b2f9371f5025 *atuin-aarch64-apple-darwin.tar.gz
+95e465ab3d9c328732b3e129f7bdd3864d32948afb6c18f306101ee11ba57177 *atuin-aarch64-unknown-linux-gnu.tar.gz
+59781e7fdafe20bdb523af25062af45bcf87ee4100eaa8d04c8e5baa90de13f0 *atuin-aarch64-unknown-linux-musl.tar.gz
+847796d6f00b0783dae1f6bed52f33efa959990eb84bb62cab6c30c54438a0e9 *atuin-server-aarch64-apple-darwin.tar.gz
+880b1233621a73d4538d8c7c3e8d2326e5dd76fe8bbb7387776142567bfa7f18 *atuin-server-aarch64-unknown-linux-gnu.tar.gz
+1e01c4b05f1b2892c0e6073674cf92cc13dac65367590e661822a67e18c739e7 *atuin-server-aarch64-unknown-linux-musl.tar.gz
+f723baba5a176025b0099e7b85169ff7c03b8eea4869d8918aa9c54a82f1226e *atuin-server-x86_64-apple-darwin.tar.gz
+922438cbba2f3f589e7b2ba6a817f602132b56da09cc27b2ae05180430bb46bb *atuin-server-x86_64-pc-windows-msvc.zip
+8125dc1d4bd7038c31522b85e2d4ed4cf865e3412b2a1e955886b2660e1a9362 *atuin-server-x86_64-unknown-linux-gnu.tar.gz
+6e216ffd06ec0e49ca60b0e4ded9c8c71fa53daee271d4af0ae43b91a9df256b *atuin-server-x86_64-unknown-linux-musl.tar.gz
+31c719fad87b9c52c0f415909619466d8e9176258ef49026af042dd6fde75b13 *atuin-x86_64-apple-darwin.tar.gz
+58f0086480efada13396920481642b137f4d2984b9bdf4bf4aa9f27cf8bdff34 *atuin-x86_64-pc-windows-msvc.zip
+f2dc7cd19fba87efdea37d80695f7d29364bd66384098fa5bdbc3e0654be4e33 *atuin-x86_64-unknown-linux-gnu.tar.gz
+1ad3e8162b4570118a3e05ae6b9ca0575aad0bb018a83001805c4f52d4fe9c8f *atuin-x86_64-unknown-linux-musl.tar.gz
+c4faccd208fe3b407e83c6943b2d81081a94fe836da9b67f1a7b4d4f4bbb0fab *source.tar.gz
+

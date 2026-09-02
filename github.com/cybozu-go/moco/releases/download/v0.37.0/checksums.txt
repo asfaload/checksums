@@ -1,0 +1,5 @@
+c6c1cf84039d2e2e18f7543bcda966815ad83a565f3c6ad5071813436f973488  kubectl-moco_v0.37.0_darwin_amd64.tar.gz
+803dda91ce8bcc0ac8d66e33a65edd03c145001e9bd88e29d0b74b4e1a1e50a3  kubectl-moco_v0.37.0_darwin_arm64.tar.gz
+bee4a2be7a938672d3b1891579920be8c628c90e6db933c92488f2546eed5764  kubectl-moco_v0.37.0_linux_amd64.tar.gz
+909b6f7b5ead2e1cf65e766c0a4aa4344b54ef728222529d81507afcb8a9dd4c  kubectl-moco_v0.37.0_linux_arm64.tar.gz
+18e55b85534276f81d1f367417156260527ff41cb1e2087c768c6fef87c95701  kubectl-moco_v0.37.0_windows_amd64.tar.gz

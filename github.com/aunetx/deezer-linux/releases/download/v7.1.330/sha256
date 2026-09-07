@@ -1,0 +1,12 @@
+8a14909023e6dde3ebd85b4c8d87975f90e4edbf1092d1df70702f042d93d5cd  artifacts/x64/deezer-desktop_7.1.330_amd64.deb
+4ef2f26ee9ff5e15df5fb341474e63f47a6e6a3ad9d715fa1cc04578f5b333b4  artifacts/x64/deezer-desktop-7.1.330.x86_64.rpm
+d6aceddbae7e1f427cf5299e752c59a804ecd1abfbf33d7e1060fa6f45280cf1  artifacts/x64/deezer-desktop-7.1.330-x86_64.AppImage
+0d9e418cd2584b429eec281cd310a3a236d45a931f391e6528e33237880e8480  artifacts/x64/deezer-desktop-7.1.330-x64.tar.xz
+0f24c16d2914c542bf12d0f526b34bdcd2960d46c1e51b18ab9c215473cce78e  artifacts/x64/deezer-desktop_7.1.330_amd64.snap
+b5d69088d16d144e910de53c57b357166a378b3f5c1bee0666c0d1601956ed57  artifacts/x64/deezer-desktop-7.1.330-x86_64.flatpak
+a26e36aaba2e357ed00760eb70e52374ee702214d5c3edb2654574844c720c2f  artifacts/arm64/deezer-desktop_7.1.330_arm64.deb
+b23a4ee126c233470d02010b0124392a3a35964afae16858c7a950f986cfcf4a  artifacts/arm64/deezer-desktop-7.1.330.aarch64.rpm
+fa182def113b2d780c54a01305e241aca37816f22988ff05785cf8de667825da  artifacts/arm64/deezer-desktop-7.1.330-arm64.AppImage
+a0a0f01028dab55fdd4ff72718de9293a4532150e2288f11d00018991bd5966a  artifacts/arm64/deezer-desktop-7.1.330-arm64.tar.xz
+60175b0ff85ae9c3b0eb05ac277d147a78f266583c1acde667a104d24c25780e  artifacts/arm64/deezer-desktop_7.1.330_arm64.snap
+348ae08881941ef39cef51f395eeee6cd3171f67b096bb7788030624dd354678  artifacts/arm64/deezer-desktop-7.1.330-aarch64.flatpak

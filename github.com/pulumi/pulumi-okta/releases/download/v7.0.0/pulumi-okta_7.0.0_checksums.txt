@@ -1,0 +1,6 @@
+7cb563ebb74315dbcf0eb5304e9392b6da42745f  ./pulumi-resource-okta-v7.0.0-darwin-amd64.tar.gz
+b4832497b930bf1ba17cc99800cdda16057a79d4  ./pulumi-resource-okta-v7.0.0-darwin-arm64.tar.gz
+213d8b93cf52646798dd1b063e4eca7aa7f2ce9d  ./pulumi-resource-okta-v7.0.0-linux-amd64.tar.gz
+5ed335abf8d55ce37bb2729d85af1a1efbe07cfa  ./pulumi-resource-okta-v7.0.0-linux-arm64.tar.gz
+43386845f96206b3adc51e56387fbbe307bcb8f3  ./pulumi-resource-okta-v7.0.0-windows-amd64.tar.gz
+63dd6a35cc48c650ad1eff28652c4863c45fe283  ./pulumi-resource-okta-v7.0.0-windows-arm64.tar.gz

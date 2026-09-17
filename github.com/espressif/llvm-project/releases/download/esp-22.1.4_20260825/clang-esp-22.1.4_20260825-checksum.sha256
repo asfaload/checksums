@@ -1,0 +1,48 @@
+# clang-esp-22.1.4_20260825-x86_64-apple-darwin.tar.xz: 394691564 bytes
+1fc6fc8a2e4024dab9c08d9ad6a86bc1595e517d8a51574cccf5208749698cf1 *clang-esp-22.1.4_20260825-x86_64-apple-darwin.tar.xz
+# clang-esp-22.1.4_20260825-arm-linux-gnueabihf.tar.xz: 424614728 bytes
+259b214a26aecc3a5ccb7fcb44010005c3f8bde5935f2882cc074b5990dfc488 *clang-esp-22.1.4_20260825-arm-linux-gnueabihf.tar.xz
+# clang-esp-22.1.4_20260825-aarch64-linux-gnu.tar.xz: 418223344 bytes
+f194646d7bda2ddcdb2e016421a34177bf0eb115b5379256f4f3aa01f623cdf7 *clang-esp-22.1.4_20260825-aarch64-linux-gnu.tar.xz
+# clang-esp-22.1.4_20260825-x86_64-linux-gnu.tar.xz: 430529640 bytes
+4700ed4eb331d70d2e8b0846a233b299f43f958d2ab824ce886764d8bd6eb0a1 *clang-esp-22.1.4_20260825-x86_64-linux-gnu.tar.xz
+# clang-esp-22.1.4_20260825-x86_64-w64-mingw32.tar.xz: 455828696 bytes
+c0f6ac1109273f6634ba5d067c993ab4589e94efe2e080b40f60662afa7bf9f9 *clang-esp-22.1.4_20260825-x86_64-w64-mingw32.tar.xz
+# clang-esp-22.1.4_20260825-aarch64-apple-darwin.tar.xz: 365987172 bytes
+2644010ec3da4a2db653dda99260c2a39d93625452e3bfb9e9b26c035b23e43c *clang-esp-22.1.4_20260825-aarch64-apple-darwin.tar.xz
+# libs-clang-esp-22.1.4_20260825-x86_64-w64-mingw32.tar.xz: 44456856 bytes
+195176e704b7035ed21ccb653bdd1651abf5d3346c5ed50c8591646100ea59ef *libs-clang-esp-22.1.4_20260825-x86_64-w64-mingw32.tar.xz
+# libs-clang-esp-22.1.4_20260825-x86_64-apple-darwin.tar.xz: 61897376 bytes
+cb4ddf0bec9f87bcf0cdf353890ec6f75e9932d79a1b93f15b0e96cf5c073bfa *libs-clang-esp-22.1.4_20260825-x86_64-apple-darwin.tar.xz
+# libs-clang-esp-22.1.4_20260825-x86_64-linux-gnu.tar.xz: 81024152 bytes
+34fa17a12ccdfc4b23c36928aed81ef6bd52af305a5246edf3712cc59129197b *libs-clang-esp-22.1.4_20260825-x86_64-linux-gnu.tar.xz
+# libs-clang-esp-22.1.4_20260825-arm-linux-gnueabihf.tar.xz: 77172044 bytes
+2eb4ae6edf57460629ffa999411b5b8d42751230ada09af2855a5bc4062eb12d *libs-clang-esp-22.1.4_20260825-arm-linux-gnueabihf.tar.xz
+# libs-clang-esp-22.1.4_20260825-aarch64-linux-gnu.tar.xz: 73866304 bytes
+2156745a7939d8c985400faa0d12eacc83edbe69108958dbbe8002559145dccc *libs-clang-esp-22.1.4_20260825-aarch64-linux-gnu.tar.xz
+# libs-clang-esp-22.1.4_20260825-aarch64-apple-darwin.tar.xz: 52145528 bytes
+4452dd5f3b7ac01893b642ea9a89d22d8b70a3574e186faaae4e4ac7c8ae280b *libs-clang-esp-22.1.4_20260825-aarch64-apple-darwin.tar.xz
+# clangd-esp-22.1.4_20260825-aarch64-apple-darwin.tar.xz: 12103048 bytes
+71c8cb58f3937784802c4f88d5c3dbc944932db7cf3988f1648ddad6c2077aa0 *clangd-esp-22.1.4_20260825-aarch64-apple-darwin.tar.xz
+# clangd-esp-22.1.4_20260825-aarch64-linux-gnu.tar.xz: 15920868 bytes
+1b859fb02713a455ee1f914d930dfa11022a7e4909be768cc9081104c3203e55 *clangd-esp-22.1.4_20260825-aarch64-linux-gnu.tar.xz
+# clangd-esp-22.1.4_20260825-arm-linux-gnueabihf.tar.xz: 16560032 bytes
+34521ff00bb618cafd5f4550a9973056be015d6048a9803eb0525c5d6e80123c *clangd-esp-22.1.4_20260825-arm-linux-gnueabihf.tar.xz
+# clangd-esp-22.1.4_20260825-x86_64-w64-mingw32.tar.xz: 15254640 bytes
+b97a556c4c9db48bfa12c3822df97f3ebab1a595eaeb074e58b05b74e6d1a691 *clangd-esp-22.1.4_20260825-x86_64-w64-mingw32.tar.xz
+# clangd-esp-22.1.4_20260825-x86_64-linux-gnu.tar.xz: 17181620 bytes
+b467908e16c367d6ea7da824a539cb3d5b3edafb94b15a26e7fb1246e3f9dca5 *clangd-esp-22.1.4_20260825-x86_64-linux-gnu.tar.xz
+# clangd-esp-22.1.4_20260825-x86_64-apple-darwin.tar.xz: 13808748 bytes
+a486f23b3ab5f39c86287f8a76c252ae397a306f42a31f95c04632a65b454d20 *clangd-esp-22.1.4_20260825-x86_64-apple-darwin.tar.xz
+# lld-esp-22.1.4_20260825-x86_64-apple-darwin.tar.xz: 16356652 bytes
+4ab28c2f54a5b04236f905f8d9a81eff1ae45b1348bedfa80564db95e78e3c3c *lld-esp-22.1.4_20260825-x86_64-apple-darwin.tar.xz
+# lld-esp-22.1.4_20260825-x86_64-linux-gnu.tar.xz: 21489940 bytes
+62b6b572a0e9c930da0dcb17b642737feafbe1fbbfc207d02d07213d0969b681 *lld-esp-22.1.4_20260825-x86_64-linux-gnu.tar.xz
+# lld-esp-22.1.4_20260825-aarch64-linux-gnu.tar.xz: 19581708 bytes
+cc5d925d55fb040f01438c64ad91be1019e0e027ea14d9fd99201f458d6627cf *lld-esp-22.1.4_20260825-aarch64-linux-gnu.tar.xz
+# lld-esp-22.1.4_20260825-arm-linux-gnueabihf.tar.xz: 20665652 bytes
+57dfa95dad9018264f694d487362b785b31aa54200523289a201dc46e09b62f8 *lld-esp-22.1.4_20260825-arm-linux-gnueabihf.tar.xz
+# lld-esp-22.1.4_20260825-x86_64-w64-mingw32.tar.xz: 34058504 bytes
+413ec3015e7fc038cb8222e9fe95c93f18a701812e0760320808eff07f88c114 *lld-esp-22.1.4_20260825-x86_64-w64-mingw32.tar.xz
+# lld-esp-22.1.4_20260825-aarch64-apple-darwin.tar.xz: 13603364 bytes
+71ca1793b486c7832db5f0a42a18c77ec1851205e0db9168e987c0a8e8232e2f *lld-esp-22.1.4_20260825-aarch64-apple-darwin.tar.xz

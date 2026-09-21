@@ -1,0 +1,12 @@
+2fba64626988e84be330094f7b5464932a89644aea3fb15a9dc455020b652ee9 *config.buildinfo
+a548e3ccddc280aad46ae4bbba47537aa6295341f9921e1ab5345da5504879b0 *feeds.buildinfo
+9c42d0df0431815d5ac01be9588b91e3597f1fb7fc484d9af331c1ba1f4dc297 *lede-24.10.5-r8140-b952adf4c-x86-64-generic-ext4-combined-efi.img
+e7794dea5de2ae80294a319e46505dea57318d12272d4a2fae61933b1d3b2e56 *lede-24.10.5-r8140-b952adf4c-x86-64-generic-ext4-combined.img
+7a654abb0ec2379ea7e805ecdbdf5969bbc3a61f87ea6933607742b537862c84 *lede-24.10.5-r8140-b952adf4c-x86-64-generic-ext4-rootfs.img
+ee1c279b71c366980174facc8b66c7531e32e8e5f9fe95e0c357b8ca8b540ca6 *lede-24.10.5-r8140-b952adf4c-x86-64-generic-kernel.bin
+40165ace14b658af7e309af80078b401912ec465c320e06a354abf7349b233e0 *lede-24.10.5-r8140-b952adf4c-x86-64-generic-squashfs-combined-efi.img
+e4b1ecc5c1d4d649b1e9fc3764ef5e8dda12174e58d7ef2794a9984a04952afa *lede-24.10.5-r8140-b952adf4c-x86-64-generic-squashfs-combined.img
+31231bc6e282b094c0c712b4c40bcdf174dcce9982d148ecf4cd8e758f54cd15 *lede-24.10.5-r8140-b952adf4c-x86-64-generic-squashfs-rootfs.img
+1f7687805d366aec4ce94fe50830b93fa4f79758e2cc719ee7992a7eefd04313 *lede-24.10.5-r8140-b952adf4c-x86-64-generic.manifest
+e0fe98cd9ff298acdd4aa0a1eead23fd152be58efdde7e18d020a111252fcb7e *profiles.json
+3f94aa8103b72759ffe6532663aaaf14cf0981bfa12d55a28a3e7c63153f9e26 *version.buildinfo

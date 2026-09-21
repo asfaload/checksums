@@ -1,0 +1,19 @@
+003274fe62f23c12780472711f2a84a6906ab98e87ccc22ee88e4d7363e48265 *source.tar.gz
+963def3419d2558e5a057329dbbbd8de54da7d73af6668c6d7f472ceffebe2c8 *ty-aarch64-apple-darwin.tar.gz
+66236ca6e46371b3f44e477c9e241a9cfdf32cd755e27054c69d9ca908c771bf *ty-aarch64-pc-windows-msvc.zip
+0de6e6c215ba28579506488500a8fe91b868445de40f27bf022a4673feb6a5e0 *ty-aarch64-unknown-linux-gnu.tar.gz
+fc48538601ca7f9462b8d583b65bca88aba35bbe98ced5e8e72ca08794310630 *ty-aarch64-unknown-linux-musl.tar.gz
+fbda48493f3a7af28e7780cdbd94ed836b419dfec2ca74e9198662f385fe1df4 *ty-arm-unknown-linux-musleabihf.tar.gz
+b7a4d6dc5a07a64862b6bfd03219809f592a514653a3458211871feeda133d3b *ty-armv7-unknown-linux-gnueabihf.tar.gz
+a8b3a574b02f587b997e619e01d600ec5e62474e63cd20d09427ffc011edfa91 *ty-armv7-unknown-linux-musleabihf.tar.gz
+6cb52b6ae93075e4d2828fcaf6e46dbaa3076664e7993322b2d2a57c2e04a982 *ty-i686-pc-windows-msvc.zip
+005ca012a6d662f2b168a53d08208fb2d4ca9ac592f7ebf6895b247831351cda *ty-i686-unknown-linux-gnu.tar.gz
+62523164ded2223f81af2912369070c76739b787aadd3ea74ec40ed42c3826a0 *ty-i686-unknown-linux-musl.tar.gz
+9be4ee4ba2baef0aa3029fd3e23f28e2c1d543e8665c1416948b365734daadfd *ty-powerpc64le-unknown-linux-gnu.tar.gz
+0b7c74afaa87a9ef9ee1680b8fb50b3d8f2d1d04c0e8d829b42f7e7c53845329 *ty-riscv64gc-unknown-linux-gnu.tar.gz
+bf0cdb3f0da39172b5e39667a422d5390918760c516752a5e7f33727442feebe *ty-s390x-unknown-linux-gnu.tar.gz
+4c1f6db572119a0e461895cd241a990ef616b30258394b02161b04d6a34d0911 *ty-x86_64-apple-darwin.tar.gz
+a6ac68c919e869b97dfd2c67cafe82e6211f7cf818ba41f48eb4223fa0bac931 *ty-x86_64-pc-windows-msvc.zip
+dc1baa9f6135cb34712f4c7487dc8ce05fc91eb018360426eb78bba03c2e4d2e *ty-x86_64-unknown-linux-gnu.tar.gz
+019ba29db7d14023d956d08fe413fe1795f0369aa501edff0d706504879c72b4 *ty-x86_64-unknown-linux-musl.tar.gz
+

@@ -1,0 +1,57 @@
+# ===================================================================
+#                      NOTHING ARCHIVE FIRMWARE
+# ===================================================================
+#  Model:        FroggerPro
+#  Build:        FroggerPro_B4.1-260907-1153
+#  Source:       https://github.com/spike0en/nothing_archive
+#  Webpage:      https://nothingarchive.tech
+# ===================================================================
+#  Notice:
+#  Firmware images are property of Nothing Technology Limited (OEM).
+#  OTA payload extraction, incremental update patching, partition
+#  image generation, and archiving provided by Nothing Archive.
+#  If redistributing or repacking these partition images, please
+#  retain this notice to credit the project.
+# ===================================================================
+
+4c309a7e89c4f24b53841510ad40e940623e869fd62fc3146382cec4c75df4f4 *./abl.img
+3a43acdfd1ff7e26e4d0150ed99590453f3418e6ea9cf592b2b603b4ba8f4571 *./aop.img
+3de892a3d6d15b9d8f70108a08d166d02567146b8bc6862efaf75bc27e49c199 *./aop_config.img
+1912e560b0d360292fba19e991788e2a387a09fa6dbd7904abad02fd567a39a7 *./bluetooth.img
+55aafa4e4ccc902a93ba7427e83ba9ea12ad0de86c38150cd27da7166d6b0077 *./boot.img
+f1e3ba52fa3dd03e237841037d545ecdb6c9e9b05406a09332bdbccfb9138787 *./cpucp.img
+15c2f605a09579c6c8e783d71fb91c68798e608801aeddc599a2ca558cd9f8df *./cpucp_dtb.img
+fa355f42cb33f4013559ab92843197230c79c1f03427de03b88baa812fec986b *./devcfg.img
+ef35db80fd52e585bb9ad80edb7afaefb38dadb042ece1f0534fb7a9c9f891b5 *./dsp.img
+8eab03ef6130c7740d5e763fb548b83315fafd6aeff56dd105fe0bc2f1e5795a *./dtbo.img
+28e6b455035a0507ff0999e3833186cb68b6c43307d0d2e7246d1c2bcd93b5cf *./featenabler.img
+d64cb7e5b8b12d004f56f23dc218f88d319973d4f0d04a06a32cf616f10f7df8 *./hyp.img
+dbc3682da185759187d57f84b25999593363c93e57d424d9e63b96d72f354a26 *./imagefv.img
+957c05a78ba7fd64608951fa4d719cf20e84947288f979d51bbb25b35c705480 *./init_boot.img
+c4a015e044e5dd11e2ac6921e4b893e0c2d43a9a395c4ac6d9260af8934437e5 *./keymaster.img
+2fca4cf84826889b899740d8177c87f7fe28376fa1972b9d69e26d4829053ed6 *./modem.img
+c965516ef8f4ec529252c2bcac437e09f7698f74b83fc79f2d005d757ff2d429 *./multiimgoem.img
+a5766b4d73f5fb150fd3204d4e5c0a1d1c9a14d1f576907d6a5cb863dc0c7222 *./multiimgqti.img
+31b0304b1d7d0e9bb373be3c6f08e10ad3106a457b479560e0954a31c26960c1 *./odm.img
+3007d696afb5f6d66a451e5e0160e55190cc8fc19b4f0156af78da959242c8b9 *./product.img
+941c551868889a281f52c30f2e220b40273d03f3401d1ad13953cc97f200e7da *./pvmfw.img
+de3d6dc30e3c9990b43edd0f3db7f3a37a50a9dde981188c8ab2db21fa8e31f0 *./qupfw.img
+743ec8d6e2bc0037487ab71f33e2b27da0e2ee7377fe0a564ad997117960b4ec *./recovery.img
+0f43ab3aa8e6d8877e1523c5c9c75c6fcd80e9df1a2df331d701e88d0a4e148e *./shrm.img
+114aac94d585990df4c6e83d7963734da984b1c3a879a811004d790fa4d7268c *./soccp_dcd.img
+d85b353ecd12af04b0a56b7301ade75fa4528971defd453021e451df0739fe97 *./soccp_debug.img
+5a60f459e108a69cdc19888ffa453c1d00e65060f0207f446799bef5d965a98c *./system.img
+ea297f0853e20b283a94de9194a4bfa315bcfcae7966e5f5762fba776908f444 *./system_dlkm.img
+11a94013c7fec7b37d624fbefeac866743c4d3f99f8375f121a9072461e4e437 *./system_ext.img
+ccae020eb1b88e2c69f5a257e56d90a2c4c9d1bbc288683fe685f49f7c7eac2f *./tz.img
+c9f0220e49518be3851383c6fcd6d57982216f4cfd59e4454d534cba39afbdaa *./uefi.img
+3b61d263c0c2da15847be9d83c8d68f63e81f0b20e4129aa2322f5293a82536b *./uefisecapp.img
+40dc214561cf40194bb39b52df4b0266ee86db1380d3278ca64c9610639f7629 *./vbmeta.img
+c4c970c07c19d91f109411b493b15031626650626fa015d5896bda194ea81fc5 *./vbmeta_system.img
+81d46691bbe47b1837002a06b63bbba38f62ab859ccd2596b164fba3856460b2 *./vbmeta_vendor.img
+c3c270092f3c316abfcbb7a52e62499a73021326e552176a74c53cac955e62cf *./vendor.img
+45bc26795469bbff4642e0fd638ec0d801ed88da95e026374431e9290f0e9add *./vendor_boot.img
+038a81f9a4e4c3c4fde7ff77827d49e88a44efb0f1eeece7d2b8357a287d471b *./vendor_dlkm.img
+21b0dd5be80125bc17f61680dd215ddbd6d8031bd2a2bd296ea8f398ef951bfc *./xbl.img
+bb33a5802b08ebc5ffe676d6d7adda91d5ae111e5c629ea2accf68d49f1c2db0 *./xbl_config.img
+fade282e2c430679511f0d0d5b3887848a479b9a94c4e17e9d59e57040d119f6 *./xbl_ramdump.img

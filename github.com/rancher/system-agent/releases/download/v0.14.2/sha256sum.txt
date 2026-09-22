@@ -1,0 +1,4 @@
+bd08a39dfbe7f7042f27e8a4eb13e000c27d9123f04561285deaba8bb4b14450  install.sh
+b9732259ef33ffdf2be2105abe6b68aabf5787c98842d415b385b5b0f484179e  rancher-system-agent-amd64
+c11af16a7358906396025f7f6aa8b27eb7847b27c6470d2cd2ba08bfe4c3de51  rancher-system-agent-arm64
+ded6af4d28ab396dadf3f7c5871aa06c723275f9d7a4ec2d50d0fad9f52988d3  system-agent-uninstall.sh

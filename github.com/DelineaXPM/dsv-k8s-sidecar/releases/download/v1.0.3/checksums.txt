@@ -1,0 +1,4 @@
+508caffe930e03886d5f7886dd6c2022608573d24adb5d809870cf0982ec3adb  dsv-controller.spdx.sbom
+54cbe0d0a5925e38c87a8f771750340d44b0d4e911ab27d91cc65ec367188837  dsv-controller_1.0.3_linux_amd64
+9e8ffeb3f4b821ed70510945857c572e67c9c406155a601f76fa317d72af9ef4  dsv-k8s-sidecar.spdx.sbom
+8f91977ff6560b1d1cec5ba8ebb4fd3078d2de6224fd8f6edfd2e91482824aee  dsv-k8s-sidecar_1.0.3_linux_amd64

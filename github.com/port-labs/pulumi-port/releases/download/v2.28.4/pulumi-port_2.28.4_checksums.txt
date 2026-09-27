@@ -1,0 +1,14 @@
+e7073a3d7b5d9a31b81e425764e14ad5ec1a46450c8a7e1fb79a1e91b830fff9  pulumi-port-2.28.4.tar.gz
+8b70fc3931b9ac704eaf9cd6d59cf716607f8846aa3172b910a0e5387c60086c  pulumi-port-2.28.4.tar.gz.sbom.json
+72e0af039383cdab8d93eb8392ed0ee8c3e9d09a9159a6318506deab571e1cd2  pulumi-resource-port-v2.28.4-darwin-amd64.tar.gz
+141770a07b6b7a9b09f01c58d1c9b47fb17f1c83e9b2d6930ab19dfa881f3385  pulumi-resource-port-v2.28.4-darwin-amd64.tar.gz.sbom.json
+239c532d1840c07442695d9d5e64e071546d88c0ddb4dcb686921a019abe35c3  pulumi-resource-port-v2.28.4-darwin-arm64.tar.gz
+a74d4beb62be31e8a93d61999e2ebcc535a968d19809e3f1f4b94786fbc17e8b  pulumi-resource-port-v2.28.4-darwin-arm64.tar.gz.sbom.json
+598503b046ba6dce0439e2d7ea2e1bb5b4488c470a151144c38b16b5e970a5c7  pulumi-resource-port-v2.28.4-linux-amd64.tar.gz
+231de5a1a8926d1745124b2955012de754b87e067d18d66877434e5c84e86834  pulumi-resource-port-v2.28.4-linux-amd64.tar.gz.sbom.json
+c16242ece82f74190207f6c6155cf12b37c4627bdcdb2a2a51251ca075ab54b9  pulumi-resource-port-v2.28.4-linux-arm64.tar.gz
+2def3eb7fb2f8f330c080ffb5c9eefbf36d13d4b16622f44a3364844246407a6  pulumi-resource-port-v2.28.4-linux-arm64.tar.gz.sbom.json
+563185d3bf58b361266527b6d2f8ea63b69a8d237361b29b79bfa5fefa73d6b3  pulumi-resource-port-v2.28.4-windows-amd64.tar.gz
+3ff4c862fdd65285ec2f1b8e4aef6ece25e8909879cacf5d7d7d5b5e61b2cace  pulumi-resource-port-v2.28.4-windows-amd64.tar.gz.sbom.json
+f3969561d8c244aa8a3cb22a88da4dbe8fb069ba56c29d30003a018fc8a15614  pulumi-resource-port-v2.28.4-windows-arm64.tar.gz
+c0bda022025129b6826f82d6f68df02cc481c9ab05d56bcc7427f27591a146f2  pulumi-resource-port-v2.28.4-windows-arm64.tar.gz.sbom.json

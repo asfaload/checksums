@@ -1,0 +1,4 @@
+428077f5aed11aec3ff9004bf11b8e112964cf9e608fd558a14b480d78ea1203  kubectl-eks_2.5_linux_arm64.tar.gz
+a73ad392b19da961b38d555b59bfbdeb5775d0be41edbb4e691156b1651a3361  kubectl-eks_2.5_darwin_arm64.tar.gz
+b1af20e346583d45d9c0d0567be92f812921ce083b708a92fe1bccf30be0c52b  kubectl-eks_2.5_linux_amd64.tar.gz
+f852b427e4af587e1166bfbe66ad9b85bb93d0c41b796041f8f199c50561a41a  kubectl-eks_2.5_darwin_amd64.tar.gz

@@ -1,0 +1,6 @@
+c86668152791edd957df813767234666b006ebee946d3214c46c5bf3744d419a  dist/notmuch-mailmover_0.8.0_Linux_amd64.tar.zst
+80aa9ed069538174b33c6cec566f0dd4a27bf48fbe00be38b74560a2985763b4  dist/notmuch-mailmover_0.8.0_Linux_arm64.tar.zst
+9f03606404cfa807bb3f08034053342c0c49410f06e72090ab09505065badf64  dist/notmuch-mailmover_0.8.0_amd64.deb
+602780d8c6a7480ff83e7a679996b0298d31c977ca22dda9aa75f45bdf33fa87  dist/notmuch-mailmover_0.8.0_amd64.rpm
+44fbc0d599dbb2505ae4162a7d181ee3574040521d4e77762bbeaf53ce08b0bb  dist/notmuch-mailmover_0.8.0_arm64.deb
+61a129cc6e57f3f7f2b643bfde64df53e17b3161042fe161f70625fd5f724a3e  dist/notmuch-mailmover_0.8.0_arm64.rpm

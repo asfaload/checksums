@@ -1,0 +1,6 @@
+c1ca5649fd253a053c03746338a60bc0951e4403  ./pulumi-resource-gcp-v10.1.0-darwin-amd64.tar.gz
+03a188628667815409b0e622e9e4b8fe20b415ce  ./pulumi-resource-gcp-v10.1.0-darwin-arm64.tar.gz
+6143f3f437a58a50719511175fe393ceb66e0c27  ./pulumi-resource-gcp-v10.1.0-linux-amd64.tar.gz
+27a1c82e234237ec9ac51980f5fef98236200b85  ./pulumi-resource-gcp-v10.1.0-linux-arm64.tar.gz
+33113d276ed26ed3467e3eafc820537d0b3ef59b  ./pulumi-resource-gcp-v10.1.0-windows-amd64.tar.gz
+57863685f2b6edc1d3f54c23f99f83d1156d7193  ./pulumi-resource-gcp-v10.1.0-windows-arm64.tar.gz

@@ -1,0 +1,6 @@
+5589cb334ace1c91d1b9be022c329985f5b2677a  ./pulumi-resource-grafana-v2.42.0-darwin-amd64.tar.gz
+695cb79ed21db677761b66188102159ed84b7920  ./pulumi-resource-grafana-v2.42.0-darwin-arm64.tar.gz
+ea30e59979036aebe5b956cfdd23732d6ebb3470  ./pulumi-resource-grafana-v2.42.0-linux-amd64.tar.gz
+2f6159620b91a7b5a051f4213ee345a6f0390792  ./pulumi-resource-grafana-v2.42.0-linux-arm64.tar.gz
+537413d7a660166980a4ce580c6c3403083608d5  ./pulumi-resource-grafana-v2.42.0-windows-amd64.tar.gz
+d727584ca22908d401d41cc3feb20aaa0a34cf1f  ./pulumi-resource-grafana-v2.42.0-windows-arm64.tar.gz

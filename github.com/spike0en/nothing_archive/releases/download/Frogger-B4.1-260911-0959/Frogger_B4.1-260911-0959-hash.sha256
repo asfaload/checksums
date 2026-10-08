@@ -1,0 +1,54 @@
+# ===================================================================
+#                      NOTHING ARCHIVE FIRMWARE
+# ===================================================================
+#  Model:        Frogger
+#  Build:        Frogger_B4.1-260911-0959
+#  Source:       https://github.com/spike0en/nothing_archive
+#  Webpage:      https://nothingarchive.tech
+# ===================================================================
+#  Notice:
+#  Firmware images are property of Nothing Technology Limited (OEM).
+#  OTA payload extraction, incremental update patching, partition
+#  image generation, and archiving provided by Nothing Archive.
+#  If redistributing or repacking these partition images, please
+#  retain this notice to credit the project.
+# ===================================================================
+
+f7a1fd9f6b58de3bfe97b7c906fbf1faa8d5bd13de599f5f8abaef5ac5bb76d9 *./abl.img
+15d13d7549995e8fcbafb5a8df79a770c3344bb22bcff30ab7767a71cc24a403 *./aop.img
+eb6a33bc51c7e2f91220784318217d3296e028d01e58a34f7ac600d05f975f40 *./aop_config.img
+3572cc96fc38dd19f262cb7a2bbc6e909ceb2fa571c373cd1566706e54f0f143 *./bluetooth.img
+84ce87a93ac09a4feb16d688268c0ba73c3332210b28aa46fe6d94a0a6b608c1 *./boot.img
+822e395153d7bb19c99844ff8e2795b82fb051c9a56f1ce3ad0b02564e10bdd1 *./cpucp.img
+4b36801c757f6895f612e208fd5291b8b9aad0724ffe94151effec87c96a4b63 *./cpucp_dtb.img
+e59e8b03ac3680f6f49794e20f8f2bcd9bc780d030a8e55b1afc89e6f35cdcc4 *./devcfg.img
+720c2ff7d7828364474ac634b4d0158da90506217fd6dea1a17917fe30c0fe3e *./dsp.img
+554f2a44e05cb46b00ec3d1015605ddafdb8a5f2971c978f9854dd39d316011e *./dtbo.img
+96b9fda5c6a22eaf3b70d258393e32aaf5bd76d6c557f308ed275516474460f3 *./featenabler.img
+ea71daa74a7a2605dbeb2f1c0c91fbd0fcfd6cb6ed2a3e48b8aac216e5d5eef2 *./hyp.img
+916bdbfe5319b0cca026bd606b9f29e8d9795c34e8a93798a12da9f3da7c916f *./imagefv.img
+c68a498f19c1748979284327edf879ca9998bc16abb19b39a956106ab3d26123 *./init_boot.img
+1693b53dcace0a79058608a6e3a757332fb9ee9aab97957c150f55211be2b6ff *./keymaster.img
+ab197550ac086ac3da4f75480ec5d61bd54b8ba7a40afb03b9149a75170cdeb1 *./modem.img
+1dab8067cf9225e94dc20902fb66a7bfd28b64819e6aae639dfa608da43556b6 *./multiimgoem.img
+d5aec6d92a3c44618183f03ae8a14559ef64bf46907680e05078f453d41f3f3b *./odm.img
+38311c9f99ee7ea1428dae0416081d6b98fb5a46f8553dc390e3c6f621d4cf14 *./product.img
+2567a20473438102416f77a4552f349cee2c0447106a54a7aa142d5d58f7e3f8 *./pvmfw.img
+92eb70843b43c796edffdacc59fcc9d203331d5be5a8c6632f20440ca15a41e9 *./qupfw.img
+f229801aff30709cac618b4f6c1cf72b1ba0b61617a2b4f780d155b2e9de9b7e *./recovery.img
+8ef689add1a81c7988daad8848232c7ede0ea489c4002993b591a85526e31ec5 *./shrm.img
+e6747ead48e46198ab684a32a57a2f3673715c62345fda487ae4ba3cd44616d0 *./system.img
+623c68c4943201cb20120cfc26d3d2532f051725c01f73fba91e3f856445c1e4 *./system_dlkm.img
+afd5d1fb178f39c43017a1581836910ed30fbf5276ff4731ec15ae01e12d35d6 *./system_ext.img
+ff092828fdb53f7282cbf5581b25060abd73b7eb29ca716690078bbb33dbbfd3 *./tz.img
+7d8a055ad36ed33a5390c7c5560f2bd3221ab1bb638c37e18fd24bbf7e1b07cb *./uefi.img
+db4c35d8948f051eef9f8e9881e8f6e5a8ea1d2059623dc8aed9292f9e02377a *./uefisecapp.img
+75757c012b800400bca0f52e30273eaea8c768d381c464cf0d91b0f38bdc2b4b *./vbmeta.img
+eff48fa9851893999dd02d429096ecc1999737604cf16ad038a9f78a4e311e27 *./vbmeta_system.img
+903a15634ad2f9a055ed42c90f30b23b4abc45aac98835c9f51bb3b5042c4ffb *./vbmeta_vendor.img
+44e73008d4df8bb69f7d22ddc31c5392eafcf29544eaa02b23a88edfaae77fc7 *./vendor.img
+7ec412b132e920d5af3d41cb8330630f72d89989ac1774b393c5a9f7e4b2457d *./vendor_boot.img
+a81e83958c3d8ee3ae5de67ed14a3b9a28a3cefe0a3f4cf43742b4cb21af3fbc *./vendor_dlkm.img
+ddfaedf328a9e523812c9777dabf1020119143d15b1a5773f21fda5345593ed4 *./xbl.img
+ffd3efd95b63232f4fd7a2d6cf3f166c4bc44e73c929492428a1e73ad06e1f24 *./xbl_config.img
+31c064f176b71789d8eac78a3728ed92e940682836ca17168d2a202aabe41729 *./xbl_ramdump.img

@@ -1,0 +1,4 @@
+fc4eddad63cb86e9af1ce70ca54bf5fd940ca89e36a2d89468dcf68c447894a0  native-bins/darwin/VarlockEnclave.app/Contents/MacOS/varlock-local-encrypt
+8430d08851d825c90c582518b95c9f095c7dad499254b0100f4ed0d59b7db91f  native-bins/linux-x64/varlock-local-encrypt
+a8487f1bf0533b4736016bf6f09730c7dbbedcf49bc8b0c96868eaba69b85a3e  native-bins/linux-arm64/varlock-local-encrypt
+23010f5d2bb489d9957597a650b185d20ce987ce87bfb073134dfa137f2eb750  native-bins/win32-x64/varlock-local-encrypt.exe

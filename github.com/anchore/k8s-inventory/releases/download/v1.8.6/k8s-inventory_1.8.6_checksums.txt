@@ -1,0 +1,5 @@
+15749566c348870575ad66a4b8cf31491754919e41431ac888121c285b26985d  anchore-k8s-inventory-fips_1.8.6_linux_amd64.tar.gz
+020e670aa10f38de9f244ae9b46ac030f420a786ce67d44c60424263b52e6329  anchore-k8s-inventory_1.8.6_darwin_amd64.tar.gz
+bf5f6997a5efa06fe5e02a4806a9aad95f277f8ce6107b48ebe58fd00865dc8e  anchore-k8s-inventory_1.8.6_darwin_arm64.tar.gz
+12a3a2326cedf6d714844354c0b009d42831949e8078eb6fb677590d7ac36b84  anchore-k8s-inventory_1.8.6_linux_amd64.tar.gz
+fac9f04f3bd0a105e6bbe609f78cde642ac0795a46280ca2fa307ed96c7db512  anchore-k8s-inventory_1.8.6_linux_arm64.tar.gz

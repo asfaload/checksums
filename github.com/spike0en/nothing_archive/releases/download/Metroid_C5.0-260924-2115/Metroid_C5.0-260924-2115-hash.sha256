@@ -1,0 +1,57 @@
+# ===================================================================
+#                      NOTHING ARCHIVE FIRMWARE
+# ===================================================================
+#  Model:        Metroid
+#  Build:        Metroid_C5.0-260924-2115
+#  Source:       https://github.com/spike0en/nothing_archive
+#  Webpage:      https://nothingarchive.tech
+# ===================================================================
+#  Notice:
+#  Firmware images are property of Nothing Technology Limited (OEM).
+#  OTA payload extraction, incremental update patching, partition
+#  image generation, and archiving provided by Nothing Archive.
+#  If redistributing or repacking these partition images, please
+#  retain this notice to credit the project.
+# ===================================================================
+
+667ee1ba773c9e4f640ecd4cbfa5507b2c654f4eb13dc62855b642bf42221443 *./abl.img
+5f0ecca8769902852fb3b8973ab5bd239a2a4375b81289f6353cdd88596ca822 *./aop.img
+620ac6cfc06965bf4b78012d28fcf3c4cebd71028466ca00930f7c97997e23e0 *./aop_config.img
+8f1d39fe93aa8661d6397c451078e53e906e77d8633b1f281c7b757979ae2cde *./bluetooth.img
+65f8995d0c82ce0f837568fb7b5b0776c5622cfbc0cd52ea4335a9777c7c7b69 *./boot.img
+c95ab567d761eb9485b0f8797ba5a60dd202d41e7c909504c62a4bfb9c01df88 *./cpucp.img
+f7b5d2575914854488aa03b7877a61d5d9da0cd67d9a5b601d69d838257d081d *./cpucp_dtb.img
+8fc69ac9a8b4cea8a8111294b338576aedbd8489480ba6f42ad56288e604a2aa *./devcfg.img
+bb1b99a08b64feb26dd0072516b32a662a2706c5ab58e3fe7c79f952a06154ab *./dsp.img
+838ca4f47cf07b1b24cc7b93dbfe14564a1e998eede6461ba7bd980fce95d83d *./dtbo.img
+a84c97df4d4a9d9ccd48cc1fc0a2d11712a9e3947ce425a9753320240fa918e0 *./featenabler.img
+beb3104e608fbf6e66c421a590e09039d652f1ba6a95c37a4ca223154dae7074 *./hyp.img
+2fc9e6815d2c8270e494a647f632d51f4c94d75aeb4a277ffdf30e9b4036f012 *./imagefv.img
+6554b818cc81008e2725b2769c0f2ab055d4d250867f2c2b4e76606ade734e94 *./init_boot.img
+e7dceedac941ffbbdbb8e6aa881f1ddaf944c26d69f9811273fc3391e78b2fec *./keymaster.img
+43e4aa479be787c5362d9dd9355951ce4638cdb7e05a015c5c79622cf2b32ce2 *./modem.img
+9ee99ae35dda8227fbcca143da3f871131c3ba5e003cec7d9542d3fd12ff2606 *./multiimgoem.img
+39ab3483b400a4d76b86bb5ac059693ddb2243e956a8fd7a45320c8b83c42fd8 *./multiimgqti.img
+c9e79bc5a00ec98ef1a5e46963a2b2a786934e3d932754d18094947fd9bf3b76 *./odm.img
+e5c136a6bc2f8fe637dad59fcb5d9dd4e2538afdf7e19a2338af3ee50fcf1ad3 *./product.img
+a79fd7ab3a6e714e175851def6d16dc720fb6d2a9bfb4b614c6b4525c083084f *./pvmfw.img
+7c191ac926c1960fff184ece8ff5d637a951eea0f27abb995f00aeb95583c5ad *./qupfw.img
+5cc9a060cd876045dc414f49b8c304469a9909c9b8ccd83798068cd659315e83 *./recovery.img
+cce1209571a4da26cf574fe552ea2df5140e0beedc041ad5ff16b0e5e33cf39e *./shrm.img
+70b545ab05fc1f12660535709f5b05198cae918733a1fe1af08a97ff1e16e465 *./soccp_dcd.img
+e2c9248b61919199f5ca15e3db7d4589b66915f56ef81b7cfad2825dc0a3c8ab *./soccp_debug.img
+d394d2b2792cdcc2ecb356381e89a0ff56ba7eb7ba4ee1f11f196f400f23bd62 *./system.img
+20fda1a20a901922d7d40bb2e8a0bd9456381d168d5ddaf0939958bd04eecc92 *./system_dlkm.img
+be0617fa6070f70e96761c01998ce6dd110d49caa5408eb2cf1aacdf94626147 *./system_ext.img
+960bc66c21a1541f00686a00b56ed2d3e5f843d923db37d648691e2ace321f71 *./tz.img
+77de75d4bf83b22d9f5a61cac17ed2ada9f1453ec6ccaa4f41af580823b9be04 *./uefi.img
+a64f298adc58cfed646a08e6743c04efa2b839198734b6b0c0fa0b220b53744d *./uefisecapp.img
+7265e50cc90260ba9030f3d2d565a0a22f4fcd0acecc1fb21e74f8f99aa7c68b *./vbmeta.img
+9907ac8313c11cbc069042890fd7d2848ff55e5b2400a4618f3c97a0e75fad42 *./vbmeta_system.img
+a9470ca950eb10bd4a0c2829e9db47374fba614014ed49031747bcbd634fb8f6 *./vbmeta_vendor.img
+ad9b45c13f2c682f3d17a62a51b55670cc039283d1137a97b88fb334c4a6e80c *./vendor.img
+46f2ad4a180a7c6354d7f3a5697ea58bd5f61450683fc05720eaeb6dcb128dca *./vendor_boot.img
+52288c1f3084ab710dfd84105b81774c9a5fa8945b4f5ac5f1f2cefb3c2cb799 *./vendor_dlkm.img
+e8a856692121c6db91ceadb50cd874b420ab053bac82d606d53775e03a29f329 *./xbl.img
+09441831c344cc69db57afb7d67ad2fc8ede329ac39c0a14b1e04179e4c6abcd *./xbl_config.img
+b0c47eac3c2c874d9b3b90b88304d30f947b7caad9f6cc8a78e3652d2899412f *./xbl_ramdump.img

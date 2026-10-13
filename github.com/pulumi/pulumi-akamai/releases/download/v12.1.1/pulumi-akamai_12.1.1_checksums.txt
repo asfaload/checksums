@@ -1,0 +1,6 @@
+5c82bad2d261d91b985a2ecd50616ac0cdfb8e3b  ./pulumi-resource-akamai-v12.1.1-darwin-amd64.tar.gz
+8c43473e9dd4df88c1be82eb2304c1df523e9333  ./pulumi-resource-akamai-v12.1.1-darwin-arm64.tar.gz
+30f557d87312280860bd3f72a5c02a1f2a52858c  ./pulumi-resource-akamai-v12.1.1-linux-amd64.tar.gz
+c14b8748cd77c7dc73124279431cf906b4e1d185  ./pulumi-resource-akamai-v12.1.1-linux-arm64.tar.gz
+c3f6c0b09c416cc04a717239b9609d5989f40953  ./pulumi-resource-akamai-v12.1.1-windows-amd64.tar.gz
+d9e93374b979daf1d682c52bdb5bfdfd110a36bb  ./pulumi-resource-akamai-v12.1.1-windows-arm64.tar.gz

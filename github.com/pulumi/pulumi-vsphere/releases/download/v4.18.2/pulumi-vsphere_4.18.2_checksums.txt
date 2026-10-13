@@ -1,0 +1,6 @@
+0694757c1b092ccb7e1519ef4e2eebb80ce24c9d  ./pulumi-resource-vsphere-v4.18.2-darwin-amd64.tar.gz
+14fb9f0573b13884285fba10cfa12180fad3f4a4  ./pulumi-resource-vsphere-v4.18.2-darwin-arm64.tar.gz
+cb5b717515215d373395bfca8af63fab45701f2f  ./pulumi-resource-vsphere-v4.18.2-linux-amd64.tar.gz
+38d00b2eb16f8dac4e62c52dff5f14eff51fdff6  ./pulumi-resource-vsphere-v4.18.2-linux-arm64.tar.gz
+6221df25652fc6685a5e5e9858a249044b482556  ./pulumi-resource-vsphere-v4.18.2-windows-amd64.tar.gz
+89928bbe605cab76987306fc36dc7630f9054982  ./pulumi-resource-vsphere-v4.18.2-windows-arm64.tar.gz

@@ -1,0 +1,6 @@
+c130797ac4e166d83d0456c72bdb58ae992da3df  ./pulumi-resource-slack-v0.5.3-darwin-amd64.tar.gz
+d033cdbdf486cba21fbedadd844078af2ba5da7a  ./pulumi-resource-slack-v0.5.3-darwin-arm64.tar.gz
+362bfc7b51da74a3527b200bb3fec07a48e4ac25  ./pulumi-resource-slack-v0.5.3-linux-amd64.tar.gz
+5fcf2f0ecf6b4e581efcee8fba65572af0930f77  ./pulumi-resource-slack-v0.5.3-linux-arm64.tar.gz
+be553cb3c8ac93d76ab9edd2494e83e2c8cf5d62  ./pulumi-resource-slack-v0.5.3-windows-amd64.tar.gz
+b602d5cc1c87526a693a9fada83b135a14138791  ./pulumi-resource-slack-v0.5.3-windows-arm64.tar.gz

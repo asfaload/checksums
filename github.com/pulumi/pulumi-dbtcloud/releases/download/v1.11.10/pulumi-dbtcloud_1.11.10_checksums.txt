@@ -1,0 +1,6 @@
+f7ab078e815b86ccd0b2ea20932ccae84dea7d62  ./pulumi-resource-dbtcloud-v1.11.10-darwin-amd64.tar.gz
+43b459ee40ac2205d9915b86ffd7b6208dfaabcb  ./pulumi-resource-dbtcloud-v1.11.10-darwin-arm64.tar.gz
+611a91319d7aacff0cfc5eb6c7c5e401db660050  ./pulumi-resource-dbtcloud-v1.11.10-linux-amd64.tar.gz
+084a46476d4354c67f1acdf6534bafdb3a732139  ./pulumi-resource-dbtcloud-v1.11.10-linux-arm64.tar.gz
+870fd7491714afa21ca1dcd1648861a220770c74  ./pulumi-resource-dbtcloud-v1.11.10-windows-amd64.tar.gz
+064ffbd4b96908a30c85ae66e619c05c52b0cbee  ./pulumi-resource-dbtcloud-v1.11.10-windows-arm64.tar.gz

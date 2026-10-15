@@ -1,0 +1,8 @@
+7fcef28118f6707a580881631839cac34288746906174ab91f5cf0b084f2884c  lagoon-ssh-portal_0.47.5_darwin_amd64.tar.gz
+fd70fd0336be89953eb06487dd380698229a8aa06699d71161a154ddfc026668  lagoon-ssh-portal_0.47.5_darwin_amd64.tar.gz.sbom.json
+6fa8c6bde074164e7981eb4d9912afd22e03c57f0ea4df33084709a3a182e477  lagoon-ssh-portal_0.47.5_darwin_arm64.tar.gz
+2073dbf661b9234c21f8c6f42d859ac558a214522dd6f4ee3fd9c8a3339514ac  lagoon-ssh-portal_0.47.5_darwin_arm64.tar.gz.sbom.json
+b35103134a1e62f19ff9d8dad53e6e15a05a879c105fb07243b407397990d315  lagoon-ssh-portal_0.47.5_linux_amd64.tar.gz
+e1e3fb6098e9aa593fd3c85e1a4678b20cf4c43e9db323a38e98982cf5739120  lagoon-ssh-portal_0.47.5_linux_amd64.tar.gz.sbom.json
+1027e16451d732fc96e05933249664bc4147bdeaa94622745324b625205413fc  lagoon-ssh-portal_0.47.5_linux_arm64.tar.gz
+bd59e0124f8ec69f19ddca583812450455f2b848ba18dac3260f2136cf0477c0  lagoon-ssh-portal_0.47.5_linux_arm64.tar.gz.sbom.json

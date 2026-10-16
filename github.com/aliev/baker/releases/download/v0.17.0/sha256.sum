@@ -1,0 +1,9 @@
+b260d2de2224365a9c4b26a0edf7de9839b8a7cb05b6847f0b04056335c8fbe7 *baker-aarch64-apple-darwin.tar.xz
+47fba82e0e47707e715171ceede5ca89c35e7642a59e6d8fe79a98d28bd4c67f *baker-aarch64-unknown-linux-gnu.tar.xz
+068c45e5a017ac8f1b68d2faf1e1e33a37a2e6464d97f92fd2ac95d340d87f4c *baker-aarch64-unknown-linux-musl.tar.xz
+489dfc824548d233319a4a1dba23955e78995c2d3638694b9dc12593991a4b5b *baker-x86_64-apple-darwin.tar.xz
+c16476446a20dc1930e369868b590204b051ec3a19e3da7bfb31de2bd785b17b *baker-x86_64-pc-windows-msvc.zip
+d70cc7896d2a4a5a29d9ed12cdb94e3fcc3fbb4c284e6623bccc42d6a03525c7 *baker-x86_64-unknown-linux-gnu.tar.xz
+a37de86497016ff149c11552a2de1cc12a762588a06a30e154f55b1da29748bf *baker-x86_64-unknown-linux-musl.tar.xz
+3ef667eb3ef1c97604bf8025b9779c7b9020fdc79220bc3e82b938aab93268be *source.tar.gz
+

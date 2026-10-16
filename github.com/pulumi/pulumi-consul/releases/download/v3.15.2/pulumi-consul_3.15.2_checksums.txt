@@ -1,0 +1,6 @@
+5a31340aecd3d7b8d6a2c132bf53f211cf205352  ./pulumi-resource-consul-v3.15.2-darwin-amd64.tar.gz
+6d20fde683fc0de3f7a5348b07fa438663034cd4  ./pulumi-resource-consul-v3.15.2-darwin-arm64.tar.gz
+55ef74ff91e06b4b6baa5e99235f65b076f74068  ./pulumi-resource-consul-v3.15.2-linux-amd64.tar.gz
+c05c2305f2138610cf5f1907373041fd18d54c4a  ./pulumi-resource-consul-v3.15.2-linux-arm64.tar.gz
+67a18bb87bc9c27ad95e2ff34aeb49864165ff2b  ./pulumi-resource-consul-v3.15.2-windows-amd64.tar.gz
+1bf78a3d1f2b7b980f2ed878bdbab8e15caa5254  ./pulumi-resource-consul-v3.15.2-windows-arm64.tar.gz

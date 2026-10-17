@@ -1,0 +1,6 @@
+bbfc1fe76ef1a86173e2767ea1ced34e56defade8a8c400418c20966490c981a  image-packer-linux-amd64.tar.gz
+db3e9e312da4b88424a74197dd3b589e6d4489fcc14cb640d56fea47c44c1772  image-packer-linux-arm.tar.gz
+7a86d28a796d48c71980ae2b1a73d384550ac17d93ab96e6e42c16842792f4d9  image-packer-linux-arm64.tar.gz
+da3ccbcf4778464bba1473f5bb2c46eca5836fc53231d0c57e19a1b7adc04142  image-packer-windows-amd64.zip
+6d09be477177aef6d0b2eba58bb0102e94877827f55b18f41bdef59d521522a8  image-packer-darwin-amd64.tar.gz
+ede68d553d487f058e96daad72213572095ecf2166e8d9404edb683be00e086a  image-packer-darwin-arm64.tar.gz

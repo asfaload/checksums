@@ -1,0 +1,8 @@
+190aee6f6b34f44a03d23aaf461ebb741c725d20c18ee4ed8103672746fa84bd  docker-credential-acr-helper_0.4.2_Darwin_arm64.tar.gz
+f7fbe37170db0e73807dcb9cdba19e48323215f3ff776b46f4c8fd3623179bc8  docker-credential-acr-helper_0.4.2_Darwin_x86_64.tar.gz
+c135f03cfd0e7775e6068f05567bdabb3339301c1517068a4b4e0ea99b273fc5  docker-credential-acr-helper_0.4.2_Linux_arm64.tar.gz
+0fc3a60d7cd0b27e9c8920bcfb9cfb4409bb8ef104f63141fc70e4654b14390b  docker-credential-acr-helper_0.4.2_Linux_i386.tar.gz
+42f03734c7c51391d3a8caea4ca0ebf62319ccd5fa14b2b7ae0612df46d2c626  docker-credential-acr-helper_0.4.2_Linux_x86_64.tar.gz
+984f214e93e0ceed1bea0f31115a769cc4bcdc49312f41f30e0652934cb9cd50  docker-credential-acr-helper_0.4.2_Windows_arm64.tar.gz
+fb43e3bdb2b45b763cdc2ad1dcae031095805daba98251c316480f908560d0bd  docker-credential-acr-helper_0.4.2_Windows_i386.tar.gz
+de2b6d6fe2c4f2c38cce5c9a5767218a219bc2b08f57930f0df67c104b36fec4  docker-credential-acr-helper_0.4.2_Windows_x86_64.tar.gz

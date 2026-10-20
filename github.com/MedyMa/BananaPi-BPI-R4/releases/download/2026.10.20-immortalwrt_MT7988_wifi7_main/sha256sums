@@ -1,0 +1,14 @@
+fb6214cdedb8e833e05551144b0b851df031d9fae02f0cc8ef25c1d55fddff89  ./config.buildinfo
+404d0a833e8b27e6469ad5acb28994f07bee58d170952a5cd09396cc16814012  ./feeds.buildinfo
+e4651b57d2e2da179743cec028a094b2462294cd8a02743c3dbc7c782ba2986a  ./immortalwrt-mediatek-filogic-bananapi_bpi-r4-emmc-bl31-uboot.fip
+910239c0152f39db68642d37594039570bf6cc50812faa6af67f07ea25bb5118  ./immortalwrt-mediatek-filogic-bananapi_bpi-r4-emmc-gpt.bin
+68f54fe4716a01d883940ccdc699ea9a800453b4c72a2a525e053cc72b8db6b2  ./immortalwrt-mediatek-filogic-bananapi_bpi-r4-emmc-preloader.bin
+f140e79caf526ddcf5256b86a362d216a916c68909bd7767a3295fc3618d1555  ./immortalwrt-mediatek-filogic-bananapi_bpi-r4-sdcard.img.gz
+7dfca1625d94cbe1794f558c223799cdb41b1391610e7b0d0431b25df7044bbe  ./immortalwrt-mediatek-filogic-bananapi_bpi-r4-snand-bl31-uboot.fip
+bd0248ca1e8d3d6af539f15a6d0fb5f066b70ab37133428f9e34b5d93311aa47  ./immortalwrt-mediatek-filogic-bananapi_bpi-r4-snand-preloader.bin
+42a8798541ceb0172b434b16ff3495b06792abd4a3b5d9ef9a63b654e4310d21  ./immortalwrt-mediatek-filogic-bananapi_bpi-r4-squashfs-sysupgrade.itb
+636eea43ca63abea3ca9bca39fc365dbfb2a671bf97c3948a45a53b5d52a75ad  ./immortalwrt-mediatek-filogic-bananapi_bpi-r4.manifest
+1336fc0d1cdf571550df1a621ea0887b6f66392b6e3e0d1fbcd895bba2d0e9c1  ./profiles.json
+b88b41df94285aefc653fab975fde6fd976862ff07cda9acc00a891786301112  ./version.buildinfo
+7b5618131c109c6b418c4668e461427aa413f746f606c786e4c374d0ffb6d3df  ./wifi7-source.txt
+30c45bd5cf7b0198b2743599d0d240c26071d5d85c5a72d93121f20598e121d3  ./wifi7.config

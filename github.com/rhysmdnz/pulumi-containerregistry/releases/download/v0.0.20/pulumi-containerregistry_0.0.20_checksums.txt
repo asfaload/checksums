@@ -1,0 +1,6 @@
+6b555817ff630ba30135c330164843abe2ae0fa0  ./pulumi-resource-containerregistry-v0.0.20-darwin-amd64.tar.gz
+6abcadcfb98686459fdbb1f586a13f954baced70  ./pulumi-resource-containerregistry-v0.0.20-darwin-arm64.tar.gz
+c90115fa5ddbd5b882993af888a58bbc00a2f481  ./pulumi-resource-containerregistry-v0.0.20-linux-amd64.tar.gz
+914cbb769a55ca124cbd761479062583b83ab53a  ./pulumi-resource-containerregistry-v0.0.20-linux-arm64.tar.gz
+35b50a2ef81393bf92556a502c9fb1d38e47f0f2  ./pulumi-resource-containerregistry-v0.0.20-windows-amd64.tar.gz
+c00abdee51344bfba38474ffd0bb86d9fd8eabee  ./pulumi-resource-containerregistry-v0.0.20-windows-arm64.tar.gz

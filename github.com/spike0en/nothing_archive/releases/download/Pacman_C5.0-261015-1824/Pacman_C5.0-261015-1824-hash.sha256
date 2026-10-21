@@ -1,0 +1,53 @@
+# ===================================================================
+#                      NOTHING ARCHIVE FIRMWARE
+# ===================================================================
+#  Model:        Pacman
+#  Build:        Pacman_C5.0-261015-1824
+#  Source:       https://github.com/spike0en/nothing_archive
+#  Webpage:      https://nothingarchive.tech
+# ===================================================================
+#  Notice:
+#  Firmware images are property of Nothing Technology Limited (OEM).
+#  OTA payload extraction, incremental update patching, partition
+#  image generation, and archiving provided by Nothing Archive.
+#  If redistributing or repacking these partition images, please
+#  retain this notice to credit the project.
+# ===================================================================
+
+8d6f3daf8dca8932b445a0bff9ce6230a50aa830d306613a8db193f0e49a042e *./apusys.img
+74d2b53fbc164e7df2ee2acb305ac60c17374e08845ebea2b6f4ec38ca9f2d12 *./audio_dsp.img
+088124e2034d5d4547ad4f23228f8b521e30e630b6c2f862e2b2c55788433c5f *./boot.img
+77554c502c681c3e885e5f58ef104a754cbb666a5b6f04f9342335b17762d3dd *./ccu.img
+d7b78f2597aadb774980d71e8f3b3703dc3fa4683b54c537b71fefea701b481b *./connsys_bt.img
+db7064768c18330ab4ef4f573635ebe07f0495a09da0b9ed5369e0525c4cee48 *./connsys_gnss.img
+f562e441e64f8a1ecea40d80bfefe398f26ed4c3833629715156c073a3af47e7 *./connsys_wifi.img
+c057881c01043305823d1470a4f765275df31aa198c42698158b8437bf3fbbd7 *./dpm.img
+a170aa09a217c94915e29f4790d9a6f14668a7f1a5e673e32d723d914d32f9f3 *./dtbo.img
+f16cdf9f3f9d10a5004d71e91aa51922533c7f87fa56ee510a5ddddd936b502a *./gpueb.img
+f11bae1bf8a8d3f7599bd0257e165808ceee3cec539fb09ce5e8397ef57cf2b4 *./gz.img
+5226a0afec1c84165ab2c2ebb8de4bc9a6e8265f9af1f00ea72289bf2deb5488 *./init_boot.img
+05c7db1ada76fdcb977bebe8816562bd736fdcfa3503eabe4d885fb9fa7cc74e *./lk.img
+8c0b34ccd69ce3eb437d4267981529a033a079c0e0620431ec162316141c27b7 *./logo.img
+f76ec39b5fd92c1eb6e6ba18e17b766b05acd8b837a2547ab82e9d82f86b6b2c *./mcf_ota.img
+80297c7428cc521a96f1796d02c1d9e304a4065b34aa6a517070c02f55f51507 *./mcupm.img
+1285a90e2a9a61d93b1250f8d0905d808b7a6bf75acdcb4850cf41b5abcc1312 *./md1img.img
+3b00770b7985751dc8694aac86137864658ee68cbb0f99251174a22d248c9b40 *./mvpu_algo.img
+58388623dbdeb3949f378381eebf423053cf6157c76ba5eb8fcef67ba9c6f4af *./odm.img
+18e2fa7c2df74d691342dc83c0a13828c719a432c9969418e3a256ac02d0b467 *./odm_dlkm.img
+f0eef55199ea60cf3ebc6c1f3438147286f3b4881d2a2bd37aa3e7047b0b2124 *./pi_img.img
+b8759d2f38c1b5cfd6caed14197cb9e06e0a8390667dd7feaaf186daad6e451d *./preloader_raw.img
+30b7e710919764a8d2a0a79848c4e4ea0a4a748b83ff0dcfe026685fb571ff74 *./product.img
+4ba1b565a596fd31ce2fa6a61bd3ec4e7cd093c6299b22a0e9621bee150d57eb *./scp.img
+002072146f329359a277a380828a5e2e664f3440f4846f7998dba254b106d52d *./spmfw.img
+eaa224c4ebb21414c0b44146ff114f03dd56f39b15384b846b1bd92d93bcccd5 *./sspm.img
+8da93fcc6bd838f17874cd9184db57b66d092e577efe1e8133bd7a6198fcb362 *./system.img
+d345d71fffa151fb6fbbfe7c02d9efe9f886cb5ccec385fb5ad62e478a488872 *./system_dlkm.img
+a894ca2956f1543ff19e341bfb00eb9e645f0a2813f4ab3825c751ac7049a024 *./system_ext.img
+510013320077006884e0fd6f63637a519b498011bbf6b5b671995a9fc2f029f7 *./tee.img
+17017e064ba911c628b0b487fd5cdda5fff84f8981f0267f3d5cd962a090480b *./vbmeta.img
+23f27cbb0f6e5052c36d0c5a02f12785308bfa8884014c8da14d8679fd4aeb5a *./vbmeta_system.img
+7f6d9bed9f527e81e6a3b4a8584d55d90b1b43623f9f66f4eb837cc3631fb503 *./vbmeta_vendor.img
+f4a09c6bbaca04a54e09b553a24dba8f433a45857f9825f51036fe02b896b1d2 *./vcp.img
+2ddf12b640177c99a41b60ad4bfc211d532168201d8ae360d13038da237c1a78 *./vendor.img
+a7867b041f982af96221610457990938e47af7090045e11ada1f76475e9fd52e *./vendor_boot.img
+384271c2c4f637a1bdd7cc5507eaf60670205a993421b2b718987069edf6bb84 *./vendor_dlkm.img

@@ -1,0 +1,6 @@
+0f89201a6eb80d33dc322811a989636ba7a90c68  ./pulumi-resource-databricks-v1.117.1-darwin-amd64.tar.gz
+7032812e12759349280e0ba63821f5d6e7679255  ./pulumi-resource-databricks-v1.117.1-darwin-arm64.tar.gz
+6c8d7cc6b997240a45aae47e651a7b43253dd913  ./pulumi-resource-databricks-v1.117.1-linux-amd64.tar.gz
+03bc136cd0cdba7759442801b3021e192912a7fc  ./pulumi-resource-databricks-v1.117.1-linux-arm64.tar.gz
+9d2f279dbd40c3f4651faaa7acc761d2b67a01e4  ./pulumi-resource-databricks-v1.117.1-windows-amd64.tar.gz
+68583e19b88fb0be7790fa83609a0c5d2ad2d10b  ./pulumi-resource-databricks-v1.117.1-windows-arm64.tar.gz

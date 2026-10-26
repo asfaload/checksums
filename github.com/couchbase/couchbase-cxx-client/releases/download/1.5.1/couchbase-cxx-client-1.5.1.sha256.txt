@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+7f851be7900303303442fa5a8f5875d1b86ce8642b65173e9fd6e88b16357630  couchbase-cxx-client-1.5.1-1.amzn2023.aarch64.tar
+25f45672b92e07c1b902ff621ab7c3c0b9f00cf282f0b3faa2bed6e6ff699ded  couchbase-cxx-client-1.5.1-1.amzn2023.x86_64.tar
+3460f86a2dc1ff3cf2f4f650f0139391d300df383b63e9ad5bb802f6b384275b  couchbase-cxx-client-1.5.1-1.bookworm.aarch64.tar
+c86ef2dd697e5f34cd1df7df92b4afa9fe641b837fcf93d8037fde5a9f88e1c2  couchbase-cxx-client-1.5.1-1.bookworm.x86_64.tar
+cd204e3db2e175988d22a3225094064f46c9e9105981a5ceab16c181de9b7765  couchbase-cxx-client-1.5.1-1.el10.aarch64.tar
+e6099898107b414656404349202adcb19d3efda7e11db8375629d1ff7b27ebdf  couchbase-cxx-client-1.5.1-1.el10.x86_64.tar
+d67e427b257333d6583c8af9bc3627b2147f46b9082fd25d978bdd65fd2134a7  couchbase-cxx-client-1.5.1-1.el8.aarch64.tar
+5b01eb5550fdc652f8df46f7497eb7338361748043280fa82c805d1f0580d0c7  couchbase-cxx-client-1.5.1-1.el8.x86_64.tar
+0380f64b7f09528310d3a3c1590af0cf534d93b62c67b9ab0b001e0a80fb41b3  couchbase-cxx-client-1.5.1-1.el9.aarch64.tar
+e1f425ea2cd81601542e805f431cac837b7c2628a478d57b23a938cf34c3a3eb  couchbase-cxx-client-1.5.1-1.el9.x86_64.tar
+fee02a0ff6f18f513f0685c1f1e4d6265f4e1215442a75f36695497c9fca35c4  couchbase-cxx-client-1.5.1-1.fc43.aarch64.tar
+0788f0b463d3acabac0e016359a311192743b7ba55df87f89ea7dc41ead0d8a7  couchbase-cxx-client-1.5.1-1.fc43.x86_64.tar
+6fd824fb6200c7818d7789ef2a9a7871aad636e0d1e71eacf0fce473a3dac35c  couchbase-cxx-client-1.5.1-1.fc44.aarch64.tar
+57380547c07705086c9f9a17599a36217ffe4c0ded2cbdb7e3802102dbd9ed82  couchbase-cxx-client-1.5.1-1.fc44.x86_64.tar
+c4fdb95018fb3ece1c45111016984a4a37ba8aa208c1219980b6ac3c556927da  couchbase-cxx-client-1.5.1-1.jammy.aarch64.tar
+fe34d14410b78542df4aa537800866229f8e7909c5a02d095688b10726085dab  couchbase-cxx-client-1.5.1-1.jammy.x86_64.tar
+55420d13641f5610f165af81dc24e7d99587ed13db79acc325814e32f7f2d436  couchbase-cxx-client-1.5.1-1.kali-rolling.aarch64.tar
+c0d8d65ffc092d05701b886787c14b7026ae03812d8f2f9f151211a9c793f2b6  couchbase-cxx-client-1.5.1-1.kali-rolling.x86_64.tar
+0038d29bdae67aad5f38fa6d018718aad6df00fbb7d2ef27c03696317ebe34b0  couchbase-cxx-client-1.5.1-1.noble.aarch64.tar
+a6f3fd4db72e124d85a5881b2ac5090fbf3ea841a7a6b97ef3f014a4023ea47c  couchbase-cxx-client-1.5.1-1.noble.x86_64.tar
+b070b98469b5b00e8327712045f37d5cc80bc26e3f4e568aac18885c91da0a81  couchbase-cxx-client-1.5.1-1.resolute.aarch64.tar
+9a4a465edf88aa70bc30aa28d06b272fb6f67405f5aeb7b4cab3d781e1d8bf6c  couchbase-cxx-client-1.5.1-1.resolute.x86_64.tar
+5c8f9cdc8766d40c70b7b7739b6a9aa38e93f11fcfc9d8e762fe9a4fa8ff804b  couchbase-cxx-client-1.5.1-1.trixie.aarch64.tar
+79010e3db7299ce4c13e0a49713f896ce4d7f12ee524854bc16dd6ab6f6ca15d  couchbase-cxx-client-1.5.1-1.trixie.x86_64.tar
+dbca9640f378bd066cb403ba189af0586c921a73a19a751d95cc24b09a5fca73  couchbase-cxx-client-1.5.1-r1-aarch64-alpine-3.21.tar
+1bffda86121e899244818fa98d392a2a6436864de8201a390982e3131fb6cfa9  couchbase-cxx-client-1.5.1-r1-aarch64-alpine-3.22.tar
+b4b92f520322e796c62c7cf71bce156ebc8c8554fcd41d5f75e2cb8e590a92b1  couchbase-cxx-client-1.5.1-r1-aarch64-alpine-3.23.tar
+4ea26930848155ba217598b3715021dd843419f651f8bba6c1220305476605cb  couchbase-cxx-client-1.5.1-r1-aarch64-alpine-3.24.tar
+51bba686c6fe259be1ea6b2becdcd8025801deb7da1c6d801a5efcfa5aac4ada  couchbase-cxx-client-1.5.1-r1-x86_64-alpine-3.21.tar
+3360c8add34f80d4a01f3da65b406a4306ae26e2552020f7ca5fcd67d18d5282  couchbase-cxx-client-1.5.1-r1-x86_64-alpine-3.22.tar
+8ff054d3ffc38263793bcfa4d791a605c76f626555bcd8cea2a6ea82f9098d0b  couchbase-cxx-client-1.5.1-r1-x86_64-alpine-3.23.tar
+43ccaf64132987bab1a72a6c5a7d527807fe8cc63d28dce708cdb037314d0b60  couchbase-cxx-client-1.5.1-r1-x86_64-alpine-3.24.tar
+9112d1e34f68b4d9f00f397eec487b169a896f1337938f9a3661747947656a9b  couchbase-cxx-client-1.5.1.tar.gz
+-----BEGIN PGP SIGNATURE-----
+
+iF0EARECAB0WIQQTbNO6iE48sOROelvpBcdwzUBuYgUCat+X2QAKCRDpBcdwzUBu
+Ysr+AJwLDnrKAA13Mvk+nYbwr3bkz1/ttQCfRng/nXSBgsY5lvYS+uz4EBHQ+us=
+=3u4n
+-----END PGP SIGNATURE-----

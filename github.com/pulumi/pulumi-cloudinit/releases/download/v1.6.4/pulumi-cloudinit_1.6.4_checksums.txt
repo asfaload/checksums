@@ -1,0 +1,6 @@
+c1dae192acb23f400f1302b31ff6396f962801cf  ./pulumi-resource-cloudinit-v1.6.4-darwin-amd64.tar.gz
+0ae71878805eb33c37fbc6f7688ace286cf1b06c  ./pulumi-resource-cloudinit-v1.6.4-darwin-arm64.tar.gz
+411bb2ccc38f61d0632dac8428a676329cbe4ef1  ./pulumi-resource-cloudinit-v1.6.4-linux-amd64.tar.gz
+c07bec34b7f20638671dbc6c8824cf3403cfe7df  ./pulumi-resource-cloudinit-v1.6.4-linux-arm64.tar.gz
+b3d5eeaddf4f6c9cadc94443c1a26760955e22e6  ./pulumi-resource-cloudinit-v1.6.4-windows-amd64.tar.gz
+676bedb4ce6290adddab9baee8695d41a1239930  ./pulumi-resource-cloudinit-v1.6.4-windows-arm64.tar.gz

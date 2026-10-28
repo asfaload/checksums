@@ -1,0 +1,6 @@
+7b0df852b083b4971883b694f3fb99896710d31428a55f48e9c78449cde775f2  pulumi-resource-kubernetes-ingress-nginx-v0.2.0-darwin-amd64.tar.gz
+7614330686a752203c40a5e302505c7dc45c84992d451aa4db695355a41b2db2  pulumi-resource-kubernetes-ingress-nginx-v0.2.0-darwin-arm64.tar.gz
+10928d55082c79c116035a26be1d05a17dc2e09b9f27f72d48b60c87a5889bab  pulumi-resource-kubernetes-ingress-nginx-v0.2.0-linux-amd64.tar.gz
+6db4086c745d1a5ba0f5d600869cec5693a30c82a271d3385d78c1430b27510a  pulumi-resource-kubernetes-ingress-nginx-v0.2.0-linux-arm64.tar.gz
+36850373430874cc3776ab45e8814a0cfe6eeda8b9113ab4e0af7427de736161  pulumi-resource-kubernetes-ingress-nginx-v0.2.0-windows-amd64.tar.gz
+89a8f8bda7ce71199d9afd7740d6374235f1e30a862b3e569435554186821d9d  pulumi-resource-kubernetes-ingress-nginx-v0.2.0-windows-arm64.tar.gz

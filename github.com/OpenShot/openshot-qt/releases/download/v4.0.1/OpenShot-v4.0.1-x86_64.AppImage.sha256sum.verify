@@ -1,0 +1,5 @@
+Run this command in your terminal in the directory OpenShot was downloaded to verify the SHA256 checksum:
+  echo "cbeaaaf1de5afe8b3cdb55f50680e5d8f37ff0c2ea5052ddb012c01c9cca7a3f  OpenShot-v4.0.1-x86_64.AppImage" | shasum -a 256 --check
+
+You should get the following output:
+  OpenShot-v4.0.1-x86_64.AppImage: OK

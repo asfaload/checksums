@@ -1,0 +1,16 @@
+d13a923a2e6f2a177639bf6df4271f2a1394a332ff21fb3499126c25f63930fe  subctl-v0.25.0-linux-amd64.tar.xz
+42621a439bfa0c7efb7886e10877eedc3db3b8019ade8811e2ff3ad032a4e198  subctl-v0.25.0-linux-arm64.tar.xz
+0985bcd16d0538b3b7c09454adc3b5ab16cf4c73deea4f00d417d80359ac3a51  subctl-v0.25.0-linux-arm.tar.xz
+0b27315cfeb402bb3d637bbed4eaad94fc041c1ddfeac61b25e4c98fe98eff4e  subctl-v0.25.0-linux-s390x.tar.xz
+9868153d4a24c17da28a48351b56fa84461009378adb575582958f37bff8a4f5  subctl-v0.25.0-linux-ppc64le.tar.xz
+5b3c95ab2326b6c62d9b67bf25f880a7df7db1a40930cd61a7e413dc9f46d358  subctl-v0.25.0-windows-amd64.exe.tar.xz
+19aea27f637fb1118099ce29432a308b5e07eb31d015b22d04cf6cc7602c232e  subctl-v0.25.0-darwin-amd64.tar.xz
+3c6f1a0e4187f52d10b33886b7043239749cce2b76e9aa762eec035b903eabea  subctl-v0.25.0-darwin-arm64.tar.xz
+4f59f04647c7f7ab9084e36f8c447147b53b1ef7afb8ae76fcb0f9a15295e1f6  subctl-v0.25.0-linux-amd64.tar.gz
+ee9b27820b09985f8eb5d5852ae2cd6c56763026755ac356cce064b596096834  subctl-v0.25.0-linux-arm64.tar.gz
+01e4e8fc06c241a9430209e9a6e5020d497e65ab36a9c0f2c14f1e7591e4ea2b  subctl-v0.25.0-linux-arm.tar.gz
+ae78876a2847a00597fe0b7760808babbd47833d670c595942ce23966e093585  subctl-v0.25.0-linux-s390x.tar.gz
+b82643f5fed987a616e6fea6a3f5e4c0e03f6a62bdc785735fcf9473faddf4f1  subctl-v0.25.0-linux-ppc64le.tar.gz
+92bee09ab67accd11fe552873cf963b8d9dfce1e7ead6f14bb40b27a54fdcbdf  subctl-v0.25.0-windows-amd64.exe.tar.gz
+4a8861bd33762ac7ea952affeadbe8559951c40834199b2d998073b499a659c6  subctl-v0.25.0-darwin-amd64.tar.gz
+f65e4607861ef2fde7ebfe7e6fd7540276fb348d3ab076f417ffecfc9b54a2e1  subctl-v0.25.0-darwin-arm64.tar.gz

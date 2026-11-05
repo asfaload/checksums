@@ -1,0 +1,6 @@
+59d40cd87c57cc9e18e973e3a7f74dc8d38ee10c  ./pulumi-resource-docker-v5.2.2-darwin-amd64.tar.gz
+c7ec0276adfc867c6c6b98aaa930c8627e66318b  ./pulumi-resource-docker-v5.2.2-darwin-arm64.tar.gz
+7a5bd6ee614d46aeba6f066b0209b837c8af5652  ./pulumi-resource-docker-v5.2.2-linux-amd64.tar.gz
+c1926f878cbd92a4991cac10198550d0aa0d7043  ./pulumi-resource-docker-v5.2.2-linux-arm64.tar.gz
+bceb33ab716347c542e1ee8b9708fc6c1ec7a09c  ./pulumi-resource-docker-v5.2.2-windows-amd64.tar.gz
+f9d2f9233dd28e7263307fa66b18eae34ae4f641  ./pulumi-resource-docker-v5.2.2-windows-arm64.tar.gz

@@ -1,0 +1,14 @@
+b7af444bd8f91d3c307477e562f2cf3bd7595d62b9429185e4fa841563578cfc  lima-2.3.0-Darwin-arm64.tar.gz
+d58bc7d6b8158d638720d8c8fdb17eb58527dfead6a29a5b60f48a35ee4a65a6  lima-2.3.0-Darwin-x86_64.tar.gz
+7e295d243d9b9439fa05628500daff4371a6861cc7e995ac4af4a0781f736cc6  lima-2.3.0-Linux-aarch64.tar.gz
+cc8ba97f1c801b899f7c9eda9919dfc4ce4fa2c140c53e5add15aa2d0a1936f9  lima-2.3.0-Linux-x86_64.tar.gz
+414c55841f81d8af827f81ea7380e6a62fc83b418e84b1338fb036f16aab36ba  lima-2.3.0-go-mod-vendor.tar.gz
+c7158f73f88c9cc443e7fa32d6dab1b2037786e58d82ccf9a5aa2153aafa4d19  lima-2.3.0-sbom.tar.gz
+f43a1523a3a0a45692ca9cb3e5c61ae11b69ef04ca80081e8e05fe4df816a35a  lima-additional-guestagents-2.3.0-Darwin-arm64.tar.gz
+cecb56c17ee4aaeac9412b079f175bba52d50b657829099f37b67b424c6364f3  lima-additional-guestagents-2.3.0-Darwin-x86_64.tar.gz
+4451a7c294350554041c4b3246496af790c3721e0f0842be00c84f2fce09ac3b  lima-additional-guestagents-2.3.0-Linux-aarch64.tar.gz
+28f1b8b2ac1f0facb98e947fbc9d5f9312017a905a09a3bdf1103d600315e844  lima-additional-guestagents-2.3.0-Linux-x86_64.tar.gz
+fbd49036909ba3833ea8618743bd3a051eb21049c80c0772452f79ed45af99dc  lima-2.3.0-Windows-AMD64.zip
+3796ddd6da734c3edd3ae3cea182bc8655df03e8b08cbd4c647e4664481e25e7  lima-2.3.0-Windows-ARM64.zip
+ab71b2839c71183a7e7fdad89476b2b445dd0298b8aa6fe506ae77b04f827178  lima-additional-guestagents-2.3.0-Windows-AMD64.zip
+a57bdecfde5ca694a132d9245a069c5dd0da9214d7267ea252ef166d5d104622  lima-additional-guestagents-2.3.0-Windows-ARM64.zip

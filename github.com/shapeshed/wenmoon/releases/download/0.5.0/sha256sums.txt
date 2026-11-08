@@ -1,0 +1,10 @@
+1fb40ddd05055c2feb5185ecf82c32926765ed61278878454882921154ddcbc5 wenmoon-0.5.0-arm-unknown-linux-musleabihf.tar.gz
+47d40627a667e8fc86c376f116743928f8a5f014d9f1538068fa2af4f639b595 wenmoon-0.5.0-x86_64-apple-darwin.tar.gz
+82b96a6eb2016c9b0d858de60e0136fe0c423ee02ac767e96f2e099a4d75bcd4 wenmoon-0.5.0-aarch64-apple-darwin.tar.gz
+b5cdcfa3714e0a561f03e12237bcb528de3ae50bec32a390e65660eb4730d0fa wenmoon_0.5.0-1_arm64.deb
+55638db26ee5014257847a756b786a62d4066897df9be824c6eaae9fe6fcc7c6 wenmoon-0.5.0-aarch64-unknown-linux-musl.tar.gz
+e347c522ba5fdd164a72d0b0091fa88a8964ce37ad0144cceaeb538c07a1b7d3 wenmoon-0.5.0-armv7-unknown-linux-musleabihf.tar.gz
+87eb1009feca7f049a307988ead8388e0f60f8cc9d8bc42ab32e66eaa595de1b wenmoon-0.5.0-x86_64-pc-windows-msvc.zip
+d03d4da21d04f8f588e2bed393ebbffd61a73e03f89a193ea0fae309a029b997 wenmoon-0.5.0-x86_64-unknown-linux-musl.tar.gz
+4b4b2bb343c30892230aa6906e91d8adb1148da26ddcaf46ce3ae85682476b6e wenmoon_0.5.0-1_amd64.deb
+2b6aad00624c3928b667b81b86fdd0a43dd091296b7f1b47f229ccbbfbcbd59d wenmoon-0.5.0-aarch64-pc-windows-msvc.zip

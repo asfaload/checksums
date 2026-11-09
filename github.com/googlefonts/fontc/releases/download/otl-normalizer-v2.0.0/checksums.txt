@@ -1,0 +1,9 @@
+1ed480c4a59550d2d8e208b5a1d4845945f508545fc1aeb6fe72d67a7bb8cc25  otl-normalizer-aarch64-apple-darwin.tar.gz
+199e6ca3362a2653d3279187337368258fdb0521ec2667f04d73b47f3c5ccfa9  otl-normalizer-aarch64-unknown-linux-gnu.tar.gz
+e35a06013285d0f8f80e31f2fbfb1a6de3fa36b02e1b29d23c8e6ade4fec114d  otl-normalizer-aarch64-unknown-linux-musl.tar.gz
+87bd6330cc4d05fa9f470a618ff74857999a659906649e9344b9f2fd3de1c0f8  otl-normalizer-x86_64-apple-darwin.tar.gz
+495e30622836ba9ce7015178a63d1ce0cc1ab7eb08b4b3e86423bb1bf4c509e8  otl-normalizer-x86_64-unknown-linux-gnu.tar.gz
+78f27cc478c90ad228ff080823dae794c0adc0ab2bb4cdb3b1270b5c92a6825b  otl-normalizer-x86_64-unknown-linux-musl.tar.gz
+00a86e0286221c86db58829745bdc65e65253809bbd628885093dbaf0e146add  otl-normalizer-i686-pc-windows-msvc.zip
+b509fc9b11011e4213555cb91b89fdaf24af71c2358d2fcba750aab81810db7f  otl-normalizer-x86_64-pc-windows-msvc.zip
+0549205bcf6a1d35aa22c0faee1a42ad0cbdf0960d70bd6083f9dcda64f87ba1  requirements.txt

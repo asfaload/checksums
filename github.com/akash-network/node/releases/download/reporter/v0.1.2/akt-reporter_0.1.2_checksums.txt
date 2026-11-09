@@ -1,0 +1,6 @@
+33f17c15218b212559cdd80926e98fe5d443c6f3c30ff4c8b50eec4ca64cd1a7  akt-reporter_0.1.2_linux_amd64.tar.gz
+8546deb072eb72ba73c8e89526d469e5f82123a7252522a85bcc7dc6262aab48  ./akt-reporter-broadcast.yaml
+13f1f5d0b28554bcd50965b48870c786b8e6f0b9cb3e5ca99219e56e14033d06  ./akt-reporter-compose.yaml
+b80a349cf9bbadd0ba169e98190e23c6296f2e3fcda03756ad8c38fa43b881af  ./config.yaml
+b37d7e0c698db139a00e7d42bb8b597cb27cb1f6f38b2edb381888aab5c43ae5  ./akt-reporter.env.example
+e76db3bf749f515c0e7935d956b960e148900da724c60112bfa2bdc6ff2cb3cc  ./akt-reporter-config.example.json

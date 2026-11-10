@@ -1,0 +1,51 @@
+# ===================================================================
+#                      NOTHING ARCHIVE FIRMWARE
+# ===================================================================
+#  Model:        Galaxian
+#  Build:        Galaxian_B4.1-261029-1756
+#  Source:       https://github.com/spike0en/nothing_archive
+#  Webpage:      https://nothingarchive.tech
+# ===================================================================
+#  Notice:
+#  Firmware images are property of Nothing Technology Limited (OEM).
+#  OTA payload extraction, incremental update patching, partition
+#  image generation, and archiving provided by Nothing Archive.
+#  If redistributing or repacking these partition images, please
+#  retain this notice to credit the project.
+# ===================================================================
+
+0c98c9362723cfb1bc0389c2ebcc81c3aff5914c1bb64c75bc09d011e719f556 *./apusys.img
+81ab6c01a5b617637468f07de360834fc18457db761f1282fcd540df5e9bda34 *./boot.img
+c45809cf0cbb6dd1f8eae078c78d3bc39af67340321a2d9bcd4663f0d17a86e3 *./ccu.img
+7a1358bebbb55b6098dd922fc18b84fc95515892c84dc0a9c7a40ff414305e13 *./connsys_bt.img
+f62ccbe3b11ea4c530dc3f1531306c77f41c71b8383dff1d03cf99dda9119709 *./connsys_gnss.img
+cc3a7fd4b1bdae1fc38413413b836fc3b5386ead1b54b5bef9dc8a8cd1aa8334 *./connsys_wifi.img
+0ef0ce3c855a58ce55b7c11533147ac4a903a30a3fc85dca9f7e977439af17f4 *./dpm.img
+d11e3e592d1803ad42758d06d26b6f752a278be2889c12d1cdbf341d7a696b53 *./dtbo.img
+8feb033a2312c9ae89e5d54f3a959827c72e9230c4f0763885d00b1af7c40155 *./gpueb.img
+795f3c304bb1e231f264040bfd32bc967a9ddd4a5ea05ce22a3acbe0a4fadc43 *./gz.img
+e3795ccb03371c707e2d22511a8ca0ea13e336f2b08ad45b2d69eec850ad7b4d *./init_boot.img
+3af2455b07cfadf0b0ada259e1665973d1702c4e8d61680f3c907bab563b2942 *./lk.img
+55cd2b97f8301148fb3fc49d8cf721cfb5e924d9895bb6f0e34031614150dc59 *./logo.img
+8177da10dcad6da670186bf94782f674a92db1d1c92519ccb19f2b2176b9f91b *./mcf_ota.img
+fa16592ddc12f5fc8ad8fe8f45ed591d8d20c8d76eed16a765d54da70573fca0 *./mcupm.img
+02e61a17f98552f17c71951d6d972887811f6fde9170598df1f0a3618b86252f *./modem.img
+abe4473aacd36dbc2c3b3a701745d80de4135d4e5e55d416bf2d6f60630dfd3c *./odm.img
+386841f217e3d203f7ea351f213ac7229cb720191d85b4bcdfd24094474f7306 *./odm_dlkm.img
+ace2e8033c70a88fafac10d0d6a5ff15ee307c933c5ae779f48d0f87ff7d6499 *./pi_img.img
+7627b9a5f258ba69d223302dd887637a952279e563add92cb2eb234eb51e2c01 *./preloader_raw.img
+ddccec73bf23065abf97418cd7e8b5ce253b44d3ef1b9760d5335a6e5651abab *./product.img
+c94b004365172b1acbaa37a29c4c1147d9fb466c5ec1a1df6830dbdee21bb879 *./scp.img
+1c5c8d65a1362b82199328bbd8c0eed8949aac5d5d7600ac82855550dc0d2d6c *./spmfw.img
+f1c0785fab84f60604f254c8926c461a17e9079dccd6fd0d9b65d873a53490bf *./sspm.img
+d6994e314b829dede100d02c286ea85d2d1ce4eefce89f7b3a9e4aba82120002 *./system.img
+52ef306d006b503aacbf067cbee229e60d84da32946a7d0da6ca3783c03139b9 *./system_dlkm.img
+b773076436a80b38ecbce0cc1c2ea4cd8b3c0ee643177eb3cf6e61ec3ea41319 *./system_ext.img
+2a802886974fced5d0a8f22d750187d827c906db6ee6923771505b3ceb35306e *./tee.img
+1144c3cd510de154ee1f200b968f578504882dcf7d1245160883ae8ae90d55eb *./vbmeta.img
+92155c11c71f64cb1c13ebc31b842df97babe83125c6acdcca4507f9d94f7ad9 *./vbmeta_system.img
+86162a381a15e227511a45146eba74b028251c0c24a72de49b259d78255f1987 *./vbmeta_vendor.img
+449a474bd06d463e40c57dc6e65390d719e3374259d2ba897c316fcece01ee0a *./vcp.img
+89162d6646fd7c31622604601ffd7f4c75a6bafe249ca9af74b330e2216e5ec8 *./vendor.img
+c51086947a9408bd4ec504e9e0dd73801f7bfda4fef755c9f320046583f3aa22 *./vendor_boot.img
+d7de136edd3c924a69e783ff2d3b1fec270b4c2619c5b35472e7df2c8e3e6e56 *./vendor_dlkm.img

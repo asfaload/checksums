@@ -1,0 +1,5 @@
+c904d3141dd0ec47990a195c5b7e3197e20d72bcd1ddc12a9e9be38ce13a71e8  akt-relayer_0.1.3_linux_amd64.tar.gz
+f80578b290cef9e6a4d5baf459862b5427fb33642b748f210d6ce83bee969aef  ./akt-relayer-compose.yaml
+b80a349cf9bbadd0ba169e98190e23c6296f2e3fcda03756ad8c38fa43b881af  ./config.yaml
+091bac84e154a008c368ab6c7eb02bdf92c719767adb54877fd31df2db219489  ./akt-relayer.env.example
+f703c9e26a2bb86e6898aaabe11d4dcc1d50c0dc14a30efb4b363aa5ae1b05d0  ./akt-relayer-config.example.json

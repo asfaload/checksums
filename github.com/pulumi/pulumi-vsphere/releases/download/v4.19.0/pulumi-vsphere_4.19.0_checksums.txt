@@ -1,0 +1,6 @@
+bb6f3b8bc9272c1c7314b7c952bc088890e959c6  ./pulumi-resource-vsphere-v4.19.0-darwin-amd64.tar.gz
+e6eccb978ee4d1dbfd7f1e2b64e02dccc0d021f3  ./pulumi-resource-vsphere-v4.19.0-darwin-arm64.tar.gz
+1ce3ccdda81664dad9bbbac968df55e7cf4179b6  ./pulumi-resource-vsphere-v4.19.0-linux-amd64.tar.gz
+a46482ac3681ccd6b579752baee55e0bf6f38de3  ./pulumi-resource-vsphere-v4.19.0-linux-arm64.tar.gz
+392ef432702f7958cdff0ba62b28e71dc644a7b3  ./pulumi-resource-vsphere-v4.19.0-windows-amd64.tar.gz
+c895a243baaab9dd093fe2182ac93d56dcd17c2f  ./pulumi-resource-vsphere-v4.19.0-windows-arm64.tar.gz

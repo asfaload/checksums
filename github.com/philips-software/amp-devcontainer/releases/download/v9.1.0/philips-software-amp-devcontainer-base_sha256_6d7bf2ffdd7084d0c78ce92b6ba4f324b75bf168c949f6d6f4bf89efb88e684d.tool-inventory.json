@@ -1,0 +1,77 @@
+{
+  "flavor": "amp-devcontainer-base",
+  "tools": [
+    {
+      "name": "bats",
+      "version": "1.14.0",
+      "commands": [
+        "bats"
+      ],
+      "files": [],
+      "purl": "pkg:npm/bats@1.14.0"
+    },
+    {
+      "name": "bats-assert",
+      "version": "2.2.4",
+      "commands": [],
+      "files": [
+        "/usr/local/bats-assert/load.bash"
+      ],
+      "purl": "pkg:npm/bats-assert@2.2.4"
+    },
+    {
+      "name": "bats-support",
+      "version": "0.3.0",
+      "commands": [],
+      "files": [
+        "/usr/local/bats-support/load.bash"
+      ],
+      "purl": "pkg:npm/bats-support@0.3.0"
+    },
+    {
+      "name": "bats-tool-inventory",
+      "version": "1.0.0",
+      "commands": [],
+      "files": [
+        "/usr/local/bats-tool-inventory/load.bash"
+      ],
+      "purl": "pkg:npm/bats-tool-inventory@1.0.0"
+    },
+    {
+      "name": "gh",
+      "version": "2.103.3",
+      "commands": [
+        "gh"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/gh@2.103.3?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "git",
+      "version": "1:2.53.0-1ubuntu1.1",
+      "commands": [
+        "git"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/git@1%3A2.53.0-1ubuntu1.1?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "gnupg2",
+      "version": "2.4.8-4ubuntu3.1",
+      "commands": [
+        "gpg"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/gnupg2@2.4.8-4ubuntu3.1?arch=all&distro=ubuntu-26.04"
+    },
+    {
+      "name": "wget",
+      "version": "1.25.0-2ubuntu4.4",
+      "commands": [
+        "wget"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/wget@1.25.0-2ubuntu4.4?arch=amd64&distro=ubuntu-26.04"
+    }
+  ]
+}

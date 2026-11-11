@@ -1,0 +1,152 @@
+{
+  "flavor": "amp-devcontainer-rust",
+  "tools": [
+    {
+      "name": "bats",
+      "version": "1.14.0",
+      "commands": [
+        "bats"
+      ],
+      "files": [],
+      "purl": "pkg:npm/bats@1.14.0"
+    },
+    {
+      "name": "bats-assert",
+      "version": "2.2.4",
+      "commands": [],
+      "files": [
+        "/usr/local/bats-assert/load.bash"
+      ],
+      "purl": "pkg:npm/bats-assert@2.2.4"
+    },
+    {
+      "name": "bats-support",
+      "version": "0.3.0",
+      "commands": [],
+      "files": [
+        "/usr/local/bats-support/load.bash"
+      ],
+      "purl": "pkg:npm/bats-support@0.3.0"
+    },
+    {
+      "name": "bats-tool-inventory",
+      "version": "1.0.0",
+      "commands": [],
+      "files": [
+        "/usr/local/bats-tool-inventory/load.bash"
+      ],
+      "purl": "pkg:npm/bats-tool-inventory@1.0.0"
+    },
+    {
+      "name": "cargo-binstall",
+      "version": "1.21.0",
+      "commands": [
+        "cargo-binstall"
+      ],
+      "files": [],
+      "purl": "pkg:generic/cargo-binstall@1.21.0"
+    },
+    {
+      "name": "cargo-binutils",
+      "version": "0.3.6",
+      "commands": [
+        "rust-ar",
+        "cargo-cov",
+        "cargo-nm",
+        "cargo-objcopy",
+        "cargo-objdump",
+        "cargo-profdata",
+        "cargo-readobj",
+        "cargo-size",
+        "cargo-strip"
+      ],
+      "files": [],
+      "purl": "pkg:generic/cargo-binutils@0.3.6"
+    },
+    {
+      "name": "cargo-mutants",
+      "version": "25.3.1",
+      "commands": [
+        "cargo-mutants"
+      ],
+      "files": [],
+      "purl": "pkg:generic/cargo-mutants@25.3.1"
+    },
+    {
+      "name": "g++-15",
+      "version": "15.2.0-16ubuntu1",
+      "commands": [
+        "g++-15"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/g%2B%2B-15@15.2.0-16ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=gcc-15"
+    },
+    {
+      "name": "gdb-multiarch",
+      "version": "17.1-2ubuntu1",
+      "commands": [
+        "gdb",
+        "gdb-multiarch"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/gdb-multiarch@17.1-2ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=gdb"
+    },
+    {
+      "name": "gh",
+      "version": "2.103.3",
+      "commands": [
+        "gh"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/gh@2.103.3?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "git",
+      "version": "1:2.53.0-1ubuntu1.1",
+      "commands": [
+        "git"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/git@1%3A2.53.0-1ubuntu1.1?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "gnupg2",
+      "version": "2.4.8-4ubuntu3.1",
+      "commands": [
+        "gpg"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/gnupg2@2.4.8-4ubuntu3.1?arch=all&distro=ubuntu-26.04"
+    },
+    {
+      "name": "rust",
+      "version": "1.94.1",
+      "commands": [
+        "rustc",
+        "cargo",
+        "rustfmt",
+        "cargo-clippy"
+      ],
+      "files": [],
+      "purl": "pkg:generic/rust@1.94.1"
+    },
+    {
+      "name": "rustup",
+      "version": "1.27.1-8",
+      "commands": [
+        "rustup"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/rustup@1.27.1-8?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "wget",
+      "version": "1.25.0-2ubuntu4.4",
+      "commands": [
+        "wget"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/wget@1.25.0-2ubuntu4.4?arch=amd64&distro=ubuntu-26.04"
+    }
+  ]
+}

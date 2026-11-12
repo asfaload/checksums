@@ -1,0 +1,4 @@
+fd35c2f94016e59958aeceb42627091c305905fabb8c1288453114357661ff8d  linux-headers-7.4.0-rc2-mainline_20261112-1_amd64.deb
+db0a46d48ece1b23a9b7453699c75c5c7d1eecad24d2b50b01e6fc611eaefdfb  linux-image-7.4.0-rc2-mainline_20261112-1_amd64.deb
+322d5db2eb1874fd9625b21be01163683d114234dafd9ccf87c4bfb2bfd76ad2  linux-libc-dev_20261112-1_amd64.deb
+dd325050ed9afc4fac20b7be3ea6dde262cb04ad595a20c12aed1e35e035f7d9  ../linux-7.4-rc2-mainline.tar.gz

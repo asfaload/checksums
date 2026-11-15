@@ -1,0 +1,4 @@
+windows: 2f501343b7bfc80203e28e0de7b370ed46c5c1b1baf65eec07794a40133222c3  ./windows-v12.2.1/workloader.exe
+mac: dbf03dbd3d17e2ff78113118312d1461b27adae0dea9b385a7bb47ade2f333a6  ./mac-v12.2.1/workloader
+linux amd64: 071e997b9e4dd22841938864d0a8d4d7bb139fc49a2711ec6145eed544ae95cd  ./linux_amd64-v12.2.1/workloader
+linux arm: 4064db3aa9efd67cb6d1e2879f6397112d3c322a10078ecdc0ec2bd948d0d08f  ./linux_arm-v12.2.1/workloader

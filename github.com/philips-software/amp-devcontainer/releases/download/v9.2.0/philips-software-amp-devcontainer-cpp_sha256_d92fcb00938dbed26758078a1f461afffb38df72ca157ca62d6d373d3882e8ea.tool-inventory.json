@@ -1,0 +1,237 @@
+{
+  "flavor": "amp-devcontainer-cpp",
+  "tools": [
+    {
+      "name": "bats",
+      "version": "1.14.0",
+      "commands": [
+        "bats"
+      ],
+      "files": [],
+      "purl": "pkg:npm/bats@1.14.0"
+    },
+    {
+      "name": "bats-assert",
+      "version": "2.2.4",
+      "commands": [],
+      "files": [
+        "/usr/local/bats-assert/load.bash"
+      ],
+      "purl": "pkg:npm/bats-assert@2.2.4"
+    },
+    {
+      "name": "bats-support",
+      "version": "0.3.0",
+      "commands": [],
+      "files": [
+        "/usr/local/bats-support/load.bash"
+      ],
+      "purl": "pkg:npm/bats-support@0.3.0"
+    },
+    {
+      "name": "bats-tool-inventory",
+      "version": "1.0.0",
+      "commands": [],
+      "files": [
+        "/usr/local/bats-tool-inventory/load.bash"
+      ],
+      "purl": "pkg:npm/bats-tool-inventory@1.0.0"
+    },
+    {
+      "name": "ccache",
+      "version": "4.13.1",
+      "commands": [
+        "ccache"
+      ],
+      "files": [],
+      "purl": "pkg:generic/ccache@4.13.1"
+    },
+    {
+      "name": "clang-23",
+      "version": "1:23.1.6~++20261116013916+5b10d2d74929-1~exp1~20261116133927.96",
+      "commands": [
+        "clang",
+        "clang++",
+        "clang-cpp"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/clang-23@1%3A23.1.6~%2B%2B20261116013916%2B5b10d2d74929-1~exp1~20261116133927.96?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-23"
+    },
+    {
+      "name": "clang-format-23",
+      "version": "1:23.1.6~++20261116013916+5b10d2d74929-1~exp1~20261116133927.96",
+      "commands": [
+        "clang-format-23"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/clang-format-23@1%3A23.1.6~%2B%2B20261116013916%2B5b10d2d74929-1~exp1~20261116133927.96?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-23"
+    },
+    {
+      "name": "clang-tidy-23",
+      "version": "1:23.1.6~++20261116013916+5b10d2d74929-1~exp1~20261116133927.96",
+      "commands": [
+        "clang-tidy-23"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/clang-tidy-23@1%3A23.1.6~%2B%2B20261116013916%2B5b10d2d74929-1~exp1~20261116133927.96?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-23"
+    },
+    {
+      "name": "clang-tools-23",
+      "version": "1:23.1.6~++20261116013916+5b10d2d74929-1~exp1~20261116133927.96",
+      "commands": [
+        "clang-check",
+        "clang-doc",
+        "clang-include-cleaner",
+        "clang-move",
+        "clang-query",
+        "clang-refactor"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/clang-tools-23@1%3A23.1.6~%2B%2B20261116013916%2B5b10d2d74929-1~exp1~20261116133927.96?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-23"
+    },
+    {
+      "name": "clangd-23",
+      "version": "1:23.1.6~++20261116013916+5b10d2d74929-1~exp1~20261116133927.96",
+      "commands": [
+        "clangd-23"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/clangd-23@1%3A23.1.6~%2B%2B20261116013916%2B5b10d2d74929-1~exp1~20261116133927.96?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-23"
+    },
+    {
+      "name": "cmake",
+      "version": "4.4.4",
+      "commands": [
+        "cmake"
+      ],
+      "files": [],
+      "purl": "pkg:pypi/cmake@4.4.4"
+    },
+    {
+      "name": "conan",
+      "version": "2.34.0",
+      "commands": [
+        "conan"
+      ],
+      "files": [],
+      "purl": "pkg:pypi/conan@2.34.0"
+    },
+    {
+      "name": "g++-15",
+      "version": "15.2.0-16ubuntu1",
+      "commands": [
+        "g++-15"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/g%2B%2B-15@15.2.0-16ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=gcc-15"
+    },
+    {
+      "name": "gcovr",
+      "version": "8.8",
+      "commands": [
+        "gcovr"
+      ],
+      "files": [],
+      "purl": "pkg:pypi/gcovr@8.8"
+    },
+    {
+      "name": "gdb-multiarch",
+      "version": "17.1-2ubuntu1",
+      "commands": [
+        "gdb",
+        "gdb-multiarch"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/gdb-multiarch@17.1-2ubuntu1?arch=amd64&distro=ubuntu-26.04&upstream=gdb"
+    },
+    {
+      "name": "gh",
+      "version": "2.105.0",
+      "commands": [
+        "gh"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/gh@2.105.0?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "git",
+      "version": "1:2.53.0-1ubuntu1.1",
+      "commands": [
+        "git"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/git@1%3A2.53.0-1ubuntu1.1?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "gnupg2",
+      "version": "2.4.8-4ubuntu3.1",
+      "commands": [
+        "gpg"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/gnupg2@2.4.8-4ubuntu3.1?arch=all&distro=ubuntu-26.04"
+    },
+    {
+      "name": "include-what-you-use",
+      "version": "0.27",
+      "commands": [
+        "iwyu"
+      ],
+      "files": [],
+      "purl": "pkg:generic/include-what-you-use@0.27"
+    },
+    {
+      "name": "lld-23",
+      "version": "1:23.1.6~++20261116013916+5b10d2d74929-1~exp1~20261116133927.96",
+      "commands": [
+        "ld.lld"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/lld-23@1%3A23.1.6~%2B%2B20261116013916%2B5b10d2d74929-1~exp1~20261116133927.96?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-23"
+    },
+    {
+      "name": "llvm-23",
+      "version": "1:23.1.6~++20261116013916+5b10d2d74929-1~exp1~20261116133927.96",
+      "commands": [
+        "llvm-ar",
+        "llvm-as",
+        "llvm-cxxfilt",
+        "llvm-cov",
+        "llvm-link",
+        "llvm-nm",
+        "llvm-objcopy",
+        "llvm-objdump",
+        "llvm-readelf"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/llvm-23@1%3A23.1.6~%2B%2B20261116013916%2B5b10d2d74929-1~exp1~20261116133927.96?arch=amd64&distro=ubuntu-26.04&upstream=llvm-toolchain-23"
+    },
+    {
+      "name": "ninja-build",
+      "version": "1.13.2-1",
+      "commands": [
+        "ninja"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/ninja-build@1.13.2-1?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "wget",
+      "version": "1.25.0-2ubuntu4.4",
+      "commands": [
+        "wget"
+      ],
+      "files": [],
+      "purl": "pkg:deb/ubuntu/wget@1.25.0-2ubuntu4.4?arch=amd64&distro=ubuntu-26.04"
+    },
+    {
+      "name": "xwin",
+      "version": "0.10.0",
+      "commands": [
+        "xwin"
+      ],
+      "files": [],
+      "purl": "pkg:generic/xwin@0.10.0"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+a7f4ef887a84b6ad5661e680ef33ee1e496ad277  ./pulumi-resource-linode-v6.10.0-darwin-amd64.tar.gz
+ed663b43a8e71614ab72c4ca2175b50d82cbf501  ./pulumi-resource-linode-v6.10.0-darwin-arm64.tar.gz
+cc0f2ad84072e36a9c01d15f0c65f443e1221fed  ./pulumi-resource-linode-v6.10.0-linux-amd64.tar.gz
+1d613cd22c68ee72b91e138330f760a44522b2b3  ./pulumi-resource-linode-v6.10.0-linux-arm64.tar.gz
+8c542e2a31dda631d639d56e80ec5564bbce5e8f  ./pulumi-resource-linode-v6.10.0-windows-amd64.tar.gz
+acf58c0aae3e8870db490f8067a6c302399a400d  ./pulumi-resource-linode-v6.10.0-windows-arm64.tar.gz

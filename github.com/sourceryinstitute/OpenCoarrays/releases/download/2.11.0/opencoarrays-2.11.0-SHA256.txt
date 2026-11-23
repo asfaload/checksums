@@ -1,0 +1,3 @@
+# To verify cryptographic checksums `shasum -c opencoarrays-2.11.0-SHA256.txt` on Mac OS X, or
+# `sha256sum -c  opencoarrays-2.11.0-SHA256.txt` on Linux.
+854d2968fdc4a890c63a44bac075699f66918ddd8c76ab7ab7023ff84511f391  OpenCoarrays-2.11.0.tar.gz
